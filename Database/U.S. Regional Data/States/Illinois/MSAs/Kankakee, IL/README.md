@@ -26,8 +26,8 @@
 | KANK117INFON              | All Employees: Information in Kankakee, IL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | KANK117LEIH               | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | KANK117LEIHN              | All Employees: Leisure and Hospitality in Kankakee, IL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| KANK117LF                 | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| KANK117LFN                | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| KANK117LF                 | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| KANK117LFN                | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | KANK117MFG                | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | KANK117MFGN               | All Employees: Manufacturing in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | KANK117NA                 | All Employees: Total Nonfarm in Kankakee, IL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -41,13 +41,13 @@
 | KANK117SRVON              | All Employees: Other Services in Kankakee, IL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | KANK117TRAD               | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | KANK117TRADN              | All Employees: Trade, Transportation, and Utilities in Kankakee, IL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| KANK117UR                 | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| KANK117URN                | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| KANK117UR                 | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| KANK117URN                | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | KANPOP                    | Resident Population in Kankakee, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT172810000000003A     | Unemployment Rate in Kankakee, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT172810000000004      | Unemployed Persons in Kankakee, IL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT172810000000004      | Unemployed Persons in Kankakee, IL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT172810000000004A     | Unemployed Persons in Kankakee, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT172810000000005      | Employed Persons in Kankakee, IL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT172810000000005      | Employed Persons in Kankakee, IL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT172810000000005A     | Employed Persons in Kankakee, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT172810000000006A     | Civilian Labor Force in Kankakee, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR28100          | Housing Inventory: Median Days on Market in Kankakee, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |

@@ -26,9 +26,9 @@
 | HOSCMSA39540              | Market Hotness: Hotness Score in Racine, WI (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD39540                 | Implicit Regional Price Deflator for Racine, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT553954000000003A     | Unemployment Rate in Racine, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT553954000000004      | Unemployed Persons in Racine, WI (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT553954000000004      | Unemployed Persons in Racine, WI (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT553954000000004A     | Unemployed Persons in Racine, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT553954000000005      | Employed Persons in Racine, WI (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT553954000000005      | Employed Persons in Racine, WI (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT553954000000005A     | Employed Persons in Racine, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT553954000000006A     | Civilian Labor Force in Racine, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA39540          | Market Hotness: Listing Views per Property in Racine, WI (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -82,8 +82,8 @@
 | RACI555INFON              | All Employees: Information in Racine, WI (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | RACI555LEIH               | All Employees: Leisure and Hospitality in Racine, WI (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | RACI555LEIHN              | All Employees: Leisure and Hospitality in Racine, WI (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| RACI555LF                 | Civilian Labor Force in Racine, WI (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| RACI555LFN                | Civilian Labor Force in Racine, WI (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| RACI555LF                 | Civilian Labor Force in Racine, WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| RACI555LFN                | Civilian Labor Force in Racine, WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | RACI555MFG                | All Employees: Manufacturing in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | RACI555MFGN               | All Employees: Manufacturing in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | RACI555NA                 | All Employees: Total Nonfarm in Racine, WI (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -97,8 +97,8 @@
 | RACI555SRVON              | All Employees: Other Services in Racine, WI (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | RACI555TRAD               | All Employees: Trade, Transportation, and Utilities in Racine, WI (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | RACI555TRADN              | All Employees: Trade, Transportation, and Utilities in Racine, WI (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| RACI555UR                 | Unemployment Rate in Racine, WI (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| RACI555URN                | Unemployment Rate in Racine, WI (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| RACI555UR                 | Unemployment Rate in Racine, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| RACI555URN                | Unemployment Rate in Racine, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | RACPOP                    | Resident Population in Racine, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | RGMP39540                 | Total Real Gross Domestic Product for Racine, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI39540                  | Real Personal Income for Racine, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

@@ -16,13 +16,13 @@
 | HMSP912PCPI            | Per Capita Personal Income in Homosassa Springs, FL (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | HOMPOP                 | Resident Population in Homosassa Springs, FL (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | IRPD26140              | Implicit Regional Price Deflator for Homosassa Springs, FL (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT122614000000003   | Unemployment Rate in Homosassa Springs, FL (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| LAUMT122614000000003   | Unemployment Rate in Homosassa Springs, FL (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | LAUMT122614000000003A  | Unemployment Rate in Homosassa Springs, FL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT122614000000004   | Unemployed Persons in Homosassa Springs, FL (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT122614000000004   | Unemployed Persons in Homosassa Springs, FL (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT122614000000004A  | Unemployed Persons in Homosassa Springs, FL (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT122614000000005   | Employed Persons in Homosassa Springs, FL (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT122614000000005   | Employed Persons in Homosassa Springs, FL (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT122614000000005A  | Employed Persons in Homosassa Springs, FL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT122614000000006   | Civilian Labor Force in Homosassa Springs, FL (MSA)                                                    | 1990-01-01          | 2022-07-01        |
+| LAUMT122614000000006   | Civilian Labor Force in Homosassa Springs, FL (MSA)                                                    | 1990-01-01          | 2022-08-01        |
 | LAUMT122614000000006A  | Civilian Labor Force in Homosassa Springs, FL (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP26140              | Total Gross Domestic Product for Homosassa Springs, FL (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP26140              | Total Quantity Indexes for Real GDP for Homosassa Springs, FL (MSA)                                    | 2001-01-01          | 2020-01-01        |

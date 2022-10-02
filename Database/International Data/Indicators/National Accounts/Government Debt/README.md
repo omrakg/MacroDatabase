@@ -323,13 +323,13 @@
 | DDEI08ZMA156NWDB | Credit to Government and State-Owned Enterprises to GDP for Zambia                                    | 2001-01-01          | 2019-01-01        |
 | DEBTTLALA188A    | Central government debt, total (% of GDP) for Albania                                                 | 1995-01-01          | 2020-01-01        |
 | DEBTTLATA188A    | Central government debt, total (% of GDP) for Austria                                                 | 1999-01-01          | 2020-01-01        |
-| DEBTTLAUA188A    | Central government debt, total (% of GDP) for Australia                                               | 1990-01-01          | 2016-01-01        |
+| DEBTTLAUA188A    | Central government debt, total (% of GDP) for Australia                                               | 1990-01-01          | 2020-01-01        |
 | DEBTTLBBA188A    | Central government debt, total (% of GDP) for Barbados                                                | 2005-01-01          | 2016-01-01        |
 | DEBTTLBDA188A    | Central government debt, total (% of GDP) for Bangladesh                                              | 2001-01-01          | 2003-01-01        |
 | DEBTTLBEA188A    | Central government debt, total (% of GDP) for Belgium                                                 | 1995-01-01          | 2020-01-01        |
 | DEBTTLBHA188A    | Central government debt, total (% of GDP) for Bahrain                                                 | 1990-01-01          | 2004-01-01        |
 | DEBTTLBIA188A    | Central government debt, total (% of GDP) for Burundi                                                 | 1991-01-01          | 1999-01-01        |
-| DEBTTLBRA188A    | Central government debt, total (% of GDP) for Brazil                                                  | 2006-01-01          | 2016-01-01        |
+| DEBTTLBRA188A    | Central government debt, total (% of GDP) for Brazil                                                  | 2010-01-01          | 2020-01-01        |
 | DEBTTLBSA188A    | Central government debt, total (% of GDP) for the Bahamas                                             | 1990-01-01          | 2020-01-01        |
 | DEBTTLBTA188A    | Central government debt, total (% of GDP) for Bhutan                                                  | 1990-01-01          | 2020-01-01        |
 | DEBTTLBWA188A    | Central government debt, total (% of GDP) for Botswana                                                | 1990-01-01          | 2020-01-01        |
@@ -345,16 +345,16 @@
 | DEBTTLCOA188A    | Central government debt, total (% of GDP) for Colombia                                                | 1998-01-01          | 2020-01-01        |
 | DEBTTLCYA188A    | Central government debt, total (% of GDP) for Cyprus                                                  | 1990-01-01          | 1994-01-01        |
 | DEBTTLCZA188A    | Central government debt, total (% of GDP) for the Czech Republic                                      | 1993-01-01          | 1994-01-01        |
-| DEBTTLDEA188A    | Central government debt, total (% of GDP) for Germany                                                 | 1990-01-01          | 1999-01-01        |
+| DEBTTLDEA188A    | Central government debt, total (% of GDP) for Germany                                                 | 1990-01-01          | 1990-01-01        |
 | DEBTTLDKA188A    | Central government debt, total (% of GDP) for Denmark                                                 | 1991-01-01          | 1994-01-01        |
 | DEBTTLEEA188A    | Central government debt, total (% of GDP) for Estonia                                                 | 1998-01-01          | 2015-01-01        |
 | DEBTTLEGA188A    | Central government debt, total (% of GDP) for the Arab Republic of Egypt                              | 2007-01-01          | 2007-01-01        |
 | DEBTTLESA188A    | Central government debt, total (% of GDP) for Spain                                                   | 1970-01-01          | 2020-01-01        |
-| DEBTTLETA188A    | Central government debt, total (% of GDP) for Ethiopia                                                | 1990-01-01          | 2013-01-01        |
+| DEBTTLETA188A    | Central government debt, total (% of GDP) for Ethiopia                                                | 1990-01-01          | 2019-01-01        |
 | DEBTTLFIA188A    | Central government debt, total (% of GDP) for Finland                                                 | 1990-01-01          | 1994-01-01        |
 | DEBTTLFJA188A    | Central government debt, total (% of GDP) for Fiji                                                    | 1991-01-01          | 1994-01-01        |
 | DEBTTLFRA188A    | Central government debt, total (% of GDP) for France                                                  | 1998-01-01          | 2020-01-01        |
-| DEBTTLGBA188A    | Central government debt, total (% of GDP) for the United Kingdom                                      | 1990-01-01          | 2016-01-01        |
+| DEBTTLGBA188A    | Central government debt, total (% of GDP) for the United Kingdom                                      | 1990-01-01          | 2020-01-01        |
 | DEBTTLGEA188A    | Central government debt, total (% of GDP) for Georgia                                                 | 1995-01-01          | 2020-01-01        |
 | DEBTTLGRA188A    | Central government debt, total (% of GDP) for Greece                                                  | 1997-01-01          | 2020-01-01        |
 | DEBTTLGTA188A    | Central government debt, total (% of GDP) for Guatemala                                               | 1990-01-01          | 2020-01-01        |
@@ -366,7 +366,7 @@
 | DEBTTLIRA188A    | Central government debt, total (% of GDP) for the Islamic Republic of Iran                            | 1998-01-01          | 1998-01-01        |
 | DEBTTLISA188A    | Central government debt, total (% of GDP) for Iceland                                                 | 1990-01-01          | 2020-01-01        |
 | DEBTTLITA188A    | Central government debt, total (% of GDP) for Italy                                                   | 1991-01-01          | 1992-01-01        |
-| DEBTTLJMA188A    | Central government debt, total (% of GDP) for Jamaica                                                 | 1990-01-01          | 2016-01-01        |
+| DEBTTLJMA188A    | Central government debt, total (% of GDP) for Jamaica                                                 | 1990-01-01          | 2020-01-01        |
 | DEBTTLJOA188A    | Central government debt, total (% of GDP) for Jordan                                                  | 1990-01-01          | 2020-01-01        |
 | DEBTTLJPA188A    | Central government debt, total (% of GDP) for Japan                                                   | 1990-01-01          | 2020-01-01        |
 | DEBTTLKEA188A    | Central government debt, total (% of GDP) for Kenya                                                   | 1998-01-01          | 1999-01-01        |
@@ -385,8 +385,8 @@
 | DEBTTLMMA188A    | Central government debt, total (% of GDP) for Myanmar                                                 | 2001-01-01          | 2002-01-01        |
 | DEBTTLMNA188A    | Central government debt, total (% of GDP) for Mongolia                                                | 1992-01-01          | 2020-01-01        |
 | DEBTTLMTA188A    | Central government debt, total (% of GDP) for Malta                                                   | 1990-01-01          | 1994-01-01        |
-| DEBTTLMUA188A    | Central government debt, total (% of GDP) for Mauritius                                               | 1990-01-01          | 2012-01-01        |
-| DEBTTLMVA188A    | Central government debt, total (% of GDP) for the Maldives                                            | 1990-01-01          | 2011-01-01        |
+| DEBTTLMUA188A    | Central government debt, total (% of GDP) for Mauritius                                               | 1990-01-01          | 2019-01-01        |
+| DEBTTLMVA188A    | Central government debt, total (% of GDP) for the Maldives                                            | 1990-01-01          | 2009-01-01        |
 | DEBTTLMXA188A    | Central government debt, total (% of GDP) for Mexico                                                  | 1990-01-01          | 2000-01-01        |
 | DEBTTLMYA188A    | Central government debt, total (% of GDP) for Malaysia                                                | 1990-01-01          | 2020-01-01        |
 | DEBTTLNGA188A    | Central government debt, total (% of GDP) for Nigeria                                                 | 2003-01-01          | 2013-01-01        |
@@ -414,18 +414,18 @@
 | DEBTTLSNA188A    | Central government debt, total (% of GDP) for Senegal                                                 | 1996-01-01          | 2001-01-01        |
 | DEBTTLSVA188A    | Central government debt, total (% of GDP) for El Salvador                                             | 1998-01-01          | 2020-01-01        |
 | DEBTTLSZA188A    | Central government debt, total (% of GDP) for Swaziland                                               | 1999-01-01          | 2012-01-01        |
-| DEBTTLTHA188A    | Central government debt, total (% of GDP) for Thailand                                                | 1990-01-01          | 2015-01-01        |
+| DEBTTLTHA188A    | Central government debt, total (% of GDP) for Thailand                                                | 1989-01-01          | 2020-01-01        |
 | DEBTTLTJA188A    | Central government debt, total (% of GDP) for Tajikistan                                              | 1999-01-01          | 2001-01-01        |
 | DEBTTLTNA188A    | Central government debt, total (% of GDP) for Tunisia                                                 | 1990-01-01          | 2012-01-01        |
 | DEBTTLTRA188A    | Central government debt, total (% of GDP) for Turkey                                                  | 1990-01-01          | 2020-01-01        |
 | DEBTTLTTA188A    | Central government debt, total (% of GDP) for Trinidad and Tobago                                     | 2006-01-01          | 2007-01-01        |
 | DEBTTLUAA188A    | Central government debt, total (% of GDP) for Ukraine                                                 | 1999-01-01          | 2020-01-01        |
-| DEBTTLUGA188A    | Central government debt, total (% of GDP) for Uganda                                                  | 2015-01-01          | 2015-01-01        |
+| DEBTTLUGA188A    | Central government debt, total (% of GDP) for Uganda                                                  | 2018-01-01          | 2020-01-01        |
 | DEBTTLUSA188A    | Central government debt, total (% of GDP) for the United States                                       | 1989-01-01          | 2020-01-01        |
 | DEBTTLUYA188A    | Central government debt, total (% of GDP) for Uruguay                                                 | 1990-01-01          | 2020-01-01        |
-| DEBTTLVCA188A    | Central government debt, total (% of GDP) for St. Vincent and the Grenadines                          | 1990-01-01          | 2014-01-01        |
+| DEBTTLVCA188A    | Central government debt, total (% of GDP) for St. Vincent and the Grenadines                          | 1990-01-01          | 2009-01-01        |
 | DEBTTLVUA188A    | Central government debt, total (% of GDP) for Vanuatu                                                 | 1990-01-01          | 1999-01-01        |
-| DEBTTLZAA188A    | Central government debt, total (% of GDP) for South Africa                                            | 1990-01-01          | 2008-01-01        |
+| DEBTTLZAA188A    | Central government debt, total (% of GDP) for South Africa                                            | 1990-01-01          | 2000-01-01        |
 | DEBTTLZMA188A    | Central government debt, total (% of GDP) for Zambia                                                  | 1990-01-01          | 2020-01-01        |
 | DEBTTLZWA188A    | Central government debt, total (% of GDP) for Zimbabwe                                                | 1990-01-01          | 1997-01-01        |
 | GCBALCASHGDZSAGO | Cash surplus/deficit (% of GDP) for Angola                                                            | 1999-01-01          | 2012-01-01        |
@@ -475,7 +475,7 @@
 | GCDODTOTLGDZSHIC | Central government debt, total (% of GDP) for High Income Countries                                   | 1990-01-01          | 2020-01-01        |
 | GCDODTOTLGDZSISR | Central government debt, total (% of GDP) for Israel                                                  | 1995-01-01          | 1999-01-01        |
 | GCDODTOTLGDZSLBN | Central government debt, total (% of GDP) for Lebanon                                                 | 1997-01-01          | 1999-01-01        |
-| GCDODTOTLGDZSNAM | Central government debt, total (% of GDP) for Namibia                                                 | 2008-01-01          | 2014-01-01        |
+| GCDODTOTLGDZSNAM | Central government debt, total (% of GDP) for Namibia                                                 | 2007-01-01          | 2019-01-01        |
 | GCDODTOTLGDZSOEC | Central government debt, total (% of GDP) for High Income OECD Countries                              | 1994-01-01          | 2013-01-01        |
 | GCDODTOTLGDZSOED | Central government debt, total (% of GDP) for OECD Members                                            | 1990-01-01          | 2020-01-01        |
 | GCDODTOTLGDZSOSS | Central government debt, total (% of GDP) for Other Small States                                      | 1990-01-01          | 1996-01-01        |

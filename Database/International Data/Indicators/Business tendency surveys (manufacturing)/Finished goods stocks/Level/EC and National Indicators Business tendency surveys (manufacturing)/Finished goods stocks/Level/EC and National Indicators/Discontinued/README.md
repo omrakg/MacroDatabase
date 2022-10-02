@@ -1,3 +1,2 @@
-| id              | title                                                                                                                                         | observation_start   | observation_end   |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BCEMFT02CNQ460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for China (DISCONTINUED) | 2000-01-01          | 2011-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

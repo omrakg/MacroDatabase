@@ -21,19 +21,19 @@
 | ENUC241440510SA           | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2022-01-01        |
 | GOLD137GOVT               | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | GOLD137GOVTN              | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-08-01        |
-| GOLD137LF                 | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| GOLD137LFN                | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| GOLD137LF                 | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| GOLD137LFN                | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | GOLD137NA                 | All Employees: Total Nonfarm in Goldsboro, NC (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | GOLD137NAN                | All Employees: Total Nonfarm in Goldsboro, NC (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | GOLD137PCPI               | Per Capita Personal Income in Goldsboro, NC (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| GOLD137UR                 | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| GOLD137URN                | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| GOLD137UR                 | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| GOLD137URN                | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | GROPOP                    | Resident Population in Goldsboro, NC (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | IRPD24140                 | Implicit Regional Price Deflator for Goldsboro, NC (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT372414000000003A     | Unemployment Rate in Goldsboro, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT372414000000004      | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT372414000000004      | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT372414000000004A     | Unemployed Persons in Goldsboro, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT372414000000005      | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT372414000000005      | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT372414000000005A     | Employed Persons in Goldsboro, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT372414000000006A     | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR24140          | Housing Inventory: Median Days on Market in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-08-01        |

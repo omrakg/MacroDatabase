@@ -25,10 +25,10 @@
 | HORAYYMSA29700            | Market Hotness: Hotness Rank in Laredo, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA29700              | Market Hotness: Hotness Score in Laredo, TX (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD29700                 | Implicit Regional Price Deflator for Laredo, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LARE748BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Laredo, TX (MSA)            | 1988-01-01          | 2022-07-01        |
-| LARE748BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Laredo, TX (MSA)            | 1988-01-01          | 2022-07-01        |
-| LARE748BPPRIV             | New Private Housing Units Authorized by Building Permits for Laredo, TX (MSA)                               | 1988-01-01          | 2022-07-01        |
-| LARE748BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Laredo, TX (MSA)                               | 1988-01-01          | 2022-07-01        |
+| LARE748BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Laredo, TX (MSA)            | 1988-01-01          | 2022-08-01        |
+| LARE748BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Laredo, TX (MSA)            | 1988-01-01          | 2022-08-01        |
+| LARE748BPPRIV             | New Private Housing Units Authorized by Building Permits for Laredo, TX (MSA)                               | 1988-01-01          | 2022-08-01        |
+| LARE748BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Laredo, TX (MSA)                               | 1988-01-01          | 2022-08-01        |
 | LARE748EDUH               | All Employees: Education and Health Services in Laredo, TX (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | LARE748EDUHN              | All Employees: Education and Health Services in Laredo, TX (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | LARE748FIRE               | All Employees: Financial Activities in Laredo, TX (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -39,8 +39,8 @@
 | LARE748INFON              | All Employees: Information in Laredo, TX (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | LARE748LEIH               | All Employees: Leisure and Hospitality in Laredo, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | LARE748LEIHN              | All Employees: Leisure and Hospitality in Laredo, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| LARE748LF                 | Civilian Labor Force in Laredo, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| LARE748LFN                | Civilian Labor Force in Laredo, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| LARE748LF                 | Civilian Labor Force in Laredo, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| LARE748LFN                | Civilian Labor Force in Laredo, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | LARE748MFG                | All Employees: Manufacturing in Laredo, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | LARE748MFGN               | All Employees: Manufacturing in Laredo, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | LARE748NA                 | All Employees: Total Nonfarm in Laredo, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -54,8 +54,8 @@
 | LARE748SRVON              | All Employees: Other Services in Laredo, TX (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | LARE748TRAD               | All Employees: Trade, Transportation, and Utilities in Laredo, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | LARE748TRADN              | All Employees: Trade, Transportation, and Utilities in Laredo, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| LARE748UR                 | Unemployment Rate in Laredo, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| LARE748URN                | Unemployment Rate in Laredo, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| LARE748UR                 | Unemployment Rate in Laredo, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| LARE748URN                | Unemployment Rate in Laredo, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | LAREDUHA158MFRBDAL        | Education and Health Services Payroll Employment for Laredo, TX (MSA)                                       | 1990-02-01          | 2022-07-01        |
 | LAREDUHA175MCFRBDAL       | Change in Education and Health Services Payroll Employment for Laredo, TX (MSA)                             | 1990-02-01          | 2022-08-01        |
 | LAREDUHA175MFRBDAL        | Education and Health Services Payroll Employment for Laredo, TX (MSA)                                       | 1990-01-01          | 2022-08-01        |
@@ -113,9 +113,9 @@
 | LARTTULA175MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                                | 1990-01-01          | 2022-08-01        |
 | LARTTULA674AFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for Laredo, TX (MSA)                                | 1991-01-01          | 2021-01-01        |
 | LAUMT482970000000003A     | Unemployment Rate in Laredo, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT482970000000004      | Unemployed Persons in Laredo, TX (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT482970000000004      | Unemployed Persons in Laredo, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT482970000000004A     | Unemployed Persons in Laredo, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT482970000000005      | Employed Persons in Laredo, TX (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT482970000000005      | Employed Persons in Laredo, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT482970000000005A     | Employed Persons in Laredo, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT482970000000006A     | Civilian Labor Force in Laredo, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA29700          | Market Hotness: Listing Views per Property in Laredo, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |

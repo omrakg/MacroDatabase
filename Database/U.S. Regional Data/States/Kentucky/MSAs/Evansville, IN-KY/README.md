@@ -30,8 +30,8 @@
 | EVNINFON                  | All Employees: Information in Evansville, IN-KY (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | EVNLEIH                   | All Employees: Leisure and Hospitality in Evansville, IN-KY (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | EVNLEIHN                  | All Employees: Leisure and Hospitality in Evansville, IN-KY (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| EVNLF                     | Civilian Labor Force in Evansville, IN-KY (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| EVNLFN                    | Civilian Labor Force in Evansville, IN-KY (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| EVNLF                     | Civilian Labor Force in Evansville, IN-KY (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| EVNLFN                    | Civilian Labor Force in Evansville, IN-KY (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | EVNMFG                    | All Employees: Manufacturing in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | EVNMFGN                   | All Employees: Manufacturing in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | EVNNA                     | All Employees: Total Nonfarm in Evansville, IN-KY (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -46,17 +46,17 @@
 | EVNSRVON                  | All Employees: Other Services in Evansville, IN-KY (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | EVNTRAD                   | All Employees: Trade, Transportation, and Utilities in Evansville, IN-KY (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | EVNTRADN                  | All Employees: Trade, Transportation, and Utilities in Evansville, IN-KY (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| EVNUR                     | Unemployment Rate in Evansville, IN-KY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| EVNURN                    | Unemployment Rate in Evansville, IN-KY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| EVNUR                     | Unemployment Rate in Evansville, IN-KY (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| EVNURN                    | Unemployment Rate in Evansville, IN-KY (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | HORAMMMSA21780            | Market Hotness: Hotness Rank in Evansville, IN-KY (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA21780              | Market Hotness: Hotness Rank in Evansville, IN-KY (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA21780            | Market Hotness: Hotness Rank in Evansville, IN-KY (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA21780              | Market Hotness: Hotness Score in Evansville, IN-KY (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD21780                 | Implicit Regional Price Deflator for Evansville, IN-KY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT182178000000003A     | Unemployment Rate in Evansville, IN-KY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT182178000000004      | Unemployed Persons in Evansville, IN-KY (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT182178000000004      | Unemployed Persons in Evansville, IN-KY (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT182178000000004A     | Unemployed Persons in Evansville, IN-KY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT182178000000005      | Employed Persons in Evansville, IN-KY (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT182178000000005      | Employed Persons in Evansville, IN-KY (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT182178000000005A     | Employed Persons in Evansville, IN-KY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT182178000000006A     | Civilian Labor Force in Evansville, IN-KY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA21780          | Market Hotness: Listing Views per Property in Evansville, IN-KY (CBSA)                                             | 2018-08-01          | 2022-08-01        |

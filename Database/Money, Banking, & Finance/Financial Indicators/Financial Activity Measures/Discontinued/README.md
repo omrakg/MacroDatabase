@@ -1,18 +1,14 @@
-| id                | title                                                                                                            | observation_start   | observation_end   |
-|-------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ABSSD678FRBCLE    | Contributions to the Cleveland Financial Stress Index: Asset-Backed Security Spread (DISCONTINUED)               | 1991-09-25          | 2016-05-05        |
-| BBSD678FRBCLE     | Contributions to the Cleveland Financial Stress Index: Bank Bond Spread (DISCONTINUED)                           | 1991-09-25          | 2016-05-05        |
-| CBSD678FRBCLE     | Contributions to the Cleveland Financial Stress Index: Corporate Bond Spread (DISCONTINUED)                      | 1991-09-25          | 2016-05-05        |
-| CFSI              | Cleveland Financial Stress Index (DISCONTINUED)                                                                  | 1991-09-25          | 2016-05-05        |
-| CISD678FRBCLE     | Contributions to the Cleveland Financial Stress Index: Covered Interest Spread (DISCONTINUED)                    | 1991-09-25          | 2016-05-05        |
-| CMBSSD678FRBCLE   | Contributions to the Cleveland Financial Stress Index: Commercial Mortgage-Backed Security Spread (DISCONTINUED) | 1991-09-25          | 2016-05-05        |
-| CMRKTSD678FRBCLE  | Contributions to the Cleveland Financial Stress Index: Credit Markets (DISCONTINUED)                             | 1991-09-25          | 2016-05-05        |
-| CPTBSD678FRBCLE   | Contributions to the Cleveland Financial Stress Index: Commercial Paper minus T-Bill Spread (DISCONTINUED)       | 1991-09-25          | 2016-05-05        |
-| CRESD678FRBCLE    | Contributions to the Cleveland Financial Stress Index: Commercial Real Estate Spread (DISCONTINUED)              | 1991-09-25          | 2016-05-05        |
-| EQMRKTSD678FRBCLE | Contributions to the Cleveland Financial Stress Index: Equity Markets (DISCONTINUED)                             | 1991-09-25          | 2016-05-05        |
-| FEMRKTSD678FRBCLE | Contributions to the Cleveland Financial Stress Index: Foreign Exchange Markets (DISCONTINUED)                   | 1991-09-25          | 2016-05-05        |
-| FINBETAD678FRBCLE | Contributions to the Cleveland Financial Stress Index: Financial Beta (DISCONTINUED)                             | 1991-09-25          | 2016-05-05        |
-| IBCOBD678FRBCLE   | Contributions to the Cleveland Financial Stress Index: Interbank Cost of Borrowing (DISCONTINUED)                | 1991-09-25          | 2016-05-05        |
-| IBLSD678FRBCLE    | Contributions to the Cleveland Financial Stress Index: Interbank Liquidity Spread (DISCONTINUED)                 | 1991-09-25          | 2016-05-05        |
-| IBMRKTSD678FRBCLE | Contributions to the Cleveland Financial Stress Index: Interbank or Funding Markets (DISCONTINUED)               | 1991-09-25          | 2016-05-05        |
-| LQTYSD678FRBCLE   | Contributions to the Cleveland Financial Stress Index: Liquidity Spread (DISCONTINUED)                           | 1991-09-25          | 2016-05-05        |
+| id              | title                                                                                                                                                   | observation_start   | observation_end   |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CSCICP02CAA661N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Canada (DISCONTINUED)            | 2002-01-01          | 2014-01-01        |
+| CSCICP02CAM661N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Canada (DISCONTINUED)            | 2002-01-01          | 2014-12-01        |
+| CSCICP02CAQ661N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Canada (DISCONTINUED)            | 1980-01-01          | 2014-10-01        |
+| CSCICP02MXA066N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Mexico (DISCONTINUED)            | 2002-01-01          | 2012-01-01        |
+| CSCICP02MXM066N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for Mexico (DISCONTINUED)            | 2001-04-01          | 2013-08-01        |
+| CSCICP02NZQ665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for New Zealand (DISCONTINUED)       | 1988-04-01          | 2015-07-01        |
+| CSCICP02USM661S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for the United States (DISCONTINUED) | 1978-01-01          | 2013-08-01        |
+| CSCICP02ZAQ460N | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: European Commission and National Indicators for South Africa (DISCONTINUED)      | 1990-01-01          | 2013-04-01        |
+| CSCICP03CAM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for Canada (DISCONTINUED)                                         | 1980-01-01          | 2017-12-01        |
+| CSCICP03G7M665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Group of Seven (DISCONTINUED)                             | 1973-01-01          | 2017-11-01        |
+| CSCICP03O1M665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD Total Area (DISCONTINUED)                            | 1974-01-01          | 2017-11-01        |
+| CSCICP03OEM665S | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the OECD Europe (DISCONTINUED)                                | 1974-01-01          | 2017-11-01        |

@@ -5,15 +5,15 @@
 | ACTLISCOUYY10780          | Housing Inventory: Active Listing Count Year-Over-Year in Alexandria, LA (CBSA)                   | 2017-07-01          | 2022-08-01        |
 | ALEX722GOVT               | All Employees: Government in Alexandria, LA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | ALEX722GOVTN              | All Employees: Government in Alexandria, LA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
-| ALEX722LF                 | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| ALEX722LFN                | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| ALEX722LF                 | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| ALEX722LFN                | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | ALEX722NA                 | All Employees: Total Nonfarm in Alexandria, LA (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | ALEX722NAN                | All Employees: Total Nonfarm in Alexandria, LA (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | ALEX722PCPI               | Per Capita Personal Income in Alexandria, LA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | ALEX722TRAD               | All Employees: Trade, Transportation, and Utilities in Alexandria, LA (MSA)                       | 1990-01-01          | 2022-08-01        |
 | ALEX722TRADN              | All Employees: Trade, Transportation, and Utilities in Alexandria, LA (MSA)                       | 1990-01-01          | 2022-08-01        |
-| ALEX722UR                 | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| ALEX722URN                | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| ALEX722UR                 | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| ALEX722URN                | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | ALXPOP                    | Resident Population in Alexandria, LA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | ATNHPIUS10780Q            | All-Transactions House Price Index for Alexandria, LA (MSA)                                       | 1986-04-01          | 2022-04-01        |
 | AVELISPRI10780            | Housing Inventory: Average Listing Price in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
@@ -38,9 +38,9 @@
 | HOSCMSA10780              | Market Hotness: Hotness Score in Alexandria, LA (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD10780                 | Implicit Regional Price Deflator for Alexandria, LA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT221078000000003A     | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT221078000000004      | Unemployed Persons in Alexandria, LA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT221078000000004      | Unemployed Persons in Alexandria, LA (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT221078000000004A     | Unemployed Persons in Alexandria, LA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT221078000000005      | Employed Persons in Alexandria, LA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT221078000000005      | Employed Persons in Alexandria, LA (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT221078000000005A     | Employed Persons in Alexandria, LA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT221078000000006A     | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA10780          | Market Hotness: Listing Views per Property in Alexandria, LA (CBSA)                               | 2018-08-01          | 2022-08-01        |

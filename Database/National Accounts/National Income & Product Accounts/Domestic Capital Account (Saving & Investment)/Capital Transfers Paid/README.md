@@ -1,7 +1,7 @@
 | id                | title                                                                                                                         | observation_start   | observation_end   |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | AD10RC1A027NBEA   | Capital transfers paid, by government: Federal: Capital transfers paid to the rest of the world (net)                         | 1969-01-01          | 2020-01-01        |
-| AD11RC1A027NBEA   | Capital transfers paid, by government: Federal: Capital grants to state and local governments                                 | 1937-01-01          | 2021-01-01        |
+| AD11RC1A027NBEA   | Capital transfers paid, by government: Federal: Capital grants to state and local governments                                 | 2001-01-01          | 2021-01-01        |
 | B232RC1A027NBEA   | Capital transfers paid, by persons: Estate and gift taxes, federal                                                            | 1929-01-01          | 2021-01-01        |
 | B232RC1Q027SBEA   | Federal government capital transfer receipts                                                                                  | 1947-01-01          | 2022-04-01        |
 | G171361A027NBEA   | Federal government capital transfers paid: Economic affairs                                                                   | 1959-01-01          | 2020-01-01        |

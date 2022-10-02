@@ -8,10 +8,10 @@
 | AVELISPRIMM20100          | Housing Inventory: Average Listing Price Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY20100          | Housing Inventory: Average Listing Price Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-08-01        |
 | DESCMSA20100              | Market Hotness: Demand Score in Dover, DE (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| DOVE110BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-07-01        |
-| DOVE110BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-07-01        |
-| DOVE110BPPRIV             | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-07-01        |
-| DOVE110BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-07-01        |
+| DOVE110BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-08-01        |
+| DOVE110BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-08-01        |
+| DOVE110BPPRIV             | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-08-01        |
+| DOVE110BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-08-01        |
 | DOVE110EDUH               | All Employees: Education and Health Services in Dover, DE (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | DOVE110EDUHN              | All Employees: Education and Health Services in Dover, DE (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | DOVE110FIRE               | All Employees: Financial Activities in Dover, DE (MSA)                                             | 1990-01-01          | 2022-08-01        |
@@ -22,8 +22,8 @@
 | DOVE110INFON              | All Employees: Information in Dover, DE (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | DOVE110LEIH               | All Employees: Leisure and Hospitality in Dover, DE (MSA)                                          | 1990-01-01          | 2022-08-01        |
 | DOVE110LEIHN              | All Employees: Leisure and Hospitality in Dover, DE (MSA)                                          | 1990-01-01          | 2022-08-01        |
-| DOVE110LF                 | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2022-07-01        |
-| DOVE110LFN                | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2022-07-01        |
+| DOVE110LF                 | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2022-08-01        |
+| DOVE110LFN                | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | DOVE110MFG                | All Employees: Manufacturing in Dover, DE (MSA)                                                    | 1990-01-01          | 2022-08-01        |
 | DOVE110MFGN               | All Employees: Manufacturing in Dover, DE (MSA)                                                    | 1990-01-01          | 2022-08-01        |
 | DOVE110NA                 | All Employees: Total Nonfarm in Dover, DE (MSA)                                                    | 1990-01-01          | 2022-08-01        |
@@ -37,8 +37,8 @@
 | DOVE110SRVON              | All Employees: Other Services in Dover, DE (MSA)                                                   | 1990-01-01          | 2022-08-01        |
 | DOVE110TRAD               | All Employees: Trade, Transportation, and Utilities in Dover, DE (MSA)                             | 1990-01-01          | 2022-08-01        |
 | DOVE110TRADN              | All Employees: Trade, Transportation, and Utilities in Dover, DE (MSA)                             | 1990-01-01          | 2022-08-01        |
-| DOVE110UR                 | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-07-01        |
-| DOVE110URN                | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-07-01        |
+| DOVE110UR                 | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-08-01        |
+| DOVE110URN                | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-08-01        |
 | DVRPOP                    | Resident Population in Dover, DE (MSA)                                                             | 2000-01-01          | 2021-01-01        |
 | ENUC201030010             | Total Quarterly Wages in Dover, DE (MSA)                                                           | 1990-01-01          | 2022-01-01        |
 | ENUC201030010SA           | Total Quarterly Wages in Dover, DE (MSA)                                                           | 1990-01-01          | 2022-01-01        |
@@ -58,9 +58,9 @@
 | HOSCMSA20100              | Market Hotness: Hotness Score in Dover, DE (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
 | IRPD20100                 | Implicit Regional Price Deflator for Dover, DE (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | LAUMT102010000000003A     | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| LAUMT102010000000004      | Unemployed Persons in Dover, DE (MSA)                                                              | 1990-01-01          | 2022-07-01        |
+| LAUMT102010000000004      | Unemployed Persons in Dover, DE (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | LAUMT102010000000004A     | Unemployed Persons in Dover, DE (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| LAUMT102010000000005      | Employed Persons in Dover, DE (MSA)                                                                | 1990-01-01          | 2022-07-01        |
+| LAUMT102010000000005      | Employed Persons in Dover, DE (MSA)                                                                | 1990-01-01          | 2022-08-01        |
 | LAUMT102010000000005A     | Employed Persons in Dover, DE (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | LAUMT102010000000006A     | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA20100          | Market Hotness: Listing Views per Property in Dover, DE (CBSA)                                     | 2018-08-01          | 2022-08-01        |

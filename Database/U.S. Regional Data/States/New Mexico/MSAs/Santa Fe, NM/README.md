@@ -26,9 +26,9 @@
 | HOSCMSA42140              | Market Hotness: Hotness Score in Santa Fe, NM (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD42140                 | Implicit Regional Price Deflator for Santa Fe, NM (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT354214000000003A     | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT354214000000004      | Unemployed Persons in Santa Fe, NM (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT354214000000004      | Unemployed Persons in Santa Fe, NM (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT354214000000004A     | Unemployed Persons in Santa Fe, NM (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT354214000000005      | Employed Persons in Santa Fe, NM (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT354214000000005      | Employed Persons in Santa Fe, NM (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT354214000000005A     | Employed Persons in Santa Fe, NM (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT354214000000006A     | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA42140          | Market Hotness: Listing Views per Property in Santa Fe, NM (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -79,10 +79,10 @@
 | RPPGOOD42140              | Regional Price Parities: Goods for Santa Fe, NM (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH42140          | Regional Price Parities: Services: Other for Santa Fe, NM (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT42140         | Regional Price Parities: Services: Rents for Santa Fe, NM (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SANT135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Santa Fe, NM (MSA)            | 1988-01-01          | 2022-07-01        |
-| SANT135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Santa Fe, NM (MSA)            | 1988-01-01          | 2022-07-01        |
-| SANT135BPPRIV             | New Private Housing Units Authorized by Building Permits for Santa Fe, NM (MSA)                               | 1988-01-01          | 2022-07-01        |
-| SANT135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Santa Fe, NM (MSA)                               | 1988-01-01          | 2022-07-01        |
+| SANT135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Santa Fe, NM (MSA)            | 1988-01-01          | 2022-08-01        |
+| SANT135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Santa Fe, NM (MSA)            | 1988-01-01          | 2022-08-01        |
+| SANT135BPPRIV             | New Private Housing Units Authorized by Building Permits for Santa Fe, NM (MSA)                               | 1988-01-01          | 2022-08-01        |
+| SANT135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Santa Fe, NM (MSA)                               | 1988-01-01          | 2022-08-01        |
 | SANT135EDUH               | All Employees: Education and Health Services in Santa Fe, NM (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | SANT135EDUHN              | All Employees: Education and Health Services in Santa Fe, NM (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | SANT135FIRE               | All Employees: Financial Activities in Santa Fe, NM (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -93,8 +93,8 @@
 | SANT135INFON              | All Employees: Information in Santa Fe, NM (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | SANT135LEIH               | All Employees: Leisure and Hospitality in Santa Fe, NM (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | SANT135LEIHN              | All Employees: Leisure and Hospitality in Santa Fe, NM (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| SANT135LF                 | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| SANT135LFN                | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| SANT135LF                 | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| SANT135LFN                | Civilian Labor Force in Santa Fe, NM (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | SANT135MFG                | All Employees: Manufacturing in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SANT135MFGN               | All Employees: Manufacturing in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SANT135NA                 | All Employees: Total Nonfarm in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -108,8 +108,8 @@
 | SANT135SRVON              | All Employees: Other Services in Santa Fe, NM (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | SANT135TRAD               | All Employees: Trade, Transportation, and Utilities in Santa Fe, NM (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SANT135TRADN              | All Employees: Trade, Transportation, and Utilities in Santa Fe, NM (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| SANT135UR                 | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| SANT135URN                | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| SANT135UR                 | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| SANT135URN                | Unemployment Rate in Santa Fe, NM (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | SMS35421400000000026      | All Employees: Total Nonfarm in Santa Fe, NM (MSA)                                                            | 1990-04-01          | 2022-08-01        |
 | SMU35421400000000001A     | All Employees: Total Nonfarm in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU35421400500000001      | All Employees: Total Private in Santa Fe, NM (MSA)                                                            | 1990-01-01          | 2022-08-01        |

@@ -13,8 +13,8 @@
 | BOWGOVTN                  | All Employees: Government in Bowling Green, KY (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | BOWLEIH                   | All Employees: Leisure and Hospitality in Bowling Green, KY (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | BOWLEIHN                  | All Employees: Leisure and Hospitality in Bowling Green, KY (MSA)                                    | 1990-01-01          | 2022-08-01        |
-| BOWLF                     | Civilian Labor Force in Bowling Green, KY (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| BOWLFN                    | Civilian Labor Force in Bowling Green, KY (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| BOWLF                     | Civilian Labor Force in Bowling Green, KY (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| BOWLFN                    | Civilian Labor Force in Bowling Green, KY (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | BOWMFG                    | All Employees: Manufacturing in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | BOWMFGN                   | All Employees: Manufacturing in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | BOWNA                     | All Employees: Total Nonfarm in Bowling Green, KY (MSA)                                              | 1990-01-01          | 2022-08-01        |
@@ -27,8 +27,8 @@
 | BOWPOP                    | Resident Population in Bowling Green, KY (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | BOWTRAD                   | All Employees: Trade, Transportation, and Utilities in Bowling Green, KY (MSA)                       | 1990-01-01          | 2022-08-01        |
 | BOWTRADN                  | All Employees: Trade, Transportation, and Utilities in Bowling Green, KY (MSA)                       | 1990-01-01          | 2022-08-01        |
-| BOWUR                     | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| BOWURN                    | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| BOWUR                     | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| BOWURN                    | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | DESCMSA14540              | Market Hotness: Demand Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | ENUC145430010             | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC145430010SA           | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
@@ -48,9 +48,9 @@
 | HOSCMSA14540              | Market Hotness: Hotness Score in Bowling Green, KY (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD14540                 | Implicit Regional Price Deflator for Bowling Green, KY (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT211454000000003A     | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT211454000000004      | Unemployed Persons in Bowling Green, KY (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT211454000000004      | Unemployed Persons in Bowling Green, KY (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT211454000000004A     | Unemployed Persons in Bowling Green, KY (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT211454000000005      | Employed Persons in Bowling Green, KY (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT211454000000005      | Employed Persons in Bowling Green, KY (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT211454000000005A     | Employed Persons in Bowling Green, KY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT211454000000006A     | Civilian Labor Force in Bowling Green, KY (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA14540          | Market Hotness: Listing Views per Property in Bowling Green, KY (CBSA)                               | 2018-08-01          | 2022-08-01        |

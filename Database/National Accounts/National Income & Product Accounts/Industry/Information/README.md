@@ -1,41 +1,35 @@
-| id            | title                                                                                        | observation_start   | observation_end   |
-|---------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| AWHAEINFO     | Average Weekly Hours of All Employees, Information                                           | 2006-03-01          | 2022-08-01        |
-| CES5000000003 | Average Hourly Earnings of All Employees, Information                                        | 2006-03-01          | 2022-08-01        |
-| CES5000000006 | Production and Nonsupervisory Employees, Information                                         | 1964-01-01          | 2022-08-01        |
-| CES5000000007 | Average Weekly Hours of Production and Nonsupervisory Employees, Information                 | 1964-01-01          | 2022-08-01        |
-| CES5000000008 | Average Hourly Earnings of Production and Nonsupervisory Employees, Information              | 1964-01-01          | 2022-08-01        |
-| CES5000000010 | Women Employees, Information                                                                 | 1964-01-01          | 2022-08-01        |
-| CES5000000011 | Average Weekly Earnings of All Employees, Information                                        | 2006-03-01          | 2022-08-01        |
-| CES5000000016 | Indexes of Aggregate Weekly Hours of All Employees, Information                              | 2006-03-01          | 2022-08-01        |
-| CES5000000017 | Indexes of Aggregate Weekly Payrolls of All Employees, Information                           | 2006-03-01          | 2022-08-01        |
-| CES5000000030 | Average Weekly Earnings of Production and Nonsupervisory Employees, Information              | 1964-01-01          | 2022-08-01        |
-| CES5000000034 | Indexes of Aggregate Weekly Hours of Production and Nonsupervisory Employees, Information    | 1964-01-01          | 2022-08-01        |
-| CES5000000035 | Indexes of Aggregate Weekly Payrolls of Production and Nonsupervisory Employees, Information | 1964-01-01          | 2022-08-01        |
-| CES5000000039 | Women Employees-To-All Employees Ratio: Information                                          | 1964-01-01          | 2022-08-01        |
-| CES5051100001 | All Employees, Publishing Industries, Except Internet                                        | 1990-01-01          | 2022-08-01        |
-| CES5051200001 | All Employees, Motion Picture and Sound Recording Industries                                 | 1990-01-01          | 2022-08-01        |
-| CES5051500001 | All Employees, Broadcasting, Except Internet                                                 | 1990-01-01          | 2022-08-01        |
-| CES5051700001 | All Employees, Telecommunications                                                            | 1990-01-01          | 2022-08-01        |
-| CES5051800001 | All Employees, Data Processing, Hosting and Related Services                                 | 1990-01-01          | 2022-08-01        |
-| CES5051900001 | All Employees, Other Information Services                                                    | 1990-01-01          | 2022-08-01        |
-| CEU5000000001 | All Employees, Information                                                                   | 1939-01-01          | 2022-08-01        |
-| CEU5000000002 | Average Weekly Hours of All Employees, Information                                           | 2006-03-01          | 2022-08-01        |
-| CEU5000000003 | Average Hourly Earnings of All Employees, Information                                        | 2006-03-01          | 2022-08-01        |
-| CEU5000000006 | Production and Nonsupervisory Employees, Information                                         | 1964-01-01          | 2022-08-01        |
-| CEU5000000007 | Average Weekly Hours of Production and Nonsupervisory Employees, Information                 | 1964-01-01          | 2022-08-01        |
-| CEU5000000008 | Average Hourly Earnings of Production and Nonsupervisory Employees, Information              | 1964-01-01          | 2022-08-01        |
-| CEU5000000010 | Women Employees, Information                                                                 | 1964-01-01          | 2022-08-01        |
-| CEU5000000011 | Average Weekly Earnings of All Employees, Information                                        | 2006-03-01          | 2022-08-01        |
-| CEU5000000016 | Indexes of Aggregate Weekly Hours of All Employees, Information                              | 2006-03-01          | 2022-08-01        |
-| CEU5000000017 | Indexes of Aggregate Weekly Payrolls of All Employees, Information                           | 2006-03-01          | 2022-08-01        |
-| CEU5000000030 | Average Weekly Earnings of Production and Nonsupervisory Employees, Information              | 1964-01-01          | 2022-08-01        |
-| CEU5000000034 | Indexes of Aggregate Weekly Hours of Production and Nonsupervisory Employees, Information    | 1964-01-01          | 2022-08-01        |
-| CEU5000000035 | Indexes of Aggregate Weekly Payrolls of Production and Nonsupervisory Employees, Information | 1964-01-01          | 2022-08-01        |
-| CEU5051100001 | All Employees, Publishing Industries, Except Internet                                        | 1990-01-01          | 2022-08-01        |
-| CEU5051200001 | All Employees, Motion Picture and Sound Recording Industries                                 | 1990-01-01          | 2022-08-01        |
-| CEU5051500001 | All Employees, Broadcasting, Except Internet                                                 | 1990-01-01          | 2022-08-01        |
-| CEU5051700001 | All Employees, Telecommunications                                                            | 1990-01-01          | 2022-08-01        |
-| CEU5051800001 | All Employees, Data Processing, Hosting and Related Services                                 | 1990-01-01          | 2022-08-01        |
-| CEU5051900001 | All Employees, Other Information Services                                                    | 1990-01-01          | 2022-08-01        |
-| USINFO        | All Employees, Information                                                                   | 1939-01-01          | 2022-08-01        |
+| id                | title                                                                                                                                                                       | observation_start   | observation_end   |
+|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| NGMPBRDTELEUSMP   | Gross Domestic Product: Private Industries: Information: Broadcasting and Telecommunications for United States Metropolitan Portion                                         | 2001-01-01          | 2016-01-01        |
+| NGMPDATAWWWUSMP   | Gross Domestic Product: Private Industries: Information: Data Processing, Internet Publishing, and Other Information Services for United States Metropolitan Portion        | 2001-01-01          | 2016-01-01        |
+| NGMPINFOUSMP      | Gross Domestic Product: Private Industries: Information for United States Metropolitan Portion                                                                              | 2001-01-01          | 2020-01-01        |
+| NGMPMOTPICSNDUSMP | Gross Domestic Product: Private Industries: Information: Motion Picture and Sound Recording Industries for United States Metropolitan Portion                               | 2001-01-01          | 2016-01-01        |
+| NGMPPUBINDUSMP    | Gross Domestic Product: Private Industries: Information: Publishing Industries, Except Internet Includes Software for United States Metropolitan Portion                    | 2001-01-01          | 2016-01-01        |
+| QGMPBRDTELEUSMP   | Quantity Indexes for Real GDP: Private Industries: Information: Broadcasting and Telecommunications for United States Metropolitan Portion                                  | 2001-01-01          | 2016-01-01        |
+| QGMPDATAWWWUSMP   | Quantity Indexes for Real GDP: Private Industries: Information: Data Processing, Internet Publishing, and Other Information Services for United States Metropolitan Portion | 2001-01-01          | 2016-01-01        |
+| QGMPINFOUSMP      | Quantity Indexes for Real GDP: Private Industries: Information for United States Metropolitan Portion                                                                       | 2001-01-01          | 2020-01-01        |
+| QGMPMOTPICSNDUSMP | Quantity Indexes for Real GDP: Private Industries: Information: Motion Picture and Sound Recording Industries for United States Metropolitan Portion                        | 2001-01-01          | 2016-01-01        |
+| QGMPPUBINDUSMP    | Quantity Indexes for Real GDP: Private Industries: Information: Publishing Industries, Except Internet Includes Software for United States Metropolitan Portion             | 2001-01-01          | 2016-01-01        |
+| RGMPBRDTELEUSMP   | Real Gross Domestic Product: Private Industries: Information: Broadcasting and Telecommunications for United States Metropolitan Portion                                    | 2001-01-01          | 2016-01-01        |
+| RGMPDATAWWWUSMP   | Real Gross Domestic Product: Private Industries: Information: Data Processing, Internet Publishing, and Other Information Services for United States Metropolitan Portion   | 2001-01-01          | 2016-01-01        |
+| RGMPINFOUSMP      | Real Gross Domestic Product: Private Industries: Information for United States Metropolitan Portion                                                                         | 2001-01-01          | 2020-01-01        |
+| RGMPMOTPICSNDUSMP | Real Gross Domestic Product: Private Industries: Information: Motion Picture and Sound Recording Industries for United States Metropolitan Portion                          | 2001-01-01          | 2016-01-01        |
+| RGMPPUBINDUSMP    | Real Gross Domestic Product: Private Industries: Information: Publishing Industries, Except Internet Includes Software for United States Metropolitan Portion               | 2001-01-01          | 2016-01-01        |
+| USBRDTELENGSP     | Gross Domestic Product: Broadcasting (Except Internet) and Telecommunications (NAICS 515, 517) in the United States                                                         | 1997-01-01          | 2021-01-01        |
+| USBRDTELEQGSP     | Chain-Type Quantity Index for Real GDP: Broadcasting (Except Internet) and Telecommunications (NAICS 515, 517) in the United States                                         | 1997-01-01          | 2021-01-01        |
+| USBRDTELERGSP     | Real Gross Domestic Product: Broadcasting (Except Internet) and Telecommunications (NAICS 515, 517) in the United States                                                    | 1997-01-01          | 2021-01-01        |
+| USDATAWWWNGSP     | Gross Domestic Product: Data Processing, Hosting, and Other Information Services (NAICS 518, 519) in the United States                                                      | 1997-01-01          | 2021-01-01        |
+| USDATAWWWQGSP     | Chain-Type Quantity Index for Real GDP: Data Processing, Hosting, and Other Information Services (NAICS 518, 519) in the United States                                      | 1997-01-01          | 2021-01-01        |
+| USDATAWWWRGSP     | Real Gross Domestic Product: Data Processing, Hosting, and Other Information Services (NAICS 518, 519) in the United States                                                 | 1997-01-01          | 2021-01-01        |
+| USINFONGSP        | Gross Domestic Product: Information (NAICS 51) in the United States                                                                                                         | 1997-01-01          | 2021-01-01        |
+| USINFONQGSP       | Gross Domestic Product: Information (NAICS 51) in the United States                                                                                                         | 2005-01-01          | 2022-04-01        |
+| USINFOQGSP        | Chain-Type Quantity Index for Real GDP: Information (NAICS 51) in the United States                                                                                         | 1997-01-01          | 2021-01-01        |
+| USINFOQQGSP       | Chain-Type Quantity Index for Real GDP: Information (NAICS 51) in the United States                                                                                         | 2005-01-01          | 2022-04-01        |
+| USINFORGSP        | Real Gross Domestic Product: Information (NAICS 51) in the United States                                                                                                    | 1997-01-01          | 2021-01-01        |
+| USINFORQGSP       | Real Gross Domestic Product: Information (NAICS 51) in the United States                                                                                                    | 2005-01-01          | 2022-04-01        |
+| USMOTPICSNDNGSP   | Gross Domestic Product: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                                                                      | 1997-01-01          | 2021-01-01        |
+| USMOTPICSNDQGSP   | Chain-Type Quantity Index for Real GDP: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                                                      | 1997-01-01          | 2021-01-01        |
+| USMOTPICSNDRGSP   | Real Gross Domestic Product: Motion Picture and Sound Recording Industries (NAICS 512) in the United States                                                                 | 1997-01-01          | 2021-01-01        |
+| USPUBINDNGSP      | Gross Domestic Product: Publishing Industries (Except Internet) (NAICS 511) in the United States                                                                            | 1997-01-01          | 2021-01-01        |
+| USPUBINDQGSP      | Chain-Type Quantity Index for Real GDP: Publishing Industries (Except Internet) (NAICS 511) in the United States                                                            | 1997-01-01          | 2021-01-01        |
+| USPUBINDRGSP      | Real Gross Domestic Product: Publishing Industries (Except Internet) (NAICS 511) in the United States                                                                       | 1997-01-01          | 2021-01-01        |

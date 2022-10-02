@@ -55,7 +55,7 @@
 | DDSI01ETA645NWDB    | Bank Z-Score for Ethiopia                                                                                                             | 2000-01-01          | 2020-01-01        |
 | DDSI04ETA156NWDB    | Bank Credit to Bank Deposits for Ethiopia                                                                                             | 1961-01-01          | 2008-01-01        |
 | DDSI06ETA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Ethiopia                                                                         | 2000-01-01          | 2020-01-01        |
-| DEBTTLETA188A       | Central government debt, total (% of GDP) for Ethiopia                                                                                | 1990-01-01          | 2013-01-01        |
+| DEBTTLETA188A       | Central government debt, total (% of GDP) for Ethiopia                                                                                | 1990-01-01          | 2019-01-01        |
 | DEETHA475SCEN       | Number of Identified Exporters to Ethiopia from Delaware                                                                              | 1997-01-01          | 2013-01-01        |
 | ETHBCABP6GDPPT      | Net Current Account Total for Ethiopia                                                                                                | 2004-01-01          | 2023-01-01        |
 | ETHBFDBP6GDPPT      | Net Lending (+) / Net Borrowing (-) (balance from Financial Account) as Direct Investment for Ethiopia                                | 2004-01-01          | 2023-01-01        |

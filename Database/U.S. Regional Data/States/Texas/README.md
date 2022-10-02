@@ -48,8 +48,8 @@
 | BFSBF8QTOTALSATX          | Spliced Business Formations Within Eight Quarters: Total for All NAICS in Texas                                                          | 2004-07-01          | 2022-08-01        |
 | BR48000TXA647NCEN         | SNAP Benefits Recipients in Texas                                                                                                        | 1989-01-01          | 2019-01-01        |
 | BRTX48M647NCEN            | SNAP Benefits Recipients in Texas                                                                                                        | 1981-01-01          | 2020-06-01        |
-| BUSAPPWNSATX              | Business Applications for Texas                                                                                                          | 2006-01-07          | 2022-09-17        |
-| BUSAPPWNSATXYY            | Business Applications for Texas                                                                                                          | 2007-01-06          | 2022-09-17        |
+| BUSAPPWNSATX              | Business Applications for Texas                                                                                                          | 2006-01-07          | 2022-09-24        |
+| BUSAPPWNSATXYY            | Business Applications for Texas                                                                                                          | 2007-01-06          | 2022-09-24        |
 | CAPUDSAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUDUAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUISAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Increases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
@@ -58,8 +58,8 @@
 | CAPUNUAMFRBDAL            | Current Capacity Utilization; Percentage Reporting No Change for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUSAMFRBDAL             | Current Capacity Utilization; Diffusion Index for Texas                                                                                  | 2004-06-01          | 2022-05-01        |
 | CAPUUAMFRBDAL             | Current Capacity Utilization; Diffusion Index for Texas                                                                                  | 2004-06-01          | 2022-05-01        |
-| CBUSAPPWNSATX             | Business Applications from Corporations for Texas                                                                                        | 2006-01-07          | 2022-09-17        |
-| CBUSAPPWNSATXYY           | Business Applications from Corporations for Texas                                                                                        | 2007-01-06          | 2022-09-17        |
+| CBUSAPPWNSATX             | Business Applications from Corporations for Texas                                                                                        | 2006-01-07          | 2022-09-24        |
+| CBUSAPPWNSATXYY           | Business Applications from Corporations for Texas                                                                                        | 2007-01-06          | 2022-09-24        |
 | CEXPDSAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CEXPDUAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CEXPISAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Increases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
@@ -320,8 +320,8 @@
 | GRONUAMFRBDAL             | Current Growth Rate of Orders; Percentage Reporting No Change for Texas                                                                  | 2004-06-01          | 2022-05-01        |
 | GROSAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                                 | 2004-06-01          | 2022-05-01        |
 | GROUAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                                 | 2004-06-01          | 2022-05-01        |
-| HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                          | 2006-01-07          | 2022-09-17        |
-| HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                          | 2007-01-06          | 2022-09-17        |
+| HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                          | 2006-01-07          | 2022-09-24        |
+| HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                          | 2007-01-06          | 2022-09-24        |
 | IHLCHGUSTX                | Job Postings on Indeed in Texas                                                                                                          | 2020-02-01          | 2022-09-16        |
 | IMPMANTX                  | Imports of Goods: Manufactured Commodities for Texas                                                                                     | 2008-01-01          | 2022-07-01        |
 | IMPNONTX                  | Imports of Goods: Non-Manufactured Commodities for Texas                                                                                 | 2008-01-01          | 2022-07-01        |
@@ -358,12 +358,12 @@
 | IPUZNW200480000           | Employment for Private Nonfarm in Texas                                                                                                  | 2007-01-01          | 2021-01-01        |
 | IPUZNW201480000           | Employment for Private Nonfarm in Texas                                                                                                  | 2008-01-01          | 2021-01-01        |
 | JOBLOSTX                  | Unemployed: Job Losers for Texas                                                                                                         | 2003-10-01          | 2022-04-01        |
-| LASST480000000000004      | Unemployed Persons in Texas                                                                                                              | 1976-01-01          | 2022-07-01        |
-| LASST480000000000005      | Employed Persons in Texas                                                                                                                | 1976-01-01          | 2022-07-01        |
+| LASST480000000000004      | Unemployed Persons in Texas                                                                                                              | 1976-01-01          | 2022-08-01        |
+| LASST480000000000005      | Employed Persons in Texas                                                                                                                | 1976-01-01          | 2022-08-01        |
 | LAUST480000000000003A     | Unemployment Rate in Texas                                                                                                               | 1976-01-01          | 2021-01-01        |
-| LAUST480000000000004      | Unemployed Persons in Texas                                                                                                              | 1976-01-01          | 2022-07-01        |
+| LAUST480000000000004      | Unemployed Persons in Texas                                                                                                              | 1976-01-01          | 2022-08-01        |
 | LAUST480000000000004A     | Unemployed Persons in Texas                                                                                                              | 1976-01-01          | 2021-01-01        |
-| LAUST480000000000005      | Employed Persons in Texas                                                                                                                | 1976-01-01          | 2022-07-01        |
+| LAUST480000000000005      | Employed Persons in Texas                                                                                                                | 1976-01-01          | 2022-08-01        |
 | LAUST480000000000005A     | Employed Persons in Texas                                                                                                                | 1976-01-01          | 2021-01-01        |
 | LAUST480000000000006A     | Civilian Labor Force in Texas                                                                                                            | 1976-01-01          | 2021-01-01        |
 | LBSNSA48                  | Labor Force Participation Rate for Texas                                                                                                 | 1976-01-01          | 2022-08-01        |
@@ -388,18 +388,18 @@
 | MHICILBTX48000A052NCEN    | 90% Confidence Interval Lower Bound of Estimate of Median Household Income for Texas                                                     | 1989-01-01          | 2020-01-01        |
 | MHICIUBTX48000A052NCEN    | 90% Confidence Interval Upper Bound of Estimate of Median Household Income for Texas                                                     | 1989-01-01          | 2020-01-01        |
 | MHITX48000A052NCEN        | Estimate of Median Household Income for Texas                                                                                            | 1989-01-01          | 2020-01-01        |
-| MSRSTX441                 | Monthly State Retail Sales: Motor Vehicle and Parts Dealers in Texas                                                                     | 2019-01-01          | 2022-05-01        |
-| MSRSTX442                 | Monthly State Retail Sales: Furniture and Home Furnishings Stores in Texas                                                               | 2019-01-01          | 2022-05-01        |
-| MSRSTX443                 | Monthly State Retail Sales: Electronics and Appliance Stores in Texas                                                                    | 2019-01-01          | 2022-05-01        |
-| MSRSTX444                 | Monthly State Retail Sales: Building Material and Garden Equipment and Supplies Dealers in Texas                                         | 2019-01-01          | 2022-05-01        |
-| MSRSTX445                 | Monthly State Retail Sales: Food and Beverage Stores in Texas                                                                            | 2019-01-01          | 2022-05-01        |
-| MSRSTX446                 | Monthly State Retail Sales: Health and Personal Care Stores in Texas                                                                     | 2019-01-01          | 2022-05-01        |
-| MSRSTX447                 | Monthly State Retail Sales: Gasoline Stations in Texas                                                                                   | 2019-01-01          | 2022-05-01        |
-| MSRSTX448                 | Monthly State Retail Sales: Clothing and Clothing Accessories Stores in Texas                                                            | 2019-01-01          | 2022-05-01        |
-| MSRSTX451                 | Monthly State Retail Sales: Sporting Good, Hobby, Musical Instrument and Book Stores in Texas                                            | 2019-01-01          | 2022-05-01        |
-| MSRSTX452                 | Monthly State Retail Sales: General Merchandise Stores in Texas                                                                          | 2019-01-01          | 2022-05-01        |
-| MSRSTX453                 | Monthly State Retail Sales: Miscellaneous Store Retailers in Texas                                                                       | 2019-01-01          | 2022-05-01        |
-| MSRSTXTOTAL               | Monthly State Retail Sales: Total Retail Sales Excluding Nonstore Retailers in Texas                                                     | 2019-01-01          | 2022-05-01        |
+| MSRSTX441                 | Monthly State Retail Sales: Motor Vehicle and Parts Dealers in Texas                                                                     | 2019-01-01          | 2022-06-01        |
+| MSRSTX442                 | Monthly State Retail Sales: Furniture and Home Furnishings Stores in Texas                                                               | 2019-01-01          | 2022-06-01        |
+| MSRSTX443                 | Monthly State Retail Sales: Electronics and Appliance Stores in Texas                                                                    | 2019-01-01          | 2022-06-01        |
+| MSRSTX444                 | Monthly State Retail Sales: Building Material and Garden Equipment and Supplies Dealers in Texas                                         | 2019-01-01          | 2022-06-01        |
+| MSRSTX445                 | Monthly State Retail Sales: Food and Beverage Stores in Texas                                                                            | 2019-01-01          | 2022-06-01        |
+| MSRSTX446                 | Monthly State Retail Sales: Health and Personal Care Stores in Texas                                                                     | 2019-01-01          | 2022-06-01        |
+| MSRSTX447                 | Monthly State Retail Sales: Gasoline Stations in Texas                                                                                   | 2019-01-01          | 2022-06-01        |
+| MSRSTX448                 | Monthly State Retail Sales: Clothing and Clothing Accessories Stores in Texas                                                            | 2019-01-01          | 2022-06-01        |
+| MSRSTX451                 | Monthly State Retail Sales: Sporting Good, Hobby, Musical Instrument and Book Stores in Texas                                            | 2019-01-01          | 2022-06-01        |
+| MSRSTX452                 | Monthly State Retail Sales: General Merchandise Stores in Texas                                                                          | 2019-01-01          | 2022-06-01        |
+| MSRSTX453                 | Monthly State Retail Sales: Miscellaneous Store Retailers in Texas                                                                       | 2019-01-01          | 2022-06-01        |
+| MSRSTXTOTAL               | Monthly State Retail Sales: Total Retail Sales Excluding Nonstore Retailers in Texas                                                     | 2019-01-01          | 2022-06-01        |
 | NEMPDSAMFRBDAL            | Current Employment; Percentage Reporting Decreases for Texas                                                                             | 2004-06-01          | 2022-05-01        |
 | NEMPDUAMFRBDAL            | Current Employment; Percentage Reporting Decreases for Texas                                                                             | 2004-06-01          | 2022-05-01        |
 | NEMPISAMFRBDAL            | Current Employment; Percentage Reporting Increases for Texas                                                                             | 2004-06-01          | 2022-05-01        |
@@ -434,7 +434,7 @@
 | PENLISCOUTX               | Housing Inventory: Pending Listing Count in Texas                                                                                        | 2016-07-01          | 2022-08-01        |
 | PENLISCOUYYTX             | Housing Inventory: Pending Listing Count Year-Over-Year in Texas                                                                         | 2017-07-01          | 2022-08-01        |
 | PEU18TX48000A647NCEN      | Estimate of People Age 0-17 in Poverty in Texas                                                                                          | 1989-01-01          | 2020-01-01        |
-| PEUCCCTX                  | Pandemic Emergency Unemployment Compensation Continued Claims in Texas                                                                   | 2020-03-28          | 2022-08-27        |
+| PEUCCCTX                  | Pandemic Emergency Unemployment Compensation Continued Claims in Texas                                                                   | 2020-03-28          | 2022-09-03        |
 | PEXMTX48A647NCEN          | Poverty Tax Exemptions for Texas                                                                                                         | 1989-01-01          | 2019-01-01        |
 | PFGDSAMFRBDAL             | Current Prices Received for Finished Goods; Percentage Reporting Decreases for Texas                                                     | 2004-06-01          | 2022-05-01        |
 | PFGDUAMFRBDAL             | Current Prices Received for Finished Goods; Percentage Reporting Decreases for Texas                                                     | 2004-06-01          | 2022-05-01        |
@@ -483,8 +483,8 @@
 | PUA0T17TX48000A647NCEN    | Poverty Universe, Age 0-17 for Texas                                                                                                     | 1998-01-01          | 2020-01-01        |
 | PUA5T17RTX48000A647NCEN   | Poverty Universe, Age 5-17 related for Texas                                                                                             | 1998-01-01          | 2020-01-01        |
 | PUAATX48000A647NCEN       | Poverty Universe, All Ages for Texas                                                                                                     | 1998-01-01          | 2020-01-01        |
-| PUACCTX                   | Pandemic Unemployment Assistance Continued Claims in Texas                                                                               | 2020-03-28          | 2022-08-27        |
-| PUAICTX                   | Pandemic Unemployment Assistance Initial Claims in Texas                                                                                 | 2020-04-04          | 2022-09-10        |
+| PUACCTX                   | Pandemic Unemployment Assistance Continued Claims in Texas                                                                               | 2020-03-28          | 2022-09-03        |
+| PUAICTX                   | Pandemic Unemployment Assistance Initial Claims in Texas                                                                                 | 2020-04-04          | 2022-09-17        |
 | QTAXT01QTAXCAT3TXNO       | State Tax Collections: T01 Property Taxes for Texas                                                                                      | 1994-01-01          | 2010-10-01        |
 | QTAXT09QTAXCAT3TXNO       | State Tax Collections: T09 General Sales and Gross Receipts Taxes for Texas                                                              | 1994-01-01          | 2022-04-01        |
 | QTAXT10QTAXCAT3TXNO       | State Tax Collections: T10 Alcoholic Beverages Sales Tax for Texas                                                                       | 1994-01-01          | 2022-04-01        |

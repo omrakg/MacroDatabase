@@ -14,7 +14,7 @@
 | PTN2001A027NBEA | Personal current taxes: Federal: Income taxes: Refunds                                | 1946-01-01          | 2020-01-01        |
 | S210301A027NBEA | Personal current taxes: State and local: Motor vehicle licenses                       | 1929-01-01          | 2020-01-01        |
 | S210400         | Personal Current Tax Receipts: State and Local Government: Property Taxes             | 1988-01-01          | 2022-04-01        |
-| S210401A027NBEA | Personal current taxes: State and local: Property taxes                               | 1929-01-01          | 2021-01-01        |
+| S210401A027NBEA | Personal current taxes: State and local: Property taxes                               | 2001-01-01          | 2021-01-01        |
 | S210501A027NBEA | Personal current taxes: State and local: Other taxes                                  | 1929-01-01          | 2020-01-01        |
 | W055RC1A027NBEA | Personal current taxes                                                                | 1929-01-01          | 2021-01-01        |
 | W055RC1Q027SBEA | Personal current taxes                                                                | 1947-01-01          | 2022-04-01        |

@@ -1,8 +1,8 @@
 | id                 | title                                                      | observation_start   | observation_end   |
 |--------------------|------------------------------------------------------------|---------------------|-------------------|
-| DTWEXAFEGS         | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-02          | 2022-09-16        |
-| DTWEXBGS           | Nominal Broad U.S. Dollar Index                            | 2006-01-02          | 2022-09-16        |
-| DTWEXEMEGS         | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-02          | 2022-09-16        |
+| DTWEXAFEGS         | Nominal Advanced Foreign Economies U.S. Dollar Index       | 2006-01-02          | 2022-09-23        |
+| DTWEXBGS           | Nominal Broad U.S. Dollar Index                            | 2006-01-02          | 2022-09-23        |
+| DTWEXEMEGS         | Nominal Emerging Market Economies U.S. Dollar Index        | 2006-01-02          | 2022-09-23        |
 | RTWEXAFEGS         | Real Advanced Foreign Economies Dollar Index               | 2006-01-01          | 2022-08-01        |
 | RTWEXBGS           | Real Broad Dollar Index                                    | 2006-01-01          | 2022-08-01        |
 | RTWEXEMEGS         | Real Emerging Market Economies Dollar Index                | 2006-01-01          | 2022-08-01        |

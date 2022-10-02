@@ -2,10 +2,10 @@
 |------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS14010Q         | All-Transactions House Price Index for Bloomington, IL (MSA)                                                     | 1985-01-01          | 2022-04-01        |
 | BLNPOP                 | Resident Population in Bloomington-Normal, IL (MSA)                                                              | 2000-01-01          | 2009-01-01        |
-| BLOO017LF              | Civilian Labor Force in Bloomington, IL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| BLOO017LFN             | Civilian Labor Force in Bloomington, IL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| BLOO017UR              | Unemployment Rate in Bloomington, IL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| BLOO017URN             | Unemployment Rate in Bloomington, IL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| BLOO017LF              | Civilian Labor Force in Bloomington, IL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| BLOO017LFN             | Civilian Labor Force in Bloomington, IL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| BLOO017UR              | Unemployment Rate in Bloomington, IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| BLOO017URN             | Unemployment Rate in Bloomington, IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | BLOPOP                 | Resident Population in Bloomington, IL (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | ENUC140130010          | Total Quarterly Wages in Bloomington, IL (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC140130010SA        | Total Quarterly Wages in Bloomington, IL (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
@@ -17,9 +17,9 @@
 | ENUC140140510SA        | Average Weekly Wages for Employees in Private Establishments in Bloomington-Normal, IL (MSA)                     | 2013-01-01          | 2022-01-01        |
 | IRPD14010              | Implicit Regional Price Deflator for Bloomington, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171401000000003A  | Unemployment Rate in Bloomington, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT171401000000004   | Unemployed Persons in Bloomington, IL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT171401000000004   | Unemployed Persons in Bloomington, IL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT171401000000004A  | Unemployed Persons in Bloomington, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT171401000000005   | Employed Persons in Bloomington, IL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT171401000000005   | Employed Persons in Bloomington, IL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT171401000000005A  | Employed Persons in Bloomington, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT171401000000006A  | Civilian Labor Force in Bloomington, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP14010              | Total Gross Domestic Product for Bloomington, IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |

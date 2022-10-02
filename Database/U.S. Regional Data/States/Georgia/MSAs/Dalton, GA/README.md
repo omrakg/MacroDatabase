@@ -10,8 +10,8 @@
 | DALPOP                    | Resident Population in Dalton, GA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DALT113GOVT               | All Employees: Government in Dalton, GA (MSA)                                                               | 1990-01-01          | 2022-08-01        |
 | DALT113GOVTN              | All Employees: Government in Dalton, GA (MSA)                                                               | 1990-01-01          | 2022-08-01        |
-| DALT113LF                 | Civilian Labor Force in Dalton, GA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| DALT113LFN                | Civilian Labor Force in Dalton, GA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| DALT113LF                 | Civilian Labor Force in Dalton, GA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| DALT113LFN                | Civilian Labor Force in Dalton, GA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | DALT113MFG                | All Employees: Manufacturing in Dalton, GA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | DALT113MFGN               | All Employees: Manufacturing in Dalton, GA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | DALT113NA                 | All Employees: Total Nonfarm in Dalton, GA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -21,8 +21,8 @@
 | DALT113PCPI               | Per Capita Personal Income in Dalton, GA (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | DALT113TRAD               | All Employees: Trade, Transportation, and Utilities in Dalton, GA (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | DALT113TRADN              | All Employees: Trade, Transportation, and Utilities in Dalton, GA (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| DALT113UR                 | Unemployment Rate in Dalton, GA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| DALT113URN                | Unemployment Rate in Dalton, GA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| DALT113UR                 | Unemployment Rate in Dalton, GA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| DALT113URN                | Unemployment Rate in Dalton, GA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | ENUC191430010             | Total Quarterly Wages in Dalton, GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC191430010SA           | Total Quarterly Wages in Dalton, GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC191440010             | Average Weekly Wages for Employees in Total Covered Establishments in Dalton, GA (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -37,9 +37,9 @@
 | ENUC191440510SA           | Average Weekly Wages for Employees in Private Establishments in Dalton, GA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD19140                 | Implicit Regional Price Deflator for Dalton, GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT131914000000003A     | Unemployment Rate in Dalton, GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT131914000000004      | Unemployed Persons in Dalton, GA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT131914000000004      | Unemployed Persons in Dalton, GA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT131914000000004A     | Unemployed Persons in Dalton, GA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT131914000000005      | Employed Persons in Dalton, GA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT131914000000005      | Employed Persons in Dalton, GA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT131914000000005A     | Employed Persons in Dalton, GA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT131914000000006A     | Civilian Labor Force in Dalton, GA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR19140          | Housing Inventory: Median Days on Market in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-08-01        |

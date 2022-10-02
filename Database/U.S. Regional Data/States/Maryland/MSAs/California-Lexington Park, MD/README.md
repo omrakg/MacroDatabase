@@ -16,13 +16,13 @@
 | ENUC156840510          | Average Weekly Wages for Employees in Private Establishments in California-Lexington Park, MD (MSA)            | 2013-01-01          | 2022-01-01        |
 | ENUC156840510SA        | Average Weekly Wages for Employees in Private Establishments in California-Lexington Park, MD (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD15680              | Implicit Regional Price Deflator for California-Lexington Park, MD (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT241568000000003   | Unemployment Rate in California-Lexington Park, MD (MSA)                                                       | 1990-01-01          | 2022-07-01        |
+| LAUMT241568000000003   | Unemployment Rate in California-Lexington Park, MD (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | LAUMT241568000000003A  | Unemployment Rate in California-Lexington Park, MD (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT241568000000004   | Unemployed Persons in California-Lexington Park, MD (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT241568000000004   | Unemployed Persons in California-Lexington Park, MD (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT241568000000004A  | Unemployed Persons in California-Lexington Park, MD (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT241568000000005   | Employed Persons in California-Lexington Park, MD (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT241568000000005   | Employed Persons in California-Lexington Park, MD (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT241568000000005A  | Employed Persons in California-Lexington Park, MD (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT241568000000006   | Civilian Labor Force in California-Lexington Park, MD (MSA)                                                    | 1990-01-01          | 2022-07-01        |
+| LAUMT241568000000006   | Civilian Labor Force in California-Lexington Park, MD (MSA)                                                    | 1990-01-01          | 2022-08-01        |
 | LAUMT241568000000006A  | Civilian Labor Force in California-Lexington Park, MD (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP15680              | Total Gross Domestic Product for California-Lexington Park, MD (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP15680              | Total Quantity Indexes for Real GDP for California-Lexington Park, MD (MSA)                                    | 2001-01-01          | 2020-01-01        |

@@ -26,9 +26,9 @@
 | HOSCMSA39460              | Market Hotness: Hotness Score in Punta Gorda, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD39460                 | Implicit Regional Price Deflator for Punta Gorda, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT123946000000003A     | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT123946000000004      | Unemployed Persons in Punta Gorda, FL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT123946000000004      | Unemployed Persons in Punta Gorda, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT123946000000004A     | Unemployed Persons in Punta Gorda, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT123946000000005      | Employed Persons in Punta Gorda, FL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT123946000000005      | Employed Persons in Punta Gorda, FL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT123946000000005A     | Employed Persons in Punta Gorda, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT123946000000006A     | Civilian Labor Force in Punta Gorda, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA39460          | Market Hotness: Listing Views per Property in Punta Gorda, FL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -72,10 +72,10 @@
 | PRIREDCOU39460            | Housing Inventory: Price Reduced Count in Punta Gorda, FL (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
 | PRIREDCOUMM39460          | Housing Inventory: Price Reduced Count Month-Over-Month in Punta Gorda, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | PRIREDCOUYY39460          | Housing Inventory: Price Reduced Count Year-Over-Year in Punta Gorda, FL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| PUNT412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-07-01        |
-| PUNT412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-07-01        |
-| PUNT412BPPRIV             | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-07-01        |
-| PUNT412BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-07-01        |
+| PUNT412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-08-01        |
+| PUNT412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Punta Gorda, FL (MSA)            | 1993-01-01          | 2022-08-01        |
+| PUNT412BPPRIV             | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-08-01        |
+| PUNT412BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Punta Gorda, FL (MSA)                               | 1993-01-01          | 2022-08-01        |
 | PUNT412EDUH               | All Employees: Education and Health Services in Punta Gorda, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | PUNT412EDUHN              | All Employees: Education and Health Services in Punta Gorda, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | PUNT412FIRE               | All Employees: Financial Activities in Punta Gorda, FL (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -86,8 +86,8 @@
 | PUNT412INFON              | All Employees: Information in Punta Gorda, FL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | PUNT412LEIH               | All Employees: Leisure and Hospitality in Punta Gorda, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | PUNT412LEIHN              | All Employees: Leisure and Hospitality in Punta Gorda, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| PUNT412LF                 | Civilian Labor Force in Punta Gorda, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| PUNT412LFN                | Civilian Labor Force in Punta Gorda, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| PUNT412LF                 | Civilian Labor Force in Punta Gorda, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| PUNT412LFN                | Civilian Labor Force in Punta Gorda, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | PUNT412MFG                | All Employees: Manufacturing in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | PUNT412MFGN               | All Employees: Manufacturing in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | PUNT412NA                 | All Employees: Total Nonfarm in Punta Gorda, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -101,8 +101,8 @@
 | PUNT412SRVON              | All Employees: Other Services in Punta Gorda, FL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | PUNT412TRAD               | All Employees: Trade, Transportation, and Utilities in Punta Gorda, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | PUNT412TRADN              | All Employees: Trade, Transportation, and Utilities in Punta Gorda, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| PUNT412UR                 | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| PUNT412URN                | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| PUNT412UR                 | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| PUNT412URN                | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | QGMP39460                 | Total Quantity Indexes for Real GDP for Punta Gorda, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP39460                 | Total Real Gross Domestic Product for Punta Gorda, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI39460                  | Real Personal Income for Punta Gorda, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

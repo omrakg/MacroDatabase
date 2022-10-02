@@ -21,9 +21,9 @@
 | ENUC345840510SA           | Average Weekly Wages for Employees in Private Establishments in Mount Vernon-Anacortes, WA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD34580                 | Implicit Regional Price Deflator for Mount Vernon-Anacortes, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT533458000000003A     | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT533458000000004      | Unemployed Persons in Mount Vernon-Anacortes, WA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT533458000000004      | Unemployed Persons in Mount Vernon-Anacortes, WA (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT533458000000004A     | Unemployed Persons in Mount Vernon-Anacortes, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT533458000000005      | Employed Persons in Mount Vernon-Anacortes, WA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT533458000000005      | Employed Persons in Mount Vernon-Anacortes, WA (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT533458000000005A     | Employed Persons in Mount Vernon-Anacortes, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT533458000000006A     | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR34580          | Housing Inventory: Median Days on Market in Mount Vernon-Anacortes, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
@@ -42,8 +42,8 @@
 | MOUN553GOVTN              | All Employees: Government in Mount Vernon-Anacortes, WA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | MOUN553LEIH               | All Employees: Leisure and Hospitality in Mount Vernon-Anacortes, WA (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | MOUN553LEIHN              | All Employees: Leisure and Hospitality in Mount Vernon-Anacortes, WA (MSA)                                    | 1990-01-01          | 2022-08-01        |
-| MOUN553LF                 | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| MOUN553LFN                | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| MOUN553LF                 | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| MOUN553LFN                | Civilian Labor Force in Mount Vernon-Anacortes, WA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | MOUN553MFG                | All Employees: Manufacturing in Mount Vernon-Anacortes, WA (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | MOUN553MFGN               | All Employees: Manufacturing in Mount Vernon-Anacortes, WA (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | MOUN553NA                 | All Employees: Total Nonfarm in Mount Vernon-Anacortes, WA (MSA)                                              | 1990-01-01          | 2022-08-01        |
@@ -53,8 +53,8 @@
 | MOUN553PCPI               | Per Capita Personal Income in Mount Vernon-Anacortes, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | MOUN553TRAD               | All Employees: Trade, Transportation, and Utilities in Mount Vernon-Anacortes, WA (MSA)                       | 1990-01-01          | 2022-08-01        |
 | MOUN553TRADN              | All Employees: Trade, Transportation, and Utilities in Mount Vernon-Anacortes, WA (MSA)                       | 1990-01-01          | 2022-08-01        |
-| MOUN553UR                 | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| MOUN553URN                | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| MOUN553UR                 | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| MOUN553URN                | Unemployment Rate in Mount Vernon-Anacortes, WA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | MVAPOP                    | Resident Population in Mount Vernon-Anacortes, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU34580            | Housing Inventory: New Listing Count in Mount Vernon-Anacortes, WA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
 | NEWLISCOUMM34580          | Housing Inventory: New Listing Count Month-Over-Month in Mount Vernon-Anacortes, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |

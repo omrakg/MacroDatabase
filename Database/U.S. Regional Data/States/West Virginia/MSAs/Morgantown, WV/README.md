@@ -26,9 +26,9 @@
 | HOSCMSA34060              | Market Hotness: Hotness Score in Morgantown, WV (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD34060                 | Implicit Regional Price Deflator for Morgantown, WV (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT543406000000003A     | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT543406000000004      | Unemployed Persons in Morgantown, WV (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT543406000000004      | Unemployed Persons in Morgantown, WV (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT543406000000004A     | Unemployed Persons in Morgantown, WV (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT543406000000005      | Employed Persons in Morgantown, WV (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT543406000000005      | Employed Persons in Morgantown, WV (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT543406000000005A     | Employed Persons in Morgantown, WV (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT543406000000006A     | Civilian Labor Force in Morgantown, WV (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA34060          | Market Hotness: Listing Views per Property in Morgantown, WV (CBSA)                               | 2018-08-01          | 2022-08-01        |
@@ -62,8 +62,8 @@
 | MORG054GOVTN              | All Employees: Government in Morgantown, WV (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | MORG054LEIH               | All Employees: Leisure and Hospitality in Morgantown, WV (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | MORG054LEIHN              | All Employees: Leisure and Hospitality in Morgantown, WV (MSA)                                    | 1990-01-01          | 2022-08-01        |
-| MORG054LF                 | Civilian Labor Force in Morgantown, WV (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| MORG054LFN                | Civilian Labor Force in Morgantown, WV (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| MORG054LF                 | Civilian Labor Force in Morgantown, WV (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| MORG054LFN                | Civilian Labor Force in Morgantown, WV (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | MORG054MFG                | All Employees: Manufacturing in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | MORG054MFGN               | All Employees: Manufacturing in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | MORG054NA                 | All Employees: Total Nonfarm in Morgantown, WV (MSA)                                              | 1990-01-01          | 2022-08-01        |
@@ -71,8 +71,8 @@
 | MORG054PBSV               | All Employees: Professional and Business Services in Morgantown, WV (MSA)                         | 1990-01-01          | 2022-08-01        |
 | MORG054PBSVN              | All Employees: Professional and Business Services in Morgantown, WV (MSA)                         | 1990-01-01          | 2022-08-01        |
 | MORG054PCPI               | Per Capita Personal Income in Morgantown, WV (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| MORG054UR                 | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| MORG054URN                | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| MORG054UR                 | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| MORG054URN                | Unemployment Rate in Morgantown, WV (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | MRWPOP                    | Resident Population in Morgantown, WV (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | NEWLISCOU34060            | Housing Inventory: New Listing Count in Morgantown, WV (CBSA)                                     | 2016-07-01          | 2022-08-01        |
 | NEWLISCOUMM34060          | Housing Inventory: New Listing Count Month-Over-Month in Morgantown, WV (CBSA)                    | 2017-07-01          | 2022-08-01        |

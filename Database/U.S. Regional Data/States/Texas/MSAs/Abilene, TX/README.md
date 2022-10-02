@@ -10,8 +10,8 @@
 | ABIL148INFON              | All Employees: Information in Abilene, TX (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | ABIL148LEIH               | All Employees: Leisure and Hospitality in Abilene, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | ABIL148LEIHN              | All Employees: Leisure and Hospitality in Abilene, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| ABIL148LF                 | Civilian Labor Force in Abilene, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| ABIL148LFN                | Civilian Labor Force in Abilene, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| ABIL148LF                 | Civilian Labor Force in Abilene, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| ABIL148LFN                | Civilian Labor Force in Abilene, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | ABIL148MFG                | All Employees: Manufacturing in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | ABIL148MFGN               | All Employees: Manufacturing in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | ABIL148NA                 | All Employees: Total Nonfarm in Abilene, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -25,8 +25,8 @@
 | ABIL148SRVON              | All Employees: Other Services in Abilene, TX (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | ABIL148TRAD               | All Employees: Trade, Transportation, and Utilities in Abilene, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | ABIL148TRADN              | All Employees: Trade, Transportation, and Utilities in Abilene, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| ABIL148UR                 | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| ABIL148URN                | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| ABIL148UR                 | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| ABIL148URN                | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | ABISA158MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
 | ABISA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
 | ABISA175MFRBDAL           | Total Nonfarm Payroll Employment for Abilene, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
@@ -58,9 +58,9 @@
 | HOSCMSA10180              | Market Hotness: Hotness Score in Abilene, TX (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD10180                 | Implicit Regional Price Deflator for Abilene, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT481018000000003A     | Unemployment Rate in Abilene, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT481018000000004      | Unemployed Persons in Abilene, TX (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT481018000000004      | Unemployed Persons in Abilene, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT481018000000004A     | Unemployed Persons in Abilene, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT481018000000005      | Employed Persons in Abilene, TX (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT481018000000005      | Employed Persons in Abilene, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT481018000000005A     | Employed Persons in Abilene, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT481018000000006A     | Civilian Labor Force in Abilene, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA10180          | Market Hotness: Listing Views per Property in Abilene, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |

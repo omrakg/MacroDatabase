@@ -1,4 +1,4 @@
 | Folder                   |   Files / Folders |
 |--------------------------|-------------------|
-| Fort Worth-Arlington, TX |                 0 |
+| Fort Worth-Arlington, TX |               213 |
 | Dallas-Plano-Irving, TX  |               358 |

@@ -8,10 +8,10 @@
 | AVELISPRIMM19660          | Housing Inventory: Average Listing Price Month-Over-Month in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY19660          | Housing Inventory: Average Listing Price Year-Over-Year in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                | 2017-07-01          | 2022-08-01        |
 | DDOPOP                    | Resident Population in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| DELT612BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Deltona-Daytona Beach-Ormond Beach, FL (MSA)            | 1988-01-01          | 2022-07-01        |
-| DELT612BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Deltona-Daytona Beach-Ormond Beach, FL (MSA)            | 1988-01-01          | 2022-07-01        |
-| DELT612BPPRIV             | New Private Housing Units Authorized by Building Permits for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
-| DELT612BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
+| DELT612BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Deltona-Daytona Beach-Ormond Beach, FL (MSA)            | 1988-01-01          | 2022-08-01        |
+| DELT612BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Deltona-Daytona Beach-Ormond Beach, FL (MSA)            | 1988-01-01          | 2022-08-01        |
+| DELT612BPPRIV             | New Private Housing Units Authorized by Building Permits for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                               | 1988-01-01          | 2022-08-01        |
+| DELT612BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                               | 1988-01-01          | 2022-08-01        |
 | DELT612EDUH               | All Employees: Education and Health Services in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | DELT612EDUHN              | All Employees: Education and Health Services in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | DELT612FIRE               | All Employees: Financial Activities in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -22,8 +22,8 @@
 | DELT612INFON              | All Employees: Information in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | DELT612LEIH               | All Employees: Leisure and Hospitality in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | DELT612LEIHN              | All Employees: Leisure and Hospitality in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| DELT612LF                 | Civilian Labor Force in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| DELT612LFN                | Civilian Labor Force in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| DELT612LF                 | Civilian Labor Force in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| DELT612LFN                | Civilian Labor Force in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | DELT612MFG                | All Employees: Manufacturing in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | DELT612MFGN               | All Employees: Manufacturing in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | DELT612NA                 | All Employees: Total Nonfarm in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -37,8 +37,8 @@
 | DELT612SRVON              | All Employees: Other Services in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | DELT612TRAD               | All Employees: Trade, Transportation, and Utilities in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | DELT612TRADN              | All Employees: Trade, Transportation, and Utilities in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| DELT612UR                 | Unemployment Rate in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| DELT612URN                | Unemployment Rate in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| DELT612UR                 | Unemployment Rate in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| DELT612URN                | Unemployment Rate in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | DESCMSA19660              | Market Hotness: Demand Score in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC196630010             | Total Quarterly Wages in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC196630010SA           | Total Quarterly Wages in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -59,9 +59,9 @@
 | IHLCHG19660               | Job Postings on Indeed in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD19660                 | Implicit Regional Price Deflator for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT121966000000003A     | Unemployment Rate in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT121966000000004      | Unemployed Persons in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT121966000000004      | Unemployed Persons in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT121966000000004A     | Unemployed Persons in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT121966000000005      | Employed Persons in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT121966000000005      | Employed Persons in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT121966000000005A     | Employed Persons in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT121966000000006A     | Civilian Labor Force in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA19660          | Market Hotness: Listing Views per Property in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                             | 2018-08-01          | 2022-08-01        |

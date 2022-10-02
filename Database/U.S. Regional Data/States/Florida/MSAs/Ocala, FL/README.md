@@ -26,9 +26,9 @@
 | HOSCMSA36100              | Market Hotness: Hotness Score in Ocala, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD36100                 | Implicit Regional Price Deflator for Ocala, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT123610000000003A     | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT123610000000004      | Unemployed Persons in Ocala, FL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT123610000000004      | Unemployed Persons in Ocala, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT123610000000004A     | Unemployed Persons in Ocala, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT123610000000005      | Employed Persons in Ocala, FL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT123610000000005      | Employed Persons in Ocala, FL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT123610000000005A     | Employed Persons in Ocala, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT123610000000006A     | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA36100          | Market Hotness: Listing Views per Property in Ocala, FL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -61,10 +61,10 @@
 | NEWLISCOUYY36100          | Housing Inventory: New Listing Count Year-Over-Year in Ocala, FL (CBSA)                                    | 2017-07-01          | 2022-08-01        |
 | NGMP36100                 | Total Gross Domestic Product for Ocala, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA36100            | Market Hotness: Nielsen Household Rank in Ocala, FL (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
-| OCAL112BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocala, FL (MSA)            | 1988-01-01          | 2022-07-01        |
-| OCAL112BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocala, FL (MSA)            | 1988-01-01          | 2022-07-01        |
-| OCAL112BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocala, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
-| OCAL112BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Ocala, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
+| OCAL112BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocala, FL (MSA)            | 1988-01-01          | 2022-08-01        |
+| OCAL112BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocala, FL (MSA)            | 1988-01-01          | 2022-08-01        |
+| OCAL112BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocala, FL (MSA)                               | 1988-01-01          | 2022-08-01        |
+| OCAL112BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Ocala, FL (MSA)                               | 1988-01-01          | 2022-08-01        |
 | OCAL112EDUH               | All Employees: Education and Health Services in Ocala, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | OCAL112EDUHN              | All Employees: Education and Health Services in Ocala, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | OCAL112FIRE               | All Employees: Financial Activities in Ocala, FL (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -75,8 +75,8 @@
 | OCAL112INFON              | All Employees: Information in Ocala, FL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | OCAL112LEIH               | All Employees: Leisure and Hospitality in Ocala, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | OCAL112LEIHN              | All Employees: Leisure and Hospitality in Ocala, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| OCAL112LF                 | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| OCAL112LFN                | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| OCAL112LF                 | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| OCAL112LFN                | Civilian Labor Force in Ocala, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | OCAL112MFG                | All Employees: Manufacturing in Ocala, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | OCAL112MFGN               | All Employees: Manufacturing in Ocala, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | OCAL112NA                 | All Employees: Total Nonfarm in Ocala, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -90,8 +90,8 @@
 | OCAL112SRVON              | All Employees: Other Services in Ocala, FL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | OCAL112TRAD               | All Employees: Trade, Transportation, and Utilities in Ocala, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | OCAL112TRADN              | All Employees: Trade, Transportation, and Utilities in Ocala, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| OCAL112UR                 | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| OCAL112URN                | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| OCAL112UR                 | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| OCAL112URN                | Unemployment Rate in Ocala, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | OCLPOP                    | Resident Population in Ocala, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136100          | U.S. Granted Utility Patents Originating in Ocala, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36100            | Housing Inventory: Pending Listing Count in Ocala, FL (CBSA)                                               | 2016-07-01          | 2022-08-01        |

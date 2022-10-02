@@ -29,8 +29,8 @@
 | LAKE322GOVTN              | All Employees: Government in Lake Charles, LA (MSA)                                                                           | 1990-01-01          | 2022-08-01        |
 | LAKE322LEIH               | All Employees: Leisure and Hospitality in Lake Charles, LA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | LAKE322LEIHN              | All Employees: Leisure and Hospitality in Lake Charles, LA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
-| LAKE322LF                 | Civilian Labor Force in Lake Charles, LA (MSA)                                                                                | 1990-01-01          | 2022-07-01        |
-| LAKE322LFN                | Civilian Labor Force in Lake Charles, LA (MSA)                                                                                | 1990-01-01          | 2022-07-01        |
+| LAKE322LF                 | Civilian Labor Force in Lake Charles, LA (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
+| LAKE322LFN                | Civilian Labor Force in Lake Charles, LA (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
 | LAKE322MFG                | All Employees: Manufacturing in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAKE322MFGN               | All Employees: Manufacturing in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAKE322NA                 | All Employees: Total Nonfarm in Lake Charles, LA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
@@ -40,12 +40,12 @@
 | LAKE322PCPI               | Per Capita Personal Income in Lake Charles, LA (MSA)                                                                          | 1969-01-01          | 2020-01-01        |
 | LAKE322TRAD               | All Employees: Trade, Transportation, and Utilities in Lake Charles, LA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | LAKE322TRADN              | All Employees: Trade, Transportation, and Utilities in Lake Charles, LA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
-| LAKE322UR                 | Unemployment Rate in Lake Charles, LA (MSA)                                                                                   | 1990-01-01          | 2022-07-01        |
-| LAKE322URN                | Unemployment Rate in Lake Charles, LA (MSA)                                                                                   | 1990-01-01          | 2022-07-01        |
+| LAKE322UR                 | Unemployment Rate in Lake Charles, LA (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
+| LAKE322URN                | Unemployment Rate in Lake Charles, LA (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
 | LAUMT222934000000003A     | Unemployment Rate in Lake Charles, LA (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT222934000000004      | Unemployed Persons in Lake Charles, LA (MSA)                                                                                  | 1990-01-01          | 2022-07-01        |
+| LAUMT222934000000004      | Unemployed Persons in Lake Charles, LA (MSA)                                                                                  | 1990-01-01          | 2022-08-01        |
 | LAUMT222934000000004A     | Unemployed Persons in Lake Charles, LA (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT222934000000005      | Employed Persons in Lake Charles, LA (MSA)                                                                                    | 1990-01-01          | 2022-07-01        |
+| LAUMT222934000000005      | Employed Persons in Lake Charles, LA (MSA)                                                                                    | 1990-01-01          | 2022-08-01        |
 | LAUMT222934000000005A     | Employed Persons in Lake Charles, LA (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT222934000000006A     | Civilian Labor Force in Lake Charles, LA (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LCHPOP                    | Resident Population in Lake Charles, LA (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |

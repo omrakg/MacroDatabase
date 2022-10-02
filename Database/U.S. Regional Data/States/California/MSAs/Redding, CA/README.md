@@ -26,9 +26,9 @@
 | HOSCMSA39820              | Market Hotness: Hotness Score in Redding, CA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD39820                 | Implicit Regional Price Deflator for Redding, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT063982000000003A     | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT063982000000004      | Unemployed Persons in Redding, CA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT063982000000004      | Unemployed Persons in Redding, CA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT063982000000004A     | Unemployed Persons in Redding, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT063982000000005      | Employed Persons in Redding, CA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT063982000000005      | Employed Persons in Redding, CA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT063982000000005A     | Employed Persons in Redding, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT063982000000006A     | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA39820          | Market Hotness: Listing Views per Property in Redding, CA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -83,8 +83,8 @@
 | REDD806INFON              | All Employees: Information in Redding, CA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | REDD806LEIH               | All Employees: Leisure and Hospitality in Redding, CA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | REDD806LEIHN              | All Employees: Leisure and Hospitality in Redding, CA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| REDD806LF                 | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| REDD806LFN                | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| REDD806LF                 | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| REDD806LFN                | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | REDD806MFG                | All Employees: Manufacturing in Redding, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | REDD806MFGN               | All Employees: Manufacturing in Redding, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | REDD806NA                 | All Employees: Total Nonfarm in Redding, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -98,8 +98,8 @@
 | REDD806SRVON              | All Employees: Other Services in Redding, CA (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | REDD806TRAD               | All Employees: Trade, Transportation, and Utilities in Redding, CA (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | REDD806TRADN              | All Employees: Trade, Transportation, and Utilities in Redding, CA (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| REDD806UR                 | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| REDD806URN                | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| REDD806UR                 | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| REDD806URN                | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | RGMP39820                 | Total Real Gross Domestic Product for Redding, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI39820                  | Real Personal Income for Redding, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC39820                | Real Per Capita Personal Income for Redding, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |

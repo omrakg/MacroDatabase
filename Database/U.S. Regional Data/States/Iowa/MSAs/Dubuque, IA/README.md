@@ -10,15 +10,15 @@
 | DUBPOP                    | Resident Population in Dubuque, IA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DUBU219GOVT               | All Employees: Government in Dubuque, IA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | DUBU219GOVTN              | All Employees: Government in Dubuque, IA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
-| DUBU219LF                 | Civilian Labor Force in Dubuque, IA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| DUBU219LFN                | Civilian Labor Force in Dubuque, IA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| DUBU219LF                 | Civilian Labor Force in Dubuque, IA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| DUBU219LFN                | Civilian Labor Force in Dubuque, IA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | DUBU219NA                 | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | DUBU219NAN                | All Employees: Total Nonfarm in Dubuque, IA (MSA)                                              | 1960-01-01          | 2022-08-01        |
 | DUBU219PCPI               | Per Capita Personal Income in Dubuque, IA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | DUBU219TRAD               | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2022-08-01        |
 | DUBU219TRADN              | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2022-08-01        |
-| DUBU219UR                 | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| DUBU219URN                | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| DUBU219UR                 | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| DUBU219URN                | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | ENUC202230010             | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC202230010SA           | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC202240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -33,9 +33,9 @@
 | ENUC202240510SA           | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD20220                 | Implicit Regional Price Deflator for Dubuque, IA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT192022000000003A     | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT192022000000004      | Unemployed Persons in Dubuque, IA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT192022000000004      | Unemployed Persons in Dubuque, IA (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT192022000000004A     | Unemployed Persons in Dubuque, IA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT192022000000005      | Employed Persons in Dubuque, IA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT192022000000005      | Employed Persons in Dubuque, IA (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT192022000000005A     | Employed Persons in Dubuque, IA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT192022000000006A     | Civilian Labor Force in Dubuque, IA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR20220          | Housing Inventory: Median Days on Market in Dubuque, IA (CBSA)                                 | 2016-07-01          | 2022-08-01        |

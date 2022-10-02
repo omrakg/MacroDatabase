@@ -7,19 +7,10 @@
 | AVELISPRIMM14460          | Housing Inventory: Average Listing Price Month-Over-Month in Boston-Cambridge-Newton, MA-NH (CBSA)                   | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY14460          | Housing Inventory: Average Listing Price Year-Over-Year in Boston-Cambridge-Newton, MA-NH (CBSA)                     | 2017-07-01          | 2022-08-01        |
 | BOSPOP                    | Resident Population in Boston-Cambridge-Newton, MA-NH (MSA)                                                          | 2000-01-01          | 2021-01-01        |
-| BOST625BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Boston-Cambridge-Newton, MA-NH (MSA) | 1988-01-01          | 2022-07-01        |
-| BOST625BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Boston-Cambridge-Newton, MA-NH (MSA) | 1988-01-01          | 2022-07-01        |
-| BOST625BPPRIV             | New Private Housing Structures Authorized by Building Permits for Boston-Cambridge-Newton, MA-NH (MSA)               | 1988-01-01          | 2022-07-01        |
-| BOST625BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for Boston-Cambridge-Newton, MA-NH (MSA)               | 1988-01-01          | 2022-07-01        |
-| BOXRCPSNSA                | Condo Price Sales Pair Counts for Boston, Massachusetts                                                              | 1995-01-01          | 2022-06-01        |
-| BOXRCSA                   | Condo Price Index for Boston, Massachusetts                                                                          | 1995-01-01          | 2022-06-01        |
-| BOXRHTNSA                 | Home Price Index (High Tier) for Boston, Massachusetts                                                               | 1987-01-01          | 2022-06-01        |
-| BOXRHTSA                  | Home Price Index (High Tier) for Boston, Massachusetts                                                               | 1987-01-01          | 2022-06-01        |
-| BOXRLTNSA                 | Home Price Index (Low Tier) for Boston, Massachusetts                                                                | 1987-01-01          | 2022-06-01        |
-| BOXRLTSA                  | Home Price Index (Low Tier) for Boston, Massachusetts                                                                | 1987-01-01          | 2022-06-01        |
-| BOXRMTNSA                 | Home Price Index (Middle Tier) for Boston, Massachusetts                                                             | 1987-01-01          | 2022-06-01        |
-| BOXRMTSA                  | Home Price Index (Middle Tier) for Boston, Massachusetts                                                             | 1987-01-01          | 2022-06-01        |
-| BOXRPSNSA                 | Home Price Sales Pair Counts for Boston, Massachusetts                                                               | 1987-01-01          | 2022-06-01        |
+| BOST625BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Boston-Cambridge-Newton, MA-NH (MSA) | 1988-01-01          | 2022-08-01        |
+| BOST625BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Boston-Cambridge-Newton, MA-NH (MSA) | 1988-01-01          | 2022-08-01        |
+| BOST625BPPRIV             | New Private Housing Structures Authorized by Building Permits for Boston-Cambridge-Newton, MA-NH (MSA)               | 1988-01-01          | 2022-08-01        |
+| BOST625BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for Boston-Cambridge-Newton, MA-NH (MSA)               | 1988-01-01          | 2022-08-01        |
 | DESCMSA14460              | Market Hotness: Demand Score in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-08-01          | 2022-08-01        |
 | ENUC144630010             | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
 | ENUC144630010SA           | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-01-01        |

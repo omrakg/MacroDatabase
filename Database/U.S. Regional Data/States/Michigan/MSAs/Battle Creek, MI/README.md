@@ -15,8 +15,8 @@
 | BATT926GOVTN              | All Employees: Government in Battle Creek, MI (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | BATT926LEIH               | All Employees: Leisure and Hospitality in Battle Creek, MI (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | BATT926LEIHN              | All Employees: Leisure and Hospitality in Battle Creek, MI (MSA)                                              | 1990-01-01          | 2022-08-01        |
-| BATT926LF                 | Civilian Labor Force in Battle Creek, MI (MSA)                                                                | 1990-01-01          | 2022-07-01        |
-| BATT926LFN                | Civilian Labor Force in Battle Creek, MI (MSA)                                                                | 1990-01-01          | 2022-07-01        |
+| BATT926LF                 | Civilian Labor Force in Battle Creek, MI (MSA)                                                                | 1990-01-01          | 2022-08-01        |
+| BATT926LFN                | Civilian Labor Force in Battle Creek, MI (MSA)                                                                | 1990-01-01          | 2022-08-01        |
 | BATT926MFG                | All Employees: Manufacturing in Battle Creek, MI (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | BATT926MFGN               | All Employees: Manufacturing in Battle Creek, MI (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | BATT926NA                 | All Employees: Total Nonfarm in Battle Creek, MI (MSA)                                                        | 1990-01-01          | 2022-08-01        |
@@ -30,8 +30,8 @@
 | BATT926SRVON              | All Employees: Other Services in Battle Creek, MI (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | BATT926TRAD               | All Employees: Trade, Transportation, and Utilities in Battle Creek, MI (MSA)                                 | 1990-01-01          | 2022-08-01        |
 | BATT926TRADN              | All Employees: Trade, Transportation, and Utilities in Battle Creek, MI (MSA)                                 | 1990-01-01          | 2022-08-01        |
-| BATT926UR                 | Unemployment Rate in Battle Creek, MI (MSA)                                                                   | 1990-01-01          | 2022-07-01        |
-| BATT926URN                | Unemployment Rate in Battle Creek, MI (MSA)                                                                   | 1990-01-01          | 2022-07-01        |
+| BATT926UR                 | Unemployment Rate in Battle Creek, MI (MSA)                                                                   | 1990-01-01          | 2022-08-01        |
+| BATT926URN                | Unemployment Rate in Battle Creek, MI (MSA)                                                                   | 1990-01-01          | 2022-08-01        |
 | BCEPOP                    | Resident Population in Battle Creek, MI (MSA)                                                                 | 2000-01-01          | 2021-01-01        |
 | DESCMSA12980              | Market Hotness: Demand Score in Battle Creek, MI (CBSA)                                                       | 2017-08-01          | 2022-08-01        |
 | ENUC129830010             | Total Quarterly Wages in Battle Creek, MI (MSA)                                                               | 1990-01-01          | 2022-01-01        |
@@ -52,9 +52,9 @@
 | HOSCMSA12980              | Market Hotness: Hotness Score in Battle Creek, MI (CBSA)                                                      | 2017-08-01          | 2022-08-01        |
 | IRPD12980                 | Implicit Regional Price Deflator for Battle Creek, MI (MSA)                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT261298000000003A     | Unemployment Rate in Battle Creek, MI (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT261298000000004      | Unemployed Persons in Battle Creek, MI (MSA)                                                                  | 1990-01-01          | 2022-07-01        |
+| LAUMT261298000000004      | Unemployed Persons in Battle Creek, MI (MSA)                                                                  | 1990-01-01          | 2022-08-01        |
 | LAUMT261298000000004A     | Unemployed Persons in Battle Creek, MI (MSA)                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT261298000000005      | Employed Persons in Battle Creek, MI (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| LAUMT261298000000005      | Employed Persons in Battle Creek, MI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | LAUMT261298000000005A     | Employed Persons in Battle Creek, MI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT261298000000006A     | Civilian Labor Force in Battle Creek, MI (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA12980          | Market Hotness: Listing Views per Property in Battle Creek, MI (CBSA)                                         | 2018-08-01          | 2022-08-01        |

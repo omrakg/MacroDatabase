@@ -26,9 +26,9 @@
 | HOSCMSA44100              | Market Hotness: Hotness Score in Springfield, IL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD44100                 | Implicit Regional Price Deflator for Springfield, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT174410000000003A     | Unemployment Rate in Springfield, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT174410000000004      | Unemployed Persons in Springfield, IL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT174410000000004      | Unemployed Persons in Springfield, IL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT174410000000004A     | Unemployed Persons in Springfield, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT174410000000005      | Employed Persons in Springfield, IL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT174410000000005      | Employed Persons in Springfield, IL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT174410000000005A     | Employed Persons in Springfield, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT174410000000006A     | Civilian Labor Force in Springfield, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA44100          | Market Hotness: Listing Views per Property in Springfield, IL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -146,8 +146,8 @@
 | SPRI117INFON              | All Employees: Information in Springfield, IL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | SPRI117LEIH               | All Employees: Leisure and Hospitality in Springfield, IL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | SPRI117LEIHN              | All Employees: Leisure and Hospitality in Springfield, IL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| SPRI117LF                 | Civilian Labor Force in Springfield, IL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| SPRI117LFN                | Civilian Labor Force in Springfield, IL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| SPRI117LF                 | Civilian Labor Force in Springfield, IL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| SPRI117LFN                | Civilian Labor Force in Springfield, IL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | SPRI117MFG                | All Employees: Manufacturing in Springfield, IL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SPRI117MFGN               | All Employees: Manufacturing in Springfield, IL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SPRI117NA                 | All Employees: Total Nonfarm in Springfield, IL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -161,7 +161,7 @@
 | SPRI117SRVON              | All Employees: Other Services in Springfield, IL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | SPRI117TRAD               | All Employees: Trade, Transportation, and Utilities in Springfield, IL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SPRI117TRADN              | All Employees: Trade, Transportation, and Utilities in Springfield, IL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| SPRI117UR                 | Unemployment Rate in Springfield, IL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| SPRI117URN                | Unemployment Rate in Springfield, IL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| SPRI117UR                 | Unemployment Rate in Springfield, IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| SPRI117URN                | Unemployment Rate in Springfield, IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | SPRPOP                    | Resident Population in Springfield, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SUSCMSA44100              | Market Hotness: Supply Score in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

@@ -18,8 +18,8 @@
 | ELKH118INFON              | All Employees: Information in Elkhart-Goshen, IN (MSA)                                                                | 1990-01-01          | 2022-08-01        |
 | ELKH118LEIH               | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2022-08-01        |
 | ELKH118LEIHN              | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2022-08-01        |
-| ELKH118LF                 | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
-| ELKH118LFN                | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| ELKH118LF                 | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| ELKH118LFN                | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | ELKH118MFG                | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | ELKH118MFGN               | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | ELKH118NA                 | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-08-01        |
@@ -33,8 +33,8 @@
 | ELKH118SRVON              | All Employees: Other Services in Elkhart-Goshen, IN (MSA)                                                             | 1990-01-01          | 2022-08-01        |
 | ELKH118TRAD               | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2022-08-01        |
 | ELKH118TRADN              | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2022-08-01        |
-| ELKH118UR                 | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-07-01        |
-| ELKH118URN                | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-07-01        |
+| ELKH118UR                 | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-08-01        |
+| ELKH118URN                | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-08-01        |
 | ELKPOP                    | Resident Population in Elkhart-Goshen, IN (MSA)                                                                       | 2000-01-01          | 2021-01-01        |
 | ENUC211430010             | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC211430010SA           | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2022-01-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA21140              | Market Hotness: Hotness Score in Elkhart-Goshen, IN (CBSA)                                                            | 2017-08-01          | 2022-08-01        |
 | IRPD21140                 | Implicit Regional Price Deflator for Elkhart-Goshen, IN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT182114000000003A     | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT182114000000004      | Unemployed Persons in Elkhart-Goshen, IN (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT182114000000004      | Unemployed Persons in Elkhart-Goshen, IN (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT182114000000004A     | Unemployed Persons in Elkhart-Goshen, IN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT182114000000005      | Employed Persons in Elkhart-Goshen, IN (MSA)                                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT182114000000005      | Employed Persons in Elkhart-Goshen, IN (MSA)                                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT182114000000005A     | Employed Persons in Elkhart-Goshen, IN (MSA)                                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT182114000000006A     | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA21140          | Market Hotness: Listing Views per Property in Elkhart-Goshen, IN (CBSA)                                               | 2018-08-01          | 2022-08-01        |

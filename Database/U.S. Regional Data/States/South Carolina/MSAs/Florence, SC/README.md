@@ -22,15 +22,15 @@
 | ENUC225040510SA           | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2022-01-01        |
 | FLOR545GOVT               | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | FLOR545GOVTN              | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-08-01        |
-| FLOR545LF                 | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| FLOR545LFN                | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| FLOR545LF                 | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| FLOR545LFN                | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | FLOR545NA                 | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | FLOR545NAN                | All Employees: Total Nonfarm in Florence, SC (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | FLOR545PCPI               | Per Capita Personal Income in Florence, SC (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | FLOR545TRAD               | All Employees: Trade, Transportation, and Utilities in Florence, SC (MSA)                       | 1990-01-01          | 2022-08-01        |
 | FLOR545TRADN              | All Employees: Trade, Transportation, and Utilities in Florence, SC (MSA)                       | 1990-01-01          | 2022-08-01        |
-| FLOR545UR                 | Unemployment Rate in Florence, SC (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| FLOR545URN                | Unemployment Rate in Florence, SC (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| FLOR545UR                 | Unemployment Rate in Florence, SC (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| FLOR545URN                | Unemployment Rate in Florence, SC (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | FRNPOP                    | Resident Population in Florence, SC (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA22500            | Market Hotness: Hotness Rank in Florence, SC (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA22500              | Market Hotness: Hotness Rank in Florence, SC (CBSA)                                             | 2017-08-01          | 2022-08-01        |
@@ -38,9 +38,9 @@
 | HOSCMSA22500              | Market Hotness: Hotness Score in Florence, SC (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD22500                 | Implicit Regional Price Deflator for Florence, SC (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT452250000000003A     | Unemployment Rate in Florence, SC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT452250000000004      | Unemployed Persons in Florence, SC (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT452250000000004      | Unemployed Persons in Florence, SC (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT452250000000004A     | Unemployed Persons in Florence, SC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT452250000000005      | Employed Persons in Florence, SC (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT452250000000005      | Employed Persons in Florence, SC (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT452250000000005A     | Employed Persons in Florence, SC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT452250000000006A     | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA22500          | Market Hotness: Listing Views per Property in Florence, SC (CBSA)                               | 2018-08-01          | 2022-08-01        |

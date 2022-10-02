@@ -27,9 +27,9 @@
 | IHLCHG45060               | Job Postings on Indeed in Syracuse, NY (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD45060                 | Implicit Regional Price Deflator for Syracuse, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT364506000000003A     | Unemployment Rate in Syracuse, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT364506000000004      | Unemployed Persons in Syracuse, NY (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT364506000000004      | Unemployed Persons in Syracuse, NY (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT364506000000004A     | Unemployed Persons in Syracuse, NY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT364506000000005      | Employed Persons in Syracuse, NY (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT364506000000005      | Employed Persons in Syracuse, NY (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT364506000000005A     | Employed Persons in Syracuse, NY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT364506000000006A     | Civilian Labor Force in Syracuse, NY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA45060          | Market Hotness: Listing Views per Property in Syracuse, NY (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -163,8 +163,8 @@
 | SYRA036INFON              | All Employees: Information in Syracuse, NY (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | SYRA036LEIH               | All Employees: Leisure and Hospitality in Syracuse, NY (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | SYRA036LEIHN              | All Employees: Leisure and Hospitality in Syracuse, NY (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| SYRA036LF                 | Civilian Labor Force in Syracuse, NY (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| SYRA036LFN                | Civilian Labor Force in Syracuse, NY (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| SYRA036LF                 | Civilian Labor Force in Syracuse, NY (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| SYRA036LFN                | Civilian Labor Force in Syracuse, NY (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | SYRA036MFG                | All Employees: Manufacturing in Syracuse, NY (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SYRA036MFGN               | All Employees: Manufacturing in Syracuse, NY (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SYRA036NA                 | All Employees: Total Nonfarm in Syracuse, NY (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -178,6 +178,6 @@
 | SYRA036SRVON              | All Employees: Other Services in Syracuse, NY (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | SYRA036TRAD               | All Employees: Trade, Transportation, and Utilities in Syracuse, NY (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SYRA036TRADN              | All Employees: Trade, Transportation, and Utilities in Syracuse, NY (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| SYRA036UR                 | Unemployment Rate in Syracuse, NY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| SYRA036URN                | Unemployment Rate in Syracuse, NY (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| SYRA036UR                 | Unemployment Rate in Syracuse, NY (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| SYRA036URN                | Unemployment Rate in Syracuse, NY (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | SYRPOP                    | Resident Population in Syracuse, NY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

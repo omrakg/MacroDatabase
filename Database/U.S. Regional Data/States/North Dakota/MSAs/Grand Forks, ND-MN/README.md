@@ -29,8 +29,8 @@
 | GRAN238INFON              | All Employees: Information in Grand Forks, ND-MN (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | GRAN238LEIH               | All Employees: Leisure and Hospitality in Grand Forks, ND-MN (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | GRAN238LEIHN              | All Employees: Leisure and Hospitality in Grand Forks, ND-MN (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| GRAN238LF                 | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| GRAN238LFN                | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| GRAN238LF                 | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| GRAN238LFN                | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | GRAN238MFG                | All Employees: Manufacturing in Grand Forks, ND-MN (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | GRAN238MFGN               | All Employees: Manufacturing in Grand Forks, ND-MN (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | GRAN238NA                 | All Employees: Total Nonfarm in Grand Forks, ND-MN (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -44,14 +44,14 @@
 | GRAN238SRVON              | All Employees: Other Services in Grand Forks, ND-MN (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | GRAN238TRAD               | All Employees: Trade, Transportation, and Utilities in Grand Forks, ND-MN (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | GRAN238TRADN              | All Employees: Trade, Transportation, and Utilities in Grand Forks, ND-MN (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| GRAN238UR                 | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| GRAN238URN                | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| GRAN238UR                 | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| GRAN238URN                | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | GRFPOP                    | Resident Population in Grand Forks, ND-MN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | IRPD24220                 | Implicit Regional Price Deflator for Grand Forks, ND-MN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT382422000000003A     | Unemployment Rate in Grand Forks, ND-MN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT382422000000004      | Unemployed Persons in Grand Forks, ND-MN (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT382422000000004      | Unemployed Persons in Grand Forks, ND-MN (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT382422000000004A     | Unemployed Persons in Grand Forks, ND-MN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT382422000000005      | Employed Persons in Grand Forks, ND-MN (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT382422000000005      | Employed Persons in Grand Forks, ND-MN (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT382422000000005A     | Employed Persons in Grand Forks, ND-MN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT382422000000006A     | Civilian Labor Force in Grand Forks, ND-MN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR24220          | Housing Inventory: Median Days on Market in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-08-01        |

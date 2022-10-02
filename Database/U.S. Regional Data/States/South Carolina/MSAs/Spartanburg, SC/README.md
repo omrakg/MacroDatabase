@@ -26,9 +26,9 @@
 | HOSCMSA43900              | Market Hotness: Hotness Score in Spartanburg, SC (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD43900                 | Implicit Regional Price Deflator for Spartanburg, SC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT454390000000003A     | Unemployment Rate in Spartanburg, SC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT454390000000004      | Unemployed Persons in Spartanburg, SC (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT454390000000004      | Unemployed Persons in Spartanburg, SC (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT454390000000004A     | Unemployed Persons in Spartanburg, SC (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT454390000000005      | Employed Persons in Spartanburg, SC (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT454390000000005      | Employed Persons in Spartanburg, SC (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT454390000000005A     | Employed Persons in Spartanburg, SC (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT454390000000006A     | Civilian Labor Force in Spartanburg, SC (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA43900          | Market Hotness: Listing Views per Property in Spartanburg, SC (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -150,8 +150,8 @@
 | SMU45439009093000001SA    | All Employees: Government: Local Government in Spartanburg, SC (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SPAR945GOVT               | All Employees: Government in Spartanburg, SC (MSA)                                                               | 1990-01-01          | 2022-08-01        |
 | SPAR945GOVTN              | All Employees: Government in Spartanburg, SC (MSA)                                                               | 1990-01-01          | 2022-08-01        |
-| SPAR945LF                 | Civilian Labor Force in Spartanburg, SC (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| SPAR945LFN                | Civilian Labor Force in Spartanburg, SC (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| SPAR945LF                 | Civilian Labor Force in Spartanburg, SC (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| SPAR945LFN                | Civilian Labor Force in Spartanburg, SC (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | SPAR945MFG                | All Employees: Manufacturing in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SPAR945MFGN               | All Employees: Manufacturing in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SPAR945NA                 | All Employees: Total Nonfarm in Spartanburg, SC (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -159,7 +159,7 @@
 | SPAR945PCPI               | Per Capita Personal Income in Spartanburg, SC (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | SPAR945TRAD               | All Employees: Trade, Transportation, and Utilities in Spartanburg, SC (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SPAR945TRADN              | All Employees: Trade, Transportation, and Utilities in Spartanburg, SC (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| SPAR945UR                 | Unemployment Rate in Spartanburg, SC (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| SPAR945URN                | Unemployment Rate in Spartanburg, SC (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| SPAR945UR                 | Unemployment Rate in Spartanburg, SC (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| SPAR945URN                | Unemployment Rate in Spartanburg, SC (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | SPBPOP                    | Resident Population in Spartanburg, SC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SUSCMSA43900              | Market Hotness: Supply Score in Spartanburg, SC (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

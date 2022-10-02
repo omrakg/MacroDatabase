@@ -1,23 +1,2 @@
-| id                     | title                                                                                                                                               | observation_start   | observation_end   |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU36935610500000002SA | Average Weekly Hours of All Employees: Total Private in New York City, NY (DISCONTINUED)                                                            | 2007-01-01          | 2022-03-01        |
-| SMU36935610500000003SA | Average Hourly Earnings of All Employees: Total Private in New York City, NY (DISCONTINUED)                                                         | 2007-01-01          | 2022-03-01        |
-| SMU36935610500000011SA | Average Weekly Earnings of All Employees: Total Private in New York City, NY (DISCONTINUED)                                                         | 2007-01-01          | 2022-03-01        |
-| SMU36935611500000007SA | Average Weekly Hours of Production Employees: Mining, Logging, and Construction in New York City, NY (DISCONTINUED)                                 | 2003-01-01          | 2022-03-01        |
-| SMU36935611500000008SA | Average Hourly Earnings of Production Employees: Mining, Logging, and Construction in New York City, NY (DISCONTINUED)                              | 2003-01-01          | 2022-03-01        |
-| SMU36935611500000030SA | Average Weekly Earnings of Production Employees: Mining, Logging, and Construction in New York City, NY (DISCONTINUED)                              | 2003-01-01          | 2022-03-01        |
-| SMU36935611523800007SA | Average Weekly Hours of Production Employees: Mining, Logging, and Construction: Specialty Trade Contractors in New York City, NY (DISCONTINUED)    | 2003-01-01          | 2015-12-01        |
-| SMU36935611523800008SA | Average Hourly Earnings of Production Employees: Mining, Logging, and Construction: Specialty Trade Contractors in New York City, NY (DISCONTINUED) | 2003-01-01          | 2015-12-01        |
-| SMU36935611523800030SA | Average Weekly Earnings of Production Employees: Mining, Logging, and Construction: Specialty Trade Contractors in New York City, NY (DISCONTINUED) | 2003-01-01          | 2015-12-01        |
-| SMU36935612023800007SA | Average Weekly Hours of Production Employees: Construction: Specialty Trade Contractors in New York City, NY (DISCONTINUED)                         | 2005-02-01          | 2022-03-01        |
-| SMU36935612023800008SA | Average Hourly Earnings of Production Employees: Construction: Specialty Trade Contractors in New York City, NY (DISCONTINUED)                      | 2005-02-01          | 2022-03-01        |
-| SMU36935612023800030SA | Average Weekly Earnings of Production Employees: Construction: Specialty Trade Contractors in New York City, NY (DISCONTINUED)                      | 2005-02-01          | 2022-03-01        |
-| SMU36935613000000007SA | Average Weekly Hours of Production Employees: Manufacturing in New York City, NY (DISCONTINUED)                                                     | 2001-01-01          | 2022-03-01        |
-| SMU36935613000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in New York City, NY (DISCONTINUED)                                                  | 2001-01-01          | 2022-03-01        |
-| SMU36935613000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in New York City, NY (DISCONTINUED)                                                  | 2001-01-01          | 2022-03-01        |
-| SMU36935613200000007SA | Average Weekly Hours of Production Employees: Manufacturing: Non-Durable Goods in New York City, NY (DISCONTINUED)                                  | 2001-01-01          | 2022-03-01        |
-| SMU36935613200000008SA | Average Hourly Earnings of Production Employees: Manufacturing: Non-Durable Goods in New York City, NY (DISCONTINUED)                               | 2001-01-01          | 2022-03-01        |
-| SMU36935613200000030SA | Average Weekly Earnings of Production Employees: Manufacturing: Non-Durable Goods in New York City, NY (DISCONTINUED)                               | 2001-01-01          | 2022-03-01        |
-| SMU36935615552500001   | All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles in New York City, NY (DISCONTINUED)                                | 1990-01-01          | 2013-12-01        |
-| SMU36935615552500001A  | All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles in New York City, NY (DISCONTINUED)                                | 1990-01-01          | 2012-01-01        |
-| SMU36935615552500001SA | All Employees: Financial Activities: Funds, Trusts, and Other Financial Vehicles in New York City, NY (DISCONTINUED)                                | 1990-01-01          | 2013-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -18,13 +18,13 @@
 | ENUC317440510             | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2022-01-01        |
 | ENUC317440510SA           | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2022-01-01        |
 | IRPD31740                 | Implicit Regional Price Deflator for Manhattan, KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| LAUMT203174000000003      | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| LAUMT203174000000003      | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | LAUMT203174000000003A     | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT203174000000004      | Unemployed Persons in Manhattan, KS (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT203174000000004      | Unemployed Persons in Manhattan, KS (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT203174000000004A     | Unemployed Persons in Manhattan, KS (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT203174000000005      | Employed Persons in Manhattan, KS (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT203174000000005      | Employed Persons in Manhattan, KS (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT203174000000005A     | Employed Persons in Manhattan, KS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT203174000000006      | Civilian Labor Force in Manhattan, KS (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT203174000000006      | Civilian Labor Force in Manhattan, KS (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT203174000000006A     | Civilian Labor Force in Manhattan, KS (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR31740          | Housing Inventory: Median Days on Market in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-08-01        |
 | MEDDAYONMARMM31740        | Housing Inventory: Median Days on Market Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-08-01        |

@@ -26,9 +26,9 @@
 | HOSCMSA37460              | Market Hotness: Hotness Score in Panama City, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD37460                 | Implicit Regional Price Deflator for Panama City, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT123746000000003A     | Unemployment Rate in Panama City, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT123746000000004      | Unemployed Persons in Panama City, FL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT123746000000004      | Unemployed Persons in Panama City, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT123746000000004A     | Unemployed Persons in Panama City, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT123746000000005      | Employed Persons in Panama City, FL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT123746000000005      | Employed Persons in Panama City, FL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT123746000000005A     | Employed Persons in Panama City, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT123746000000006A     | Civilian Labor Force in Panama City, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA37460          | Market Hotness: Listing Views per Property in Panama City, FL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -71,8 +71,8 @@
 | PANA412INFON              | All Employees: Information in Panama City, FL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | PANA412LEIH               | All Employees: Leisure and Hospitality in Panama City, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | PANA412LEIHN              | All Employees: Leisure and Hospitality in Panama City, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| PANA412LF                 | Civilian Labor Force in Panama City, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| PANA412LFN                | Civilian Labor Force in Panama City, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| PANA412LF                 | Civilian Labor Force in Panama City, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| PANA412LFN                | Civilian Labor Force in Panama City, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | PANA412MFG                | All Employees: Manufacturing in Panama City, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | PANA412MFGN               | All Employees: Manufacturing in Panama City, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | PANA412NA                 | All Employees: Total Nonfarm in Panama City, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -86,8 +86,8 @@
 | PANA412SRVON              | All Employees: Other Services in Panama City, FL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | PANA412TRAD               | All Employees: Trade, Transportation, and Utilities in Panama City, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | PANA412TRADN              | All Employees: Trade, Transportation, and Utilities in Panama City, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| PANA412UR                 | Unemployment Rate in Panama City, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| PANA412URN                | Unemployment Rate in Panama City, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| PANA412UR                 | Unemployment Rate in Panama City, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| PANA412URN                | Unemployment Rate in Panama City, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | PANPOP                    | Resident Population in Panama City, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA137460          | U.S. Granted Utility Patents Originating in Panama City-Lynn Haven-Panama City Beach, FL (MSA)                   | 2000-01-01          | 2015-01-01        |
 | PENLISCOU37460            | Housing Inventory: Pending Listing Count in Panama City, FL (CBSA)                                               | 2016-07-01          | 2022-08-01        |

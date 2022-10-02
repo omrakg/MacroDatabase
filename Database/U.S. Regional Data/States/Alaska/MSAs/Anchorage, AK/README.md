@@ -3,10 +3,10 @@
 | ACTLISCOU11260            | Housing Inventory: Active Listing Count in Anchorage, AK (CBSA)                                                | 2016-07-01          | 2022-08-01        |
 | ACTLISCOUMM11260          | Housing Inventory: Active Listing Count Month-Over-Month in Anchorage, AK (CBSA)                               | 2017-07-01          | 2022-08-01        |
 | ACTLISCOUYY11260          | Housing Inventory: Active Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| ANCH202BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-07-01        |
-| ANCH202BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-07-01        |
-| ANCH202BPPRIV             | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-07-01        |
-| ANCH202BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-07-01        |
+| ANCH202BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-08-01        |
+| ANCH202BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Anchorage, AK (MSA)            | 1988-01-01          | 2022-08-01        |
+| ANCH202BPPRIV             | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-08-01        |
+| ANCH202BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Anchorage, AK (MSA)                               | 1988-01-01          | 2022-08-01        |
 | ANCH202EDUH               | All Employees: Education and Health Services in Anchorage, AK (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | ANCH202EDUHN              | All Employees: Education and Health Services in Anchorage, AK (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | ANCH202FIRE               | All Employees: Financial Activities in Anchorage, AK (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -17,8 +17,8 @@
 | ANCH202INFON              | All Employees: Information in Anchorage, AK (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | ANCH202LEIH               | All Employees: Leisure and Hospitality in Anchorage, AK (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | ANCH202LEIHN              | All Employees: Leisure and Hospitality in Anchorage, AK (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| ANCH202LF                 | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| ANCH202LFN                | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| ANCH202LF                 | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| ANCH202LFN                | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | ANCH202MFG                | All Employees: Manufacturing in Anchorage, AK (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | ANCH202MFGN               | All Employees: Manufacturing in Anchorage, AK (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | ANCH202NA                 | All Employees: Total Nonfarm in Anchorage, AK (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -30,8 +30,8 @@
 | ANCH202SRVON              | All Employees: Other Services in Anchorage, AK (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | ANCH202TRAD               | All Employees: Trade, Transportation, and Utilities in Anchorage, AK (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | ANCH202TRADN              | All Employees: Trade, Transportation, and Utilities in Anchorage, AK (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| ANCH202UR                 | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| ANCH202URN                | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| ANCH202UR                 | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| ANCH202URN                | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | ANCPOP                    | Resident Population in Anchorage, AK (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ATNHPIUS11260Q            | All-Transactions House Price Index for Anchorage, AK (MSA)                                                     | 1978-04-01          | 2022-04-01        |
 | AVELISPRI11260            | Housing Inventory: Average Listing Price in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA11260              | Market Hotness: Hotness Score in Anchorage, AK (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD11260                 | Implicit Regional Price Deflator for Anchorage, AK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT021126000000003A     | Unemployment Rate in Anchorage, AK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT021126000000004      | Unemployed Persons in Anchorage, AK (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT021126000000004      | Unemployed Persons in Anchorage, AK (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT021126000000004A     | Unemployed Persons in Anchorage, AK (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT021126000000005      | Employed Persons in Anchorage, AK (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT021126000000005      | Employed Persons in Anchorage, AK (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT021126000000005A     | Employed Persons in Anchorage, AK (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT021126000000006A     | Civilian Labor Force in Anchorage, AK (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA11260          | Market Hotness: Listing Views per Property in Anchorage, AK (CBSA)                                             | 2018-08-01          | 2022-08-01        |

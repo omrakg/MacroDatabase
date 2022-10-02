@@ -347,24 +347,24 @@
 | PRZAFA475SCEN          | Number of Identified Exporters to South Africa from Puerto Rico                              | 1992-01-01          | 2017-01-01        |
 | PRZMBA475SCEN          | Number of Identified Exporters to Zambia from Puerto Rico                                    | 2002-01-01          | 2016-01-01        |
 | PRZWEA475SCEN          | Number of Identified Exporters to Zimbabwe from Puerto Rico                                  | 1992-01-01          | 2008-01-01        |
-| SMS72000003100000001   | All Employees: Manufacturing: Durable Goods in Puerto Rico                                   | 1990-01-01          | 2022-06-01        |
-| SMS72000003200000001   | All Employees: Manufacturing: Non-Durable Goods in Puerto Rico                               | 1990-01-01          | 2022-06-01        |
-| SMS72000004100000001   | All Employees: Wholesale Trade in Puerto Rico                                                | 1990-01-01          | 2022-06-01        |
-| SMS72000005552000001   | All Employees: Financial Activities: Finance and Insurance in Puerto Rico                    | 1990-01-01          | 2022-06-01        |
-| SMS72000005553000001   | All Employees: Financial Activities: Real Estate and Rental and Leasing in Puerto Rico       | 1990-01-01          | 2022-06-01        |
-| SMS72000008000000001   | All Employees: Other Services in Puerto Rico                                                 | 1990-01-01          | 2022-06-01        |
-| SMU72000001000000001   | All Employees: Mining and Logging in Puerto Rico                                             | 2003-01-01          | 2022-06-01        |
+| SMS72000003100000001   | All Employees: Manufacturing: Durable Goods in Puerto Rico                                   | 1990-01-01          | 2022-08-01        |
+| SMS72000003200000001   | All Employees: Manufacturing: Non-Durable Goods in Puerto Rico                               | 1990-01-01          | 2022-08-01        |
+| SMS72000004100000001   | All Employees: Wholesale Trade in Puerto Rico                                                | 1990-01-01          | 2022-08-01        |
+| SMS72000005552000001   | All Employees: Financial Activities: Finance and Insurance in Puerto Rico                    | 1990-01-01          | 2022-08-01        |
+| SMS72000005553000001   | All Employees: Financial Activities: Real Estate and Rental and Leasing in Puerto Rico       | 1990-01-01          | 2022-08-01        |
+| SMS72000008000000001   | All Employees: Other Services in Puerto Rico                                                 | 1990-01-01          | 2022-08-01        |
+| SMU72000001000000001   | All Employees: Mining and Logging in Puerto Rico                                             | 2003-01-01          | 2022-08-01        |
 | SMU72000001000000001A  | All Employees: Mining and Logging in Puerto Rico                                             | 2003-01-01          | 2021-01-01        |
-| SMU72000001000000001SA | All Employees: Mining and Logging in Puerto Rico                                             | 2003-01-01          | 2022-06-01        |
-| SMU72000002000000001   | All Employees: Construction in Puerto Rico                                                   | 2003-01-01          | 2022-06-01        |
+| SMU72000001000000001SA | All Employees: Mining and Logging in Puerto Rico                                             | 2003-01-01          | 2022-08-01        |
+| SMU72000002000000001   | All Employees: Construction in Puerto Rico                                                   | 2003-01-01          | 2022-08-01        |
 | SMU72000002000000001A  | All Employees: Construction in Puerto Rico                                                   | 2003-01-01          | 2021-01-01        |
-| SMU72000002000000001SA | All Employees: Construction in Puerto Rico                                                   | 2003-01-01          | 2022-06-01        |
-| SMU72000002023600001   | All Employees: Construction: Construction of Buildings in Puerto Rico                        | 2003-01-01          | 2022-06-01        |
+| SMU72000002000000001SA | All Employees: Construction in Puerto Rico                                                   | 2003-01-01          | 2022-08-01        |
+| SMU72000002023600001   | All Employees: Construction: Construction of Buildings in Puerto Rico                        | 2003-01-01          | 2022-08-01        |
 | SMU72000002023600001A  | All Employees: Construction: Construction of Buildings in Puerto Rico                        | 2003-01-01          | 2021-01-01        |
-| SMU72000002023600001SA | All Employees: Construction: Construction of Buildings in Puerto Rico                        | 2003-01-01          | 2022-06-01        |
-| SMU72000002023700001   | All Employees: Construction: Heavy and Civil Engineering Construction in Puerto Rico         | 2003-01-01          | 2022-06-01        |
+| SMU72000002023600001SA | All Employees: Construction: Construction of Buildings in Puerto Rico                        | 2003-01-01          | 2022-08-01        |
+| SMU72000002023700001   | All Employees: Construction: Heavy and Civil Engineering Construction in Puerto Rico         | 2003-01-01          | 2022-08-01        |
 | SMU72000002023700001A  | All Employees: Construction: Heavy and Civil Engineering Construction in Puerto Rico         | 2003-01-01          | 2021-01-01        |
-| SMU72000002023700001SA | All Employees: Construction: Heavy and Civil Engineering Construction in Puerto Rico         | 2003-01-01          | 2022-06-01        |
-| SMU72000002023800001   | All Employees: Construction: Specialty Trade Contractors in Puerto Rico                      | 2003-01-01          | 2022-06-01        |
+| SMU72000002023700001SA | All Employees: Construction: Heavy and Civil Engineering Construction in Puerto Rico         | 2003-01-01          | 2022-08-01        |
+| SMU72000002023800001   | All Employees: Construction: Specialty Trade Contractors in Puerto Rico                      | 2003-01-01          | 2022-08-01        |
 | SMU72000002023800001A  | All Employees: Construction: Specialty Trade Contractors in Puerto Rico                      | 2003-01-01          | 2021-01-01        |
-| SMU72000002023800001SA | All Employees: Construction: Specialty Trade Contractors in Puerto Rico                      | 2003-01-01          | 2022-06-01        |
+| SMU72000002023800001SA | All Employees: Construction: Specialty Trade Contractors in Puerto Rico                      | 2003-01-01          | 2022-08-01        |

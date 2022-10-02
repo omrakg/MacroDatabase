@@ -11,8 +11,8 @@
 | BREM753GOVTN              | All Employees: Government in Bremerton-Silverdale, WA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | BREM753LEIH               | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | BREM753LEIHN              | All Employees: Leisure and Hospitality in Bremerton-Silverdale, WA (MSA)                                    | 1990-01-01          | 2022-08-01        |
-| BREM753LF                 | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| BREM753LFN                | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| BREM753LF                 | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| BREM753LFN                | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | BREM753MFG                | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | BREM753MFGN               | All Employees: Manufacturing in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | BREM753NA                 | All Employees: Total Nonfarm in Bremerton-Silverdale, WA (MSA)                                              | 1990-01-01          | 2022-08-01        |
@@ -24,8 +24,8 @@
 | BREM753PCPI               | Per Capita Personal Income in Bremerton-Silverdale, WA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | BREM753TRAD               | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2022-08-01        |
 | BREM753TRADN              | All Employees: Trade, Transportation, and Utilities in Bremerton-Silverdale, WA (MSA)                       | 1990-01-01          | 2022-08-01        |
-| BREM753UR                 | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| BREM753URN                | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| BREM753UR                 | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| BREM753URN                | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | BRMPOP                    | Resident Population in Bremerton-Silverdale, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA14740              | Market Hotness: Demand Score in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | ENUC147430010             | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
@@ -46,9 +46,9 @@
 | HOSCMSA14740              | Market Hotness: Hotness Score in Bremerton-Silverdale, WA (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD14740                 | Implicit Regional Price Deflator for Bremerton-Silverdale, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT531474000000003A     | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT531474000000004      | Unemployed Persons in Bremerton-Silverdale, WA (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT531474000000004      | Unemployed Persons in Bremerton-Silverdale, WA (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT531474000000004A     | Unemployed Persons in Bremerton-Silverdale, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT531474000000005      | Employed Persons in Bremerton-Silverdale, WA (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT531474000000005      | Employed Persons in Bremerton-Silverdale, WA (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT531474000000005A     | Employed Persons in Bremerton-Silverdale, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT531474000000006A     | Civilian Labor Force in Bremerton-Silverdale, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA14740          | Market Hotness: Listing Views per Property in Bremerton-Silverdale, WA (CBSA)                               | 2018-08-01          | 2022-08-01        |

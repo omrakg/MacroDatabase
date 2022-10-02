@@ -45,7 +45,7 @@
 | B2637C1A027NBEA | Farm capital, USDA: Valuation adjustment, Commodity Credit Corporation loans                                                               | 1967-01-01          | 2020-01-01        |
 | B2639C1A027NBEA | Farm capital, USDA: Patronage dividends received from cooperatives                                                                         | 1967-01-01          | 2020-01-01        |
 | W167RC1A027NBEA | Current taxes and transfer payments to the rest of the world: Net lending or net borrowing (-): Capital account transactions (net) NIPAs   | 1969-01-01          | 2021-01-01        |
-| W167RC1Q027SBEA | Current taxes and transfer payments to the rest of the world: Net lending or net borrowing (-): Capital account transactions (net) NIPAs   | 1969-01-01          | 2022-01-01        |
+| W167RC1Q027SBEA | Current taxes and transfer payments to the rest of the world: Net lending or net borrowing (-): Capital account transactions (net) NIPAs   | 1969-01-01          | 2022-04-01        |
 | W248RC1A027NBEA | Farm output: Change in farm finished goods inventories                                                                                     | 1929-01-01          | 2020-01-01        |
 | W248RX1A020NBEA | Real farm output: Change in farm finished goods inventories                                                                                | 2002-01-01          | 2020-01-01        |
 | W249RC1A027NBEA | Farm output: Intermediate goods and services consumed: Other than rent                                                                     | 1929-01-01          | 2020-01-01        |

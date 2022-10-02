@@ -26,9 +26,9 @@
 | HOSCMSA49700              | Market Hotness: Hotness Score in Yuba City, CA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD49700                 | Implicit Regional Price Deflator for Yuba City, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT064970000000003A     | Unemployment Rate in Yuba City, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT064970000000004      | Unemployed Persons in Yuba City, CA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT064970000000004      | Unemployed Persons in Yuba City, CA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT064970000000004A     | Unemployed Persons in Yuba City, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT064970000000005      | Employed Persons in Yuba City, CA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT064970000000005      | Employed Persons in Yuba City, CA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT064970000000005A     | Employed Persons in Yuba City, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT064970000000006A     | Civilian Labor Force in Yuba City, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA49700          | Market Hotness: Listing Views per Property in Yuba City, CA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -144,8 +144,8 @@
 | YUBA706INFON              | All Employees: Information in Yuba City, CA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | YUBA706LEIH               | All Employees: Leisure and Hospitality in Yuba City, CA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | YUBA706LEIHN              | All Employees: Leisure and Hospitality in Yuba City, CA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| YUBA706LF                 | Civilian Labor Force in Yuba City, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| YUBA706LFN                | Civilian Labor Force in Yuba City, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| YUBA706LF                 | Civilian Labor Force in Yuba City, CA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| YUBA706LFN                | Civilian Labor Force in Yuba City, CA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | YUBA706MFG                | All Employees: Manufacturing in Yuba City, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | YUBA706MFGN               | All Employees: Manufacturing in Yuba City, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | YUBA706NA                 | All Employees: Total Nonfarm in Yuba City, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -159,6 +159,6 @@
 | YUBA706SRVON              | All Employees: Other Services in Yuba City, CA (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | YUBA706TRAD               | All Employees: Trade, Transportation, and Utilities in Yuba City, CA (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | YUBA706TRADN              | All Employees: Trade, Transportation, and Utilities in Yuba City, CA (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| YUBA706UR                 | Unemployment Rate in Yuba City, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| YUBA706URN                | Unemployment Rate in Yuba City, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| YUBA706UR                 | Unemployment Rate in Yuba City, CA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| YUBA706URN                | Unemployment Rate in Yuba City, CA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | YUBPOP                    | Resident Population in Yuba City, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

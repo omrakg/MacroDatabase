@@ -35,8 +35,8 @@
 | HUNT601INFON              | All Employees: Information in Huntsville, AL (MSA)                                                                          | 1990-01-01          | 2022-08-01        |
 | HUNT601LEIH               | All Employees: Leisure and Hospitality in Huntsville, AL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | HUNT601LEIHN              | All Employees: Leisure and Hospitality in Huntsville, AL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
-| HUNT601LF                 | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2022-07-01        |
-| HUNT601LFN                | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2022-07-01        |
+| HUNT601LF                 | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
+| HUNT601LFN                | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
 | HUNT601MFG                | All Employees: Manufacturing in Huntsville, AL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | HUNT601MFGN               | All Employees: Manufacturing in Huntsville, AL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | HUNT601NA                 | All Employees: Total Nonfarm in Huntsville, AL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
@@ -50,13 +50,13 @@
 | HUNT601SRVON              | All Employees: Other Services in Huntsville, AL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | HUNT601TRAD               | All Employees: Trade, Transportation, and Utilities in Huntsville, AL (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | HUNT601TRADN              | All Employees: Trade, Transportation, and Utilities in Huntsville, AL (MSA)                                                 | 1990-01-01          | 2022-08-01        |
-| HUNT601UR                 | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2022-07-01        |
-| HUNT601URN                | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2022-07-01        |
+| HUNT601UR                 | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
+| HUNT601URN                | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
 | IRPD26620                 | Implicit Regional Price Deflator for Huntsville, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT012662000000003A     | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT012662000000004      | Unemployed Persons in Huntsville, AL (MSA)                                                                                  | 1990-01-01          | 2022-07-01        |
+| LAUMT012662000000004      | Unemployed Persons in Huntsville, AL (MSA)                                                                                  | 1990-01-01          | 2022-08-01        |
 | LAUMT012662000000004A     | Unemployed Persons in Huntsville, AL (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT012662000000005      | Employed Persons in Huntsville, AL (MSA)                                                                                    | 1990-01-01          | 2022-07-01        |
+| LAUMT012662000000005      | Employed Persons in Huntsville, AL (MSA)                                                                                    | 1990-01-01          | 2022-08-01        |
 | LAUMT012662000000005A     | Employed Persons in Huntsville, AL (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT012662000000006A     | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA26620          | Market Hotness: Listing Views per Property in Huntsville, AL (CBSA)                                                         | 2018-08-01          | 2022-08-01        |

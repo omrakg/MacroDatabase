@@ -17,8 +17,8 @@
 | BAYC026INFON              | All Employees: Information in Bay City, MI (MSA)                                                | 1990-01-01          | 2022-08-01        |
 | BAYC026LEIH               | All Employees: Leisure and Hospitality in Bay City, MI (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | BAYC026LEIHN              | All Employees: Leisure and Hospitality in Bay City, MI (MSA)                                    | 1990-01-01          | 2022-08-01        |
-| BAYC026LF                 | Civilian Labor Force in Bay City, MI (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| BAYC026LFN                | Civilian Labor Force in Bay City, MI (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| BAYC026LF                 | Civilian Labor Force in Bay City, MI (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| BAYC026LFN                | Civilian Labor Force in Bay City, MI (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | BAYC026MFG                | All Employees: Manufacturing in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | BAYC026MFGN               | All Employees: Manufacturing in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | BAYC026NA                 | All Employees: Total Nonfarm in Bay City, MI (MSA)                                              | 1990-01-01          | 2022-08-01        |
@@ -32,8 +32,8 @@
 | BAYC026SRVON              | All Employees: Other Services in Bay City, MI (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | BAYC026TRAD               | All Employees: Trade, Transportation, and Utilities in Bay City, MI (MSA)                       | 1990-01-01          | 2022-08-01        |
 | BAYC026TRADN              | All Employees: Trade, Transportation, and Utilities in Bay City, MI (MSA)                       | 1990-01-01          | 2022-08-01        |
-| BAYC026UR                 | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| BAYC026URN                | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| BAYC026UR                 | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| BAYC026URN                | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | BCTPOP                    | Resident Population in Bay City, MI (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | ENUC130230010             | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC130230010SA           | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
@@ -49,9 +49,9 @@
 | ENUC130240510SA           | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD13020                 | Implicit Regional Price Deflator for Bay City, MI (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT261302000000003A     | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT261302000000004      | Unemployed Persons in Bay City, MI (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT261302000000004      | Unemployed Persons in Bay City, MI (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT261302000000004A     | Unemployed Persons in Bay City, MI (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT261302000000005      | Employed Persons in Bay City, MI (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT261302000000005      | Employed Persons in Bay City, MI (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT261302000000005A     | Employed Persons in Bay City, MI (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT261302000000006A     | Civilian Labor Force in Bay City, MI (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR13020          | Housing Inventory: Median Days on Market in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-08-01        |

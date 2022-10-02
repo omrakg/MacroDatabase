@@ -24,9 +24,9 @@
 | HOSCMSA41540              | Market Hotness: Hotness Score in Salisbury, MD-DE (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD41540                 | Implicit Regional Price Deflator for Salisbury, MD-DE (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT104154000000003A     | Unemployment Rate in Salisbury, MD-DE (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT104154000000004      | Unemployed Persons in Salisbury, MD-DE (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT104154000000004      | Unemployed Persons in Salisbury, MD-DE (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT104154000000004A     | Unemployed Persons in Salisbury, MD-DE (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT104154000000005      | Employed Persons in Salisbury, MD-DE (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT104154000000005      | Employed Persons in Salisbury, MD-DE (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT104154000000005A     | Employed Persons in Salisbury, MD-DE (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT104154000000006A     | Civilian Labor Force in Salisbury, MD-DE (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA41540          | Market Hotness: Listing Views per Property in Salisbury, MD-DE (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -78,10 +78,10 @@
 | RPPSERVEOTH41540          | Regional Price Parities: Services: Other for Salisbury, MD-DE (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT41540         | Regional Price Parities: Services: Rents for Salisbury, MD-DE (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | SALI524LF                 | Civilian Labor Force in Salisbury, MD-DE (MSA)                                                                    | 2000-01-01          | 2014-12-01        |
-| SALI524LFN                | Civilian Labor Force in Salisbury, MD-DE (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| SALI524LFN                | Civilian Labor Force in Salisbury, MD-DE (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | SALI524PCPI               | Per Capita Personal Income in Salisbury, MD-DE (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | SALI524UR                 | Unemployment Rate in Salisbury, MD-DE (MSA)                                                                       | 2000-01-01          | 2014-12-01        |
-| SALI524URN                | Unemployment Rate in Salisbury, MD-DE (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| SALI524URN                | Unemployment Rate in Salisbury, MD-DE (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | SBYPOP                    | Resident Population in Salisbury, MD-DE (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SMU10415400000000001      | All Employees: Total Nonfarm in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SMU10415400000000001A     | All Employees: Total Nonfarm in Salisbury, MD-DE (MSA)                                                            | 1990-01-01          | 2021-01-01        |

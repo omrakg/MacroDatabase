@@ -16,13 +16,13 @@
 | GRPPOP                 | Resident Population in Grants Pass, OR (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | GRPS941PCPI            | Per Capita Personal Income in Grants Pass, OR (MSA)                                                              | 1969-01-01          | 2020-01-01        |
 | IRPD24420              | Implicit Regional Price Deflator for Grants Pass, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT412442000000003   | Unemployment Rate in Grants Pass, OR (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| LAUMT412442000000003   | Unemployment Rate in Grants Pass, OR (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | LAUMT412442000000003A  | Unemployment Rate in Grants Pass, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT412442000000004   | Unemployed Persons in Grants Pass, OR (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT412442000000004   | Unemployed Persons in Grants Pass, OR (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT412442000000004A  | Unemployed Persons in Grants Pass, OR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT412442000000005   | Employed Persons in Grants Pass, OR (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT412442000000005   | Employed Persons in Grants Pass, OR (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT412442000000005A  | Employed Persons in Grants Pass, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT412442000000006   | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| LAUMT412442000000006   | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | LAUMT412442000000006A  | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP24420              | Total Gross Domestic Product for Grants Pass, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | QGMP24420              | Total Quantity Indexes for Real GDP for Grants Pass, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |

@@ -26,9 +26,9 @@
 | HOSCMSA46340              | Market Hotness: Hotness Score in Tyler, TX (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD46340                 | Implicit Regional Price Deflator for Tyler, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484634000000003A     | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT484634000000004      | Unemployed Persons in Tyler, TX (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT484634000000004      | Unemployed Persons in Tyler, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT484634000000004A     | Unemployed Persons in Tyler, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT484634000000005      | Employed Persons in Tyler, TX (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT484634000000005      | Employed Persons in Tyler, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT484634000000005A     | Employed Persons in Tyler, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484634000000006A     | Civilian Labor Force in Tyler, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA46340          | Market Hotness: Listing Views per Property in Tyler, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -138,8 +138,8 @@
 | TYLE348INFON              | All Employees: Information in Tyler, TX (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | TYLE348LEIH               | All Employees: Leisure and Hospitality in Tyler, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | TYLE348LEIHN              | All Employees: Leisure and Hospitality in Tyler, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| TYLE348LF                 | Civilian Labor Force in Tyler, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| TYLE348LFN                | Civilian Labor Force in Tyler, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| TYLE348LF                 | Civilian Labor Force in Tyler, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| TYLE348LFN                | Civilian Labor Force in Tyler, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | TYLE348MFG                | All Employees: Manufacturing in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | TYLE348MFGN               | All Employees: Manufacturing in Tyler, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | TYLE348NAN                | All Employees: Total Nonfarm in Tyler, TX (MSA)                                                            | 1982-01-01          | 2022-08-01        |
@@ -152,8 +152,8 @@
 | TYLE348SRVON              | All Employees: Other Services in Tyler, TX (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | TYLE348TRAD               | All Employees: Trade, Transportation, and Utilities in Tyler, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | TYLE348TRADN              | All Employees: Trade, Transportation, and Utilities in Tyler, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| TYLE348UR                 | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| TYLE348URN                | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| TYLE348UR                 | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| TYLE348URN                | Unemployment Rate in Tyler, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | TYLPOP                    | Resident Population in Tyler, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | TYLSA158MFRBDAL           | Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
 | TYLSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Tyler, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |

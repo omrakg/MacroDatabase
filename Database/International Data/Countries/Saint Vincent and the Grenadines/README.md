@@ -44,7 +44,7 @@
 | DDSI01VCA645NWDB  | Bank Z-Score for Saint Vincent and the Grenadines                                                                                              | 2007-01-01          | 2016-01-01        |
 | DDSI04VCA156NWDB  | Bank Credit to Bank Deposits for Saint Vincent and the Grenadines                                                                              | 1975-01-01          | 2019-01-01        |
 | DDSI06VCA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Saint Vincent and the Grenadines                                                          | 2007-01-01          | 2016-01-01        |
-| DEBTTLVCA188A     | Central government debt, total (% of GDP) for St. Vincent and the Grenadines                                                                   | 1990-01-01          | 2014-01-01        |
+| DEBTTLVCA188A     | Central government debt, total (% of GDP) for St. Vincent and the Grenadines                                                                   | 1990-01-01          | 2009-01-01        |
 | DEVCTA052SCEN     | Value of Exports to Saint Vincent and the Grenadines from Delaware                                                                             | 2002-01-01          | 2013-01-01        |
 | DEVCTA475SCEN     | Number of Identified Exporters to Saint Vincent and the Grenadines from Delaware                                                               | 2002-01-01          | 2016-01-01        |
 | EXP2488           | U.S. Exports of Goods by F.A.S. Basis to Saint Vincent and the Grenadines                                                                      | 1992-01-01          | 2022-07-01        |

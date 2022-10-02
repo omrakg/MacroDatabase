@@ -1,17 +1,17 @@
 | id        | title                                                                                                         | observation_start   | observation_end   |
 |-----------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | IQ        | Export Price Index (End Use): All Commodities                                                                 | 1983-09-01          | 2022-08-01        |
+| IQ0       | Export Price Index (End Use): Foods, Feeds, and Beverages                                                     | 1983-09-01          | 2022-08-01        |
 | IQ000     | Export Price Index (End Use): Wheat, Rice and Other Food Grains                                               | 1984-12-01          | 2022-08-01        |
 | IQ00000   | Export Price Index (End Use): Wheat                                                                           | 1980-12-01          | 2022-08-01        |
-| IQ0       | Export Price Index (End Use): Foods, Feeds, and Beverages                                                     | 1983-09-01          | 2022-08-01        |
 | IQ00      | Export Price Index (End Use): Agricultural Foods, Feeds and Beverages, Excluding Distilled Beverages          | 1983-03-01          | 2022-08-01        |
-| IQ1       | Export Price Index (End Use): Industrial Supplies and Materials                                               | 1983-09-01          | 2022-08-01        |
 | IQ01      | Export Price Index (End Use): Nonagricultural Foods (Fish, Distilled Beverages)                               | 1983-09-01          | 2022-08-01        |
 | IQ001     | Export Price Index (End Use): Soybeans and Other Oil Seeds and Food Oils                                      | 1984-12-01          | 2022-08-01        |
+| IQ1       | Export Price Index (End Use): Industrial Supplies and Materials                                               | 1983-09-01          | 2022-08-01        |
 | IQ1DUR    | Export Price Index (End Use): Industrial Supplies and Materials, Durable                                      | 1989-06-01          | 2022-08-01        |
 | IQ1NONDUR | Export Price Index (End Use): Industrial Supplies and Materials, Nondurable                                   | 1989-06-01          | 2022-08-01        |
-| IQ002     | Export Price Index (End Use): Feedstuff                                                                       | 1984-12-01          | 2022-08-01        |
 | IQ2       | Export Price Index (End Use): Capital Goods, Except Automotive                                                | 1978-12-01          | 2022-08-01        |
+| IQ002     | Export Price Index (End Use): Feedstuff                                                                       | 1984-12-01          | 2022-08-01        |
 | IQ2EXCOM  | Export Price Index (End Use): Capital Goods, Excluding Computers Peripherals and Semiconductors               | 1984-12-01          | 2022-08-01        |
 | IQ003     | Export Price Index (End Use): Other Agricultural Foods                                                        | 1984-12-01          | 2022-08-01        |
 | IQ3       | Export Price Index (End Use): Automotive Vehicles, Parts and Engines                                          | 1980-03-01          | 2022-08-01        |
@@ -41,8 +41,8 @@
 | IQ127     | Export Price Index (End Use): Other Nonagricultural Industrial Supplies and Materials                         | 1984-12-01          | 2022-08-01        |
 | IQ131     | Export Price Index (End Use): Lumber and Other Wood Supplies                                                  | 1984-12-01          | 2022-08-01        |
 | IQ00200   | Export Price Index (End Use): Corn                                                                            | 1984-12-01          | 2022-08-01        |
-| IQ210     | Export Price Index (End Use): Oil Drilling, Mining, and Construction Machinery                                | 1984-12-01          | 2022-08-01        |
 | IQ00210   | Export Price Index (End Use): Sorghum, Barley, Oats                                                           | 2010-12-01          | 2022-08-01        |
+| IQ210     | Export Price Index (End Use): Oil Drilling, Mining, and Construction Machinery                                | 1984-12-01          | 2022-08-01        |
 | IQ211     | Export Price Index (End Use): Industrial and Service Machinery, N.E.S.                                        | 1980-12-01          | 2022-08-01        |
 | IQ212     | Export Price Index (End Use): Agricultural Machinery and Equipment                                            | 2016-12-01          | 2022-08-01        |
 | IQ213     | Export Price Index (End Use): Computers, Peripherals, and Semiconductors                                      | 1980-12-01          | 2022-08-01        |
@@ -50,8 +50,8 @@
 | IQ214     | Export Price Index (End Use): Telecommunications Equipment                                                    | 1980-12-01          | 2022-08-01        |
 | IQ216     | Export Price Index (End Use): Scientific, Hospital and Medical Machinery                                      | 1984-12-01          | 2022-08-01        |
 | IQ00220   | Export Price Index (End Use): Animal Feeds, N.E.S.                                                            | 1983-03-01          | 2022-08-01        |
-| IQ300     | Export Price Index (End Use): Passenger Cars, New and Used                                                    | 1981-03-01          | 2022-08-01        |
 | IQ00300   | Export Price Index (End Use): Meat, Poultry and Other Edible Animal Products                                  | 2006-12-01          | 2022-08-01        |
+| IQ300     | Export Price Index (End Use): Passenger Cars, New and Used                                                    | 1981-03-01          | 2022-08-01        |
 | IQ301     | Export Price Index (End Use): Trucks, Buses and Special Purpose Vehicles                                      | 1993-12-01          | 2022-08-01        |
 | IQ302     | Export Price Index (End Use): Parts, Engines, Bodies and Chassis                                              | 1980-12-01          | 2022-08-01        |
 | IQ00320   | Export Price Index (End Use): Fruits and Frozen Juices                                                        | 1984-12-01          | 2022-08-01        |

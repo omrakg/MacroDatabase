@@ -26,13 +26,13 @@
 | HOSCMSA29420              | Market Hotness: Hotness Score in Lake Havasu City-Kingman, AZ (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD29420                 | Implicit Regional Price Deflator for Lake Havasu City-Kingman, AZ (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAKEHCPCPI                | Per Capita Personal Income in Lake Havasu City-Kingman, AZ (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| LAUMT042942000000003      | Unemployment Rate in Lake Havasu City-Kingman, AZ (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| LAUMT042942000000003      | Unemployment Rate in Lake Havasu City-Kingman, AZ (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | LAUMT042942000000003A     | Unemployment Rate in Lake Havasu City-Kingman, AZ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT042942000000004      | Unemployed Persons in Lake Havasu City-Kingman, AZ (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT042942000000004      | Unemployed Persons in Lake Havasu City-Kingman, AZ (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT042942000000004A     | Unemployed Persons in Lake Havasu City-Kingman, AZ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT042942000000005      | Employed Persons in Lake Havasu City-Kingman, AZ (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT042942000000005      | Employed Persons in Lake Havasu City-Kingman, AZ (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT042942000000005A     | Employed Persons in Lake Havasu City-Kingman, AZ (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT042942000000006      | Civilian Labor Force in Lake Havasu City-Kingman, AZ (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT042942000000006      | Civilian Labor Force in Lake Havasu City-Kingman, AZ (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT042942000000006A     | Civilian Labor Force in Lake Havasu City-Kingman, AZ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA29420          | Market Hotness: Listing Views per Property in Lake Havasu City-Kingman, AZ (CBSA)                               | 2018-08-01          | 2022-08-01        |
 | LDPEPRVSUSMSA29420        | Market Hotness: Listing Views per Property Versus the United States in Lake Havasu City-Kingman, AZ (CBSA)      | 2017-08-01          | 2022-08-01        |

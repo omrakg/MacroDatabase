@@ -26,9 +26,9 @@
 | HOSCMSA33860              | Market Hotness: Hotness Score in Montgomery, AL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD33860                 | Implicit Regional Price Deflator for Montgomery, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT013386000000003A     | Unemployment Rate in Montgomery, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT013386000000004      | Unemployed Persons in Montgomery, AL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT013386000000004      | Unemployed Persons in Montgomery, AL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT013386000000004A     | Unemployed Persons in Montgomery, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT013386000000005      | Employed Persons in Montgomery, AL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT013386000000005      | Employed Persons in Montgomery, AL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT013386000000005A     | Employed Persons in Montgomery, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT013386000000006A     | Civilian Labor Force in Montgomery, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA33860          | Market Hotness: Listing Views per Property in Montgomery, AL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -67,8 +67,8 @@
 | MONT801INFON              | All Employees: Information in Montgomery, AL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | MONT801LEIH               | All Employees: Leisure and Hospitality in Montgomery, AL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | MONT801LEIHN              | All Employees: Leisure and Hospitality in Montgomery, AL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| MONT801LF                 | Civilian Labor Force in Montgomery, AL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| MONT801LFN                | Civilian Labor Force in Montgomery, AL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| MONT801LF                 | Civilian Labor Force in Montgomery, AL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| MONT801LFN                | Civilian Labor Force in Montgomery, AL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | MONT801MFG                | All Employees: Manufacturing in Montgomery, AL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | MONT801MFGN               | All Employees: Manufacturing in Montgomery, AL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | MONT801NA                 | All Employees: Total Nonfarm in Montgomery, AL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -82,8 +82,8 @@
 | MONT801SRVON              | All Employees: Other Services in Montgomery, AL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | MONT801TRAD               | All Employees: Trade, Transportation, and Utilities in Montgomery, AL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | MONT801TRADN              | All Employees: Trade, Transportation, and Utilities in Montgomery, AL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| MONT801UR                 | Unemployment Rate in Montgomery, AL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| MONT801URN                | Unemployment Rate in Montgomery, AL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| MONT801UR                 | Unemployment Rate in Montgomery, AL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| MONT801URN                | Unemployment Rate in Montgomery, AL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | NEWLISCOU33860            | Housing Inventory: New Listing Count in Montgomery, AL (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
 | NEWLISCOUMM33860          | Housing Inventory: New Listing Count Month-Over-Month in Montgomery, AL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | NEWLISCOUYY33860          | Housing Inventory: New Listing Count Year-Over-Year in Montgomery, AL (CBSA)                                    | 2017-07-01          | 2022-08-01        |

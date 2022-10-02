@@ -31,8 +31,8 @@
 | FLOR501INFON              | All Employees: Information in Florence-Muscle Shoals, AL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | FLOR501LEIH               | All Employees: Leisure and Hospitality in Florence-Muscle Shoals, AL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | FLOR501LEIHN              | All Employees: Leisure and Hospitality in Florence-Muscle Shoals, AL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| FLOR501LF                 | Civilian Labor Force in Florence-Muscle Shoals, AL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| FLOR501LFN                | Civilian Labor Force in Florence-Muscle Shoals, AL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| FLOR501LF                 | Civilian Labor Force in Florence-Muscle Shoals, AL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| FLOR501LFN                | Civilian Labor Force in Florence-Muscle Shoals, AL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | FLOR501MFG                | All Employees: Manufacturing in Florence-Muscle Shoals, AL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | FLOR501MFGN               | All Employees: Manufacturing in Florence-Muscle Shoals, AL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | FLOR501NA                 | All Employees: Total Nonfarm in Florence-Muscle Shoals, AL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -46,17 +46,17 @@
 | FLOR501SRVON              | All Employees: Other Services in Florence-Muscle Shoals, AL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | FLOR501TRAD               | All Employees: Trade, Transportation, and Utilities in Florence-Muscle Shoals, AL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | FLOR501TRADN              | All Employees: Trade, Transportation, and Utilities in Florence-Muscle Shoals, AL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| FLOR501UR                 | Unemployment Rate in Florence-Muscle Shoals, AL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| FLOR501URN                | Unemployment Rate in Florence-Muscle Shoals, AL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| FLOR501UR                 | Unemployment Rate in Florence-Muscle Shoals, AL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| FLOR501URN                | Unemployment Rate in Florence-Muscle Shoals, AL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | HORAMMMSA22520            | Market Hotness: Hotness Rank in Florence-Muscle Shoals, AL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HORAMSA22520              | Market Hotness: Hotness Rank in Florence-Muscle Shoals, AL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA22520            | Market Hotness: Hotness Rank in Florence-Muscle Shoals, AL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
 | HOSCMSA22520              | Market Hotness: Hotness Score in Florence-Muscle Shoals, AL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD22520                 | Implicit Regional Price Deflator for Florence-Muscle Shoals, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT012252000000003A     | Unemployment Rate in Florence-Muscle Shoals, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT012252000000004      | Unemployed Persons in Florence-Muscle Shoals, AL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT012252000000004      | Unemployed Persons in Florence-Muscle Shoals, AL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT012252000000004A     | Unemployed Persons in Florence-Muscle Shoals, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT012252000000005      | Employed Persons in Florence-Muscle Shoals, AL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT012252000000005      | Employed Persons in Florence-Muscle Shoals, AL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT012252000000005A     | Employed Persons in Florence-Muscle Shoals, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT012252000000006A     | Civilian Labor Force in Florence-Muscle Shoals, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA22520          | Market Hotness: Listing Views per Property in Florence-Muscle Shoals, AL (CBSA)                                             | 2018-08-01          | 2022-08-01        |

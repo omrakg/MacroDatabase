@@ -21,9 +21,9 @@
 | ENUC314640510SA           | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD31460                 | Implicit Regional Price Deflator for Madera, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT063146000000003A     | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT063146000000004      | Unemployed Persons in Madera, CA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT063146000000004      | Unemployed Persons in Madera, CA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT063146000000004A     | Unemployed Persons in Madera, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT063146000000005      | Employed Persons in Madera, CA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT063146000000005      | Employed Persons in Madera, CA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT063146000000005A     | Employed Persons in Madera, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT063146000000006A     | Civilian Labor Force in Madera, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MADE406EDUH               | All Employees: Education and Health Services in Madera, CA (MSA)                                            | 1990-01-01          | 2022-08-01        |
@@ -36,8 +36,8 @@
 | MADE406INFON              | All Employees: Information in Madera, CA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | MADE406LEIH               | All Employees: Leisure and Hospitality in Madera, CA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | MADE406LEIHN              | All Employees: Leisure and Hospitality in Madera, CA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| MADE406LF                 | Civilian Labor Force in Madera, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| MADE406LFN                | Civilian Labor Force in Madera, CA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| MADE406LF                 | Civilian Labor Force in Madera, CA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| MADE406LFN                | Civilian Labor Force in Madera, CA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | MADE406MFG                | All Employees: Manufacturing in Madera, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | MADE406MFGN               | All Employees: Manufacturing in Madera, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | MADE406NA                 | All Employees: Total Nonfarm in Madera, CA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -51,8 +51,8 @@
 | MADE406SRVON              | All Employees: Other Services in Madera, CA (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | MADE406TRAD               | All Employees: Trade, Transportation, and Utilities in Madera, CA (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | MADE406TRADN              | All Employees: Trade, Transportation, and Utilities in Madera, CA (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| MADE406UR                 | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| MADE406URN                | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| MADE406UR                 | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| MADE406URN                | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | MADPOP                    | Resident Population in Madera, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | MEDDAYONMAR31460          | Housing Inventory: Median Days on Market in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | MEDDAYONMARMM31460        | Housing Inventory: Median Days on Market Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-08-01        |

@@ -17,8 +17,8 @@
 | CORV741INFON              | All Employees: Information in Corvallis, OR (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | CORV741LEIH               | All Employees: Leisure and Hospitality in Corvallis, OR (MSA)                                          | 1990-01-01          | 2022-08-01        |
 | CORV741LEIHN              | All Employees: Leisure and Hospitality in Corvallis, OR (MSA)                                          | 1990-01-01          | 2022-08-01        |
-| CORV741LF                 | Civilian Labor Force in Corvallis, OR (MSA)                                                            | 1990-01-01          | 2022-07-01        |
-| CORV741LFN                | Civilian Labor Force in Corvallis, OR (MSA)                                                            | 1990-01-01          | 2022-07-01        |
+| CORV741LF                 | Civilian Labor Force in Corvallis, OR (MSA)                                                            | 1990-01-01          | 2022-08-01        |
+| CORV741LFN                | Civilian Labor Force in Corvallis, OR (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | CORV741MFG                | All Employees: Manufacturing in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-08-01        |
 | CORV741MFGN               | All Employees: Manufacturing in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-08-01        |
 | CORV741NA                 | All Employees: Total Nonfarm in Corvallis, OR (MSA)                                                    | 1990-01-01          | 2022-08-01        |
@@ -32,8 +32,8 @@
 | CORV741SRVON              | All Employees: Other Services in Corvallis, OR (MSA)                                                   | 1990-01-01          | 2022-08-01        |
 | CORV741TRAD               | All Employees: Trade, Transportation, and Utilities in Corvallis, OR (MSA)                             | 1990-01-01          | 2022-08-01        |
 | CORV741TRADN              | All Employees: Trade, Transportation, and Utilities in Corvallis, OR (MSA)                             | 1990-01-01          | 2022-08-01        |
-| CORV741UR                 | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-07-01        |
-| CORV741URN                | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-07-01        |
+| CORV741UR                 | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-08-01        |
+| CORV741URN                | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-08-01        |
 | CRVPOP                    | Resident Population in Corvallis, OR (MSA)                                                             | 2000-01-01          | 2021-01-01        |
 | ENUC187030010             | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2022-01-01        |
 | ENUC187030010SA           | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2022-01-01        |
@@ -49,9 +49,9 @@
 | ENUC187040510SA           | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2022-01-01        |
 | IRPD18700                 | Implicit Regional Price Deflator for Corvallis, OR (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | LAUMT411870000000003A     | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| LAUMT411870000000004      | Unemployed Persons in Corvallis, OR (MSA)                                                              | 1990-01-01          | 2022-07-01        |
+| LAUMT411870000000004      | Unemployed Persons in Corvallis, OR (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | LAUMT411870000000004A     | Unemployed Persons in Corvallis, OR (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| LAUMT411870000000005      | Employed Persons in Corvallis, OR (MSA)                                                                | 1990-01-01          | 2022-07-01        |
+| LAUMT411870000000005      | Employed Persons in Corvallis, OR (MSA)                                                                | 1990-01-01          | 2022-08-01        |
 | LAUMT411870000000005A     | Employed Persons in Corvallis, OR (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | LAUMT411870000000006A     | Civilian Labor Force in Corvallis, OR (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR18700          | Housing Inventory: Median Days on Market in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-08-01        |

@@ -27,18 +27,18 @@
 | IRPD27340                 | Implicit Regional Price Deflator for Jacksonville, NC (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | JACK337GOVT               | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | JACK337GOVTN              | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2022-08-01        |
-| JACK337LF                 | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| JACK337LFN                | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| JACK337LF                 | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| JACK337LFN                | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | JACK337NA                 | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | JACK337NAN                | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | JACK337PCPI               | Per Capita Personal Income in Jacksonville, NC (MSA)                                                | 1969-01-01          | 2020-01-01        |
-| JACK337UR                 | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| JACK337URN                | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| JACK337UR                 | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| JACK337URN                | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | JCVPOP                    | Resident Population in Jacksonville, NC (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | LAUMT372734000000003A     | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT372734000000004      | Unemployed Persons in Jacksonville, NC (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT372734000000004      | Unemployed Persons in Jacksonville, NC (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT372734000000004A     | Unemployed Persons in Jacksonville, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT372734000000005      | Employed Persons in Jacksonville, NC (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT372734000000005      | Employed Persons in Jacksonville, NC (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT372734000000005A     | Employed Persons in Jacksonville, NC (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT372734000000006A     | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA27340          | Market Hotness: Listing Views per Property in Jacksonville, NC (CBSA)                               | 2018-08-01          | 2022-08-01        |

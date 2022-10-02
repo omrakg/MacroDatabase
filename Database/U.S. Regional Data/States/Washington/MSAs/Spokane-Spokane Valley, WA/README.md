@@ -27,9 +27,9 @@
 | IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD44060                 | Implicit Regional Price Deflator for Spokane-Spokane Valley, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT534406000000003A     | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT534406000000004      | Unemployed Persons in Spokane-Spokane Valley, WA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT534406000000004      | Unemployed Persons in Spokane-Spokane Valley, WA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT534406000000004A     | Unemployed Persons in Spokane-Spokane Valley, WA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT534406000000005      | Employed Persons in Spokane-Spokane Valley, WA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT534406000000005      | Employed Persons in Spokane-Spokane Valley, WA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT534406000000005A     | Employed Persons in Spokane-Spokane Valley, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT534406000000006A     | Civilian Labor Force in Spokane-Spokane Valley, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA44060          | Market Hotness: Listing Views per Property in Spokane-Spokane Valley, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -167,8 +167,8 @@
 | SPOK053INFON              | All Employees: Information in Spokane-Spokane Valley, WA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | SPOK053LEIH               | All Employees: Leisure and Hospitality in Spokane-Spokane Valley, WA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | SPOK053LEIHN              | All Employees: Leisure and Hospitality in Spokane-Spokane Valley, WA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| SPOK053LF                 | Civilian Labor Force in Spokane-Spokane Valley, WA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| SPOK053LFN                | Civilian Labor Force in Spokane-Spokane Valley, WA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| SPOK053LF                 | Civilian Labor Force in Spokane-Spokane Valley, WA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| SPOK053LFN                | Civilian Labor Force in Spokane-Spokane Valley, WA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | SPOK053MFG                | All Employees: Manufacturing in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SPOK053MFGN               | All Employees: Manufacturing in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | SPOK053NAN                | All Employees: Total Nonfarm in Spokane-Spokane Valley, WA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -181,6 +181,6 @@
 | SPOK053SRVON              | All Employees: Other Services in Spokane-Spokane Valley, WA (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | SPOK053TRAD               | All Employees: Trade, Transportation, and Utilities in Spokane-Spokane Valley, WA (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SPOK053TRADN              | All Employees: Trade, Transportation, and Utilities in Spokane-Spokane Valley, WA (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| SPOK053UR                 | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| SPOK053URN                | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| SPOK053UR                 | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| SPOK053URN                | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | SUSCMSA44060              | Market Hotness: Supply Score in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |

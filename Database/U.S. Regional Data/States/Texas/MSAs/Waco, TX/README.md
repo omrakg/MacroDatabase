@@ -26,9 +26,9 @@
 | HOSCMSA47380              | Market Hotness: Hotness Score in Waco, TX (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD47380                 | Implicit Regional Price Deflator for Waco, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484738000000003A     | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT484738000000004      | Unemployed Persons in Waco, TX (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT484738000000004      | Unemployed Persons in Waco, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT484738000000004A     | Unemployed Persons in Waco, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT484738000000005      | Employed Persons in Waco, TX (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT484738000000005      | Employed Persons in Waco, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT484738000000005A     | Employed Persons in Waco, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484738000000006A     | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA47380          | Market Hotness: Listing Views per Property in Waco, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -138,8 +138,8 @@
 | WACO348INFON              | All Employees: Information in Waco, TX (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | WACO348LEIH               | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | WACO348LEIHN              | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| WACO348LF                 | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| WACO348LFN                | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| WACO348LF                 | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| WACO348LFN                | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | WACO348MFG                | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | WACO348MFGN               | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | WACO348NA                 | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -153,8 +153,8 @@
 | WACO348SRVON              | All Employees: Other Services in Waco, TX (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | WACO348TRAD               | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | WACO348TRADN              | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| WACO348UR                 | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| WACO348URN                | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| WACO348UR                 | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| WACO348URN                | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | WACPOP                    | Resident Population in Waco, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | WACSA158MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-02-01          | 2022-08-01        |
 | WACSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Waco, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |

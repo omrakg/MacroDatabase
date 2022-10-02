@@ -25,8 +25,8 @@
 | HATT628GOVTN              | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | HATT628LEIH               | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | HATT628LEIHN              | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2022-08-01        |
-| HATT628LF                 | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| HATT628LFN                | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| HATT628LF                 | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| HATT628LFN                | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | HATT628MFG                | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | HATT628MFGN               | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | HATT628NA                 | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-08-01        |
@@ -34,17 +34,17 @@
 | HATT628PCPI               | Per Capita Personal Income in Hattiesburg, MS (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | HATT628TRAD               | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2022-08-01        |
 | HATT628TRADN              | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2022-08-01        |
-| HATT628UR                 | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| HATT628URN                | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| HATT628UR                 | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| HATT628URN                | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | HORAMMMSA25620            | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA25620              | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA25620            | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HOSCMSA25620              | Market Hotness: Hotness Score in Hattiesburg, MS (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD25620                 | Implicit Regional Price Deflator for Hattiesburg, MS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT282562000000003A     | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT282562000000004      | Unemployed Persons in Hattiesburg, MS (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT282562000000004      | Unemployed Persons in Hattiesburg, MS (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT282562000000004A     | Unemployed Persons in Hattiesburg, MS (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT282562000000005      | Employed Persons in Hattiesburg, MS (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT282562000000005      | Employed Persons in Hattiesburg, MS (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT282562000000005A     | Employed Persons in Hattiesburg, MS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT282562000000006A     | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA25620          | Market Hotness: Listing Views per Property in Hattiesburg, MS (CBSA)                               | 2018-08-01          | 2022-08-01        |

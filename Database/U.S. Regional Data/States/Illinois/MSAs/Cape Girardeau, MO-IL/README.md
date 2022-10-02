@@ -20,13 +20,13 @@
 | ENUC160240510             | Average Weekly Wages for Employees in Private Establishments in Cape Girardeau-Jackson, MO-IL (MSA)            | 2013-01-01          | 2022-01-01        |
 | ENUC160240510SA           | Average Weekly Wages for Employees in Private Establishments in Cape Girardeau-Jackson, MO-IL (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD16020                 | Implicit Regional Price Deflator for Cape Girardeau, MO-IL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| LAUMT291602000000003      | Unemployment Rate in Cape Girardeau, MO-IL (MSA)                                                               | 1990-01-01          | 2022-07-01        |
+| LAUMT291602000000003      | Unemployment Rate in Cape Girardeau, MO-IL (MSA)                                                               | 1990-01-01          | 2022-08-01        |
 | LAUMT291602000000003A     | Unemployment Rate in Cape Girardeau, MO-IL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| LAUMT291602000000004      | Unemployed Persons in Cape Girardeau, MO-IL (MSA)                                                              | 1990-01-01          | 2022-07-01        |
+| LAUMT291602000000004      | Unemployed Persons in Cape Girardeau, MO-IL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | LAUMT291602000000004A     | Unemployed Persons in Cape Girardeau, MO-IL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| LAUMT291602000000005      | Employed Persons in Cape Girardeau, MO-IL (MSA)                                                                | 1990-01-01          | 2022-07-01        |
+| LAUMT291602000000005      | Employed Persons in Cape Girardeau, MO-IL (MSA)                                                                | 1990-01-01          | 2022-08-01        |
 | LAUMT291602000000005A     | Employed Persons in Cape Girardeau, MO-IL (MSA)                                                                | 1990-01-01          | 2021-01-01        |
-| LAUMT291602000000006      | Civilian Labor Force in Cape Girardeau, MO-IL (MSA)                                                            | 1990-01-01          | 2022-07-01        |
+| LAUMT291602000000006      | Civilian Labor Force in Cape Girardeau, MO-IL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | LAUMT291602000000006A     | Civilian Labor Force in Cape Girardeau, MO-IL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR16020          | Housing Inventory: Median Days on Market in Cape Girardeau, MO-IL (CBSA)                                       | 2016-07-01          | 2022-08-01        |
 | MEDDAYONMARMM16020        | Housing Inventory: Median Days on Market Month-Over-Month in Cape Girardeau, MO-IL (CBSA)                      | 2017-07-01          | 2022-08-01        |

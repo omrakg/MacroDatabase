@@ -26,10 +26,10 @@
 | HOSCMSA29460              | Market Hotness: Hotness Score in Lakeland-Winter Haven, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IHLCHG29460               | Job Postings on Indeed in Lakeland-Winter Haven, FL (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
 | IRPD29460                 | Implicit Regional Price Deflator for Lakeland-Winter Haven, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAKE412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Lakeland-Winter Haven, FL (MSA)            | 1988-01-01          | 2022-07-01        |
-| LAKE412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Lakeland-Winter Haven, FL (MSA)            | 1988-01-01          | 2022-07-01        |
-| LAKE412BPPRIV             | New Private Housing Units Authorized by Building Permits for Lakeland-Winter Haven, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
-| LAKE412BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Lakeland-Winter Haven, FL (MSA)                               | 1988-01-01          | 2022-07-01        |
+| LAKE412BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Lakeland-Winter Haven, FL (MSA)            | 1988-01-01          | 2022-08-01        |
+| LAKE412BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Lakeland-Winter Haven, FL (MSA)            | 1988-01-01          | 2022-08-01        |
+| LAKE412BPPRIV             | New Private Housing Units Authorized by Building Permits for Lakeland-Winter Haven, FL (MSA)                               | 1988-01-01          | 2022-08-01        |
+| LAKE412BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Lakeland-Winter Haven, FL (MSA)                               | 1988-01-01          | 2022-08-01        |
 | LAKE412EDUH               | All Employees: Education and Health Services in Lakeland-Winter Haven, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | LAKE412EDUHN              | All Employees: Education and Health Services in Lakeland-Winter Haven, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | LAKE412FIRE               | All Employees: Financial Activities in Lakeland-Winter Haven, FL (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -40,8 +40,8 @@
 | LAKE412INFON              | All Employees: Information in Lakeland-Winter Haven, FL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | LAKE412LEIH               | All Employees: Leisure and Hospitality in Lakeland-Winter Haven, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | LAKE412LEIHN              | All Employees: Leisure and Hospitality in Lakeland-Winter Haven, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| LAKE412LF                 | Civilian Labor Force in Lakeland-Winter Haven, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| LAKE412LFN                | Civilian Labor Force in Lakeland-Winter Haven, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| LAKE412LF                 | Civilian Labor Force in Lakeland-Winter Haven, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| LAKE412LFN                | Civilian Labor Force in Lakeland-Winter Haven, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | LAKE412MFG                | All Employees: Manufacturing in Lakeland-Winter Haven, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | LAKE412MFGN               | All Employees: Manufacturing in Lakeland-Winter Haven, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | LAKE412NA                 | All Employees: Total Nonfarm in Lakeland-Winter Haven, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -55,12 +55,12 @@
 | LAKE412SRVON              | All Employees: Other Services in Lakeland-Winter Haven, FL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | LAKE412TRAD               | All Employees: Trade, Transportation, and Utilities in Lakeland-Winter Haven, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | LAKE412TRADN              | All Employees: Trade, Transportation, and Utilities in Lakeland-Winter Haven, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| LAKE412UR                 | Unemployment Rate in Lakeland-Winter Haven, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| LAKE412URN                | Unemployment Rate in Lakeland-Winter Haven, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| LAKE412UR                 | Unemployment Rate in Lakeland-Winter Haven, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| LAKE412URN                | Unemployment Rate in Lakeland-Winter Haven, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | LAUMT122946000000003A     | Unemployment Rate in Lakeland-Winter Haven, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT122946000000004      | Unemployed Persons in Lakeland-Winter Haven, FL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT122946000000004      | Unemployed Persons in Lakeland-Winter Haven, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT122946000000004A     | Unemployed Persons in Lakeland-Winter Haven, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT122946000000005      | Employed Persons in Lakeland-Winter Haven, FL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT122946000000005      | Employed Persons in Lakeland-Winter Haven, FL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT122946000000005A     | Employed Persons in Lakeland-Winter Haven, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT122946000000006A     | Civilian Labor Force in Lakeland-Winter Haven, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA29460          | Market Hotness: Listing Views per Property in Lakeland-Winter Haven, FL (CBSA)                                             | 2018-08-01          | 2022-08-01        |

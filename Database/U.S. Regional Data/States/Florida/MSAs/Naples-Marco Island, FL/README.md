@@ -26,9 +26,9 @@
 | HOSCMSA34940              | Market Hotness: Hotness Score in Naples-Immokalee-Marco Island, FL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD34940                 | Implicit Regional Price Deflator for Naples-Immokalee-Marco Island, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT123494000000003A     | Unemployment Rate in Naples-Immokalee-Marco Island, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT123494000000004      | Unemployed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT123494000000004      | Unemployed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT123494000000004A     | Unemployed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT123494000000005      | Employed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT123494000000005      | Employed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT123494000000005A     | Employed Persons in Naples-Immokalee-Marco Island, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT123494000000006A     | Civilian Labor Force in Naples-Immokalee-Marco Island, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA34940          | Market Hotness: Listing Views per Property in Naples-Immokalee-Marco Island, FL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -56,10 +56,10 @@
 | MELIPRMSA34940            | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
 | MELIPRVSUSMSA34940        | Market Hotness: Median Listing Price Versus the United States in Naples-Immokalee-Marco Island, FL (CBSA)                          | 2017-08-01          | 2022-08-01        |
 | MELIPRYYMSA34940          | Market Hotness: Median Listing Price in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NAPL912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-07-01        |
-| NAPL912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-07-01        |
-| NAPL912BPPRIV             | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-07-01        |
-| NAPL912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-07-01        |
+| NAPL912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-08-01        |
+| NAPL912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Naples-Marco Island, FL (MSA)                      | 1988-01-01          | 2022-08-01        |
+| NAPL912BPPRIV             | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-08-01        |
+| NAPL912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Naples-Marco Island, FL (MSA)                                         | 1988-01-01          | 2022-08-01        |
 | NAPL912EDUH               | All Employees: Education and Health Services in Naples-Immokalee-Marco Island, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | NAPL912EDUHN              | All Employees: Education and Health Services in Naples-Immokalee-Marco Island, FL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | NAPL912FIRE               | All Employees: Financial Activities in Naples-Immokalee-Marco Island, FL (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -70,8 +70,8 @@
 | NAPL912INFON              | All Employees: Information in Naples-Immokalee-Marco Island, FL (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | NAPL912LEIH               | All Employees: Leisure and Hospitality in Naples-Immokalee-Marco Island, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | NAPL912LEIHN              | All Employees: Leisure and Hospitality in Naples-Immokalee-Marco Island, FL (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| NAPL912LF                 | Civilian Labor Force in Naples-Immokalee-Marco Island, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| NAPL912LFN                | Civilian Labor Force in Naples-Immokalee-Marco Island, FL (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| NAPL912LF                 | Civilian Labor Force in Naples-Immokalee-Marco Island, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| NAPL912LFN                | Civilian Labor Force in Naples-Immokalee-Marco Island, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | NAPL912MFG                | All Employees: Manufacturing in Naples-Immokalee-Marco Island, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | NAPL912MFGN               | All Employees: Manufacturing in Naples-Immokalee-Marco Island, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | NAPL912NA                 | All Employees: Total Nonfarm in Naples-Immokalee-Marco Island, FL (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -85,8 +85,8 @@
 | NAPL912SRVON              | All Employees: Other Services in Naples-Immokalee-Marco Island, FL (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | NAPL912TRAD               | All Employees: Trade, Transportation, and Utilities in Naples-Immokalee-Marco Island, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | NAPL912TRADN              | All Employees: Trade, Transportation, and Utilities in Naples-Immokalee-Marco Island, FL (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| NAPL912UR                 | Unemployment Rate in Naples-Immokalee-Marco Island, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| NAPL912URN                | Unemployment Rate in Naples-Immokalee-Marco Island, FL (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| NAPL912UR                 | Unemployment Rate in Naples-Immokalee-Marco Island, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| NAPL912URN                | Unemployment Rate in Naples-Immokalee-Marco Island, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | NEWLISCOU34940            | Housing Inventory: New Listing Count in Naples-Immokalee-Marco Island, FL (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
 | NEWLISCOUMM34940          | Housing Inventory: New Listing Count Month-Over-Month in Naples-Immokalee-Marco Island, FL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
 | NEWLISCOUYY34940          | Housing Inventory: New Listing Count Year-Over-Year in Naples-Immokalee-Marco Island, FL (CBSA)                                    | 2017-07-01          | 2022-08-01        |

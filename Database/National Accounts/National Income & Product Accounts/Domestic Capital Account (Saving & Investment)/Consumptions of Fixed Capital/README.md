@@ -63,9 +63,9 @@
 | B1667C1Q027SBEA | Consumption of fixed capital: Nonfarm business                                                                                         | 1947-01-01          | 2022-04-01        |
 | B2607C1A027NBEA | Consumption of fixed capital: Private: Households and institutions: Owner-occupied housing                                             | 1929-01-01          | 2021-01-01        |
 | B2607C1Q027SBEA | Consumption of fixed capital: Private: Households and institutions: Owner-occupied housing                                             | 1947-01-01          | 2022-04-01        |
-| B2608C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Nonfarm tenant-occupied housing      | 1929-01-01          | 2020-01-01        |
-| B2609C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Farms owned by nonoperator landlords | 1929-01-01          | 2020-01-01        |
-| B2610C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Nonfarm nonresidential properties    | 1929-01-01          | 2020-01-01        |
+| B2608C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Nonfarm tenant-occupied housing      | 1929-01-01          | 2021-01-01        |
+| B2609C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Farms owned by nonoperator landlords | 1929-01-01          | 2021-01-01        |
+| B2610C1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Nonfarm nonresidential properties    | 1929-01-01          | 2021-01-01        |
 | NA000255Q       | Consumption of fixed capital: Government                                                                                               | 2002-01-01          | 2022-04-01        |
 | NA000257Q       | Consumption of fixed capital: Private                                                                                                  | 2002-01-01          | 2022-04-01        |
 | NA000281Q       | Consumption of fixed capital: Government: Federal                                                                                      | 1947-01-01          | 2022-04-01        |
@@ -74,7 +74,7 @@
 | W276RC1Q027SBEA | Consumption of fixed capital: Private: Domestic business                                                                               | 1947-01-01          | 2022-04-01        |
 | W277RC1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business                                                                 | 1929-01-01          | 2021-01-01        |
 | W277RC1Q027SBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business                                                                 | 1947-01-01          | 2022-04-01        |
-| W278RC1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Farm tenant-occupied housing         | 1929-01-01          | 2020-01-01        |
+| W278RC1A027NBEA | Consumption of fixed capital: Private: Domestic: Noncorporate business: Rental income of persons: Farm tenant-occupied housing         | 1929-01-01          | 2021-01-01        |
 | W279RC1A027NBEA | Consumption of fixed capital: Private: Households and institutions                                                                     | 1929-01-01          | 2021-01-01        |
 | W279RC1Q027SBEA | Consumption of fixed capital: Private: Households and institutions                                                                     | 1947-01-01          | 2022-04-01        |
 | W769RC1A027NBEA | State government expenditures: Consumption of fixed capital                                                                            | 1959-01-01          | 2020-01-01        |

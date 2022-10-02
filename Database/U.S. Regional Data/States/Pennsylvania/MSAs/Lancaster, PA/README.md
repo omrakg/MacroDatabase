@@ -37,8 +37,8 @@
 | LANC542INFON              | All Employees: Information in Lancaster, PA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | LANC542LEIH               | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | LANC542LEIHN              | All Employees: Leisure and Hospitality in Lancaster, PA (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| LANC542LF                 | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| LANC542LFN                | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| LANC542LF                 | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| LANC542LFN                | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | LANC542MFG                | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | LANC542MFGN               | All Employees: Manufacturing in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | LANC542NA                 | All Employees: Total Nonfarm in Lancaster, PA (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -52,12 +52,12 @@
 | LANC542SRVON              | All Employees: Other Services in Lancaster, PA (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | LANC542TRAD               | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | LANC542TRADN              | All Employees: Trade, Transportation, and Utilities in Lancaster, PA (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| LANC542UR                 | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| LANC542URN                | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| LANC542UR                 | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| LANC542URN                | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | LAUMT422954000000003A     | Unemployment Rate in Lancaster, PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT422954000000004      | Unemployed Persons in Lancaster, PA (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT422954000000004      | Unemployed Persons in Lancaster, PA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT422954000000004A     | Unemployed Persons in Lancaster, PA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT422954000000005      | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT422954000000005      | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT422954000000005A     | Employed Persons in Lancaster, PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT422954000000006A     | Civilian Labor Force in Lancaster, PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA29540          | Market Hotness: Listing Views per Property in Lancaster, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |

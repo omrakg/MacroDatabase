@@ -21,9 +21,9 @@
 | ENUC331440510SA           | Average Weekly Wages for Employees in Private Establishments in Michigan City-La Porte, IN (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD33140                 | Implicit Regional Price Deflator for Michigan City-La Porte, IN (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT183314000000003A     | Unemployment Rate in Michigan City-La Porte, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT183314000000004      | Unemployed Persons in Michigan City-La Porte, IN (MSA)                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT183314000000004      | Unemployed Persons in Michigan City-La Porte, IN (MSA)                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT183314000000004A     | Unemployed Persons in Michigan City-La Porte, IN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT183314000000005      | Employed Persons in Michigan City-La Porte, IN (MSA)                                                          | 1990-01-01          | 2022-07-01        |
+| LAUMT183314000000005      | Employed Persons in Michigan City-La Porte, IN (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT183314000000005A     | Employed Persons in Michigan City-La Porte, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT183314000000006A     | Civilian Labor Force in Michigan City-La Porte, IN (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MCPPOP                    | Resident Population in Michigan City-La Porte, IN (MSA)                                                       | 2000-01-01          | 2021-01-01        |
@@ -49,8 +49,8 @@
 | MICH118INFON              | All Employees: Information in Michigan City-La Porte, IN (MSA)                                                | 2008-01-01          | 2022-08-01        |
 | MICH118LEIH               | All Employees: Leisure and Hospitality in Michigan City-La Porte, IN (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | MICH118LEIHN              | All Employees: Leisure and Hospitality in Michigan City-La Porte, IN (MSA)                                    | 1990-01-01          | 2022-08-01        |
-| MICH118LF                 | Civilian Labor Force in Michigan City-La Porte, IN (MSA)                                                      | 1990-01-01          | 2022-07-01        |
-| MICH118LFN                | Civilian Labor Force in Michigan City-La Porte, IN (MSA)                                                      | 1990-01-01          | 2022-07-01        |
+| MICH118LF                 | Civilian Labor Force in Michigan City-La Porte, IN (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| MICH118LFN                | Civilian Labor Force in Michigan City-La Porte, IN (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | MICH118MFG                | All Employees: Manufacturing in Michigan City-La Porte, IN (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | MICH118MFGN               | All Employees: Manufacturing in Michigan City-La Porte, IN (MSA)                                              | 1990-01-01          | 2022-08-01        |
 | MICH118NA                 | All Employees: Total Nonfarm in Michigan City-La Porte, IN (MSA)                                              | 1990-01-01          | 2022-08-01        |
@@ -64,8 +64,8 @@
 | MICH118SRVON              | All Employees: Other Services in Michigan City-La Porte, IN (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | MICH118TRAD               | All Employees: Trade, Transportation, and Utilities in Michigan City-La Porte, IN (MSA)                       | 1990-01-01          | 2022-08-01        |
 | MICH118TRADN              | All Employees: Trade, Transportation, and Utilities in Michigan City-La Porte, IN (MSA)                       | 1990-01-01          | 2022-08-01        |
-| MICH118UR                 | Unemployment Rate in Michigan City-La Porte, IN (MSA)                                                         | 1990-01-01          | 2022-07-01        |
-| MICH118URN                | Unemployment Rate in Michigan City-La Porte, IN (MSA)                                                         | 1990-01-01          | 2022-07-01        |
+| MICH118UR                 | Unemployment Rate in Michigan City-La Porte, IN (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| MICH118URN                | Unemployment Rate in Michigan City-La Porte, IN (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | NEWLISCOU33140            | Housing Inventory: New Listing Count in Michigan City-LA Porte, IN (CBSA)                                     | 2016-07-01          | 2022-08-01        |
 | NEWLISCOUMM33140          | Housing Inventory: New Listing Count Month-Over-Month in Michigan City-LA Porte, IN (CBSA)                    | 2017-07-01          | 2022-08-01        |
 | NEWLISCOUYY33140          | Housing Inventory: New Listing Count Year-Over-Year in Michigan City-LA Porte, IN (CBSA)                      | 2017-07-01          | 2022-08-01        |

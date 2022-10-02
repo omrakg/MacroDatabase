@@ -7,10 +7,10 @@
 | AVELISPRI13460            | Housing Inventory: Average Listing Price in Bend-Redmond, OR (CBSA)                                               | 2016-07-01          | 2022-08-01        |
 | AVELISPRIMM13460          | Housing Inventory: Average Listing Price Month-Over-Month in Bend-Redmond, OR (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | AVELISPRIYY13460          | Housing Inventory: Average Listing Price Year-Over-Year in Bend-Redmond, OR (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| BEND441BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-07-01        |
-| BEND441BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-07-01        |
-| BEND441BPPRIV             | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-07-01        |
-| BEND441BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-07-01        |
+| BEND441BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-08-01        |
+| BEND441BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Bend, OR (MSA)                    | 2004-01-01          | 2022-08-01        |
+| BEND441BPPRIV             | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-08-01        |
+| BEND441BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Bend, OR (MSA)                                       | 2004-01-01          | 2022-08-01        |
 | BEND441EDUH               | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | BEND441EDUHN              | All Employees: Education and Health Services in Bend-Redmond, OR (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | BEND441FIRE               | All Employees: Financial Activities in Bend-Redmond, OR (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -21,8 +21,8 @@
 | BEND441INFON              | All Employees: Information in Bend-Redmond, OR (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | BEND441LEIH               | All Employees: Leisure and Hospitality in Bend-Redmond, OR (MSA)                                                  | 1990-01-01          | 2022-08-01        |
 | BEND441LEIHN              | All Employees: Leisure and Hospitality in Bend-Redmond, OR (MSA)                                                  | 1990-01-01          | 2022-08-01        |
-| BEND441LF                 | Civilian Labor Force in Bend-Redmond, OR (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
-| BEND441LFN                | Civilian Labor Force in Bend-Redmond, OR (MSA)                                                                    | 1990-01-01          | 2022-07-01        |
+| BEND441LF                 | Civilian Labor Force in Bend-Redmond, OR (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| BEND441LFN                | Civilian Labor Force in Bend-Redmond, OR (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
 | BEND441MFG                | All Employees: Manufacturing in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | BEND441MFGN               | All Employees: Manufacturing in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-08-01        |
 | BEND441NA                 | All Employees: Total Nonfarm in Bend-Redmond, OR (MSA)                                                            | 1990-01-01          | 2022-08-01        |
@@ -36,8 +36,8 @@
 | BEND441SRVON              | All Employees: Other Services in Bend-Redmond, OR (MSA)                                                           | 1990-01-01          | 2022-08-01        |
 | BEND441TRAD               | All Employees: Trade, Transportation, and Utilities in Bend-Redmond, OR (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | BEND441TRADN              | All Employees: Trade, Transportation, and Utilities in Bend-Redmond, OR (MSA)                                     | 1990-01-01          | 2022-08-01        |
-| BEND441UR                 | Unemployment Rate in Bend-Redmond, OR (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
-| BEND441URN                | Unemployment Rate in Bend-Redmond, OR (MSA)                                                                       | 1990-01-01          | 2022-07-01        |
+| BEND441UR                 | Unemployment Rate in Bend-Redmond, OR (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| BEND441URN                | Unemployment Rate in Bend-Redmond, OR (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | BNDPOP                    | Resident Population in Bend-Redmond, OR (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA13460              | Market Hotness: Demand Score in Bend-Redmond, OR (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC134630010             | Total Quarterly Wages in Bend-Redmond, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -58,9 +58,9 @@
 | HOSCMSA13460              | Market Hotness: Hotness Score in Bend-Redmond, OR (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
 | IRPD13460                 | Implicit Regional Price Deflator for Bend-Redmond, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT411346000000003A     | Unemployment Rate in Bend-Redmond, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT411346000000004      | Unemployed Persons in Bend-Redmond, OR (MSA)                                                                      | 1990-01-01          | 2022-07-01        |
+| LAUMT411346000000004      | Unemployed Persons in Bend-Redmond, OR (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT411346000000004A     | Unemployed Persons in Bend-Redmond, OR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT411346000000005      | Employed Persons in Bend-Redmond, OR (MSA)                                                                        | 1990-01-01          | 2022-07-01        |
+| LAUMT411346000000005      | Employed Persons in Bend-Redmond, OR (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT411346000000005A     | Employed Persons in Bend-Redmond, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT411346000000006A     | Civilian Labor Force in Bend-Redmond, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA13460          | Market Hotness: Listing Views per Property in Bend-Redmond, OR (CBSA)                                             | 2018-08-01          | 2022-08-01        |
