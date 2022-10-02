@@ -1,7 +1,7 @@
 {
   "id": "A423RC1A027NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "National income without capital consumption adjustment: Domestic industries",
   "observation_start": "1948-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-26 07:56:38-05",
+  "last_updated": "2022-09-29 07:49:36-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: A423RC\n\nFor more information about this series, please see http://www.bea.gov/national/."

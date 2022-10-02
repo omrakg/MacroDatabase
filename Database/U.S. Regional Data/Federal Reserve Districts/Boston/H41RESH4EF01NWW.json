@@ -1,17 +1,17 @@
 {
   "id": "H41RESH4EF01NWW",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Liabilities and Capital: Other Factors Draining Reserve Balances: Treasury Contribution to Credit Facilities: Wednesday Level in Federal Reserve District 1: Boston",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-09-21",
+  "observation_end": "2022-09-28",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-22 15:36:09-05",
+  "last_updated": "2022-09-29 15:35:20-05",
   "popularity": 1,
   "group_popularity": 1
 }

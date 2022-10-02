@@ -1,7 +1,7 @@
 {
   "id": "DEUCPGREN01IXOBSAQ",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Consumer Price Index: OECD Groups: Energy (Fuel, electricity & gasoline): Total for Germany",
   "observation_start": "1991-01-01",
   "observation_end": "2021-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-14 15:07:42-05",
   "popularity": 1,
-  "group_popularity": 41,
+  "group_popularity": 37,
   "notes": "OECD descriptor ID: CPGREN01 OECD unit ID: IXOBSA OECD country ID: DEU All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

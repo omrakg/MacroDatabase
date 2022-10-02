@@ -1,0 +1,18 @@
+{
+  "id": "GVIPT50030A",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Industrial Production: Gross Value of Products: Final Products and Nonindustrial Supplies",
+  "observation_start": "1972-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Billions of 2012 US Dollars",
+  "units_short": "Bil. of 2012 US $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-08-25 21:06:01-05",
+  "popularity": 0,
+  "group_popularity": 2,
+  "notes": "Gross Value of Products (GVIP) measures the gross value of products and nonindustrial supplies in the United States.\n\nFor more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors\n\nSource Code: GVIP.T50030.A"
+}

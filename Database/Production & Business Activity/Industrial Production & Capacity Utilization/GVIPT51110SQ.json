@@ -1,18 +1,18 @@
 {
   "id": "GVIPT51110SQ",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Industrial Production: Gross Value of Products: Automotive Products",
   "observation_start": "1972-01-01",
-  "observation_end": "2022-01-01",
+  "observation_end": "2022-04-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Billions of 2012 US Dollars",
   "units_short": "Bil. of 2012 US $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-05-17 08:22:42-05",
+  "last_updated": "2022-09-15 08:21:26-05",
   "popularity": 0,
   "group_popularity": 1,
-  "notes": "Source Code: GVIP.T51110.S"
+  "notes": "Gross Value of Products (GVIP) measures the gross value of products and nonindustrial supplies in the United States.\n\nFor more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors\n\nSource Code: GVIP.T51110.S.Q"
 }

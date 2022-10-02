@@ -1,7 +1,7 @@
 {
   "id": "EA19B6BLTT02STSAQ",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Balance of Payments BPM6: Current Account Balance: Total: Total Balance as % of GDP for the Euro Area (19 Countries)",
   "observation_start": "1999-01-01",
   "observation_end": "2022-01-01",
@@ -9,10 +9,10 @@
   "frequency_short": "Q",
   "units": "Percent",
   "units_short": "%",
-  "seasonal_adjustment": "Not Seasonally Adjusted",
-  "seasonal_adjustment_short": "NSA",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-14 14:41:04-05",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 18,
+  "group_popularity": 18,
   "notes": "OECD descriptor ID: B6BLTT02 OECD unit ID: STSA OECD country ID: EA19All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

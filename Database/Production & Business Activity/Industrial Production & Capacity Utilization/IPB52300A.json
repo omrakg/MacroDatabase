@@ -1,0 +1,18 @@
+{
+  "id": "IPB52300A",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Industrial Production: Equipment: Defense and Space Equipment",
+  "observation_start": "1947-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Index 2017=100",
+  "units_short": "Index 2017=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-08-25 21:05:29-05",
+  "popularity": 1,
+  "group_popularity": 8,
+  "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nFor more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors\n\nSource Code: IP.B52300.A"
+}

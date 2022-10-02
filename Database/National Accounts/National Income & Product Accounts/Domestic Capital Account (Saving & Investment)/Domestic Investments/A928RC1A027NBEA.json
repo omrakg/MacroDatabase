@@ -1,7 +1,7 @@
 {
   "id": "A928RC1A027NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Gross domestic investment, capital account transactions, and net lending, NIPAs",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-30 07:57:27-05",
+  "last_updated": "2022-09-29 07:49:26-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 7,
   "notes": "BEA Account Code: A928RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

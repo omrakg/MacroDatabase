@@ -1,7 +1,7 @@
 {
   "id": "OKICLAIMS",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Initial Claims in Oklahoma",
   "observation_start": "1986-02-15",
   "observation_end": "2022-09-17",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-23 07:36:05-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "An initial claim is a claim filed by an unemployed individual after a separation from an employer. The claim requests a determination of basic eligibility for the Unemployment Insurance program."
 }

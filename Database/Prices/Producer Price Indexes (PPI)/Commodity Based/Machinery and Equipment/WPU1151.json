@@ -1,7 +1,7 @@
 {
   "id": "WPU1151",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Electronic Computers",
   "observation_start": "1990-12-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:51:46-05",
   "popularity": 3,
-  "group_popularity": 4
+  "group_popularity": 3
 }

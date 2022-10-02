@@ -1,7 +1,7 @@
 {
   "id": "NJSTHPI",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "All-Transactions House Price Index for New Jersey",
   "observation_start": "1975-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-30 09:02:06-05",
-  "popularity": 56,
-  "group_popularity": 56,
+  "popularity": 55,
+  "group_popularity": 55,
   "notes": "Estimated using sales prices and appraisal data."
 }

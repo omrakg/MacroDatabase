@@ -1,7 +1,7 @@
 {
   "id": "A4102C1Q027SBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Gross domestic income: Compensation of employees, paid: Wages and salaries",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-08-25 07:53:26-05",
-  "popularity": 32,
-  "group_popularity": 35,
+  "last_updated": "2022-09-29 07:46:33-05",
+  "popularity": 31,
+  "group_popularity": 33,
   "notes": "BEA Account Code: A4102C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

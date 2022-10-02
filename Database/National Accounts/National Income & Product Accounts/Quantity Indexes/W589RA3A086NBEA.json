@@ -1,7 +1,7 @@
 {
   "id": "W589RA3A086NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Real government consumption expenditures and gross investment: Economic affairs: Transportation (chain-type quantity index)",
   "observation_start": "1959-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-02 11:25:03-05",
-  "popularity": 0,
-  "group_popularity": 0,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: W589RA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

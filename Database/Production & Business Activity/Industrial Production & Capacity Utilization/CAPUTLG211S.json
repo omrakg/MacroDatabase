@@ -1,18 +1,18 @@
 {
   "id": "CAPUTLG211S",
-  "realtime_start": "2022-06-12",
-  "realtime_end": "2022-06-12",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Capacity Utilization: Mining, Quarrying, and Oil and Gas Extraction: Oil and Gas Extraction (NAICS = 211)",
   "observation_start": "1972-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent of Capacity",
   "units_short": "% of Capacity",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-05-17 08:19:19-05",
-  "popularity": 7,
-  "group_popularity": 15,
-  "notes": "For a given industry, the capacity utilization rate is equal to an output index divided by a capacity index. The Federal Reserve Board's capacity indexes attempt to capture the concept of sustainable maximum output-the greatest level of output a plant can maintain within the framework of a realistic work schedule, after factoring in normal downtime and assuming sufficient availability of inputs to operate the capital in place.\n\nNAICS = 211\n\nSource Code: CAPUTL.G211.S"
+  "last_updated": "2022-09-15 08:18:36-05",
+  "popularity": 4,
+  "group_popularity": 9,
+  "notes": "For a given industry, the capacity utilization rate is equal to an output index divided by a capacity index. The Federal Reserve Board's capacity indexes attempt to capture the concept of sustainable maximum output-the greatest level of output a plant can maintain within the framework of a realistic work schedule, after factoring in normal downtime and assuming sufficient availability of inputs to operate the capital in place.\n\nFor more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors\n\nNAICS: 211\n\nSource Code: CAPUTL.G211.S"
 }

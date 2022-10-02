@@ -1,0 +1,17 @@
+{
+  "id": "PCU3114223114224Z",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Producer Price Index by Industry: Specialty Canning: Canned Soups and Stews, Excluding Frozen and Seafood (DISCONTINUED)",
+  "observation_start": "1947-01-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1982=100",
+  "units_short": "Index Dec 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-11 09:07:35-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

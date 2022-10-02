@@ -1,7 +1,7 @@
 {
   "id": "GDINOS",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Gross Domestic Income: Net Operating Surplus",
   "observation_start": "1959-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-08-25 07:52:21-05",
-  "popularity": 13,
-  "group_popularity": 16,
+  "last_updated": "2022-09-29 07:45:41-05",
+  "popularity": 16,
+  "group_popularity": 18,
   "notes": "BEA Account Code: W271RC\n\n"
 }

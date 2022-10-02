@@ -1,18 +1,18 @@
 {
   "id": "WPRIME",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Bank Prime Loan Rate",
   "observation_start": "1955-08-10",
-  "observation_end": "2022-09-21",
+  "observation_end": "2022-09-28",
   "frequency": "Weekly, Ending Wednesday",
   "frequency_short": "W",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-22 15:17:03-05",
-  "popularity": 32,
+  "last_updated": "2022-09-29 15:22:05-05",
+  "popularity": 31,
   "group_popularity": 73,
   "notes": "Averages of daily figures."
 }

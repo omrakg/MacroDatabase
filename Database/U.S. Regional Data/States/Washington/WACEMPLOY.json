@@ -1,7 +1,7 @@
 {
   "id": "WACEMPLOY",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Covered Employment in Washington",
   "observation_start": "1986-02-08",
   "observation_end": "2022-09-10",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-23 07:36:24-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Covered employment is the number of employees covered by state insurance programs."
 }

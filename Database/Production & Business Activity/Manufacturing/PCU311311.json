@@ -1,17 +1,17 @@
 {
   "id": "PCU311311",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Producer Price Index by Industry: Food Manufacturing",
   "observation_start": "1984-12-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 1984=100",
   "units_short": "Index Dec 1984=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 07:56:02-05",
-  "popularity": 51,
-  "group_popularity": 51
+  "last_updated": "2022-09-14 07:56:01-05",
+  "popularity": 54,
+  "group_popularity": 54
 }

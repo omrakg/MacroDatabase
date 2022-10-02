@@ -1,8 +1,8 @@
 {
   "id": "IRSTCI01CNQ156N",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
-  "title": "Immediate Rates: Less than 24 Hours: Call Money/Interbank Rate for China",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Interest Rates: Immediate Rates (< 24 Hrs): Call Money/Interbank Rate: Total for China (People's Republic Of)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
   "frequency": "Quarterly",

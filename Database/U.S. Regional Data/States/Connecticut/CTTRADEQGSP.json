@@ -1,7 +1,7 @@
 {
   "id": "CTTRADEQGSP",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Chain-Type Quantity Index for Real GDP: Trade (NAICS 42, 44-45) in Connecticut",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Index 2012=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-31 10:51:16-05",
+  "last_updated": "2022-09-30 09:31:22-05",
   "popularity": 0,
   "group_popularity": 0,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."

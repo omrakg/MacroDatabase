@@ -1,0 +1,18 @@
+{
+  "id": "RCMFLBACTNUM",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Large Bank Consumer Mortgage Balances: Number of Accounts",
+  "observation_start": "2012-07-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly, End of Quarter",
+  "frequency_short": "Q",
+  "units": "Millions",
+  "units_short": "Mil.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-28 15:53:19-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The total count of first-lien closed-end loans secured by 1-4 family residential real estate among firms included in the reporting panel. Includes both first-lien mortgages and first-lien home equity loans for portfolio mortgages only. Reported accounts are as of quarter end. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
+}

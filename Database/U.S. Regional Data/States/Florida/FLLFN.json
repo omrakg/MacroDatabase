@@ -1,7 +1,7 @@
 {
   "id": "FLLFN",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Civilian Labor Force in Florida",
   "observation_start": "1976-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-19 09:29:18-05",
-  "popularity": 2,
+  "popularity": 3,
   "group_popularity": 5
 }

@@ -1,0 +1,18 @@
+{
+  "id": "DFINCPN",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Domestic Financial Commercial Paper Outstanding",
+  "observation_start": "2001-01-03",
+  "observation_end": "2022-09-28",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-29 12:11:08-05",
+  "popularity": 1,
+  "group_popularity": 4,
+  "notes": "For more information, please refer to http://www.federalreserve.gov/releases/cp/about.htm"
+}

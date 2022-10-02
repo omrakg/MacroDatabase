@@ -1,7 +1,7 @@
 {
   "id": "ALPCPI",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Per Capita Personal Income in Alabama",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "$",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-23 13:28:06-05",
-  "popularity": 16,
-  "group_popularity": 16
+  "last_updated": "2022-09-30 09:59:03-05",
+  "popularity": 22,
+  "group_popularity": 22
 }

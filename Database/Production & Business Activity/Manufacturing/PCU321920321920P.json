@@ -1,17 +1,17 @@
 {
   "id": "PCU321920321920P",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Producer Price Index by Industry: Wood Container and Pallet Manufacturing: Primary Products",
   "observation_start": "2003-12-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 2003=100",
   "units_short": "Index Dec 2003=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 07:59:55-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "last_updated": "2022-09-14 07:56:13-05",
+  "popularity": 2,
+  "group_popularity": 2
 }

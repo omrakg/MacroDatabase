@@ -1,0 +1,18 @@
+{
+  "id": "ECOMSA",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "E-Commerce Retail Sales",
+  "observation_start": "1999-10-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-08-19 09:16:02-05",
+  "popularity": 55,
+  "group_popularity": 56,
+  "notes": "E-commerce sales are sales of goods and services where  the buyer places an order, or the price and terms  of the sale  are negotiated over an Internet, mobile device  (M-commerce),  extranet,  Electronic  Data  Interchange  (EDI)  network,  electronic  mail,  or  other  comparable  online  system.  Payment  may  or  may  not  be  made online."
+}

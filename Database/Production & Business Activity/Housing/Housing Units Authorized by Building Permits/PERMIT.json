@@ -1,7 +1,7 @@
 {
   "id": "PERMIT",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units",
   "observation_start": "1960-01-01",
   "observation_end": "2022-08-01",
@@ -11,7 +11,7 @@
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-09-20 07:31:10-05",
+  "last_updated": "2022-09-27 07:02:03-05",
   "popularity": 71,
   "group_popularity": 71,
   "notes": "Starting with the 2005-02-16 release, the series reflects an increase in the universe of permit-issuing places from 19,000 to 20,000 places."

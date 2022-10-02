@@ -1,0 +1,18 @@
+{
+  "id": "RCMFLOORIG",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Large Bank Consumer Mortgage Originations: New Originations",
+  "observation_start": "2012-07-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly, Sum",
+  "frequency_short": "Q",
+  "units": "Billions of U.S. Dollars",
+  "units_short": "Bil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-28 15:53:29-05",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "The total balances of new first lien originations. Quarterly first lien originations represent the sum of origination balances in the given quarter. These data include total bank loans originated and held in portfolio in a given quarter, including those that will later be sold or securitized. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)"
+}

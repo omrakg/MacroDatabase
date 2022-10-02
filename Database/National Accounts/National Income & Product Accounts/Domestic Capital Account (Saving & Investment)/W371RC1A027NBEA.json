@@ -1,9 +1,9 @@
 {
   "id": "W371RC1A027NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Capital account transactions, ITAs",
-  "observation_start": "1986-01-01",
+  "observation_start": "1999-01-01",
   "observation_end": "2021-01-01",
   "frequency": "Annual",
   "frequency_short": "A",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-06-29 07:51:02-05",
+  "last_updated": "2022-09-29 14:23:38-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: W371RC\n\nFor more information about this series, please see http://www.bea.gov/national/."

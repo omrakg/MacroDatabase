@@ -1,7 +1,7 @@
 {
   "id": "DGOERC1A027NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Personal consumption expenditures: Nondurable goods: Gasoline and other energy goods",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-30 07:54:31-05",
+  "last_updated": "2022-09-29 07:47:13-05",
   "popularity": 3,
-  "group_popularity": 25,
+  "group_popularity": 29,
   "notes": "BEA Account Code: DGOERC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

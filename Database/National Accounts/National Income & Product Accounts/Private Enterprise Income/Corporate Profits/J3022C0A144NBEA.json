@@ -1,7 +1,7 @@
 {
   "id": "J3022C0A144NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Corporate profits before tax: Domestic industries: Manufacturing: Durable goods: Other transportation equipment",
   "observation_start": "1948-01-01",
   "observation_end": "1987-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-08-10 12:15:01-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: J3022C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

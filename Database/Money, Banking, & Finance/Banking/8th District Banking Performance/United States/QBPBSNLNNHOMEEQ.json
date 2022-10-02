@@ -1,0 +1,18 @@
+{
+  "id": "QBPBSNLNNHOMEEQ",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Balance Sheet: Unused Loan Commitments - Total: Unused Home Equity Lines",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Millions of U.S. Dollars",
+  "units_short": "Mil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-09 09:06:07-05",
+  "popularity": 17,
+  "group_popularity": 17,
+  "notes": "This series is found in Assets and Liabilities of FDIC-Insured Commercial Banks and Savings Institutions.\n\nThe Quarterly Banking Profile is a quarterly publication that provides the earliest comprehensive summary of financial results for all FDIC-insured institutions.\n\nSee Notes to Users (https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/timeseries/qbpnot.pdf) for more information."
+}

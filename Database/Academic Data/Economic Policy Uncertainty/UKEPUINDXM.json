@@ -1,7 +1,7 @@
 {
   "id": "UKEPUINDXM",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Economic Policy Uncertainty Index for United Kingdom",
   "observation_start": "1997-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-01 08:02:06-05",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "For additional details, including an analysis of the performance of the model, see Baker, Scott, Nicholas Bloom and Steven Davis (2012), \"Measuring Economic Policy Uncertainty\" (http://www.policyuncertainty.com/media/BakerBloomDavis.pdf)"
 }

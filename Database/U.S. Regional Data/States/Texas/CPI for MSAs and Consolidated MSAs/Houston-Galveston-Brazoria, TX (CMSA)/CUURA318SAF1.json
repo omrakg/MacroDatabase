@@ -1,7 +1,7 @@
 {
   "id": "CUURA318SAF1",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Consumer Price Index for All Urban Consumers: Food in Houston-The Woodlands-Sugar Land, TX (CBSA)",
   "observation_start": "1914-12-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-13 07:40:22-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

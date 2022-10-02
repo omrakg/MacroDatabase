@@ -1,18 +1,18 @@
 {
   "id": "IURNSA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Insured Unemployment Rate",
   "observation_start": "1971-01-02",
-  "observation_end": "2022-09-10",
+  "observation_end": "2022-09-17",
   "frequency": "Weekly, Ending Saturday",
   "frequency_short": "W",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-22 07:35:12-05",
+  "last_updated": "2022-09-29 07:33:11-05",
   "popularity": 22,
-  "group_popularity": 35,
+  "group_popularity": 33,
   "notes": "The insured unemployment rate (% of covered employment) is Continued Claims (also called insured unemployment) divided by Covered Employment."
 }

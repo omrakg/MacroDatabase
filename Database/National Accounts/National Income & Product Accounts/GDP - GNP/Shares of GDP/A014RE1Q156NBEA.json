@@ -1,7 +1,7 @@
 {
   "id": "A014RE1Q156NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Shares of gross domestic product: Gross private domestic investment: Change in private inventories",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-28 07:54:18-05",
-  "popularity": 5,
+  "last_updated": "2022-09-29 07:47:38-05",
+  "popularity": 6,
   "group_popularity": 6,
   "notes": "BEA Account Code: A014RE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

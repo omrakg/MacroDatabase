@@ -1,18 +1,18 @@
 {
   "id": "U34XVS",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Manufacturers' Value of Shipments: Communications Equipment",
   "observation_start": "1992-01-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-24 07:31:20-05",
+  "last_updated": "2022-09-27 07:31:19-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 6,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

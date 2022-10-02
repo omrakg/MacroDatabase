@@ -1,9 +1,9 @@
 {
   "id": "DTENRA3A086NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Real personal consumption expenditures: Services: Housing: Rental of tenant-occupied nonfarm housing (chain-type quantity index)",
-  "observation_start": "1929-01-01",
+  "observation_start": "1959-01-01",
   "observation_end": "2021-01-01",
   "frequency": "Annual",
   "frequency_short": "A",
@@ -11,8 +11,8 @@
   "units_short": "Index 2012=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-02-24 07:54:59-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "last_updated": "2022-09-29 14:24:04-05",
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "BEA Account Code: DTENRA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

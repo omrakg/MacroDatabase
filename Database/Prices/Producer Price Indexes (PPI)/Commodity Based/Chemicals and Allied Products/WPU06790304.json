@@ -1,7 +1,7 @@
 {
   "id": "WPU06790304",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Oxygen",
   "observation_start": "1981-06-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:52:35-05",
-  "popularity": 12,
-  "group_popularity": 12
+  "popularity": 15,
+  "group_popularity": 15
 }

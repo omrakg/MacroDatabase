@@ -1,7 +1,7 @@
 {
   "id": "B139RL1A225NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Real Motor Vehicle Output: Final Sales of Domestic Product: Private Fixed Investment: New Motor Vehicles: Autos",
   "observation_start": "1948-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "% Chg. from Preceding Period",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-30 08:03:20-05",
+  "last_updated": "2022-09-29 07:49:18-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: B139RL\n\nFor more information about this series, please see http://www.bea.gov/national/."

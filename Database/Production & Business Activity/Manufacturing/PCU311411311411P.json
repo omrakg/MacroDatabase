@@ -1,17 +1,17 @@
 {
   "id": "PCU311411311411P",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Producer Price Index by Industry: Frozen Fruit and Vegetable Manufacturing: Primary Products",
   "observation_start": "1981-06-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Jun 1981=100",
   "units_short": "Index Jun 1981=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 08:01:22-05",
+  "last_updated": "2022-09-14 08:00:37-05",
   "popularity": 1,
   "group_popularity": 1
 }

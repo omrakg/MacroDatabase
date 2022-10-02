@@ -1,18 +1,18 @@
 {
   "id": "DTRTXDFBAM",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Total Real Estate Loans Owned and Securitized by Finance Companies, Flow",
   "observation_start": "1970-07-01",
-  "observation_end": "2022-06-01",
+  "observation_end": "2022-07-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Millions of Dollars, Monthly Rate",
   "units_short": "Mil. of $, Monthly Rate",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-08-17 14:03:29-05",
+  "last_updated": "2022-09-29 13:33:31-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 4,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/ ."
 }

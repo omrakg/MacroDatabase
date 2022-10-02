@@ -1,7 +1,7 @@
 {
   "id": "IEAAOICDN",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "US Acquisition of Other Investment Assets: Currency and deposits",
   "observation_start": "2003-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-22 08:47:20-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 1,
+  "group_popularity": 1
 }

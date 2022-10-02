@@ -1,7 +1,7 @@
 {
   "id": "INDGFCFADSMEI",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Gross Fixed Capital Formation in India",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -9,10 +9,10 @@
   "frequency_short": "A",
   "units": "Indian Rupee",
   "units_short": "Indian Rupee",
-  "seasonal_adjustment": "Not Seasonally Adjusted",
-  "seasonal_adjustment_short": "NSA",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-14 15:45:39-05",
   "popularity": 1,
-  "group_popularity": 13,
+  "group_popularity": 11,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

@@ -1,7 +1,7 @@
 {
   "id": "M01175USM350NNBR",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Index of Production of Manufactures, Total for United States",
   "observation_start": "1919-01-01",
   "observation_end": "1969-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 11:06:48-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Source: Federal Reserve Board, Industrial Production; Frb Release G12.3, Business Indexes; Federal Reserve Bulletins.\n\nThis NBER data series m01175 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: m01175"
 }

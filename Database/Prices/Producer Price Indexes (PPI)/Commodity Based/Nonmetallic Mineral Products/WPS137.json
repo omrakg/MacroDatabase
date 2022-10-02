@@ -1,7 +1,7 @@
 {
   "id": "WPS137",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Producer Price Index by Commodity: Nonmetallic Mineral Products: Gypsum Products",
   "observation_start": "1967-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-14 07:53:22-05",
-  "popularity": 4,
-  "group_popularity": 27
+  "popularity": 5,
+  "group_popularity": 33
 }

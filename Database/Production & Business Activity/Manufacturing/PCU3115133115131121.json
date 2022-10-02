@@ -1,17 +1,17 @@
 {
   "id": "PCU3115133115131121",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Producer Price Index by Industry: Cheese Manufacturing: Natural Cheese, Except Lowfat, Shipped in Packages or Containers (More Than 3 Pounds) or Bulk",
   "observation_start": "2004-12-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 2004=100",
   "units_short": "Index Dec 2004=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-11 08:01:01-05",
+  "last_updated": "2022-09-14 08:00:45-05",
   "popularity": 1,
   "group_popularity": 1
 }

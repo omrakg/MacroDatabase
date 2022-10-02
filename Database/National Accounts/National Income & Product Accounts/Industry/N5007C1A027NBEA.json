@@ -1,7 +1,7 @@
 {
   "id": "N5007C1A027NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "National income without capital consumption adjustment: Domestic private industries: Construction",
   "observation_start": "1998-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-26 07:51:15-05",
+  "last_updated": "2022-09-29 07:48:31-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: N5007C\n\nFor more information about this series, please see http://www.bea.gov/national/."

@@ -1,0 +1,17 @@
+{
+  "id": "RETAILMPCIMNSA",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Retailers Inventories",
+  "observation_start": "1992-02-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Monthly, End of Period",
+  "frequency_short": "M",
+  "units": "Percent Change",
+  "units_short": "% Chg.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-15 09:01:15-05",
+  "popularity": 5,
+  "group_popularity": 57
+}

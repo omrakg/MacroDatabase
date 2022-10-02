@@ -1,7 +1,7 @@
 {
   "id": "DLTBOARD",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Composite Yield on U.S. Treasury Bonds with Maturity over 10 Years (DISCONTINUED)",
   "observation_start": "1981-07-01",
   "observation_end": "2000-06-30",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-06 14:42:32-05",
-  "popularity": 27,
+  "popularity": 30,
   "group_popularity": 36
 }

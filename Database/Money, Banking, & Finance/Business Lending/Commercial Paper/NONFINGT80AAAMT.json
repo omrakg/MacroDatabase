@@ -1,0 +1,18 @@
+{
+  "id": "NONFINGT80AAAMT",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Total Value of Issues, with a Maturity Greater Than 80 Days, Used in Calculating the AA Nonfinancial Commercial Paper Rates",
+  "observation_start": "2001-01-02",
+  "observation_end": "2022-09-29",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-30 12:12:03-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information, please see http://www.federalreserve.gov/releases/cp/about.htm."
+}

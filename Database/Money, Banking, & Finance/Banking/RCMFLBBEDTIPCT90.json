@@ -1,0 +1,18 @@
+{
+  "id": "RCMFLBBEDTIPCT90",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
+  "title": "Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 90th Percentile",
+  "observation_start": "2012-07-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly, End of Quarter",
+  "frequency_short": "Q",
+  "units": "Ratio",
+  "units_short": "Ratio",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-28 15:53:22-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "The 90th percentile back-end debt-to-income (DTI) ratio. The back-end DTI ratio is the percentage of a borrower's monthly income that would go toward all the borrower's debt obligations. The total monthly debt payments (including proposed housing expenses) are divided by the total monthly income of the borrower. Back-end DTI is reported at origination. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
+}

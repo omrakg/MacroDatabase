@@ -1,7 +1,7 @@
 {
   "id": "B277RN2Q224SBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Contributions to Percent Change in National Defense Consumption Expenditures and Gross Investment: Consumption expenditures: Gross output of general government: Intermediate goods and services purchased: Durable goods: Missiles",
   "observation_start": "1972-04-01",
   "observation_end": "2022-04-01",
@@ -11,7 +11,7 @@
   "units_short": "Percentage Points at Annual Rate",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-07-28 07:55:43-05",
+  "last_updated": "2022-09-29 14:24:32-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: B277RN\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"

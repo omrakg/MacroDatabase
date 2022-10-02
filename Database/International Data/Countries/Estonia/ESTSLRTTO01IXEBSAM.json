@@ -1,7 +1,7 @@
 {
   "id": "ESTSLRTTO01IXEBSAM",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Sales: Retail trade: Total retail trade: Volume for Estonia",
   "observation_start": "1998-01-01",
   "observation_end": "2022-07-01",
@@ -9,10 +9,10 @@
   "frequency_short": "M",
   "units": "Index Eurostat base",
   "units_short": "Index Eurostat base",
-  "seasonal_adjustment": "Not Seasonally Adjusted",
-  "seasonal_adjustment_short": "NSA",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-14 15:31:57-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: SLRTTO01 OECD unit ID: IXEBSA OECD country ID: ESTAll OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

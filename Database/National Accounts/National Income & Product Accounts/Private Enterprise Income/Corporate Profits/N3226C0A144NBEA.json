@@ -1,7 +1,7 @@
 {
   "id": "N3226C0A144NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-02",
+  "realtime_end": "2022-10-02",
   "title": "Corporate profits after tax: Domestic industries: Manufacturing: Nondurable goods: Food and beverage and tobacco products",
   "observation_start": "1998-01-01",
   "observation_end": "2018-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-08-06 14:37:43-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "BEA Account Code: N3226C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }
