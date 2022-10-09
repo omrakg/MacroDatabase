@@ -15,7 +15,7 @@
 | Oneida County, ID     |                89 |
 | Lincoln County, ID    |                89 |
 | Elmore County, ID     |                90 |
-| Payette County, ID    |                89 |
+| Payette County, ID    |                 0 |
 | Jerome County, ID     |                90 |
 | Clearwater County, ID |                90 |
 | Teton County, ID      |                89 |

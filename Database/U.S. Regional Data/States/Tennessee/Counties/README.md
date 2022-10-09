@@ -1,7 +1,7 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
 | Chester County, TN    |                90 |
-| Fentress County, TN   |                89 |
+| Fentress County, TN   |                 0 |
 | Madison County, TN    |               147 |
 | Lewis County, TN      |                89 |
 | Hamilton County, TN   |               147 |
@@ -87,7 +87,7 @@
 | Roane County, TN      |               146 |
 | Houston County, TN    |                89 |
 | Henry County, TN      |                89 |
-| Johnson County, TN    |                88 |
+| Johnson County, TN    |                 0 |
 | Cumberland County, TN |               146 |
 | Smith County, TN      |                90 |
 | Blount County, TN     |               147 |

@@ -1,8 +1,8 @@
 | id              | title                                                                                                                  | observation_start   | observation_end   |
 |-----------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ECBDFR          | ECB Deposit Facility Rate for Euro Area                                                                                | 1999-01-01          | 2022-09-30        |
-| ECBMLFR         | ECB Marginal Lending Facility Rate for Euro Area                                                                       | 1999-01-01          | 2022-09-30        |
-| ECBMRRFR        | ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                                                 | 1999-01-01          | 2022-09-30        |
+| ECBDFR          | ECB Deposit Facility Rate for Euro Area                                                                                | 1999-01-01          | 2022-10-07        |
+| ECBMLFR         | ECB Marginal Lending Facility Rate for Euro Area                                                                       | 1999-01-01          | 2022-10-07        |
+| ECBMRRFR        | ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                                                 | 1999-01-01          | 2022-10-07        |
 | INTDSRAUM193N   | Interest Rates, Discount Rate for Australia                                                                            | 1969-07-01          | 2013-04-01        |
 | INTDSRBRM193N   | Interest Rates, Discount Rate for Brazil                                                                               | 1996-10-01          | 2022-08-01        |
 | INTDSRCAM193N   | Interest Rates, Discount Rate for Canada                                                                               | 1992-12-01          | 2013-01-01        |

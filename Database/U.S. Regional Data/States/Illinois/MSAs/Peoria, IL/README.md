@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU37900            | Housing Inventory: Active Listing Count in Peoria, IL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM37900          | Housing Inventory: Active Listing Count Month-Over-Month in Peoria, IL (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY37900          | Housing Inventory: Active Listing Count Year-Over-Year in Peoria, IL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU37900            | Housing Inventory: Active Listing Count in Peoria, IL (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM37900          | Housing Inventory: Active Listing Count Month-Over-Month in Peoria, IL (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY37900          | Housing Inventory: Active Listing Count Year-Over-Year in Peoria, IL (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS37900Q            | All-Transactions House Price Index for Peoria, IL (MSA)                                                     | 1979-04-01          | 2022-04-01        |
-| AVELISPRI37900            | Housing Inventory: Average Listing Price in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM37900          | Housing Inventory: Average Listing Price Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY37900          | Housing Inventory: Average Listing Price Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA37900              | Market Hotness: Demand Score in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI37900            | Housing Inventory: Average Listing Price in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM37900          | Housing Inventory: Average Listing Price Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY37900          | Housing Inventory: Average Listing Price Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA37900              | Market Hotness: Demand Score in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC379030010             | Total Quarterly Wages in Peoria, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC379030010SA           | Total Quarterly Wages in Peoria, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC379040010             | Average Weekly Wages for Employees in Total Covered Establishments in Peoria, IL (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -18,10 +18,10 @@
 | ENUC379040310             | Average Weekly Wages for Employees in Local Government Establishments in Peoria, IL (MSA)                   | 2009-07-01          | 2012-04-01        |
 | ENUC379040510             | Average Weekly Wages for Employees in Private Establishments in Peoria, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC379040510SA           | Average Weekly Wages for Employees in Private Establishments in Peoria, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA37900            | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA37900              | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA37900            | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA37900              | Market Hotness: Hotness Score in Peoria, IL (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA37900            | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA37900              | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA37900            | Market Hotness: Hotness Rank in Peoria, IL (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA37900              | Market Hotness: Hotness Score in Peoria, IL (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD37900                 | Implicit Regional Price Deflator for Peoria, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT173790000000003A     | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT173790000000004      | Unemployed Persons in Peoria, IL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -29,40 +29,40 @@
 | LAUMT173790000000005      | Employed Persons in Peoria, IL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT173790000000005A     | Employed Persons in Peoria, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT173790000000006A     | Civilian Labor Force in Peoria, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA37900          | Market Hotness: Listing Views per Property in Peoria, IL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA37900        | Market Hotness: Listing Views per Property Versus the United States in Peoria, IL (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA37900          | Market Hotness: Listing Views per Property in Peoria, IL (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA37900        | Market Hotness: Median Days on Market in Peoria, IL (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA37900          | Market Hotness: Median Days on Market in Peoria, IL (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA37900        | Market Hotness: Median Days on Market in Peoria, IL (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR37900          | Housing Inventory: Median Days on Market in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM37900        | Housing Inventory: Median Days on Market Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY37900        | Housing Inventory: Median Days on Market Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI37900            | Housing Inventory: Median Listing Price in Peoria, IL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM37900          | Housing Inventory: Median Listing Price Month-Over-Month in Peoria, IL (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE37900   | Housing Inventory: Median Listing Price per Square Feet in Peoria, IL (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM37900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Peoria, IL (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY37900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Peoria, IL (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY37900          | Housing Inventory: Median Listing Price Year-Over-Year in Peoria, IL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA37900          | Market Hotness: Median Days on Market in Peoria, IL (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA37900          | Market Hotness: Median Days on Market Versus the United States in Peoria, IL (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA37900          | Market Hotness: Median Days on Market Day in Peoria, IL (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE37900            | Housing Inventory: Median Home Size in Square Feet in Peoria, IL (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM37900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Peoria, IL (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY37900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Peoria, IL (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA37900          | Market Hotness: Median Listing Price in Peoria, IL (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA37900            | Market Hotness: Median Listing Price in Peoria, IL (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA37900        | Market Hotness: Median Listing Price Versus the United States in Peoria, IL (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA37900          | Market Hotness: Median Listing Price in Peoria, IL (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU37900            | Housing Inventory: New Listing Count in Peoria, IL (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM37900          | Housing Inventory: New Listing Count Month-Over-Month in Peoria, IL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY37900          | Housing Inventory: New Listing Count Year-Over-Year in Peoria, IL (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA37900          | Market Hotness: Listing Views per Property in Peoria, IL (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA37900        | Market Hotness: Listing Views per Property Versus the United States in Peoria, IL (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA37900          | Market Hotness: Listing Views per Property in Peoria, IL (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA37900        | Market Hotness: Median Days on Market in Peoria, IL (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA37900          | Market Hotness: Median Days on Market in Peoria, IL (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA37900        | Market Hotness: Median Days on Market in Peoria, IL (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR37900          | Housing Inventory: Median Days on Market in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM37900        | Housing Inventory: Median Days on Market Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY37900        | Housing Inventory: Median Days on Market Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI37900            | Housing Inventory: Median Listing Price in Peoria, IL (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM37900          | Housing Inventory: Median Listing Price Month-Over-Month in Peoria, IL (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE37900   | Housing Inventory: Median Listing Price per Square Feet in Peoria, IL (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM37900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Peoria, IL (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY37900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Peoria, IL (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY37900          | Housing Inventory: Median Listing Price Year-Over-Year in Peoria, IL (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA37900          | Market Hotness: Median Days on Market in Peoria, IL (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA37900          | Market Hotness: Median Days on Market Versus the United States in Peoria, IL (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA37900          | Market Hotness: Median Days on Market Day in Peoria, IL (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE37900            | Housing Inventory: Median Home Size in Square Feet in Peoria, IL (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM37900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Peoria, IL (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY37900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Peoria, IL (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA37900          | Market Hotness: Median Listing Price in Peoria, IL (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA37900            | Market Hotness: Median Listing Price in Peoria, IL (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA37900        | Market Hotness: Median Listing Price Versus the United States in Peoria, IL (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA37900          | Market Hotness: Median Listing Price in Peoria, IL (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU37900            | Housing Inventory: New Listing Count in Peoria, IL (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM37900          | Housing Inventory: New Listing Count Month-Over-Month in Peoria, IL (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY37900          | Housing Inventory: New Listing Count Year-Over-Year in Peoria, IL (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP37900                 | Total Gross Domestic Product for Peoria, IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA37900            | Market Hotness: Nielsen Household Rank in Peoria, IL (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA37900            | Market Hotness: Nielsen Household Rank in Peoria, IL (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA137900          | U.S. Granted Utility Patents Originating in Peoria, IL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU37900            | Housing Inventory: Pending Listing Count in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM37900          | Housing Inventory: Pending Listing Count Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY37900          | Housing Inventory: Pending Listing Count Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| PENLISCOU37900            | Housing Inventory: Pending Listing Count in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM37900          | Housing Inventory: Pending Listing Count Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY37900          | Housing Inventory: Pending Listing Count Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | PEOPOP                    | Resident Population in Peoria, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PEOR917EDUH               | All Employees: Education and Health Services in Peoria, IL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | PEOR917EDUHN              | All Employees: Education and Health Services in Peoria, IL (MSA)                                            | 1990-01-01          | 2022-08-01        |
@@ -91,12 +91,12 @@
 | PEOR917TRADN              | All Employees: Trade, Transportation, and Utilities in Peoria, IL (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | PEOR917UR                 | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | PEOR917URN                | Unemployment Rate in Peoria, IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| PRIINCCOU37900            | Housing Inventory: Price Increased Count in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM37900          | Housing Inventory: Price Increased Count Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY37900          | Housing Inventory: Price Increased Count Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU37900            | Housing Inventory: Price Reduced Count in Peoria, IL (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM37900          | Housing Inventory: Price Reduced Count Month-Over-Month in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY37900          | Housing Inventory: Price Reduced Count Year-Over-Year in Peoria, IL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PRIINCCOU37900            | Housing Inventory: Price Increased Count in Peoria, IL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM37900          | Housing Inventory: Price Increased Count Month-Over-Month in Peoria, IL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY37900          | Housing Inventory: Price Increased Count Year-Over-Year in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU37900            | Housing Inventory: Price Reduced Count in Peoria, IL (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM37900          | Housing Inventory: Price Reduced Count Month-Over-Month in Peoria, IL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY37900          | Housing Inventory: Price Reduced Count Year-Over-Year in Peoria, IL (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP37900                 | Total Quantity Indexes for Real GDP for Peoria, IL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP37900                 | Total Real Gross Domestic Product for Peoria, IL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI37900                  | Real Personal Income for Peoria, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -162,4 +162,4 @@
 | SMU17379009093161101      | All Employees: Government: Local Government Educational Services in Peoria, IL (MSA)                        | 1990-01-01          | 2022-08-01        |
 | SMU17379009093161101A     | All Employees: Local Government Educational Services in Peoria, IL (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU17379009093161101SA    | All Employees: Government: Local Government Educational Services in Peoria, IL (MSA)                        | 1990-01-01          | 2022-08-01        |
-| SUSCMSA37900              | Market Hotness: Supply Score in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA37900              | Market Hotness: Supply Score in Peoria, IL (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

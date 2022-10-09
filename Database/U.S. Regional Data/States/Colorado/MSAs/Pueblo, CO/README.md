@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU39380            | Housing Inventory: Active Listing Count in Pueblo, CO (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM39380          | Housing Inventory: Active Listing Count Month-Over-Month in Pueblo, CO (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY39380          | Housing Inventory: Active Listing Count Year-Over-Year in Pueblo, CO (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU39380            | Housing Inventory: Active Listing Count in Pueblo, CO (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM39380          | Housing Inventory: Active Listing Count Month-Over-Month in Pueblo, CO (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY39380          | Housing Inventory: Active Listing Count Year-Over-Year in Pueblo, CO (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS39380Q            | All-Transactions House Price Index for Pueblo, CO (MSA)                                                     | 1978-07-01          | 2022-04-01        |
-| AVELISPRI39380            | Housing Inventory: Average Listing Price in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM39380          | Housing Inventory: Average Listing Price Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY39380          | Housing Inventory: Average Listing Price Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA39380              | Market Hotness: Demand Score in Pueblo, CO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI39380            | Housing Inventory: Average Listing Price in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM39380          | Housing Inventory: Average Listing Price Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY39380          | Housing Inventory: Average Listing Price Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA39380              | Market Hotness: Demand Score in Pueblo, CO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC393830010             | Total Quarterly Wages in Pueblo, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC393830010SA           | Total Quarterly Wages in Pueblo, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC393840010             | Average Weekly Wages for Employees in Total Covered Establishments in Pueblo, CO (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC393840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC393840510             | Average Weekly Wages for Employees in Private Establishments in Pueblo, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC393840510SA           | Average Weekly Wages for Employees in Private Establishments in Pueblo, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA39380            | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA39380              | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA39380            | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA39380              | Market Hotness: Hotness Score in Pueblo, CO (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA39380            | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA39380              | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA39380            | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA39380              | Market Hotness: Hotness Score in Pueblo, CO (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD39380                 | Implicit Regional Price Deflator for Pueblo, CO (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT083938000000003A     | Unemployment Rate in Pueblo, CO (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT083938000000004      | Unemployed Persons in Pueblo, CO (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -31,46 +31,46 @@
 | LAUMT083938000000005      | Employed Persons in Pueblo, CO (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT083938000000005A     | Employed Persons in Pueblo, CO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT083938000000006A     | Civilian Labor Force in Pueblo, CO (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA39380          | Market Hotness: Listing Views per Property in Pueblo, CO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA39380        | Market Hotness: Listing Views per Property Versus the United States in Pueblo, CO (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA39380          | Market Hotness: Listing Views per Property in Pueblo, CO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA39380        | Market Hotness: Median Days on Market in Pueblo, CO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA39380          | Market Hotness: Median Days on Market in Pueblo, CO (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA39380        | Market Hotness: Median Days on Market in Pueblo, CO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR39380          | Housing Inventory: Median Days on Market in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM39380        | Housing Inventory: Median Days on Market Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY39380        | Housing Inventory: Median Days on Market Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI39380            | Housing Inventory: Median Listing Price in Pueblo, CO (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM39380          | Housing Inventory: Median Listing Price Month-Over-Month in Pueblo, CO (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE39380   | Housing Inventory: Median Listing Price per Square Feet in Pueblo, CO (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM39380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Pueblo, CO (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY39380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Pueblo, CO (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY39380          | Housing Inventory: Median Listing Price Year-Over-Year in Pueblo, CO (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA39380          | Market Hotness: Median Days on Market in Pueblo, CO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA39380          | Market Hotness: Median Days on Market Versus the United States in Pueblo, CO (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA39380          | Market Hotness: Median Days on Market Day in Pueblo, CO (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE39380            | Housing Inventory: Median Home Size in Square Feet in Pueblo, CO (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM39380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Pueblo, CO (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY39380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Pueblo, CO (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA39380          | Market Hotness: Median Listing Price in Pueblo, CO (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA39380            | Market Hotness: Median Listing Price in Pueblo, CO (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA39380        | Market Hotness: Median Listing Price Versus the United States in Pueblo, CO (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA39380          | Market Hotness: Median Listing Price in Pueblo, CO (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU39380            | Housing Inventory: New Listing Count in Pueblo, CO (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM39380          | Housing Inventory: New Listing Count Month-Over-Month in Pueblo, CO (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY39380          | Housing Inventory: New Listing Count Year-Over-Year in Pueblo, CO (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA39380          | Market Hotness: Listing Views per Property in Pueblo, CO (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA39380        | Market Hotness: Listing Views per Property Versus the United States in Pueblo, CO (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA39380          | Market Hotness: Listing Views per Property in Pueblo, CO (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA39380        | Market Hotness: Median Days on Market in Pueblo, CO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA39380          | Market Hotness: Median Days on Market in Pueblo, CO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA39380        | Market Hotness: Median Days on Market in Pueblo, CO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR39380          | Housing Inventory: Median Days on Market in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM39380        | Housing Inventory: Median Days on Market Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY39380        | Housing Inventory: Median Days on Market Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI39380            | Housing Inventory: Median Listing Price in Pueblo, CO (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM39380          | Housing Inventory: Median Listing Price Month-Over-Month in Pueblo, CO (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE39380   | Housing Inventory: Median Listing Price per Square Feet in Pueblo, CO (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM39380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Pueblo, CO (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY39380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Pueblo, CO (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY39380          | Housing Inventory: Median Listing Price Year-Over-Year in Pueblo, CO (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA39380          | Market Hotness: Median Days on Market in Pueblo, CO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA39380          | Market Hotness: Median Days on Market Versus the United States in Pueblo, CO (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA39380          | Market Hotness: Median Days on Market Day in Pueblo, CO (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE39380            | Housing Inventory: Median Home Size in Square Feet in Pueblo, CO (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM39380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Pueblo, CO (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY39380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Pueblo, CO (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA39380          | Market Hotness: Median Listing Price in Pueblo, CO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA39380            | Market Hotness: Median Listing Price in Pueblo, CO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA39380        | Market Hotness: Median Listing Price Versus the United States in Pueblo, CO (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA39380          | Market Hotness: Median Listing Price in Pueblo, CO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU39380            | Housing Inventory: New Listing Count in Pueblo, CO (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM39380          | Housing Inventory: New Listing Count Month-Over-Month in Pueblo, CO (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY39380          | Housing Inventory: New Listing Count Year-Over-Year in Pueblo, CO (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP39380                 | Total Gross Domestic Product for Pueblo, CO (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA39380            | Market Hotness: Nielsen Household Rank in Pueblo, CO (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA39380            | Market Hotness: Nielsen Household Rank in Pueblo, CO (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA139380          | U.S. Granted Utility Patents Originating in Pueblo, CO (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU39380            | Housing Inventory: Pending Listing Count in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM39380          | Housing Inventory: Pending Listing Count Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY39380          | Housing Inventory: Pending Listing Count Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU39380            | Housing Inventory: Price Increased Count in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM39380          | Housing Inventory: Price Increased Count Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY39380          | Housing Inventory: Price Increased Count Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU39380            | Housing Inventory: Price Reduced Count in Pueblo, CO (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM39380          | Housing Inventory: Price Reduced Count Month-Over-Month in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY39380          | Housing Inventory: Price Reduced Count Year-Over-Year in Pueblo, CO (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU39380            | Housing Inventory: Pending Listing Count in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM39380          | Housing Inventory: Pending Listing Count Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY39380          | Housing Inventory: Pending Listing Count Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU39380            | Housing Inventory: Price Increased Count in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM39380          | Housing Inventory: Price Increased Count Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-08-01          | 2022-09-01        |
+| PRIINCCOUYY39380          | Housing Inventory: Price Increased Count Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU39380            | Housing Inventory: Price Reduced Count in Pueblo, CO (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM39380          | Housing Inventory: Price Reduced Count Month-Over-Month in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY39380          | Housing Inventory: Price Reduced Count Year-Over-Year in Pueblo, CO (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | PUEB308BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Pueblo, CO (MSA)            | 1988-01-01          | 2022-08-01        |
 | PUEB308BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Pueblo, CO (MSA)            | 1988-01-01          | 2022-08-01        |
 | PUEB308BPPRIV             | New Private Housing Units Authorized by Building Permits for Pueblo, CO (MSA)                               | 1988-01-01          | 2022-08-01        |
@@ -164,4 +164,4 @@
 | SMU08393809093161101      | All Employees: Government: Local Government Educational Services in Pueblo, CO (MSA)                        | 1990-01-01          | 2022-08-01        |
 | SMU08393809093161101A     | All Employees: Local Government Educational Services in Pueblo, CO (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU08393809093161101SA    | All Employees: Government: Local Government Educational Services in Pueblo, CO (MSA)                        | 1990-01-01          | 2022-08-01        |
-| SUSCMSA39380              | Market Hotness: Supply Score in Pueblo, CO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA39380              | Market Hotness: Supply Score in Pueblo, CO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

@@ -1,12 +1,12 @@
 | id                        | title                                                                                                                | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU43300            | Housing Inventory: Active Listing Count in Sherman-Denison, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM43300          | Housing Inventory: Active Listing Count Month-Over-Month in Sherman-Denison, TX (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY43300          | Housing Inventory: Active Listing Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU43300            | Housing Inventory: Active Listing Count in Sherman-Denison, TX (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM43300          | Housing Inventory: Active Listing Count Month-Over-Month in Sherman-Denison, TX (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY43300          | Housing Inventory: Active Listing Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS43300Q            | All-Transactions House Price Index for Sherman-Denison, TX (MSA)                                                     | 1986-10-01          | 2022-04-01        |
-| AVELISPRI43300            | Housing Inventory: Average Listing Price in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM43300          | Housing Inventory: Average Listing Price Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY43300          | Housing Inventory: Average Listing Price Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI43300            | Housing Inventory: Average Listing Price in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM43300          | Housing Inventory: Average Listing Price Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY43300          | Housing Inventory: Average Listing Price Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | ENUC433030010             | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC433030010SA           | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC433040010             | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -26,32 +26,32 @@
 | LAUMT484330000000005      | Employed Persons in Sherman-Denison, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT484330000000005A     | Employed Persons in Sherman-Denison, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484330000000006A     | Civilian Labor Force in Sherman-Denison, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR43300          | Housing Inventory: Median Days on Market in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM43300        | Housing Inventory: Median Days on Market Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY43300        | Housing Inventory: Median Days on Market Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI43300            | Housing Inventory: Median Listing Price in Sherman-Denison, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM43300          | Housing Inventory: Median Listing Price Month-Over-Month in Sherman-Denison, TX (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE43300   | Housing Inventory: Median Listing Price per Square Feet in Sherman-Denison, TX (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM43300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sherman-Denison, TX (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY43300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sherman-Denison, TX (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY43300          | Housing Inventory: Median Listing Price Year-Over-Year in Sherman-Denison, TX (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE43300            | Housing Inventory: Median Home Size in Square Feet in Sherman-Denison, TX (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM43300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sherman-Denison, TX (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY43300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sherman-Denison, TX (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU43300            | Housing Inventory: New Listing Count in Sherman-Denison, TX (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM43300          | Housing Inventory: New Listing Count Month-Over-Month in Sherman-Denison, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY43300          | Housing Inventory: New Listing Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR43300          | Housing Inventory: Median Days on Market in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM43300        | Housing Inventory: Median Days on Market Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY43300        | Housing Inventory: Median Days on Market Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI43300            | Housing Inventory: Median Listing Price in Sherman-Denison, TX (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM43300          | Housing Inventory: Median Listing Price Month-Over-Month in Sherman-Denison, TX (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE43300   | Housing Inventory: Median Listing Price per Square Feet in Sherman-Denison, TX (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM43300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Sherman-Denison, TX (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY43300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Sherman-Denison, TX (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY43300          | Housing Inventory: Median Listing Price Year-Over-Year in Sherman-Denison, TX (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE43300            | Housing Inventory: Median Home Size in Square Feet in Sherman-Denison, TX (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM43300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Sherman-Denison, TX (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY43300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Sherman-Denison, TX (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU43300            | Housing Inventory: New Listing Count in Sherman-Denison, TX (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM43300          | Housing Inventory: New Listing Count Month-Over-Month in Sherman-Denison, TX (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY43300          | Housing Inventory: New Listing Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP43300                 | Total Gross Domestic Product for Sherman-Denison, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA143300          | U.S. Granted Utility Patents Originating in Sherman-Denison, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU43300            | Housing Inventory: Pending Listing Count in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM43300          | Housing Inventory: Pending Listing Count Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY43300          | Housing Inventory: Pending Listing Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU43300            | Housing Inventory: Price Increased Count in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM43300          | Housing Inventory: Price Increased Count Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY43300          | Housing Inventory: Price Increased Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU43300            | Housing Inventory: Price Reduced Count in Sherman-Denison, TX (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM43300          | Housing Inventory: Price Reduced Count Month-Over-Month in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY43300          | Housing Inventory: Price Reduced Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU43300            | Housing Inventory: Pending Listing Count in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM43300          | Housing Inventory: Pending Listing Count Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY43300          | Housing Inventory: Pending Listing Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU43300            | Housing Inventory: Price Increased Count in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM43300          | Housing Inventory: Price Increased Count Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY43300          | Housing Inventory: Price Increased Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU43300            | Housing Inventory: Price Reduced Count in Sherman-Denison, TX (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM43300          | Housing Inventory: Price Reduced Count Month-Over-Month in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY43300          | Housing Inventory: Price Reduced Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP43300                 | Total Quantity Indexes for Real GDP for Sherman-Denison, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP43300                 | Total Real Gross Domestic Product for Sherman-Denison, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI43300                  | Real Personal Income for Sherman-Denison, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

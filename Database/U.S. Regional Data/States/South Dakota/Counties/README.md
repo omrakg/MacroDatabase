@@ -26,7 +26,7 @@
 | Sully County, SD         |                85 |
 | Potter County, SD        |                87 |
 | Perkins County, SD       |                89 |
-| Gregory County, SD       |                87 |
+| Gregory County, SD       |                 0 |
 | Hanson County, SD        |                88 |
 | Beadle County, SD        |                89 |
 | Todd County, SD          |                88 |

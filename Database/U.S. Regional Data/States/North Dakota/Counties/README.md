@@ -38,7 +38,7 @@
 | Cass County, ND          |               147 |
 | Divide County, ND        |                88 |
 | Grant County, ND         |                88 |
-| Slope County, ND         |                86 |
+| Slope County, ND         |                 0 |
 | Griggs County, ND        |                88 |
 | Pierce County, ND        |                88 |
 | Wells County, ND         |                88 |
@@ -49,7 +49,7 @@
 | Emmons County, ND        |                88 |
 | Stutsman County, ND      |                90 |
 | Oliver County, ND        |                86 |
-| Towner County, ND        |                 0 |
+| Towner County, ND        |                88 |
 | Ward County, ND          |               147 |
 | Bottineau County, ND     |                88 |
 | McIntosh County, ND      |                89 |

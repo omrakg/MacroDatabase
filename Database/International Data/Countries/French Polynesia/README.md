@@ -18,7 +18,7 @@
 | DDOI12PFA156NWDB  | Consolidated Foreign Claims of BIS-Reporting Banks to GDP for French Polynesia                                                                        | 1984-01-01          | 2000-01-01        |
 | DEPYFA052SCEN     | Value of Exports to French Polynesia from Delaware                                                                                                    | 2007-01-01          | 2016-01-01        |
 | DEPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Delaware                                                                                      | 1997-01-01          | 2017-01-01        |
-| EXP6414           | U.S. Exports of Goods by F.A.S. Basis to French Polynesia                                                                                             | 1992-01-01          | 2022-07-01        |
+| EXP6414           | U.S. Exports of Goods by F.A.S. Basis to French Polynesia                                                                                             | 1992-01-01          | 2022-08-01        |
 | FLPYFA052SCEN     | Value of Exports to French Polynesia from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | GAPYFA052SCEN     | Value of Exports to French Polynesia from Georgia                                                                                                     | 1992-01-01          | 2017-01-01        |
@@ -40,7 +40,7 @@
 | IDSGAMRINIPF      | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in French Polynesia         | 2001-01-01          | 2011-01-01        |
 | ILPYFA052SCEN     | Value of Exports to French Polynesia from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP6414           | U.S. Imports of Goods by Customs Basis from French Polynesia                                                                                          | 1992-01-01          | 2022-07-01        |
+| IMP6414           | U.S. Imports of Goods by Customs Basis from French Polynesia                                                                                          | 1992-01-01          | 2022-08-01        |
 | INPYFA052SCEN     | Value of Exports to French Polynesia from Indiana                                                                                                     | 1992-01-01          | 2017-01-01        |
 | INPYFA475SCEN     | Number of Identified Exporters to French Polynesia from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2PYF    | Internet users for French Polynesia                                                                                                                   | 1990-01-01          | 2017-01-01        |

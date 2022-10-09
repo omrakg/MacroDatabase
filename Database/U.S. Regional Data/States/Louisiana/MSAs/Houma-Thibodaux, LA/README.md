@@ -1,13 +1,13 @@
 | id                        | title                                                                                                               | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU26380            | Housing Inventory: Active Listing Count in Houma-Thibodaux, LA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM26380          | Housing Inventory: Active Listing Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY26380          | Housing Inventory: Active Listing Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU26380            | Housing Inventory: Active Listing Count in Houma-Thibodaux, LA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM26380          | Housing Inventory: Active Listing Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY26380          | Housing Inventory: Active Listing Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS26380Q            | All-Transactions House Price Index for Houma-Thibodaux, LA (MSA)                                                    | 1986-01-01          | 2022-04-01        |
-| AVELISPRI26380            | Housing Inventory: Average Listing Price in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM26380          | Housing Inventory: Average Listing Price Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY26380          | Housing Inventory: Average Listing Price Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| DESCMSA26380              | Market Hotness: Demand Score in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| AVELISPRI26380            | Housing Inventory: Average Listing Price in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM26380          | Housing Inventory: Average Listing Price Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY26380          | Housing Inventory: Average Listing Price Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| DESCMSA26380              | Market Hotness: Demand Score in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | ENUC263830010             | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2022-01-01        |
 | ENUC263830010SA           | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2022-01-01        |
 | ENUC263840010             | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC263840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
 | ENUC263840510             | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2022-01-01        |
 | ENUC263840510SA           | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2018-08-01          | 2022-08-01        |
-| HORAMSA26380              | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2018-08-01          | 2022-08-01        |
-| HOSCMSA26380              | Market Hotness: Hotness Score in Houma-Thibodaux, LA (CBSA)                                                         | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2017-09-01          | 2022-09-01        |
+| HORAMSA26380              | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2018-08-01          | 2022-09-01        |
+| HOSCMSA26380              | Market Hotness: Hotness Score in Houma-Thibodaux, LA (CBSA)                                                         | 2017-08-01          | 2022-09-01        |
 | HOUM322GOVT               | All Employees: Government in Houma-Thibodaux, LA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | HOUM322GOVTN              | All Employees: Government in Houma-Thibodaux, LA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
 | HOUM322LEIH               | All Employees: Leisure and Hospitality in Houma-Thibodaux, LA (MSA)                                                 | 1990-01-01          | 2022-08-01        |
@@ -45,46 +45,46 @@
 | LAUMT222638000000005      | Employed Persons in Houma-Thibodaux, LA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | LAUMT222638000000005A     | Employed Persons in Houma-Thibodaux, LA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT222638000000006A     | Civilian Labor Force in Houma-Thibodaux, LA (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA26380          | Market Hotness: Listing Views per Property in Houma-Thibodaux, LA (CBSA)                                            | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA26380        | Market Hotness: Listing Views per Property Versus the United States in Houma-Thibodaux, LA (CBSA)                   | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA26380          | Market Hotness: Listing Views per Property in Houma-Thibodaux, LA (CBSA)                                            | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA26380        | Market Hotness: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                                 | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA26380          | Market Hotness: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA26380        | Market Hotness: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                                 | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR26380          | Housing Inventory: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM26380        | Housing Inventory: Median Days on Market Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY26380        | Housing Inventory: Median Days on Market Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI26380            | Housing Inventory: Median Listing Price in Houma-Thibodaux, LA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM26380          | Housing Inventory: Median Listing Price Month-Over-Month in Houma-Thibodaux, LA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE26380   | Housing Inventory: Median Listing Price per Square Feet in Houma-Thibodaux, LA (CBSA)                               | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM26380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Houma-Thibodaux, LA (CBSA)              | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY26380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Houma-Thibodaux, LA (CBSA)                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY26380          | Housing Inventory: Median Listing Price Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA26380          | Market Hotness: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                                 | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA26380          | Market Hotness: Median Days on Market Versus the United States in Houma-Thibodaux, LA (CBSA)                        | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA26380          | Market Hotness: Median Days on Market Day in Houma-Thibodaux, LA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE26380            | Housing Inventory: Median Home Size in Square Feet in Houma-Thibodaux, LA (CBSA)                                    | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM26380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Houma-Thibodaux, LA (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY26380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Houma-Thibodaux, LA (CBSA)                     | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA26380          | Market Hotness: Median Listing Price in Houma-Thibodaux, LA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA26380            | Market Hotness: Median Listing Price in Houma-Thibodaux, LA (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA26380        | Market Hotness: Median Listing Price Versus the United States in Houma-Thibodaux, LA (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA26380          | Market Hotness: Median Listing Price in Houma-Thibodaux, LA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU26380            | Housing Inventory: New Listing Count in Houma-Thibodaux, LA (CBSA)                                                  | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM26380          | Housing Inventory: New Listing Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY26380          | Housing Inventory: New Listing Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                   | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA26380          | Market Hotness: Listing Views per Property in Houma-Thibodaux, LA (CBSA)                                            | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA26380        | Market Hotness: Listing Views per Property Versus the United States in Houma-Thibodaux, LA (CBSA)                   | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA26380          | Market Hotness: Listing Views per Property in Houma-Thibodaux, LA (CBSA)                                            | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA26380        | Market Hotness: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA26380          | Market Hotness: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA26380        | Market Hotness: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR26380          | Housing Inventory: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM26380        | Housing Inventory: Median Days on Market Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY26380        | Housing Inventory: Median Days on Market Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI26380            | Housing Inventory: Median Listing Price in Houma-Thibodaux, LA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM26380          | Housing Inventory: Median Listing Price Month-Over-Month in Houma-Thibodaux, LA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE26380   | Housing Inventory: Median Listing Price per Square Feet in Houma-Thibodaux, LA (CBSA)                               | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM26380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Houma-Thibodaux, LA (CBSA)              | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY26380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Houma-Thibodaux, LA (CBSA)                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY26380          | Housing Inventory: Median Listing Price Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA26380          | Market Hotness: Median Days on Market in Houma-Thibodaux, LA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA26380          | Market Hotness: Median Days on Market Versus the United States in Houma-Thibodaux, LA (CBSA)                        | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA26380          | Market Hotness: Median Days on Market Day in Houma-Thibodaux, LA (CBSA)                                             | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE26380            | Housing Inventory: Median Home Size in Square Feet in Houma-Thibodaux, LA (CBSA)                                    | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM26380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Houma-Thibodaux, LA (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY26380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Houma-Thibodaux, LA (CBSA)                     | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA26380          | Market Hotness: Median Listing Price in Houma-Thibodaux, LA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA26380            | Market Hotness: Median Listing Price in Houma-Thibodaux, LA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA26380        | Market Hotness: Median Listing Price Versus the United States in Houma-Thibodaux, LA (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA26380          | Market Hotness: Median Listing Price in Houma-Thibodaux, LA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU26380            | Housing Inventory: New Listing Count in Houma-Thibodaux, LA (CBSA)                                                  | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM26380          | Housing Inventory: New Listing Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY26380          | Housing Inventory: New Listing Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                   | 2017-07-01          | 2022-09-01        |
 | NGMP26380                 | Total Gross Domestic Product for Houma-Thibodaux, LA (MSA)                                                          | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA26380            | Market Hotness: Nielsen Household Rank in Houma-Thibodaux, LA (CBSA)                                                | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA26380            | Market Hotness: Nielsen Household Rank in Houma-Thibodaux, LA (CBSA)                                                | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA126380          | U.S. Granted Utility Patents Originating in Houma-Bayou Cane-Thibodaux, LA (MSA)                                    | 2000-01-01          | 2015-01-01        |
-| PENLISCOU26380            | Housing Inventory: Pending Listing Count in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM26380          | Housing Inventory: Pending Listing Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY26380          | Housing Inventory: Pending Listing Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU26380            | Housing Inventory: Price Increased Count in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM26380          | Housing Inventory: Price Increased Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY26380          | Housing Inventory: Price Increased Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU26380            | Housing Inventory: Price Reduced Count in Houma-Thibodaux, LA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM26380          | Housing Inventory: Price Reduced Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY26380          | Housing Inventory: Price Reduced Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| PENLISCOU26380            | Housing Inventory: Pending Listing Count in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM26380          | Housing Inventory: Pending Listing Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY26380          | Housing Inventory: Pending Listing Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU26380            | Housing Inventory: Price Increased Count in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM26380          | Housing Inventory: Price Increased Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY26380          | Housing Inventory: Price Increased Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU26380            | Housing Inventory: Price Reduced Count in Houma-Thibodaux, LA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM26380          | Housing Inventory: Price Reduced Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY26380          | Housing Inventory: Price Reduced Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | QGMP26380                 | Total Quantity Indexes for Real GDP for Houma-Thibodaux, LA (MSA)                                                   | 2001-01-01          | 2020-01-01        |
 | RGMP26380                 | Total Real Gross Domestic Product for Houma-Thibodaux, LA (MSA)                                                     | 2001-01-01          | 2020-01-01        |
 | RPI26380                  | Real Personal Income for Houma-Thibodaux, LA (MSA)                                                                  | 2008-01-01          | 2020-01-01        |
@@ -149,4 +149,4 @@
 | SMU22263809093000001      | All Employees: Government: Local Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | SMU22263809093000001A     | All Employees: Local Government in Houma-Thibodaux, LA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
 | SMU22263809093000001SA    | All Employees: Government: Local Government in Houma-Thibodaux, LA (MSA)                                            | 1990-01-01          | 2022-08-01        |
-| SUSCMSA26380              | Market Hotness: Supply Score in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| SUSCMSA26380              | Market Hotness: Supply Score in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |

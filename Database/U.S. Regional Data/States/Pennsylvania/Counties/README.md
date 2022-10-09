@@ -26,7 +26,7 @@
 | Carbon County, PA              |               146 |
 | Elk County, PA                 |                90 |
 | Jefferson County, PA           |                90 |
-| Armstrong County, PA           |                 0 |
+| Armstrong County, PA           |               144 |
 | Lebanon County, PA             |               145 |
 | Juniata County, PA             |                88 |
 | Columbia County, PA            |               146 |
@@ -47,7 +47,7 @@
 | Montgomery County, PA          |               147 |
 | Blair County, PA               |               147 |
 | Monroe County, PA              |               147 |
-| Lehigh County, PA              |               145 |
+| Lehigh County, PA              |                 0 |
 | Centre County, PA              |               147 |
 | Indiana County, PA             |               144 |
 | Cumberland County, PA          |               147 |

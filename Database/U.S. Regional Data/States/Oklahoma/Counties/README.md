@@ -1,7 +1,7 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
 | Sequoyah County, OK     |                90 |
-| Bryan County, OK        |                90 |
+| Bryan County, OK        |                 0 |
 | Love County, OK         |                89 |
 | Okfuskee County, OK     |                89 |
 | Cotton County, OK       |                88 |
@@ -34,7 +34,7 @@
 | Payne County, OK        |               147 |
 | Major County, OK        |                88 |
 | Kingfisher County, OK   |                89 |
-| Washington County, OK   |                 0 |
+| Washington County, OK   |               146 |
 | McClain County, OK      |                90 |
 | Coal County, OK         |                88 |
 | Caddo County, OK        |                89 |

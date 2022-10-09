@@ -1,12 +1,12 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU27060            | Housing Inventory: Active Listing Count in Ithaca, NY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM27060          | Housing Inventory: Active Listing Count Month-Over-Month in Ithaca, NY (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY27060          | Housing Inventory: Active Listing Count Year-Over-Year in Ithaca, NY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU27060            | Housing Inventory: Active Listing Count in Ithaca, NY (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM27060          | Housing Inventory: Active Listing Count Month-Over-Month in Ithaca, NY (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY27060          | Housing Inventory: Active Listing Count Year-Over-Year in Ithaca, NY (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS27060Q            | All-Transactions House Price Index for Ithaca, NY (MSA)                                                     | 1987-04-01          | 2022-04-01        |
-| AVELISPRI27060            | Housing Inventory: Average Listing Price in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM27060          | Housing Inventory: Average Listing Price Month-Over-Month in Ithaca, NY (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY27060          | Housing Inventory: Average Listing Price Year-Over-Year in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI27060            | Housing Inventory: Average Listing Price in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM27060          | Housing Inventory: Average Listing Price Month-Over-Month in Ithaca, NY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY27060          | Housing Inventory: Average Listing Price Year-Over-Year in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | ENUC270630010             | Total Quarterly Wages in Ithaca, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC270630010SA           | Total Quarterly Wages in Ithaca, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC270640010             | Average Weekly Wages for Employees in Total Covered Establishments in Ithaca, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -54,31 +54,31 @@
 | LAUMT362706000000005      | Employed Persons in Ithaca, NY (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT362706000000005A     | Employed Persons in Ithaca, NY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT362706000000006A     | Civilian Labor Force in Ithaca, NY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR27060          | Housing Inventory: Median Days on Market in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM27060        | Housing Inventory: Median Days on Market Month-Over-Month in Ithaca, NY (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY27060        | Housing Inventory: Median Days on Market Year-Over-Year in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI27060            | Housing Inventory: Median Listing Price in Ithaca, NY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM27060          | Housing Inventory: Median Listing Price Month-Over-Month in Ithaca, NY (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE27060   | Housing Inventory: Median Listing Price per Square Feet in Ithaca, NY (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM27060 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Ithaca, NY (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY27060 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Ithaca, NY (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY27060          | Housing Inventory: Median Listing Price Year-Over-Year in Ithaca, NY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE27060            | Housing Inventory: Median Home Size in Square Feet in Ithaca, NY (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM27060          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Ithaca, NY (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY27060          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Ithaca, NY (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU27060            | Housing Inventory: New Listing Count in Ithaca, NY (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM27060          | Housing Inventory: New Listing Count Month-Over-Month in Ithaca, NY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY27060          | Housing Inventory: New Listing Count Year-Over-Year in Ithaca, NY (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR27060          | Housing Inventory: Median Days on Market in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM27060        | Housing Inventory: Median Days on Market Month-Over-Month in Ithaca, NY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY27060        | Housing Inventory: Median Days on Market Year-Over-Year in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI27060            | Housing Inventory: Median Listing Price in Ithaca, NY (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM27060          | Housing Inventory: Median Listing Price Month-Over-Month in Ithaca, NY (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE27060   | Housing Inventory: Median Listing Price per Square Feet in Ithaca, NY (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM27060 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Ithaca, NY (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY27060 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Ithaca, NY (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY27060          | Housing Inventory: Median Listing Price Year-Over-Year in Ithaca, NY (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE27060            | Housing Inventory: Median Home Size in Square Feet in Ithaca, NY (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM27060          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Ithaca, NY (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY27060          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Ithaca, NY (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU27060            | Housing Inventory: New Listing Count in Ithaca, NY (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM27060          | Housing Inventory: New Listing Count Month-Over-Month in Ithaca, NY (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY27060          | Housing Inventory: New Listing Count Year-Over-Year in Ithaca, NY (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP27060                 | Total Gross Domestic Product for Ithaca, NY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA127060          | U.S. Granted Utility Patents Originating in Ithaca, NY (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU27060            | Housing Inventory: Pending Listing Count in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM27060          | Housing Inventory: Pending Listing Count Month-Over-Month in Ithaca, NY (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY27060          | Housing Inventory: Pending Listing Count Year-Over-Year in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU27060            | Housing Inventory: Price Increased Count in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUYY27060          | Housing Inventory: Price Increased Count Year-Over-Year in Ithaca, NY (CBSA)                                | 2018-02-01          | 2021-07-01        |
-| PRIREDCOU27060            | Housing Inventory: Price Reduced Count in Ithaca, NY (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM27060          | Housing Inventory: Price Reduced Count Month-Over-Month in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY27060          | Housing Inventory: Price Reduced Count Year-Over-Year in Ithaca, NY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU27060            | Housing Inventory: Pending Listing Count in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM27060          | Housing Inventory: Pending Listing Count Month-Over-Month in Ithaca, NY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY27060          | Housing Inventory: Pending Listing Count Year-Over-Year in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU27060            | Housing Inventory: Price Increased Count in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUYY27060          | Housing Inventory: Price Increased Count Year-Over-Year in Ithaca, NY (CBSA)                                | 2017-07-01          | 2021-07-01        |
+| PRIREDCOU27060            | Housing Inventory: Price Reduced Count in Ithaca, NY (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM27060          | Housing Inventory: Price Reduced Count Month-Over-Month in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY27060          | Housing Inventory: Price Reduced Count Year-Over-Year in Ithaca, NY (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP27060                 | Total Quantity Indexes for Real GDP for Ithaca, NY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP27060                 | Total Real Gross Domestic Product for Ithaca, NY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI27060                  | Real Personal Income for Ithaca, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

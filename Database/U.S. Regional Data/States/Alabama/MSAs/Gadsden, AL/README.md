@@ -1,12 +1,12 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU23460            | Housing Inventory: Active Listing Count in Gadsden, AL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM23460          | Housing Inventory: Active Listing Count Month-Over-Month in Gadsden, AL (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY23460          | Housing Inventory: Active Listing Count Year-Over-Year in Gadsden, AL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU23460            | Housing Inventory: Active Listing Count in Gadsden, AL (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM23460          | Housing Inventory: Active Listing Count Month-Over-Month in Gadsden, AL (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY23460          | Housing Inventory: Active Listing Count Year-Over-Year in Gadsden, AL (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS23460Q            | All-Transactions House Price Index for Gadsden, AL (MSA)                                                     | 1993-10-01          | 2022-04-01        |
-| AVELISPRI23460            | Housing Inventory: Average Listing Price in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM23460          | Housing Inventory: Average Listing Price Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY23460          | Housing Inventory: Average Listing Price Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI23460            | Housing Inventory: Average Listing Price in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM23460          | Housing Inventory: Average Listing Price Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY23460          | Housing Inventory: Average Listing Price Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | ENUC234630010             | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC234630010SA           | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC234640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -54,32 +54,32 @@
 | LAUMT012346000000005      | Employed Persons in Gadsden, AL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT012346000000005A     | Employed Persons in Gadsden, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT012346000000006A     | Civilian Labor Force in Gadsden, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR23460          | Housing Inventory: Median Days on Market in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM23460        | Housing Inventory: Median Days on Market Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY23460        | Housing Inventory: Median Days on Market Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI23460            | Housing Inventory: Median Listing Price in Gadsden, AL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM23460          | Housing Inventory: Median Listing Price Month-Over-Month in Gadsden, AL (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE23460   | Housing Inventory: Median Listing Price per Square Feet in Gadsden, AL (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM23460 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Gadsden, AL (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY23460 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Gadsden, AL (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY23460          | Housing Inventory: Median Listing Price Year-Over-Year in Gadsden, AL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE23460            | Housing Inventory: Median Home Size in Square Feet in Gadsden, AL (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM23460          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Gadsden, AL (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY23460          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Gadsden, AL (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU23460            | Housing Inventory: New Listing Count in Gadsden, AL (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM23460          | Housing Inventory: New Listing Count Month-Over-Month in Gadsden, AL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY23460          | Housing Inventory: New Listing Count Year-Over-Year in Gadsden, AL (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR23460          | Housing Inventory: Median Days on Market in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM23460        | Housing Inventory: Median Days on Market Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY23460        | Housing Inventory: Median Days on Market Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI23460            | Housing Inventory: Median Listing Price in Gadsden, AL (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM23460          | Housing Inventory: Median Listing Price Month-Over-Month in Gadsden, AL (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE23460   | Housing Inventory: Median Listing Price per Square Feet in Gadsden, AL (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM23460 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Gadsden, AL (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY23460 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Gadsden, AL (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY23460          | Housing Inventory: Median Listing Price Year-Over-Year in Gadsden, AL (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE23460            | Housing Inventory: Median Home Size in Square Feet in Gadsden, AL (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM23460          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Gadsden, AL (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY23460          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Gadsden, AL (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU23460            | Housing Inventory: New Listing Count in Gadsden, AL (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM23460          | Housing Inventory: New Listing Count Month-Over-Month in Gadsden, AL (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY23460          | Housing Inventory: New Listing Count Year-Over-Year in Gadsden, AL (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP23460                 | Total Gross Domestic Product for Gadsden, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA123460          | U.S. Granted Utility Patents Originating in Gadsden, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU23460            | Housing Inventory: Pending Listing Count in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM23460          | Housing Inventory: Pending Listing Count Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY23460          | Housing Inventory: Pending Listing Count Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU23460            | Housing Inventory: Price Increased Count in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM23460          | Housing Inventory: Price Increased Count Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-06-01        |
-| PRIINCCOUYY23460          | Housing Inventory: Price Increased Count Year-Over-Year in Gadsden, AL (CBSA)                                | 2018-01-01          | 2022-06-01        |
-| PRIREDCOU23460            | Housing Inventory: Price Reduced Count in Gadsden, AL (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM23460          | Housing Inventory: Price Reduced Count Month-Over-Month in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY23460          | Housing Inventory: Price Reduced Count Year-Over-Year in Gadsden, AL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU23460            | Housing Inventory: Pending Listing Count in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM23460          | Housing Inventory: Pending Listing Count Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY23460          | Housing Inventory: Pending Listing Count Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU23460            | Housing Inventory: Price Increased Count in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM23460          | Housing Inventory: Price Increased Count Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY23460          | Housing Inventory: Price Increased Count Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-08-01          | 2022-04-01        |
+| PRIREDCOU23460            | Housing Inventory: Price Reduced Count in Gadsden, AL (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM23460          | Housing Inventory: Price Reduced Count Month-Over-Month in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY23460          | Housing Inventory: Price Reduced Count Year-Over-Year in Gadsden, AL (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP23460                 | Total Quantity Indexes for Real GDP for Gadsden, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP23460                 | Total Real Gross Domestic Product for Gadsden, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI23460                  | Real Personal Income for Gadsden, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

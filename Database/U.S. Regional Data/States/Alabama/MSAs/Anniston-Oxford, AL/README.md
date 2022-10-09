@@ -1,8 +1,8 @@
 | id                        | title                                                                                                                             | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU11500            | Housing Inventory: Active Listing Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM11500          | Housing Inventory: Active Listing Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY11500          | Housing Inventory: Active Listing Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU11500            | Housing Inventory: Active Listing Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM11500          | Housing Inventory: Active Listing Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY11500          | Housing Inventory: Active Listing Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ANNI501EDUH               | All Employees: Education and Health Services in Anniston-Oxford-Jacksonville, AL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | ANNI501EDUHN              | All Employees: Education and Health Services in Anniston-Oxford-Jacksonville, AL (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | ANNI501FIRE               | All Employees: Financial Activities in Anniston-Oxford-Jacksonville, AL (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -31,9 +31,9 @@
 | ANNI501URN                | Unemployment Rate in Anniston-Oxford-Jacksonville, AL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | ANNPOP                    | Resident Population in Anniston-Oxford-Jacksonville, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ATNHPIUS11500Q            | All-Transactions House Price Index for Anniston-Oxford, AL (MSA)                                                                  | 1992-01-01          | 2022-04-01        |
-| AVELISPRI11500            | Housing Inventory: Average Listing Price in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM11500          | Housing Inventory: Average Listing Price Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY11500          | Housing Inventory: Average Listing Price Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI11500            | Housing Inventory: Average Listing Price in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM11500          | Housing Inventory: Average Listing Price Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY11500          | Housing Inventory: Average Listing Price Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | ENUC115030010             | Total Quarterly Wages in Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC115030010SA           | Total Quarterly Wages in Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC115040010             | Average Weekly Wages for Employees in Total Covered Establishments in Anniston-Oxford, AL (MSA)                                   | 1990-01-01          | 2022-01-01        |
@@ -53,32 +53,32 @@
 | LAUMT011150000000005      | Employed Persons in Anniston-Oxford-Jacksonville, AL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT011150000000005A     | Employed Persons in Anniston-Oxford-Jacksonville, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT011150000000006A     | Civilian Labor Force in Anniston-Oxford-Jacksonville, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR11500          | Housing Inventory: Median Days on Market in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM11500        | Housing Inventory: Median Days on Market Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY11500        | Housing Inventory: Median Days on Market Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI11500            | Housing Inventory: Median Listing Price in Anniston-Oxford-Jacksonville, AL (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM11500          | Housing Inventory: Median Listing Price Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE11500   | Housing Inventory: Median Listing Price per Square Feet in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM11500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY11500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY11500          | Housing Inventory: Median Listing Price Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE11500            | Housing Inventory: Median Home Size in Square Feet in Anniston-Oxford-Jacksonville, AL (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM11500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY11500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU11500            | Housing Inventory: New Listing Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM11500          | Housing Inventory: New Listing Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY11500          | Housing Inventory: New Listing Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR11500          | Housing Inventory: Median Days on Market in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM11500        | Housing Inventory: Median Days on Market Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY11500        | Housing Inventory: Median Days on Market Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI11500            | Housing Inventory: Median Listing Price in Anniston-Oxford-Jacksonville, AL (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM11500          | Housing Inventory: Median Listing Price Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE11500   | Housing Inventory: Median Listing Price per Square Feet in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM11500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY11500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY11500          | Housing Inventory: Median Listing Price Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE11500            | Housing Inventory: Median Home Size in Square Feet in Anniston-Oxford-Jacksonville, AL (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM11500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY11500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU11500            | Housing Inventory: New Listing Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM11500          | Housing Inventory: New Listing Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY11500          | Housing Inventory: New Listing Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP11500                 | Total Gross Domestic Product for Anniston-Oxford-Jacksonville, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA111500          | U.S. Granted Utility Patents Originating in Anniston-Oxford, AL (MSA)                                                             | 2000-01-01          | 2015-01-01        |
-| PENLISCOU11500            | Housing Inventory: Pending Listing Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM11500          | Housing Inventory: Pending Listing Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY11500          | Housing Inventory: Pending Listing Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU11500            | Housing Inventory: Price Increased Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM11500          | Housing Inventory: Price Increased Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-05-01        |
-| PRIINCCOUYY11500          | Housing Inventory: Price Increased Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU11500            | Housing Inventory: Price Reduced Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM11500          | Housing Inventory: Price Reduced Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY11500          | Housing Inventory: Price Reduced Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU11500            | Housing Inventory: Pending Listing Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM11500          | Housing Inventory: Pending Listing Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY11500          | Housing Inventory: Pending Listing Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU11500            | Housing Inventory: Price Increased Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM11500          | Housing Inventory: Price Increased Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY11500          | Housing Inventory: Price Increased Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU11500            | Housing Inventory: Price Reduced Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM11500          | Housing Inventory: Price Reduced Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY11500          | Housing Inventory: Price Reduced Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP11500                 | Total Quantity Indexes for Real GDP for Anniston-Oxford-Jacksonville, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP11500                 | Total Real Gross Domestic Product for Anniston-Oxford-Jacksonville, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI11500                  | Real Personal Income for Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

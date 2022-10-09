@@ -1,6 +1,6 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| Monroe County, MS          |                89 |
+| Monroe County, MS          |                 0 |
 | Claiborne County, MS       |                87 |
 | Hancock County, MS         |               146 |
 | Holmes County, MS          |                87 |
@@ -19,7 +19,7 @@
 | Benton County, MS          |                88 |
 | Lamar County, MS           |               145 |
 | Marshall County, MS        |                90 |
-| Leake County, MS           |                 0 |
+| Leake County, MS           |                89 |
 | Coahoma County, MS         |                90 |
 | Marion County, MS          |                89 |
 | Carroll County, MS         |                88 |
@@ -60,7 +60,7 @@
 | Union County, MS           |                89 |
 | Clarke County, MS          |                89 |
 | Alcorn County, MS          |                89 |
-| De Soto County, MS         |               147 |
+| De Soto County, MS         |                 0 |
 | Montgomery County, MS      |                87 |
 | Stone County, MS           |                90 |
 | Covington County, MS       |                89 |
@@ -79,6 +79,6 @@
 | Hinds County, MS           |               147 |
 | Wayne County, MS           |                88 |
 | Adams County, MS           |                89 |
-| Sunflower County, MS       |                 0 |
+| Sunflower County, MS       |                89 |
 | Prentiss County, MS        |                88 |
 | Quitman County, MS         |                87 |

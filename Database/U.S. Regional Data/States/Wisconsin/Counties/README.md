@@ -22,13 +22,13 @@
 | Jefferson County, WI                    |               147 |
 | Oneida County, WI                       |                90 |
 | Columbia County, WI                     |               146 |
-| Jackson County, WI                      |                 0 |
+| Jackson County, WI                      |                89 |
 | Marinette County, WI                    |                89 |
 | Kewaunee County, WI                     |                90 |
 | Outagamie County, WI                    |               147 |
 | Clark County, WI                        |                90 |
 | Winnebago County, WI                    |               147 |
-| Walworth County, WI                     |               147 |
+| Walworth County, WI                     |                 0 |
 | Menominee County, WI                    |                87 |
 | Shawano County, WI                      |                90 |
 | Oconto County, WI                       |                90 |

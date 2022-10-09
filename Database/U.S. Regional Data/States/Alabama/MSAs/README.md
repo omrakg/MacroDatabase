@@ -10,6 +10,6 @@
 | Montgomery, AL             |               170 |
 | Florence-Muscle Shoals, AL |               152 |
 | Mobile, AL                 |               167 |
-| Decatur, AL                |                 0 |
+| Decatur, AL                |               168 |
 | Huntsville, AL             |               179 |
 | Tuscaloosa, AL             |               155 |

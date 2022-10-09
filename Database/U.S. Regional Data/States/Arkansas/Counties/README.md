@@ -4,7 +4,7 @@
 | Cross County, AR        |                90 |
 | Faulkner County, AR     |               147 |
 | Little River County, AR |                88 |
-| Van Buren County, AR    |                 0 |
+| Van Buren County, AR    |                89 |
 | Lafayette County, AR    |                88 |
 | Crawford County, AR     |               146 |
 | Pike County, AR         |                87 |
@@ -61,7 +61,7 @@
 | Randolph County, AR     |                90 |
 | Independence County, AR |                90 |
 | Garland County, AR      |               147 |
-| Phillips County, AR     |                88 |
+| Phillips County, AR     |                 0 |
 | Woodruff County, AR     |                88 |
 | Nevada County, AR       |                89 |
 | Ashley County, AR       |                90 |

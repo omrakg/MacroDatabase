@@ -1,13 +1,13 @@
 | id                        | title                                                                                                              | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU22900            | Housing Inventory: Active Listing Count in Fort Smith, AR-OK (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM22900          | Housing Inventory: Active Listing Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY22900          | Housing Inventory: Active Listing Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU22900            | Housing Inventory: Active Listing Count in Fort Smith, AR-OK (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM22900          | Housing Inventory: Active Listing Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY22900          | Housing Inventory: Active Listing Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS22900Q            | All-Transactions House Price Index for Fort Smith, AR-OK (MSA)                                                     | 1985-01-01          | 2022-04-01        |
-| AVELISPRI22900            | Housing Inventory: Average Listing Price in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM22900          | Housing Inventory: Average Listing Price Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY22900          | Housing Inventory: Average Listing Price Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA22900              | Market Hotness: Demand Score in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI22900            | Housing Inventory: Average Listing Price in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM22900          | Housing Inventory: Average Listing Price Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY22900          | Housing Inventory: Average Listing Price Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA22900              | Market Hotness: Demand Score in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC229030010             | Total Quarterly Wages in Fort Smith, AR-OK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC229030010SA           | Total Quarterly Wages in Fort Smith, AR-OK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC229040010             | Average Weekly Wages for Employees in Total Covered Establishments in Fort Smith, AR-OK (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -48,10 +48,10 @@
 | FTSTRADN                  | All Employees: Trade, Transportation, and Utilities in Fort Smith, AR-OK (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | FTSUR                     | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | FTSURN                    | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| HORAMMMSA22900            | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA22900              | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA22900            | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA22900              | Market Hotness: Hotness Score in Fort Smith, AR-OK (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA22900            | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA22900              | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA22900            | Market Hotness: Hotness Rank in Fort Smith, AR-OK (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA22900              | Market Hotness: Hotness Score in Fort Smith, AR-OK (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD22900                 | Implicit Regional Price Deflator for Fort Smith, AR-OK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT052290000000003A     | Unemployment Rate in Fort Smith, AR-OK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT052290000000004      | Unemployed Persons in Fort Smith, AR-OK (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -59,46 +59,46 @@
 | LAUMT052290000000005      | Employed Persons in Fort Smith, AR-OK (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT052290000000005A     | Employed Persons in Fort Smith, AR-OK (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT052290000000006A     | Civilian Labor Force in Fort Smith, AR-OK (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA22900          | Market Hotness: Listing Views per Property in Fort Smith, AR-OK (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA22900        | Market Hotness: Listing Views per Property Versus the United States in Fort Smith, AR-OK (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA22900          | Market Hotness: Listing Views per Property in Fort Smith, AR-OK (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA22900        | Market Hotness: Median Days on Market in Fort Smith, AR-OK (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA22900          | Market Hotness: Median Days on Market in Fort Smith, AR-OK (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA22900        | Market Hotness: Median Days on Market in Fort Smith, AR-OK (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR22900          | Housing Inventory: Median Days on Market in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM22900        | Housing Inventory: Median Days on Market Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY22900        | Housing Inventory: Median Days on Market Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI22900            | Housing Inventory: Median Listing Price in Fort Smith, AR-OK (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM22900          | Housing Inventory: Median Listing Price Month-Over-Month in Fort Smith, AR-OK (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE22900   | Housing Inventory: Median Listing Price per Square Feet in Fort Smith, AR-OK (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM22900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Fort Smith, AR-OK (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY22900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Fort Smith, AR-OK (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY22900          | Housing Inventory: Median Listing Price Year-Over-Year in Fort Smith, AR-OK (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA22900          | Market Hotness: Median Days on Market in Fort Smith, AR-OK (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA22900          | Market Hotness: Median Days on Market Versus the United States in Fort Smith, AR-OK (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA22900          | Market Hotness: Median Days on Market Day in Fort Smith, AR-OK (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE22900            | Housing Inventory: Median Home Size in Square Feet in Fort Smith, AR-OK (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM22900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Fort Smith, AR-OK (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY22900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Fort Smith, AR-OK (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA22900          | Market Hotness: Median Listing Price in Fort Smith, AR-OK (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA22900            | Market Hotness: Median Listing Price in Fort Smith, AR-OK (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA22900        | Market Hotness: Median Listing Price Versus the United States in Fort Smith, AR-OK (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA22900          | Market Hotness: Median Listing Price in Fort Smith, AR-OK (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU22900            | Housing Inventory: New Listing Count in Fort Smith, AR-OK (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM22900          | Housing Inventory: New Listing Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY22900          | Housing Inventory: New Listing Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA22900          | Market Hotness: Listing Views per Property in Fort Smith, AR-OK (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA22900        | Market Hotness: Listing Views per Property Versus the United States in Fort Smith, AR-OK (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA22900          | Market Hotness: Listing Views per Property in Fort Smith, AR-OK (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA22900        | Market Hotness: Median Days on Market in Fort Smith, AR-OK (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA22900          | Market Hotness: Median Days on Market in Fort Smith, AR-OK (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA22900        | Market Hotness: Median Days on Market in Fort Smith, AR-OK (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR22900          | Housing Inventory: Median Days on Market in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM22900        | Housing Inventory: Median Days on Market Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY22900        | Housing Inventory: Median Days on Market Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI22900            | Housing Inventory: Median Listing Price in Fort Smith, AR-OK (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM22900          | Housing Inventory: Median Listing Price Month-Over-Month in Fort Smith, AR-OK (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE22900   | Housing Inventory: Median Listing Price per Square Feet in Fort Smith, AR-OK (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM22900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Fort Smith, AR-OK (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY22900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Fort Smith, AR-OK (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY22900          | Housing Inventory: Median Listing Price Year-Over-Year in Fort Smith, AR-OK (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA22900          | Market Hotness: Median Days on Market in Fort Smith, AR-OK (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA22900          | Market Hotness: Median Days on Market Versus the United States in Fort Smith, AR-OK (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA22900          | Market Hotness: Median Days on Market Day in Fort Smith, AR-OK (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE22900            | Housing Inventory: Median Home Size in Square Feet in Fort Smith, AR-OK (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM22900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Fort Smith, AR-OK (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY22900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Fort Smith, AR-OK (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA22900          | Market Hotness: Median Listing Price in Fort Smith, AR-OK (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA22900            | Market Hotness: Median Listing Price in Fort Smith, AR-OK (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA22900        | Market Hotness: Median Listing Price Versus the United States in Fort Smith, AR-OK (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA22900          | Market Hotness: Median Listing Price in Fort Smith, AR-OK (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU22900            | Housing Inventory: New Listing Count in Fort Smith, AR-OK (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM22900          | Housing Inventory: New Listing Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY22900          | Housing Inventory: New Listing Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP22900                 | Total Gross Domestic Product for Fort Smith, AR-OK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA22900            | Market Hotness: Nielsen Household Rank in Fort Smith, AR-OK (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA22900            | Market Hotness: Nielsen Household Rank in Fort Smith, AR-OK (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA122900          | U.S. Granted Utility Patents Originating in Fort Smith, AR-OK (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU22900            | Housing Inventory: Pending Listing Count in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM22900          | Housing Inventory: Pending Listing Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY22900          | Housing Inventory: Pending Listing Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU22900            | Housing Inventory: Price Increased Count in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM22900          | Housing Inventory: Price Increased Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY22900          | Housing Inventory: Price Increased Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU22900            | Housing Inventory: Price Reduced Count in Fort Smith, AR-OK (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM22900          | Housing Inventory: Price Reduced Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY22900          | Housing Inventory: Price Reduced Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU22900            | Housing Inventory: Pending Listing Count in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM22900          | Housing Inventory: Pending Listing Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY22900          | Housing Inventory: Pending Listing Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU22900            | Housing Inventory: Price Increased Count in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM22900          | Housing Inventory: Price Increased Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY22900          | Housing Inventory: Price Increased Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU22900            | Housing Inventory: Price Reduced Count in Fort Smith, AR-OK (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM22900          | Housing Inventory: Price Reduced Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY22900          | Housing Inventory: Price Reduced Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP22900                 | Total Quantity Indexes for Real GDP for Fort Smith, AR-OK (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP22900                 | Total Real Gross Domestic Product for Fort Smith, AR-OK (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI22900                  | Real Personal Income for Fort Smith, AR-OK (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -155,4 +155,4 @@
 | SMU05229009093000001      | All Employees: Government: Local Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-08-01        |
 | SMU05229009093000001A     | All Employees: Local Government in Fort Smith, AR-OK (MSA)                                                         | 2003-01-01          | 2021-01-01        |
 | SMU05229009093000001SA    | All Employees: Government: Local Government in Fort Smith, AR-OK (MSA)                                             | 2003-01-01          | 2022-08-01        |
-| SUSCMSA22900              | Market Hotness: Supply Score in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA22900              | Market Hotness: Supply Score in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

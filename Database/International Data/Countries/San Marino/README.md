@@ -33,7 +33,7 @@
 | DDSI01SMA645NWDB  | Bank Z-Score for San Marino                                                                                                 | 2004-01-01          | 2013-01-01        |
 | DDSI04SMA156NWDB  | Bank Credit to Bank Deposits for San Marino                                                                                 | 2001-01-01          | 2017-01-01        |
 | DEBTTLSMA188A     | Central government debt, total (% of GDP) for San Marino                                                                    | 2002-01-01          | 2020-01-01        |
-| EXP4751           | U.S. Exports of Goods by F.A.S. Basis to San Marino                                                                         | 1992-01-01          | 2022-07-01        |
+| EXP4751           | U.S. Exports of Goods by F.A.S. Basis to San Marino                                                                         | 1992-01-01          | 2022-08-01        |
 | FLSMRA052SCEN     | Value of Exports to San Marino from Florida                                                                                 | 2002-01-01          | 2017-01-01        |
 | FLSMRA475SCEN     | Number of Identified Exporters to San Marino from Florida                                                                   | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGSMR    | Inflation, consumer prices for San Marino                                                                                   | 2004-01-01          | 2017-01-01        |
@@ -44,7 +44,7 @@
 | ICBUSEASEXQSMR    | Ease of doing business index for San Marino                                                                                 | 2019-01-01          | 2019-01-01        |
 | ILSMRA052SCEN     | Value of Exports to San Marino from Illinois                                                                                | 2009-01-01          | 2009-01-01        |
 | ILSMRA475SCEN     | Number of Identified Exporters to San Marino from Illinois                                                                  | 1997-01-01          | 2016-01-01        |
-| IMP4751           | U.S. Imports of Goods by Customs Basis from San Marino                                                                      | 1992-01-01          | 2022-07-01        |
+| IMP4751           | U.S. Imports of Goods by Customs Basis from San Marino                                                                      | 1992-01-01          | 2022-08-01        |
 | INSMRA052SCEN     | Value of Exports to San Marino from Indiana                                                                                 | 2014-01-01          | 2014-01-01        |
 | INSMRA475SCEN     | Number of Identified Exporters to San Marino from Indiana                                                                   | 2005-01-01          | 2016-01-01        |
 | ITNETUSERP2SMR    | Internet users for San Marino                                                                                               | 1990-01-01          | 2017-01-01        |
@@ -87,7 +87,7 @@
 | SMRFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for San Marino                                                | 2010-01-01          | 2021-01-01        |
 | SMRFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for San Marino                              | 2010-01-01          | 2021-01-01        |
 | SMRFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for San Marino                                                      | 2010-01-01          | 2021-01-01        |
-| SMRFCAODCANUM     | Use of Financial Services: Key Indicators, Deposit Accounts with Commercial Banks Per 1000 Adults for San Marino            | 2004-01-01          | 2020-01-01        |
+| SMRFCAODCANUM     | Use of Financial Services: Key Indicators, Deposit Accounts with Commercial Banks Per 1000 Adults for San Marino            | 2004-01-01          | 2021-01-01        |
 | SMRFCAODCNUM      | Use of Financial Services Deposit Accounts: Accounts at Commercial Banks for San Marino                                     | 2004-01-01          | 2021-01-01        |
 | SMRFCAODNUM       | Use of Financial Services Deposit Accounts: Accounts at Other Depository Corporations for San Marino                        | 2004-01-01          | 2017-01-01        |
 | SMRFCAOFILPNUM    | Use of Financial Services Deposit Accounts: Life Insurance Accounts at Insurance Corporations for San Marino                | 2010-01-01          | 2021-01-01        |
@@ -96,7 +96,7 @@
 | SMRFCAOFNUM       | Use of Financial Services Deposit Accounts: Accounts at Other Financial Corporations for San Marino                         | 2004-01-01          | 2013-01-01        |
 | SMRFCBMNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Financial Intermediaries for San Marino        | 2004-01-01          | 2017-01-01        |
 | SMRFCBMONUM       | Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Other Financial Intermediaries for San Marino  | 2004-01-01          | 2017-01-01        |
-| SMRFCBODCANUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for San Marino                            | 2004-01-01          | 2020-01-01        |
+| SMRFCBODCANUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for San Marino                            | 2004-01-01          | 2021-01-01        |
 | SMRFCBODCKNUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for San Marino                                  | 2004-01-01          | 2021-01-01        |
 | SMRFCBODCNUM      | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for San Marino                      | 2004-01-01          | 2021-01-01        |
 | SMRFCBODNUM       | Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Depository Corporations for San Marino         | 2004-01-01          | 2017-01-01        |
@@ -122,7 +122,7 @@
 | SMRFCNODNUM       | Use of Financial Services: Number of Loan Accounts at Other Depository Corporations for San Marino                          | 2014-01-01          | 2017-01-01        |
 | SMRFCRFOPENUM     | Use of Financial Services Borrowers: Persons Borrowing from Other Other Financial Intermediaries for San Marino             | 2004-01-01          | 2017-01-01        |
 | SMRFCRMPENUM      | Use of Financial Services Borrowers: Persons Borrowing from Other Financial Intermediaries for San Marino                   | 2004-01-01          | 2017-01-01        |
-| SMRFCRODCANUM     | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for San Marino                   | 2004-01-01          | 2020-01-01        |
+| SMRFCRODCANUM     | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for San Marino                   | 2004-01-01          | 2021-01-01        |
 | SMRFCRODCPENUM    | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for San Marino                                 | 2004-01-01          | 2021-01-01        |
 | SMRFCRODPENUM     | Use of Financial Services: Number of Borrowers at Other Depository Corporations for San Marino                              | 2004-01-01          | 2017-01-01        |
 | SMRFCSMHXDC       | Use of Financial Services, Assets: Outstanding Loans to Households at Other Financial Intermediaries for San Marino         | 2004-01-01          | 2017-01-01        |

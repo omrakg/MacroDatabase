@@ -6,13 +6,13 @@
 | CANFKA475SCEN | Number of Identified Exporters to Norfolk Island from California     | 1992-01-01          | 2015-01-01        |
 | CONFKA475SCEN | Number of Identified Exporters to Norfolk Island from Colorado       | 1997-01-01          | 2012-01-01        |
 | CTNFKA475SCEN | Number of Identified Exporters to Norfolk Island from Connecticut    | 1997-01-01          | 2015-01-01        |
-| EXP6022       | U.S. Exports of Goods by F.A.S. Basis to Norfolk Island              | 1992-01-01          | 2022-07-01        |
+| EXP6022       | U.S. Exports of Goods by F.A.S. Basis to Norfolk Island              | 1992-01-01          | 2022-08-01        |
 | FLNFKA475SCEN | Number of Identified Exporters to Norfolk Island from Florida        | 2008-01-01          | 2016-01-01        |
 | GANFKA475SCEN | Number of Identified Exporters to Norfolk Island from Georgia        | 1992-01-01          | 2014-01-01        |
 | HINFKA475SCEN | Number of Identified Exporters to Norfolk Island from Hawaii         | 1992-01-01          | 1992-01-01        |
 | IANFKA475SCEN | Number of Identified Exporters to Norfolk Island from Iowa           | 2006-01-01          | 2006-01-01        |
 | ILNFKA475SCEN | Number of Identified Exporters to Norfolk Island from Illinois       | 1992-01-01          | 2015-01-01        |
-| IMP6022       | U.S. Imports of Goods by Customs Basis from Norfolk Island           | 1992-01-01          | 2022-07-01        |
+| IMP6022       | U.S. Imports of Goods by Customs Basis from Norfolk Island           | 1992-01-01          | 2022-08-01        |
 | INNFKA475SCEN | Number of Identified Exporters to Norfolk Island from Indiana        | 2006-01-01          | 2014-01-01        |
 | KSNFKA475SCEN | Number of Identified Exporters to Norfolk Island from Kansas         | 1992-01-01          | 2010-01-01        |
 | KYNFKA475SCEN | Number of Identified Exporters to Norfolk Island from Kentucky       | 1997-01-01          | 2009-01-01        |

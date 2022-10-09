@@ -1,9 +1,9 @@
 | id                    | title                                                                                                                 | observation_start   | observation_end   |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ADPMCDPCNERNSA        | Nonfarm Private Employment in the Pacific Census Division                                                             | 2010-01-01          | 2022-08-01        |
-| ADPMCDPCNERSA         | Nonfarm Private Employment in the Pacific Census Division                                                             | 2010-01-01          | 2022-08-01        |
-| ADPWCDPCNERNSA        | Nonfarm Private Employment in the Pacific Census Division                                                             | 2010-01-02          | 2022-06-11        |
-| ADPWCDPCNERSA         | Nonfarm Private Employment in the Pacific Census Division                                                             | 2010-01-02          | 2022-06-11        |
+| ADPMCDPCNERNSA        | Nonfarm Private Employment in the Pacific Census Division                                                             | 2010-01-01          | 2022-09-01        |
+| ADPMCDPCNERSA         | Nonfarm Private Employment in the Pacific Census Division                                                             | 2010-01-01          | 2022-09-01        |
+| ADPWCDPCNERNSA        | Nonfarm Private Employment in the Pacific Census Division                                                             | 2010-01-02          | 2022-07-30        |
+| ADPWCDPCNERSA         | Nonfarm Private Employment in the Pacific Census Division                                                             | 2010-01-02          | 2022-07-30        |
 | CIU2010000000249I     | Employment Cost Index: Total compensation for Private industry workers in the Pacific Census Division                 | 2006-01-01          | 2022-04-01        |
 | CIU2020000000249I     | Employment Cost Index: Wages and salaries for Private industry workers in the Pacific Census Division                 | 2006-01-01          | 2022-04-01        |
 | CPACBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Pacific Census Division           | 1988-01-01          | 2022-08-01        |

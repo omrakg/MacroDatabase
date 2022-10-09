@@ -48,7 +48,7 @@
 | DDSI06LCA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Saint Lucia                                                          | 2009-01-01          | 2018-01-01        |
 | DELCAA052SCEN     | Value of Exports to Saint Lucia from Delaware                                                                             | 2012-01-01          | 2012-01-01        |
 | DELCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Delaware                                                               | 1997-01-01          | 2016-01-01        |
-| EXP2487           | U.S. Exports of Goods by F.A.S. Basis to Saint Lucia                                                                      | 1992-01-01          | 2022-07-01        |
+| EXP2487           | U.S. Exports of Goods by F.A.S. Basis to Saint Lucia                                                                      | 1992-01-01          | 2022-08-01        |
 | FLLCAA052SCEN     | Value of Exports to Saint Lucia from Florida                                                                              | 1992-01-01          | 2015-01-01        |
 | FLLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Florida                                                                | 1992-01-01          | 2016-01-01        |
 | FPCPITOTLZGLCA    | Inflation, consumer prices for St. Lucia                                                                                  | 1966-01-01          | 2021-01-01        |
@@ -62,7 +62,7 @@
 | IDLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Idaho                                                                  | 1992-01-01          | 2015-01-01        |
 | ILLCAA052SCEN     | Value of Exports to Saint Lucia from Illinois                                                                             | 1992-01-01          | 2016-01-01        |
 | ILLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Illinois                                                               | 1992-01-01          | 2016-01-01        |
-| IMP2487           | U.S. Imports of Goods by Customs Basis from Saint Lucia                                                                   | 1992-01-01          | 2022-07-01        |
+| IMP2487           | U.S. Imports of Goods by Customs Basis from Saint Lucia                                                                   | 1992-01-01          | 2022-08-01        |
 | INLCAA052SCEN     | Value of Exports to Saint Lucia from Indiana                                                                              | 1992-01-01          | 2016-01-01        |
 | INLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Indiana                                                                | 1992-01-01          | 2016-01-01        |
 | ITNETUSERP2LCA    | Internet users for St. Lucia                                                                                              | 1990-01-01          | 2020-01-01        |
@@ -122,29 +122,29 @@
 | SCLCAA052SCEN     | Value of Exports to Saint Lucia from South Carolina                                                                       | 1997-01-01          | 2016-01-01        |
 | SCLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from South Carolina                                                         | 1992-01-01          | 2016-01-01        |
 | SDLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from South Dakota                                                           | 1997-01-01          | 2016-01-01        |
-| SLAFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for St. Lucia                                               | 2004-01-01          | 2020-01-01        |
-| SLAFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for St. Lucia                             | 2004-01-01          | 2020-01-01        |
-| SLAFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for St. Lucia                                                     | 2004-01-01          | 2020-01-01        |
-| SLAFCBODCANUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for St. Lucia                           | 2004-01-01          | 2020-01-01        |
-| SLAFCBODCKNUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for St. Lucia                                 | 2004-01-01          | 2020-01-01        |
-| SLAFCBODCNUM      | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for St. Lucia                     | 2004-01-01          | 2020-01-01        |
-| SLAFCIODCNUM      | Geographical Outreach: Number of Commercial Banks for St. Lucia                                                           | 2004-01-01          | 2020-01-01        |
-| SLAFCIODDNUM      | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for St. Lucia          | 2004-01-01          | 2020-01-01        |
-| SLAFCIODUNUM      | Geographical Outreach: Number of Credit Unions and Financial Cooperatives for St. Lucia                                   | 2004-01-01          | 2020-01-01        |
-| SLAFCIOFINUM      | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for St. Lucia         | 2004-01-01          | 2020-01-01        |
+| SLAFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for St. Lucia                                               | 2004-01-01          | 2021-01-01        |
+| SLAFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for St. Lucia                             | 2004-01-01          | 2021-01-01        |
+| SLAFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for St. Lucia                                                     | 2004-01-01          | 2021-01-01        |
+| SLAFCBODCANUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for St. Lucia                           | 2004-01-01          | 2021-01-01        |
+| SLAFCBODCKNUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for St. Lucia                                 | 2004-01-01          | 2021-01-01        |
+| SLAFCBODCNUM      | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for St. Lucia                     | 2004-01-01          | 2021-01-01        |
+| SLAFCIODCNUM      | Geographical Outreach: Number of Commercial Banks for St. Lucia                                                           | 2004-01-01          | 2021-01-01        |
+| SLAFCIODDNUM      | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for St. Lucia          | 2004-01-01          | 2021-01-01        |
+| SLAFCIODUNUM      | Geographical Outreach: Number of Credit Unions and Financial Cooperatives for St. Lucia                                   | 2004-01-01          | 2021-01-01        |
+| SLAFCIOFINUM      | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for St. Lucia         | 2004-01-01          | 2021-01-01        |
 | SLAFCIOFMNUM      | Geographical Outreach: Number of Institutions, Other Financial Corporations, Other Financial Intermediaries for St. Lucia | 2010-01-01          | 2017-01-01        |
 | SLAFCIOFNUM       | Geographical Outreach: Number of Institutions, Other Financial Corporations for St. Lucia                                 | 2010-01-01          | 2017-01-01        |
-| SLAFCLODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for St. Lucia                       | 2004-01-01          | 2020-01-01        |
-| SLAFCLODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Deposits of Households with Commercial Banks for St. Lucia         | 2004-01-01          | 2020-01-01        |
-| SLAFCLODCHXDC     | Use of Financial Services, Liabilities: Outstanding Deposits by Households at Commercial Banks for St. Lucia              | 2004-01-01          | 2020-01-01        |
-| SLAFCLODCXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for St. Lucia                            | 2004-01-01          | 2020-01-01        |
-| SLAFCLODDXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Other Deposit Takers for St. Lucia                        | 2007-01-01          | 2020-01-01        |
+| SLAFCLODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for St. Lucia                       | 2004-01-01          | 2021-01-01        |
+| SLAFCLODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Deposits of Households with Commercial Banks for St. Lucia         | 2004-01-01          | 2021-01-01        |
+| SLAFCLODCHXDC     | Use of Financial Services, Liabilities: Outstanding Deposits by Households at Commercial Banks for St. Lucia              | 2004-01-01          | 2021-01-01        |
+| SLAFCLODCXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for St. Lucia                            | 2004-01-01          | 2021-01-01        |
+| SLAFCLODDXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Other Deposit Takers for St. Lucia                        | 2007-01-01          | 2021-01-01        |
 | SLAFCSMXDC        | Use of Financial Services, Assets: Outstanding Loans at Other Financial Intermediaries for St. Lucia                      | 2009-01-01          | 2017-01-01        |
-| SLAFCSODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for St. Lucia                          | 2004-01-01          | 2020-01-01        |
-| SLAFCSODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks to Households for St. Lucia            | 2004-01-01          | 2020-01-01        |
-| SLAFCSODCHXDC     | Use of Financial Services, Assets: Outstanding Loans to Households at Commercial Banks for St. Lucia                      | 2004-01-01          | 2020-01-01        |
-| SLAFCSODCXDC      | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for St. Lucia                                    | 2004-01-01          | 2020-01-01        |
-| SLAFCSODDXDC      | Use of Financial Services, Assets: Outstanding Loans at Other Deposit Takers for St. Lucia                                | 2007-01-01          | 2020-01-01        |
+| SLAFCSODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for St. Lucia                          | 2004-01-01          | 2021-01-01        |
+| SLAFCSODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks to Households for St. Lucia            | 2004-01-01          | 2021-01-01        |
+| SLAFCSODCHXDC     | Use of Financial Services, Assets: Outstanding Loans to Households at Commercial Banks for St. Lucia                      | 2004-01-01          | 2021-01-01        |
+| SLAFCSODCXDC      | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for St. Lucia                                    | 2004-01-01          | 2021-01-01        |
+| SLAFCSODDXDC      | Use of Financial Services, Assets: Outstanding Loans at Other Deposit Takers for St. Lucia                                | 2007-01-01          | 2021-01-01        |
 | SMPOPNETMLCA      | Net migration for St. Lucia                                                                                               | 1962-01-01          | 2017-01-01        |
 | SPDYNIMRTINLCA    | Infant Mortality Rate for St. Lucia                                                                                       | 1960-01-01          | 2020-01-01        |
 | SPDYNLE00INLCA    | Life Expectancy at Birth, Total for St. Lucia                                                                             | 1960-01-01          | 2020-01-01        |

@@ -1,6 +1,6 @@
 | Folder                                  |   Files / Folders |
 |-----------------------------------------|-------------------|
-| The Villages, FL                        |                 0 |
+| The Villages, FL                        |                59 |
 | Sebring-Avon Park, FL                   |                59 |
 | Homosassa Springs, FL                   |                59 |
 | Pensacola-Ferry Pass-Brent, FL          |               175 |
@@ -16,7 +16,7 @@
 | Punta Gorda, FL                         |               162 |
 | Cape Coral-Fort Myers, FL               |               169 |
 | Port St. Lucie, FL                      |               162 |
-| Naples-Marco Island, FL                 |               162 |
+| Naples-Marco Island, FL                 |                 0 |
 | Palm Coast, FL                          |                 8 |
 | North Port-Sarasota-Bradenton, FL       |               178 |
 | Sebastian-Vero Beach, FL                |               161 |

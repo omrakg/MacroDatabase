@@ -4,7 +4,7 @@
 | De Kalb County, MO        |                90 |
 | Chariton County, MO       |                88 |
 | Texas County, MO          |                89 |
-| Wright County, MO         |                 0 |
+| Wright County, MO         |                89 |
 | Phelps County, MO         |                90 |
 | Macon County, MO          |                90 |
 | Nodaway County, MO        |                89 |
@@ -19,7 +19,7 @@
 | Montgomery County, MO     |                89 |
 | Marion County, MO         |                89 |
 | Taney County, MO          |               146 |
-| Andrew County, MO         |                90 |
+| Andrew County, MO         |                 0 |
 | Christian County, MO      |               147 |
 | St. Charles County, MO    |               147 |
 | Mississippi County, MO    |                90 |
@@ -64,7 +64,7 @@
 | Ralls County, MO          |                89 |
 | St. Louis County, MO      |               147 |
 | Clay County, MO           |               147 |
-| St. Clair County, MO      |                 0 |
+| St. Clair County, MO      |                89 |
 | Moniteau County, MO       |                90 |
 | Butler County, MO         |                89 |
 | Henry County, MO          |                89 |

@@ -56,7 +56,7 @@
 | Anson County, NC        |                88 |
 | Alexander County, NC    |                90 |
 | Pitt County, NC         |               147 |
-| Clay County, NC         |                 0 |
+| Clay County, NC         |                90 |
 | Durham County, NC       |               147 |
 | Nash County, NC         |               147 |
 | Sampson County, NC      |                90 |
@@ -69,7 +69,7 @@
 | Henderson County, NC    |               147 |
 | Pasquotank County, NC   |                89 |
 | Camden County, NC       |                89 |
-| Halifax County, NC      |               146 |
+| Halifax County, NC      |                 0 |
 | Watauga County, NC      |               146 |
 | Wilkes County, NC       |               147 |
 | Wayne County, NC        |               147 |

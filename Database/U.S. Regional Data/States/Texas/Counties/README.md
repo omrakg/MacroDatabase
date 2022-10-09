@@ -41,7 +41,7 @@
 | San Patricio County, TX  |               147 |
 | Lampasas County, TX      |                90 |
 | McMullen County, TX      |                85 |
-| Walker County, TX        |               147 |
+| Walker County, TX        |                 0 |
 | Donley County, TX        |                87 |
 | Young County, TX         |                90 |
 | Knox County, TX          |                89 |
@@ -52,7 +52,7 @@
 | Travis County, TX        |               147 |
 | Real County, TX          |                88 |
 | Moore County, TX         |                90 |
-| Jim Hogg County, TX      |                 0 |
+| Jim Hogg County, TX      |                87 |
 | De Witt County, TX       |                89 |
 | Smith County, TX         |               147 |
 | Lipscomb County, TX      |                88 |
@@ -101,7 +101,7 @@
 | Reagan County, TX        |                88 |
 | Calhoun County, TX       |                90 |
 | Hunt County, TX          |               147 |
-| Freestone County, TX     |                90 |
+| Freestone County, TX     |                 0 |
 | Midland County, TX       |               147 |
 | Montgomery County, TX    |               147 |
 | Falls County, TX         |                89 |
@@ -166,7 +166,7 @@
 | Taylor County, TX        |               147 |
 | Collingsworth County, TX |                88 |
 | Anderson County, TX      |                90 |
-| Aransas County, TX       |                 0 |
+| Aransas County, TX       |                90 |
 | Medina County, TX        |                90 |
 | Bowie County, TX         |               147 |
 | Swisher County, TX       |                88 |
@@ -192,7 +192,7 @@
 | Navarro County, TX       |                90 |
 | Coke County, TX          |                89 |
 | Polk County, TX          |                90 |
-| Culberson County, TX     |                87 |
+| Culberson County, TX     |                 0 |
 | Webb County, TX          |               147 |
 | Martin County, TX        |                88 |
 | Sabine County, TX        |                89 |
@@ -226,7 +226,7 @@
 | Panola County, TX        |                90 |
 | Lubbock County, TX       |               147 |
 | Waller County, TX        |                90 |
-| Harrison County, TX      |                 0 |
+| Harrison County, TX      |               145 |
 | Cherokee County, TX      |                89 |
 | Scurry County, TX        |                89 |
 | Comal County, TX         |               147 |
@@ -252,4 +252,4 @@
 | Burnet County, TX        |                90 |
 | Parmer County, TX        |                89 |
 | Williamson County, TX    |               147 |
-| Rockwall County, TX      |               147 |
+| Rockwall County, TX      |                 0 |

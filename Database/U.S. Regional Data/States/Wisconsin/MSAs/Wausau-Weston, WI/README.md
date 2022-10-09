@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU48140            | Housing Inventory: Active Listing Count in Wausau, WI (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM48140          | Housing Inventory: Active Listing Count Month-Over-Month in Wausau, WI (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY48140          | Housing Inventory: Active Listing Count Year-Over-Year in Wausau, WI (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU48140            | Housing Inventory: Active Listing Count in Wausau, WI (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM48140          | Housing Inventory: Active Listing Count Month-Over-Month in Wausau, WI (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY48140          | Housing Inventory: Active Listing Count Year-Over-Year in Wausau, WI (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS48140Q            | All-Transactions House Price Index for Wausau-Weston, WI (MSA)                                              | 1986-04-01          | 2022-04-01        |
-| AVELISPRI48140            | Housing Inventory: Average Listing Price in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM48140          | Housing Inventory: Average Listing Price Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY48140          | Housing Inventory: Average Listing Price Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA48140              | Market Hotness: Demand Score in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI48140            | Housing Inventory: Average Listing Price in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM48140          | Housing Inventory: Average Listing Price Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY48140          | Housing Inventory: Average Listing Price Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA48140              | Market Hotness: Demand Score in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC481430010             | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC481430010SA           | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC481440010             | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC481440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC481440510             | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC481440510SA           | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA48140            | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA48140              | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA48140            | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA48140              | Market Hotness: Hotness Score in Wausau, WI (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA48140            | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA48140              | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA48140            | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA48140              | Market Hotness: Hotness Score in Wausau, WI (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD48140                 | Implicit Regional Price Deflator for Wausau, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT554814000000003A     | Unemployment Rate in Wausau, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT554814000000004      | Unemployed Persons in Wausau, WI (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -31,46 +31,46 @@
 | LAUMT554814000000005      | Employed Persons in Wausau, WI (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT554814000000005A     | Employed Persons in Wausau, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT554814000000006A     | Civilian Labor Force in Wausau, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA48140          | Market Hotness: Listing Views per Property in Wausau, WI (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA48140        | Market Hotness: Listing Views per Property Versus the United States in Wausau, WI (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA48140          | Market Hotness: Listing Views per Property in Wausau, WI (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA48140        | Market Hotness: Median Days on Market in Wausau, WI (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA48140          | Market Hotness: Median Days on Market in Wausau, WI (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA48140        | Market Hotness: Median Days on Market in Wausau, WI (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR48140          | Housing Inventory: Median Days on Market in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM48140        | Housing Inventory: Median Days on Market Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY48140        | Housing Inventory: Median Days on Market Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI48140            | Housing Inventory: Median Listing Price in Wausau, WI (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM48140          | Housing Inventory: Median Listing Price Month-Over-Month in Wausau, WI (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE48140   | Housing Inventory: Median Listing Price per Square Feet in Wausau, WI (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM48140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Wausau, WI (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY48140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Wausau, WI (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY48140          | Housing Inventory: Median Listing Price Year-Over-Year in Wausau, WI (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA48140          | Market Hotness: Median Days on Market in Wausau, WI (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA48140          | Market Hotness: Median Days on Market Versus the United States in Wausau, WI (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA48140          | Market Hotness: Median Days on Market Day in Wausau, WI (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE48140            | Housing Inventory: Median Home Size in Square Feet in Wausau, WI (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM48140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Wausau, WI (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY48140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Wausau, WI (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA48140          | Market Hotness: Median Listing Price in Wausau, WI (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA48140            | Market Hotness: Median Listing Price in Wausau, WI (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA48140        | Market Hotness: Median Listing Price Versus the United States in Wausau, WI (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA48140          | Market Hotness: Median Listing Price in Wausau, WI (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU48140            | Housing Inventory: New Listing Count in Wausau, WI (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM48140          | Housing Inventory: New Listing Count Month-Over-Month in Wausau, WI (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY48140          | Housing Inventory: New Listing Count Year-Over-Year in Wausau, WI (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA48140          | Market Hotness: Listing Views per Property in Wausau, WI (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA48140        | Market Hotness: Listing Views per Property Versus the United States in Wausau, WI (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA48140          | Market Hotness: Listing Views per Property in Wausau, WI (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA48140        | Market Hotness: Median Days on Market in Wausau, WI (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA48140          | Market Hotness: Median Days on Market in Wausau, WI (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA48140        | Market Hotness: Median Days on Market in Wausau, WI (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR48140          | Housing Inventory: Median Days on Market in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM48140        | Housing Inventory: Median Days on Market Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY48140        | Housing Inventory: Median Days on Market Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI48140            | Housing Inventory: Median Listing Price in Wausau, WI (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM48140          | Housing Inventory: Median Listing Price Month-Over-Month in Wausau, WI (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE48140   | Housing Inventory: Median Listing Price per Square Feet in Wausau, WI (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM48140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Wausau, WI (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY48140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Wausau, WI (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY48140          | Housing Inventory: Median Listing Price Year-Over-Year in Wausau, WI (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA48140          | Market Hotness: Median Days on Market in Wausau, WI (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA48140          | Market Hotness: Median Days on Market Versus the United States in Wausau, WI (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA48140          | Market Hotness: Median Days on Market Day in Wausau, WI (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE48140            | Housing Inventory: Median Home Size in Square Feet in Wausau, WI (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM48140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Wausau, WI (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY48140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Wausau, WI (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA48140          | Market Hotness: Median Listing Price in Wausau, WI (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA48140            | Market Hotness: Median Listing Price in Wausau, WI (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA48140        | Market Hotness: Median Listing Price Versus the United States in Wausau, WI (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA48140          | Market Hotness: Median Listing Price in Wausau, WI (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU48140            | Housing Inventory: New Listing Count in Wausau, WI (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM48140          | Housing Inventory: New Listing Count Month-Over-Month in Wausau, WI (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY48140          | Housing Inventory: New Listing Count Year-Over-Year in Wausau, WI (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP48140                 | Total Gross Domestic Product for Wausau, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA48140            | Market Hotness: Nielsen Household Rank in Wausau, WI (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA48140            | Market Hotness: Nielsen Household Rank in Wausau, WI (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA148140          | U.S. Granted Utility Patents Originating in Wausau, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU48140            | Housing Inventory: Pending Listing Count in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM48140          | Housing Inventory: Pending Listing Count Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY48140          | Housing Inventory: Pending Listing Count Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU48140            | Housing Inventory: Price Increased Count in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM48140          | Housing Inventory: Price Increased Count Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2021-09-01        |
-| PRIINCCOUYY48140          | Housing Inventory: Price Increased Count Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU48140            | Housing Inventory: Price Reduced Count in Wausau, WI (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM48140          | Housing Inventory: Price Reduced Count Month-Over-Month in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY48140          | Housing Inventory: Price Reduced Count Year-Over-Year in Wausau, WI (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU48140            | Housing Inventory: Pending Listing Count in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM48140          | Housing Inventory: Pending Listing Count Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY48140          | Housing Inventory: Pending Listing Count Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU48140            | Housing Inventory: Price Increased Count in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM48140          | Housing Inventory: Price Increased Count Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-06-01        |
+| PRIINCCOUYY48140          | Housing Inventory: Price Increased Count Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU48140            | Housing Inventory: Price Reduced Count in Wausau, WI (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM48140          | Housing Inventory: Price Reduced Count Month-Over-Month in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY48140          | Housing Inventory: Price Reduced Count Year-Over-Year in Wausau, WI (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP48140                 | Total Quantity Indexes for Real GDP for Wausau, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP48140                 | Total Real Gross Domestic Product for Wausau, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI48140                  | Real Personal Income for Wausau, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -127,7 +127,7 @@
 | SMU55481409093000001      | All Employees: Government: Local Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-08-01        |
 | SMU55481409093000001A     | All Employees: Local Government in Wausau, WI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
 | SMU55481409093000001SA    | All Employees: Government: Local Government in Wausau, WI (MSA)                                             | 2001-01-01          | 2022-08-01        |
-| SUSCMSA48140              | Market Hotness: Supply Score in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA48140              | Market Hotness: Supply Score in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | WASPOP                    | Resident Population in Wausau, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | WAUS155EDUH               | All Employees: Education and Health Services in Wausau, WI (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | WAUS155EDUHN              | All Employees: Education and Health Services in Wausau, WI (MSA)                                            | 1990-01-01          | 2022-08-01        |

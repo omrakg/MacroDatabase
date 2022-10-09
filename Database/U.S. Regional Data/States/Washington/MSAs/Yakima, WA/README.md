@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU49420            | Housing Inventory: Active Listing Count in Yakima, WA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM49420          | Housing Inventory: Active Listing Count Month-Over-Month in Yakima, WA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY49420          | Housing Inventory: Active Listing Count Year-Over-Year in Yakima, WA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU49420            | Housing Inventory: Active Listing Count in Yakima, WA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM49420          | Housing Inventory: Active Listing Count Month-Over-Month in Yakima, WA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY49420          | Housing Inventory: Active Listing Count Year-Over-Year in Yakima, WA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS49420Q            | All-Transactions House Price Index for Yakima, WA (MSA)                                                     | 1985-10-01          | 2022-04-01        |
-| AVELISPRI49420            | Housing Inventory: Average Listing Price in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM49420          | Housing Inventory: Average Listing Price Month-Over-Month in Yakima, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY49420          | Housing Inventory: Average Listing Price Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA49420              | Market Hotness: Demand Score in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI49420            | Housing Inventory: Average Listing Price in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM49420          | Housing Inventory: Average Listing Price Month-Over-Month in Yakima, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY49420          | Housing Inventory: Average Listing Price Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA49420              | Market Hotness: Demand Score in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC494230010             | Total Quarterly Wages in Yakima, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC494230010SA           | Total Quarterly Wages in Yakima, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC494240010             | Average Weekly Wages for Employees in Total Covered Establishments in Yakima, WA (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC494240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC494240510             | Average Weekly Wages for Employees in Private Establishments in Yakima, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC494240510SA           | Average Weekly Wages for Employees in Private Establishments in Yakima, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA49420            | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA49420              | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA49420            | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA49420              | Market Hotness: Hotness Score in Yakima, WA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA49420            | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA49420              | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA49420            | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA49420              | Market Hotness: Hotness Score in Yakima, WA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD49420                 | Implicit Regional Price Deflator for Yakima, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT534942000000003A     | Unemployment Rate in Yakima, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT534942000000004      | Unemployed Persons in Yakima, WA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -31,46 +31,46 @@
 | LAUMT534942000000005      | Employed Persons in Yakima, WA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT534942000000005A     | Employed Persons in Yakima, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT534942000000006A     | Civilian Labor Force in Yakima, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA49420          | Market Hotness: Listing Views per Property in Yakima, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA49420        | Market Hotness: Listing Views per Property Versus the United States in Yakima, WA (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA49420          | Market Hotness: Listing Views per Property in Yakima, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA49420        | Market Hotness: Median Days on Market in Yakima, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA49420          | Market Hotness: Median Days on Market in Yakima, WA (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA49420        | Market Hotness: Median Days on Market in Yakima, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR49420          | Housing Inventory: Median Days on Market in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM49420        | Housing Inventory: Median Days on Market Month-Over-Month in Yakima, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY49420        | Housing Inventory: Median Days on Market Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI49420            | Housing Inventory: Median Listing Price in Yakima, WA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM49420          | Housing Inventory: Median Listing Price Month-Over-Month in Yakima, WA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE49420   | Housing Inventory: Median Listing Price per Square Feet in Yakima, WA (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM49420 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Yakima, WA (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY49420 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Yakima, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY49420          | Housing Inventory: Median Listing Price Year-Over-Year in Yakima, WA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA49420          | Market Hotness: Median Days on Market in Yakima, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA49420          | Market Hotness: Median Days on Market Versus the United States in Yakima, WA (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA49420          | Market Hotness: Median Days on Market Day in Yakima, WA (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE49420            | Housing Inventory: Median Home Size in Square Feet in Yakima, WA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM49420          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Yakima, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY49420          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Yakima, WA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA49420          | Market Hotness: Median Listing Price in Yakima, WA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA49420            | Market Hotness: Median Listing Price in Yakima, WA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA49420        | Market Hotness: Median Listing Price Versus the United States in Yakima, WA (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA49420          | Market Hotness: Median Listing Price in Yakima, WA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU49420            | Housing Inventory: New Listing Count in Yakima, WA (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM49420          | Housing Inventory: New Listing Count Month-Over-Month in Yakima, WA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY49420          | Housing Inventory: New Listing Count Year-Over-Year in Yakima, WA (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA49420          | Market Hotness: Listing Views per Property in Yakima, WA (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA49420        | Market Hotness: Listing Views per Property Versus the United States in Yakima, WA (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA49420          | Market Hotness: Listing Views per Property in Yakima, WA (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA49420        | Market Hotness: Median Days on Market in Yakima, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA49420          | Market Hotness: Median Days on Market in Yakima, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA49420        | Market Hotness: Median Days on Market in Yakima, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR49420          | Housing Inventory: Median Days on Market in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM49420        | Housing Inventory: Median Days on Market Month-Over-Month in Yakima, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY49420        | Housing Inventory: Median Days on Market Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI49420            | Housing Inventory: Median Listing Price in Yakima, WA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM49420          | Housing Inventory: Median Listing Price Month-Over-Month in Yakima, WA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE49420   | Housing Inventory: Median Listing Price per Square Feet in Yakima, WA (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM49420 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Yakima, WA (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY49420 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Yakima, WA (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY49420          | Housing Inventory: Median Listing Price Year-Over-Year in Yakima, WA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA49420          | Market Hotness: Median Days on Market in Yakima, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA49420          | Market Hotness: Median Days on Market Versus the United States in Yakima, WA (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA49420          | Market Hotness: Median Days on Market Day in Yakima, WA (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE49420            | Housing Inventory: Median Home Size in Square Feet in Yakima, WA (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM49420          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Yakima, WA (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY49420          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Yakima, WA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA49420          | Market Hotness: Median Listing Price in Yakima, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA49420            | Market Hotness: Median Listing Price in Yakima, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA49420        | Market Hotness: Median Listing Price Versus the United States in Yakima, WA (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA49420          | Market Hotness: Median Listing Price in Yakima, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU49420            | Housing Inventory: New Listing Count in Yakima, WA (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM49420          | Housing Inventory: New Listing Count Month-Over-Month in Yakima, WA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY49420          | Housing Inventory: New Listing Count Year-Over-Year in Yakima, WA (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP49420                 | Total Gross Domestic Product for Yakima, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA49420            | Market Hotness: Nielsen Household Rank in Yakima, WA (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA49420            | Market Hotness: Nielsen Household Rank in Yakima, WA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA149420          | U.S. Granted Utility Patents Originating in Yakima, WA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU49420            | Housing Inventory: Pending Listing Count in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM49420          | Housing Inventory: Pending Listing Count Month-Over-Month in Yakima, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY49420          | Housing Inventory: Pending Listing Count Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU49420            | Housing Inventory: Price Increased Count in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM49420          | Housing Inventory: Price Increased Count Month-Over-Month in Yakima, WA (CBSA)                              | 2017-08-01          | 2022-08-01        |
-| PRIINCCOUYY49420          | Housing Inventory: Price Increased Count Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU49420            | Housing Inventory: Price Reduced Count in Yakima, WA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM49420          | Housing Inventory: Price Reduced Count Month-Over-Month in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY49420          | Housing Inventory: Price Reduced Count Year-Over-Year in Yakima, WA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU49420            | Housing Inventory: Pending Listing Count in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM49420          | Housing Inventory: Pending Listing Count Month-Over-Month in Yakima, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY49420          | Housing Inventory: Pending Listing Count Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU49420            | Housing Inventory: Price Increased Count in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM49420          | Housing Inventory: Price Increased Count Month-Over-Month in Yakima, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY49420          | Housing Inventory: Price Increased Count Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU49420            | Housing Inventory: Price Reduced Count in Yakima, WA (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM49420          | Housing Inventory: Price Reduced Count Month-Over-Month in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY49420          | Housing Inventory: Price Reduced Count Year-Over-Year in Yakima, WA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP49420                 | Total Quantity Indexes for Real GDP for Yakima, WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP49420                 | Total Real Gross Domestic Product for Yakima, WA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI49420                  | Real Personal Income for Yakima, WA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -133,7 +133,7 @@
 | SMU53494209093000001      | All Employees: Government: Local Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU53494209093000001A     | All Employees: Local Government in Yakima, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU53494209093000001SA    | All Employees: Government: Local Government in Yakima, WA (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA49420              | Market Hotness: Supply Score in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA49420              | Market Hotness: Supply Score in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | YAKI453EDUH               | All Employees: Education and Health Services in Yakima, WA (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | YAKI453EDUHN              | All Employees: Education and Health Services in Yakima, WA (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | YAKI453GOVT               | All Employees: Government in Yakima, WA (MSA)                                                               | 1990-01-01          | 2022-08-01        |

@@ -84,7 +84,7 @@
 | Clinch County, GA        |                87 |
 | Crawford County, GA      |                89 |
 | Long County, GA          |                88 |
-| Coweta County, GA        |               146 |
+| Coweta County, GA        |                 0 |
 | Miller County, GA        |                87 |
 | Stewart County, GA       |                87 |
 | Jones County, GA         |                90 |
@@ -103,7 +103,7 @@
 | Fannin County, GA        |                90 |
 | Dooly County, GA         |                89 |
 | Union County, GA         |                90 |
-| Barrow County, GA        |                 0 |
+| Barrow County, GA        |               147 |
 | Cook County, GA          |                89 |
 | Paulding County, GA      |               147 |
 | Jefferson County, GA     |                89 |
@@ -144,7 +144,7 @@
 | Wayne County, GA         |                89 |
 | Richmond County, GA      |               146 |
 | Cherokee County, GA      |               147 |
-| Taylor County, GA        |                88 |
+| Taylor County, GA        |                 0 |
 | Walker County, GA        |               146 |
 | Washington County, GA    |                89 |
 | Putnam County, GA        |                90 |

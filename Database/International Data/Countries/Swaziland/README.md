@@ -66,7 +66,7 @@
 | DDSI07SZA156NWDB    | Provisions to Non-Performing Loans for Swaziland                                                                              | 2003-01-01          | 2019-01-01        |
 | DEBTTLSZA188A       | Central government debt, total (% of GDP) for Swaziland                                                                       | 1999-01-01          | 2012-01-01        |
 | DESWZA475SCEN       | Number of Identified Exporters to Swaziland from Delaware                                                                     | 2002-01-01          | 2015-01-01        |
-| EXP7950             | U.S. Exports of Goods by F.A.S. Basis to Swaziland                                                                            | 1992-01-01          | 2022-07-01        |
+| EXP7950             | U.S. Exports of Goods by F.A.S. Basis to Swaziland                                                                            | 1992-01-01          | 2022-08-01        |
 | FLSWZA052SCEN       | Value of Exports to Swaziland from Florida                                                                                    | 1997-01-01          | 2017-01-01        |
 | FLSWZA475SCEN       | Number of Identified Exporters to Swaziland from Florida                                                                      | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSWZ      | Inflation, consumer prices for Swaziland                                                                                      | 1966-01-01          | 2019-01-01        |
@@ -79,7 +79,7 @@
 | IDSWZA475SCEN       | Number of Identified Exporters to Swaziland from Idaho                                                                        | 2004-01-01          | 2016-01-01        |
 | ILSWZA052SCEN       | Value of Exports to Swaziland from Illinois                                                                                   | 1997-01-01          | 2017-01-01        |
 | ILSWZA475SCEN       | Number of Identified Exporters to Swaziland from Illinois                                                                     | 1992-01-01          | 2017-01-01        |
-| IMP7950             | U.S. Imports of Goods by Customs Basis from Swaziland                                                                         | 1992-01-01          | 2022-07-01        |
+| IMP7950             | U.S. Imports of Goods by Customs Basis from Swaziland                                                                         | 1992-01-01          | 2022-08-01        |
 | INSWZA052SCEN       | Value of Exports to Swaziland from Indiana                                                                                    | 2004-01-01          | 2017-01-01        |
 | INSWZA475SCEN       | Number of Identified Exporters to Swaziland from Indiana                                                                      | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2SWZ      | Internet users for Swaziland                                                                                                  | 1990-01-01          | 2017-01-01        |
@@ -148,37 +148,37 @@
 | SWZDGGDPPT          | Official External Debt: Debtor Based for Swaziland                                                                            | 2004-01-01          | 2023-01-01        |
 | SWZENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Swaziland                                                | 2004-01-01          | 2021-01-01        |
 | SWZEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Swaziland                                                   | 2004-01-01          | 2021-01-01        |
-| SWZFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Swaziland                                                   | 2004-01-01          | 2020-01-01        |
-| SWZFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Swaziland                                 | 2004-01-01          | 2020-01-01        |
-| SWZFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Swaziland                                                         | 2004-01-01          | 2020-01-01        |
+| SWZFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Swaziland                                                   | 2004-01-01          | 2021-01-01        |
+| SWZFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Swaziland                                 | 2004-01-01          | 2021-01-01        |
+| SWZFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Swaziland                                                         | 2004-01-01          | 2021-01-01        |
 | SWZFCAODCANUM       | Use of Financial Services: Key Indicators, Deposit Accounts with Commercial Banks Per 1000 Adults for Swaziland               | 2011-01-01          | 2020-01-01        |
 | SWZFCAODCNUM        | Use of Financial Services Deposit Accounts: Accounts at Commercial Banks for Swaziland                                        | 2011-01-01          | 2020-01-01        |
-| SWZFCBODCANUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Swaziland                               | 2004-01-01          | 2020-01-01        |
-| SWZFCBODCKNUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Swaziland                                     | 2004-01-01          | 2020-01-01        |
-| SWZFCBODCNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Swaziland                         | 2004-01-01          | 2020-01-01        |
-| SWZFCBODDNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Deposit Takers for Swaziland                     | 2004-01-01          | 2020-01-01        |
+| SWZFCBODCANUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Swaziland                               | 2004-01-01          | 2021-01-01        |
+| SWZFCBODCKNUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Swaziland                                     | 2004-01-01          | 2021-01-01        |
+| SWZFCBODCNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Swaziland                         | 2004-01-01          | 2021-01-01        |
+| SWZFCBODDNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Deposit Takers for Swaziland                     | 2004-01-01          | 2021-01-01        |
 | SWZFCDODCANUM       | Use of Financial Services: Key Indicators, Depositors with Commercial Banks Per 1000 Adults for Swaziland                     | 2004-01-01          | 2020-01-01        |
 | SWZFCDODCPENUM      | Use of Financial Services: Number of Depositors at Commercial Banks for Swaziland                                             | 2004-01-01          | 2020-01-01        |
 | SWZFCDODDSPENUM     | Use of Financial Services: Number of Depositors which are Small and Medium Enterprises at Other Deposit Takers for Swaziland  | 2004-01-01          | 2014-01-01        |
-| SWZFCIODCNUM        | Geographical Outreach: Number of Commercial Banks for Swaziland                                                               | 2004-01-01          | 2020-01-01        |
-| SWZFCIODDNUM        | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Swaziland              | 2004-01-01          | 2020-01-01        |
-| SWZFCIOFINUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Swaziland             | 2004-01-01          | 2020-01-01        |
-| SWZFCLODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Swaziland                           | 2004-01-01          | 2020-01-01        |
-| SWZFCLODCXDC        | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Swaziland                                | 2004-01-01          | 2020-01-01        |
+| SWZFCIODCNUM        | Geographical Outreach: Number of Commercial Banks for Swaziland                                                               | 2004-01-01          | 2021-01-01        |
+| SWZFCIODDNUM        | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Swaziland              | 2004-01-01          | 2021-01-01        |
+| SWZFCIOFINUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Swaziland             | 2004-01-01          | 2021-01-01        |
+| SWZFCLODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Swaziland                           | 2004-01-01          | 2021-01-01        |
+| SWZFCLODCXDC        | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Swaziland                                | 2004-01-01          | 2021-01-01        |
 | SWZFCLODDXDC        | Use of Financial Services, Liabilities: Outstanding Deposits at Other Deposit Takers for Swaziland                            | 2019-01-01          | 2020-01-01        |
-| SWZFCMARANUM        | Use of Financial Services: Key Indicators Registered Mobile Money Accounts Per 1000 Adults for Swaziland                      | 2011-01-01          | 2020-01-01        |
-| SWZFCMARNUM         | Use of Financial Services, Mobile Banking: Registered Number of Mobile Money Accounts for Swaziland                           | 2011-01-01          | 2020-01-01        |
+| SWZFCMARANUM        | Use of Financial Services: Key Indicators Registered Mobile Money Accounts Per 1000 Adults for Swaziland                      | 2011-01-01          | 2021-01-01        |
+| SWZFCMARNUM         | Use of Financial Services, Mobile Banking: Registered Number of Mobile Money Accounts for Swaziland                           | 2011-01-01          | 2021-01-01        |
 | SWZFCMORANUM        | Geographical Outreach: Key Indicators, Mobile Banking, Registered Agent Outlets Per 100,000 Adults for Swaziland              | 2011-01-01          | 2020-01-01        |
 | SWZFCMORKNUM        | Geographical Outreach: Key Indicators, Mobile Banking, Registered Agent Outlets Per 1000 Km2 for Swaziland                    | 2011-01-01          | 2020-01-01        |
 | SWZFCMORNUM         | Geographical Outreach, Mobile Banking: Registered Number of Agent Outlets for Swaziland                                       | 2011-01-01          | 2020-01-01        |
-| SWZFCMTANUM         | Use of Financial Services: Key Indicators Mobile Money Transactions (during the Reference Year) Per 1000 Adults for Swaziland | 2011-01-01          | 2020-01-01        |
-| SWZFCMTNUM          | Use of Financial Services, Mobile Banking: Number of Mobile Money Transactions (during the Reference Year) for Swaziland      | 2011-01-01          | 2020-01-01        |
+| SWZFCMTANUM         | Use of Financial Services: Key Indicators Mobile Money Transactions (during the Reference Year) Per 1000 Adults for Swaziland | 2011-01-01          | 2021-01-01        |
+| SWZFCMTNUM          | Use of Financial Services, Mobile Banking: Number of Mobile Money Transactions (during the Reference Year) for Swaziland      | 2011-01-01          | 2021-01-01        |
 | SWZFCMTVGGDPPT      | Use of Financial Services: Key Indicators, Value of Mobile Money Transactions During the Reference Year for Swaziland         | 2011-01-01          | 2020-01-01        |
 | SWZFCMTVXDC         | Use of Financial Services, Mobile Banking: Value of Mobile Money Transactions (during the Reference Year) for Swaziland       | 2011-01-01          | 2020-01-01        |
-| SWZFCNODCANUM       | Use of Financial Services: Key Indicators, Loan Accounts with Commercial Banks Per 1,000 Adults for Swaziland                 | 2011-01-01          | 2020-01-01        |
-| SWZFCNODCNUM        | Use of Financial Services: Number of Loan Accounts at Commercial Banks for Swaziland                                          | 2011-01-01          | 2020-01-01        |
-| SWZFCRODCANUM       | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for Swaziland                      | 2004-01-01          | 2020-01-01        |
-| SWZFCRODCPENUM      | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Swaziland                                    | 2004-01-01          | 2020-01-01        |
+| SWZFCNODCANUM       | Use of Financial Services: Key Indicators, Loan Accounts with Commercial Banks Per 1,000 Adults for Swaziland                 | 2011-01-01          | 2021-01-01        |
+| SWZFCNODCNUM        | Use of Financial Services: Number of Loan Accounts at Commercial Banks for Swaziland                                          | 2011-01-01          | 2021-01-01        |
+| SWZFCRODCANUM       | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for Swaziland                      | 2004-01-01          | 2021-01-01        |
+| SWZFCRODCPENUM      | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Swaziland                                    | 2004-01-01          | 2021-01-01        |
 | SWZFCRODDPENUM      | Use of Financial Services Borrowers: Persons Borrowing from Other Deposit Takers for Swaziland                                | 2004-01-01          | 2017-01-01        |
 | SWZFCSODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Swaziland                              | 2004-01-01          | 2020-01-01        |
 | SWZFCSODCXDC        | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Swaziland                                        | 2004-01-01          | 2020-01-01        |

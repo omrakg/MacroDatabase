@@ -21,7 +21,7 @@
 | OECD Total                                                         |               136 |
 | Advanced Economies                                                 |                 6 |
 | International Monetary Fund                                        |                 8 |
-| Bureau of Labor Statistics Asian Newly Industrialized Countries    |                10 |
+| Bureau of Labor Statistics Asian Newly Industrialized Countries    |                 0 |
 | Bureau of Labor Statistics Industrialized Countries                |                40 |
 | OECD - Europe                                                      |                89 |
 | Bureau of Labor Statistics Latin America                           |                17 |

@@ -1,14 +1,14 @@
 | id                        | title                                                                                                                           | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU25060            | Housing Inventory: Active Listing Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM25060          | Housing Inventory: Active Listing Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY25060          | Housing Inventory: Active Listing Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU25060            | Housing Inventory: Active Listing Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM25060          | Housing Inventory: Active Listing Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY25060          | Housing Inventory: Active Listing Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS25060Q            | All-Transactions House Price Index for Gulfport-Biloxi, MS (MSA)                                                                | 1986-07-01          | 2022-04-01        |
-| AVELISPRI25060            | Housing Inventory: Average Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM25060          | Housing Inventory: Average Listing Price Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY25060          | Housing Inventory: Average Listing Price Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI25060            | Housing Inventory: Average Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM25060          | Housing Inventory: Average Listing Price Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY25060          | Housing Inventory: Average Listing Price Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | BLXPOP                    | Resident Population in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| DESCMSA25060              | Market Hotness: Demand Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| DESCMSA25060              | Market Hotness: Demand Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC250630010             | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC250630010SA           | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC250640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2022-01-01        |
@@ -38,10 +38,10 @@
 | GULF028TRADN              | All Employees: Trade, Transportation, and Utilities in Gulfport-Biloxi-Pascagoula, MS (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | GULF028UR                 | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | GULF028URN                | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| HORAMMMSA25060            | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA25060              | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA25060            | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA25060              | Market Hotness: Hotness Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA25060            | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA25060              | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA25060            | Market Hotness: Hotness Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA25060              | Market Hotness: Hotness Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD25060                 | Implicit Regional Price Deflator for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT282506000000003A     | Unemployment Rate in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT282506000000004      | Unemployed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -49,46 +49,46 @@
 | LAUMT282506000000005      | Employed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT282506000000005A     | Employed Persons in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT282506000000006A     | Civilian Labor Force in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA25060          | Market Hotness: Listing Views per Property in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA25060        | Market Hotness: Listing Views per Property Versus the United States in Gulfport-Biloxi-Pascagoula, MS (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA25060          | Market Hotness: Listing Views per Property in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA25060        | Market Hotness: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA25060          | Market Hotness: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA25060        | Market Hotness: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR25060          | Housing Inventory: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM25060        | Housing Inventory: Median Days on Market Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY25060        | Housing Inventory: Median Days on Market Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI25060            | Housing Inventory: Median Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM25060          | Housing Inventory: Median Listing Price Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE25060   | Housing Inventory: Median Listing Price per Square Feet in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM25060 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY25060 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY25060          | Housing Inventory: Median Listing Price Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA25060          | Market Hotness: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA25060          | Market Hotness: Median Days on Market Versus the United States in Gulfport-Biloxi-Pascagoula, MS (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA25060          | Market Hotness: Median Days on Market Day in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE25060            | Housing Inventory: Median Home Size in Square Feet in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM25060          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY25060          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA25060          | Market Hotness: Median Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA25060            | Market Hotness: Median Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA25060        | Market Hotness: Median Listing Price Versus the United States in Gulfport-Biloxi-Pascagoula, MS (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA25060          | Market Hotness: Median Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU25060            | Housing Inventory: New Listing Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM25060          | Housing Inventory: New Listing Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY25060          | Housing Inventory: New Listing Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA25060          | Market Hotness: Listing Views per Property in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA25060        | Market Hotness: Listing Views per Property Versus the United States in Gulfport-Biloxi-Pascagoula, MS (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA25060          | Market Hotness: Listing Views per Property in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA25060        | Market Hotness: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA25060          | Market Hotness: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA25060        | Market Hotness: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR25060          | Housing Inventory: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM25060        | Housing Inventory: Median Days on Market Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY25060        | Housing Inventory: Median Days on Market Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI25060            | Housing Inventory: Median Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM25060          | Housing Inventory: Median Listing Price Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE25060   | Housing Inventory: Median Listing Price per Square Feet in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM25060 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY25060 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY25060          | Housing Inventory: Median Listing Price Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA25060          | Market Hotness: Median Days on Market in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA25060          | Market Hotness: Median Days on Market Versus the United States in Gulfport-Biloxi-Pascagoula, MS (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA25060          | Market Hotness: Median Days on Market Day in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE25060            | Housing Inventory: Median Home Size in Square Feet in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM25060          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY25060          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA25060          | Market Hotness: Median Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA25060            | Market Hotness: Median Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA25060        | Market Hotness: Median Listing Price Versus the United States in Gulfport-Biloxi-Pascagoula, MS (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA25060          | Market Hotness: Median Listing Price in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU25060            | Housing Inventory: New Listing Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM25060          | Housing Inventory: New Listing Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY25060          | Housing Inventory: New Listing Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP25060                 | Total Gross Domestic Product for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA25060            | Market Hotness: Nielsen Household Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA25060            | Market Hotness: Nielsen Household Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA125060          | U.S. Granted Utility Patents Originating in Gulfport-Biloxi, MS (MSA)                                                           | 2000-01-01          | 2015-01-01        |
-| PENLISCOU25060            | Housing Inventory: Pending Listing Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM25060          | Housing Inventory: Pending Listing Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY25060          | Housing Inventory: Pending Listing Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU25060            | Housing Inventory: Price Increased Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM25060          | Housing Inventory: Price Increased Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY25060          | Housing Inventory: Price Increased Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU25060            | Housing Inventory: Price Reduced Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM25060          | Housing Inventory: Price Reduced Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY25060          | Housing Inventory: Price Reduced Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU25060            | Housing Inventory: Pending Listing Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM25060          | Housing Inventory: Pending Listing Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY25060          | Housing Inventory: Pending Listing Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU25060            | Housing Inventory: Price Increased Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM25060          | Housing Inventory: Price Increased Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY25060          | Housing Inventory: Price Increased Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU25060            | Housing Inventory: Price Reduced Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM25060          | Housing Inventory: Price Reduced Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY25060          | Housing Inventory: Price Reduced Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP25060                 | Total Quantity Indexes for Real GDP for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP25060                 | Total Real Gross Domestic Product for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI25060                  | Real Personal Income for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -159,4 +159,4 @@
 | SMU28250609093161101      | All Employees: Government: Local Government Educational Services in Gulfport-Biloxi-Pascagoula, MS (MSA)                        | 2001-01-01          | 2022-08-01        |
 | SMU28250609093161101A     | All Employees: Local Government Educational Services in Gulfport-Biloxi-Pascagoula, MS (MSA)                                    | 2001-01-01          | 2021-01-01        |
 | SMU28250609093161101SA    | All Employees: Government: Local Government Educational Services in Gulfport-Biloxi-Pascagoula, MS (MSA)                        | 2001-01-01          | 2022-08-01        |
-| SUSCMSA25060              | Market Hotness: Supply Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA25060              | Market Hotness: Supply Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

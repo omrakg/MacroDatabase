@@ -14,28 +14,28 @@
 | AITGEOS     | Advance U.S. International Trade in Goods: Exports: Other Goods                                | 2022-08-01          | 2022-08-01        |
 | AITGEXN     | Advance U.S. International Trade in Goods: Exports                                             | 2022-08-01          | 2022-08-01        |
 | AITGEXS     | Advance U.S. International Trade in Goods: Exports                                             | 2022-08-01          | 2022-08-01        |
-| BOPGEXP     | Exports of Goods, Balance of Payments Basis                                                    | 1992-01-01          | 2022-07-01        |
-| BOPSEXP     | Exports of Services, Balance of Payments Basis                                                 | 1992-01-01          | 2022-07-01        |
-| BOPTEXP     | Exports of Goods and Services, Balance of Payments Basis                                       | 1992-01-01          | 2022-07-01        |
+| BOPGEXP     | Exports of Goods, Balance of Payments Basis                                                    | 1992-01-01          | 2022-08-01        |
+| BOPSEXP     | Exports of Services, Balance of Payments Basis                                                 | 1992-01-01          | 2022-08-01        |
+| BOPTEXP     | Exports of Goods and Services, Balance of Payments Basis                                       | 1992-01-01          | 2022-08-01        |
 | BOXTVLM133S | U.S. Exports of Services - Travel                                                              | 1992-01-01          | 2017-09-01        |
 | BOXVMPM133S | U.S. Exports of Services - Passenger Fares                                                     | 1992-01-01          | 2017-09-01        |
-| EXPCA       | U.S. Exports of Goods by F.A.S. Basis to Canada                                                | 1985-01-01          | 2022-07-01        |
-| EXPCH       | U.S. Exports of Goods by F.A.S. Basis to Mainland China                                        | 1985-01-01          | 2022-07-01        |
-| EXPFR       | U.S. Exports of Goods by F.A.S. Basis to France                                                | 1985-01-01          | 2022-07-01        |
-| EXPGE       | U.S. Exports of Goods by F.A.S. Basis to Germany                                               | 1985-01-01          | 2022-07-01        |
-| EXPJP       | U.S. Exports of Goods by F.A.S. Basis to Japan                                                 | 1985-01-01          | 2022-07-01        |
-| EXPKR       | U.S. Exports of Goods by F.A.S. Basis to South Korea                                           | 1985-01-01          | 2022-07-01        |
-| EXPMANPR    | Exports of Goods: Manufactured Commodities for Puerto Rico                                     | 1995-08-01          | 2022-07-01        |
-| EXPMANUS    | Exports of Goods: Manufactured Commodities for United States                                   | 1995-08-01          | 2022-07-01        |
-| EXPMANVI    | Exports of Goods: Manufactured Commodities for U.S. Virgin Islands                             | 1995-08-01          | 2022-07-01        |
-| EXPMX       | U.S. Exports of Goods by F.A.S. Basis to Mexico                                                | 1985-01-01          | 2022-07-01        |
-| EXPNONPR    | Exports of Goods: Non-Manufactured Commodities for Puerto Rico                                 | 1995-08-01          | 2022-07-01        |
-| EXPNONUS    | Exports of Goods: Non-Manufactured Commodities for United States                               | 1995-08-01          | 2022-07-01        |
-| EXPNONVI    | Exports of Goods: Non-Manufactured Commodities for U.S. Virgin Islands                         | 1995-08-01          | 2022-07-01        |
-| EXPTOTPR    | Exports of Goods for Puerto Rico                                                               | 1995-08-01          | 2022-07-01        |
-| EXPTOTUS    | Exports of Goods for United States                                                             | 1995-08-01          | 2022-07-01        |
-| EXPTOTVI    | Exports of Goods for U.S. Virgin Islands                                                       | 1995-08-01          | 2022-07-01        |
-| EXPUK       | U.S. Exports of Goods by F.A.S. Basis to the United Kingdom                                    | 1985-01-01          | 2022-07-01        |
+| EXPCA       | U.S. Exports of Goods by F.A.S. Basis to Canada                                                | 1985-01-01          | 2022-08-01        |
+| EXPCH       | U.S. Exports of Goods by F.A.S. Basis to Mainland China                                        | 1985-01-01          | 2022-08-01        |
+| EXPFR       | U.S. Exports of Goods by F.A.S. Basis to France                                                | 1985-01-01          | 2022-08-01        |
+| EXPGE       | U.S. Exports of Goods by F.A.S. Basis to Germany                                               | 1985-01-01          | 2022-08-01        |
+| EXPJP       | U.S. Exports of Goods by F.A.S. Basis to Japan                                                 | 1985-01-01          | 2022-08-01        |
+| EXPKR       | U.S. Exports of Goods by F.A.S. Basis to South Korea                                           | 1985-01-01          | 2022-08-01        |
+| EXPMANPR    | Exports of Goods: Manufactured Commodities for Puerto Rico                                     | 1995-08-01          | 2022-08-01        |
+| EXPMANUS    | Exports of Goods: Manufactured Commodities for United States                                   | 1995-08-01          | 2022-08-01        |
+| EXPMANVI    | Exports of Goods: Manufactured Commodities for U.S. Virgin Islands                             | 1995-08-01          | 2022-08-01        |
+| EXPMX       | U.S. Exports of Goods by F.A.S. Basis to Mexico                                                | 1985-01-01          | 2022-08-01        |
+| EXPNONPR    | Exports of Goods: Non-Manufactured Commodities for Puerto Rico                                 | 1995-08-01          | 2022-08-01        |
+| EXPNONUS    | Exports of Goods: Non-Manufactured Commodities for United States                               | 1995-08-01          | 2022-08-01        |
+| EXPNONVI    | Exports of Goods: Non-Manufactured Commodities for U.S. Virgin Islands                         | 1995-08-01          | 2022-08-01        |
+| EXPTOTPR    | Exports of Goods for Puerto Rico                                                               | 1995-08-01          | 2022-08-01        |
+| EXPTOTUS    | Exports of Goods for United States                                                             | 1995-08-01          | 2022-08-01        |
+| EXPTOTVI    | Exports of Goods for U.S. Virgin Islands                                                       | 1995-08-01          | 2022-08-01        |
+| EXPUK       | U.S. Exports of Goods by F.A.S. Basis to the United Kingdom                                    | 1985-01-01          | 2022-08-01        |
 | IEAX        | Exports of goods and services and income receipts (credits)                                    | 1999-01-01          | 2022-04-01        |
 | IEAXA       | Exports of goods and services and income receipts (credits)                                    | 1999-01-01          | 2021-01-01        |
 | IEAXG       | Exports of Goods                                                                               | 1999-01-01          | 2022-04-01        |
@@ -102,12 +102,12 @@
 | IEAXSTV     | Exports of Services: Travel (for all purposes including education)                             | 1999-01-01          | 2022-04-01        |
 | IEAXSTVA    | Exports of Services: Travel (for all purposes including education)                             | 1999-01-01          | 2021-01-01        |
 | IEAXSTVN    | Exports of Services: Travel (for all purposes including education)                             | 1999-01-01          | 2022-04-01        |
-| ITXCIPM133S | U.S. Exports of Services: Charges for the Use of Intellectual Property, not included elsewhere | 1999-01-01          | 2022-07-01        |
-| ITXFISM133S | U.S. Exports of Services: Financial Services                                                   | 1999-01-01          | 2022-07-01        |
-| ITXGGSM133S | U.S. Exports of Services: Government Goods and Services, not included elsewhere                | 1999-01-01          | 2022-07-01        |
-| ITXINSM133S | U.S. Exports of Services: Insurance Services                                                   | 1999-01-01          | 2022-07-01        |
-| ITXMARM133S | U.S. Exports of Services: Maintenance and Repair Services, not included elsewhere              | 1999-01-01          | 2022-07-01        |
-| ITXOBSM133S | U.S. Exports of Services: Other Business Services                                              | 1999-01-01          | 2022-07-01        |
-| ITXTAEM133S | U.S. Exports of Services: Travel (for All Purposes Including Education)                        | 1999-01-01          | 2022-07-01        |
-| ITXTCIM133S | U.S. Exports of Services: Telecommunications, Computer, and Information Services               | 1999-01-01          | 2022-07-01        |
-| ITXTRAM133S | U.S. Exports of Services: Transport                                                            | 1999-01-01          | 2022-07-01        |
+| ITXCIPM133S | U.S. Exports of Services: Charges for the Use of Intellectual Property, not included elsewhere | 1999-01-01          | 2022-08-01        |
+| ITXFISM133S | U.S. Exports of Services: Financial Services                                                   | 1999-01-01          | 2022-08-01        |
+| ITXGGSM133S | U.S. Exports of Services: Government Goods and Services, not included elsewhere                | 1999-01-01          | 2022-08-01        |
+| ITXINSM133S | U.S. Exports of Services: Insurance Services                                                   | 1999-01-01          | 2022-08-01        |
+| ITXMARM133S | U.S. Exports of Services: Maintenance and Repair Services, not included elsewhere              | 1999-01-01          | 2022-08-01        |
+| ITXOBSM133S | U.S. Exports of Services: Other Business Services                                              | 1999-01-01          | 2022-08-01        |
+| ITXTAEM133S | U.S. Exports of Services: Travel (for All Purposes Including Education)                        | 1999-01-01          | 2022-08-01        |
+| ITXTCIM133S | U.S. Exports of Services: Telecommunications, Computer, and Information Services               | 1999-01-01          | 2022-08-01        |
+| ITXTRAM133S | U.S. Exports of Services: Transport                                                            | 1999-01-01          | 2022-08-01        |

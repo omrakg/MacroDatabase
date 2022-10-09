@@ -1,12 +1,12 @@
 | id                        | title                                                                                            | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU48300            | Housing Inventory: Active Listing Count in Wenatchee, WA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM48300          | Housing Inventory: Active Listing Count Month-Over-Month in Wenatchee, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY48300          | Housing Inventory: Active Listing Count Year-Over-Year in Wenatchee, WA (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU48300            | Housing Inventory: Active Listing Count in Wenatchee, WA (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM48300          | Housing Inventory: Active Listing Count Month-Over-Month in Wenatchee, WA (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY48300          | Housing Inventory: Active Listing Count Year-Over-Year in Wenatchee, WA (CBSA)                   | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS48300Q            | All-Transactions House Price Index for Wenatchee-East Wenatchee-East Wenatchee, WA (MSA)         | 1978-07-01          | 2022-04-01        |
-| AVELISPRI48300            | Housing Inventory: Average Listing Price in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM48300          | Housing Inventory: Average Listing Price Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY48300          | Housing Inventory: Average Listing Price Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| AVELISPRI48300            | Housing Inventory: Average Listing Price in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM48300          | Housing Inventory: Average Listing Price Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY48300          | Housing Inventory: Average Listing Price Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-09-01        |
 | ENUC483030010             | Total Quarterly Wages in Wenatchee, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC483030010SA           | Total Quarterly Wages in Wenatchee, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC483040010             | Average Weekly Wages for Employees in Total Covered Establishments in Wenatchee, WA (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -26,32 +26,32 @@
 | LAUMT534830000000005      | Employed Persons in Wenatchee, WA (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT534830000000005A     | Employed Persons in Wenatchee, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT534830000000006A     | Civilian Labor Force in Wenatchee, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR48300          | Housing Inventory: Median Days on Market in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM48300        | Housing Inventory: Median Days on Market Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY48300        | Housing Inventory: Median Days on Market Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI48300            | Housing Inventory: Median Listing Price in Wenatchee, WA (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM48300          | Housing Inventory: Median Listing Price Month-Over-Month in Wenatchee, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE48300   | Housing Inventory: Median Listing Price per Square Feet in Wenatchee, WA (CBSA)                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM48300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Wenatchee, WA (CBSA) | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY48300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Wenatchee, WA (CBSA)   | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY48300          | Housing Inventory: Median Listing Price Year-Over-Year in Wenatchee, WA (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE48300            | Housing Inventory: Median Home Size in Square Feet in Wenatchee, WA (CBSA)                       | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM48300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Wenatchee, WA (CBSA)      | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY48300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Wenatchee, WA (CBSA)        | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU48300            | Housing Inventory: New Listing Count in Wenatchee, WA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM48300          | Housing Inventory: New Listing Count Month-Over-Month in Wenatchee, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY48300          | Housing Inventory: New Listing Count Year-Over-Year in Wenatchee, WA (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR48300          | Housing Inventory: Median Days on Market in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM48300        | Housing Inventory: Median Days on Market Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY48300        | Housing Inventory: Median Days on Market Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI48300            | Housing Inventory: Median Listing Price in Wenatchee, WA (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM48300          | Housing Inventory: Median Listing Price Month-Over-Month in Wenatchee, WA (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE48300   | Housing Inventory: Median Listing Price per Square Feet in Wenatchee, WA (CBSA)                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM48300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Wenatchee, WA (CBSA) | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY48300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Wenatchee, WA (CBSA)   | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY48300          | Housing Inventory: Median Listing Price Year-Over-Year in Wenatchee, WA (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE48300            | Housing Inventory: Median Home Size in Square Feet in Wenatchee, WA (CBSA)                       | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM48300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Wenatchee, WA (CBSA)      | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY48300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Wenatchee, WA (CBSA)        | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU48300            | Housing Inventory: New Listing Count in Wenatchee, WA (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM48300          | Housing Inventory: New Listing Count Month-Over-Month in Wenatchee, WA (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY48300          | Housing Inventory: New Listing Count Year-Over-Year in Wenatchee, WA (CBSA)                      | 2017-07-01          | 2022-09-01        |
 | NGMP48300                 | Total Gross Domestic Product for Wenatchee, WA (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA148300          | U.S. Granted Utility Patents Originating in Wenatchee-East Wenatchee, WA (MSA)                   | 2000-01-01          | 2015-01-01        |
-| PENLISCOU48300            | Housing Inventory: Pending Listing Count in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM48300          | Housing Inventory: Pending Listing Count Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY48300          | Housing Inventory: Pending Listing Count Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU48300            | Housing Inventory: Price Increased Count in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM48300          | Housing Inventory: Price Increased Count Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2021-12-01        |
-| PRIINCCOUYY48300          | Housing Inventory: Price Increased Count Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU48300            | Housing Inventory: Price Reduced Count in Wenatchee, WA (CBSA)                                   | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM48300          | Housing Inventory: Price Reduced Count Month-Over-Month in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY48300          | Housing Inventory: Price Reduced Count Year-Over-Year in Wenatchee, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| PENLISCOU48300            | Housing Inventory: Pending Listing Count in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM48300          | Housing Inventory: Pending Listing Count Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY48300          | Housing Inventory: Pending Listing Count Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU48300            | Housing Inventory: Price Increased Count in Wenatchee, WA (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM48300          | Housing Inventory: Price Increased Count Month-Over-Month in Wenatchee, WA (CBSA)                | 2017-07-01          | 2022-03-01        |
+| PRIINCCOUYY48300          | Housing Inventory: Price Increased Count Year-Over-Year in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU48300            | Housing Inventory: Price Reduced Count in Wenatchee, WA (CBSA)                                   | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM48300          | Housing Inventory: Price Reduced Count Month-Over-Month in Wenatchee, WA (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY48300          | Housing Inventory: Price Reduced Count Year-Over-Year in Wenatchee, WA (CBSA)                    | 2017-07-01          | 2022-09-01        |
 | QGMP48300                 | Total Quantity Indexes for Real GDP for Wenatchee, WA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP48300                 | Total Real Gross Domestic Product for Wenatchee, WA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI48300                  | Real Personal Income for Wenatchee, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

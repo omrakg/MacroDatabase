@@ -4,7 +4,7 @@
 | Machinery and Equipment                                            |               592 |
 | Data Processing and Related Services                               |                11 |
 | Special Indexes                                                    |                 0 |
-| Real Estate Services                                               |                 0 |
+| Real Estate Services                                               |                37 |
 | Textile Products and Apparel                                       |               161 |
 | Rental and Leasing of Goods                                        |                20 |
 | Travel Arrangement Services                                        |                25 |

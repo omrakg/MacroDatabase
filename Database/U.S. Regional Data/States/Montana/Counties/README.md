@@ -30,7 +30,7 @@
 | Sweet Grass County, MT     |                90 |
 | Garfield County, MT        |                84 |
 | Carter County, MT          |                86 |
-| Glacier County, MT         |                 0 |
+| Glacier County, MT         |                90 |
 | Judith Basin County, MT    |                86 |
 | Toole County, MT           |                90 |
 | Fergus County, MT          |                89 |
@@ -51,7 +51,7 @@
 | Mineral County, MT         |                89 |
 | Valley County, MT          |                89 |
 | Beaverhead County, MT      |                89 |
-| Liberty County, MT         |                85 |
+| Liberty County, MT         |                 0 |
 | Musselshell County, MT     |                89 |
 | Stillwater County, MT      |                90 |
 | Chouteau County, MT        |                89 |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU30980            | Housing Inventory: Active Listing Count in Longview, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM30980          | Housing Inventory: Active Listing Count Month-Over-Month in Longview, TX (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY30980          | Housing Inventory: Active Listing Count Year-Over-Year in Longview, TX (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU30980            | Housing Inventory: Active Listing Count in Longview, TX (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM30980          | Housing Inventory: Active Listing Count Month-Over-Month in Longview, TX (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY30980          | Housing Inventory: Active Listing Count Year-Over-Year in Longview, TX (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS30980Q            | All-Transactions House Price Index for Longview, TX (MSA)                                                     | 1981-10-01          | 2022-04-01        |
-| AVELISPRI30980            | Housing Inventory: Average Listing Price in Longview, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM30980          | Housing Inventory: Average Listing Price Month-Over-Month in Longview, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY30980          | Housing Inventory: Average Listing Price Year-Over-Year in Longview, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA30980              | Market Hotness: Demand Score in Longview, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI30980            | Housing Inventory: Average Listing Price in Longview, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM30980          | Housing Inventory: Average Listing Price Month-Over-Month in Longview, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY30980          | Housing Inventory: Average Listing Price Year-Over-Year in Longview, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA30980              | Market Hotness: Demand Score in Longview, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC309830010             | Total Quarterly Wages in Longview, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC309830010SA           | Total Quarterly Wages in Longview, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC309840010             | Average Weekly Wages for Employees in Total Covered Establishments in Longview, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC309840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Longview, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC309840510             | Average Weekly Wages for Employees in Private Establishments in Longview, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC309840510SA           | Average Weekly Wages for Employees in Private Establishments in Longview, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA30980            | Market Hotness: Hotness Rank in Longview, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA30980              | Market Hotness: Hotness Rank in Longview, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA30980            | Market Hotness: Hotness Rank in Longview, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA30980              | Market Hotness: Hotness Score in Longview, TX (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA30980            | Market Hotness: Hotness Rank in Longview, TX (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA30980              | Market Hotness: Hotness Rank in Longview, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA30980            | Market Hotness: Hotness Rank in Longview, TX (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA30980              | Market Hotness: Hotness Score in Longview, TX (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD30980                 | Implicit Regional Price Deflator for Longview, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD31020                 | Implicit Regional Price Deflator for Longview, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483098000000003A     | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
@@ -32,9 +32,9 @@
 | LAUMT483098000000005      | Employed Persons in Longview, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT483098000000005A     | Employed Persons in Longview, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT483098000000006A     | Civilian Labor Force in Longview, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA30980          | Market Hotness: Listing Views per Property in Longview, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA30980        | Market Hotness: Listing Views per Property Versus the United States in Longview, TX (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA30980          | Market Hotness: Listing Views per Property in Longview, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRMMMSA30980          | Market Hotness: Listing Views per Property in Longview, TX (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA30980        | Market Hotness: Listing Views per Property Versus the United States in Longview, TX (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA30980          | Market Hotness: Listing Views per Property in Longview, TX (CBSA)                                             | 2018-08-01          | 2022-09-01        |
 | LGMPOP                    | Resident Population in Longview, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LONG948EDUH               | All Employees: Education and Health Services in Longview, TX (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | LONG948EDUHN              | All Employees: Education and Health Services in Longview, TX (MSA)                                            | 1990-01-01          | 2022-08-01        |
@@ -67,43 +67,43 @@
 | LONSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Longview, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
 | LONSA175MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | LONSA674AFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| MEDAONMAMMMSA30980        | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA30980          | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA30980        | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR30980          | Housing Inventory: Median Days on Market in Longview, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM30980        | Housing Inventory: Median Days on Market Month-Over-Month in Longview, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY30980        | Housing Inventory: Median Days on Market Year-Over-Year in Longview, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI30980            | Housing Inventory: Median Listing Price in Longview, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM30980          | Housing Inventory: Median Listing Price Month-Over-Month in Longview, TX (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE30980   | Housing Inventory: Median Listing Price per Square Feet in Longview, TX (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM30980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Longview, TX (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY30980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Longview, TX (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY30980          | Housing Inventory: Median Listing Price Year-Over-Year in Longview, TX (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA30980          | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA30980          | Market Hotness: Median Days on Market Versus the United States in Longview, TX (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA30980          | Market Hotness: Median Days on Market Day in Longview, TX (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE30980            | Housing Inventory: Median Home Size in Square Feet in Longview, TX (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM30980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Longview, TX (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY30980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Longview, TX (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA30980          | Market Hotness: Median Listing Price in Longview, TX (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA30980            | Market Hotness: Median Listing Price in Longview, TX (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA30980        | Market Hotness: Median Listing Price Versus the United States in Longview, TX (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA30980          | Market Hotness: Median Listing Price in Longview, TX (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU30980            | Housing Inventory: New Listing Count in Longview, TX (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM30980          | Housing Inventory: New Listing Count Month-Over-Month in Longview, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY30980          | Housing Inventory: New Listing Count Year-Over-Year in Longview, TX (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDAONMAMMMSA30980        | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA30980          | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA30980        | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR30980          | Housing Inventory: Median Days on Market in Longview, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM30980        | Housing Inventory: Median Days on Market Month-Over-Month in Longview, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY30980        | Housing Inventory: Median Days on Market Year-Over-Year in Longview, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI30980            | Housing Inventory: Median Listing Price in Longview, TX (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM30980          | Housing Inventory: Median Listing Price Month-Over-Month in Longview, TX (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE30980   | Housing Inventory: Median Listing Price per Square Feet in Longview, TX (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM30980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Longview, TX (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY30980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Longview, TX (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY30980          | Housing Inventory: Median Listing Price Year-Over-Year in Longview, TX (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA30980          | Market Hotness: Median Days on Market in Longview, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA30980          | Market Hotness: Median Days on Market Versus the United States in Longview, TX (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA30980          | Market Hotness: Median Days on Market Day in Longview, TX (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE30980            | Housing Inventory: Median Home Size in Square Feet in Longview, TX (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM30980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Longview, TX (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY30980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Longview, TX (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA30980          | Market Hotness: Median Listing Price in Longview, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA30980            | Market Hotness: Median Listing Price in Longview, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA30980        | Market Hotness: Median Listing Price Versus the United States in Longview, TX (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA30980          | Market Hotness: Median Listing Price in Longview, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU30980            | Housing Inventory: New Listing Count in Longview, TX (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM30980          | Housing Inventory: New Listing Count Month-Over-Month in Longview, TX (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY30980          | Housing Inventory: New Listing Count Year-Over-Year in Longview, TX (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP30980                 | Total Gross Domestic Product for Longview, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA30980            | Market Hotness: Nielsen Household Rank in Longview, TX (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA30980            | Market Hotness: Nielsen Household Rank in Longview, TX (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA130980          | U.S. Granted Utility Patents Originating in Longview, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU30980            | Housing Inventory: Pending Listing Count in Longview, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM30980          | Housing Inventory: Pending Listing Count Month-Over-Month in Longview, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY30980          | Housing Inventory: Pending Listing Count Year-Over-Year in Longview, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU30980            | Housing Inventory: Price Increased Count in Longview, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM30980          | Housing Inventory: Price Increased Count Month-Over-Month in Longview, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY30980          | Housing Inventory: Price Increased Count Year-Over-Year in Longview, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU30980            | Housing Inventory: Price Reduced Count in Longview, TX (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM30980          | Housing Inventory: Price Reduced Count Month-Over-Month in Longview, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY30980          | Housing Inventory: Price Reduced Count Year-Over-Year in Longview, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU30980            | Housing Inventory: Pending Listing Count in Longview, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM30980          | Housing Inventory: Pending Listing Count Month-Over-Month in Longview, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY30980          | Housing Inventory: Pending Listing Count Year-Over-Year in Longview, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU30980            | Housing Inventory: Price Increased Count in Longview, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM30980          | Housing Inventory: Price Increased Count Month-Over-Month in Longview, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY30980          | Housing Inventory: Price Increased Count Year-Over-Year in Longview, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU30980            | Housing Inventory: Price Reduced Count in Longview, TX (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM30980          | Housing Inventory: Price Reduced Count Month-Over-Month in Longview, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY30980          | Housing Inventory: Price Reduced Count Year-Over-Year in Longview, TX (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP30980                 | Total Quantity Indexes for Real GDP for Longview, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP30980                 | Total Real Gross Domestic Product for Longview, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI30980                  | Real Personal Income for Longview, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -169,4 +169,4 @@
 | SMU48309809093000001      | All Employees: Government: Local Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU48309809093000001A     | All Employees: Local Government in Longview, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48309809093000001SA    | All Employees: Government: Local Government in Longview, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA30980              | Market Hotness: Supply Score in Longview, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA30980              | Market Hotness: Supply Score in Longview, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

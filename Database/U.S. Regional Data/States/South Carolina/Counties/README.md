@@ -45,4 +45,4 @@
 | Jasper County, SC       |                89 |
 | Greenville County, SC   |               143 |
 | Aiken County, SC        |               147 |
-| Sumter County, SC       |               147 |
+| Sumter County, SC       |                 0 |

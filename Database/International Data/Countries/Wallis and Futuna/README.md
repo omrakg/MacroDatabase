@@ -4,12 +4,12 @@
 | CAWLFA052SCEN | Value of Exports to Wallis and Futuna from California                   | 2009-01-01          | 2016-01-01        |
 | CAWLFA475SCEN | Number of Identified Exporters to Wallis and Futuna from California     | 1992-01-01          | 2016-01-01        |
 | DEWLFA475SCEN | Number of Identified Exporters to Wallis and Futuna from Delaware       | 2005-01-01          | 2005-01-01        |
-| EXP6413       | U.S. Exports of Goods by F.A.S. Basis to Wallis and Futuna              | 1992-01-01          | 2022-07-01        |
+| EXP6413       | U.S. Exports of Goods by F.A.S. Basis to Wallis and Futuna              | 1992-01-01          | 2022-08-01        |
 | FLWLFA052SCEN | Value of Exports to Wallis and Futuna from Florida                      | 2010-01-01          | 2016-01-01        |
 | FLWLFA475SCEN | Number of Identified Exporters to Wallis and Futuna from Florida        | 2005-01-01          | 2016-01-01        |
 | GAWLFA475SCEN | Number of Identified Exporters to Wallis and Futuna from Georgia        | 2005-01-01          | 2016-01-01        |
 | ILWLFA475SCEN | Number of Identified Exporters to Wallis and Futuna from Illinois       | 2012-01-01          | 2012-01-01        |
-| IMP6413       | U.S. Imports of Goods by Customs Basis from Wallis and Futuna           | 1992-01-01          | 2022-07-01        |
+| IMP6413       | U.S. Imports of Goods by Customs Basis from Wallis and Futuna           | 1992-01-01          | 2022-08-01        |
 | INWLFA475SCEN | Number of Identified Exporters to Wallis and Futuna from Indiana        | 2004-01-01          | 2004-01-01        |
 | LAWLFA475SCEN | Number of Identified Exporters to Wallis and Futuna from Louisiana      | 2010-01-01          | 2010-01-01        |
 | MIWLFA475SCEN | Number of Identified Exporters to Wallis and Futuna from Michigan       | 2010-01-01          | 2010-01-01        |

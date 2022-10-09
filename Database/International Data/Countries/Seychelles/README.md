@@ -57,7 +57,7 @@
 | DDSI06SCA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Seychelles                                                                                   | 2010-01-01          | 2019-01-01        |
 | DDSI07SCA156NWDB    | Provisions to Non-Performing Loans for Seychelles                                                                                                 | 2006-01-01          | 2019-01-01        |
 | DESYCA475SCEN       | Number of Identified Exporters to Seychelles from Delaware                                                                                        | 2002-01-01          | 2016-01-01        |
-| EXP7800             | U.S. Exports of Goods by F.A.S. Basis to Seychelles                                                                                               | 1992-01-01          | 2022-07-01        |
+| EXP7800             | U.S. Exports of Goods by F.A.S. Basis to Seychelles                                                                                               | 1992-01-01          | 2022-08-01        |
 | FLSYCA052SCEN       | Value of Exports to Seychelles from Florida                                                                                                       | 1997-01-01          | 2017-01-01        |
 | FLSYCA475SCEN       | Number of Identified Exporters to Seychelles from Florida                                                                                         | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGSYC      | Inflation, consumer prices for Seychelles                                                                                                         | 1971-01-01          | 2020-01-01        |
@@ -79,7 +79,7 @@
 | IDSYCA475SCEN       | Number of Identified Exporters to Seychelles from Idaho                                                                                           | 2008-01-01          | 2016-01-01        |
 | ILSYCA052SCEN       | Value of Exports to Seychelles from Illinois                                                                                                      | 1992-01-01          | 2017-01-01        |
 | ILSYCA475SCEN       | Number of Identified Exporters to Seychelles from Illinois                                                                                        | 1992-01-01          | 2017-01-01        |
-| IMP7800             | U.S. Imports of Goods by Customs Basis from Seychelles                                                                                            | 1992-01-01          | 2022-07-01        |
+| IMP7800             | U.S. Imports of Goods by Customs Basis from Seychelles                                                                                            | 1992-01-01          | 2022-08-01        |
 | INSYCA052SCEN       | Value of Exports to Seychelles from Indiana                                                                                                       | 2004-01-01          | 2015-01-01        |
 | INSYCA475SCEN       | Number of Identified Exporters to Seychelles from Indiana                                                                                         | 1997-01-01          | 2016-01-01        |
 | ITNETUSERP2SYC      | Internet users for Seychelles                                                                                                                     | 1990-01-01          | 2020-01-01        |
@@ -147,9 +147,9 @@
 | SYCDGGDPPT          | Official External Debt: Debtor Based for Seychelles                                                                                               | 2004-01-01          | 2023-01-01        |
 | SYCENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Seychelles                                                                   | 2004-01-01          | 2021-01-01        |
 | SYCEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Seychelles                                                                      | 2004-01-01          | 2021-01-01        |
-| SYCFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Seychelles                                                                      | 2004-01-01          | 2020-01-01        |
-| SYCFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Seychelles                                                    | 2004-01-01          | 2020-01-01        |
-| SYCFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Seychelles                                                                            | 2004-01-01          | 2020-01-01        |
+| SYCFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Seychelles                                                                      | 2004-01-01          | 2021-01-01        |
+| SYCFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Seychelles                                                    | 2004-01-01          | 2021-01-01        |
+| SYCFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Seychelles                                                                            | 2004-01-01          | 2021-01-01        |
 | SYCFCAODCANUM       | Use of Financial Services: Key Indicators, Deposit Accounts with Commercial Banks Per 1000 Adults for Seychelles                                  | 2004-01-01          | 2020-01-01        |
 | SYCFCAODCNUM        | Use of Financial Services Deposit Accounts: Accounts at Commercial Banks for Seychelles                                                           | 2004-01-01          | 2020-01-01        |
 | SYCFCAODUANUM       | Use of Financial Services: Key Indicators, Deposit Accounts with Credit Unions and Financial Cooperatives Per 1000 Adults for Seychelles          | 2004-01-01          | 2016-01-01        |
@@ -159,12 +159,12 @@
 | SYCFCAOFINUM        | Use of Financial Services Deposit Accounts: Accounts at Insurance Corporations for Seychelles                                                     | 2004-01-01          | 2016-01-01        |
 | SYCFCBMFNNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Non-deposit Taking Microfinance Institutions (MFIs) for Seychelles         | 2004-01-01          | 2017-01-01        |
 | SYCFCBMNUM          | Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Financial Intermediaries for Seychelles                              | 2004-01-01          | 2017-01-01        |
-| SYCFCBODCANUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Seychelles                                                  | 2004-01-01          | 2020-01-01        |
-| SYCFCBODCKNUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Seychelles                                                        | 2004-01-01          | 2020-01-01        |
-| SYCFCBODCNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Seychelles                                            | 2004-01-01          | 2020-01-01        |
-| SYCFCBODUANUM       | Geographical Outreach: Key Indicators, Credit Union and Financial Cooperative Branches Per 100,000 Adults for Seychelles                          | 2004-01-01          | 2020-01-01        |
-| SYCFCBODUKNUM       | Geographical Outreach: Key Indicators, Credit Union and Financial Cooperative Branches Per 1000 Km2 for Seychelles                                | 2004-01-01          | 2020-01-01        |
-| SYCFCBODUNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Credit Unions and Financial Cooperatives for Seychelles                    | 2004-01-01          | 2020-01-01        |
+| SYCFCBODCANUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Seychelles                                                  | 2004-01-01          | 2021-01-01        |
+| SYCFCBODCKNUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Seychelles                                                        | 2004-01-01          | 2021-01-01        |
+| SYCFCBODCNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Seychelles                                            | 2004-01-01          | 2021-01-01        |
+| SYCFCBODUANUM       | Geographical Outreach: Key Indicators, Credit Union and Financial Cooperative Branches Per 100,000 Adults for Seychelles                          | 2004-01-01          | 2021-01-01        |
+| SYCFCBODUKNUM       | Geographical Outreach: Key Indicators, Credit Union and Financial Cooperative Branches Per 1000 Km2 for Seychelles                                | 2004-01-01          | 2021-01-01        |
+| SYCFCBODUNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Credit Unions and Financial Cooperatives for Seychelles                    | 2004-01-01          | 2021-01-01        |
 | SYCFCDODCANUM       | Use of Financial Services: Key Indicators, Depositors with Commercial Banks Per 1000 Adults for Seychelles                                        | 2004-01-01          | 2020-01-01        |
 | SYCFCDODCPENUM      | Use of Financial Services: Number of Depositors at Commercial Banks for Seychelles                                                                | 2004-01-01          | 2020-01-01        |
 | SYCFCDODUANUM       | Use of Financial Services: Key Indicators, Depositors with Credit Unions and Financial Cooperatives Per 1000 Adults for Seychelles                | 2004-01-01          | 2016-01-01        |
@@ -172,10 +172,10 @@
 | SYCFCDOFIHPENUM     | Use of Financial Services: Number of Depositors which are Households at Insurance Corporations for Seychelles                                     | 2004-01-01          | 2014-01-01        |
 | SYCFCDOFILPPENUM    | Use of Financial Services: Number of Life Insurance Depositors at Insurance Corporations for Seychelles                                           | 2004-01-01          | 2020-01-01        |
 | SYCFCDOFINPPENUM    | Use of Financial Services: Number of Non-life Insurance Depositors at Insurance Corporations for Seychelles                                       | 2004-01-01          | 2020-01-01        |
-| SYCFCIODCNUM        | Geographical Outreach: Number of Commercial Banks for Seychelles                                                                                  | 2004-01-01          | 2020-01-01        |
-| SYCFCIODUNUM        | Geographical Outreach: Number of Credit Unions and Financial Cooperatives for Seychelles                                                          | 2004-01-01          | 2020-01-01        |
-| SYCFCIOFINUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Seychelles                                | 2004-01-01          | 2020-01-01        |
-| SYCFCIOFMFNNUM      | Geographical Outreach: Number of Institutions, Other Financial Intermediaries, Non-deposit Taking Microfinance Institutions (MFIs) for Seychelles | 2004-01-01          | 2020-01-01        |
+| SYCFCIODCNUM        | Geographical Outreach: Number of Commercial Banks for Seychelles                                                                                  | 2004-01-01          | 2021-01-01        |
+| SYCFCIODUNUM        | Geographical Outreach: Number of Credit Unions and Financial Cooperatives for Seychelles                                                          | 2004-01-01          | 2021-01-01        |
+| SYCFCIOFINUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Seychelles                                | 2004-01-01          | 2021-01-01        |
+| SYCFCIOFMFNNUM      | Geographical Outreach: Number of Institutions, Other Financial Intermediaries, Non-deposit Taking Microfinance Institutions (MFIs) for Seychelles | 2004-01-01          | 2021-01-01        |
 | SYCFCIOFMNUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Other Financial Intermediaries for Seychelles                        | 2004-01-01          | 2017-01-01        |
 | SYCFCIOFNUM         | Geographical Outreach: Number of Institutions, Other Financial Corporations for Seychelles                                                        | 2004-01-01          | 2017-01-01        |
 | SYCFCLODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Seychelles                                              | 2004-01-01          | 2020-01-01        |

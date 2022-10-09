@@ -1,12 +1,12 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU19140            | Housing Inventory: Active Listing Count in Dalton, GA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM19140          | Housing Inventory: Active Listing Count Month-Over-Month in Dalton, GA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY19140          | Housing Inventory: Active Listing Count Year-Over-Year in Dalton, GA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU19140            | Housing Inventory: Active Listing Count in Dalton, GA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM19140          | Housing Inventory: Active Listing Count Month-Over-Month in Dalton, GA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY19140          | Housing Inventory: Active Listing Count Year-Over-Year in Dalton, GA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS19140Q            | All-Transactions House Price Index for Dalton, GA (MSA)                                                     | 1984-04-01          | 2022-04-01        |
-| AVELISPRI19140            | Housing Inventory: Average Listing Price in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM19140          | Housing Inventory: Average Listing Price Month-Over-Month in Dalton, GA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY19140          | Housing Inventory: Average Listing Price Year-Over-Year in Dalton, GA (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI19140            | Housing Inventory: Average Listing Price in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM19140          | Housing Inventory: Average Listing Price Month-Over-Month in Dalton, GA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY19140          | Housing Inventory: Average Listing Price Year-Over-Year in Dalton, GA (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | DALPOP                    | Resident Population in Dalton, GA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DALT113GOVT               | All Employees: Government in Dalton, GA (MSA)                                                               | 1990-01-01          | 2022-08-01        |
 | DALT113GOVTN              | All Employees: Government in Dalton, GA (MSA)                                                               | 1990-01-01          | 2022-08-01        |
@@ -42,32 +42,32 @@
 | LAUMT131914000000005      | Employed Persons in Dalton, GA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT131914000000005A     | Employed Persons in Dalton, GA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT131914000000006A     | Civilian Labor Force in Dalton, GA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR19140          | Housing Inventory: Median Days on Market in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM19140        | Housing Inventory: Median Days on Market Month-Over-Month in Dalton, GA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY19140        | Housing Inventory: Median Days on Market Year-Over-Year in Dalton, GA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI19140            | Housing Inventory: Median Listing Price in Dalton, GA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM19140          | Housing Inventory: Median Listing Price Month-Over-Month in Dalton, GA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE19140   | Housing Inventory: Median Listing Price per Square Feet in Dalton, GA (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM19140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Dalton, GA (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY19140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Dalton, GA (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY19140          | Housing Inventory: Median Listing Price Year-Over-Year in Dalton, GA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE19140            | Housing Inventory: Median Home Size in Square Feet in Dalton, GA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM19140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Dalton, GA (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY19140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Dalton, GA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU19140            | Housing Inventory: New Listing Count in Dalton, GA (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM19140          | Housing Inventory: New Listing Count Month-Over-Month in Dalton, GA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY19140          | Housing Inventory: New Listing Count Year-Over-Year in Dalton, GA (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR19140          | Housing Inventory: Median Days on Market in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM19140        | Housing Inventory: Median Days on Market Month-Over-Month in Dalton, GA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY19140        | Housing Inventory: Median Days on Market Year-Over-Year in Dalton, GA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI19140            | Housing Inventory: Median Listing Price in Dalton, GA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM19140          | Housing Inventory: Median Listing Price Month-Over-Month in Dalton, GA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE19140   | Housing Inventory: Median Listing Price per Square Feet in Dalton, GA (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM19140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Dalton, GA (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY19140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Dalton, GA (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY19140          | Housing Inventory: Median Listing Price Year-Over-Year in Dalton, GA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE19140            | Housing Inventory: Median Home Size in Square Feet in Dalton, GA (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM19140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Dalton, GA (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY19140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Dalton, GA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU19140            | Housing Inventory: New Listing Count in Dalton, GA (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM19140          | Housing Inventory: New Listing Count Month-Over-Month in Dalton, GA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY19140          | Housing Inventory: New Listing Count Year-Over-Year in Dalton, GA (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP19140                 | Total Gross Domestic Product for Dalton, GA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA119140          | U.S. Granted Utility Patents Originating in Dalton, GA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU19140            | Housing Inventory: Pending Listing Count in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM19140          | Housing Inventory: Pending Listing Count Month-Over-Month in Dalton, GA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY19140          | Housing Inventory: Pending Listing Count Year-Over-Year in Dalton, GA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU19140            | Housing Inventory: Price Increased Count in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM19140          | Housing Inventory: Price Increased Count Month-Over-Month in Dalton, GA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY19140          | Housing Inventory: Price Increased Count Year-Over-Year in Dalton, GA (CBSA)                                | 2017-11-01          | 2022-08-01        |
-| PRIREDCOU19140            | Housing Inventory: Price Reduced Count in Dalton, GA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM19140          | Housing Inventory: Price Reduced Count Month-Over-Month in Dalton, GA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY19140          | Housing Inventory: Price Reduced Count Year-Over-Year in Dalton, GA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU19140            | Housing Inventory: Pending Listing Count in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM19140          | Housing Inventory: Pending Listing Count Month-Over-Month in Dalton, GA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY19140          | Housing Inventory: Pending Listing Count Year-Over-Year in Dalton, GA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU19140            | Housing Inventory: Price Increased Count in Dalton, GA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM19140          | Housing Inventory: Price Increased Count Month-Over-Month in Dalton, GA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY19140          | Housing Inventory: Price Increased Count Year-Over-Year in Dalton, GA (CBSA)                                | 2017-08-01          | 2022-09-01        |
+| PRIREDCOU19140            | Housing Inventory: Price Reduced Count in Dalton, GA (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM19140          | Housing Inventory: Price Reduced Count Month-Over-Month in Dalton, GA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY19140          | Housing Inventory: Price Reduced Count Year-Over-Year in Dalton, GA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP19140                 | Total Quantity Indexes for Real GDP for Dalton, GA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP19140                 | Total Real Gross Domestic Product for Dalton, GA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI19140                  | Real Personal Income for Dalton, GA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

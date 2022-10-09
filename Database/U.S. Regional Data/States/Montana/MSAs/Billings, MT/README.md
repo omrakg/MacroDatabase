@@ -1,12 +1,12 @@
 | id                        | title                                                                                           | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU13740            | Housing Inventory: Active Listing Count in Billings, MT (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM13740          | Housing Inventory: Active Listing Count Month-Over-Month in Billings, MT (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY13740          | Housing Inventory: Active Listing Count Year-Over-Year in Billings, MT (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU13740            | Housing Inventory: Active Listing Count in Billings, MT (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM13740          | Housing Inventory: Active Listing Count Month-Over-Month in Billings, MT (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY13740          | Housing Inventory: Active Listing Count Year-Over-Year in Billings, MT (CBSA)                   | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS13740Q            | All-Transactions House Price Index for Billings, MT (MSA)                                       | 1985-07-01          | 2022-04-01        |
-| AVELISPRI13740            | Housing Inventory: Average Listing Price in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM13740          | Housing Inventory: Average Listing Price Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY13740          | Housing Inventory: Average Listing Price Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| AVELISPRI13740            | Housing Inventory: Average Listing Price in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM13740          | Housing Inventory: Average Listing Price Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY13740          | Housing Inventory: Average Listing Price Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-09-01        |
 | BILL730EDUH               | All Employees: Education and Health Services in Billings, MT (MSA)                              | 1990-01-01          | 2022-08-01        |
 | BILL730EDUHN              | All Employees: Education and Health Services in Billings, MT (MSA)                              | 1990-01-01          | 2022-08-01        |
 | BILL730GOVT               | All Employees: Government in Billings, MT (MSA)                                                 | 1990-01-01          | 2022-08-01        |
@@ -25,7 +25,7 @@
 | BILL730UR                 | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | BILL730URN                | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | BILPOP                    | Resident Population in Billings, MT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| DESCMSA13740              | Market Hotness: Demand Score in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| DESCMSA13740              | Market Hotness: Demand Score in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-09-01        |
 | ENUC137430010             | Total Quarterly Wages in Billings, MT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC137430010SA           | Total Quarterly Wages in Billings, MT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC137440010             | Average Weekly Wages for Employees in Total Covered Establishments in Billings, MT (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -38,10 +38,10 @@
 | ENUC137440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Billings, MT (MSA)     | 1990-01-01          | 2012-10-01        |
 | ENUC137440510             | Average Weekly Wages for Employees in Private Establishments in Billings, MT (MSA)              | 1990-01-01          | 2022-01-01        |
 | ENUC137440510SA           | Average Weekly Wages for Employees in Private Establishments in Billings, MT (MSA)              | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA13740            | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| HORAMSA13740              | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA13740            | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| HOSCMSA13740              | Market Hotness: Hotness Score in Billings, MT (CBSA)                                            | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA13740            | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| HORAMSA13740              | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA13740            | Market Hotness: Hotness Rank in Billings, MT (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| HOSCMSA13740              | Market Hotness: Hotness Score in Billings, MT (CBSA)                                            | 2017-08-01          | 2022-09-01        |
 | IRPD13740                 | Implicit Regional Price Deflator for Billings, MT (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT301374000000003A     | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT301374000000004      | Unemployed Persons in Billings, MT (MSA)                                                        | 1990-01-01          | 2022-08-01        |
@@ -49,46 +49,46 @@
 | LAUMT301374000000005      | Employed Persons in Billings, MT (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT301374000000005A     | Employed Persons in Billings, MT (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT301374000000006A     | Civilian Labor Force in Billings, MT (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA13740          | Market Hotness: Listing Views per Property in Billings, MT (CBSA)                               | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA13740        | Market Hotness: Listing Views per Property Versus the United States in Billings, MT (CBSA)      | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA13740          | Market Hotness: Listing Views per Property in Billings, MT (CBSA)                               | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA13740        | Market Hotness: Median Days on Market in Billings, MT (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA13740          | Market Hotness: Median Days on Market in Billings, MT (CBSA)                                    | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA13740        | Market Hotness: Median Days on Market in Billings, MT (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR13740          | Housing Inventory: Median Days on Market in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM13740        | Housing Inventory: Median Days on Market Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY13740        | Housing Inventory: Median Days on Market Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI13740            | Housing Inventory: Median Listing Price in Billings, MT (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM13740          | Housing Inventory: Median Listing Price Month-Over-Month in Billings, MT (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE13740   | Housing Inventory: Median Listing Price per Square Feet in Billings, MT (CBSA)                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM13740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Billings, MT (CBSA) | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY13740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Billings, MT (CBSA)   | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY13740          | Housing Inventory: Median Listing Price Year-Over-Year in Billings, MT (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA13740          | Market Hotness: Median Days on Market in Billings, MT (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA13740          | Market Hotness: Median Days on Market Versus the United States in Billings, MT (CBSA)           | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA13740          | Market Hotness: Median Days on Market Day in Billings, MT (CBSA)                                | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE13740            | Housing Inventory: Median Home Size in Square Feet in Billings, MT (CBSA)                       | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM13740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Billings, MT (CBSA)      | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY13740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Billings, MT (CBSA)        | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA13740          | Market Hotness: Median Listing Price in Billings, MT (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA13740            | Market Hotness: Median Listing Price in Billings, MT (CBSA)                                     | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA13740        | Market Hotness: Median Listing Price Versus the United States in Billings, MT (CBSA)            | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA13740          | Market Hotness: Median Listing Price in Billings, MT (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU13740            | Housing Inventory: New Listing Count in Billings, MT (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM13740          | Housing Inventory: New Listing Count Month-Over-Month in Billings, MT (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY13740          | Housing Inventory: New Listing Count Year-Over-Year in Billings, MT (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA13740          | Market Hotness: Listing Views per Property in Billings, MT (CBSA)                               | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA13740        | Market Hotness: Listing Views per Property Versus the United States in Billings, MT (CBSA)      | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA13740          | Market Hotness: Listing Views per Property in Billings, MT (CBSA)                               | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA13740        | Market Hotness: Median Days on Market in Billings, MT (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA13740          | Market Hotness: Median Days on Market in Billings, MT (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA13740        | Market Hotness: Median Days on Market in Billings, MT (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR13740          | Housing Inventory: Median Days on Market in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM13740        | Housing Inventory: Median Days on Market Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY13740        | Housing Inventory: Median Days on Market Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI13740            | Housing Inventory: Median Listing Price in Billings, MT (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM13740          | Housing Inventory: Median Listing Price Month-Over-Month in Billings, MT (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE13740   | Housing Inventory: Median Listing Price per Square Feet in Billings, MT (CBSA)                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM13740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Billings, MT (CBSA) | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY13740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Billings, MT (CBSA)   | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY13740          | Housing Inventory: Median Listing Price Year-Over-Year in Billings, MT (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA13740          | Market Hotness: Median Days on Market in Billings, MT (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA13740          | Market Hotness: Median Days on Market Versus the United States in Billings, MT (CBSA)           | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA13740          | Market Hotness: Median Days on Market Day in Billings, MT (CBSA)                                | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE13740            | Housing Inventory: Median Home Size in Square Feet in Billings, MT (CBSA)                       | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM13740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Billings, MT (CBSA)      | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY13740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Billings, MT (CBSA)        | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA13740          | Market Hotness: Median Listing Price in Billings, MT (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA13740            | Market Hotness: Median Listing Price in Billings, MT (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA13740        | Market Hotness: Median Listing Price Versus the United States in Billings, MT (CBSA)            | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA13740          | Market Hotness: Median Listing Price in Billings, MT (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU13740            | Housing Inventory: New Listing Count in Billings, MT (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM13740          | Housing Inventory: New Listing Count Month-Over-Month in Billings, MT (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY13740          | Housing Inventory: New Listing Count Year-Over-Year in Billings, MT (CBSA)                      | 2017-07-01          | 2022-09-01        |
 | NGMP13740                 | Total Gross Domestic Product for Billings, MT (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA13740            | Market Hotness: Nielsen Household Rank in Billings, MT (CBSA)                                   | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA13740            | Market Hotness: Nielsen Household Rank in Billings, MT (CBSA)                                   | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA113740          | U.S. Granted Utility Patents Originating in Billings, MT (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU13740            | Housing Inventory: Pending Listing Count in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM13740          | Housing Inventory: Pending Listing Count Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY13740          | Housing Inventory: Pending Listing Count Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU13740            | Housing Inventory: Price Increased Count in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM13740          | Housing Inventory: Price Increased Count Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY13740          | Housing Inventory: Price Increased Count Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU13740            | Housing Inventory: Price Reduced Count in Billings, MT (CBSA)                                   | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM13740          | Housing Inventory: Price Reduced Count Month-Over-Month in Billings, MT (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY13740          | Housing Inventory: Price Reduced Count Year-Over-Year in Billings, MT (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| PENLISCOU13740            | Housing Inventory: Pending Listing Count in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM13740          | Housing Inventory: Pending Listing Count Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY13740          | Housing Inventory: Pending Listing Count Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU13740            | Housing Inventory: Price Increased Count in Billings, MT (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM13740          | Housing Inventory: Price Increased Count Month-Over-Month in Billings, MT (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY13740          | Housing Inventory: Price Increased Count Year-Over-Year in Billings, MT (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU13740            | Housing Inventory: Price Reduced Count in Billings, MT (CBSA)                                   | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM13740          | Housing Inventory: Price Reduced Count Month-Over-Month in Billings, MT (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY13740          | Housing Inventory: Price Reduced Count Year-Over-Year in Billings, MT (CBSA)                    | 2017-07-01          | 2022-09-01        |
 | QGMP13740                 | Total Quantity Indexes for Real GDP for Billings, MT (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP13740                 | Total Real Gross Domestic Product for Billings, MT (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI13740                  | Real Personal Income for Billings, MT (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -131,4 +131,4 @@
 | SMU30137409093000001      | All Employees: Government: Local Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-08-01        |
 | SMU30137409093000001A     | All Employees: Local Government in Billings, MT (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU30137409093000001SA    | All Employees: Government: Local Government in Billings, MT (MSA)                               | 1990-01-01          | 2022-08-01        |
-| SUSCMSA13740              | Market Hotness: Supply Score in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| SUSCMSA13740              | Market Hotness: Supply Score in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-09-01        |

@@ -11,7 +11,7 @@
 | Volume of Transactions              |                61 |
 | Income and Employment               |               490 |
 | Financial Status of Business        |               144 |
-| Government and Finance              |                 0 |
+| Government and Finance              |                58 |
 | Leading Indicators                  |                64 |
 | Money and Banking                   |               182 |
 | Savings and Investment              |               167 |

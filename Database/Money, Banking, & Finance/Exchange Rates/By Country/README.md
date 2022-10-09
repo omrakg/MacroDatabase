@@ -12,13 +12,13 @@
 | New Zealand    |                 5 |
 | Mexico         |                 5 |
 | Ireland        |               819 |
-| Thailand       |                 0 |
+| Thailand       |                 5 |
 | Malaysia       |                 5 |
 | India          |                 5 |
 | Canada         |                 5 |
 | Taiwan         |                 5 |
 | Portugal       |                 1 |
-| Belgium        |                 0 |
+| Belgium        |               804 |
 | Greece         |                 1 |
 | Sweden         |               832 |
 | Spain          |               828 |

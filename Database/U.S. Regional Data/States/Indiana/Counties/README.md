@@ -9,7 +9,7 @@
 | Newton County, IN      |                90 |
 | Vermillion County, IN  |                90 |
 | Steuben County, IN     |                89 |
-| Pulaski County, IN     |                90 |
+| Pulaski County, IN     |                 0 |
 | White County, IN       |                90 |
 | Daviess County, IN     |                90 |
 | Washington County, IN  |                89 |
@@ -49,7 +49,7 @@
 | Perry County, IN       |                90 |
 | Posey County, IN       |                90 |
 | Adams County, IN       |                89 |
-| Decatur County, IN     |                 0 |
+| Decatur County, IN     |                89 |
 | Randolph County, IN    |                90 |
 | Starke County, IN      |                89 |
 | Blackford County, IN   |                89 |
@@ -69,7 +69,7 @@
 | Greene County, IN      |                89 |
 | Jackson County, IN     |                89 |
 | Tipton County, IN      |                90 |
-| Floyd County, IN       |               147 |
+| Floyd County, IN       |                 0 |
 | Warren County, IN      |                89 |
 | Franklin County, IN    |                90 |
 | Clark County, IN       |               147 |

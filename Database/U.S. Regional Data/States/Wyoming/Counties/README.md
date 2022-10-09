@@ -1,6 +1,6 @@
 | Folder                 |   Files / Folders |
 |------------------------|-------------------|
-| Park County, WY        |                90 |
+| Park County, WY        |                 0 |
 | Sublette County, WY    |                89 |
 | Natrona County, WY     |               146 |
 | Hot Springs County, WY |                89 |

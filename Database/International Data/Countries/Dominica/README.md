@@ -46,27 +46,27 @@
 | DDSI06DMA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Dominica                                                            | 2005-01-01          | 2016-01-01        |
 | DEDMAA475SCEN     | Number of Identified Exporters to Dominica from Delaware                                                                 | 2002-01-01          | 2016-01-01        |
 | DMABCAGDPBP6      | Balance of Payments for Dominica                                                                                         | 2014-01-01          | 2027-01-01        |
-| DMAFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Dominica                                               | 2004-01-01          | 2020-01-01        |
-| DMAFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Dominica                             | 2004-01-01          | 2020-01-01        |
-| DMAFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Dominica                                                     | 2004-01-01          | 2020-01-01        |
-| DMAFCBODCANUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Dominica                           | 2004-01-01          | 2020-01-01        |
-| DMAFCBODCKNUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Dominica                                 | 2004-01-01          | 2020-01-01        |
-| DMAFCBODCNUM      | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Dominica                     | 2004-01-01          | 2020-01-01        |
-| DMAFCIODCNUM      | Geographical Outreach: Number of Commercial Banks for Dominica                                                           | 2004-01-01          | 2020-01-01        |
-| DMAFCIODDNUM      | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Dominica          | 2004-01-01          | 2020-01-01        |
-| DMAFCIODUNUM      | Geographical Outreach: Number of Credit Unions and Financial Cooperatives for Dominica                                   | 2007-01-01          | 2020-01-01        |
-| DMAFCIOFINUM      | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Dominica         | 2007-01-01          | 2020-01-01        |
+| DMAFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Dominica                                               | 2004-01-01          | 2021-01-01        |
+| DMAFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Dominica                             | 2004-01-01          | 2021-01-01        |
+| DMAFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Dominica                                                     | 2004-01-01          | 2021-01-01        |
+| DMAFCBODCANUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Dominica                           | 2004-01-01          | 2021-01-01        |
+| DMAFCBODCKNUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Dominica                                 | 2004-01-01          | 2021-01-01        |
+| DMAFCBODCNUM      | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Dominica                     | 2004-01-01          | 2021-01-01        |
+| DMAFCIODCNUM      | Geographical Outreach: Number of Commercial Banks for Dominica                                                           | 2004-01-01          | 2021-01-01        |
+| DMAFCIODDNUM      | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Dominica          | 2004-01-01          | 2021-01-01        |
+| DMAFCIODUNUM      | Geographical Outreach: Number of Credit Unions and Financial Cooperatives for Dominica                                   | 2007-01-01          | 2021-01-01        |
+| DMAFCIOFINUM      | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Dominica         | 2007-01-01          | 2021-01-01        |
 | DMAFCIOFMNUM      | Geographical Outreach: Number of Institutions, Other Financial Corporations, Other Financial Intermediaries for Dominica | 2007-01-01          | 2017-01-01        |
 | DMAFCIOFNUM       | Geographical Outreach: Number of Institutions, Other Financial Corporations for Dominica                                 | 2007-01-01          | 2017-01-01        |
-| DMAFCLODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Dominica                       | 2004-01-01          | 2020-01-01        |
-| DMAFCLODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Deposits of Households with Commercial Banks for Dominica         | 2004-01-01          | 2020-01-01        |
-| DMAFCLODCHXDC     | Use of Financial Services, Liabilities: Outstanding Deposits by Households at Commercial Banks for Dominica              | 2004-01-01          | 2020-01-01        |
-| DMAFCLODCXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Dominica                            | 2004-01-01          | 2020-01-01        |
+| DMAFCLODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Dominica                       | 2004-01-01          | 2021-01-01        |
+| DMAFCLODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Deposits of Households with Commercial Banks for Dominica         | 2004-01-01          | 2021-01-01        |
+| DMAFCLODCHXDC     | Use of Financial Services, Liabilities: Outstanding Deposits by Households at Commercial Banks for Dominica              | 2004-01-01          | 2021-01-01        |
+| DMAFCLODCXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Dominica                            | 2004-01-01          | 2021-01-01        |
 | DMAFCLODDXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Other Deposit Takers for Dominica                        | 2004-01-01          | 2013-01-01        |
-| DMAFCSODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Dominica                          | 2004-01-01          | 2020-01-01        |
-| DMAFCSODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks to Households for Dominica            | 2004-01-01          | 2020-01-01        |
-| DMAFCSODCHXDC     | Use of Financial Services, Assets: Outstanding Loans to Households at Commercial Banks for Dominica                      | 2004-01-01          | 2020-01-01        |
-| DMAFCSODCXDC      | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Dominica                                    | 2004-01-01          | 2020-01-01        |
+| DMAFCSODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Dominica                          | 2004-01-01          | 2021-01-01        |
+| DMAFCSODCHGGDPPT  | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks to Households for Dominica            | 2004-01-01          | 2021-01-01        |
+| DMAFCSODCHXDC     | Use of Financial Services, Assets: Outstanding Loans to Households at Commercial Banks for Dominica                      | 2004-01-01          | 2021-01-01        |
+| DMAFCSODCXDC      | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Dominica                                    | 2004-01-01          | 2021-01-01        |
 | DMAGGEIGDP        | General Government Expense for Dominica                                                                                  | 2011-01-01          | 2024-01-01        |
 | DMAGGRGDP         | General Government Revenue for Dominica                                                                                  | 2011-01-01          | 2024-01-01        |
 | DMAGGXCNLGDP      | General Government Net Lending/Borrowing for Dominica                                                                    | 1990-01-01          | 2027-01-01        |
@@ -78,7 +78,7 @@
 | DMANGDPRPCH       | Gross Domestic Product for Dominica                                                                                      | 1980-01-01          | 2027-01-01        |
 | DMAPCPIEPCH       | Consumer Prices for Dominica                                                                                             | 1980-01-01          | 2027-01-01        |
 | DMAPPPSH          | Purchasing Power Parity, Share of World for Dominica                                                                     | 2011-01-01          | 2024-01-01        |
-| EXP2486           | U.S. Exports of Goods by F.A.S. Basis to Dominica                                                                        | 1992-01-01          | 2022-07-01        |
+| EXP2486           | U.S. Exports of Goods by F.A.S. Basis to Dominica                                                                        | 1992-01-01          | 2022-08-01        |
 | FLDMAA052SCEN     | Value of Exports to Dominica from Florida                                                                                | 1992-01-01          | 2017-01-01        |
 | FLDMAA475SCEN     | Number of Identified Exporters to Dominica from Florida                                                                  | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGDMA    | Inflation, consumer prices for Dominica                                                                                  | 1967-01-01          | 2021-01-01        |
@@ -91,7 +91,7 @@
 | IDDMAA475SCEN     | Number of Identified Exporters to Dominica from Idaho                                                                    | 1997-01-01          | 2016-01-01        |
 | ILDMAA052SCEN     | Value of Exports to Dominica from Illinois                                                                               | 1992-01-01          | 2017-01-01        |
 | ILDMAA475SCEN     | Number of Identified Exporters to Dominica from Illinois                                                                 | 1992-01-01          | 2017-01-01        |
-| IMP2486           | U.S. Imports of Goods by Customs Basis from Dominica                                                                     | 1992-01-01          | 2022-07-01        |
+| IMP2486           | U.S. Imports of Goods by Customs Basis from Dominica                                                                     | 1992-01-01          | 2022-08-01        |
 | INDMAA052SCEN     | Value of Exports to Dominica from Indiana                                                                                | 2003-01-01          | 2017-01-01        |
 | INDMAA475SCEN     | Number of Identified Exporters to Dominica from Indiana                                                                  | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2DMA    | Internet users for Dominica                                                                                              | 1990-01-01          | 2017-01-01        |

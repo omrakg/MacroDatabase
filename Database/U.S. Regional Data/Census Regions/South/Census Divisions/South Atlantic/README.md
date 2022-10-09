@@ -1,9 +1,9 @@
 | id                    | title                                                                                                                        | observation_start   | observation_end   |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ADPMCDSANERNSA        | Nonfarm Private Employment in the South Atlantic Census Division                                                             | 2010-01-01          | 2022-08-01        |
-| ADPMCDSANERSA         | Nonfarm Private Employment in the South Atlantic Census Division                                                             | 2010-01-01          | 2022-08-01        |
-| ADPWCDSANERNSA        | Nonfarm Private Employment in the South Atlantic Census Division                                                             | 2010-01-02          | 2022-06-11        |
-| ADPWCDSANERSA         | Nonfarm Private Employment in the South Atlantic Census Division                                                             | 2010-01-02          | 2022-06-11        |
+| ADPMCDSANERNSA        | Nonfarm Private Employment in the South Atlantic Census Division                                                             | 2010-01-01          | 2022-09-01        |
+| ADPMCDSANERSA         | Nonfarm Private Employment in the South Atlantic Census Division                                                             | 2010-01-01          | 2022-09-01        |
+| ADPWCDSANERNSA        | Nonfarm Private Employment in the South Atlantic Census Division                                                             | 2010-01-02          | 2022-07-30        |
+| ADPWCDSANERSA         | Nonfarm Private Employment in the South Atlantic Census Division                                                             | 2010-01-02          | 2022-07-30        |
 | CIU2010000000225I     | Employment Cost Index: Total compensation for Private industry workers in the South Atlantic Census Division                 | 2006-01-01          | 2022-04-01        |
 | CIU2020000000225I     | Employment Cost Index: Wages and salaries for Private industry workers in the South Atlantic Census Division                 | 2006-01-01          | 2022-04-01        |
 | CSATBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the South Atlantic Census Division           | 1988-01-01          | 2022-08-01        |

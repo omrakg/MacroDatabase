@@ -17,7 +17,7 @@
 | Washington County, MD      |               147 |
 | St. Mary's County, MD      |               147 |
 | Prince George's County, MD |               147 |
-| Queen Anne's County, MD    |               146 |
+| Queen Anne's County, MD    |                 0 |
 | Somerset County, MD        |                90 |
 | Kent County, MD            |                90 |
 | Montgomery County, MD      |               147 |

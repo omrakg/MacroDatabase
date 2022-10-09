@@ -4,7 +4,7 @@
 | Josephine County, OR  |               147 |
 | Douglas County, OR    |               147 |
 | Lane County, OR       |               147 |
-| Gilliam County, OR    |                 0 |
+| Gilliam County, OR    |                88 |
 | Wheeler County, OR    |                87 |
 | Marion County, OR     |               147 |
 | Klamath County, OR    |               147 |
@@ -30,7 +30,7 @@
 | Tillamook County, OR  |                90 |
 | Coos County, OR       |               146 |
 | Yamhill County, OR    |               146 |
-| Clatsop County, OR    |                90 |
+| Clatsop County, OR    |                 0 |
 | Benton County, OR     |               147 |
 | Wasco County, OR      |                89 |
 | Multnomah County, OR  |               147 |

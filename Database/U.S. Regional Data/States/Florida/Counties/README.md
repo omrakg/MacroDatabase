@@ -7,7 +7,7 @@
 | Escambia County, FL     |               147 |
 | Polk County, FL         |               147 |
 | Taylor County, FL       |                89 |
-| Hamilton County, FL     |                 0 |
+| Hamilton County, FL     |                89 |
 | Highlands County, FL    |               147 |
 | Okeechobee County, FL   |                89 |
 | Liberty County, FL      |                88 |
@@ -23,7 +23,7 @@
 | Marion County, FL       |               147 |
 | Clay County, FL         |               147 |
 | Palm Beach County, FL   |               147 |
-| Leon County, FL         |               146 |
+| Leon County, FL         |                 0 |
 | Manatee County, FL      |               147 |
 | Gadsden County, FL      |                90 |
 | Lake County, FL         |               147 |

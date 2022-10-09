@@ -1,13 +1,13 @@
 | id                        | title                                                                                                             | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU47940            | Housing Inventory: Active Listing Count in Waterloo-Cedar Falls, IA (CBSA)                                        | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM47940          | Housing Inventory: Active Listing Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                       | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY47940          | Housing Inventory: Active Listing Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                         | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU47940            | Housing Inventory: Active Listing Count in Waterloo-Cedar Falls, IA (CBSA)                                        | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM47940          | Housing Inventory: Active Listing Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                       | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY47940          | Housing Inventory: Active Listing Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                         | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS47940Q            | All-Transactions House Price Index for Waterloo-Cedar Falls, IA (MSA)                                             | 1980-10-01          | 2022-04-01        |
-| AVELISPRI47940            | Housing Inventory: Average Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                       | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM47940          | Housing Inventory: Average Listing Price Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY47940          | Housing Inventory: Average Listing Price Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-08-01        |
-| DESCMSA47940              | Market Hotness: Demand Score in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| AVELISPRI47940            | Housing Inventory: Average Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                       | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM47940          | Housing Inventory: Average Listing Price Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY47940          | Housing Inventory: Average Listing Price Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-09-01        |
+| DESCMSA47940              | Market Hotness: Demand Score in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
 | ENUC479430010             | Total Quarterly Wages in Waterloo-Cedar Falls, IA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
 | ENUC479430010SA           | Total Quarterly Wages in Waterloo-Cedar Falls, IA (MSA)                                                           | 1990-01-01          | 2022-01-01        |
 | ENUC479440010             | Average Weekly Wages for Employees in Total Covered Establishments in Waterloo-Cedar Falls, IA (MSA)              | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC479440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Waterloo-Cedar Falls, IA (MSA)           | 2001-01-01          | 2022-01-01        |
 | ENUC479440510             | Average Weekly Wages for Employees in Private Establishments in Waterloo-Cedar Falls, IA (MSA)                    | 1990-01-01          | 2022-01-01        |
 | ENUC479440510SA           | Average Weekly Wages for Employees in Private Establishments in Waterloo-Cedar Falls, IA (MSA)                    | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA47940            | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| HORAMSA47940              | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA47940            | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| HOSCMSA47940              | Market Hotness: Hotness Score in Waterloo-Cedar Falls, IA (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA47940            | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-09-01          | 2022-09-01        |
+| HORAMSA47940              | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA47940            | Market Hotness: Hotness Rank in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2018-08-01          | 2022-09-01        |
+| HOSCMSA47940              | Market Hotness: Hotness Score in Waterloo-Cedar Falls, IA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
 | IRPD47940                 | Implicit Regional Price Deflator for Waterloo-Cedar Falls, IA (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | LAUMT194794000000003A     | Unemployment Rate in Waterloo-Cedar Falls, IA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
 | LAUMT194794000000004      | Unemployed Persons in Waterloo-Cedar Falls, IA (MSA)                                                              | 1990-01-01          | 2022-08-01        |
@@ -31,46 +31,46 @@
 | LAUMT194794000000005      | Employed Persons in Waterloo-Cedar Falls, IA (MSA)                                                                | 1990-01-01          | 2022-08-01        |
 | LAUMT194794000000005A     | Employed Persons in Waterloo-Cedar Falls, IA (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | LAUMT194794000000006A     | Civilian Labor Force in Waterloo-Cedar Falls, IA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA47940          | Market Hotness: Listing Views per Property in Waterloo-Cedar Falls, IA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA47940        | Market Hotness: Listing Views per Property Versus the United States in Waterloo-Cedar Falls, IA (CBSA)            | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA47940          | Market Hotness: Listing Views per Property in Waterloo-Cedar Falls, IA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA47940        | Market Hotness: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                          | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA47940          | Market Hotness: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                          | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA47940        | Market Hotness: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                          | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR47940          | Housing Inventory: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                       | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM47940        | Housing Inventory: Median Days on Market Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY47940        | Housing Inventory: Median Days on Market Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI47940            | Housing Inventory: Median Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                        | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM47940          | Housing Inventory: Median Listing Price Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                       | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE47940   | Housing Inventory: Median Listing Price per Square Feet in Waterloo-Cedar Falls, IA (CBSA)                        | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM47940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)       | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY47940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)         | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY47940          | Housing Inventory: Median Listing Price Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                         | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA47940          | Market Hotness: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                          | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA47940          | Market Hotness: Median Days on Market Versus the United States in Waterloo-Cedar Falls, IA (CBSA)                 | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA47940          | Market Hotness: Median Days on Market Day in Waterloo-Cedar Falls, IA (CBSA)                                      | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE47940            | Housing Inventory: Median Home Size in Square Feet in Waterloo-Cedar Falls, IA (CBSA)                             | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM47940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)            | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY47940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)              | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA47940          | Market Hotness: Median Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                           | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA47940            | Market Hotness: Median Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                           | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA47940        | Market Hotness: Median Listing Price Versus the United States in Waterloo-Cedar Falls, IA (CBSA)                  | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA47940          | Market Hotness: Median Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                           | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU47940            | Housing Inventory: New Listing Count in Waterloo-Cedar Falls, IA (CBSA)                                           | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM47940          | Housing Inventory: New Listing Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                          | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY47940          | Housing Inventory: New Listing Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                            | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA47940          | Market Hotness: Listing Views per Property in Waterloo-Cedar Falls, IA (CBSA)                                     | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA47940        | Market Hotness: Listing Views per Property Versus the United States in Waterloo-Cedar Falls, IA (CBSA)            | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA47940          | Market Hotness: Listing Views per Property in Waterloo-Cedar Falls, IA (CBSA)                                     | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA47940        | Market Hotness: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                          | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA47940          | Market Hotness: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                          | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA47940        | Market Hotness: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                          | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR47940          | Housing Inventory: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                       | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM47940        | Housing Inventory: Median Days on Market Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY47940        | Housing Inventory: Median Days on Market Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI47940            | Housing Inventory: Median Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                        | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM47940          | Housing Inventory: Median Listing Price Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                       | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE47940   | Housing Inventory: Median Listing Price per Square Feet in Waterloo-Cedar Falls, IA (CBSA)                        | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM47940 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)       | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY47940 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)         | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY47940          | Housing Inventory: Median Listing Price Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                         | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA47940          | Market Hotness: Median Days on Market in Waterloo-Cedar Falls, IA (CBSA)                                          | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA47940          | Market Hotness: Median Days on Market Versus the United States in Waterloo-Cedar Falls, IA (CBSA)                 | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA47940          | Market Hotness: Median Days on Market Day in Waterloo-Cedar Falls, IA (CBSA)                                      | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE47940            | Housing Inventory: Median Home Size in Square Feet in Waterloo-Cedar Falls, IA (CBSA)                             | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM47940          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)            | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY47940          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)              | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA47940          | Market Hotness: Median Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                           | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA47940            | Market Hotness: Median Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                           | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA47940        | Market Hotness: Median Listing Price Versus the United States in Waterloo-Cedar Falls, IA (CBSA)                  | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA47940          | Market Hotness: Median Listing Price in Waterloo-Cedar Falls, IA (CBSA)                                           | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU47940            | Housing Inventory: New Listing Count in Waterloo-Cedar Falls, IA (CBSA)                                           | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM47940          | Housing Inventory: New Listing Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                          | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY47940          | Housing Inventory: New Listing Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                            | 2017-07-01          | 2022-09-01        |
 | NGMP47940                 | Total Gross Domestic Product for Waterloo-Cedar Falls, IA (MSA)                                                   | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA47940            | Market Hotness: Nielsen Household Rank in Waterloo-Cedar Falls, IA (CBSA)                                         | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA47940            | Market Hotness: Nielsen Household Rank in Waterloo-Cedar Falls, IA (CBSA)                                         | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA147940          | U.S. Granted Utility Patents Originating in Waterloo-Cedar Falls, IA (MSA)                                        | 2000-01-01          | 2015-01-01        |
-| PENLISCOU47940            | Housing Inventory: Pending Listing Count in Waterloo-Cedar Falls, IA (CBSA)                                       | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM47940          | Housing Inventory: Pending Listing Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY47940          | Housing Inventory: Pending Listing Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU47940            | Housing Inventory: Price Increased Count in Waterloo-Cedar Falls, IA (CBSA)                                       | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM47940          | Housing Inventory: Price Increased Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY47940          | Housing Inventory: Price Increased Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU47940            | Housing Inventory: Price Reduced Count in Waterloo-Cedar Falls, IA (CBSA)                                         | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM47940          | Housing Inventory: Price Reduced Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY47940          | Housing Inventory: Price Reduced Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                          | 2017-07-01          | 2022-08-01        |
+| PENLISCOU47940            | Housing Inventory: Pending Listing Count in Waterloo-Cedar Falls, IA (CBSA)                                       | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM47940          | Housing Inventory: Pending Listing Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY47940          | Housing Inventory: Pending Listing Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU47940            | Housing Inventory: Price Increased Count in Waterloo-Cedar Falls, IA (CBSA)                                       | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM47940          | Housing Inventory: Price Increased Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY47940          | Housing Inventory: Price Increased Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU47940            | Housing Inventory: Price Reduced Count in Waterloo-Cedar Falls, IA (CBSA)                                         | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM47940          | Housing Inventory: Price Reduced Count Month-Over-Month in Waterloo-Cedar Falls, IA (CBSA)                        | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY47940          | Housing Inventory: Price Reduced Count Year-Over-Year in Waterloo-Cedar Falls, IA (CBSA)                          | 2017-07-01          | 2022-09-01        |
 | QGMP47940                 | Total Quantity Indexes for Real GDP for Waterloo-Cedar Falls, IA (MSA)                                            | 2001-01-01          | 2020-01-01        |
 | RGMP47940                 | Total Real Gross Domestic Product for Waterloo-Cedar Falls, IA (MSA)                                              | 2001-01-01          | 2020-01-01        |
 | RPI47940                  | Real Personal Income for Waterloo-Cedar Falls, IA (MSA)                                                           | 2008-01-01          | 2020-01-01        |
@@ -130,7 +130,7 @@
 | SMU19479409093161101      | All Employees: Government: Local Government Educational Services in Waterloo-Cedar Falls, IA (MSA)                | 2003-01-01          | 2022-08-01        |
 | SMU19479409093161101A     | All Employees: Local Government Educational Services in Waterloo-Cedar Falls, IA (MSA)                            | 2003-01-01          | 2021-01-01        |
 | SMU19479409093161101SA    | All Employees: Government: Local Government Educational Services in Waterloo-Cedar Falls, IA (MSA)                | 2003-01-01          | 2022-08-01        |
-| SUSCMSA47940              | Market Hotness: Supply Score in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
+| SUSCMSA47940              | Market Hotness: Supply Score in Waterloo-Cedar Falls, IA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
 | WATE919EDUH               | All Employees: Education and Health Services in Waterloo-Cedar Falls, IA (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | WATE919EDUHN              | All Employees: Education and Health Services in Waterloo-Cedar Falls, IA (MSA)                                    | 1990-01-01          | 2022-08-01        |
 | WATE919FIRE               | All Employees: Financial Activities in Waterloo-Cedar Falls, IA (MSA)                                             | 2004-01-01          | 2022-08-01        |

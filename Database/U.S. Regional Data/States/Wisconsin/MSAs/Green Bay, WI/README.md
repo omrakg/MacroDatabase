@@ -1,13 +1,13 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU24580            | Housing Inventory: Active Listing Count in Green Bay, WI (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM24580          | Housing Inventory: Active Listing Count Month-Over-Month in Green Bay, WI (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY24580          | Housing Inventory: Active Listing Count Year-Over-Year in Green Bay, WI (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU24580            | Housing Inventory: Active Listing Count in Green Bay, WI (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM24580          | Housing Inventory: Active Listing Count Month-Over-Month in Green Bay, WI (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY24580          | Housing Inventory: Active Listing Count Year-Over-Year in Green Bay, WI (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS24580Q            | All-Transactions House Price Index for Green Bay, WI (MSA)                                                     | 1985-07-01          | 2022-04-01        |
-| AVELISPRI24580            | Housing Inventory: Average Listing Price in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM24580          | Housing Inventory: Average Listing Price Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY24580          | Housing Inventory: Average Listing Price Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA24580              | Market Hotness: Demand Score in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI24580            | Housing Inventory: Average Listing Price in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM24580          | Housing Inventory: Average Listing Price Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY24580          | Housing Inventory: Average Listing Price Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA24580              | Market Hotness: Demand Score in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC245830010             | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC245830010SA           | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC245840010             | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -48,10 +48,10 @@
 | GREE555TRADN              | All Employees: Trade, Transportation, and Utilities in Green Bay, WI (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | GREE555UR                 | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | GREE555URN                | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| HORAMMMSA24580            | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA24580              | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA24580            | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA24580              | Market Hotness: Hotness Score in Green Bay, WI (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA24580            | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA24580              | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA24580            | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA24580              | Market Hotness: Hotness Score in Green Bay, WI (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD24580                 | Implicit Regional Price Deflator for Green Bay, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT552458000000003A     | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT552458000000004      | Unemployed Persons in Green Bay, WI (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -59,46 +59,46 @@
 | LAUMT552458000000005      | Employed Persons in Green Bay, WI (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT552458000000005A     | Employed Persons in Green Bay, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT552458000000006A     | Civilian Labor Force in Green Bay, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA24580          | Market Hotness: Listing Views per Property in Green Bay, WI (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA24580        | Market Hotness: Listing Views per Property Versus the United States in Green Bay, WI (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA24580          | Market Hotness: Listing Views per Property in Green Bay, WI (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA24580        | Market Hotness: Median Days on Market in Green Bay, WI (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA24580          | Market Hotness: Median Days on Market in Green Bay, WI (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA24580        | Market Hotness: Median Days on Market in Green Bay, WI (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR24580          | Housing Inventory: Median Days on Market in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM24580        | Housing Inventory: Median Days on Market Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY24580        | Housing Inventory: Median Days on Market Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI24580            | Housing Inventory: Median Listing Price in Green Bay, WI (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM24580          | Housing Inventory: Median Listing Price Month-Over-Month in Green Bay, WI (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE24580   | Housing Inventory: Median Listing Price per Square Feet in Green Bay, WI (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM24580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Green Bay, WI (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY24580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Green Bay, WI (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY24580          | Housing Inventory: Median Listing Price Year-Over-Year in Green Bay, WI (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA24580          | Market Hotness: Median Days on Market in Green Bay, WI (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA24580          | Market Hotness: Median Days on Market Versus the United States in Green Bay, WI (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA24580          | Market Hotness: Median Days on Market Day in Green Bay, WI (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE24580            | Housing Inventory: Median Home Size in Square Feet in Green Bay, WI (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM24580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Green Bay, WI (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY24580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Green Bay, WI (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA24580          | Market Hotness: Median Listing Price in Green Bay, WI (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA24580            | Market Hotness: Median Listing Price in Green Bay, WI (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA24580        | Market Hotness: Median Listing Price Versus the United States in Green Bay, WI (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA24580          | Market Hotness: Median Listing Price in Green Bay, WI (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU24580            | Housing Inventory: New Listing Count in Green Bay, WI (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM24580          | Housing Inventory: New Listing Count Month-Over-Month in Green Bay, WI (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY24580          | Housing Inventory: New Listing Count Year-Over-Year in Green Bay, WI (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA24580          | Market Hotness: Listing Views per Property in Green Bay, WI (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA24580        | Market Hotness: Listing Views per Property Versus the United States in Green Bay, WI (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA24580          | Market Hotness: Listing Views per Property in Green Bay, WI (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA24580        | Market Hotness: Median Days on Market in Green Bay, WI (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA24580          | Market Hotness: Median Days on Market in Green Bay, WI (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA24580        | Market Hotness: Median Days on Market in Green Bay, WI (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR24580          | Housing Inventory: Median Days on Market in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM24580        | Housing Inventory: Median Days on Market Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY24580        | Housing Inventory: Median Days on Market Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI24580            | Housing Inventory: Median Listing Price in Green Bay, WI (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM24580          | Housing Inventory: Median Listing Price Month-Over-Month in Green Bay, WI (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE24580   | Housing Inventory: Median Listing Price per Square Feet in Green Bay, WI (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM24580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Green Bay, WI (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY24580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Green Bay, WI (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY24580          | Housing Inventory: Median Listing Price Year-Over-Year in Green Bay, WI (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA24580          | Market Hotness: Median Days on Market in Green Bay, WI (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA24580          | Market Hotness: Median Days on Market Versus the United States in Green Bay, WI (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA24580          | Market Hotness: Median Days on Market Day in Green Bay, WI (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE24580            | Housing Inventory: Median Home Size in Square Feet in Green Bay, WI (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM24580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Green Bay, WI (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY24580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Green Bay, WI (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA24580          | Market Hotness: Median Listing Price in Green Bay, WI (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA24580            | Market Hotness: Median Listing Price in Green Bay, WI (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA24580        | Market Hotness: Median Listing Price Versus the United States in Green Bay, WI (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA24580          | Market Hotness: Median Listing Price in Green Bay, WI (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU24580            | Housing Inventory: New Listing Count in Green Bay, WI (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM24580          | Housing Inventory: New Listing Count Month-Over-Month in Green Bay, WI (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY24580          | Housing Inventory: New Listing Count Year-Over-Year in Green Bay, WI (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP24580                 | Total Gross Domestic Product for Green Bay, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA24580            | Market Hotness: Nielsen Household Rank in Green Bay, WI (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA24580            | Market Hotness: Nielsen Household Rank in Green Bay, WI (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA124580          | U.S. Granted Utility Patents Originating in Green Bay, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU24580            | Housing Inventory: Pending Listing Count in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM24580          | Housing Inventory: Pending Listing Count Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY24580          | Housing Inventory: Pending Listing Count Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU24580            | Housing Inventory: Price Increased Count in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOU24580            | Housing Inventory: Pending Listing Count in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM24580          | Housing Inventory: Pending Listing Count Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY24580          | Housing Inventory: Pending Listing Count Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU24580            | Housing Inventory: Price Increased Count in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
 | PRIINCCOUMM24580          | Housing Inventory: Price Increased Count Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY24580          | Housing Inventory: Price Increased Count Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU24580            | Housing Inventory: Price Reduced Count in Green Bay, WI (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM24580          | Housing Inventory: Price Reduced Count Month-Over-Month in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY24580          | Housing Inventory: Price Reduced Count Year-Over-Year in Green Bay, WI (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY24580          | Housing Inventory: Price Increased Count Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU24580            | Housing Inventory: Price Reduced Count in Green Bay, WI (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM24580          | Housing Inventory: Price Reduced Count Month-Over-Month in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY24580          | Housing Inventory: Price Reduced Count Year-Over-Year in Green Bay, WI (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP24580                 | Total Quantity Indexes for Real GDP for Green Bay, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP24580                 | Total Real Gross Domestic Product for Green Bay, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI24580                  | Real Personal Income for Green Bay, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -164,4 +164,4 @@
 | SMU55245809093000001      | All Employees: Government: Local Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU55245809093000001A     | All Employees: Local Government in Green Bay, WI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU55245809093000001SA    | All Employees: Government: Local Government in Green Bay, WI (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA24580              | Market Hotness: Supply Score in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA24580              | Market Hotness: Supply Score in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

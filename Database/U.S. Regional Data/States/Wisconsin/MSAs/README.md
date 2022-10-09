@@ -11,7 +11,7 @@
 | Fond du Lac, WI                         |               141 |
 | Oshkosh-Neenah, WI                      |               167 |
 | Sheboygan, WI                           |               150 |
-| Janesville-Beloit, WI                   |                 0 |
+| Janesville-Beloit, WI                   |               164 |
 | La Crosse-Onalaska, WI-MN               |                 0 |
 | Racine, WI                              |               161 |
 | Green Bay, WI                           |               167 |

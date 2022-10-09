@@ -13,7 +13,7 @@
 | Grant County, NM      |                90 |
 | Union County, NM      |                87 |
 | Curry County, NM      |               146 |
-| Lea County, NM        |                 0 |
+| Lea County, NM        |               147 |
 | Rio Arriba County, NM |                90 |
 | Guadalupe County, NM  |                87 |
 | Dona Ana County, NM   |               146 |

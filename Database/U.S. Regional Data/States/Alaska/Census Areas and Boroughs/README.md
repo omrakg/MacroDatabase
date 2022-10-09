@@ -18,7 +18,7 @@
 | Southeast Fairbanks Census Area, AK             |                86 |
 | Valdez-Cordova Census Area, AK                  |                87 |
 | Aleutian Islands Census Area                    |                 4 |
-| Kenai Peninsula Borough, AK                     |                 0 |
+| Kenai Peninsula Borough, AK                     |                88 |
 | Wade Hampton Census Area, AK                    |                13 |
 | Sitka Borough - city, AK                        |                 0 |
 | Matanuska-Susitna Borough, AK                   |               144 |
@@ -28,7 +28,7 @@
 | Yakutat City and Borough                        |                82 |
 | Aleutians East Borough, AK                      |                86 |
 | Kusilvak Census Area, AK                        |                52 |
-| Prince of Wales-Hyder Census Area, AK           |                83 |
+| Prince of Wales-Hyder Census Area, AK           |                 0 |
 | Haines Borough, AK                              |                87 |
 | Denali Borough, AK                              |                83 |
 | Ketchikan Gateway Borough, AK                   |                88 |

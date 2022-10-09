@@ -32,7 +32,7 @@
 | Hocking County, OH    |                89 |
 | Muskingum County, OH  |               147 |
 | Huron County, OH      |               145 |
-| Union County, OH      |               146 |
+| Union County, OH      |                 0 |
 | Fulton County, OH     |                90 |
 | Belmont County, OH    |               145 |
 | Lorain County, OH     |               147 |
@@ -51,7 +51,7 @@
 | Van Wert County, OH   |                89 |
 | Darke County, OH      |               146 |
 | Williams County, OH   |                90 |
-| Knox County, OH       |                 0 |
+| Knox County, OH       |               146 |
 | Clinton County, OH    |                90 |
 | Scioto County, OH     |               147 |
 | Ashland County, OH    |               144 |

@@ -19,23 +19,23 @@
 | CPVDGGDPPT          | Official External Debt: Debtor Based for Cabo Verde                                                                | 2004-01-01          | 2023-01-01        |
 | CPVENEERIX          | Nominal Effective Exchange Rate as Based on Consumer Price Index for Cabo Verde                                    | 2004-01-01          | 2021-01-01        |
 | CPVEREERIX          | Real Effective Exchange Rate as Based on Consumer Price Index for Cabo Verde                                       | 2004-01-01          | 2021-01-01        |
-| CPVFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Cabo Verde                                       | 2004-01-01          | 2020-01-01        |
+| CPVFCAANUM          | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Cabo Verde                                       | 2004-01-01          | 2021-01-01        |
 | CPVFCACLNUM         | Geographical Outreach: Number of Automated Teller Machines (ATMs) in 3 Largest Cities for Cabo Verde               | 2004-01-01          | 2015-01-01        |
-| CPVFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Cabo Verde                     | 2004-01-01          | 2020-01-01        |
-| CPVFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Cabo Verde                                             | 2004-01-01          | 2020-01-01        |
-| CPVFCBODCANUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Cabo Verde                   | 2004-01-01          | 2020-01-01        |
-| CPVFCBODCKNUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Cabo Verde                         | 2004-01-01          | 2020-01-01        |
-| CPVFCBODCNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Cabo Verde             | 2004-01-01          | 2020-01-01        |
-| CPVFCDODCANUM       | Use of Financial Services: Key Indicators, Depositors with Commercial Banks Per 1000 Adults for Cabo Verde         | 2004-01-01          | 2020-01-01        |
-| CPVFCDODCPENUM      | Use of Financial Services: Number of Depositors at Commercial Banks for Cabo Verde                                 | 2004-01-01          | 2020-01-01        |
-| CPVFCIODCNUM        | Geographical Outreach: Number of Commercial Banks for Cabo Verde                                                   | 2004-01-01          | 2020-01-01        |
-| CPVFCIOFINUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Cabo Verde | 2004-01-01          | 2020-01-01        |
-| CPVFCLODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Cabo Verde               | 2004-01-01          | 2020-01-01        |
-| CPVFCLODCXDC        | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Cabo Verde                    | 2004-01-01          | 2020-01-01        |
-| CPVFCRODCANUM       | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for Cabo Verde          | 2004-01-01          | 2020-01-01        |
-| CPVFCRODCPENUM      | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Cabo Verde                        | 2004-01-01          | 2020-01-01        |
-| CPVFCSODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Cabo Verde                  | 2004-01-01          | 2020-01-01        |
-| CPVFCSODCXDC        | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Cabo Verde                            | 2004-01-01          | 2020-01-01        |
+| CPVFCACNUM          | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Cabo Verde                     | 2004-01-01          | 2021-01-01        |
+| CPVFCAKNUM          | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Cabo Verde                                             | 2004-01-01          | 2021-01-01        |
+| CPVFCBODCANUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Cabo Verde                   | 2004-01-01          | 2021-01-01        |
+| CPVFCBODCKNUM       | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Cabo Verde                         | 2004-01-01          | 2021-01-01        |
+| CPVFCBODCNUM        | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Cabo Verde             | 2004-01-01          | 2021-01-01        |
+| CPVFCDODCANUM       | Use of Financial Services: Key Indicators, Depositors with Commercial Banks Per 1000 Adults for Cabo Verde         | 2004-01-01          | 2021-01-01        |
+| CPVFCDODCPENUM      | Use of Financial Services: Number of Depositors at Commercial Banks for Cabo Verde                                 | 2004-01-01          | 2021-01-01        |
+| CPVFCIODCNUM        | Geographical Outreach: Number of Commercial Banks for Cabo Verde                                                   | 2004-01-01          | 2021-01-01        |
+| CPVFCIOFINUM        | Geographical Outreach: Number of Institutions, Other Financial Corporations, Insurance Corporations for Cabo Verde | 2004-01-01          | 2021-01-01        |
+| CPVFCLODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Cabo Verde               | 2004-01-01          | 2021-01-01        |
+| CPVFCLODCXDC        | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Cabo Verde                    | 2004-01-01          | 2021-01-01        |
+| CPVFCRODCANUM       | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for Cabo Verde          | 2004-01-01          | 2021-01-01        |
+| CPVFCRODCPENUM      | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Cabo Verde                        | 2004-01-01          | 2021-01-01        |
+| CPVFCSODCGGDPPT     | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Cabo Verde                  | 2004-01-01          | 2021-01-01        |
+| CPVFCSODCXDC        | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Cabo Verde                            | 2004-01-01          | 2021-01-01        |
 | CPVFDSAOPGDPPT      | Claims on Private Sector for Cabo Verde                                                                            | 2004-01-01          | 2021-01-01        |
 | CPVFDSAOPPCPPPT     | Claims on Private Sector for Cabo Verde                                                                            | 2004-01-01          | 2021-01-01        |
 | CPVFMBGDPPT         | Broad Money for Cabo Verde                                                                                         | 2004-01-01          | 2023-01-01        |
@@ -95,7 +95,7 @@
 | DDSI04CVA156NWDB    | Bank Credit to Bank Deposits for Cape Verde                                                                        | 1976-01-01          | 2020-01-01        |
 | DDSI06CVA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Cape Verde                                                    | 2008-01-01          | 2020-01-01        |
 | DECPVA475SCEN       | Number of Identified Exporters to Cape Verde from Delaware                                                         | 2010-01-01          | 2016-01-01        |
-| EXP7643             | U.S. Exports of Goods by F.A.S. Basis to Cabo Verde                                                                | 1992-01-01          | 2022-07-01        |
+| EXP7643             | U.S. Exports of Goods by F.A.S. Basis to Cabo Verde                                                                | 1992-01-01          | 2022-08-01        |
 | FLCPVA052SCEN       | Value of Exports to Cape Verde from Florida                                                                        | 2002-01-01          | 2016-01-01        |
 | FLCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Florida                                                          | 1997-01-01          | 2016-01-01        |
 | FPCPITOTLZGCPV      | Inflation, consumer prices for Cape Verde                                                                          | 1984-01-01          | 2021-01-01        |
@@ -106,7 +106,7 @@
 | IDCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Idaho                                                            | 2005-01-01          | 2016-01-01        |
 | ILCPVA052SCEN       | Value of Exports to Cape Verde from Illinois                                                                       | 2006-01-01          | 2010-01-01        |
 | ILCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Illinois                                                         | 1992-01-01          | 2015-01-01        |
-| IMP7643             | U.S. Imports of Goods by Customs Basis from Cabo Verde                                                             | 1992-01-01          | 2022-07-01        |
+| IMP7643             | U.S. Imports of Goods by Customs Basis from Cabo Verde                                                             | 1992-01-01          | 2022-08-01        |
 | INCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Indiana                                                          | 2009-01-01          | 2012-01-01        |
 | ITNETUSERP2CPV      | Internet users for Cape Verde                                                                                      | 1990-01-01          | 2020-01-01        |
 | KSCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Kansas                                                           | 2003-01-01          | 2009-01-01        |

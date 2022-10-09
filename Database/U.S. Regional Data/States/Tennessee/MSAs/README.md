@@ -4,7 +4,7 @@
 | Chattanooga, TN-GA                             |                 0 |
 | Johnson City, TN                               |               162 |
 | Knoxville, TN                                  |               164 |
-| Morristown, TN                                 |                 0 |
+| Morristown, TN                                 |               139 |
 | Jackson, TN                                    |               139 |
 | Cleveland, TN                                  |               138 |
 | Clarksville, TN-KY                             |                 0 |

@@ -10,7 +10,7 @@
 | Holland-Grand Haven, MI     |                 6 |
 | Midland, MI                 |                59 |
 | Jackson, MI                 |               157 |
-| Ann Arbor, MI               |               179 |
+| Ann Arbor, MI               |                 0 |
 | Saginaw, MI                 |               164 |
 | Muskegon, MI                |               146 |
 | Detroit-Warren-Dearborn, MI |               319 |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                         | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU32580            | Housing Inventory: Active Listing Count in Mcallen-Edinburg-Mission, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM32580          | Housing Inventory: Active Listing Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY32580          | Housing Inventory: Active Listing Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU32580            | Housing Inventory: Active Listing Count in Mcallen-Edinburg-Mission, TX (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM32580          | Housing Inventory: Active Listing Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY32580          | Housing Inventory: Active Listing Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS32580Q            | All-Transactions House Price Index for McAllen-Edinburg-Mission, TX (MSA)                                                     | 1987-01-01          | 2022-04-01        |
-| AVELISPRI32580            | Housing Inventory: Average Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM32580          | Housing Inventory: Average Listing Price Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY32580          | Housing Inventory: Average Listing Price Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA32580              | Market Hotness: Demand Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI32580            | Housing Inventory: Average Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM32580          | Housing Inventory: Average Listing Price Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY32580          | Housing Inventory: Average Listing Price Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA32580              | Market Hotness: Demand Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC325830010             | Total Quarterly Wages in McAllen-Edinburg-Mission, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC325830010SA           | Total Quarterly Wages in McAllen-Edinburg-Mission, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC325840010             | Average Weekly Wages for Employees in Total Covered Establishments in McAllen-Edinburg-Mission, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,11 +20,11 @@
 | ENUC325840310SA           | Average Weekly Wages for Employees in Local Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC325840510             | Average Weekly Wages for Employees in Private Establishments in McAllen-Edinburg-Mission, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC325840510SA           | Average Weekly Wages for Employees in Private Establishments in McAllen-Edinburg-Mission, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA32580              | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA32580              | Market Hotness: Hotness Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
+| HORAMMMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA32580              | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA32580              | Market Hotness: Hotness Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
+| IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-09-30        |
 | IRPD32580                 | Implicit Regional Price Deflator for McAllen-Edinburg-Mission, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483258000000003A     | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT483258000000004      | Unemployed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -32,9 +32,9 @@
 | LAUMT483258000000005      | Employed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT483258000000005A     | Employed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT483258000000006A     | Civilian Labor Force in McAllen-Edinburg-Mission, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA32580          | Market Hotness: Listing Views per Property in Mcallen-Edinburg-Mission, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA32580        | Market Hotness: Listing Views per Property Versus the United States in Mcallen-Edinburg-Mission, TX (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA32580          | Market Hotness: Listing Views per Property in Mcallen-Edinburg-Mission, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRMMMSA32580          | Market Hotness: Listing Views per Property in Mcallen-Edinburg-Mission, TX (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA32580        | Market Hotness: Listing Views per Property Versus the United States in Mcallen-Edinburg-Mission, TX (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA32580          | Market Hotness: Listing Views per Property in Mcallen-Edinburg-Mission, TX (CBSA)                                             | 2018-08-01          | 2022-09-01        |
 | MCAEDUHA158MFRBDAL        | Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-02-01          | 2022-08-01        |
 | MCAEDUHA175MCFRBDAL       | Change in Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                             | 1990-02-01          | 2022-08-01        |
 | MCAEDUHA175MFRBDAL        | Education and Health Services Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                       | 1990-01-01          | 2022-08-01        |
@@ -123,43 +123,43 @@
 | MCATTULA175MFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                | 1990-01-01          | 2022-08-01        |
 | MCATTULA674AFRBDAL        | Trade, Transportation, and Utilities Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                | 1991-01-01          | 2021-01-01        |
 | MCLPOP                    | Resident Population in McAllen-Edinburg-Mission, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| MEDAONMAMMMSA32580        | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA32580          | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA32580        | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR32580          | Housing Inventory: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM32580        | Housing Inventory: Median Days on Market Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY32580        | Housing Inventory: Median Days on Market Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI32580            | Housing Inventory: Median Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM32580          | Housing Inventory: Median Listing Price Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE32580   | Housing Inventory: Median Listing Price per Square Feet in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM32580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY32580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY32580          | Housing Inventory: Median Listing Price Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA32580          | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA32580          | Market Hotness: Median Days on Market Versus the United States in Mcallen-Edinburg-Mission, TX (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA32580          | Market Hotness: Median Days on Market Day in Mcallen-Edinburg-Mission, TX (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE32580            | Housing Inventory: Median Home Size in Square Feet in Mcallen-Edinburg-Mission, TX (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM32580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY32580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA32580          | Market Hotness: Median Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA32580            | Market Hotness: Median Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA32580        | Market Hotness: Median Listing Price Versus the United States in Mcallen-Edinburg-Mission, TX (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA32580          | Market Hotness: Median Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU32580            | Housing Inventory: New Listing Count in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM32580          | Housing Inventory: New Listing Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY32580          | Housing Inventory: New Listing Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDAONMAMMMSA32580        | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA32580          | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA32580        | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR32580          | Housing Inventory: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM32580        | Housing Inventory: Median Days on Market Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY32580        | Housing Inventory: Median Days on Market Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI32580            | Housing Inventory: Median Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM32580          | Housing Inventory: Median Listing Price Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE32580   | Housing Inventory: Median Listing Price per Square Feet in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM32580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY32580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY32580          | Housing Inventory: Median Listing Price Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA32580          | Market Hotness: Median Days on Market in Mcallen-Edinburg-Mission, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA32580          | Market Hotness: Median Days on Market Versus the United States in Mcallen-Edinburg-Mission, TX (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA32580          | Market Hotness: Median Days on Market Day in Mcallen-Edinburg-Mission, TX (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE32580            | Housing Inventory: Median Home Size in Square Feet in Mcallen-Edinburg-Mission, TX (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM32580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY32580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA32580          | Market Hotness: Median Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA32580            | Market Hotness: Median Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA32580        | Market Hotness: Median Listing Price Versus the United States in Mcallen-Edinburg-Mission, TX (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA32580          | Market Hotness: Median Listing Price in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU32580            | Housing Inventory: New Listing Count in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM32580          | Housing Inventory: New Listing Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY32580          | Housing Inventory: New Listing Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP32580                 | Total Gross Domestic Product for McAllen-Edinburg-Mission, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA32580            | Market Hotness: Nielsen Household Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA32580            | Market Hotness: Nielsen Household Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA132580          | U.S. Granted Utility Patents Originating in McAllen-Edinburg-Mission, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU32580            | Housing Inventory: Pending Listing Count in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM32580          | Housing Inventory: Pending Listing Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY32580          | Housing Inventory: Pending Listing Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU32580            | Housing Inventory: Price Increased Count in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM32580          | Housing Inventory: Price Increased Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY32580          | Housing Inventory: Price Increased Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU32580            | Housing Inventory: Price Reduced Count in Mcallen-Edinburg-Mission, TX (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM32580          | Housing Inventory: Price Reduced Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY32580          | Housing Inventory: Price Reduced Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU32580            | Housing Inventory: Pending Listing Count in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM32580          | Housing Inventory: Pending Listing Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY32580          | Housing Inventory: Pending Listing Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU32580            | Housing Inventory: Price Increased Count in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM32580          | Housing Inventory: Price Increased Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY32580          | Housing Inventory: Price Increased Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU32580            | Housing Inventory: Price Reduced Count in Mcallen-Edinburg-Mission, TX (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM32580          | Housing Inventory: Price Reduced Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY32580          | Housing Inventory: Price Reduced Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP32580                 | Total Quantity Indexes for Real GDP for McAllen-Edinburg-Mission, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP32580                 | Total Real Gross Domestic Product for McAllen-Edinburg-Mission, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI32580                  | Real Personal Income for McAllen-Edinburg-Mission, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -219,4 +219,4 @@
 | SMU48325809093000001      | All Employees: Government: Local Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU48325809093000001A     | All Employees: Local Government in McAllen-Edinburg-Mission, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48325809093000001SA    | All Employees: Government: Local Government in McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA32580              | Market Hotness: Supply Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA32580              | Market Hotness: Supply Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

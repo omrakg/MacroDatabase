@@ -1,12 +1,12 @@
 | id                        | title                                                                                          | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU40660            | Housing Inventory: Active Listing Count in Rome, GA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM40660          | Housing Inventory: Active Listing Count Month-Over-Month in Rome, GA (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY40660          | Housing Inventory: Active Listing Count Year-Over-Year in Rome, GA (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU40660            | Housing Inventory: Active Listing Count in Rome, GA (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM40660          | Housing Inventory: Active Listing Count Month-Over-Month in Rome, GA (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY40660          | Housing Inventory: Active Listing Count Year-Over-Year in Rome, GA (CBSA)                      | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS40660Q            | All-Transactions House Price Index for Rome, GA (MSA)                                          | 1987-04-01          | 2022-04-01        |
-| AVELISPRI40660            | Housing Inventory: Average Listing Price in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM40660          | Housing Inventory: Average Listing Price Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY40660          | Housing Inventory: Average Listing Price Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-08-01        |
+| AVELISPRI40660            | Housing Inventory: Average Listing Price in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM40660          | Housing Inventory: Average Listing Price Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY40660          | Housing Inventory: Average Listing Price Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-09-01        |
 | ENUC406630010             | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
 | ENUC406630010SA           | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
 | ENUC406640010             | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2022-01-01        |
@@ -26,32 +26,32 @@
 | LAUMT134066000000005      | Employed Persons in Rome, GA (MSA)                                                             | 1990-01-01          | 2022-08-01        |
 | LAUMT134066000000005A     | Employed Persons in Rome, GA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT134066000000006A     | Civilian Labor Force in Rome, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR40660          | Housing Inventory: Median Days on Market in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM40660        | Housing Inventory: Median Days on Market Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY40660        | Housing Inventory: Median Days on Market Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI40660            | Housing Inventory: Median Listing Price in Rome, GA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM40660          | Housing Inventory: Median Listing Price Month-Over-Month in Rome, GA (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE40660   | Housing Inventory: Median Listing Price per Square Feet in Rome, GA (CBSA)                     | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM40660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Rome, GA (CBSA)    | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY40660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Rome, GA (CBSA)      | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY40660          | Housing Inventory: Median Listing Price Year-Over-Year in Rome, GA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE40660            | Housing Inventory: Median Home Size in Square Feet in Rome, GA (CBSA)                          | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM40660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Rome, GA (CBSA)         | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY40660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Rome, GA (CBSA)           | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU40660            | Housing Inventory: New Listing Count in Rome, GA (CBSA)                                        | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM40660          | Housing Inventory: New Listing Count Month-Over-Month in Rome, GA (CBSA)                       | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY40660          | Housing Inventory: New Listing Count Year-Over-Year in Rome, GA (CBSA)                         | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR40660          | Housing Inventory: Median Days on Market in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM40660        | Housing Inventory: Median Days on Market Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY40660        | Housing Inventory: Median Days on Market Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI40660            | Housing Inventory: Median Listing Price in Rome, GA (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM40660          | Housing Inventory: Median Listing Price Month-Over-Month in Rome, GA (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE40660   | Housing Inventory: Median Listing Price per Square Feet in Rome, GA (CBSA)                     | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM40660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Rome, GA (CBSA)    | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY40660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Rome, GA (CBSA)      | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY40660          | Housing Inventory: Median Listing Price Year-Over-Year in Rome, GA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE40660            | Housing Inventory: Median Home Size in Square Feet in Rome, GA (CBSA)                          | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM40660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Rome, GA (CBSA)         | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY40660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Rome, GA (CBSA)           | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU40660            | Housing Inventory: New Listing Count in Rome, GA (CBSA)                                        | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM40660          | Housing Inventory: New Listing Count Month-Over-Month in Rome, GA (CBSA)                       | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY40660          | Housing Inventory: New Listing Count Year-Over-Year in Rome, GA (CBSA)                         | 2017-07-01          | 2022-09-01        |
 | NGMP40660                 | Total Gross Domestic Product for Rome, GA (MSA)                                                | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA140660          | U.S. Granted Utility Patents Originating in Rome, GA (MSA)                                     | 2000-01-01          | 2015-01-01        |
-| PENLISCOU40660            | Housing Inventory: Pending Listing Count in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM40660          | Housing Inventory: Pending Listing Count Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY40660          | Housing Inventory: Pending Listing Count Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU40660            | Housing Inventory: Price Increased Count in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM40660          | Housing Inventory: Price Increased Count Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY40660          | Housing Inventory: Price Increased Count Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU40660            | Housing Inventory: Price Reduced Count in Rome, GA (CBSA)                                      | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM40660          | Housing Inventory: Price Reduced Count Month-Over-Month in Rome, GA (CBSA)                     | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY40660          | Housing Inventory: Price Reduced Count Year-Over-Year in Rome, GA (CBSA)                       | 2017-07-01          | 2022-08-01        |
+| PENLISCOU40660            | Housing Inventory: Pending Listing Count in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM40660          | Housing Inventory: Pending Listing Count Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY40660          | Housing Inventory: Pending Listing Count Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU40660            | Housing Inventory: Price Increased Count in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM40660          | Housing Inventory: Price Increased Count Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY40660          | Housing Inventory: Price Increased Count Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU40660            | Housing Inventory: Price Reduced Count in Rome, GA (CBSA)                                      | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM40660          | Housing Inventory: Price Reduced Count Month-Over-Month in Rome, GA (CBSA)                     | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY40660          | Housing Inventory: Price Reduced Count Year-Over-Year in Rome, GA (CBSA)                       | 2017-07-01          | 2022-09-01        |
 | QGMP40660                 | Total Quantity Indexes for Real GDP for Rome, GA (MSA)                                         | 2001-01-01          | 2020-01-01        |
 | RGMP40660                 | Total Real Gross Domestic Product for Rome, GA (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | RMEPOP                    | Resident Population in Rome, GA (MSA)                                                          | 2000-01-01          | 2021-01-01        |

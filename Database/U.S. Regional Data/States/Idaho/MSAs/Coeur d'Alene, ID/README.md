@@ -1,12 +1,12 @@
 | id                        | title                                                                                                              | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU17660            | Housing Inventory: Active Listing Count in Coeur D'alene, ID (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM17660          | Housing Inventory: Active Listing Count Month-Over-Month in Coeur D'alene, ID (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY17660          | Housing Inventory: Active Listing Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU17660            | Housing Inventory: Active Listing Count in Coeur D'alene, ID (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM17660          | Housing Inventory: Active Listing Count Month-Over-Month in Coeur D'alene, ID (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY17660          | Housing Inventory: Active Listing Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS17660Q            | All-Transactions House Price Index for Coeur d'Alene, ID (MSA)                                                     | 1990-07-01          | 2022-04-01        |
-| AVELISPRI17660            | Housing Inventory: Average Listing Price in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM17660          | Housing Inventory: Average Listing Price Month-Over-Month in Coeur D'alene, ID (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY17660          | Housing Inventory: Average Listing Price Year-Over-Year in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI17660            | Housing Inventory: Average Listing Price in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM17660          | Housing Inventory: Average Listing Price Month-Over-Month in Coeur D'alene, ID (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY17660          | Housing Inventory: Average Listing Price Year-Over-Year in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | CDAPOP                    | Resident Population in Coeur d'Alene, ID (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | COEU616EDUH               | All Employees: Education and Health Services in Coeur d'Alene, ID (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | COEU616EDUHN              | All Employees: Education and Health Services in Coeur d'Alene, ID (MSA)                                            | 1990-01-01          | 2022-08-01        |
@@ -33,7 +33,7 @@
 | COEU616TRADN              | All Employees: Trade, Transportation, and Utilities in Coeur d'Alene, ID (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | COEU616UR                 | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | COEU616URN                | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| DESCMSA17660              | Market Hotness: Demand Score in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| DESCMSA17660              | Market Hotness: Demand Score in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC176630010             | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC176630010SA           | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC176640010             | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -46,10 +46,10 @@
 | ENUC176640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC176640510             | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC176640510SA           | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA17660              | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA17660              | Market Hotness: Hotness Score in Coeur D'Alene, ID (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA17660              | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA17660              | Market Hotness: Hotness Score in Coeur D'Alene, ID (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD17660                 | Implicit Regional Price Deflator for Coeur d'Alene, ID (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT161766000000003A     | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT161766000000004      | Unemployed Persons in Coeur d'Alene, ID (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -57,46 +57,46 @@
 | LAUMT161766000000005      | Employed Persons in Coeur d'Alene, ID (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT161766000000005A     | Employed Persons in Coeur d'Alene, ID (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT161766000000006A     | Civilian Labor Force in Coeur d'Alene, ID (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA17660          | Market Hotness: Listing Views per Property in Coeur D'Alene, ID (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA17660        | Market Hotness: Listing Views per Property Versus the United States in Coeur D'Alene, ID (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA17660          | Market Hotness: Listing Views per Property in Coeur D'Alene, ID (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA17660        | Market Hotness: Median Days on Market in Coeur D'Alene, ID (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA17660          | Market Hotness: Median Days on Market in Coeur D'Alene, ID (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA17660        | Market Hotness: Median Days on Market in Coeur D'Alene, ID (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR17660          | Housing Inventory: Median Days on Market in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM17660        | Housing Inventory: Median Days on Market Month-Over-Month in Coeur D'alene, ID (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY17660        | Housing Inventory: Median Days on Market Year-Over-Year in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI17660            | Housing Inventory: Median Listing Price in Coeur D'alene, ID (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM17660          | Housing Inventory: Median Listing Price Month-Over-Month in Coeur D'alene, ID (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE17660   | Housing Inventory: Median Listing Price per Square Feet in Coeur D'alene, ID (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM17660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Coeur D'alene, ID (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY17660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Coeur D'alene, ID (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY17660          | Housing Inventory: Median Listing Price Year-Over-Year in Coeur D'alene, ID (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA17660          | Market Hotness: Median Days on Market in Coeur D'Alene, ID (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA17660          | Market Hotness: Median Days on Market Versus the United States in Coeur D'Alene, ID (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA17660          | Market Hotness: Median Days on Market Day in Coeur D'Alene, ID (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE17660            | Housing Inventory: Median Home Size in Square Feet in Coeur D'alene, ID (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM17660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Coeur D'alene, ID (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY17660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Coeur D'alene, ID (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA17660          | Market Hotness: Median Listing Price in Coeur D'Alene, ID (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA17660            | Market Hotness: Median Listing Price in Coeur D'Alene, ID (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA17660        | Market Hotness: Median Listing Price Versus the United States in Coeur D'Alene, ID (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA17660          | Market Hotness: Median Listing Price in Coeur D'Alene, ID (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU17660            | Housing Inventory: New Listing Count in Coeur D'alene, ID (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM17660          | Housing Inventory: New Listing Count Month-Over-Month in Coeur D'alene, ID (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY17660          | Housing Inventory: New Listing Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA17660          | Market Hotness: Listing Views per Property in Coeur D'Alene, ID (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA17660        | Market Hotness: Listing Views per Property Versus the United States in Coeur D'Alene, ID (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA17660          | Market Hotness: Listing Views per Property in Coeur D'Alene, ID (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA17660        | Market Hotness: Median Days on Market in Coeur D'Alene, ID (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA17660          | Market Hotness: Median Days on Market in Coeur D'Alene, ID (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA17660        | Market Hotness: Median Days on Market in Coeur D'Alene, ID (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR17660          | Housing Inventory: Median Days on Market in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM17660        | Housing Inventory: Median Days on Market Month-Over-Month in Coeur D'alene, ID (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY17660        | Housing Inventory: Median Days on Market Year-Over-Year in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI17660            | Housing Inventory: Median Listing Price in Coeur D'alene, ID (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM17660          | Housing Inventory: Median Listing Price Month-Over-Month in Coeur D'alene, ID (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE17660   | Housing Inventory: Median Listing Price per Square Feet in Coeur D'alene, ID (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM17660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Coeur D'alene, ID (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY17660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Coeur D'alene, ID (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY17660          | Housing Inventory: Median Listing Price Year-Over-Year in Coeur D'alene, ID (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA17660          | Market Hotness: Median Days on Market in Coeur D'Alene, ID (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA17660          | Market Hotness: Median Days on Market Versus the United States in Coeur D'Alene, ID (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA17660          | Market Hotness: Median Days on Market Day in Coeur D'Alene, ID (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE17660            | Housing Inventory: Median Home Size in Square Feet in Coeur D'alene, ID (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM17660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Coeur D'alene, ID (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY17660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Coeur D'alene, ID (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA17660          | Market Hotness: Median Listing Price in Coeur D'Alene, ID (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA17660            | Market Hotness: Median Listing Price in Coeur D'Alene, ID (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA17660        | Market Hotness: Median Listing Price Versus the United States in Coeur D'Alene, ID (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA17660          | Market Hotness: Median Listing Price in Coeur D'Alene, ID (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU17660            | Housing Inventory: New Listing Count in Coeur D'alene, ID (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM17660          | Housing Inventory: New Listing Count Month-Over-Month in Coeur D'alene, ID (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY17660          | Housing Inventory: New Listing Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP17660                 | Total Gross Domestic Product for Coeur d'Alene, ID (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA17660            | Market Hotness: Nielsen Household Rank in Coeur D'Alene, ID (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA17660            | Market Hotness: Nielsen Household Rank in Coeur D'Alene, ID (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA117660          | U.S. Granted Utility Patents Originating in Coeur d'Alene, ID (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU17660            | Housing Inventory: Pending Listing Count in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM17660          | Housing Inventory: Pending Listing Count Month-Over-Month in Coeur D'alene, ID (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY17660          | Housing Inventory: Pending Listing Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU17660            | Housing Inventory: Price Increased Count in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM17660          | Housing Inventory: Price Increased Count Month-Over-Month in Coeur D'alene, ID (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY17660          | Housing Inventory: Price Increased Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU17660            | Housing Inventory: Price Reduced Count in Coeur D'alene, ID (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM17660          | Housing Inventory: Price Reduced Count Month-Over-Month in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY17660          | Housing Inventory: Price Reduced Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU17660            | Housing Inventory: Pending Listing Count in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM17660          | Housing Inventory: Pending Listing Count Month-Over-Month in Coeur D'alene, ID (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY17660          | Housing Inventory: Pending Listing Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU17660            | Housing Inventory: Price Increased Count in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM17660          | Housing Inventory: Price Increased Count Month-Over-Month in Coeur D'alene, ID (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY17660          | Housing Inventory: Price Increased Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU17660            | Housing Inventory: Price Reduced Count in Coeur D'alene, ID (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM17660          | Housing Inventory: Price Reduced Count Month-Over-Month in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY17660          | Housing Inventory: Price Reduced Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP17660                 | Total Quantity Indexes for Real GDP for Coeur d'Alene, ID (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP17660                 | Total Real Gross Domestic Product for Coeur d'Alene, ID (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI17660                  | Real Personal Income for Coeur d'Alene, ID (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -161,4 +161,4 @@
 | SMU16176609093000001      | All Employees: Government: Local Government in Coeur d'Alene, ID (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU16176609093000001A     | All Employees: Local Government in Coeur d'Alene, ID (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU16176609093000001SA    | All Employees: Government: Local Government in Coeur d'Alene, ID (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA17660              | Market Hotness: Supply Score in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA17660              | Market Hotness: Supply Score in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

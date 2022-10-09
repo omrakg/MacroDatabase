@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                         | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU26580            | Housing Inventory: Active Listing Count in Huntington-Ashland, WV-KY-OH (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM26580          | Housing Inventory: Active Listing Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY26580          | Housing Inventory: Active Listing Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU26580            | Housing Inventory: Active Listing Count in Huntington-Ashland, WV-KY-OH (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM26580          | Housing Inventory: Active Listing Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY26580          | Housing Inventory: Active Listing Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS26580Q            | All-Transactions House Price Index for Huntington-Ashland, WV-KY-OH (MSA)                                                     | 1986-10-01          | 2022-04-01        |
-| AVELISPRI26580            | Housing Inventory: Average Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM26580          | Housing Inventory: Average Listing Price Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY26580          | Housing Inventory: Average Listing Price Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA26580              | Market Hotness: Demand Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI26580            | Housing Inventory: Average Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM26580          | Housing Inventory: Average Listing Price Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY26580          | Housing Inventory: Average Listing Price Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA26580              | Market Hotness: Demand Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC265830010             | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC265830010SA           | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC265840010             | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -21,10 +21,10 @@
 | ENUC265840510             | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC265840510SA           | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2022-01-01        |
 | HNAPOP                    | Resident Population in Huntington-Ashland, WV-KY-OH (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA26580            | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA26580              | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA26580            | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA26580              | Market Hotness: Hotness Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA26580            | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA26580              | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA26580            | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA26580              | Market Hotness: Hotness Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | HUNT554EDUH               | All Employees: Education and Health Services in Huntington-Ashland, WV-KY-OH (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | HUNT554EDUHN              | All Employees: Education and Health Services in Huntington-Ashland, WV-KY-OH (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | HUNT554GOVT               | All Employees: Government in Huntington-Ashland, WV-KY-OH (MSA)                                                               | 1990-01-01          | 2022-08-01        |
@@ -49,46 +49,46 @@
 | LAUMT542658000000005      | Employed Persons in Huntington-Ashland, WV-KY-OH (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT542658000000005A     | Employed Persons in Huntington-Ashland, WV-KY-OH (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT542658000000006A     | Civilian Labor Force in Huntington-Ashland, WV-KY-OH (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA26580          | Market Hotness: Listing Views per Property in Huntington-Ashland, WV-KY-OH (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA26580        | Market Hotness: Listing Views per Property Versus the United States in Huntington-Ashland, WV-KY-OH (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA26580          | Market Hotness: Listing Views per Property in Huntington-Ashland, WV-KY-OH (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA26580        | Market Hotness: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA26580          | Market Hotness: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA26580        | Market Hotness: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR26580          | Housing Inventory: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM26580        | Housing Inventory: Median Days on Market Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY26580        | Housing Inventory: Median Days on Market Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI26580            | Housing Inventory: Median Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM26580          | Housing Inventory: Median Listing Price Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE26580   | Housing Inventory: Median Listing Price per Square Feet in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM26580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY26580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY26580          | Housing Inventory: Median Listing Price Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA26580          | Market Hotness: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA26580          | Market Hotness: Median Days on Market Versus the United States in Huntington-Ashland, WV-KY-OH (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA26580          | Market Hotness: Median Days on Market Day in Huntington-Ashland, WV-KY-OH (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE26580            | Housing Inventory: Median Home Size in Square Feet in Huntington-Ashland, WV-KY-OH (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM26580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY26580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA26580          | Market Hotness: Median Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA26580            | Market Hotness: Median Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA26580        | Market Hotness: Median Listing Price Versus the United States in Huntington-Ashland, WV-KY-OH (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA26580          | Market Hotness: Median Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU26580            | Housing Inventory: New Listing Count in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM26580          | Housing Inventory: New Listing Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY26580          | Housing Inventory: New Listing Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA26580          | Market Hotness: Listing Views per Property in Huntington-Ashland, WV-KY-OH (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA26580        | Market Hotness: Listing Views per Property Versus the United States in Huntington-Ashland, WV-KY-OH (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA26580          | Market Hotness: Listing Views per Property in Huntington-Ashland, WV-KY-OH (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA26580        | Market Hotness: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA26580          | Market Hotness: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA26580        | Market Hotness: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR26580          | Housing Inventory: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM26580        | Housing Inventory: Median Days on Market Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY26580        | Housing Inventory: Median Days on Market Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI26580            | Housing Inventory: Median Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM26580          | Housing Inventory: Median Listing Price Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE26580   | Housing Inventory: Median Listing Price per Square Feet in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM26580 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY26580 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY26580          | Housing Inventory: Median Listing Price Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA26580          | Market Hotness: Median Days on Market in Huntington-Ashland, WV-KY-OH (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA26580          | Market Hotness: Median Days on Market Versus the United States in Huntington-Ashland, WV-KY-OH (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA26580          | Market Hotness: Median Days on Market Day in Huntington-Ashland, WV-KY-OH (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE26580            | Housing Inventory: Median Home Size in Square Feet in Huntington-Ashland, WV-KY-OH (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM26580          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY26580          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA26580          | Market Hotness: Median Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA26580            | Market Hotness: Median Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA26580        | Market Hotness: Median Listing Price Versus the United States in Huntington-Ashland, WV-KY-OH (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA26580          | Market Hotness: Median Listing Price in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU26580            | Housing Inventory: New Listing Count in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM26580          | Housing Inventory: New Listing Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY26580          | Housing Inventory: New Listing Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP26580                 | Total Gross Domestic Product for Huntington-Ashland, WV-KY-OH (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA26580            | Market Hotness: Nielsen Household Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA26580            | Market Hotness: Nielsen Household Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA126580          | U.S. Granted Utility Patents Originating in Huntington-Ashland, WV-KY-OH (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU26580            | Housing Inventory: Pending Listing Count in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM26580          | Housing Inventory: Pending Listing Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY26580          | Housing Inventory: Pending Listing Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU26580            | Housing Inventory: Price Increased Count in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-08-01        |
+| PENLISCOU26580            | Housing Inventory: Pending Listing Count in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM26580          | Housing Inventory: Pending Listing Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY26580          | Housing Inventory: Pending Listing Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU26580            | Housing Inventory: Price Increased Count in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-09-01        |
 | PRIINCCOUMM26580          | Housing Inventory: Price Increased Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-08-01        |
 | PRIINCCOUYY26580          | Housing Inventory: Price Increased Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU26580            | Housing Inventory: Price Reduced Count in Huntington-Ashland, WV-KY-OH (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM26580          | Housing Inventory: Price Reduced Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY26580          | Housing Inventory: Price Reduced Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU26580            | Housing Inventory: Price Reduced Count in Huntington-Ashland, WV-KY-OH (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM26580          | Housing Inventory: Price Reduced Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY26580          | Housing Inventory: Price Reduced Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP26580                 | Total Quantity Indexes for Real GDP for Huntington-Ashland, WV-KY-OH (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP26580                 | Total Real Gross Domestic Product for Huntington-Ashland, WV-KY-OH (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI26580                  | Real Personal Income for Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -156,4 +156,4 @@
 | SMU54265809093000001      | All Employees: Government: Local Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU54265809093000001A     | All Employees: Local Government in Huntington-Ashland, WV-KY-OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU54265809093000001SA    | All Employees: Government: Local Government in Huntington-Ashland, WV-KY-OH (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA26580              | Market Hotness: Supply Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA26580              | Market Hotness: Supply Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

@@ -1,12 +1,12 @@
 | id                        | title                                                                                             | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU38220            | Housing Inventory: Active Listing Count in Pine Bluff, AR (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM38220          | Housing Inventory: Active Listing Count Month-Over-Month in Pine Bluff, AR (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY38220          | Housing Inventory: Active Listing Count Year-Over-Year in Pine Bluff, AR (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU38220            | Housing Inventory: Active Listing Count in Pine Bluff, AR (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM38220          | Housing Inventory: Active Listing Count Month-Over-Month in Pine Bluff, AR (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY38220          | Housing Inventory: Active Listing Count Year-Over-Year in Pine Bluff, AR (CBSA)                   | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS38220Q            | All-Transactions House Price Index for Pine Bluff, AR (MSA)                                       | 1993-01-01          | 2022-04-01        |
-| AVELISPRI38220            | Housing Inventory: Average Listing Price in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM38220          | Housing Inventory: Average Listing Price Month-Over-Month in Pine Bluff, AR (CBSA)                | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY38220          | Housing Inventory: Average Listing Price Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| AVELISPRI38220            | Housing Inventory: Average Listing Price in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM38220          | Housing Inventory: Average Listing Price Month-Over-Month in Pine Bluff, AR (CBSA)                | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY38220          | Housing Inventory: Average Listing Price Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-09-01        |
 | ENUC382230010             | Total Quarterly Wages in Pine Bluff, AR (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC382230010SA           | Total Quarterly Wages in Pine Bluff, AR (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC382240010             | Average Weekly Wages for Employees in Total Covered Establishments in Pine Bluff, AR (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -26,21 +26,21 @@
 | LAUMT053822000000005      | Employed Persons in Pine Bluff, AR (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT053822000000005A     | Employed Persons in Pine Bluff, AR (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT053822000000006A     | Civilian Labor Force in Pine Bluff, AR (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR38220          | Housing Inventory: Median Days on Market in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM38220        | Housing Inventory: Median Days on Market Month-Over-Month in Pine Bluff, AR (CBSA)                | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY38220        | Housing Inventory: Median Days on Market Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI38220            | Housing Inventory: Median Listing Price in Pine Bluff, AR (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM38220          | Housing Inventory: Median Listing Price Month-Over-Month in Pine Bluff, AR (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE38220   | Housing Inventory: Median Listing Price per Square Feet in Pine Bluff, AR (CBSA)                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM38220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Pine Bluff, AR (CBSA) | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY38220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Pine Bluff, AR (CBSA)   | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY38220          | Housing Inventory: Median Listing Price Year-Over-Year in Pine Bluff, AR (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE38220            | Housing Inventory: Median Home Size in Square Feet in Pine Bluff, AR (CBSA)                       | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM38220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Pine Bluff, AR (CBSA)      | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY38220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Pine Bluff, AR (CBSA)        | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU38220            | Housing Inventory: New Listing Count in Pine Bluff, AR (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM38220          | Housing Inventory: New Listing Count Month-Over-Month in Pine Bluff, AR (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY38220          | Housing Inventory: New Listing Count Year-Over-Year in Pine Bluff, AR (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR38220          | Housing Inventory: Median Days on Market in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM38220        | Housing Inventory: Median Days on Market Month-Over-Month in Pine Bluff, AR (CBSA)                | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY38220        | Housing Inventory: Median Days on Market Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI38220            | Housing Inventory: Median Listing Price in Pine Bluff, AR (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM38220          | Housing Inventory: Median Listing Price Month-Over-Month in Pine Bluff, AR (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE38220   | Housing Inventory: Median Listing Price per Square Feet in Pine Bluff, AR (CBSA)                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM38220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Pine Bluff, AR (CBSA) | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY38220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Pine Bluff, AR (CBSA)   | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY38220          | Housing Inventory: Median Listing Price Year-Over-Year in Pine Bluff, AR (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE38220            | Housing Inventory: Median Home Size in Square Feet in Pine Bluff, AR (CBSA)                       | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM38220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Pine Bluff, AR (CBSA)      | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY38220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Pine Bluff, AR (CBSA)        | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU38220            | Housing Inventory: New Listing Count in Pine Bluff, AR (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM38220          | Housing Inventory: New Listing Count Month-Over-Month in Pine Bluff, AR (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY38220          | Housing Inventory: New Listing Count Year-Over-Year in Pine Bluff, AR (CBSA)                      | 2017-07-01          | 2022-09-01        |
 | NGMP38220                 | Total Gross Domestic Product for Pine Bluff, AR (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA138220          | U.S. Granted Utility Patents Originating in Pine Bluff, AR (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PBFGOVT                   | All Employees: Government in Pine Bluff, AR (MSA)                                                 | 1990-01-01          | 2022-08-01        |
@@ -53,15 +53,15 @@
 | PBFPOP                    | Resident Population in Pine Bluff, AR (MSA)                                                       | 1970-01-01          | 2021-01-01        |
 | PBFUR                     | Unemployment Rate in Pine Bluff, AR (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | PBFURN                    | Unemployment Rate in Pine Bluff, AR (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| PENLISCOU38220            | Housing Inventory: Pending Listing Count in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM38220          | Housing Inventory: Pending Listing Count Month-Over-Month in Pine Bluff, AR (CBSA)                | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY38220          | Housing Inventory: Pending Listing Count Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU38220            | Housing Inventory: Price Increased Count in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-08-01        |
+| PENLISCOU38220            | Housing Inventory: Pending Listing Count in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM38220          | Housing Inventory: Pending Listing Count Month-Over-Month in Pine Bluff, AR (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY38220          | Housing Inventory: Pending Listing Count Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU38220            | Housing Inventory: Price Increased Count in Pine Bluff, AR (CBSA)                                 | 2016-07-01          | 2022-09-01        |
 | PRIINCCOUMM38220          | Housing Inventory: Price Increased Count Month-Over-Month in Pine Bluff, AR (CBSA)                | 2018-04-01          | 2022-08-01        |
-| PRIINCCOUYY38220          | Housing Inventory: Price Increased Count Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2019-03-01        |
-| PRIREDCOU38220            | Housing Inventory: Price Reduced Count in Pine Bluff, AR (CBSA)                                   | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM38220          | Housing Inventory: Price Reduced Count Month-Over-Month in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY38220          | Housing Inventory: Price Reduced Count Year-Over-Year in Pine Bluff, AR (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY38220          | Housing Inventory: Price Increased Count Year-Over-Year in Pine Bluff, AR (CBSA)                  | 2019-03-01          | 2022-09-01        |
+| PRIREDCOU38220            | Housing Inventory: Price Reduced Count in Pine Bluff, AR (CBSA)                                   | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM38220          | Housing Inventory: Price Reduced Count Month-Over-Month in Pine Bluff, AR (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY38220          | Housing Inventory: Price Reduced Count Year-Over-Year in Pine Bluff, AR (CBSA)                    | 2017-07-01          | 2022-09-01        |
 | QGMP38220                 | Total Quantity Indexes for Real GDP for Pine Bluff, AR (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP38220                 | Total Real Gross Domestic Product for Pine Bluff, AR (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI38220                  | Real Personal Income for Pine Bluff, AR (MSA)                                                     | 2008-01-01          | 2020-01-01        |

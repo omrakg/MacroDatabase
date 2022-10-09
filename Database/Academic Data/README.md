@@ -1,3 +1,3 @@
 | id          | title                                                                       | observation_start   | observation_end   |
 |-------------|-----------------------------------------------------------------------------|---------------------|-------------------|
-| LODINIM066N | University of Louisville and Oklahoma State University: LoDI National Index | 2008-05-01          | 2022-07-01        |
+| LODINIM066N | University of Louisville and Oklahoma State University: LoDI National Index | 2008-05-01          | 2022-10-01        |

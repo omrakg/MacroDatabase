@@ -1,12 +1,12 @@
 | id                 | title                                                                                               | observation_start   | observation_end   |
 |--------------------|-----------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CANEPUINDXM        | Economic Policy Uncertainty Index for Canada                                                        | 1985-01-01          | 2022-08-01        |
-| CATEPUINDXM        | Economic Policy Uncertainty Index: Categorical Index: Overall                                       | 1985-01-01          | 2022-07-01        |
+| CANEPUINDXM        | Economic Policy Uncertainty Index for Canada                                                        | 1985-01-01          | 2022-09-01        |
+| CATEPUINDXM        | Economic Policy Uncertainty Index: Categorical Index: Overall                                       | 1985-01-01          | 2022-08-01        |
 | CHIEPUINDXM        | Economic Policy Uncertainty Index for China                                                         | 1995-01-01          | 2019-04-01        |
 | CHNMAINLANDEPU     | Economic Policy Uncertainty Index: Mainland Papers for China                                        | 1949-10-01          | 2022-08-01        |
 | CHNMAINLANDTPU     | Trade Policy Uncertainty Index: Mainland Papers for China                                           | 2000-01-01          | 2022-08-01        |
 | DEEPUFEARINDX      | Migration Fear Index for Germany                                                                    | 1990-01-01          | 2022-07-01        |
-| DEEPUINDXM         | Economic Policy Uncertainty Index for Germany                                                       | 1993-01-01          | 2022-08-01        |
+| DEEPUINDXM         | Economic Policy Uncertainty Index for Germany                                                       | 1993-01-01          | 2022-09-01        |
 | DEEPUMIGINDX       | Migration Policy Uncertainty Index for Germany                                                      | 1990-01-01          | 2022-07-01        |
 | EMNLABORREG        | Equity Market Volatility Tracker: Labor Regulations                                                 | 1985-01-01          | 2022-08-01        |
 | EMVAGRPOLICY       | Equity Market Volatility Tracker: Agricultural Policy                                               | 1985-01-01          | 2022-08-01        |
@@ -51,38 +51,38 @@
 | EMVTRADEPOLEMV     | Equity Market Volatility Tracker: Trade Policy                                                      | 1985-01-01          | 2022-08-01        |
 | EMVTRADEPUBUTEMV   | Equity Market Volatility Tracker: Transportation, Infrastructure, and Public Utilities              | 1985-01-01          | 2022-08-01        |
 | EMVWELFARE         | Equity Market Volatility Tracker: Entitlement And Welfare Programs                                  | 1985-01-01          | 2022-08-01        |
-| EPUENTITLE         | Economic Policy Uncertainty Index: Categorical Index: Entitlement programs                          | 1985-01-01          | 2022-07-01        |
-| EPUFINREG          | Economic Policy Uncertainty Index: Categorical Index: Financial Regulation                          | 1985-01-01          | 2022-07-01        |
-| EPUFISCAL          | Economic Policy Uncertainty Index: Categorical Index: Fiscal Policy (Taxes OR Spending)             | 1985-01-01          | 2022-07-01        |
-| EPUGOVTSPEND       | Economic Policy Uncertainty Index: Categorical Index: Government spending                           | 1985-01-01          | 2022-07-01        |
-| EPUHEALTHCARE      | Economic Policy Uncertainty Index: Categorical Index: Health care                                   | 1985-01-01          | 2022-07-01        |
-| EPUMONETARY        | Economic Policy Uncertainty Index: Categorical Index: Monetary policy                               | 1985-01-01          | 2022-07-01        |
-| EPUNATSEC          | Economic Policy Uncertainty Index: Categorical Index: National security                             | 1985-01-01          | 2022-07-01        |
-| EPUREG             | Economic Policy Uncertainty Index: Categorical Index: Regulation                                    | 1985-01-01          | 2022-07-01        |
-| EPUSOVDEBT         | Economic Policy Uncertainty Index: Categorical Index: Sovereign debt, currency crises               | 1985-01-01          | 2022-07-01        |
-| EPUTAXES           | Economic Policy Uncertainty Index: Categorical Index: Taxes                                         | 1985-01-01          | 2022-07-01        |
-| EPUTRADE           | Economic Policy Uncertainty Index: Categorical Index: Trade policy                                  | 1985-01-01          | 2022-07-01        |
-| EUEPUINDXM         | Economic Policy Uncertainty Index for Europe                                                        | 1987-01-01          | 2022-08-01        |
+| EPUENTITLE         | Economic Policy Uncertainty Index: Categorical Index: Entitlement programs                          | 1985-01-01          | 2022-08-01        |
+| EPUFINREG          | Economic Policy Uncertainty Index: Categorical Index: Financial Regulation                          | 1985-01-01          | 2022-08-01        |
+| EPUFISCAL          | Economic Policy Uncertainty Index: Categorical Index: Fiscal Policy (Taxes OR Spending)             | 1985-01-01          | 2022-08-01        |
+| EPUGOVTSPEND       | Economic Policy Uncertainty Index: Categorical Index: Government spending                           | 1985-01-01          | 2022-08-01        |
+| EPUHEALTHCARE      | Economic Policy Uncertainty Index: Categorical Index: Health care                                   | 1985-01-01          | 2022-08-01        |
+| EPUMONETARY        | Economic Policy Uncertainty Index: Categorical Index: Monetary policy                               | 1985-01-01          | 2022-08-01        |
+| EPUNATSEC          | Economic Policy Uncertainty Index: Categorical Index: National security                             | 1985-01-01          | 2022-08-01        |
+| EPUREG             | Economic Policy Uncertainty Index: Categorical Index: Regulation                                    | 1985-01-01          | 2022-08-01        |
+| EPUSOVDEBT         | Economic Policy Uncertainty Index: Categorical Index: Sovereign debt, currency crises               | 1985-01-01          | 2022-08-01        |
+| EPUTAXES           | Economic Policy Uncertainty Index: Categorical Index: Taxes                                         | 1985-01-01          | 2022-08-01        |
+| EPUTRADE           | Economic Policy Uncertainty Index: Categorical Index: Trade policy                                  | 1985-01-01          | 2022-08-01        |
+| EUEPUINDXM         | Economic Policy Uncertainty Index for Europe                                                        | 1987-01-01          | 2022-09-01        |
 | FREEPUFEARINDX     | Migration Fear Index for France                                                                     | 1990-01-01          | 2019-10-01        |
 | FREEPUMIGINDX      | Migration Policy Uncertainty Index for France                                                       | 1990-01-01          | 2019-10-01        |
-| FREUINDXM          | Economic Policy Uncertainty Index for France                                                        | 1987-01-01          | 2022-08-01        |
+| FREUINDXM          | Economic Policy Uncertainty Index for France                                                        | 1987-01-01          | 2022-09-01        |
 | GEPUCURRENT        | Global Economic Policy Uncertainty Index: Current Price Adjusted GDP                                | 1997-01-01          | 2022-08-01        |
 | GEPUPPP            | Global Economic Policy Uncertainty Index: PPP-Adjusted GDP                                          | 1997-01-01          | 2022-08-01        |
-| INDEPUINDXM        | Economic Policy Uncertainty Index for India                                                         | 2003-01-01          | 2022-08-01        |
+| INDEPUINDXM        | Economic Policy Uncertainty Index for India                                                         | 2003-01-01          | 2022-09-01        |
 | INFECTDISEMVTRACK  | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-08-01        |
-| INFECTDISEMVTRACKD | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-09-29        |
-| ITEPUINDXM         | Economic Policy Uncertainty Index for Italy                                                         | 1997-01-01          | 2022-08-01        |
+| INFECTDISEMVTRACKD | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-10-06        |
+| ITEPUINDXM         | Economic Policy Uncertainty Index for Italy                                                         | 1997-01-01          | 2022-09-01        |
 | KOREAEPUINDXM      | Economic Policy Uncertainty Index for South Korea                                                   | 1990-01-01          | 2020-12-01        |
-| SPEPUINDXM         | Economic Policy Uncertainty Index for Spain                                                         | 2001-01-01          | 2022-08-01        |
+| SPEPUINDXM         | Economic Policy Uncertainty Index for Spain                                                         | 2001-01-01          | 2022-09-01        |
 | UKEPUFEARINDX      | Migration Fear Index for the United Kingdom                                                         | 1990-01-01          | 2022-07-01        |
-| UKEPUINDXM         | Economic Policy Uncertainty Index for United Kingdom                                                | 1997-01-01          | 2022-08-01        |
+| UKEPUINDXM         | Economic Policy Uncertainty Index for United Kingdom                                                | 1997-01-01          | 2022-09-01        |
 | UKEPUMIGINDX       | Migration Policy Uncertainty Index for the United Kingdom                                           | 1990-01-01          | 2022-07-01        |
 | USEPUFEARINDX      | Migration Fear Index for the United States                                                          | 1990-01-01          | 2022-07-01        |
-| USEPUINDXD         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-09-29        |
-| USEPUINDXM         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-08-01        |
+| USEPUINDXD         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-10-06        |
+| USEPUINDXM         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-09-01        |
 | USEPUMIGINDX       | Migration Policy Uncertainty Index for the United States                                            | 1990-01-01          | 2022-07-01        |
-| USEPUNEWSINDXM     | Economic Policy Uncertainty Index: News-Based Index for the United States                           | 1985-01-01          | 2022-08-01        |
-| WLEMUINDXD         | Equity Market-related Economic Uncertainty Index                                                    | 1985-01-01          | 2022-09-29        |
+| USEPUNEWSINDXM     | Economic Policy Uncertainty Index: News-Based Index for the United States                           | 1985-01-01          | 2022-09-01        |
+| WLEMUINDXD         | Equity Market-related Economic Uncertainty Index                                                    | 1985-01-01          | 2022-10-06        |
 | WPDI               | World Discussion About Pandemics Index                                                              | 1996-01-01          | 2022-04-01        |
 | WPDIAFG            | Discussion About Pandemics Index for Afghanistan                                                    | 1996-01-01          | 2022-04-01        |
 | WPDIAGO            | Discussion About Pandemics Index for Angola                                                         | 1996-01-01          | 2022-04-01        |

@@ -16,9 +16,9 @@
 | TOTDTECAQ163N | Total Debt to Equity for Canada                                     | 2005-01-01          | 2022-01-01        |
 | TOTDTEDEA163N | Total Debt to Equity for Germany                                    | 2005-01-01          | 2020-01-01        |
 | TOTDTEDEQ163N | Total Debt to Equity for Germany                                    | 2005-01-01          | 2021-04-01        |
-| TOTDTEESA163N | Total Debt to Equity for Spain                                      | 2000-01-01          | 2019-01-01        |
-| TOTDTEFRA163N | Total Debt to Equity for France                                     | 1996-01-01          | 2020-01-01        |
-| TOTDTEGBQ163N | Total Debt to Equity for United Kingdom                             | 2008-10-01          | 2021-10-01        |
+| TOTDTEESA163N | Total Debt to Equity for Spain                                      | 2000-01-01          | 2021-01-01        |
+| TOTDTEFRA163N | Total Debt to Equity for France                                     | 1996-01-01          | 2021-01-01        |
+| TOTDTEGBQ163N | Total Debt to Equity for United Kingdom                             | 2008-10-01          | 2022-01-01        |
 | TOTDTEITA163N | Total Debt to Equity for Italy                                      | 2005-01-01          | 2021-01-01        |
 | TOTDTEITQ163N | Total Debt to Equity for Italy                                      | 2005-04-01          | 2021-10-01        |
 | TOTDTEKRA163N | Total Debt to Equity for Republic of Korea                          | 2005-01-01          | 2020-01-01        |

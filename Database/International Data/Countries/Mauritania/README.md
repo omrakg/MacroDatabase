@@ -53,7 +53,7 @@
 | DDSI01MRA645NWDB     | Bank Z-Score for Mauritania                                                                                                  | 2000-01-01          | 2020-01-01        |
 | DDSI04MRA156NWDB     | Bank Credit to Bank Deposits for Mauritania                                                                                  | 1961-01-01          | 2019-01-01        |
 | DDSI06MRA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Mauritania                                                              | 2000-01-01          | 2020-01-01        |
-| EXP7410              | U.S. Exports of Goods by F.A.S. Basis to Mauritania                                                                          | 1992-01-01          | 2022-07-01        |
+| EXP7410              | U.S. Exports of Goods by F.A.S. Basis to Mauritania                                                                          | 1992-01-01          | 2022-08-01        |
 | FLMRTA052SCEN        | Value of Exports to Mauritania from Florida                                                                                  | 2002-01-01          | 2017-01-01        |
 | FLMRTA475SCEN        | Number of Identified Exporters to Mauritania from Florida                                                                    | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGMRT       | Inflation, consumer prices for Mauritania                                                                                    | 1986-01-01          | 2020-01-01        |
@@ -66,7 +66,7 @@
 | IDMRTA475SCEN        | Number of Identified Exporters to Mauritania from Idaho                                                                      | 2007-01-01          | 2016-01-01        |
 | ILMRTA052SCEN        | Value of Exports to Mauritania from Illinois                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILMRTA475SCEN        | Number of Identified Exporters to Mauritania from Illinois                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7410              | U.S. Imports of Goods by Customs Basis from Mauritania                                                                       | 1992-01-01          | 2022-07-01        |
+| IMP7410              | U.S. Imports of Goods by Customs Basis from Mauritania                                                                       | 1992-01-01          | 2022-08-01        |
 | INMRTA052SCEN        | Value of Exports to Mauritania from Indiana                                                                                  | 2003-01-01          | 2015-01-01        |
 | INMRTA475SCEN        | Number of Identified Exporters to Mauritania from Indiana                                                                    | 1997-01-01          | 2017-01-01        |
 | ITNETUSERP2MRT       | Internet users for Mauritania                                                                                                | 1990-01-01          | 2020-01-01        |
@@ -94,33 +94,33 @@
 | MRTBXUSD             | Exports of Goods and Services for Mauritania                                                                                 | 2000-01-01          | 2023-01-01        |
 | MRTDGDPGDPPT         | Total External Debt for Mauritania                                                                                           | 2006-01-01          | 2023-01-01        |
 | MRTFAFARUSD          | Gross International Reserves Held by Central Bank for Mauritania                                                             | 2000-01-01          | 2023-01-01        |
-| MRTFCAANUM           | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Mauritania                                                 | 2011-01-01          | 2020-01-01        |
-| MRTFCACNUM           | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Mauritania                               | 2011-01-01          | 2020-01-01        |
-| MRTFCAKNUM           | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Mauritania                                                       | 2011-01-01          | 2020-01-01        |
-| MRTFCAODCANUM        | Use of Financial Services: Key Indicators, Deposit Accounts with Commercial Banks Per 1000 Adults for Mauritania             | 2010-01-01          | 2020-01-01        |
-| MRTFCAODCNUM         | Use of Financial Services Deposit Accounts: Accounts at Commercial Banks for Mauritania                                      | 2010-01-01          | 2020-01-01        |
+| MRTFCAANUM           | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Mauritania                                                 | 2011-01-01          | 2021-01-01        |
+| MRTFCACNUM           | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Mauritania                               | 2011-01-01          | 2021-01-01        |
+| MRTFCAKNUM           | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Mauritania                                                       | 2011-01-01          | 2021-01-01        |
+| MRTFCAODCANUM        | Use of Financial Services: Key Indicators, Deposit Accounts with Commercial Banks Per 1000 Adults for Mauritania             | 2010-01-01          | 2021-01-01        |
+| MRTFCAODCNUM         | Use of Financial Services Deposit Accounts: Accounts at Commercial Banks for Mauritania                                      | 2010-01-01          | 2021-01-01        |
 | MRTFCBMNUM           | Geographical Outreach: Number of Branches, Excluding Headquarters, for Other Financial Intermediaries for Mauritania         | 2004-01-01          | 2016-01-01        |
-| MRTFCBODCANUM        | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Mauritania                             | 2007-01-01          | 2020-01-01        |
-| MRTFCBODCKNUM        | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Mauritania                                   | 2007-01-01          | 2020-01-01        |
-| MRTFCBODCNUM         | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Mauritania                       | 2007-01-01          | 2020-01-01        |
-| MRTFCDODCANUM        | Use of Financial Services: Key Indicators, Depositors with Commercial Banks Per 1000 Adults for Mauritania                   | 2012-01-01          | 2020-01-01        |
-| MRTFCDODCPENUM       | Use of Financial Services: Number of Depositors at Commercial Banks for Mauritania                                           | 2012-01-01          | 2020-01-01        |
-| MRTFCIODCNUM         | Geographical Outreach: Number of Commercial Banks for Mauritania                                                             | 2004-01-01          | 2020-01-01        |
-| MRTFCIODDNUM         | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Mauritania            | 2004-01-01          | 2018-01-01        |
-| MRTFCIODUNUM         | Geographical Outreach: Number of Credit Unions and Financial Cooperatives for Mauritania                                     | 2006-01-01          | 2020-01-01        |
+| MRTFCBODCANUM        | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Mauritania                             | 2007-01-01          | 2021-01-01        |
+| MRTFCBODCKNUM        | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Mauritania                                   | 2007-01-01          | 2021-01-01        |
+| MRTFCBODCNUM         | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Mauritania                       | 2007-01-01          | 2021-01-01        |
+| MRTFCDODCANUM        | Use of Financial Services: Key Indicators, Depositors with Commercial Banks Per 1000 Adults for Mauritania                   | 2012-01-01          | 2021-01-01        |
+| MRTFCDODCPENUM       | Use of Financial Services: Number of Depositors at Commercial Banks for Mauritania                                           | 2012-01-01          | 2021-01-01        |
+| MRTFCIODCNUM         | Geographical Outreach: Number of Commercial Banks for Mauritania                                                             | 2004-01-01          | 2021-01-01        |
+| MRTFCIODDNUM         | Geographical Outreach: Number of Institutions, Other Depository Corporations, Other Deposit Takers for Mauritania            | 2004-01-01          | 2021-01-01        |
+| MRTFCIODUNUM         | Geographical Outreach: Number of Credit Unions and Financial Cooperatives for Mauritania                                     | 2006-01-01          | 2021-01-01        |
 | MRTFCIOFMNUM         | Geographical Outreach: Number of Institutions, Other Financial Corporations, Other Financial Intermediaries for Mauritania   | 2004-01-01          | 2017-01-01        |
-| MRTFCLODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Mauritania                         | 2004-01-01          | 2020-01-01        |
-| MRTFCLODCXDC         | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Mauritania                              | 2004-01-01          | 2020-01-01        |
-| MRTFCLODUGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Deposits with Credit Unions and Financial Cooperatives for Mauritania | 2006-01-01          | 2020-01-01        |
-| MRTFCLODUXDC         | Use of Financial Services, Liabilities: Outstanding Deposits at Credit Unions and Financial Cooperatives for Mauritania      | 2006-01-01          | 2020-01-01        |
+| MRTFCLODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Mauritania                         | 2004-01-01          | 2021-01-01        |
+| MRTFCLODCXDC         | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Mauritania                              | 2004-01-01          | 2021-01-01        |
+| MRTFCLODUGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Deposits with Credit Unions and Financial Cooperatives for Mauritania | 2006-01-01          | 2021-01-01        |
+| MRTFCLODUXDC         | Use of Financial Services, Liabilities: Outstanding Deposits at Credit Unions and Financial Cooperatives for Mauritania      | 2006-01-01          | 2021-01-01        |
 | MRTFCLOFMXDC         | Use of Financial Services, Liabilities: Outstanding Deposits by Households at Other Financial Intermediaries for Mauritania  | 2007-01-01          | 2016-01-01        |
-| MRTFCRODCANUM        | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for Mauritania                    | 2008-01-01          | 2020-01-01        |
-| MRTFCRODCPENUM       | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Mauritania                                  | 2008-01-01          | 2020-01-01        |
+| MRTFCRODCANUM        | Use of Financial Services: Key Indicators, Borrowers from Commercial Banks Per 1000 Adults for Mauritania                    | 2008-01-01          | 2021-01-01        |
+| MRTFCRODCPENUM       | Use of Financial Services Borrowers: Persons Borrowing from Commercial Banks for Mauritania                                  | 2008-01-01          | 2021-01-01        |
 | MRTFCSMXDC           | Use of Financial Services, Assets: Outstanding Loans at Other Financial Intermediaries for Mauritania                        | 2006-01-01          | 2016-01-01        |
-| MRTFCSODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Mauritania                            | 2010-01-01          | 2020-01-01        |
-| MRTFCSODCXDC         | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Mauritania                                      | 2010-01-01          | 2020-01-01        |
-| MRTFCSODUGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Loans from Credit Unions and Financial Cooperatives for Mauritania    | 2013-01-01          | 2020-01-01        |
-| MRTFCSODUXDC         | Use of Financial Services, Assets: Outstanding Loans at Credit Unions and Financial Cooperatives for Mauritania              | 2013-01-01          | 2020-01-01        |
+| MRTFCSODCGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Mauritania                            | 2010-01-01          | 2021-01-01        |
+| MRTFCSODCXDC         | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Mauritania                                      | 2010-01-01          | 2021-01-01        |
+| MRTFCSODUGGDPPT      | Use of Financial Services: Key Indicators, Outstanding Loans from Credit Unions and Financial Cooperatives for Mauritania    | 2013-01-01          | 2021-01-01        |
+| MRTFCSODUXDC         | Use of Financial Services, Assets: Outstanding Loans at Credit Unions and Financial Cooperatives for Mauritania              | 2013-01-01          | 2021-01-01        |
 | MRTFMBPCHPT          | Broad Money for Mauritania                                                                                                   | 2000-01-01          | 2023-01-01        |
 | MRTGCXCNLGDPGDPPT    | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Mauritania                                        | 2006-01-01          | 2023-01-01        |
 | MRTGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Mauritania                                                                 | 2002-01-01          | 2023-01-01        |

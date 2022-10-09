@@ -1,12 +1,12 @@
 | id                        | title                                                                                                          | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU36980            | Housing Inventory: Active Listing Count in Owensboro, KY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM36980          | Housing Inventory: Active Listing Count Month-Over-Month in Owensboro, KY (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY36980          | Housing Inventory: Active Listing Count Year-Over-Year in Owensboro, KY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU36980            | Housing Inventory: Active Listing Count in Owensboro, KY (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM36980          | Housing Inventory: Active Listing Count Month-Over-Month in Owensboro, KY (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY36980          | Housing Inventory: Active Listing Count Year-Over-Year in Owensboro, KY (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS36980Q            | All-Transactions House Price Index for Owensboro, KY (MSA)                                                     | 1986-10-01          | 2022-04-01        |
-| AVELISPRI36980            | Housing Inventory: Average Listing Price in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM36980          | Housing Inventory: Average Listing Price Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY36980          | Housing Inventory: Average Listing Price Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI36980            | Housing Inventory: Average Listing Price in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM36980          | Housing Inventory: Average Listing Price Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY36980          | Housing Inventory: Average Listing Price Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | ENUC369830010             | Total Quarterly Wages in Owensboro, KY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC369830010SA           | Total Quarterly Wages in Owensboro, KY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC369840010             | Average Weekly Wages for Employees in Total Covered Establishments in Owensboro, KY (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -26,21 +26,21 @@
 | LAUMT213698000000005      | Employed Persons in Owensboro, KY (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT213698000000005A     | Employed Persons in Owensboro, KY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT213698000000006A     | Civilian Labor Force in Owensboro, KY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR36980          | Housing Inventory: Median Days on Market in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM36980        | Housing Inventory: Median Days on Market Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY36980        | Housing Inventory: Median Days on Market Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI36980            | Housing Inventory: Median Listing Price in Owensboro, KY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM36980          | Housing Inventory: Median Listing Price Month-Over-Month in Owensboro, KY (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE36980   | Housing Inventory: Median Listing Price per Square Feet in Owensboro, KY (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM36980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Owensboro, KY (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY36980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Owensboro, KY (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY36980          | Housing Inventory: Median Listing Price Year-Over-Year in Owensboro, KY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE36980            | Housing Inventory: Median Home Size in Square Feet in Owensboro, KY (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM36980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Owensboro, KY (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY36980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Owensboro, KY (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU36980            | Housing Inventory: New Listing Count in Owensboro, KY (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM36980          | Housing Inventory: New Listing Count Month-Over-Month in Owensboro, KY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY36980          | Housing Inventory: New Listing Count Year-Over-Year in Owensboro, KY (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR36980          | Housing Inventory: Median Days on Market in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM36980        | Housing Inventory: Median Days on Market Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY36980        | Housing Inventory: Median Days on Market Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI36980            | Housing Inventory: Median Listing Price in Owensboro, KY (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM36980          | Housing Inventory: Median Listing Price Month-Over-Month in Owensboro, KY (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE36980   | Housing Inventory: Median Listing Price per Square Feet in Owensboro, KY (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM36980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Owensboro, KY (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY36980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Owensboro, KY (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY36980          | Housing Inventory: Median Listing Price Year-Over-Year in Owensboro, KY (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE36980            | Housing Inventory: Median Home Size in Square Feet in Owensboro, KY (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM36980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Owensboro, KY (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY36980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Owensboro, KY (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU36980            | Housing Inventory: New Listing Count in Owensboro, KY (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM36980          | Housing Inventory: New Listing Count Month-Over-Month in Owensboro, KY (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY36980          | Housing Inventory: New Listing Count Year-Over-Year in Owensboro, KY (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP36980                 | Total Gross Domestic Product for Owensboro, KY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | OWNEDUH                   | All Employees: Education and Health Services in Owensboro, KY (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | OWNEDUHN                  | All Employees: Education and Health Services in Owensboro, KY (MSA)                                            | 1990-01-01          | 2022-08-01        |
@@ -71,15 +71,15 @@
 | OWNUR                     | Unemployment Rate in Owensboro, KY (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | OWNURN                    | Unemployment Rate in Owensboro, KY (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | PATENTCBSA136980          | U.S. Granted Utility Patents Originating in Owensboro, KY (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU36980            | Housing Inventory: Pending Listing Count in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM36980          | Housing Inventory: Pending Listing Count Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY36980          | Housing Inventory: Pending Listing Count Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU36980            | Housing Inventory: Price Increased Count in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM36980          | Housing Inventory: Price Increased Count Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-08-01          | 2022-06-01        |
-| PRIINCCOUYY36980          | Housing Inventory: Price Increased Count Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-06-01        |
-| PRIREDCOU36980            | Housing Inventory: Price Reduced Count in Owensboro, KY (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM36980          | Housing Inventory: Price Reduced Count Month-Over-Month in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY36980          | Housing Inventory: Price Reduced Count Year-Over-Year in Owensboro, KY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU36980            | Housing Inventory: Pending Listing Count in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM36980          | Housing Inventory: Pending Listing Count Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY36980          | Housing Inventory: Pending Listing Count Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU36980            | Housing Inventory: Price Increased Count in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM36980          | Housing Inventory: Price Increased Count Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-07-01          | 2022-07-01        |
+| PRIINCCOUYY36980          | Housing Inventory: Price Increased Count Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU36980            | Housing Inventory: Price Reduced Count in Owensboro, KY (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM36980          | Housing Inventory: Price Reduced Count Month-Over-Month in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY36980          | Housing Inventory: Price Reduced Count Year-Over-Year in Owensboro, KY (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP36980                 | Total Quantity Indexes for Real GDP for Owensboro, KY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP36980                 | Total Real Gross Domestic Product for Owensboro, KY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI36980                  | Real Personal Income for Owensboro, KY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

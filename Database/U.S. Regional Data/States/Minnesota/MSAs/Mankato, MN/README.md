@@ -1,12 +1,12 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU31860            | Housing Inventory: Active Listing Count in Mankato-North Mankato, MN (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM31860          | Housing Inventory: Active Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY31860          | Housing Inventory: Active Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU31860            | Housing Inventory: Active Listing Count in Mankato-North Mankato, MN (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM31860          | Housing Inventory: Active Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY31860          | Housing Inventory: Active Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                   | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS31860Q            | All-Transactions House Price Index for Mankato, MN (MSA)                                                     | 1986-10-01          | 2022-04-01        |
-| AVELISPRI31860            | Housing Inventory: Average Listing Price in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM31860          | Housing Inventory: Average Listing Price Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY31860          | Housing Inventory: Average Listing Price Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-08-01        |
+| AVELISPRI31860            | Housing Inventory: Average Listing Price in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM31860          | Housing Inventory: Average Listing Price Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY31860          | Housing Inventory: Average Listing Price Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-09-01        |
 | ENUC318630010             | Total Quarterly Wages in Mankato-North Mankato, MN (MSA)                                                     | 2013-01-01          | 2022-01-01        |
 | ENUC318630010SA           | Total Quarterly Wages in Mankato-North Mankato, MN (MSA)                                                     | 2013-01-01          | 2022-01-01        |
 | ENUC318640010             | Average Weekly Wages for Employees in Total Covered Establishments in Mankato-North Mankato, MN (MSA)        | 2013-01-01          | 2022-01-01        |
@@ -28,33 +28,33 @@
 | LAUMT273186000000005A     | Employed Persons in Mankato-North Mankato, MN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT273186000000006      | Civilian Labor Force in Mankato-North Mankato, MN (MSA)                                                      | 1990-01-01          | 2022-08-01        |
 | LAUMT273186000000006A     | Civilian Labor Force in Mankato-North Mankato, MN (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR31860          | Housing Inventory: Median Days on Market in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM31860        | Housing Inventory: Median Days on Market Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY31860        | Housing Inventory: Median Days on Market Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI31860            | Housing Inventory: Median Listing Price in Mankato-North Mankato, MN (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM31860          | Housing Inventory: Median Listing Price Month-Over-Month in Mankato-North Mankato, MN (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE31860   | Housing Inventory: Median Listing Price per Square Feet in Mankato-North Mankato, MN (CBSA)                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM31860 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mankato-North Mankato, MN (CBSA) | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY31860 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mankato-North Mankato, MN (CBSA)   | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY31860          | Housing Inventory: Median Listing Price Year-Over-Year in Mankato-North Mankato, MN (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE31860            | Housing Inventory: Median Home Size in Square Feet in Mankato-North Mankato, MN (CBSA)                       | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM31860          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mankato-North Mankato, MN (CBSA)      | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY31860          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mankato-North Mankato, MN (CBSA)        | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR31860          | Housing Inventory: Median Days on Market in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM31860        | Housing Inventory: Median Days on Market Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY31860        | Housing Inventory: Median Days on Market Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI31860            | Housing Inventory: Median Listing Price in Mankato-North Mankato, MN (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM31860          | Housing Inventory: Median Listing Price Month-Over-Month in Mankato-North Mankato, MN (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE31860   | Housing Inventory: Median Listing Price per Square Feet in Mankato-North Mankato, MN (CBSA)                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM31860 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mankato-North Mankato, MN (CBSA) | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY31860 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mankato-North Mankato, MN (CBSA)   | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY31860          | Housing Inventory: Median Listing Price Year-Over-Year in Mankato-North Mankato, MN (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE31860            | Housing Inventory: Median Home Size in Square Feet in Mankato-North Mankato, MN (CBSA)                       | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM31860          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mankato-North Mankato, MN (CBSA)      | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY31860          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mankato-North Mankato, MN (CBSA)        | 2017-07-01          | 2022-09-01        |
 | MKTPOP                    | Resident Population in Mankato-North Mankato, MN (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| NEWLISCOU31860            | Housing Inventory: New Listing Count in Mankato-North Mankato, MN (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM31860          | Housing Inventory: New Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY31860          | Housing Inventory: New Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU31860            | Housing Inventory: New Listing Count in Mankato-North Mankato, MN (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM31860          | Housing Inventory: New Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY31860          | Housing Inventory: New Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                      | 2017-07-01          | 2022-09-01        |
 | NGMP31860                 | Total Gross Domestic Product for Mankato-North Mankato, MN (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA131860          | U.S. Granted Utility Patents Originating in Mankato-North Mankato, MN (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU31860            | Housing Inventory: Pending Listing Count in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM31860          | Housing Inventory: Pending Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY31860          | Housing Inventory: Pending Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU31860            | Housing Inventory: Price Increased Count in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM31860          | Housing Inventory: Price Increased Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-04-01        |
-| PRIINCCOUYY31860          | Housing Inventory: Price Increased Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-04-01        |
-| PRIREDCOU31860            | Housing Inventory: Price Reduced Count in Mankato-North Mankato, MN (CBSA)                                   | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM31860          | Housing Inventory: Price Reduced Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY31860          | Housing Inventory: Price Reduced Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| PENLISCOU31860            | Housing Inventory: Pending Listing Count in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM31860          | Housing Inventory: Pending Listing Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY31860          | Housing Inventory: Pending Listing Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU31860            | Housing Inventory: Price Increased Count in Mankato-North Mankato, MN (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM31860          | Housing Inventory: Price Increased Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY31860          | Housing Inventory: Price Increased Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU31860            | Housing Inventory: Price Reduced Count in Mankato-North Mankato, MN (CBSA)                                   | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM31860          | Housing Inventory: Price Reduced Count Month-Over-Month in Mankato-North Mankato, MN (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY31860          | Housing Inventory: Price Reduced Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                    | 2017-07-01          | 2022-09-01        |
 | QGMP31860                 | Total Quantity Indexes for Real GDP for Mankato-North Mankato, MN (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP31860                 | Total Real Gross Domestic Product for Mankato-North Mankato, MN (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI31860                  | Real Personal Income for Mankato-North Mankato, MN (MSA)                                                     | 2008-01-01          | 2020-01-01        |

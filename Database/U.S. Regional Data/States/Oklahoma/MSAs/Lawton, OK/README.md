@@ -1,12 +1,12 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU30020            | Housing Inventory: Active Listing Count in Lawton, OK (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM30020          | Housing Inventory: Active Listing Count Month-Over-Month in Lawton, OK (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY30020          | Housing Inventory: Active Listing Count Year-Over-Year in Lawton, OK (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU30020            | Housing Inventory: Active Listing Count in Lawton, OK (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM30020          | Housing Inventory: Active Listing Count Month-Over-Month in Lawton, OK (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY30020          | Housing Inventory: Active Listing Count Year-Over-Year in Lawton, OK (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS30020Q            | All-Transactions House Price Index for Lawton, OK (MSA)                                                     | 1992-10-01          | 2022-04-01        |
-| AVELISPRI30020            | Housing Inventory: Average Listing Price in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM30020          | Housing Inventory: Average Listing Price Month-Over-Month in Lawton, OK (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY30020          | Housing Inventory: Average Listing Price Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI30020            | Housing Inventory: Average Listing Price in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM30020          | Housing Inventory: Average Listing Price Month-Over-Month in Lawton, OK (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY30020          | Housing Inventory: Average Listing Price Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | ENUC300230010             | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC300230010SA           | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC300240010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -54,32 +54,32 @@
 | LAWT040TRADN              | All Employees: Trade, Transportation, and Utilities in Lawton, OK (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | LAWT040UR                 | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | LAWT040URN                | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| MEDDAYONMAR30020          | Housing Inventory: Median Days on Market in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM30020        | Housing Inventory: Median Days on Market Month-Over-Month in Lawton, OK (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY30020        | Housing Inventory: Median Days on Market Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI30020            | Housing Inventory: Median Listing Price in Lawton, OK (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM30020          | Housing Inventory: Median Listing Price Month-Over-Month in Lawton, OK (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE30020   | Housing Inventory: Median Listing Price per Square Feet in Lawton, OK (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM30020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lawton, OK (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY30020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lawton, OK (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY30020          | Housing Inventory: Median Listing Price Year-Over-Year in Lawton, OK (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE30020            | Housing Inventory: Median Home Size in Square Feet in Lawton, OK (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM30020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lawton, OK (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY30020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lawton, OK (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU30020            | Housing Inventory: New Listing Count in Lawton, OK (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM30020          | Housing Inventory: New Listing Count Month-Over-Month in Lawton, OK (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY30020          | Housing Inventory: New Listing Count Year-Over-Year in Lawton, OK (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR30020          | Housing Inventory: Median Days on Market in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM30020        | Housing Inventory: Median Days on Market Month-Over-Month in Lawton, OK (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY30020        | Housing Inventory: Median Days on Market Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI30020            | Housing Inventory: Median Listing Price in Lawton, OK (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM30020          | Housing Inventory: Median Listing Price Month-Over-Month in Lawton, OK (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE30020   | Housing Inventory: Median Listing Price per Square Feet in Lawton, OK (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM30020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lawton, OK (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY30020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lawton, OK (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY30020          | Housing Inventory: Median Listing Price Year-Over-Year in Lawton, OK (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE30020            | Housing Inventory: Median Home Size in Square Feet in Lawton, OK (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM30020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lawton, OK (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY30020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lawton, OK (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU30020            | Housing Inventory: New Listing Count in Lawton, OK (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM30020          | Housing Inventory: New Listing Count Month-Over-Month in Lawton, OK (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY30020          | Housing Inventory: New Listing Count Year-Over-Year in Lawton, OK (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP30020                 | Total Gross Domestic Product for Lawton, OK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA130020          | U.S. Granted Utility Patents Originating in Lawton, OK (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU30020            | Housing Inventory: Pending Listing Count in Lawton, OK (CBSA)                                               | 2017-03-01          | 2022-08-01        |
-| PENLISCOUMM30020          | Housing Inventory: Pending Listing Count Month-Over-Month in Lawton, OK (CBSA)                              | 2017-10-01          | 2022-08-01        |
-| PENLISCOUYY30020          | Housing Inventory: Pending Listing Count Year-Over-Year in Lawton, OK (CBSA)                                | 2018-04-01          | 2022-08-01        |
-| PRIINCCOU30020            | Housing Inventory: Price Increased Count in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM30020          | Housing Inventory: Price Increased Count Month-Over-Month in Lawton, OK (CBSA)                              | 2017-08-01          | 2022-08-01        |
-| PRIINCCOUYY30020          | Housing Inventory: Price Increased Count Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU30020            | Housing Inventory: Price Reduced Count in Lawton, OK (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM30020          | Housing Inventory: Price Reduced Count Month-Over-Month in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY30020          | Housing Inventory: Price Reduced Count Year-Over-Year in Lawton, OK (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU30020            | Housing Inventory: Pending Listing Count in Lawton, OK (CBSA)                                               | 2017-03-01          | 2022-09-01        |
+| PENLISCOUMM30020          | Housing Inventory: Pending Listing Count Month-Over-Month in Lawton, OK (CBSA)                              | 2017-10-01          | 2022-09-01        |
+| PENLISCOUYY30020          | Housing Inventory: Pending Listing Count Year-Over-Year in Lawton, OK (CBSA)                                | 2018-04-01          | 2022-09-01        |
+| PRIINCCOU30020            | Housing Inventory: Price Increased Count in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM30020          | Housing Inventory: Price Increased Count Month-Over-Month in Lawton, OK (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY30020          | Housing Inventory: Price Increased Count Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU30020            | Housing Inventory: Price Reduced Count in Lawton, OK (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM30020          | Housing Inventory: Price Reduced Count Month-Over-Month in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY30020          | Housing Inventory: Price Reduced Count Year-Over-Year in Lawton, OK (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP30020                 | Total Quantity Indexes for Real GDP for Lawton, OK (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP30020                 | Total Real Gross Domestic Product for Lawton, OK (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI30020                  | Real Personal Income for Lawton, OK (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

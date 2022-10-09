@@ -56,7 +56,7 @@
 | Chemung County, NY      |               147 |
 | Richmond County, NY     |               146 |
 | Ontario County, NY      |               147 |
-| Chautauqua County, NY   |               147 |
+| Chautauqua County, NY   |                 0 |
 | Schenectady County, NY  |               147 |
 | Tompkins County, NY     |               146 |
 | Washington County, NY   |               146 |

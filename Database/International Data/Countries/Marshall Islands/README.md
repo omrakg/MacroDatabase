@@ -13,7 +13,7 @@
 | DDAI02MHA643NWDB  | Number of Bank Branches for Marshall Islands                                                                 | 2004-01-01          | 2019-01-01        |
 | DDOI09MHA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for Marshall Islands                              | 2009-01-01          | 2019-01-01        |
 | DEMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Delaware                                             | 1997-01-01          | 2009-01-01        |
-| EXP6810           | U.S. Exports of Goods by F.A.S. Basis to Marshall Islands                                                    | 1992-01-01          | 2022-07-01        |
+| EXP6810           | U.S. Exports of Goods by F.A.S. Basis to Marshall Islands                                                    | 1992-01-01          | 2022-08-01        |
 | FLMHLA052SCEN     | Value of Exports to Marshall Islands from Florida                                                            | 1997-01-01          | 2017-01-01        |
 | FLMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Florida                                              | 1992-01-01          | 2017-01-01        |
 | GAMHLA052SCEN     | Value of Exports to Marshall Islands from Georgia                                                            | 1992-01-01          | 2016-01-01        |
@@ -25,7 +25,7 @@
 | IDMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Idaho                                                | 2002-01-01          | 2016-01-01        |
 | ILMHLA052SCEN     | Value of Exports to Marshall Islands from Illinois                                                           | 1992-01-01          | 2017-01-01        |
 | ILMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Illinois                                             | 1992-01-01          | 2017-01-01        |
-| IMP6810           | U.S. Imports of Goods by Customs Basis from Marshall Islands                                                 | 1992-01-01          | 2022-07-01        |
+| IMP6810           | U.S. Imports of Goods by Customs Basis from Marshall Islands                                                 | 1992-01-01          | 2022-08-01        |
 | INMHLA052SCEN     | Value of Exports to Marshall Islands from Indiana                                                            | 1997-01-01          | 2012-01-01        |
 | INMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Indiana                                              | 1992-01-01          | 2016-01-01        |
 | ITNETUSERP2MHL    | Internet users for the Marshall Islands                                                                      | 1990-01-01          | 2017-01-01        |
@@ -40,17 +40,17 @@
 | MEMHLA475SCEN     | Number of Identified Exporters to Marshall Islands from Maine                                                | 2012-01-01          | 2015-01-01        |
 | MHLBCABP6USD      | Balance of Payments: Total Net Current Account for Marshall Islands                                          | 2016-01-01          | 2024-01-01        |
 | MHLBCAGDPBP6PT    | Balance of Payments: Total Net Current Account for Marshall Islands                                          | 1997-01-01          | 2027-01-01        |
-| MHLFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Marshall Islands                           | 2007-01-01          | 2020-01-01        |
-| MHLFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Marshall Islands         | 2007-01-01          | 2020-01-01        |
-| MHLFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Marshall Islands                                 | 2007-01-01          | 2020-01-01        |
-| MHLFCBODCANUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Marshall Islands       | 2004-01-01          | 2020-01-01        |
-| MHLFCBODCKNUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Marshall Islands             | 2004-01-01          | 2020-01-01        |
-| MHLFCBODCNUM      | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Marshall Islands | 2004-01-01          | 2020-01-01        |
-| MHLFCIODCNUM      | Geographical Outreach: Number of Commercial Banks for Marshall Islands                                       | 2004-01-01          | 2020-01-01        |
-| MHLFCLODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Marshall Islands   | 2004-01-01          | 2020-01-01        |
-| MHLFCLODCXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Marshall Islands        | 2004-01-01          | 2020-01-01        |
-| MHLFCSODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Marshall Islands      | 2004-01-01          | 2020-01-01        |
-| MHLFCSODCXDC      | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Marshall Islands                | 2004-01-01          | 2020-01-01        |
+| MHLFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Marshall Islands                           | 2007-01-01          | 2021-01-01        |
+| MHLFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Marshall Islands         | 2007-01-01          | 2021-01-01        |
+| MHLFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Marshall Islands                                 | 2007-01-01          | 2021-01-01        |
+| MHLFCBODCANUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 100,000 Adults for Marshall Islands       | 2004-01-01          | 2021-01-01        |
+| MHLFCBODCKNUM     | Geographical Outreach: Key Indicators Commercial Bank Branches Per 1000 Km2 for Marshall Islands             | 2004-01-01          | 2021-01-01        |
+| MHLFCBODCNUM      | Geographical Outreach: Number of Branches, Excluding Headquarters, for Commercial Banks for Marshall Islands | 2004-01-01          | 2021-01-01        |
+| MHLFCIODCNUM      | Geographical Outreach: Number of Commercial Banks for Marshall Islands                                       | 2004-01-01          | 2021-01-01        |
+| MHLFCLODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Deposits with Commercial Banks for Marshall Islands   | 2004-01-01          | 2021-01-01        |
+| MHLFCLODCXDC      | Use of Financial Services, Liabilities: Outstanding Deposits at Commercial Banks for Marshall Islands        | 2004-01-01          | 2021-01-01        |
+| MHLFCSODCGGDPPT   | Use of Financial Services: Key Indicators, Outstanding Loans from Commercial Banks for Marshall Islands      | 2004-01-01          | 2021-01-01        |
+| MHLFCSODCXDC      | Use of Financial Services, Assets: Outstanding Loans at Commercial Banks for Marshall Islands                | 2004-01-01          | 2021-01-01        |
 | MHLGGXCNLG01GDPPT | Fiscal Situation of General Government: Net Lending/borrowing for Marshall Islands                           | 1997-01-01          | 2027-01-01        |
 | MHLGGXWDGG01GDPPT | Fiscal Situation of General Government: Gross Debt Position for Marshall Islands                             | 2016-01-01          | 2024-01-01        |
 | MHLNGDPDUSD       | National Accounts: Gross Domestic Product for Marshall Islands                                               | 2016-01-01          | 2024-01-01        |

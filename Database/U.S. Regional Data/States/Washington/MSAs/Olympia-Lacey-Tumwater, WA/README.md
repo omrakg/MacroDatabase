@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                 | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU36500            | Housing Inventory: Active Listing Count in Olympia-Tumwater, WA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM36500          | Housing Inventory: Active Listing Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY36500          | Housing Inventory: Active Listing Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU36500            | Housing Inventory: Active Listing Count in Olympia-Tumwater, WA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM36500          | Housing Inventory: Active Listing Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY36500          | Housing Inventory: Active Listing Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS36500Q            | All-Transactions House Price Index for Olympia-Lacey-Tumwater, WA (MSA)                                               | 1981-01-01          | 2022-04-01        |
-| AVELISPRI36500            | Housing Inventory: Average Listing Price in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM36500          | Housing Inventory: Average Listing Price Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY36500          | Housing Inventory: Average Listing Price Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA36500              | Market Hotness: Demand Score in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI36500            | Housing Inventory: Average Listing Price in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM36500          | Housing Inventory: Average Listing Price Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY36500          | Housing Inventory: Average Listing Price Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA36500              | Market Hotness: Demand Score in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC365030010             | Total Quarterly Wages in Olympia-Tumwater, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC365030010SA           | Total Quarterly Wages in Olympia-Tumwater, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC365040010             | Average Weekly Wages for Employees in Total Covered Establishments in Olympia, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC365040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC365040510             | Average Weekly Wages for Employees in Private Establishments in Olympia, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
 | ENUC365040510SA           | Average Weekly Wages for Employees in Private Establishments in Olympia, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA36500            | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA36500              | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA36500            | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA36500              | Market Hotness: Hotness Score in Olympia-Tumwater, WA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA36500            | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA36500              | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA36500            | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA36500              | Market Hotness: Hotness Score in Olympia-Tumwater, WA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD36500                 | Implicit Regional Price Deflator for Olympia-Tumwater, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT533650000000003A     | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT533650000000004      | Unemployed Persons in Olympia-Tumwater, WA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -31,36 +31,36 @@
 | LAUMT533650000000005      | Employed Persons in Olympia-Tumwater, WA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT533650000000005A     | Employed Persons in Olympia-Tumwater, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT533650000000006A     | Civilian Labor Force in Olympia-Tumwater, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA36500          | Market Hotness: Listing Views per Property in Olympia-Tumwater, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA36500        | Market Hotness: Listing Views per Property Versus the United States in Olympia-Tumwater, WA (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA36500          | Market Hotness: Listing Views per Property in Olympia-Tumwater, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA36500        | Market Hotness: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA36500          | Market Hotness: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA36500        | Market Hotness: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR36500          | Housing Inventory: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM36500        | Housing Inventory: Median Days on Market Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY36500        | Housing Inventory: Median Days on Market Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI36500            | Housing Inventory: Median Listing Price in Olympia-Tumwater, WA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM36500          | Housing Inventory: Median Listing Price Month-Over-Month in Olympia-Tumwater, WA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE36500   | Housing Inventory: Median Listing Price per Square Feet in Olympia-Tumwater, WA (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM36500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Olympia-Tumwater, WA (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY36500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Olympia-Tumwater, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY36500          | Housing Inventory: Median Listing Price Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA36500          | Market Hotness: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA36500          | Market Hotness: Median Days on Market Versus the United States in Olympia-Tumwater, WA (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA36500          | Market Hotness: Median Days on Market Day in Olympia-Tumwater, WA (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE36500            | Housing Inventory: Median Home Size in Square Feet in Olympia-Tumwater, WA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM36500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Olympia-Tumwater, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY36500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Olympia-Tumwater, WA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA36500          | Market Hotness: Median Listing Price in Olympia-Tumwater, WA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA36500            | Market Hotness: Median Listing Price in Olympia-Tumwater, WA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA36500        | Market Hotness: Median Listing Price Versus the United States in Olympia-Tumwater, WA (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA36500          | Market Hotness: Median Listing Price in Olympia-Tumwater, WA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU36500            | Housing Inventory: New Listing Count in Olympia-Tumwater, WA (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM36500          | Housing Inventory: New Listing Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY36500          | Housing Inventory: New Listing Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA36500          | Market Hotness: Listing Views per Property in Olympia-Tumwater, WA (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA36500        | Market Hotness: Listing Views per Property Versus the United States in Olympia-Tumwater, WA (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA36500          | Market Hotness: Listing Views per Property in Olympia-Tumwater, WA (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA36500        | Market Hotness: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA36500          | Market Hotness: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA36500        | Market Hotness: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR36500          | Housing Inventory: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM36500        | Housing Inventory: Median Days on Market Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY36500        | Housing Inventory: Median Days on Market Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI36500            | Housing Inventory: Median Listing Price in Olympia-Tumwater, WA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM36500          | Housing Inventory: Median Listing Price Month-Over-Month in Olympia-Tumwater, WA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE36500   | Housing Inventory: Median Listing Price per Square Feet in Olympia-Tumwater, WA (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM36500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Olympia-Tumwater, WA (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY36500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Olympia-Tumwater, WA (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY36500          | Housing Inventory: Median Listing Price Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA36500          | Market Hotness: Median Days on Market in Olympia-Tumwater, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA36500          | Market Hotness: Median Days on Market Versus the United States in Olympia-Tumwater, WA (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA36500          | Market Hotness: Median Days on Market Day in Olympia-Tumwater, WA (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE36500            | Housing Inventory: Median Home Size in Square Feet in Olympia-Tumwater, WA (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM36500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Olympia-Tumwater, WA (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY36500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Olympia-Tumwater, WA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA36500          | Market Hotness: Median Listing Price in Olympia-Tumwater, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA36500            | Market Hotness: Median Listing Price in Olympia-Tumwater, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA36500        | Market Hotness: Median Listing Price Versus the United States in Olympia-Tumwater, WA (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA36500          | Market Hotness: Median Listing Price in Olympia-Tumwater, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU36500            | Housing Inventory: New Listing Count in Olympia-Tumwater, WA (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM36500          | Housing Inventory: New Listing Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY36500          | Housing Inventory: New Listing Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP36500                 | Total Gross Domestic Product for Olympia-Tumwater, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA36500            | Market Hotness: Nielsen Household Rank in Olympia-Tumwater, WA (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA36500            | Market Hotness: Nielsen Household Rank in Olympia-Tumwater, WA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | OLYM553FIREN              | All Employees: Financial Activities in Olympia-Tumwater, WA (MSA)                                                     | 1990-01-01          | 2022-08-01        |
 | OLYM553GOVT               | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2022-08-01        |
 | OLYM553GOVTN              | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2022-08-01        |
@@ -83,15 +83,15 @@
 | OLYM553URN                | Unemployment Rate in Olympia-Tumwater, WA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | OLYPOP                    | Resident Population in Olympia-Tumwater, WA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136500          | U.S. Granted Utility Patents Originating in Olympia, WA (MSA)                                                         | 2000-01-01          | 2015-01-01        |
-| PENLISCOU36500            | Housing Inventory: Pending Listing Count in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM36500          | Housing Inventory: Pending Listing Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY36500          | Housing Inventory: Pending Listing Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU36500            | Housing Inventory: Price Increased Count in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM36500          | Housing Inventory: Price Increased Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY36500          | Housing Inventory: Price Increased Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU36500            | Housing Inventory: Price Reduced Count in Olympia-Tumwater, WA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM36500          | Housing Inventory: Price Reduced Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY36500          | Housing Inventory: Price Reduced Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU36500            | Housing Inventory: Pending Listing Count in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM36500          | Housing Inventory: Pending Listing Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY36500          | Housing Inventory: Pending Listing Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU36500            | Housing Inventory: Price Increased Count in Olympia-Tumwater, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM36500          | Housing Inventory: Price Increased Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY36500          | Housing Inventory: Price Increased Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU36500            | Housing Inventory: Price Reduced Count in Olympia-Tumwater, WA (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM36500          | Housing Inventory: Price Reduced Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY36500          | Housing Inventory: Price Reduced Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP36500                 | Total Quantity Indexes for Real GDP for Olympia-Tumwater, WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP36500                 | Total Real Gross Domestic Product for Olympia-Tumwater, WA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI36500                  | Real Personal Income for Olympia-Tumwater, WA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -161,4 +161,4 @@
 | SMU53365009093161101      | All Employees: Government: Local Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-08-01        |
 | SMU53365009093161101A     | All Employees: Local Government Educational Services in Olympia-Tumwater, WA (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU53365009093161101SA    | All Employees: Government: Local Government Educational Services in Olympia-Tumwater, WA (MSA)                        | 1990-01-01          | 2022-08-01        |
-| SUSCMSA36500              | Market Hotness: Supply Score in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA36500              | Market Hotness: Supply Score in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

@@ -2,7 +2,7 @@
 |---------------------------------|-------------------|
 | East Carroll Parish, LA         |                88 |
 | St. John the Baptist Parish, LA |                90 |
-| St. Tammany Parish, LA          |               147 |
+| St. Tammany Parish, LA          |                 0 |
 | West Baton Rouge Parish, LA     |                89 |
 | St. Helena Parish, LA           |                88 |
 | Vermilion Parish, LA            |               146 |
@@ -17,7 +17,7 @@
 | St. Charles Parish, LA          |               145 |
 | Ouachita Parish, LA             |               146 |
 | Cameron Parish, LA              |                89 |
-| Vernon Parish, LA               |                 0 |
+| Vernon Parish, LA               |               145 |
 | West Feliciana Parish, LA       |                89 |
 | La Salle Parish, LA             |                89 |
 | Winn Parish, LA                 |                89 |
@@ -62,5 +62,5 @@
 | Claiborne Parish, LA            |                90 |
 | Catahoula Parish, LA            |                89 |
 | Richland Parish, LA             |                89 |
-| Jefferson Parish, LA            |               147 |
+| Jefferson Parish, LA            |                 0 |
 | Ascension Parish, LA            |               147 |

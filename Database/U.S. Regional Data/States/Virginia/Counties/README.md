@@ -66,7 +66,7 @@
 | Isle of Wight County, VA                            |                90 |
 | King George County, VA                              |                90 |
 | Giles County, VA                                    |                89 |
-| Bedford County, VA                                  |                 0 |
+| Bedford County, VA                                  |               147 |
 | Tazewell County, VA                                 |                90 |
 | Lancaster County, VA                                |                90 |
 | Frederick County + Winchester City, VA              |                12 |
@@ -74,7 +74,7 @@
 | Prince George County, VA                            |                80 |
 | Brunswick County, VA                                |                90 |
 | Albemarle County, VA                                |               137 |
-| Galax City, VA                                      |                79 |
+| Galax City, VA                                      |                 0 |
 | South Boston City, VA                               |                 1 |
 | Manassas Park City, VA                              |                79 |
 | Amherst County, VA                                  |                90 |
@@ -126,7 +126,7 @@
 | Prince William County, VA                           |               137 |
 | Surry County, VA                                    |                90 |
 | Stafford County, VA                                 |               147 |
-| Campbell County, VA                                 |                 0 |
+| Campbell County, VA                                 |               136 |
 | Roanoke City, VA                                    |               146 |
 | Augusta County, VA                                  |               137 |
 | Nelson County, VA                                   |                90 |
@@ -134,7 +134,7 @@
 | Buchanan County, VA                                 |                88 |
 | Dickenson County, VA                                |                89 |
 | Washington County + Bristol City, VA                |                12 |
-| Norfolk City, VA                                    |               145 |
+| Norfolk City, VA                                    |                 0 |
 | Washington County, VA                               |               136 |
 | Northumberland County, VA                           |                90 |
 | Accomack County, VA                                 |                90 |

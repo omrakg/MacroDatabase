@@ -1,13 +1,13 @@
 | id                        | title                                                                                                               | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU24300            | Housing Inventory: Active Listing Count in Grand Junction, CO (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM24300          | Housing Inventory: Active Listing Count Month-Over-Month in Grand Junction, CO (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY24300          | Housing Inventory: Active Listing Count Year-Over-Year in Grand Junction, CO (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU24300            | Housing Inventory: Active Listing Count in Grand Junction, CO (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM24300          | Housing Inventory: Active Listing Count Month-Over-Month in Grand Junction, CO (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY24300          | Housing Inventory: Active Listing Count Year-Over-Year in Grand Junction, CO (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS24300Q            | All-Transactions House Price Index for Grand Junction, CO (MSA)                                                     | 1979-07-01          | 2022-04-01        |
-| AVELISPRI24300            | Housing Inventory: Average Listing Price in Grand Junction, CO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM24300          | Housing Inventory: Average Listing Price Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY24300          | Housing Inventory: Average Listing Price Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA24300              | Market Hotness: Demand Score in Grand Junction, CO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI24300            | Housing Inventory: Average Listing Price in Grand Junction, CO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM24300          | Housing Inventory: Average Listing Price Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY24300          | Housing Inventory: Average Listing Price Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA24300              | Market Hotness: Demand Score in Grand Junction, CO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC243030010             | Total Quarterly Wages in Grand Junction, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC243030010SA           | Total Quarterly Wages in Grand Junction, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC243040010             | Average Weekly Wages for Employees in Total Covered Establishments in Grand Junction, CO (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -52,10 +52,10 @@
 | GRAN308UR                 | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | GRAN308URN                | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | GRJPOP                    | Resident Population in Grand Junction, CO (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA24300            | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA24300              | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA24300            | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA24300              | Market Hotness: Hotness Score in Grand Junction, CO (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA24300            | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA24300              | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA24300            | Market Hotness: Hotness Rank in Grand Junction, CO (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA24300              | Market Hotness: Hotness Score in Grand Junction, CO (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD24300                 | Implicit Regional Price Deflator for Grand Junction, CO (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT082430000000003A     | Unemployment Rate in Grand Junction, CO (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT082430000000004      | Unemployed Persons in Grand Junction, CO (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -63,46 +63,46 @@
 | LAUMT082430000000005      | Employed Persons in Grand Junction, CO (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT082430000000005A     | Employed Persons in Grand Junction, CO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT082430000000006A     | Civilian Labor Force in Grand Junction, CO (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA24300          | Market Hotness: Listing Views per Property in Grand Junction, CO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA24300        | Market Hotness: Listing Views per Property Versus the United States in Grand Junction, CO (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA24300          | Market Hotness: Listing Views per Property in Grand Junction, CO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA24300        | Market Hotness: Median Days on Market in Grand Junction, CO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA24300          | Market Hotness: Median Days on Market in Grand Junction, CO (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA24300        | Market Hotness: Median Days on Market in Grand Junction, CO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR24300          | Housing Inventory: Median Days on Market in Grand Junction, CO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM24300        | Housing Inventory: Median Days on Market Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY24300        | Housing Inventory: Median Days on Market Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI24300            | Housing Inventory: Median Listing Price in Grand Junction, CO (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM24300          | Housing Inventory: Median Listing Price Month-Over-Month in Grand Junction, CO (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE24300   | Housing Inventory: Median Listing Price per Square Feet in Grand Junction, CO (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM24300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Grand Junction, CO (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY24300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Grand Junction, CO (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY24300          | Housing Inventory: Median Listing Price Year-Over-Year in Grand Junction, CO (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA24300          | Market Hotness: Median Days on Market in Grand Junction, CO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA24300          | Market Hotness: Median Days on Market Versus the United States in Grand Junction, CO (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA24300          | Market Hotness: Median Days on Market Day in Grand Junction, CO (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE24300            | Housing Inventory: Median Home Size in Square Feet in Grand Junction, CO (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM24300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Grand Junction, CO (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY24300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Grand Junction, CO (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA24300          | Market Hotness: Median Listing Price in Grand Junction, CO (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA24300            | Market Hotness: Median Listing Price in Grand Junction, CO (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA24300        | Market Hotness: Median Listing Price Versus the United States in Grand Junction, CO (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA24300          | Market Hotness: Median Listing Price in Grand Junction, CO (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU24300            | Housing Inventory: New Listing Count in Grand Junction, CO (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM24300          | Housing Inventory: New Listing Count Month-Over-Month in Grand Junction, CO (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY24300          | Housing Inventory: New Listing Count Year-Over-Year in Grand Junction, CO (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA24300          | Market Hotness: Listing Views per Property in Grand Junction, CO (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA24300        | Market Hotness: Listing Views per Property Versus the United States in Grand Junction, CO (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA24300          | Market Hotness: Listing Views per Property in Grand Junction, CO (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA24300        | Market Hotness: Median Days on Market in Grand Junction, CO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA24300          | Market Hotness: Median Days on Market in Grand Junction, CO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA24300        | Market Hotness: Median Days on Market in Grand Junction, CO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR24300          | Housing Inventory: Median Days on Market in Grand Junction, CO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM24300        | Housing Inventory: Median Days on Market Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY24300        | Housing Inventory: Median Days on Market Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI24300            | Housing Inventory: Median Listing Price in Grand Junction, CO (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM24300          | Housing Inventory: Median Listing Price Month-Over-Month in Grand Junction, CO (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE24300   | Housing Inventory: Median Listing Price per Square Feet in Grand Junction, CO (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM24300 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Grand Junction, CO (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY24300 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Grand Junction, CO (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY24300          | Housing Inventory: Median Listing Price Year-Over-Year in Grand Junction, CO (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA24300          | Market Hotness: Median Days on Market in Grand Junction, CO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA24300          | Market Hotness: Median Days on Market Versus the United States in Grand Junction, CO (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA24300          | Market Hotness: Median Days on Market Day in Grand Junction, CO (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE24300            | Housing Inventory: Median Home Size in Square Feet in Grand Junction, CO (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM24300          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Grand Junction, CO (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY24300          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Grand Junction, CO (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA24300          | Market Hotness: Median Listing Price in Grand Junction, CO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA24300            | Market Hotness: Median Listing Price in Grand Junction, CO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA24300        | Market Hotness: Median Listing Price Versus the United States in Grand Junction, CO (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA24300          | Market Hotness: Median Listing Price in Grand Junction, CO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU24300            | Housing Inventory: New Listing Count in Grand Junction, CO (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM24300          | Housing Inventory: New Listing Count Month-Over-Month in Grand Junction, CO (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY24300          | Housing Inventory: New Listing Count Year-Over-Year in Grand Junction, CO (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP24300                 | Total Gross Domestic Product for Grand Junction, CO (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA24300            | Market Hotness: Nielsen Household Rank in Grand Junction, CO (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA24300            | Market Hotness: Nielsen Household Rank in Grand Junction, CO (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA124300          | U.S. Granted Utility Patents Originating in Grand Junction, CO (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU24300            | Housing Inventory: Pending Listing Count in Grand Junction, CO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM24300          | Housing Inventory: Pending Listing Count Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY24300          | Housing Inventory: Pending Listing Count Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU24300            | Housing Inventory: Price Increased Count in Grand Junction, CO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM24300          | Housing Inventory: Price Increased Count Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY24300          | Housing Inventory: Price Increased Count Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU24300            | Housing Inventory: Price Reduced Count in Grand Junction, CO (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM24300          | Housing Inventory: Price Reduced Count Month-Over-Month in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY24300          | Housing Inventory: Price Reduced Count Year-Over-Year in Grand Junction, CO (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU24300            | Housing Inventory: Pending Listing Count in Grand Junction, CO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM24300          | Housing Inventory: Pending Listing Count Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY24300          | Housing Inventory: Pending Listing Count Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU24300            | Housing Inventory: Price Increased Count in Grand Junction, CO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM24300          | Housing Inventory: Price Increased Count Month-Over-Month in Grand Junction, CO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY24300          | Housing Inventory: Price Increased Count Year-Over-Year in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU24300            | Housing Inventory: Price Reduced Count in Grand Junction, CO (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM24300          | Housing Inventory: Price Reduced Count Month-Over-Month in Grand Junction, CO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY24300          | Housing Inventory: Price Reduced Count Year-Over-Year in Grand Junction, CO (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP24300                 | Total Quantity Indexes for Real GDP for Grand Junction, CO (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP24300                 | Total Real Gross Domestic Product for Grand Junction, CO (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI24300                  | Real Personal Income for Grand Junction, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -165,4 +165,4 @@
 | SMU08243009093161101      | All Employees: Government: Local Government Educational Services in Grand Junction, CO (MSA)                        | 1990-01-01          | 2022-08-01        |
 | SMU08243009093161101A     | All Employees: Local Government Educational Services in Grand Junction, CO (MSA)                                    | 1990-01-01          | 2021-01-01        |
 | SMU08243009093161101SA    | All Employees: Government: Local Government Educational Services in Grand Junction, CO (MSA)                        | 1990-01-01          | 2022-08-01        |
-| SUSCMSA24300              | Market Hotness: Supply Score in Grand Junction, CO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA24300              | Market Hotness: Supply Score in Grand Junction, CO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

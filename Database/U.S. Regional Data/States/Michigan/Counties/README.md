@@ -11,7 +11,7 @@
 | Iosco County, MI          |                89 |
 | Cass County, MI           |               146 |
 | Keweenaw County, MI       |                89 |
-| Chippewa County, MI       |                90 |
+| Chippewa County, MI       |                 0 |
 | Genesee County, MI        |               147 |
 | Schoolcraft County, MI    |                90 |
 | Shiawassee County, MI     |               147 |
@@ -72,7 +72,7 @@
 | Crawford County, MI       |                90 |
 | Wexford County, MI        |                90 |
 | Roscommon County, MI      |                90 |
-| Branch County, MI         |                 0 |
+| Branch County, MI         |                90 |
 | Gratiot County, MI        |                90 |
 | Ottawa County, MI         |               147 |
 | Alcona County, MI         |                90 |

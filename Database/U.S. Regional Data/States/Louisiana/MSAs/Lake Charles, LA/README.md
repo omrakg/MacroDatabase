@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                         | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU29340            | Housing Inventory: Active Listing Count in Lake Charles, LA (CBSA)                                                            | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM29340          | Housing Inventory: Active Listing Count Month-Over-Month in Lake Charles, LA (CBSA)                                           | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY29340          | Housing Inventory: Active Listing Count Year-Over-Year in Lake Charles, LA (CBSA)                                             | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU29340            | Housing Inventory: Active Listing Count in Lake Charles, LA (CBSA)                                                            | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM29340          | Housing Inventory: Active Listing Count Month-Over-Month in Lake Charles, LA (CBSA)                                           | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY29340          | Housing Inventory: Active Listing Count Year-Over-Year in Lake Charles, LA (CBSA)                                             | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS29340Q            | All-Transactions House Price Index for Lake Charles, LA (MSA)                                                                 | 1988-04-01          | 2022-04-01        |
-| AVELISPRI29340            | Housing Inventory: Average Listing Price in Lake Charles, LA (CBSA)                                                           | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM29340          | Housing Inventory: Average Listing Price Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY29340          | Housing Inventory: Average Listing Price Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-08-01        |
-| DESCMSA29340              | Market Hotness: Demand Score in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-08-01        |
+| AVELISPRI29340            | Housing Inventory: Average Listing Price in Lake Charles, LA (CBSA)                                                           | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM29340          | Housing Inventory: Average Listing Price Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY29340          | Housing Inventory: Average Listing Price Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-09-01        |
+| DESCMSA29340              | Market Hotness: Demand Score in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-09-01        |
 | ENUC293430010             | Total Quarterly Wages in Lake Charles, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
 | ENUC293430010SA           | Total Quarterly Wages in Lake Charles, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
 | ENUC293440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lake Charles, LA (MSA)                                  | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC293440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lake Charles, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
 | ENUC293440510             | Average Weekly Wages for Employees in Private Establishments in Lake Charles, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
 | ENUC293440510SA           | Average Weekly Wages for Employees in Private Establishments in Lake Charles, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA29340            | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2018-08-01          | 2022-08-01        |
-| HORAMSA29340              | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA29340            | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2018-08-01          | 2022-08-01        |
-| HOSCMSA29340              | Market Hotness: Hotness Score in Lake Charles, LA (CBSA)                                                                      | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA29340            | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2017-09-01          | 2022-09-01        |
+| HORAMSA29340              | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA29340            | Market Hotness: Hotness Rank in Lake Charles, LA (CBSA)                                                                       | 2018-08-01          | 2022-09-01        |
+| HOSCMSA29340              | Market Hotness: Hotness Score in Lake Charles, LA (CBSA)                                                                      | 2017-08-01          | 2022-09-01        |
 | IRPD29340                 | Implicit Regional Price Deflator for Lake Charles, LA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAKE322GOVT               | All Employees: Government in Lake Charles, LA (MSA)                                                                           | 1990-01-01          | 2022-08-01        |
 | LAKE322GOVTN              | All Employees: Government in Lake Charles, LA (MSA)                                                                           | 1990-01-01          | 2022-08-01        |
@@ -49,46 +49,46 @@
 | LAUMT222934000000005A     | Employed Persons in Lake Charles, LA (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT222934000000006A     | Civilian Labor Force in Lake Charles, LA (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LCHPOP                    | Resident Population in Lake Charles, LA (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
-| LDPEPRMMMSA29340          | Market Hotness: Listing Views per Property in Lake Charles, LA (CBSA)                                                         | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA29340        | Market Hotness: Listing Views per Property Versus the United States in Lake Charles, LA (CBSA)                                | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA29340          | Market Hotness: Listing Views per Property in Lake Charles, LA (CBSA)                                                         | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA29340        | Market Hotness: Median Days on Market in Lake Charles, LA (CBSA)                                                              | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA29340          | Market Hotness: Median Days on Market in Lake Charles, LA (CBSA)                                                              | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA29340        | Market Hotness: Median Days on Market in Lake Charles, LA (CBSA)                                                              | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR29340          | Housing Inventory: Median Days on Market in Lake Charles, LA (CBSA)                                                           | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM29340        | Housing Inventory: Median Days on Market Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY29340        | Housing Inventory: Median Days on Market Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI29340            | Housing Inventory: Median Listing Price in Lake Charles, LA (CBSA)                                                            | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM29340          | Housing Inventory: Median Listing Price Month-Over-Month in Lake Charles, LA (CBSA)                                           | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE29340   | Housing Inventory: Median Listing Price per Square Feet in Lake Charles, LA (CBSA)                                            | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM29340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lake Charles, LA (CBSA)                           | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY29340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lake Charles, LA (CBSA)                             | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY29340          | Housing Inventory: Median Listing Price Year-Over-Year in Lake Charles, LA (CBSA)                                             | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA29340          | Market Hotness: Median Days on Market in Lake Charles, LA (CBSA)                                                              | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA29340          | Market Hotness: Median Days on Market Versus the United States in Lake Charles, LA (CBSA)                                     | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA29340          | Market Hotness: Median Days on Market Day in Lake Charles, LA (CBSA)                                                          | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE29340            | Housing Inventory: Median Home Size in Square Feet in Lake Charles, LA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM29340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lake Charles, LA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY29340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lake Charles, LA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA29340          | Market Hotness: Median Listing Price in Lake Charles, LA (CBSA)                                                               | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA29340            | Market Hotness: Median Listing Price in Lake Charles, LA (CBSA)                                                               | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA29340        | Market Hotness: Median Listing Price Versus the United States in Lake Charles, LA (CBSA)                                      | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA29340          | Market Hotness: Median Listing Price in Lake Charles, LA (CBSA)                                                               | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU29340            | Housing Inventory: New Listing Count in Lake Charles, LA (CBSA)                                                               | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM29340          | Housing Inventory: New Listing Count Month-Over-Month in Lake Charles, LA (CBSA)                                              | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY29340          | Housing Inventory: New Listing Count Year-Over-Year in Lake Charles, LA (CBSA)                                                | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA29340          | Market Hotness: Listing Views per Property in Lake Charles, LA (CBSA)                                                         | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA29340        | Market Hotness: Listing Views per Property Versus the United States in Lake Charles, LA (CBSA)                                | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA29340          | Market Hotness: Listing Views per Property in Lake Charles, LA (CBSA)                                                         | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA29340        | Market Hotness: Median Days on Market in Lake Charles, LA (CBSA)                                                              | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA29340          | Market Hotness: Median Days on Market in Lake Charles, LA (CBSA)                                                              | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA29340        | Market Hotness: Median Days on Market in Lake Charles, LA (CBSA)                                                              | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR29340          | Housing Inventory: Median Days on Market in Lake Charles, LA (CBSA)                                                           | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM29340        | Housing Inventory: Median Days on Market Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY29340        | Housing Inventory: Median Days on Market Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI29340            | Housing Inventory: Median Listing Price in Lake Charles, LA (CBSA)                                                            | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM29340          | Housing Inventory: Median Listing Price Month-Over-Month in Lake Charles, LA (CBSA)                                           | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE29340   | Housing Inventory: Median Listing Price per Square Feet in Lake Charles, LA (CBSA)                                            | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM29340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lake Charles, LA (CBSA)                           | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY29340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lake Charles, LA (CBSA)                             | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY29340          | Housing Inventory: Median Listing Price Year-Over-Year in Lake Charles, LA (CBSA)                                             | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA29340          | Market Hotness: Median Days on Market in Lake Charles, LA (CBSA)                                                              | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA29340          | Market Hotness: Median Days on Market Versus the United States in Lake Charles, LA (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA29340          | Market Hotness: Median Days on Market Day in Lake Charles, LA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE29340            | Housing Inventory: Median Home Size in Square Feet in Lake Charles, LA (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM29340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lake Charles, LA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY29340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lake Charles, LA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA29340          | Market Hotness: Median Listing Price in Lake Charles, LA (CBSA)                                                               | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA29340            | Market Hotness: Median Listing Price in Lake Charles, LA (CBSA)                                                               | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA29340        | Market Hotness: Median Listing Price Versus the United States in Lake Charles, LA (CBSA)                                      | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA29340          | Market Hotness: Median Listing Price in Lake Charles, LA (CBSA)                                                               | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU29340            | Housing Inventory: New Listing Count in Lake Charles, LA (CBSA)                                                               | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM29340          | Housing Inventory: New Listing Count Month-Over-Month in Lake Charles, LA (CBSA)                                              | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY29340          | Housing Inventory: New Listing Count Year-Over-Year in Lake Charles, LA (CBSA)                                                | 2017-07-01          | 2022-09-01        |
 | NGMP29340                 | Total Gross Domestic Product for Lake Charles, LA (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA29340            | Market Hotness: Nielsen Household Rank in Lake Charles, LA (CBSA)                                                             | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA29340            | Market Hotness: Nielsen Household Rank in Lake Charles, LA (CBSA)                                                             | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA129340          | U.S. Granted Utility Patents Originating in Lake Charles, LA (MSA)                                                            | 2000-01-01          | 2015-01-01        |
-| PENLISCOU29340            | Housing Inventory: Pending Listing Count in Lake Charles, LA (CBSA)                                                           | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM29340          | Housing Inventory: Pending Listing Count Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY29340          | Housing Inventory: Pending Listing Count Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU29340            | Housing Inventory: Price Increased Count in Lake Charles, LA (CBSA)                                                           | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM29340          | Housing Inventory: Price Increased Count Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-08-01          | 2022-08-01        |
-| PRIINCCOUYY29340          | Housing Inventory: Price Increased Count Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU29340            | Housing Inventory: Price Reduced Count in Lake Charles, LA (CBSA)                                                             | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM29340          | Housing Inventory: Price Reduced Count Month-Over-Month in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY29340          | Housing Inventory: Price Reduced Count Year-Over-Year in Lake Charles, LA (CBSA)                                              | 2017-07-01          | 2022-08-01        |
+| PENLISCOU29340            | Housing Inventory: Pending Listing Count in Lake Charles, LA (CBSA)                                                           | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM29340          | Housing Inventory: Pending Listing Count Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY29340          | Housing Inventory: Pending Listing Count Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU29340            | Housing Inventory: Price Increased Count in Lake Charles, LA (CBSA)                                                           | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM29340          | Housing Inventory: Price Increased Count Month-Over-Month in Lake Charles, LA (CBSA)                                          | 2017-07-01          | 2022-08-01        |
+| PRIINCCOUYY29340          | Housing Inventory: Price Increased Count Year-Over-Year in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU29340            | Housing Inventory: Price Reduced Count in Lake Charles, LA (CBSA)                                                             | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM29340          | Housing Inventory: Price Reduced Count Month-Over-Month in Lake Charles, LA (CBSA)                                            | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY29340          | Housing Inventory: Price Reduced Count Year-Over-Year in Lake Charles, LA (CBSA)                                              | 2017-07-01          | 2022-09-01        |
 | QGMP29340                 | Total Quantity Indexes for Real GDP for Lake Charles, LA (MSA)                                                                | 2001-01-01          | 2020-01-01        |
 | RGMP29340                 | Total Real Gross Domestic Product for Lake Charles, LA (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
 | RPI29340                  | Real Personal Income for Lake Charles, LA (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
@@ -158,4 +158,4 @@
 | SMU22293409093000001      | All Employees: Government: Local Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
 | SMU22293409093000001A     | All Employees: Local Government in Lake Charles, LA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
 | SMU22293409093000001SA    | All Employees: Government: Local Government in Lake Charles, LA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| SUSCMSA29340              | Market Hotness: Supply Score in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-08-01        |
+| SUSCMSA29340              | Market Hotness: Supply Score in Lake Charles, LA (CBSA)                                                                       | 2017-08-01          | 2022-09-01        |

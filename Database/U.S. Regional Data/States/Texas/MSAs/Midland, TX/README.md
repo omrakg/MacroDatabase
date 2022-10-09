@@ -1,13 +1,13 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU33260            | Housing Inventory: Active Listing Count in Midland, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM33260          | Housing Inventory: Active Listing Count Month-Over-Month in Midland, TX (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY33260          | Housing Inventory: Active Listing Count Year-Over-Year in Midland, TX (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU33260            | Housing Inventory: Active Listing Count in Midland, TX (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM33260          | Housing Inventory: Active Listing Count Month-Over-Month in Midland, TX (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY33260          | Housing Inventory: Active Listing Count Year-Over-Year in Midland, TX (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS33260Q            | All-Transactions House Price Index for Midland, TX (MSA)                                                     | 1980-07-01          | 2022-04-01        |
-| AVELISPRI33260            | Housing Inventory: Average Listing Price in Midland, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM33260          | Housing Inventory: Average Listing Price Month-Over-Month in Midland, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY33260          | Housing Inventory: Average Listing Price Year-Over-Year in Midland, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA33260              | Market Hotness: Demand Score in Midland, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI33260            | Housing Inventory: Average Listing Price in Midland, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM33260          | Housing Inventory: Average Listing Price Month-Over-Month in Midland, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY33260          | Housing Inventory: Average Listing Price Year-Over-Year in Midland, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA33260              | Market Hotness: Demand Score in Midland, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC332630010             | Total Quarterly Wages in Midland, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC332630010SA           | Total Quarterly Wages in Midland, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC332640010             | Average Weekly Wages for Employees in Total Covered Establishments in Midland, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC332640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Midland, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC332640510             | Average Weekly Wages for Employees in Private Establishments in Midland, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC332640510SA           | Average Weekly Wages for Employees in Private Establishments in Midland, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA33260            | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA33260              | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA33260            | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA33260              | Market Hotness: Hotness Score in Midland, TX (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA33260            | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA33260              | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA33260            | Market Hotness: Hotness Rank in Midland, TX (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA33260              | Market Hotness: Hotness Score in Midland, TX (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD33260                 | Implicit Regional Price Deflator for Midland, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483326000000003A     | Unemployment Rate in Midland, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT483326000000004      | Unemployed Persons in Midland, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -31,32 +31,32 @@
 | LAUMT483326000000005      | Employed Persons in Midland, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT483326000000005A     | Employed Persons in Midland, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT483326000000006A     | Civilian Labor Force in Midland, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA33260          | Market Hotness: Listing Views per Property in Midland, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA33260        | Market Hotness: Listing Views per Property Versus the United States in Midland, TX (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA33260          | Market Hotness: Listing Views per Property in Midland, TX (CBSA)                                             | 2018-08-01          | 2022-08-01        |
+| LDPEPRMMMSA33260          | Market Hotness: Listing Views per Property in Midland, TX (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA33260        | Market Hotness: Listing Views per Property Versus the United States in Midland, TX (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA33260          | Market Hotness: Listing Views per Property in Midland, TX (CBSA)                                             | 2018-08-01          | 2022-09-01        |
 | MDTPOP                    | Resident Population in Midland, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| MEDAONMAMMMSA33260        | Market Hotness: Median Days on Market in Midland, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA33260          | Market Hotness: Median Days on Market in Midland, TX (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA33260        | Market Hotness: Median Days on Market in Midland, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR33260          | Housing Inventory: Median Days on Market in Midland, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM33260        | Housing Inventory: Median Days on Market Month-Over-Month in Midland, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY33260        | Housing Inventory: Median Days on Market Year-Over-Year in Midland, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI33260            | Housing Inventory: Median Listing Price in Midland, TX (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM33260          | Housing Inventory: Median Listing Price Month-Over-Month in Midland, TX (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE33260   | Housing Inventory: Median Listing Price per Square Feet in Midland, TX (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM33260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Midland, TX (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY33260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Midland, TX (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY33260          | Housing Inventory: Median Listing Price Year-Over-Year in Midland, TX (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA33260          | Market Hotness: Median Days on Market in Midland, TX (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA33260          | Market Hotness: Median Days on Market Versus the United States in Midland, TX (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA33260          | Market Hotness: Median Days on Market Day in Midland, TX (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE33260            | Housing Inventory: Median Home Size in Square Feet in Midland, TX (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM33260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Midland, TX (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY33260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Midland, TX (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA33260          | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA33260            | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA33260        | Market Hotness: Median Listing Price Versus the United States in Midland, TX (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA33260          | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
+| MEDAONMAMMMSA33260        | Market Hotness: Median Days on Market in Midland, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA33260          | Market Hotness: Median Days on Market in Midland, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA33260        | Market Hotness: Median Days on Market in Midland, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR33260          | Housing Inventory: Median Days on Market in Midland, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM33260        | Housing Inventory: Median Days on Market Month-Over-Month in Midland, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY33260        | Housing Inventory: Median Days on Market Year-Over-Year in Midland, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI33260            | Housing Inventory: Median Listing Price in Midland, TX (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM33260          | Housing Inventory: Median Listing Price Month-Over-Month in Midland, TX (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE33260   | Housing Inventory: Median Listing Price per Square Feet in Midland, TX (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM33260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Midland, TX (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY33260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Midland, TX (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY33260          | Housing Inventory: Median Listing Price Year-Over-Year in Midland, TX (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA33260          | Market Hotness: Median Days on Market in Midland, TX (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA33260          | Market Hotness: Median Days on Market Versus the United States in Midland, TX (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA33260          | Market Hotness: Median Days on Market Day in Midland, TX (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE33260            | Housing Inventory: Median Home Size in Square Feet in Midland, TX (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM33260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Midland, TX (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY33260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Midland, TX (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA33260          | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA33260            | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA33260        | Market Hotness: Median Listing Price Versus the United States in Midland, TX (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA33260          | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
 | MIDL248BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-08-01        |
 | MIDL248BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-08-01        |
 | MIDL248BPPRIV             | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-08-01        |
@@ -92,21 +92,21 @@
 | MIDSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Midland, TX (MSA)                                             | 1990-02-01          | 2022-08-01        |
 | MIDSA175MFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1990-01-01          | 2022-08-01        |
 | MIDSA674AFRBDAL           | Total Nonfarm Payroll Employment for Midland, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| NEWLISCOU33260            | Housing Inventory: New Listing Count in Midland, TX (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM33260          | Housing Inventory: New Listing Count Month-Over-Month in Midland, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY33260          | Housing Inventory: New Listing Count Year-Over-Year in Midland, TX (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU33260            | Housing Inventory: New Listing Count in Midland, TX (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM33260          | Housing Inventory: New Listing Count Month-Over-Month in Midland, TX (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY33260          | Housing Inventory: New Listing Count Year-Over-Year in Midland, TX (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP33260                 | Total Gross Domestic Product for Midland, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA33260            | Market Hotness: Nielsen Household Rank in Midland, TX (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA33260            | Market Hotness: Nielsen Household Rank in Midland, TX (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA133260          | U.S. Granted Utility Patents Originating in Midland, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU33260            | Housing Inventory: Pending Listing Count in Midland, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM33260          | Housing Inventory: Pending Listing Count Month-Over-Month in Midland, TX (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY33260          | Housing Inventory: Pending Listing Count Year-Over-Year in Midland, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU33260            | Housing Inventory: Price Increased Count in Midland, TX (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM33260          | Housing Inventory: Price Increased Count Month-Over-Month in Midland, TX (CBSA)                              | 2017-08-01          | 2022-07-01        |
+| PENLISCOU33260            | Housing Inventory: Pending Listing Count in Midland, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM33260          | Housing Inventory: Pending Listing Count Month-Over-Month in Midland, TX (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY33260          | Housing Inventory: Pending Listing Count Year-Over-Year in Midland, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU33260            | Housing Inventory: Price Increased Count in Midland, TX (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM33260          | Housing Inventory: Price Increased Count Month-Over-Month in Midland, TX (CBSA)                              | 2017-08-01          | 2022-09-01        |
 | PRIINCCOUYY33260          | Housing Inventory: Price Increased Count Year-Over-Year in Midland, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU33260            | Housing Inventory: Price Reduced Count in Midland, TX (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM33260          | Housing Inventory: Price Reduced Count Month-Over-Month in Midland, TX (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY33260          | Housing Inventory: Price Reduced Count Year-Over-Year in Midland, TX (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PRIREDCOU33260            | Housing Inventory: Price Reduced Count in Midland, TX (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM33260          | Housing Inventory: Price Reduced Count Month-Over-Month in Midland, TX (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY33260          | Housing Inventory: Price Reduced Count Year-Over-Year in Midland, TX (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP33260                 | Total Quantity Indexes for Real GDP for Midland, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP33260                 | Total Real Gross Domestic Product for Midland, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI33260                  | Real Personal Income for Midland, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -163,4 +163,4 @@
 | SMU48332609093000001      | All Employees: Government: Local Government in Midland, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU48332609093000001A     | All Employees: Local Government in Midland, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48332609093000001SA    | All Employees: Government: Local Government in Midland, TX (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA33260              | Market Hotness: Supply Score in Midland, TX (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA33260              | Market Hotness: Supply Score in Midland, TX (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

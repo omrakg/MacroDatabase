@@ -1,12 +1,12 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU44220            | Housing Inventory: Active Listing Count in Springfield, OH (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM44220          | Housing Inventory: Active Listing Count Month-Over-Month in Springfield, OH (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY44220          | Housing Inventory: Active Listing Count Year-Over-Year in Springfield, OH (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU44220            | Housing Inventory: Active Listing Count in Springfield, OH (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM44220          | Housing Inventory: Active Listing Count Month-Over-Month in Springfield, OH (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY44220          | Housing Inventory: Active Listing Count Year-Over-Year in Springfield, OH (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS44220Q            | All-Transactions House Price Index for Springfield, OH (MSA)                                                     | 1980-07-01          | 2022-04-01        |
-| AVELISPRI44220            | Housing Inventory: Average Listing Price in Springfield, OH (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM44220          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY44220          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI44220            | Housing Inventory: Average Listing Price in Springfield, OH (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM44220          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY44220          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | DESCMSA44220              | Market Hotness: Demand Score in Springfield, OH (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
 | ENUC442230010             | Total Quarterly Wages in Springfield, OH (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC442230010SA           | Total Quarterly Wages in Springfield, OH (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -37,40 +37,40 @@
 | MEDAONMAMMMSA44220        | Market Hotness: Median Days on Market in Springfield, OH (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
 | MEDAONMAMSA44220          | Market Hotness: Median Days on Market in Springfield, OH (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
 | MEDAONMAYYMSA44220        | Market Hotness: Median Days on Market in Springfield, OH (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR44220          | Housing Inventory: Median Days on Market in Springfield, OH (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM44220        | Housing Inventory: Median Days on Market Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY44220        | Housing Inventory: Median Days on Market Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI44220            | Housing Inventory: Median Listing Price in Springfield, OH (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM44220          | Housing Inventory: Median Listing Price Month-Over-Month in Springfield, OH (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE44220   | Housing Inventory: Median Listing Price per Square Feet in Springfield, OH (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM44220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Springfield, OH (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY44220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Springfield, OH (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY44220          | Housing Inventory: Median Listing Price Year-Over-Year in Springfield, OH (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR44220          | Housing Inventory: Median Days on Market in Springfield, OH (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM44220        | Housing Inventory: Median Days on Market Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY44220        | Housing Inventory: Median Days on Market Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI44220            | Housing Inventory: Median Listing Price in Springfield, OH (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM44220          | Housing Inventory: Median Listing Price Month-Over-Month in Springfield, OH (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE44220   | Housing Inventory: Median Listing Price per Square Feet in Springfield, OH (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM44220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Springfield, OH (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY44220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Springfield, OH (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY44220          | Housing Inventory: Median Listing Price Year-Over-Year in Springfield, OH (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | MEDOMMDAMSA44220          | Market Hotness: Median Days on Market in Springfield, OH (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
 | MEDOVSUSMSA44220          | Market Hotness: Median Days on Market Versus the United States in Springfield, OH (CBSA)                         | 2017-08-01          | 2022-08-01        |
 | MEDOYYDAMSA44220          | Market Hotness: Median Days on Market Day in Springfield, OH (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE44220            | Housing Inventory: Median Home Size in Square Feet in Springfield, OH (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM44220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Springfield, OH (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY44220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Springfield, OH (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| MEDSQUFEE44220            | Housing Inventory: Median Home Size in Square Feet in Springfield, OH (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM44220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Springfield, OH (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY44220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Springfield, OH (CBSA)                      | 2017-07-01          | 2022-09-01        |
 | MELIPRMMMSA44220          | Market Hotness: Median Listing Price in Springfield, OH (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
 | MELIPRMSA44220            | Market Hotness: Median Listing Price in Springfield, OH (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
 | MELIPRVSUSMSA44220        | Market Hotness: Median Listing Price Versus the United States in Springfield, OH (CBSA)                          | 2017-08-01          | 2022-08-01        |
 | MELIPRYYMSA44220          | Market Hotness: Median Listing Price in Springfield, OH (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU44220            | Housing Inventory: New Listing Count in Springfield, OH (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM44220          | Housing Inventory: New Listing Count Month-Over-Month in Springfield, OH (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY44220          | Housing Inventory: New Listing Count Year-Over-Year in Springfield, OH (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| NEWLISCOU44220            | Housing Inventory: New Listing Count in Springfield, OH (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM44220          | Housing Inventory: New Listing Count Month-Over-Month in Springfield, OH (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY44220          | Housing Inventory: New Listing Count Year-Over-Year in Springfield, OH (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP44220                 | Total Gross Domestic Product for Springfield, OH (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA44220            | Market Hotness: Nielsen Household Rank in Springfield, OH (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA144220          | U.S. Granted Utility Patents Originating in Springfield, OH (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU44220            | Housing Inventory: Pending Listing Count in Springfield, OH (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM44220          | Housing Inventory: Pending Listing Count Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY44220          | Housing Inventory: Pending Listing Count Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU44220            | Housing Inventory: Price Increased Count in Springfield, OH (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM44220          | Housing Inventory: Price Increased Count Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY44220          | Housing Inventory: Price Increased Count Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU44220            | Housing Inventory: Price Reduced Count in Springfield, OH (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM44220          | Housing Inventory: Price Reduced Count Month-Over-Month in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY44220          | Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, OH (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU44220            | Housing Inventory: Pending Listing Count in Springfield, OH (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM44220          | Housing Inventory: Pending Listing Count Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY44220          | Housing Inventory: Pending Listing Count Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU44220            | Housing Inventory: Price Increased Count in Springfield, OH (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM44220          | Housing Inventory: Price Increased Count Month-Over-Month in Springfield, OH (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY44220          | Housing Inventory: Price Increased Count Year-Over-Year in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU44220            | Housing Inventory: Price Reduced Count in Springfield, OH (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM44220          | Housing Inventory: Price Reduced Count Month-Over-Month in Springfield, OH (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY44220          | Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, OH (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP44220                 | Total Quantity Indexes for Real GDP for Springfield, OH (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP44220                 | Total Real Gross Domestic Product for Springfield, OH (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI44220                  | Real Personal Income for Springfield, OH (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

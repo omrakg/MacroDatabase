@@ -8,12 +8,12 @@
 | Chico, CA                            |               173 |
 | Visalia, CA                          |               191 |
 | Oxnard-Thousand Oaks-Ventura, CA     |               239 |
-| Redding, CA                          |               167 |
+| Redding, CA                          |                 0 |
 | Madera, CA                           |               150 |
 | San Jose-Sunnyvale-Santa Clara, CA   |               331 |
 | Santa Maria-Santa Barbara, CA        |               175 |
 | Fresno, CA                           |               246 |
-| Salinas, CA                          |                 0 |
+| Salinas, CA                          |               196 |
 | Yuba City, CA                        |               164 |
 | Modesto, CA                          |               201 |
 | San Luis Obispo-Paso Robles, CA      |               191 |

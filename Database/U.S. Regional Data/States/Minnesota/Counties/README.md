@@ -3,7 +3,7 @@
 | Chisago County, MN           |               146 |
 | Traverse County, MN          |                88 |
 | Wilkin County, MN            |                89 |
-| Mower County, MN             |                90 |
+| Mower County, MN             |                 0 |
 | Big Stone County, MN         |                88 |
 | Pipestone County, MN         |                90 |
 | Stearns County, MN           |               147 |
@@ -45,7 +45,7 @@
 | Rock County, MN              |                90 |
 | Anoka County, MN             |               147 |
 | Cottonwood County, MN        |                89 |
-| Morrison County, MN          |                 0 |
+| Morrison County, MN          |                90 |
 | Chippewa County, MN          |                90 |
 | Carlton County, MN           |                90 |
 | Martin County, MN            |                90 |

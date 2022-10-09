@@ -7,7 +7,7 @@
 | Sac County, IA           |                90 |
 | Black Hawk County, IA    |               147 |
 | Palo Alto County, IA     |                90 |
-| Cass County, IA          |                90 |
+| Cass County, IA          |                 0 |
 | Ida County, IA           |                89 |
 | Cerro Gordo County, IA   |               145 |
 | Chickasaw County, IA     |                90 |
@@ -67,7 +67,7 @@
 | Davis County, IA         |                89 |
 | Harrison County, IA      |                90 |
 | Washington County, IA    |                89 |
-| Jasper County, IA        |                90 |
+| Jasper County, IA        |                 0 |
 | Wapello County, IA       |                90 |
 | Franklin County, IA      |                90 |
 | Muscatine County, IA     |                90 |
@@ -85,7 +85,7 @@
 | Clayton County, IA       |                90 |
 | Taylor County, IA        |                89 |
 | Cedar County, IA         |                90 |
-| Grundy County, IA        |                 0 |
+| Grundy County, IA        |                89 |
 | Fayette County, IA       |                90 |
 | Hardin County, IA        |                90 |
 | Jackson County, IA       |                89 |

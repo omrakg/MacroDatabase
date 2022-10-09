@@ -58,7 +58,7 @@
 | Iroquois County, IL    |                89 |
 | Henderson County, IL   |                88 |
 | Saline County, IL      |                90 |
-| Pope County, IL        |                88 |
+| Pope County, IL        |                 0 |
 | Hancock County, IL     |                90 |
 | Boone County, IL       |                90 |
 | Hamilton County, IL    |                87 |
@@ -69,7 +69,7 @@
 | De Witt County, IL     |                90 |
 | De Kalb County, IL     |               147 |
 | Will County, IL        |               147 |
-| Randolph County, IL    |                 0 |
+| Randolph County, IL    |                90 |
 | St. Clair County, IL   |               147 |
 | Bureau County, IL      |                90 |
 | Ford County, IL        |                90 |

@@ -1,9 +1,9 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ABQPOP                    | Resident Population in Albuquerque, NM (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ACTLISCOU10740            | Housing Inventory: Active Listing Count in Albuquerque, NM (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM10740          | Housing Inventory: Active Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY10740          | Housing Inventory: Active Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU10740            | Housing Inventory: Active Listing Count in Albuquerque, NM (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM10740          | Housing Inventory: Active Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY10740          | Housing Inventory: Active Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ALBU735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-08-01        |
 | ALBU735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Albuquerque, NM (MSA)            | 1988-01-01          | 2022-08-01        |
 | ALBU735BPPRIV             | New Private Housing Units Authorized by Building Permits for Albuquerque, NM (MSA)                               | 1988-01-01          | 2022-08-01        |
@@ -36,10 +36,10 @@
 | ALBU735UR                 | Unemployment Rate in Albuquerque, NM (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | ALBU735URN                | Unemployment Rate in Albuquerque, NM (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | ATNHPIUS10740Q            | All-Transactions House Price Index for Albuquerque, NM (MSA)                                                     | 1977-07-01          | 2022-04-01        |
-| AVELISPRI10740            | Housing Inventory: Average Listing Price in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM10740          | Housing Inventory: Average Listing Price Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY10740          | Housing Inventory: Average Listing Price Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA10740              | Market Hotness: Demand Score in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI10740            | Housing Inventory: Average Listing Price in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM10740          | Housing Inventory: Average Listing Price Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY10740          | Housing Inventory: Average Listing Price Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA10740              | Market Hotness: Demand Score in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC107430010             | Total Quarterly Wages in Albuquerque, NM (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC107430010SA           | Total Quarterly Wages in Albuquerque, NM (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC107440010             | Average Weekly Wages for Employees in Total Covered Establishments in Albuquerque, NM (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -52,11 +52,11 @@
 | ENUC107440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC107440510             | Average Weekly Wages for Employees in Private Establishments in Albuquerque, NM (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC107440510SA           | Average Weekly Wages for Employees in Private Establishments in Albuquerque, NM (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA10740            | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA10740              | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA10740            | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA10740              | Market Hotness: Hotness Score in Albuquerque, NM (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG10740               | Job Postings on Indeed in Albuquerque, NM (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
+| HORAMMMSA10740            | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA10740              | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA10740            | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA10740              | Market Hotness: Hotness Score in Albuquerque, NM (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
+| IHLCHG10740               | Job Postings on Indeed in Albuquerque, NM (MSA)                                                                  | 2020-02-01          | 2022-09-30        |
 | IRPD10740                 | Implicit Regional Price Deflator for Albuquerque, NM (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT351074000000003A     | Unemployment Rate in Albuquerque, NM (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT351074000000004      | Unemployed Persons in Albuquerque, NM (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -64,46 +64,46 @@
 | LAUMT351074000000005      | Employed Persons in Albuquerque, NM (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT351074000000005A     | Employed Persons in Albuquerque, NM (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT351074000000006A     | Civilian Labor Force in Albuquerque, NM (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA10740          | Market Hotness: Listing Views per Property in Albuquerque, NM (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA10740        | Market Hotness: Listing Views per Property Versus the United States in Albuquerque, NM (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA10740          | Market Hotness: Listing Views per Property in Albuquerque, NM (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA10740        | Market Hotness: Median Days on Market in Albuquerque, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA10740          | Market Hotness: Median Days on Market in Albuquerque, NM (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA10740        | Market Hotness: Median Days on Market in Albuquerque, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR10740          | Housing Inventory: Median Days on Market in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM10740        | Housing Inventory: Median Days on Market Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY10740        | Housing Inventory: Median Days on Market Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI10740            | Housing Inventory: Median Listing Price in Albuquerque, NM (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM10740          | Housing Inventory: Median Listing Price Month-Over-Month in Albuquerque, NM (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE10740   | Housing Inventory: Median Listing Price per Square Feet in Albuquerque, NM (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM10740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Albuquerque, NM (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY10740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Albuquerque, NM (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY10740          | Housing Inventory: Median Listing Price Year-Over-Year in Albuquerque, NM (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA10740          | Market Hotness: Median Days on Market in Albuquerque, NM (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA10740          | Market Hotness: Median Days on Market Versus the United States in Albuquerque, NM (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA10740          | Market Hotness: Median Days on Market Day in Albuquerque, NM (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE10740            | Housing Inventory: Median Home Size in Square Feet in Albuquerque, NM (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM10740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Albuquerque, NM (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY10740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Albuquerque, NM (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA10740          | Market Hotness: Median Listing Price in Albuquerque, NM (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA10740            | Market Hotness: Median Listing Price in Albuquerque, NM (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA10740        | Market Hotness: Median Listing Price Versus the United States in Albuquerque, NM (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA10740          | Market Hotness: Median Listing Price in Albuquerque, NM (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU10740            | Housing Inventory: New Listing Count in Albuquerque, NM (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM10740          | Housing Inventory: New Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY10740          | Housing Inventory: New Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA10740          | Market Hotness: Listing Views per Property in Albuquerque, NM (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA10740        | Market Hotness: Listing Views per Property Versus the United States in Albuquerque, NM (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA10740          | Market Hotness: Listing Views per Property in Albuquerque, NM (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA10740        | Market Hotness: Median Days on Market in Albuquerque, NM (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA10740          | Market Hotness: Median Days on Market in Albuquerque, NM (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA10740        | Market Hotness: Median Days on Market in Albuquerque, NM (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR10740          | Housing Inventory: Median Days on Market in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM10740        | Housing Inventory: Median Days on Market Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY10740        | Housing Inventory: Median Days on Market Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI10740            | Housing Inventory: Median Listing Price in Albuquerque, NM (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM10740          | Housing Inventory: Median Listing Price Month-Over-Month in Albuquerque, NM (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE10740   | Housing Inventory: Median Listing Price per Square Feet in Albuquerque, NM (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM10740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Albuquerque, NM (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY10740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Albuquerque, NM (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY10740          | Housing Inventory: Median Listing Price Year-Over-Year in Albuquerque, NM (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA10740          | Market Hotness: Median Days on Market in Albuquerque, NM (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA10740          | Market Hotness: Median Days on Market Versus the United States in Albuquerque, NM (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA10740          | Market Hotness: Median Days on Market Day in Albuquerque, NM (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE10740            | Housing Inventory: Median Home Size in Square Feet in Albuquerque, NM (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM10740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Albuquerque, NM (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY10740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Albuquerque, NM (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA10740          | Market Hotness: Median Listing Price in Albuquerque, NM (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA10740            | Market Hotness: Median Listing Price in Albuquerque, NM (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA10740        | Market Hotness: Median Listing Price Versus the United States in Albuquerque, NM (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA10740          | Market Hotness: Median Listing Price in Albuquerque, NM (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU10740            | Housing Inventory: New Listing Count in Albuquerque, NM (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM10740          | Housing Inventory: New Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY10740          | Housing Inventory: New Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP10740                 | Total Gross Domestic Product for Albuquerque, NM (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA10740            | Market Hotness: Nielsen Household Rank in Albuquerque, NM (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA10740            | Market Hotness: Nielsen Household Rank in Albuquerque, NM (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA110740          | U.S. Granted Utility Patents Originating in Albuquerque, NM (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU10740            | Housing Inventory: Pending Listing Count in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM10740          | Housing Inventory: Pending Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY10740          | Housing Inventory: Pending Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU10740            | Housing Inventory: Price Increased Count in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM10740          | Housing Inventory: Price Increased Count Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY10740          | Housing Inventory: Price Increased Count Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU10740            | Housing Inventory: Price Reduced Count in Albuquerque, NM (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM10740          | Housing Inventory: Price Reduced Count Month-Over-Month in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY10740          | Housing Inventory: Price Reduced Count Year-Over-Year in Albuquerque, NM (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU10740            | Housing Inventory: Pending Listing Count in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM10740          | Housing Inventory: Pending Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY10740          | Housing Inventory: Pending Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU10740            | Housing Inventory: Price Increased Count in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM10740          | Housing Inventory: Price Increased Count Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY10740          | Housing Inventory: Price Increased Count Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU10740            | Housing Inventory: Price Reduced Count in Albuquerque, NM (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM10740          | Housing Inventory: Price Reduced Count Month-Over-Month in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY10740          | Housing Inventory: Price Reduced Count Year-Over-Year in Albuquerque, NM (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP10740                 | Total Quantity Indexes for Real GDP for Albuquerque, NM (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP10740                 | Total Real Gross Domestic Product for Albuquerque, NM (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI10740                  | Real Personal Income for Albuquerque, NM (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -160,4 +160,4 @@
 | SMU35107409093000001      | All Employees: Government: Local Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU35107409093000001A     | All Employees: Local Government in Albuquerque, NM (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU35107409093000001SA    | All Employees: Government: Local Government in Albuquerque, NM (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA10740              | Market Hotness: Supply Score in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA10740              | Market Hotness: Supply Score in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

@@ -27,7 +27,7 @@
 | Lincoln County, KS      |                88 |
 | Ottawa County, KS       |                90 |
 | Jackson County, KS      |                90 |
-| Jefferson County, KS    |                90 |
+| Jefferson County, KS    |                 0 |
 | Rooks County, KS        |                88 |
 | Wyandotte County, KS    |               147 |
 | Shawnee County, KS      |               147 |
@@ -35,7 +35,7 @@
 | Osborne County, KS      |                88 |
 | Ellis County, KS        |                90 |
 | Reno County, KS         |               146 |
-| Grant County, KS        |                 0 |
+| Grant County, KS        |                89 |
 | Bourbon County, KS      |                90 |
 | Finney County, KS       |                90 |
 | Anderson County, KS     |                90 |
@@ -87,7 +87,7 @@
 | Norton County, KS       |                87 |
 | Labette County, KS      |                90 |
 | Miami County, KS        |                90 |
-| Wilson County, KS       |                89 |
+| Wilson County, KS       |                 0 |
 | Dickinson County, KS    |                90 |
 | Stafford County, KS     |                89 |
 | Franklin County, KS     |                90 |
@@ -95,7 +95,7 @@
 | Wichita County, KS      |                88 |
 | Linn County, KS         |                88 |
 | Nemaha County, KS       |                90 |
-| Cloud County, KS        |                 0 |
+| Cloud County, KS        |                89 |
 | Coffey County, KS       |                90 |
 | Sheridan County, KS     |                86 |
 | Edwards County, KS      |                89 |

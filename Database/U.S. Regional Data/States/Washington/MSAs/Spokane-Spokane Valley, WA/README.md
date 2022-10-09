@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU44060            | Housing Inventory: Active Listing Count in Spokane-Spokane Valley, WA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM44060          | Housing Inventory: Active Listing Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY44060          | Housing Inventory: Active Listing Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU44060            | Housing Inventory: Active Listing Count in Spokane-Spokane Valley, WA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM44060          | Housing Inventory: Active Listing Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY44060          | Housing Inventory: Active Listing Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS44060Q            | All-Transactions House Price Index for Spokane-Spokane Valley, WA (MSA)                                                     | 1977-07-01          | 2022-04-01        |
-| AVELISPRI44060            | Housing Inventory: Average Listing Price in Spokane-Spokane Valley, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM44060          | Housing Inventory: Average Listing Price Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY44060          | Housing Inventory: Average Listing Price Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA44060              | Market Hotness: Demand Score in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI44060            | Housing Inventory: Average Listing Price in Spokane-Spokane Valley, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM44060          | Housing Inventory: Average Listing Price Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY44060          | Housing Inventory: Average Listing Price Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA44060              | Market Hotness: Demand Score in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC440630010             | Total Quarterly Wages in Spokane-Spokane Valley, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC440630010SA           | Total Quarterly Wages in Spokane-Spokane Valley, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC440640010             | Average Weekly Wages for Employees in Total Covered Establishments in Spokane, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
@@ -20,11 +20,11 @@
 | ENUC440640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Spokane, WA (MSA)                                  | 1990-01-01          | 2022-01-01        |
 | ENUC440640510             | Average Weekly Wages for Employees in Private Establishments in Spokane, WA (MSA)                                           | 1990-01-01          | 2022-01-01        |
 | ENUC440640510SA           | Average Weekly Wages for Employees in Private Establishments in Spokane, WA (MSA)                                           | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA44060            | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA44060              | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA44060            | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA44060              | Market Hotness: Hotness Score in Spokane-Spokane Valley, WA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
-| IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-09-16        |
+| HORAMMMSA44060            | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA44060              | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA44060            | Market Hotness: Hotness Rank in Spokane-Spokane Valley, WA (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA44060              | Market Hotness: Hotness Score in Spokane-Spokane Valley, WA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
+| IHLCHG44060               | Job Postings on Indeed in Spokane-Spokane Valley, WA (MSA)                                                                  | 2020-02-01          | 2022-09-30        |
 | IRPD44060                 | Implicit Regional Price Deflator for Spokane-Spokane Valley, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT534406000000003A     | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT534406000000004      | Unemployed Persons in Spokane-Spokane Valley, WA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -32,46 +32,46 @@
 | LAUMT534406000000005      | Employed Persons in Spokane-Spokane Valley, WA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT534406000000005A     | Employed Persons in Spokane-Spokane Valley, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT534406000000006A     | Civilian Labor Force in Spokane-Spokane Valley, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA44060          | Market Hotness: Listing Views per Property in Spokane-Spokane Valley, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA44060        | Market Hotness: Listing Views per Property Versus the United States in Spokane-Spokane Valley, WA (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA44060          | Market Hotness: Listing Views per Property in Spokane-Spokane Valley, WA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA44060        | Market Hotness: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA44060          | Market Hotness: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA44060        | Market Hotness: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR44060          | Housing Inventory: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM44060        | Housing Inventory: Median Days on Market Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY44060        | Housing Inventory: Median Days on Market Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI44060            | Housing Inventory: Median Listing Price in Spokane-Spokane Valley, WA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM44060          | Housing Inventory: Median Listing Price Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE44060   | Housing Inventory: Median Listing Price per Square Feet in Spokane-Spokane Valley, WA (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM44060 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY44060 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY44060          | Housing Inventory: Median Listing Price Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA44060          | Market Hotness: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA44060          | Market Hotness: Median Days on Market Versus the United States in Spokane-Spokane Valley, WA (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA44060          | Market Hotness: Median Days on Market Day in Spokane-Spokane Valley, WA (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE44060            | Housing Inventory: Median Home Size in Square Feet in Spokane-Spokane Valley, WA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM44060          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY44060          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA44060          | Market Hotness: Median Listing Price in Spokane-Spokane Valley, WA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA44060            | Market Hotness: Median Listing Price in Spokane-Spokane Valley, WA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA44060        | Market Hotness: Median Listing Price Versus the United States in Spokane-Spokane Valley, WA (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA44060          | Market Hotness: Median Listing Price in Spokane-Spokane Valley, WA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU44060            | Housing Inventory: New Listing Count in Spokane-Spokane Valley, WA (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM44060          | Housing Inventory: New Listing Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY44060          | Housing Inventory: New Listing Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA44060          | Market Hotness: Listing Views per Property in Spokane-Spokane Valley, WA (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA44060        | Market Hotness: Listing Views per Property Versus the United States in Spokane-Spokane Valley, WA (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA44060          | Market Hotness: Listing Views per Property in Spokane-Spokane Valley, WA (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA44060        | Market Hotness: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA44060          | Market Hotness: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA44060        | Market Hotness: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR44060          | Housing Inventory: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM44060        | Housing Inventory: Median Days on Market Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY44060        | Housing Inventory: Median Days on Market Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI44060            | Housing Inventory: Median Listing Price in Spokane-Spokane Valley, WA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM44060          | Housing Inventory: Median Listing Price Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE44060   | Housing Inventory: Median Listing Price per Square Feet in Spokane-Spokane Valley, WA (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM44060 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY44060 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY44060          | Housing Inventory: Median Listing Price Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA44060          | Market Hotness: Median Days on Market in Spokane-Spokane Valley, WA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA44060          | Market Hotness: Median Days on Market Versus the United States in Spokane-Spokane Valley, WA (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA44060          | Market Hotness: Median Days on Market Day in Spokane-Spokane Valley, WA (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE44060            | Housing Inventory: Median Home Size in Square Feet in Spokane-Spokane Valley, WA (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM44060          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY44060          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA44060          | Market Hotness: Median Listing Price in Spokane-Spokane Valley, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA44060            | Market Hotness: Median Listing Price in Spokane-Spokane Valley, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA44060        | Market Hotness: Median Listing Price Versus the United States in Spokane-Spokane Valley, WA (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA44060          | Market Hotness: Median Listing Price in Spokane-Spokane Valley, WA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU44060            | Housing Inventory: New Listing Count in Spokane-Spokane Valley, WA (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM44060          | Housing Inventory: New Listing Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY44060          | Housing Inventory: New Listing Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP44060                 | Total Gross Domestic Product for Spokane-Spokane Valley, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA44060            | Market Hotness: Nielsen Household Rank in Spokane-Spokane Valley, WA (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA44060            | Market Hotness: Nielsen Household Rank in Spokane-Spokane Valley, WA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA144060          | U.S. Granted Utility Patents Originating in Spokane, WA (MSA)                                                               | 2000-01-01          | 2015-01-01        |
-| PENLISCOU44060            | Housing Inventory: Pending Listing Count in Spokane-Spokane Valley, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM44060          | Housing Inventory: Pending Listing Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY44060          | Housing Inventory: Pending Listing Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU44060            | Housing Inventory: Price Increased Count in Spokane-Spokane Valley, WA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM44060          | Housing Inventory: Price Increased Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY44060          | Housing Inventory: Price Increased Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU44060            | Housing Inventory: Price Reduced Count in Spokane-Spokane Valley, WA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM44060          | Housing Inventory: Price Reduced Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY44060          | Housing Inventory: Price Reduced Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU44060            | Housing Inventory: Pending Listing Count in Spokane-Spokane Valley, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM44060          | Housing Inventory: Pending Listing Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY44060          | Housing Inventory: Pending Listing Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU44060            | Housing Inventory: Price Increased Count in Spokane-Spokane Valley, WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM44060          | Housing Inventory: Price Increased Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY44060          | Housing Inventory: Price Increased Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU44060            | Housing Inventory: Price Reduced Count in Spokane-Spokane Valley, WA (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM44060          | Housing Inventory: Price Reduced Count Month-Over-Month in Spokane-Spokane Valley, WA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY44060          | Housing Inventory: Price Reduced Count Year-Over-Year in Spokane-Spokane Valley, WA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP44060                 | Total Quantity Indexes for Real GDP for Spokane-Spokane Valley, WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP44060                 | Total Real Gross Domestic Product for Spokane-Spokane Valley, WA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI44060                  | Real Personal Income for Spokane-Spokane Valley, WA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -183,4 +183,4 @@
 | SPOK053TRADN              | All Employees: Trade, Transportation, and Utilities in Spokane-Spokane Valley, WA (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SPOK053UR                 | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | SPOK053URN                | Unemployment Rate in Spokane-Spokane Valley, WA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| SUSCMSA44060              | Market Hotness: Supply Score in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA44060              | Market Hotness: Supply Score in Spokane-Spokane Valley, WA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

@@ -15,7 +15,7 @@
 | Fayette County, AL    |                90 |
 | Limestone County, AL  |               147 |
 | Colbert County, AL    |               146 |
-| Calhoun County, AL    |                 0 |
+| Calhoun County, AL    |               147 |
 | Lawrence County, AL   |                89 |
 | Etowah County, AL     |               147 |
 | Geneva County, AL     |                90 |
@@ -60,7 +60,7 @@
 | Cherokee County, AL   |                90 |
 | Macon County, AL      |                90 |
 | Washington County, AL |                87 |
-| Talladega County, AL  |               146 |
+| Talladega County, AL  |                 0 |
 | Coosa County, AL      |                89 |
 | Randolph County, AL   |                90 |
 | Dale County, AL       |               146 |

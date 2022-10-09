@@ -20,7 +20,7 @@
 | Rio Blanco County, CO        |                89 |
 | Elbert County, CO            |                90 |
 | Crowley County, CO           |                88 |
-| Chaffee County, CO           |                89 |
+| Chaffee County, CO           |                 0 |
 | Lincoln County, CO           |                87 |
 | Huerfano County, CO          |                90 |
 | Dolores County, CO           |                87 |
@@ -61,5 +61,5 @@
 | Sedgwick County, CO          |                88 |
 | Grand County, CO             |                90 |
 | Ouray County, CO             |                90 |
-| Larimer County, CO           |                 0 |
+| Larimer County, CO           |               147 |
 | La Plata County, CO          |               146 |

@@ -38,14 +38,14 @@
 | Caribbean Netherlands                                |                16 |
 | Uganda                                               |               284 |
 | Australia                                            |                 0 |
-| Suriname                                             |                 0 |
+| Suriname                                             |               255 |
 | Cuba                                                 |               102 |
 | Israel                                               |               862 |
 | Mauritius                                            |               271 |
 | Palestinian Territories                              |               209 |
 | Dominican Republic                                   |               287 |
 | Guyana                                               |               234 |
-| New Caledonia                                        |               109 |
+| New Caledonia                                        |                 0 |
 | Morocco                                              |               271 |
 | Sudan                                                |               211 |
 | Hong Kong                                            |                 0 |
@@ -105,7 +105,7 @@
 | American Samoa                                       |                 7 |
 | Slovenia                                             |               805 |
 | Malaysia                                             |                 0 |
-| Mayotte                                              |                71 |
+| Mayotte                                              |                 0 |
 | Belarus                                              |               202 |
 | Nigeria                                              |               266 |
 | Cambodia                                             |               211 |
@@ -165,7 +165,7 @@
 | Micronesia, Federated States of                      |               155 |
 | Greece                                               |                 0 |
 | Sweden                                               |                 0 |
-| Tokelau                                              |                85 |
+| Tokelau                                              |                 0 |
 | Iceland                                              |               833 |
 | Congo, Democratic Republic of the                    |               192 |
 | United States                                        |                 0 |
@@ -225,7 +225,7 @@
 | Finland                                              |                 0 |
 | Dominica                                             |               173 |
 | Lebanon                                              |               259 |
-| Tajikistan                                           |               216 |
+| Tajikistan                                           |                 0 |
 | Jordan                                               |               254 |
 | Samoa                                                |               279 |
 | Virgin Islands, British                              |               106 |

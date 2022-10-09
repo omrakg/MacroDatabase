@@ -1,13 +1,13 @@
 | id                        | title                                                                                                             | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU27740            | Housing Inventory: Active Listing Count in Johnson City, TN (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM27740          | Housing Inventory: Active Listing Count Month-Over-Month in Johnson City, TN (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY27740          | Housing Inventory: Active Listing Count Year-Over-Year in Johnson City, TN (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU27740            | Housing Inventory: Active Listing Count in Johnson City, TN (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM27740          | Housing Inventory: Active Listing Count Month-Over-Month in Johnson City, TN (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY27740          | Housing Inventory: Active Listing Count Year-Over-Year in Johnson City, TN (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS27740Q            | All-Transactions House Price Index for Johnson City, TN (MSA)                                                     | 1992-01-01          | 2022-04-01        |
-| AVELISPRI27740            | Housing Inventory: Average Listing Price in Johnson City, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM27740          | Housing Inventory: Average Listing Price Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY27740          | Housing Inventory: Average Listing Price Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA27740              | Market Hotness: Demand Score in Johnson City, TN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI27740            | Housing Inventory: Average Listing Price in Johnson City, TN (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM27740          | Housing Inventory: Average Listing Price Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY27740          | Housing Inventory: Average Listing Price Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA27740              | Market Hotness: Demand Score in Johnson City, TN (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC277430010             | Total Quarterly Wages in Johnson City, TN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC277430010SA           | Total Quarterly Wages in Johnson City, TN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC277440010             | Average Weekly Wages for Employees in Total Covered Establishments in Johnson City, TN (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC277440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Johnson City, TN (MSA)                   | 2013-04-01          | 2022-01-01        |
 | ENUC277440510             | Average Weekly Wages for Employees in Private Establishments in Johnson City, TN (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC277440510SA           | Average Weekly Wages for Employees in Private Establishments in Johnson City, TN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA27740            | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA27740              | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA27740            | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA27740              | Market Hotness: Hotness Score in Johnson City, TN (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA27740            | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA27740              | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA27740            | Market Hotness: Hotness Rank in Johnson City, TN (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA27740              | Market Hotness: Hotness Score in Johnson City, TN (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD27740                 | Implicit Regional Price Deflator for Johnson City, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | JKDPOP                    | Resident Population in Johnson City, TN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | JOHN747BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Johnson City, TN (MSA)            | 1988-01-01          | 2022-08-01        |
@@ -63,46 +63,46 @@
 | LAUMT472774000000005      | Employed Persons in Johnson City, TN (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT472774000000005A     | Employed Persons in Johnson City, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT472774000000006A     | Civilian Labor Force in Johnson City, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA27740          | Market Hotness: Listing Views per Property in Johnson City, TN (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA27740        | Market Hotness: Listing Views per Property Versus the United States in Johnson City, TN (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA27740          | Market Hotness: Listing Views per Property in Johnson City, TN (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA27740        | Market Hotness: Median Days on Market in Johnson City, TN (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA27740          | Market Hotness: Median Days on Market in Johnson City, TN (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA27740        | Market Hotness: Median Days on Market in Johnson City, TN (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR27740          | Housing Inventory: Median Days on Market in Johnson City, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM27740        | Housing Inventory: Median Days on Market Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY27740        | Housing Inventory: Median Days on Market Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI27740            | Housing Inventory: Median Listing Price in Johnson City, TN (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM27740          | Housing Inventory: Median Listing Price Month-Over-Month in Johnson City, TN (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE27740   | Housing Inventory: Median Listing Price per Square Feet in Johnson City, TN (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM27740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Johnson City, TN (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY27740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Johnson City, TN (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY27740          | Housing Inventory: Median Listing Price Year-Over-Year in Johnson City, TN (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA27740          | Market Hotness: Median Days on Market in Johnson City, TN (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA27740          | Market Hotness: Median Days on Market Versus the United States in Johnson City, TN (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA27740          | Market Hotness: Median Days on Market Day in Johnson City, TN (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE27740            | Housing Inventory: Median Home Size in Square Feet in Johnson City, TN (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM27740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Johnson City, TN (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY27740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Johnson City, TN (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA27740          | Market Hotness: Median Listing Price in Johnson City, TN (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA27740            | Market Hotness: Median Listing Price in Johnson City, TN (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA27740        | Market Hotness: Median Listing Price Versus the United States in Johnson City, TN (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA27740          | Market Hotness: Median Listing Price in Johnson City, TN (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU27740            | Housing Inventory: New Listing Count in Johnson City, TN (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM27740          | Housing Inventory: New Listing Count Month-Over-Month in Johnson City, TN (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY27740          | Housing Inventory: New Listing Count Year-Over-Year in Johnson City, TN (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA27740          | Market Hotness: Listing Views per Property in Johnson City, TN (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA27740        | Market Hotness: Listing Views per Property Versus the United States in Johnson City, TN (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA27740          | Market Hotness: Listing Views per Property in Johnson City, TN (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA27740        | Market Hotness: Median Days on Market in Johnson City, TN (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA27740          | Market Hotness: Median Days on Market in Johnson City, TN (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA27740        | Market Hotness: Median Days on Market in Johnson City, TN (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR27740          | Housing Inventory: Median Days on Market in Johnson City, TN (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM27740        | Housing Inventory: Median Days on Market Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY27740        | Housing Inventory: Median Days on Market Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI27740            | Housing Inventory: Median Listing Price in Johnson City, TN (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM27740          | Housing Inventory: Median Listing Price Month-Over-Month in Johnson City, TN (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE27740   | Housing Inventory: Median Listing Price per Square Feet in Johnson City, TN (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM27740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Johnson City, TN (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY27740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Johnson City, TN (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY27740          | Housing Inventory: Median Listing Price Year-Over-Year in Johnson City, TN (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA27740          | Market Hotness: Median Days on Market in Johnson City, TN (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA27740          | Market Hotness: Median Days on Market Versus the United States in Johnson City, TN (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA27740          | Market Hotness: Median Days on Market Day in Johnson City, TN (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE27740            | Housing Inventory: Median Home Size in Square Feet in Johnson City, TN (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM27740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Johnson City, TN (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY27740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Johnson City, TN (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA27740          | Market Hotness: Median Listing Price in Johnson City, TN (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA27740            | Market Hotness: Median Listing Price in Johnson City, TN (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA27740        | Market Hotness: Median Listing Price Versus the United States in Johnson City, TN (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA27740          | Market Hotness: Median Listing Price in Johnson City, TN (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU27740            | Housing Inventory: New Listing Count in Johnson City, TN (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM27740          | Housing Inventory: New Listing Count Month-Over-Month in Johnson City, TN (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY27740          | Housing Inventory: New Listing Count Year-Over-Year in Johnson City, TN (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP27740                 | Total Gross Domestic Product for Johnson City, TN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA27740            | Market Hotness: Nielsen Household Rank in Johnson City, TN (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA27740            | Market Hotness: Nielsen Household Rank in Johnson City, TN (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA127740          | U.S. Granted Utility Patents Originating in Johnson City, TN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU27740            | Housing Inventory: Pending Listing Count in Johnson City, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM27740          | Housing Inventory: Pending Listing Count Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY27740          | Housing Inventory: Pending Listing Count Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU27740            | Housing Inventory: Price Increased Count in Johnson City, TN (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM27740          | Housing Inventory: Price Increased Count Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY27740          | Housing Inventory: Price Increased Count Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU27740            | Housing Inventory: Price Reduced Count in Johnson City, TN (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM27740          | Housing Inventory: Price Reduced Count Month-Over-Month in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY27740          | Housing Inventory: Price Reduced Count Year-Over-Year in Johnson City, TN (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU27740            | Housing Inventory: Pending Listing Count in Johnson City, TN (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM27740          | Housing Inventory: Pending Listing Count Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY27740          | Housing Inventory: Pending Listing Count Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU27740            | Housing Inventory: Price Increased Count in Johnson City, TN (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM27740          | Housing Inventory: Price Increased Count Month-Over-Month in Johnson City, TN (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY27740          | Housing Inventory: Price Increased Count Year-Over-Year in Johnson City, TN (CBSA)                                | 2017-08-01          | 2022-09-01        |
+| PRIREDCOU27740            | Housing Inventory: Price Reduced Count in Johnson City, TN (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM27740          | Housing Inventory: Price Reduced Count Month-Over-Month in Johnson City, TN (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY27740          | Housing Inventory: Price Reduced Count Year-Over-Year in Johnson City, TN (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP27740                 | Total Quantity Indexes for Real GDP for Johnson City, TN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP27740                 | Total Real Gross Domestic Product for Johnson City, TN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI27740                  | Real Personal Income for Johnson City, TN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -159,4 +159,4 @@
 | SMU47277409093000001      | All Employees: Government: Local Government in Johnson City, TN (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU47277409093000001A     | All Employees: Local Government in Johnson City, TN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU47277409093000001SA    | All Employees: Government: Local Government in Johnson City, TN (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA27740              | Market Hotness: Supply Score in Johnson City, TN (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA27740              | Market Hotness: Supply Score in Johnson City, TN (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

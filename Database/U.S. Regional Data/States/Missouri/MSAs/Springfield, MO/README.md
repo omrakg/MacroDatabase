@@ -1,13 +1,13 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU44180            | Housing Inventory: Active Listing Count in Springfield, MO (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM44180          | Housing Inventory: Active Listing Count Month-Over-Month in Springfield, MO (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY44180          | Housing Inventory: Active Listing Count Year-Over-Year in Springfield, MO (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU44180            | Housing Inventory: Active Listing Count in Springfield, MO (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM44180          | Housing Inventory: Active Listing Count Month-Over-Month in Springfield, MO (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY44180          | Housing Inventory: Active Listing Count Year-Over-Year in Springfield, MO (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS44180Q            | All-Transactions House Price Index for Springfield, MO (MSA)                                                     | 1984-04-01          | 2022-04-01        |
-| AVELISPRI44180            | Housing Inventory: Average Listing Price in Springfield, MO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM44180          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY44180          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA44180              | Market Hotness: Demand Score in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI44180            | Housing Inventory: Average Listing Price in Springfield, MO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM44180          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY44180          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA44180              | Market Hotness: Demand Score in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC441830010             | Total Quarterly Wages in Springfield, MO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC441830010SA           | Total Quarterly Wages in Springfield, MO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC441840010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, MO (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC441840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, MO (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC441840510             | Average Weekly Wages for Employees in Private Establishments in Springfield, MO (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC441840510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, MO (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA44180            | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA44180              | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA44180            | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA44180              | Market Hotness: Hotness Score in Springfield, MO (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA44180            | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA44180              | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA44180            | Market Hotness: Hotness Rank in Springfield, MO (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA44180              | Market Hotness: Hotness Score in Springfield, MO (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD44180                 | Implicit Regional Price Deflator for Springfield, MO (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT294418000000003A     | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT294418000000004      | Unemployed Persons in Springfield, MO (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -31,46 +31,46 @@
 | LAUMT294418000000005      | Employed Persons in Springfield, MO (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT294418000000005A     | Employed Persons in Springfield, MO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT294418000000006A     | Civilian Labor Force in Springfield, MO (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA44180          | Market Hotness: Listing Views per Property in Springfield, MO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA44180        | Market Hotness: Listing Views per Property Versus the United States in Springfield, MO (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA44180          | Market Hotness: Listing Views per Property in Springfield, MO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA44180        | Market Hotness: Median Days on Market in Springfield, MO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA44180          | Market Hotness: Median Days on Market in Springfield, MO (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA44180        | Market Hotness: Median Days on Market in Springfield, MO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR44180          | Housing Inventory: Median Days on Market in Springfield, MO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM44180        | Housing Inventory: Median Days on Market Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY44180        | Housing Inventory: Median Days on Market Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI44180            | Housing Inventory: Median Listing Price in Springfield, MO (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM44180          | Housing Inventory: Median Listing Price Month-Over-Month in Springfield, MO (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE44180   | Housing Inventory: Median Listing Price per Square Feet in Springfield, MO (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM44180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Springfield, MO (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY44180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Springfield, MO (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY44180          | Housing Inventory: Median Listing Price Year-Over-Year in Springfield, MO (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA44180          | Market Hotness: Median Days on Market in Springfield, MO (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA44180          | Market Hotness: Median Days on Market Versus the United States in Springfield, MO (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA44180          | Market Hotness: Median Days on Market Day in Springfield, MO (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE44180            | Housing Inventory: Median Home Size in Square Feet in Springfield, MO (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM44180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Springfield, MO (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY44180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Springfield, MO (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA44180          | Market Hotness: Median Listing Price in Springfield, MO (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA44180            | Market Hotness: Median Listing Price in Springfield, MO (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA44180        | Market Hotness: Median Listing Price Versus the United States in Springfield, MO (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA44180          | Market Hotness: Median Listing Price in Springfield, MO (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU44180            | Housing Inventory: New Listing Count in Springfield, MO (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM44180          | Housing Inventory: New Listing Count Month-Over-Month in Springfield, MO (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY44180          | Housing Inventory: New Listing Count Year-Over-Year in Springfield, MO (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA44180          | Market Hotness: Listing Views per Property in Springfield, MO (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA44180        | Market Hotness: Listing Views per Property Versus the United States in Springfield, MO (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA44180          | Market Hotness: Listing Views per Property in Springfield, MO (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA44180        | Market Hotness: Median Days on Market in Springfield, MO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA44180          | Market Hotness: Median Days on Market in Springfield, MO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA44180        | Market Hotness: Median Days on Market in Springfield, MO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR44180          | Housing Inventory: Median Days on Market in Springfield, MO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM44180        | Housing Inventory: Median Days on Market Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY44180        | Housing Inventory: Median Days on Market Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI44180            | Housing Inventory: Median Listing Price in Springfield, MO (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM44180          | Housing Inventory: Median Listing Price Month-Over-Month in Springfield, MO (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE44180   | Housing Inventory: Median Listing Price per Square Feet in Springfield, MO (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM44180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Springfield, MO (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY44180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Springfield, MO (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY44180          | Housing Inventory: Median Listing Price Year-Over-Year in Springfield, MO (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA44180          | Market Hotness: Median Days on Market in Springfield, MO (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA44180          | Market Hotness: Median Days on Market Versus the United States in Springfield, MO (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA44180          | Market Hotness: Median Days on Market Day in Springfield, MO (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE44180            | Housing Inventory: Median Home Size in Square Feet in Springfield, MO (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM44180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Springfield, MO (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY44180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Springfield, MO (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA44180          | Market Hotness: Median Listing Price in Springfield, MO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA44180            | Market Hotness: Median Listing Price in Springfield, MO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA44180        | Market Hotness: Median Listing Price Versus the United States in Springfield, MO (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA44180          | Market Hotness: Median Listing Price in Springfield, MO (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU44180            | Housing Inventory: New Listing Count in Springfield, MO (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM44180          | Housing Inventory: New Listing Count Month-Over-Month in Springfield, MO (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY44180          | Housing Inventory: New Listing Count Year-Over-Year in Springfield, MO (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP44180                 | Total Gross Domestic Product for Springfield, MO (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA44180            | Market Hotness: Nielsen Household Rank in Springfield, MO (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA44180            | Market Hotness: Nielsen Household Rank in Springfield, MO (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA144180          | U.S. Granted Utility Patents Originating in Springfield, MO (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU44180            | Housing Inventory: Pending Listing Count in Springfield, MO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM44180          | Housing Inventory: Pending Listing Count Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY44180          | Housing Inventory: Pending Listing Count Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU44180            | Housing Inventory: Price Increased Count in Springfield, MO (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM44180          | Housing Inventory: Price Increased Count Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY44180          | Housing Inventory: Price Increased Count Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU44180            | Housing Inventory: Price Reduced Count in Springfield, MO (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM44180          | Housing Inventory: Price Reduced Count Month-Over-Month in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY44180          | Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, MO (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU44180            | Housing Inventory: Pending Listing Count in Springfield, MO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM44180          | Housing Inventory: Pending Listing Count Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY44180          | Housing Inventory: Pending Listing Count Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU44180            | Housing Inventory: Price Increased Count in Springfield, MO (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM44180          | Housing Inventory: Price Increased Count Month-Over-Month in Springfield, MO (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY44180          | Housing Inventory: Price Increased Count Year-Over-Year in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU44180            | Housing Inventory: Price Reduced Count in Springfield, MO (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM44180          | Housing Inventory: Price Reduced Count Month-Over-Month in Springfield, MO (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY44180          | Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, MO (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP44180                 | Total Quantity Indexes for Real GDP for Springfield, MO (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP44180                 | Total Real Gross Domestic Product for Springfield, MO (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI44180                  | Real Personal Income for Springfield, MO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -173,4 +173,4 @@
 | SPITRADN                  | All Employees: Trade, Transportation, and Utilities in Springfield, MO (MSA)                                     | 1990-01-01          | 2022-08-01        |
 | SPIUR                     | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | SPIURN                    | Unemployment Rate in Springfield, MO (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| SUSCMSA44180              | Market Hotness: Supply Score in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA44180              | Market Hotness: Supply Score in Springfield, MO (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

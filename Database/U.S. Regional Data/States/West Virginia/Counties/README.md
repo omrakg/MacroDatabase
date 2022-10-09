@@ -3,7 +3,7 @@
 | Fayette County, WV    |                90 |
 | Hancock County, WV    |                90 |
 | Hampshire County, WV  |                90 |
-| Jefferson County, WV  |                 0 |
+| Jefferson County, WV  |               146 |
 | Wayne County, WV      |                90 |
 | Tyler County, WV      |                89 |
 | Upshur County, WV     |                90 |

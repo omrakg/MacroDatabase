@@ -35,7 +35,7 @@
 | Rock County, NE         |                87 |
 | Washington County, NE   |                90 |
 | Blaine County, NE       |                82 |
-| Hayes County, NE        |                86 |
+| Hayes County, NE        |                 0 |
 | Dodge County, NE        |                90 |
 | Franklin County, NE     |                87 |
 | Wheeler County, NE      |                84 |
@@ -84,7 +84,7 @@
 | Morrill County, NE      |                88 |
 | Loup County, NE         |                83 |
 | Chase County, NE        |                88 |
-| Harlan County, NE       |                 0 |
+| Harlan County, NE       |                89 |
 | Jefferson County, NE    |                89 |
 | Thurston County, NE     |                89 |
 | Otoe County, NE         |                90 |

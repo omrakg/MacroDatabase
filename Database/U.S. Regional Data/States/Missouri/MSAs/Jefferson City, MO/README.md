@@ -1,13 +1,13 @@
 | id                        | title                                                                                                 | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU27620            | Housing Inventory: Active Listing Count in Jefferson City, MO (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM27620          | Housing Inventory: Active Listing Count Month-Over-Month in Jefferson City, MO (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY27620          | Housing Inventory: Active Listing Count Year-Over-Year in Jefferson City, MO (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU27620            | Housing Inventory: Active Listing Count in Jefferson City, MO (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM27620          | Housing Inventory: Active Listing Count Month-Over-Month in Jefferson City, MO (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY27620          | Housing Inventory: Active Listing Count Year-Over-Year in Jefferson City, MO (CBSA)                   | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS27620Q            | All-Transactions House Price Index for Jefferson City, MO (MSA)                                       | 1986-04-01          | 2022-04-01        |
-| AVELISPRI27620            | Housing Inventory: Average Listing Price in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM27620          | Housing Inventory: Average Listing Price Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY27620          | Housing Inventory: Average Listing Price Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| DESCMSA27620              | Market Hotness: Demand Score in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| AVELISPRI27620            | Housing Inventory: Average Listing Price in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM27620          | Housing Inventory: Average Listing Price Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY27620          | Housing Inventory: Average Listing Price Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| DESCMSA27620              | Market Hotness: Demand Score in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-09-01        |
 | ENUC276230010             | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC276230010SA           | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC276240010             | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -18,10 +18,10 @@
 | ENUC276240310             | Average Weekly Wages for Employees in Local Government Establishments in Jefferson City, MO (MSA)     | 1990-01-01          | 2018-07-01        |
 | ENUC276240510             | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2022-01-01        |
 | ENUC276240510SA           | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| HORAMSA27620              | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| HOSCMSA27620              | Market Hotness: Hotness Score in Jefferson City, MO (CBSA)                                            | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| HORAMSA27620              | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| HOSCMSA27620              | Market Hotness: Hotness Score in Jefferson City, MO (CBSA)                                            | 2017-08-01          | 2022-09-01        |
 | IRPD27620                 | Implicit Regional Price Deflator for Jefferson City, MO (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | JEFGOVT                   | All Employees: Government in Jefferson City, MO (MSA)                                                 | 1990-01-01          | 2022-08-01        |
 | JEFGOVTN                  | All Employees: Government in Jefferson City, MO (MSA)                                                 | 1990-01-01          | 2022-08-01        |
@@ -41,46 +41,46 @@
 | LAUMT292762000000005      | Employed Persons in Jefferson City, MO (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT292762000000005A     | Employed Persons in Jefferson City, MO (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT292762000000006A     | Civilian Labor Force in Jefferson City, MO (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA27620          | Market Hotness: Listing Views per Property in Jefferson City, MO (CBSA)                               | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA27620        | Market Hotness: Listing Views per Property Versus the United States in Jefferson City, MO (CBSA)      | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA27620          | Market Hotness: Listing Views per Property in Jefferson City, MO (CBSA)                               | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA27620        | Market Hotness: Median Days on Market in Jefferson City, MO (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA27620          | Market Hotness: Median Days on Market in Jefferson City, MO (CBSA)                                    | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA27620        | Market Hotness: Median Days on Market in Jefferson City, MO (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR27620          | Housing Inventory: Median Days on Market in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM27620        | Housing Inventory: Median Days on Market Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY27620        | Housing Inventory: Median Days on Market Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI27620            | Housing Inventory: Median Listing Price in Jefferson City, MO (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM27620          | Housing Inventory: Median Listing Price Month-Over-Month in Jefferson City, MO (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE27620   | Housing Inventory: Median Listing Price per Square Feet in Jefferson City, MO (CBSA)                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM27620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Jefferson City, MO (CBSA) | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY27620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Jefferson City, MO (CBSA)   | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY27620          | Housing Inventory: Median Listing Price Year-Over-Year in Jefferson City, MO (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA27620          | Market Hotness: Median Days on Market in Jefferson City, MO (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA27620          | Market Hotness: Median Days on Market Versus the United States in Jefferson City, MO (CBSA)           | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA27620          | Market Hotness: Median Days on Market Day in Jefferson City, MO (CBSA)                                | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE27620            | Housing Inventory: Median Home Size in Square Feet in Jefferson City, MO (CBSA)                       | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM27620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Jefferson City, MO (CBSA)      | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY27620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Jefferson City, MO (CBSA)        | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA27620          | Market Hotness: Median Listing Price in Jefferson City, MO (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA27620            | Market Hotness: Median Listing Price in Jefferson City, MO (CBSA)                                     | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA27620        | Market Hotness: Median Listing Price Versus the United States in Jefferson City, MO (CBSA)            | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA27620          | Market Hotness: Median Listing Price in Jefferson City, MO (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU27620            | Housing Inventory: New Listing Count in Jefferson City, MO (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM27620          | Housing Inventory: New Listing Count Month-Over-Month in Jefferson City, MO (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY27620          | Housing Inventory: New Listing Count Year-Over-Year in Jefferson City, MO (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA27620          | Market Hotness: Listing Views per Property in Jefferson City, MO (CBSA)                               | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA27620        | Market Hotness: Listing Views per Property Versus the United States in Jefferson City, MO (CBSA)      | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA27620          | Market Hotness: Listing Views per Property in Jefferson City, MO (CBSA)                               | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA27620        | Market Hotness: Median Days on Market in Jefferson City, MO (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA27620          | Market Hotness: Median Days on Market in Jefferson City, MO (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA27620        | Market Hotness: Median Days on Market in Jefferson City, MO (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR27620          | Housing Inventory: Median Days on Market in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM27620        | Housing Inventory: Median Days on Market Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY27620        | Housing Inventory: Median Days on Market Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI27620            | Housing Inventory: Median Listing Price in Jefferson City, MO (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM27620          | Housing Inventory: Median Listing Price Month-Over-Month in Jefferson City, MO (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE27620   | Housing Inventory: Median Listing Price per Square Feet in Jefferson City, MO (CBSA)                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM27620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Jefferson City, MO (CBSA) | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY27620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Jefferson City, MO (CBSA)   | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY27620          | Housing Inventory: Median Listing Price Year-Over-Year in Jefferson City, MO (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA27620          | Market Hotness: Median Days on Market in Jefferson City, MO (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA27620          | Market Hotness: Median Days on Market Versus the United States in Jefferson City, MO (CBSA)           | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA27620          | Market Hotness: Median Days on Market Day in Jefferson City, MO (CBSA)                                | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE27620            | Housing Inventory: Median Home Size in Square Feet in Jefferson City, MO (CBSA)                       | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM27620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Jefferson City, MO (CBSA)      | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY27620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Jefferson City, MO (CBSA)        | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA27620          | Market Hotness: Median Listing Price in Jefferson City, MO (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA27620            | Market Hotness: Median Listing Price in Jefferson City, MO (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA27620        | Market Hotness: Median Listing Price Versus the United States in Jefferson City, MO (CBSA)            | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA27620          | Market Hotness: Median Listing Price in Jefferson City, MO (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU27620            | Housing Inventory: New Listing Count in Jefferson City, MO (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM27620          | Housing Inventory: New Listing Count Month-Over-Month in Jefferson City, MO (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY27620          | Housing Inventory: New Listing Count Year-Over-Year in Jefferson City, MO (CBSA)                      | 2017-07-01          | 2022-09-01        |
 | NGMP27620                 | Total Gross Domestic Product for Jefferson City, MO (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA27620            | Market Hotness: Nielsen Household Rank in Jefferson City, MO (CBSA)                                   | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA27620            | Market Hotness: Nielsen Household Rank in Jefferson City, MO (CBSA)                                   | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA127620          | U.S. Granted Utility Patents Originating in Jefferson City, MO (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU27620            | Housing Inventory: Pending Listing Count in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM27620          | Housing Inventory: Pending Listing Count Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY27620          | Housing Inventory: Pending Listing Count Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU27620            | Housing Inventory: Price Increased Count in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM27620          | Housing Inventory: Price Increased Count Month-Over-Month in Jefferson City, MO (CBSA)                | 2018-02-01          | 2021-08-01        |
-| PRIINCCOUYY27620          | Housing Inventory: Price Increased Count Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-07-01        |
-| PRIREDCOU27620            | Housing Inventory: Price Reduced Count in Jefferson City, MO (CBSA)                                   | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM27620          | Housing Inventory: Price Reduced Count Month-Over-Month in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY27620          | Housing Inventory: Price Reduced Count Year-Over-Year in Jefferson City, MO (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| PENLISCOU27620            | Housing Inventory: Pending Listing Count in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM27620          | Housing Inventory: Pending Listing Count Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY27620          | Housing Inventory: Pending Listing Count Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU27620            | Housing Inventory: Price Increased Count in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM27620          | Housing Inventory: Price Increased Count Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-04-01        |
+| PRIINCCOUYY27620          | Housing Inventory: Price Increased Count Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU27620            | Housing Inventory: Price Reduced Count in Jefferson City, MO (CBSA)                                   | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM27620          | Housing Inventory: Price Reduced Count Month-Over-Month in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY27620          | Housing Inventory: Price Reduced Count Year-Over-Year in Jefferson City, MO (CBSA)                    | 2017-07-01          | 2022-09-01        |
 | QGMP27620                 | Total Quantity Indexes for Real GDP for Jefferson City, MO (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP27620                 | Total Real Gross Domestic Product for Jefferson City, MO (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI27620                  | Real Personal Income for Jefferson City, MO (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -123,4 +123,4 @@
 | SMU29276209093000001      | All Employees: Government: Local Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-08-01        |
 | SMU29276209093000001A     | All Employees: Local Government in Jefferson City, MO (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU29276209093000001SA    | All Employees: Government: Local Government in Jefferson City, MO (MSA)                               | 1990-01-01          | 2022-08-01        |
-| SUSCMSA27620              | Market Hotness: Supply Score in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| SUSCMSA27620              | Market Hotness: Supply Score in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-09-01        |

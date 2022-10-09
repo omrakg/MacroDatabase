@@ -8,7 +8,7 @@
 | Atlanta-Sandy Springs-Alpharetta, GA |               305 |
 | Dalton, GA                           |               123 |
 | Athens-Clarke County, GA             |               134 |
-| Brunswick, GA                        |                 0 |
+| Brunswick, GA                        |               108 |
 | Augusta-Richmond County, GA-SC       |               159 |
 | Macon-Bibb County, GA                |               143 |
 | Hinesville, GA                       |               100 |

@@ -1,9 +1,9 @@
 | id                    | title                                                                                                                            | observation_start   | observation_end   |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ADPMCDWNCNERNSA       | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-01          | 2022-08-01        |
-| ADPMCDWNCNERSA        | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-01          | 2022-08-01        |
-| ADPWCDWNCNERNSA       | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-02          | 2022-06-11        |
-| ADPWCDWNCNERSA        | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-02          | 2022-06-11        |
+| ADPMCDWNCNERNSA       | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-01          | 2022-09-01        |
+| ADPMCDWNCNERSA        | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-01          | 2022-09-01        |
+| ADPWCDWNCNERNSA       | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-02          | 2022-07-30        |
+| ADPWCDWNCNERSA        | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-02          | 2022-07-30        |
 | CIU2010000000234I     | Employment Cost Index: Total compensation for Private industry workers in the West North Central Census Division                 | 2006-01-01          | 2022-04-01        |
 | CIU2020000000234I     | Employment Cost Index: Wages and salaries for Private industry workers in the West North Central Census Division                 | 2006-01-01          | 2022-04-01        |
 | CWNCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-08-01        |

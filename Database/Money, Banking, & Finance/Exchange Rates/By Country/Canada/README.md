@@ -1,5 +1,5 @@
 | id      | title                                              | observation_start   | observation_end   |
 |---------|----------------------------------------------------|---------------------|-------------------|
 | AEXCAUS | Canadian Dollars to U.S. Dollar Spot Exchange Rate | 1971-01-01          | 2021-01-01        |
-| DEXCAUS | Canadian Dollars to U.S. Dollar Spot Exchange Rate | 1971-01-04          | 2022-09-23        |
-| EXCAUS  | Canadian Dollars to U.S. Dollar Spot Exchange Rate | 1971-01-01          | 2022-08-01        |
+| DEXCAUS | Canadian Dollars to U.S. Dollar Spot Exchange Rate | 1971-01-04          | 2022-09-30        |
+| EXCAUS  | Canadian Dollars to U.S. Dollar Spot Exchange Rate | 1971-01-01          | 2022-09-01        |

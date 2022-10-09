@@ -1,9 +1,9 @@
 | id                    | title                                                                                                                         | observation_start   | observation_end   |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ADPMCDMANERNSA        | Nonfarm Private Employment in the Middle Atlantic Census Division                                                             | 2010-01-01          | 2022-08-01        |
-| ADPMCDMANERSA         | Nonfarm Private Employment in the Middle Atlantic Census Division                                                             | 2010-01-01          | 2022-08-01        |
-| ADPWCDMANERNSA        | Nonfarm Private Employment in the Middle Atlantic Census Division                                                             | 2010-01-02          | 2022-06-11        |
-| ADPWCDMANERSA         | Nonfarm Private Employment in the Middle Atlantic Census Division                                                             | 2010-01-02          | 2022-06-11        |
+| ADPMCDMANERNSA        | Nonfarm Private Employment in the Middle Atlantic Census Division                                                             | 2010-01-01          | 2022-09-01        |
+| ADPMCDMANERSA         | Nonfarm Private Employment in the Middle Atlantic Census Division                                                             | 2010-01-01          | 2022-09-01        |
+| ADPWCDMANERNSA        | Nonfarm Private Employment in the Middle Atlantic Census Division                                                             | 2010-01-02          | 2022-07-30        |
+| ADPWCDMANERSA         | Nonfarm Private Employment in the Middle Atlantic Census Division                                                             | 2010-01-02          | 2022-07-30        |
 | CIU2010000000212I     | Employment Cost Index: Total compensation for Private industry workers in the Middle Atlantic Census Division                 | 2006-01-01          | 2022-04-01        |
 | CIU2020000000212I     | Employment Cost Index: Wages and salaries for Private industry workers in the Middle Atlantic Census Division                 | 2006-01-01          | 2022-04-01        |
 | CMATBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Middle Atlantic Census Division           | 1988-01-01          | 2022-08-01        |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU40220            | Housing Inventory: Active Listing Count in Roanoke, VA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM40220          | Housing Inventory: Active Listing Count Month-Over-Month in Roanoke, VA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY40220          | Housing Inventory: Active Listing Count Year-Over-Year in Roanoke, VA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU40220            | Housing Inventory: Active Listing Count in Roanoke, VA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM40220          | Housing Inventory: Active Listing Count Month-Over-Month in Roanoke, VA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY40220          | Housing Inventory: Active Listing Count Year-Over-Year in Roanoke, VA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS40220Q            | All-Transactions House Price Index for Roanoke, VA (MSA)                                                     | 1979-10-01          | 2022-04-01        |
-| AVELISPRI40220            | Housing Inventory: Average Listing Price in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM40220          | Housing Inventory: Average Listing Price Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY40220          | Housing Inventory: Average Listing Price Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| DESCMSA40220              | Market Hotness: Demand Score in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| AVELISPRI40220            | Housing Inventory: Average Listing Price in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM40220          | Housing Inventory: Average Listing Price Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY40220          | Housing Inventory: Average Listing Price Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| DESCMSA40220              | Market Hotness: Demand Score in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC402230010             | Total Quarterly Wages in Roanoke, VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC402230010SA           | Total Quarterly Wages in Roanoke, VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC402240010             | Average Weekly Wages for Employees in Total Covered Establishments in Roanoke, VA (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC402240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-01-01        |
 | ENUC402240510             | Average Weekly Wages for Employees in Private Establishments in Roanoke, VA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC402240510SA           | Average Weekly Wages for Employees in Private Establishments in Roanoke, VA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA40220            | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HORAMSA40220              | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA40220            | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2018-08-01          | 2022-08-01        |
-| HOSCMSA40220              | Market Hotness: Hotness Score in Roanoke, VA (CBSA)                                                          | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA40220            | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
+| HORAMSA40220              | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA40220            | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
+| HOSCMSA40220              | Market Hotness: Hotness Score in Roanoke, VA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD40220                 | Implicit Regional Price Deflator for Roanoke, VA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT514022000000003A     | Unemployment Rate in Roanoke, VA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT514022000000004      | Unemployed Persons in Roanoke, VA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
@@ -31,46 +31,46 @@
 | LAUMT514022000000005      | Employed Persons in Roanoke, VA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT514022000000005A     | Employed Persons in Roanoke, VA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT514022000000006A     | Civilian Labor Force in Roanoke, VA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA40220          | Market Hotness: Listing Views per Property in Roanoke, VA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA40220        | Market Hotness: Listing Views per Property Versus the United States in Roanoke, VA (CBSA)                    | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA40220          | Market Hotness: Listing Views per Property in Roanoke, VA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA40220        | Market Hotness: Median Days on Market in Roanoke, VA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA40220          | Market Hotness: Median Days on Market in Roanoke, VA (CBSA)                                                  | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA40220        | Market Hotness: Median Days on Market in Roanoke, VA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR40220          | Housing Inventory: Median Days on Market in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM40220        | Housing Inventory: Median Days on Market Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY40220        | Housing Inventory: Median Days on Market Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI40220            | Housing Inventory: Median Listing Price in Roanoke, VA (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM40220          | Housing Inventory: Median Listing Price Month-Over-Month in Roanoke, VA (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE40220   | Housing Inventory: Median Listing Price per Square Feet in Roanoke, VA (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM40220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Roanoke, VA (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY40220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Roanoke, VA (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY40220          | Housing Inventory: Median Listing Price Year-Over-Year in Roanoke, VA (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA40220          | Market Hotness: Median Days on Market in Roanoke, VA (CBSA)                                                  | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA40220          | Market Hotness: Median Days on Market Versus the United States in Roanoke, VA (CBSA)                         | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA40220          | Market Hotness: Median Days on Market Day in Roanoke, VA (CBSA)                                              | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE40220            | Housing Inventory: Median Home Size in Square Feet in Roanoke, VA (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM40220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Roanoke, VA (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY40220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Roanoke, VA (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA40220          | Market Hotness: Median Listing Price in Roanoke, VA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA40220            | Market Hotness: Median Listing Price in Roanoke, VA (CBSA)                                                   | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA40220        | Market Hotness: Median Listing Price Versus the United States in Roanoke, VA (CBSA)                          | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA40220          | Market Hotness: Median Listing Price in Roanoke, VA (CBSA)                                                   | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU40220            | Housing Inventory: New Listing Count in Roanoke, VA (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM40220          | Housing Inventory: New Listing Count Month-Over-Month in Roanoke, VA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY40220          | Housing Inventory: New Listing Count Year-Over-Year in Roanoke, VA (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA40220          | Market Hotness: Listing Views per Property in Roanoke, VA (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA40220        | Market Hotness: Listing Views per Property Versus the United States in Roanoke, VA (CBSA)                    | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA40220          | Market Hotness: Listing Views per Property in Roanoke, VA (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA40220        | Market Hotness: Median Days on Market in Roanoke, VA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA40220          | Market Hotness: Median Days on Market in Roanoke, VA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA40220        | Market Hotness: Median Days on Market in Roanoke, VA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR40220          | Housing Inventory: Median Days on Market in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM40220        | Housing Inventory: Median Days on Market Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY40220        | Housing Inventory: Median Days on Market Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI40220            | Housing Inventory: Median Listing Price in Roanoke, VA (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM40220          | Housing Inventory: Median Listing Price Month-Over-Month in Roanoke, VA (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE40220   | Housing Inventory: Median Listing Price per Square Feet in Roanoke, VA (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM40220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Roanoke, VA (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY40220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Roanoke, VA (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY40220          | Housing Inventory: Median Listing Price Year-Over-Year in Roanoke, VA (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA40220          | Market Hotness: Median Days on Market in Roanoke, VA (CBSA)                                                  | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA40220          | Market Hotness: Median Days on Market Versus the United States in Roanoke, VA (CBSA)                         | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA40220          | Market Hotness: Median Days on Market Day in Roanoke, VA (CBSA)                                              | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE40220            | Housing Inventory: Median Home Size in Square Feet in Roanoke, VA (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM40220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Roanoke, VA (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY40220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Roanoke, VA (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA40220          | Market Hotness: Median Listing Price in Roanoke, VA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA40220            | Market Hotness: Median Listing Price in Roanoke, VA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA40220        | Market Hotness: Median Listing Price Versus the United States in Roanoke, VA (CBSA)                          | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA40220          | Market Hotness: Median Listing Price in Roanoke, VA (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU40220            | Housing Inventory: New Listing Count in Roanoke, VA (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM40220          | Housing Inventory: New Listing Count Month-Over-Month in Roanoke, VA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY40220          | Housing Inventory: New Listing Count Year-Over-Year in Roanoke, VA (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP40220                 | Total Gross Domestic Product for Roanoke, VA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA40220            | Market Hotness: Nielsen Household Rank in Roanoke, VA (CBSA)                                                 | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA40220            | Market Hotness: Nielsen Household Rank in Roanoke, VA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA140220          | U.S. Granted Utility Patents Originating in Roanoke, VA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU40220            | Housing Inventory: Pending Listing Count in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM40220          | Housing Inventory: Pending Listing Count Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY40220          | Housing Inventory: Pending Listing Count Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU40220            | Housing Inventory: Price Increased Count in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM40220          | Housing Inventory: Price Increased Count Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| PRIINCCOUYY40220          | Housing Inventory: Price Increased Count Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU40220            | Housing Inventory: Price Reduced Count in Roanoke, VA (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM40220          | Housing Inventory: Price Reduced Count Month-Over-Month in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY40220          | Housing Inventory: Price Reduced Count Year-Over-Year in Roanoke, VA (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOU40220            | Housing Inventory: Pending Listing Count in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM40220          | Housing Inventory: Pending Listing Count Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY40220          | Housing Inventory: Pending Listing Count Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU40220            | Housing Inventory: Price Increased Count in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM40220          | Housing Inventory: Price Increased Count Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY40220          | Housing Inventory: Price Increased Count Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU40220            | Housing Inventory: Price Reduced Count in Roanoke, VA (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM40220          | Housing Inventory: Price Reduced Count Month-Over-Month in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY40220          | Housing Inventory: Price Reduced Count Year-Over-Year in Roanoke, VA (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP40220                 | Total Quantity Indexes for Real GDP for Roanoke, VA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP40220                 | Total Real Gross Domestic Product for Roanoke, VA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RKEPOP                    | Resident Population in Roanoke, VA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
@@ -155,4 +155,4 @@
 | SMU51402209093000001      | All Employees: Government: Local Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-08-01        |
 | SMU51402209093000001A     | All Employees: Local Government in Roanoke, VA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU51402209093000001SA    | All Employees: Government: Local Government in Roanoke, VA (MSA)                                             | 1990-01-01          | 2022-08-01        |
-| SUSCMSA40220              | Market Hotness: Supply Score in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-08-01        |
+| SUSCMSA40220              | Market Hotness: Supply Score in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |

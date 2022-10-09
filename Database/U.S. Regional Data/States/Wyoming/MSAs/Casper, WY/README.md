@@ -1,12 +1,12 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU16220            | Housing Inventory: Active Listing Count in Casper, WY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM16220          | Housing Inventory: Active Listing Count Month-Over-Month in Casper, WY (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY16220          | Housing Inventory: Active Listing Count Year-Over-Year in Casper, WY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU16220            | Housing Inventory: Active Listing Count in Casper, WY (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM16220          | Housing Inventory: Active Listing Count Month-Over-Month in Casper, WY (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY16220          | Housing Inventory: Active Listing Count Year-Over-Year in Casper, WY (CBSA)                                 | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS16220Q            | All-Transactions House Price Index for Casper, WY (MSA)                                                     | 1981-07-01          | 2022-04-01        |
-| AVELISPRI16220            | Housing Inventory: Average Listing Price in Casper, WY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM16220          | Housing Inventory: Average Listing Price Month-Over-Month in Casper, WY (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY16220          | Housing Inventory: Average Listing Price Year-Over-Year in Casper, WY (CBSA)                                | 2017-07-01          | 2022-08-01        |
+| AVELISPRI16220            | Housing Inventory: Average Listing Price in Casper, WY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM16220          | Housing Inventory: Average Listing Price Month-Over-Month in Casper, WY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY16220          | Housing Inventory: Average Listing Price Year-Over-Year in Casper, WY (CBSA)                                | 2017-07-01          | 2022-09-01        |
 | CASP256EDUH               | All Employees: Education and Health Services in Casper, WY (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | CASP256EDUHN              | All Employees: Education and Health Services in Casper, WY (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | CASP256FIRE               | All Employees: Financial Activities in Casper, WY (MSA)                                                     | 1990-01-01          | 2022-08-01        |
@@ -52,31 +52,31 @@
 | LAUMT561622000000005      | Employed Persons in Casper, WY (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
 | LAUMT561622000000005A     | Employed Persons in Casper, WY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT561622000000006A     | Civilian Labor Force in Casper, WY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR16220          | Housing Inventory: Median Days on Market in Casper, WY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM16220        | Housing Inventory: Median Days on Market Month-Over-Month in Casper, WY (CBSA)                              | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY16220        | Housing Inventory: Median Days on Market Year-Over-Year in Casper, WY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI16220            | Housing Inventory: Median Listing Price in Casper, WY (CBSA)                                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM16220          | Housing Inventory: Median Listing Price Month-Over-Month in Casper, WY (CBSA)                               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE16220   | Housing Inventory: Median Listing Price per Square Feet in Casper, WY (CBSA)                                | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM16220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Casper, WY (CBSA)               | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY16220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Casper, WY (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY16220          | Housing Inventory: Median Listing Price Year-Over-Year in Casper, WY (CBSA)                                 | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEE16220            | Housing Inventory: Median Home Size in Square Feet in Casper, WY (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM16220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Casper, WY (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY16220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Casper, WY (CBSA)                      | 2017-07-01          | 2022-08-01        |
-| NEWLISCOU16220            | Housing Inventory: New Listing Count in Casper, WY (CBSA)                                                   | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM16220          | Housing Inventory: New Listing Count Month-Over-Month in Casper, WY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY16220          | Housing Inventory: New Listing Count Year-Over-Year in Casper, WY (CBSA)                                    | 2017-07-01          | 2022-08-01        |
+| MEDDAYONMAR16220          | Housing Inventory: Median Days on Market in Casper, WY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM16220        | Housing Inventory: Median Days on Market Month-Over-Month in Casper, WY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY16220        | Housing Inventory: Median Days on Market Year-Over-Year in Casper, WY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI16220            | Housing Inventory: Median Listing Price in Casper, WY (CBSA)                                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM16220          | Housing Inventory: Median Listing Price Month-Over-Month in Casper, WY (CBSA)                               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE16220   | Housing Inventory: Median Listing Price per Square Feet in Casper, WY (CBSA)                                | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM16220 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Casper, WY (CBSA)               | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY16220 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Casper, WY (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY16220          | Housing Inventory: Median Listing Price Year-Over-Year in Casper, WY (CBSA)                                 | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE16220            | Housing Inventory: Median Home Size in Square Feet in Casper, WY (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM16220          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Casper, WY (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY16220          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Casper, WY (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU16220            | Housing Inventory: New Listing Count in Casper, WY (CBSA)                                                   | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM16220          | Housing Inventory: New Listing Count Month-Over-Month in Casper, WY (CBSA)                                  | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY16220          | Housing Inventory: New Listing Count Year-Over-Year in Casper, WY (CBSA)                                    | 2017-07-01          | 2022-09-01        |
 | NGMP16220                 | Total Gross Domestic Product for Casper, WY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA116220          | U.S. Granted Utility Patents Originating in Casper, WY (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU16220            | Housing Inventory: Pending Listing Count in Casper, WY (CBSA)                                               | 2019-06-01          | 2021-12-01        |
-| PENLISCOUMM16220          | Housing Inventory: Pending Listing Count Month-Over-Month in Casper, WY (CBSA)                              | 2019-07-01          | 2021-11-01        |
-| PRIINCCOU16220            | Housing Inventory: Price Increased Count in Casper, WY (CBSA)                                               | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUMM16220          | Housing Inventory: Price Increased Count Month-Over-Month in Casper, WY (CBSA)                              | 2017-10-01          | 2022-02-01        |
-| PRIINCCOUYY16220          | Housing Inventory: Price Increased Count Year-Over-Year in Casper, WY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU16220            | Housing Inventory: Price Reduced Count in Casper, WY (CBSA)                                                 | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM16220          | Housing Inventory: Price Reduced Count Month-Over-Month in Casper, WY (CBSA)                                | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY16220          | Housing Inventory: Price Reduced Count Year-Over-Year in Casper, WY (CBSA)                                  | 2017-07-01          | 2022-08-01        |
+| PENLISCOUMM16220          | Housing Inventory: Pending Listing Count Month-Over-Month in Casper, WY (CBSA)                              | 2019-07-01          | 2021-12-01        |
+| PRIINCCOU16220            | Housing Inventory: Price Increased Count in Casper, WY (CBSA)                                               | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM16220          | Housing Inventory: Price Increased Count Month-Over-Month in Casper, WY (CBSA)                              | 2017-07-01          | 2022-09-01        |
+| PRIINCCOUYY16220          | Housing Inventory: Price Increased Count Year-Over-Year in Casper, WY (CBSA)                                | 2017-07-01          | 2022-06-01        |
+| PRIREDCOU16220            | Housing Inventory: Price Reduced Count in Casper, WY (CBSA)                                                 | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM16220          | Housing Inventory: Price Reduced Count Month-Over-Month in Casper, WY (CBSA)                                | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY16220          | Housing Inventory: Price Reduced Count Year-Over-Year in Casper, WY (CBSA)                                  | 2017-07-01          | 2022-09-01        |
 | QGMP16220                 | Total Quantity Indexes for Real GDP for Casper, WY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP16220                 | Total Real Gross Domestic Product for Casper, WY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI16220                  | Real Personal Income for Casper, WY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

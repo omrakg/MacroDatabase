@@ -1,13 +1,13 @@
 | id                        | title                                                                                              | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU48540            | Housing Inventory: Active Listing Count in Wheeling, WV-OH (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| ACTLISCOUMM48540          | Housing Inventory: Active Listing Count Month-Over-Month in Wheeling, WV-OH (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| ACTLISCOUYY48540          | Housing Inventory: Active Listing Count Year-Over-Year in Wheeling, WV-OH (CBSA)                   | 2017-07-01          | 2022-08-01        |
+| ACTLISCOU48540            | Housing Inventory: Active Listing Count in Wheeling, WV-OH (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM48540          | Housing Inventory: Active Listing Count Month-Over-Month in Wheeling, WV-OH (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY48540          | Housing Inventory: Active Listing Count Year-Over-Year in Wheeling, WV-OH (CBSA)                   | 2017-07-01          | 2022-09-01        |
 | ATNHPIUS48540Q            | All-Transactions House Price Index for Wheeling, WV-OH (MSA)                                       | 1993-01-01          | 2022-04-01        |
-| AVELISPRI48540            | Housing Inventory: Average Listing Price in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| AVELISPRIMM48540          | Housing Inventory: Average Listing Price Month-Over-Month in Wheeling, WV-OH (CBSA)                | 2017-07-01          | 2022-08-01        |
-| AVELISPRIYY48540          | Housing Inventory: Average Listing Price Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| DESCMSA48540              | Market Hotness: Demand Score in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| AVELISPRI48540            | Housing Inventory: Average Listing Price in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM48540          | Housing Inventory: Average Listing Price Month-Over-Month in Wheeling, WV-OH (CBSA)                | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY48540          | Housing Inventory: Average Listing Price Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| DESCMSA48540              | Market Hotness: Demand Score in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-09-01        |
 | ENUC485430010             | Total Quarterly Wages in Wheeling, WV-OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC485430010SA           | Total Quarterly Wages in Wheeling, WV-OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC485440010             | Average Weekly Wages for Employees in Total Covered Establishments in Wheeling, WV-OH (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC485440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-01-01        |
 | ENUC485440510             | Average Weekly Wages for Employees in Private Establishments in Wheeling, WV-OH (MSA)              | 1990-01-01          | 2022-01-01        |
 | ENUC485440510SA           | Average Weekly Wages for Employees in Private Establishments in Wheeling, WV-OH (MSA)              | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA48540            | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| HORAMSA48540              | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| HORAYYMSA48540            | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2018-08-01          | 2022-08-01        |
-| HOSCMSA48540              | Market Hotness: Hotness Score in Wheeling, WV-OH (CBSA)                                            | 2017-08-01          | 2022-08-01        |
+| HORAMMMSA48540            | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2017-09-01          | 2022-09-01        |
+| HORAMSA48540              | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-09-01        |
+| HORAYYMSA48540            | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2018-08-01          | 2022-09-01        |
+| HOSCMSA48540              | Market Hotness: Hotness Score in Wheeling, WV-OH (CBSA)                                            | 2017-08-01          | 2022-09-01        |
 | IRPD48540                 | Implicit Regional Price Deflator for Wheeling, WV-OH (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT544854000000003A     | Unemployment Rate in Wheeling, WV-OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT544854000000004      | Unemployed Persons in Wheeling, WV-OH (MSA)                                                        | 1990-01-01          | 2022-08-01        |
@@ -31,45 +31,45 @@
 | LAUMT544854000000005      | Employed Persons in Wheeling, WV-OH (MSA)                                                          | 1990-01-01          | 2022-08-01        |
 | LAUMT544854000000005A     | Employed Persons in Wheeling, WV-OH (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT544854000000006A     | Civilian Labor Force in Wheeling, WV-OH (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA48540          | Market Hotness: Listing Views per Property in Wheeling, WV-OH (CBSA)                               | 2018-08-01          | 2022-08-01        |
-| LDPEPRVSUSMSA48540        | Market Hotness: Listing Views per Property Versus the United States in Wheeling, WV-OH (CBSA)      | 2017-08-01          | 2022-08-01        |
-| LDPEPRYYMSA48540          | Market Hotness: Listing Views per Property in Wheeling, WV-OH (CBSA)                               | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMMMSA48540        | Market Hotness: Median Days on Market in Wheeling, WV-OH (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDAONMAMSA48540          | Market Hotness: Median Days on Market in Wheeling, WV-OH (CBSA)                                    | 2017-08-01          | 2022-08-01        |
-| MEDAONMAYYMSA48540        | Market Hotness: Median Days on Market in Wheeling, WV-OH (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR48540          | Housing Inventory: Median Days on Market in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| MEDDAYONMARMM48540        | Housing Inventory: Median Days on Market Month-Over-Month in Wheeling, WV-OH (CBSA)                | 2017-07-01          | 2022-08-01        |
-| MEDDAYONMARYY48540        | Housing Inventory: Median Days on Market Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| MEDLISPRI48540            | Housing Inventory: Median Listing Price in Wheeling, WV-OH (CBSA)                                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIMM48540          | Housing Inventory: Median Listing Price Month-Over-Month in Wheeling, WV-OH (CBSA)                 | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEE48540   | Housing Inventory: Median Listing Price per Square Feet in Wheeling, WV-OH (CBSA)                  | 2016-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEMM48540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Wheeling, WV-OH (CBSA) | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIPERSQUFEEYY48540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Wheeling, WV-OH (CBSA)   | 2017-07-01          | 2022-08-01        |
-| MEDLISPRIYY48540          | Housing Inventory: Median Listing Price Year-Over-Year in Wheeling, WV-OH (CBSA)                   | 2017-07-01          | 2022-08-01        |
-| MEDOMMDAMSA48540          | Market Hotness: Median Days on Market in Wheeling, WV-OH (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDOVSUSMSA48540          | Market Hotness: Median Days on Market Versus the United States in Wheeling, WV-OH (CBSA)           | 2017-08-01          | 2022-08-01        |
-| MEDOYYDAMSA48540          | Market Hotness: Median Days on Market Day in Wheeling, WV-OH (CBSA)                                | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE48540            | Housing Inventory: Median Home Size in Square Feet in Wheeling, WV-OH (CBSA)                       | 2016-07-01          | 2022-08-01        |
-| MEDSQUFEEMM48540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Wheeling, WV-OH (CBSA)      | 2017-07-01          | 2022-08-01        |
-| MEDSQUFEEYY48540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Wheeling, WV-OH (CBSA)        | 2017-07-01          | 2022-08-01        |
-| MELIPRMMMSA48540          | Market Hotness: Median Listing Price in Wheeling, WV-OH (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| MELIPRMSA48540            | Market Hotness: Median Listing Price in Wheeling, WV-OH (CBSA)                                     | 2017-08-01          | 2022-08-01        |
-| MELIPRVSUSMSA48540        | Market Hotness: Median Listing Price Versus the United States in Wheeling, WV-OH (CBSA)            | 2017-08-01          | 2022-08-01        |
-| MELIPRYYMSA48540          | Market Hotness: Median Listing Price in Wheeling, WV-OH (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU48540            | Housing Inventory: New Listing Count in Wheeling, WV-OH (CBSA)                                     | 2016-07-01          | 2022-08-01        |
-| NEWLISCOUMM48540          | Housing Inventory: New Listing Count Month-Over-Month in Wheeling, WV-OH (CBSA)                    | 2017-07-01          | 2022-08-01        |
-| NEWLISCOUYY48540          | Housing Inventory: New Listing Count Year-Over-Year in Wheeling, WV-OH (CBSA)                      | 2017-07-01          | 2022-08-01        |
+| LDPEPRMMMSA48540          | Market Hotness: Listing Views per Property in Wheeling, WV-OH (CBSA)                               | 2017-09-01          | 2022-09-01        |
+| LDPEPRVSUSMSA48540        | Market Hotness: Listing Views per Property Versus the United States in Wheeling, WV-OH (CBSA)      | 2017-08-01          | 2022-09-01        |
+| LDPEPRYYMSA48540          | Market Hotness: Listing Views per Property in Wheeling, WV-OH (CBSA)                               | 2018-08-01          | 2022-09-01        |
+| MEDAONMAMMMSA48540        | Market Hotness: Median Days on Market in Wheeling, WV-OH (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDAONMAMSA48540          | Market Hotness: Median Days on Market in Wheeling, WV-OH (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDAONMAYYMSA48540        | Market Hotness: Median Days on Market in Wheeling, WV-OH (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDDAYONMAR48540          | Housing Inventory: Median Days on Market in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM48540        | Housing Inventory: Median Days on Market Month-Over-Month in Wheeling, WV-OH (CBSA)                | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY48540        | Housing Inventory: Median Days on Market Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI48540            | Housing Inventory: Median Listing Price in Wheeling, WV-OH (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM48540          | Housing Inventory: Median Listing Price Month-Over-Month in Wheeling, WV-OH (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE48540   | Housing Inventory: Median Listing Price per Square Feet in Wheeling, WV-OH (CBSA)                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM48540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Wheeling, WV-OH (CBSA) | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY48540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Wheeling, WV-OH (CBSA)   | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY48540          | Housing Inventory: Median Listing Price Year-Over-Year in Wheeling, WV-OH (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDOMMDAMSA48540          | Market Hotness: Median Days on Market in Wheeling, WV-OH (CBSA)                                    | 2017-08-01          | 2022-09-01        |
+| MEDOVSUSMSA48540          | Market Hotness: Median Days on Market Versus the United States in Wheeling, WV-OH (CBSA)           | 2017-08-01          | 2022-09-01        |
+| MEDOYYDAMSA48540          | Market Hotness: Median Days on Market Day in Wheeling, WV-OH (CBSA)                                | 2017-08-01          | 2022-09-01        |
+| MEDSQUFEE48540            | Housing Inventory: Median Home Size in Square Feet in Wheeling, WV-OH (CBSA)                       | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM48540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Wheeling, WV-OH (CBSA)      | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY48540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Wheeling, WV-OH (CBSA)        | 2017-07-01          | 2022-09-01        |
+| MELIPRMMMSA48540          | Market Hotness: Median Listing Price in Wheeling, WV-OH (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| MELIPRMSA48540            | Market Hotness: Median Listing Price in Wheeling, WV-OH (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| MELIPRVSUSMSA48540        | Market Hotness: Median Listing Price Versus the United States in Wheeling, WV-OH (CBSA)            | 2017-08-01          | 2022-09-01        |
+| MELIPRYYMSA48540          | Market Hotness: Median Listing Price in Wheeling, WV-OH (CBSA)                                     | 2017-08-01          | 2022-09-01        |
+| NEWLISCOU48540            | Housing Inventory: New Listing Count in Wheeling, WV-OH (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM48540          | Housing Inventory: New Listing Count Month-Over-Month in Wheeling, WV-OH (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY48540          | Housing Inventory: New Listing Count Year-Over-Year in Wheeling, WV-OH (CBSA)                      | 2017-07-01          | 2022-09-01        |
 | NGMP48540                 | Total Gross Domestic Product for Wheeling, WV-OH (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA48540            | Market Hotness: Nielsen Household Rank in Wheeling, WV-OH (CBSA)                                   | 2017-08-01          | 2022-08-01        |
+| NIHHRAMSA48540            | Market Hotness: Nielsen Household Rank in Wheeling, WV-OH (CBSA)                                   | 2017-08-01          | 2022-09-01        |
 | PATENTCBSA148540          | U.S. Granted Utility Patents Originating in Wheeling, WV-OH (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU48540            | Housing Inventory: Pending Listing Count in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PENLISCOUMM48540          | Housing Inventory: Pending Listing Count Month-Over-Month in Wheeling, WV-OH (CBSA)                | 2017-07-01          | 2022-08-01        |
-| PENLISCOUYY48540          | Housing Inventory: Pending Listing Count Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIINCCOU48540            | Housing Inventory: Price Increased Count in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-08-01        |
-| PRIINCCOUYY48540          | Housing Inventory: Price Increased Count Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2020-09-01        |
-| PRIREDCOU48540            | Housing Inventory: Price Reduced Count in Wheeling, WV-OH (CBSA)                                   | 2016-07-01          | 2022-08-01        |
-| PRIREDCOUMM48540          | Housing Inventory: Price Reduced Count Month-Over-Month in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOUYY48540          | Housing Inventory: Price Reduced Count Year-Over-Year in Wheeling, WV-OH (CBSA)                    | 2017-07-01          | 2022-08-01        |
+| PENLISCOU48540            | Housing Inventory: Pending Listing Count in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM48540          | Housing Inventory: Pending Listing Count Month-Over-Month in Wheeling, WV-OH (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY48540          | Housing Inventory: Pending Listing Count Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU48540            | Housing Inventory: Price Increased Count in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUYY48540          | Housing Inventory: Price Increased Count Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOU48540            | Housing Inventory: Price Reduced Count in Wheeling, WV-OH (CBSA)                                   | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM48540          | Housing Inventory: Price Reduced Count Month-Over-Month in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY48540          | Housing Inventory: Price Reduced Count Year-Over-Year in Wheeling, WV-OH (CBSA)                    | 2017-07-01          | 2022-09-01        |
 | QGMP48540                 | Total Quantity Indexes for Real GDP for Wheeling, WV-OH (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP48540                 | Total Real Gross Domestic Product for Wheeling, WV-OH (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI48540                  | Real Personal Income for Wheeling, WV-OH (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -110,7 +110,7 @@
 | SMU54485409093000001      | All Employees: Government: Local Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-08-01        |
 | SMU54485409093000001A     | All Employees: Local Government in Wheeling, WV-OH (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU54485409093000001SA    | All Employees: Government: Local Government in Wheeling, WV-OH (MSA)                               | 1990-01-01          | 2022-08-01        |
-| SUSCMSA48540              | Market Hotness: Supply Score in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-08-01        |
+| SUSCMSA48540              | Market Hotness: Supply Score in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-09-01        |
 | WHEE554EDUH               | All Employees: Education and Health Services in Wheeling, WV-OH (MSA)                              | 1990-01-01          | 2022-08-01        |
 | WHEE554EDUHN              | All Employees: Education and Health Services in Wheeling, WV-OH (MSA)                              | 1990-01-01          | 2022-08-01        |
 | WHEE554GOVT               | All Employees: Government in Wheeling, WV-OH (MSA)                                                 | 1990-01-01          | 2022-08-01        |

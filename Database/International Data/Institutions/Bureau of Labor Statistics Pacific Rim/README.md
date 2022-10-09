@@ -38,5 +38,5 @@
 | COPRIMZ3372 | Import Price Index: Office furniture (including fixtures) manufacturing for Pacific Rim                                              | 2012-06-01          | 2018-12-01        |
 | COPRIMZ3391 | Import Price Index by Origin (NAICS): Medical Equipment and Supplies Manufacturing for Pacific Rim                                   | 2012-06-01          | 2022-08-01        |
 | COPRIMZ3399 | Import Price Index by Origin (NAICS): Other Miscellaneous Manufacturing for Pacific Rim                                              | 2012-06-01          | 2022-08-01        |
-| EXP0014     | U.S. Exports of Goods by F.A.S. Basis to Pacific Rim                                                                                 | 1992-01-01          | 2022-07-01        |
-| IMP0014     | U.S. Imports of Goods by Customs Basis from Pacific Rim                                                                              | 1992-01-01          | 2022-07-01        |
+| EXP0014     | U.S. Exports of Goods by F.A.S. Basis to Pacific Rim                                                                                 | 1992-01-01          | 2022-08-01        |
+| IMP0014     | U.S. Imports of Goods by Customs Basis from Pacific Rim                                                                              | 1992-01-01          | 2022-08-01        |

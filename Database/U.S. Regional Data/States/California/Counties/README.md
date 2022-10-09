@@ -5,13 +5,13 @@
 | Mariposa County, CA             |                90 |
 | San Benito County, CA           |                90 |
 | San Luis Obispo County, CA      |               146 |
-| Los Angeles County, CA          |               147 |
+| Los Angeles County, CA          |                 0 |
 | San Francisco County - city, CA |                 0 |
 | Inyo County, CA                 |                90 |
 | Marin County, CA                |               147 |
 | Butte County, CA                |               147 |
 | Sacramento County, CA           |               147 |
-| Stanislaus County, CA           |                 0 |
+| Stanislaus County, CA           |               147 |
 | Tehama County, CA               |               146 |
 | Kings County, CA                |               147 |
 | Alameda County, CA              |               147 |
