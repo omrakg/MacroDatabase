@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004244400008",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Average Hourly Earnings of Production Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-08-01",
@@ -22,8 +22,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004244400008A",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Average Hourly Earnings of Production Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",

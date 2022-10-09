@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000004348400001A",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "All Employees: Truck Transportation in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Texas": {
     "id": "SMU48000004348400001A",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "All Employees: Truck Transportation in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Utah": {
     "id": "SMU49000004348400001A",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "All Employees: Truck Transportation in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Washington": {
     "id": "SMU53000004348400001A",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "All Employees: Truck Transportation in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000004348400001A",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "All Employees: Truck Transportation in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

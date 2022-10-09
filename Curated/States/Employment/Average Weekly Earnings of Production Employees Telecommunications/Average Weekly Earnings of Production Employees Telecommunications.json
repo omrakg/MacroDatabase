@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000005051700030",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Average Weekly Earnings of Production Employees: Information: Telecommunications in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",
@@ -22,8 +22,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000005051700030A",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Average Weekly Earnings of Production Employees: Information: Telecommunications in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2016-01-01",
