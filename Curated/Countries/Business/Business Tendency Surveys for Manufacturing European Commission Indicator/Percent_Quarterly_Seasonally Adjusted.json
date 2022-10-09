@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "BSXRLV02RUQ086S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for the Russian Federation",
     "observation_start": "1992-10-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Hungary": {
     "id": "BSXRLV02HUM086S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Hungary",
     "observation_start": "1996-01-01",
     "observation_end": "2022-03-01",
@@ -39,8 +39,8 @@
   },
   "Luxembourg": {
     "id": "BSXRLV02LUM086S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Luxembourg",
     "observation_start": "1983-01-01",
     "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
   },
   "Poland": {
     "id": "BSXRLV02PLM086S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Poland",
     "observation_start": "1997-07-01",
     "observation_end": "2022-08-01",
@@ -77,8 +77,8 @@
   },
   "Slovak Republic": {
     "id": "BSXRLV02SKM086S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for the Slovak Republic",
     "observation_start": "1993-08-01",
     "observation_end": "2022-08-01",
@@ -96,8 +96,8 @@
   },
   "Slovenia": {
     "id": "BSXRLV02SIM086S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Slovenia",
     "observation_start": "1995-04-01",
     "observation_end": "2022-08-01",
@@ -115,8 +115,8 @@
   },
   "Turkey": {
     "id": "BSXRLV02TRM086S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Business Tendency Surveys for Manufacturing: Export Order Books or Demand: Level: European Commission Indicator for Turkey",
     "observation_start": "2007-01-01",
     "observation_end": "2022-08-01",

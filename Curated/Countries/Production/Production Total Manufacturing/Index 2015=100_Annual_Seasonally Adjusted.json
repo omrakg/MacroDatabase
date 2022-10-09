@@ -1,8 +1,8 @@
 {
   "Czech Republic": {
     "id": "CZEPROMANAISMEI",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Production: Manufacturing: Total Manufacturing: Total Manufacturing for the Czech Republic",
     "observation_start": "1991-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLPROMANQISMEI",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile",
     "observation_start": "1991-01-01",
     "observation_end": "2022-04-01",

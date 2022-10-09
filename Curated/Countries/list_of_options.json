@@ -962,10 +962,12 @@
     },
     "Exchange Rate to U.S. Dollar": {
       "Exchange Rate to U.S. Dollar": [
-        "Ukraine"
+        "Ukraine",
+        "Suriname"
       ],
       "National Currency Units per US Dollar_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
+        "Ukraine",
+        "Suriname"
       ]
     },
     "Exchange Rate (market+estimated)": {
@@ -1314,7 +1316,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -1340,7 +1341,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -1370,7 +1370,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -1398,7 +1397,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -1519,9 +1517,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -1649,9 +1647,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -1779,9 +1777,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -1886,7 +1884,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -1917,9 +1914,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -2022,7 +2019,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -2053,9 +2049,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -2264,6 +2260,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Percent Change_Annual_Not Seasonally Adjusted": [
@@ -2288,6 +2285,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -2314,6 +2312,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Percent_Annual_Not Seasonally Adjusted": [
@@ -2338,6 +2337,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -9284,6 +9284,80 @@
         "Russian Federation"
       ]
     },
+    "Openness at Current Prices": {
+      "Openness at Current Prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Openness at constant prices": {
+      "Openness at constant prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted Domestic Absorption Per Capita, average GEKS-CPDW, at current prices": {
+      "Purchasing Power Parity Converted Domestic Absorption Per Capita, average GEKS-CPDW, at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "International Dollars_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Price Level of Consumption": {
+      "Price Level of Consumption": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "PPP of Consumption over Exchange Rate_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Price Level of Government Consumption": {
+      "Price Level of Government Consumption": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "PPP of Government Consumption over Exchange Rate_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Price Level of USA Output-side GDP in 2017=1_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Price Level of Investment": {
+      "Price Level of Investment": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "PPP of Investment over Exchange Rate_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted Gross Domestic Income (adjusted for Terms of Trade changes)": {
+      "Purchasing Power Parity Converted Gross Domestic Income (adjusted for Terms of Trade changes)": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "2005 International Dollars per Person_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
     "Consumer Price Index: Total, All Items": {
       "Consumer Price Index: Total, All Items": [
         "Turkey"
@@ -9298,46 +9372,11 @@
         "Turkey"
       ]
     },
-    "Openness at Current Prices": {
-      "Openness at Current Prices": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Openness at constant prices": {
-      "Openness at constant prices": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted Domestic Absorption Per Capita, average GEKS-CPDW, at current prices": {
-      "Purchasing Power Parity Converted Domestic Absorption Per Capita, average GEKS-CPDW, at current prices": [
-        "Ukraine"
-      ],
-      "International Dollars_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
     "Price Level of Household Consumption": {
       "Price Level of Household Consumption": [
         "Ukraine"
       ],
       "Price Level of USA Output-side GDP in 2017=1_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Price Level of Government Consumption": {
-      "Price Level of Government Consumption": [
-        "Ukraine"
-      ],
-      "Price Level of USA Output-side GDP in 2017=1_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ],
-      "PPP of Government Consumption over Exchange Rate_Annual_Not Seasonally Adjusted": [
         "Ukraine"
       ]
     },
@@ -9365,35 +9404,11 @@
         "Ukraine"
       ]
     },
-    "Price Level of Consumption": {
-      "Price Level of Consumption": [
-        "Ukraine"
-      ],
-      "PPP of Consumption over Exchange Rate_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Price Level of Investment": {
-      "Price Level of Investment": [
-        "Ukraine"
-      ],
-      "PPP of Investment over Exchange Rate_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
     "Price Level of Exports": {
       "Price Level of Exports": [
         "Ukraine"
       ],
       "Price Level of USA Output-side GDP in 2017=1_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted Gross Domestic Income (adjusted for Terms of Trade changes)": {
-      "Purchasing Power Parity Converted Gross Domestic Income (adjusted for Terms of Trade changes)": [
-        "Ukraine"
-      ],
-      "2005 International Dollars per Person_Annual_Not Seasonally Adjusted": [
         "Ukraine"
       ]
     },
@@ -10013,7 +10028,6 @@
         "Qatar",
         "Saudi Arabia",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Turkmenistan"
       ],
       "Barrels Per Day Equivalent_Annual_Not Seasonally Adjusted": [
@@ -10027,7 +10041,6 @@
         "Qatar",
         "Saudi Arabia",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Turkmenistan"
       ]
     },
@@ -10453,7 +10466,6 @@
         "Rwanda",
         "Sao Tome and Principe",
         "Seychelles",
-        "Tajikistan",
         "Timor-Leste"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
@@ -10474,7 +10486,6 @@
         "Rwanda",
         "Sao Tome and Principe",
         "Seychelles",
-        "Tajikistan",
         "Timor-Leste"
       ]
     },
@@ -10543,7 +10554,6 @@
         "Samoa",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tunisia",
         "Uganda",
         "Ukraine",
@@ -10613,7 +10623,6 @@
         "Samoa",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tunisia",
         "Uganda",
         "Ukraine",
@@ -10687,7 +10696,6 @@
         "Samoa",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tunisia",
         "Uganda",
         "Ukraine",
@@ -10759,7 +10767,6 @@
         "Samoa",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tunisia",
         "Uganda",
         "Ukraine",
@@ -10900,6 +10907,7 @@
         "San Marino",
         "Serbia",
         "Sierra Leone",
+        "Suriname",
         "Ukraine",
         "United Arab Emirates"
       ],
@@ -10942,6 +10950,7 @@
         "San Marino",
         "Serbia",
         "Sierra Leone",
+        "Suriname",
         "Ukraine",
         "United Arab Emirates"
       ]
@@ -11112,7 +11121,6 @@
         "San Marino",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tonga",
         "Tunisia",
         "Uganda",
@@ -11187,7 +11195,6 @@
         "San Marino",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tonga",
         "Tunisia",
         "Uganda",
@@ -11266,7 +11273,6 @@
         "San Marino",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tonga",
         "Tunisia",
         "Uganda",
@@ -11343,7 +11349,6 @@
         "San Marino",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tonga",
         "Tunisia",
         "Uganda",
@@ -11497,7 +11502,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -11600,7 +11604,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -11713,7 +11716,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -11745,9 +11747,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -11863,7 +11865,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -11895,9 +11896,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -11994,7 +11995,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -12018,9 +12018,9 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -12112,7 +12112,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -12136,9 +12135,9 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -12237,7 +12236,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -12263,9 +12261,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -12362,7 +12360,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -12388,9 +12385,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -12516,9 +12513,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -12643,9 +12640,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -12753,7 +12750,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -12781,9 +12777,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -12888,7 +12884,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -12916,9 +12911,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -13025,7 +13020,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -13052,9 +13046,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -13159,7 +13153,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -13186,9 +13179,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -13288,7 +13281,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -13314,9 +13306,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -13413,7 +13405,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -13439,9 +13430,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -13546,7 +13537,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -13576,9 +13566,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -13683,7 +13673,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -13713,9 +13702,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -13820,7 +13809,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -13850,9 +13838,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -13908,7 +13896,6 @@
         "Saudi Arabia",
         "Senegal",
         "South Sudan",
-        "Tajikistan",
         "Togo",
         "Uganda",
         "Ukraine",
@@ -13952,7 +13939,6 @@
         "Saudi Arabia",
         "Senegal",
         "South Sudan",
-        "Tajikistan",
         "Togo",
         "Uganda",
         "Ukraine",
@@ -13969,8 +13955,7 @@
         "Madagascar",
         "Myanmar",
         "Pakistan",
-        "Peru",
-        "Tajikistan"
+        "Peru"
       ],
       "National Currency_Annual_Not Seasonally Adjusted": [
         "Uganda",
@@ -13981,8 +13966,7 @@
         "Madagascar",
         "Myanmar",
         "Pakistan",
-        "Peru",
-        "Tajikistan"
+        "Peru"
       ]
     },
     "Number of Loan Accounts for Households at Commercial Banks": {
@@ -14175,7 +14159,6 @@
         "Saudi Arabia",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tunisia",
         "Uganda",
         "Vanuatu",
@@ -14222,7 +14205,6 @@
         "Saudi Arabia",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tunisia",
         "Uganda",
         "Vanuatu",
@@ -14285,7 +14267,7 @@
     },
     "Outstanding Deposits by Households at Credit Unions and Financial Cooperatives": {
       "Outstanding Deposits by Households at Credit Unions and Financial Cooperatives": [
-        "Tajikistan",
+        "Suriname",
         "Argentina",
         "Bangladesh",
         "Belize",
@@ -14305,7 +14287,7 @@
         "Samoa"
       ],
       "National Currency_Annual_Not Seasonally Adjusted": [
-        "Tajikistan",
+        "Suriname",
         "Argentina",
         "Bangladesh",
         "Belize",
@@ -14361,22 +14343,24 @@
     },
     "Number of Loan Accounts for Households at Credit Unions and Financial Cooperatives": {
       "Number of Loan Accounts for Households at Credit Unions and Financial Cooperatives": [
-        "Samoa",
+        "Suriname",
         "Argentina",
         "Bangladesh",
         "Chile",
         "Colombia",
         "Guinea",
-        "Hungary"
+        "Hungary",
+        "Samoa"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
-        "Samoa",
+        "Suriname",
         "Argentina",
         "Bangladesh",
         "Chile",
         "Colombia",
         "Guinea",
-        "Hungary"
+        "Hungary",
+        "Samoa"
       ]
     },
     "Households Borrowing from Other Deposit Takers": {
@@ -14415,7 +14399,7 @@
     },
     "Households Borrowing from Credit Unions and Financial Cooperatives": {
       "Households Borrowing from Credit Unions and Financial Cooperatives": [
-        "Tajikistan",
+        "Suriname",
         "Argentina",
         "Bangladesh",
         "Chile",
@@ -14427,7 +14411,7 @@
         "Samoa"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
-        "Tajikistan",
+        "Suriname",
         "Argentina",
         "Bangladesh",
         "Chile",
@@ -14441,7 +14425,7 @@
     },
     "Outstanding Loans to Households at Credit Unions and Financial Cooperatives": {
       "Outstanding Loans to Households at Credit Unions and Financial Cooperatives": [
-        "Tajikistan",
+        "Suriname",
         "Argentina",
         "Bangladesh",
         "Belize",
@@ -14461,7 +14445,7 @@
         "Samoa"
       ],
       "National Currency_Annual_Not Seasonally Adjusted": [
-        "Tajikistan",
+        "Suriname",
         "Argentina",
         "Bangladesh",
         "Belize",
@@ -14543,7 +14527,7 @@
     },
     "Number of Depositors which are Households at Credit Unions and Financial Cooperatives": {
       "Number of Depositors which are Households at Credit Unions and Financial Cooperatives": [
-        "Tajikistan",
+        "Suriname",
         "Bangladesh",
         "Colombia",
         "Guinea",
@@ -14551,7 +14535,7 @@
         "Samoa"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
-        "Tajikistan",
+        "Suriname",
         "Bangladesh",
         "Colombia",
         "Guinea",
@@ -15928,6 +15912,20 @@
         "Turkey"
       ]
     },
+    "Population": {
+      "Population": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Thousands_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Millions of Persons_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
     "Working Age Population All Persons": {
       "Working Age Population All Persons": [
         "Turkey"
@@ -15958,17 +15956,6 @@
         "Ukraine"
       ],
       "Number per 1 Million People_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Population": {
-      "Population": [
-        "Ukraine"
-      ],
-      "Millions of Persons_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ],
-      "Thousands_Annual_Not Seasonally Adjusted": [
         "Ukraine"
       ]
     },
@@ -18064,7 +18051,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -18092,7 +18078,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -18208,9 +18193,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -18333,9 +18318,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -18397,6 +18382,7 @@
         "Saudi Arabia",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
         "Tonga",
         "Trinidad and Tobago",
@@ -18451,6 +18437,7 @@
         "Saudi Arabia",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
         "Tonga",
         "Trinidad and Tobago",
@@ -18572,9 +18559,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -18699,9 +18686,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -18827,9 +18814,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -18953,9 +18940,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -19513,9 +19500,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -19639,9 +19626,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -19768,9 +19755,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -19895,9 +19882,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -19965,8 +19952,8 @@
         "Sierra Leone",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tonga",
         "Tunisia",
         "Uganda",
@@ -20024,8 +20011,8 @@
         "Sierra Leone",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tonga",
         "Tunisia",
         "Uganda",
@@ -20145,9 +20132,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -20273,9 +20260,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -20326,6 +20313,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Togo",
         "Ukraine"
       ],
@@ -20364,6 +20352,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Togo",
         "Ukraine"
       ]
@@ -20438,7 +20427,6 @@
         "South Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tunisia",
@@ -20518,7 +20506,6 @@
         "South Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tunisia",
@@ -20600,7 +20587,6 @@
         "South Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tunisia",
@@ -20680,7 +20666,6 @@
         "South Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tunisia",
@@ -20850,9 +20835,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -20979,9 +20964,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -21036,6 +21021,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Ukraine"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
@@ -21077,6 +21063,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Ukraine"
       ]
     },
@@ -21166,9 +21153,9 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Trinidad and Tobago",
         "Tunisia",
@@ -21262,9 +21249,9 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Trinidad and Tobago",
         "Tunisia",
@@ -21344,8 +21331,8 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Ukraine",
         "Uruguay",
@@ -21421,8 +21408,8 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Ukraine",
         "Uruguay",
@@ -21542,9 +21529,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -21669,9 +21656,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -21800,9 +21787,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -21929,9 +21916,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -21980,6 +21967,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Togo"
       ],
       "National Currency_Annual_Not Seasonally Adjusted": [
@@ -22015,6 +22003,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Togo"
       ]
     },
@@ -23488,9 +23477,9 @@
         "Sierra Leone",
         "Solomon Islands",
         "South Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Tunisia",
         "Uganda",
@@ -23572,9 +23561,9 @@
         "Sierra Leone",
         "Solomon Islands",
         "South Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Tunisia",
         "Uganda",
@@ -23660,7 +23649,6 @@
         "South Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Tunisia",
         "Uganda",
@@ -23744,7 +23732,6 @@
         "South Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Tunisia",
         "Uganda",
@@ -23912,9 +23899,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -24039,9 +24026,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -24342,9 +24329,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -24471,9 +24458,9 @@
         "Solomon Islands",
         "South Sudan",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Tonga",
@@ -24522,6 +24509,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Togo"
       ],
       "National Currency_Annual_Not Seasonally Adjusted": [
@@ -24557,6 +24545,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Togo"
       ]
     },
@@ -24672,7 +24661,6 @@
         "Sierra Leone",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tunisia",
         "Turkey",
@@ -24742,7 +24730,6 @@
         "Sierra Leone",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tunisia",
         "Turkey",
@@ -24841,7 +24828,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -24943,7 +24929,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -25047,7 +25032,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -25149,7 +25133,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -25253,7 +25236,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -25355,7 +25337,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -25484,9 +25465,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -25614,9 +25595,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -25753,9 +25734,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -25892,9 +25873,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -26032,9 +26013,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -26170,9 +26151,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -26311,9 +26292,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -26450,9 +26431,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -26590,9 +26571,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -26728,9 +26709,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -26868,9 +26849,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -27006,9 +26987,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -27146,9 +27127,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -27284,9 +27265,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -27406,9 +27387,9 @@
         "Sierra Leone",
         "Slovenia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -27522,9 +27503,9 @@
         "Sierra Leone",
         "Slovenia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -27647,7 +27628,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -27769,7 +27749,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -27875,7 +27854,6 @@
         "Slovenia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Trinidad and Tobago",
         "Tunisia",
         "Turkey",
@@ -27977,7 +27955,6 @@
         "Slovenia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Trinidad and Tobago",
         "Tunisia",
         "Turkey",
@@ -28102,9 +28079,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -28229,9 +28206,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -28361,9 +28338,9 @@
         "Sierra Leone",
         "Slovenia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -28494,9 +28471,9 @@
         "Sierra Leone",
         "Slovenia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -28630,9 +28607,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -28762,9 +28739,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -28800,8 +28777,7 @@
         "Rwanda",
         "Samoa",
         "Sao Tome and Principe",
-        "Seychelles",
-        "Tajikistan"
+        "Seychelles"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
         "Zambia",
@@ -28822,8 +28798,7 @@
         "Rwanda",
         "Samoa",
         "Sao Tome and Principe",
-        "Seychelles",
-        "Tajikistan"
+        "Seychelles"
       ]
     },
     "Number of Non-life Insurance Depositors at Insurance Corporations": {
@@ -28844,8 +28819,7 @@
         "Peru",
         "Rwanda",
         "Sao Tome and Principe",
-        "Seychelles",
-        "Tajikistan"
+        "Seychelles"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
         "Zambia",
@@ -28864,8 +28838,7 @@
         "Peru",
         "Rwanda",
         "Sao Tome and Principe",
-        "Seychelles",
-        "Tajikistan"
+        "Seychelles"
       ]
     },
     "Number of Institutions, Other Depository Corporations, Other Deposit Takers": {
@@ -28935,6 +28908,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Timor-Leste",
         "Tonga",
@@ -29011,6 +28985,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Timor-Leste",
         "Tonga",
@@ -29056,7 +29031,6 @@
         "Rwanda",
         "Seychelles",
         "Sudan",
-        "Tajikistan",
         "Ukraine",
         "Uzbekistan",
         "Zambia"
@@ -29094,7 +29068,6 @@
         "Rwanda",
         "Seychelles",
         "Sudan",
-        "Tajikistan",
         "Ukraine",
         "Uzbekistan",
         "Zambia"
@@ -29175,8 +29148,8 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Ukraine",
         "United Arab Emirates",
@@ -29259,8 +29232,8 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Ukraine",
         "United Arab Emirates",
@@ -29323,6 +29296,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Timor-Leste",
         "Togo",
@@ -29385,6 +29359,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Timor-Leste",
         "Togo",
@@ -29477,7 +29452,7 @@
         "Sao Tome and Principe",
         "Saudi Arabia",
         "Serbia",
-        "Tajikistan",
+        "Suriname",
         "Trinidad and Tobago",
         "Tunisia",
         "Ukraine",
@@ -29527,7 +29502,7 @@
         "Sao Tome and Principe",
         "Saudi Arabia",
         "Serbia",
-        "Tajikistan",
+        "Suriname",
         "Trinidad and Tobago",
         "Tunisia",
         "Ukraine",
@@ -29578,7 +29553,7 @@
         "Sao Tome and Principe",
         "Saudi Arabia",
         "Serbia",
-        "Tajikistan",
+        "Suriname",
         "Timor-Leste",
         "Trinidad and Tobago",
         "Tunisia",
@@ -29628,7 +29603,7 @@
         "Sao Tome and Principe",
         "Saudi Arabia",
         "Serbia",
-        "Tajikistan",
+        "Suriname",
         "Timor-Leste",
         "Trinidad and Tobago",
         "Tunisia",
@@ -29696,7 +29671,7 @@
         "Serbia",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Trinidad and Tobago",
         "Tunisia",
         "Ukraine",
@@ -29762,7 +29737,7 @@
         "Serbia",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Trinidad and Tobago",
         "Tunisia",
         "Ukraine",
@@ -29883,6 +29858,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Ukraine"
       ],
       "National Currency_Annual_Not Seasonally Adjusted": [
@@ -29923,6 +29899,7 @@
         "Samoa",
         "San Marino",
         "Serbia",
+        "Suriname",
         "Ukraine"
       ]
     },
@@ -29973,7 +29950,6 @@
         "Rwanda",
         "Seychelles",
         "Sudan",
-        "Tajikistan",
         "Ukraine",
         "Uzbekistan",
         "Zambia"
@@ -30006,7 +29982,6 @@
         "Rwanda",
         "Seychelles",
         "Sudan",
-        "Tajikistan",
         "Ukraine",
         "Uzbekistan",
         "Zambia"
@@ -30129,7 +30104,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
-        "Tajikistan",
+        "Suriname",
         "Tunisia",
         "Ukraine",
         "United Arab Emirates",
@@ -30192,7 +30167,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
-        "Tajikistan",
+        "Suriname",
         "Tunisia",
         "Ukraine",
         "United Arab Emirates",
@@ -30247,6 +30222,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Timor-Leste",
         "Togo",
@@ -30304,6 +30280,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Timor-Leste",
         "Togo",
@@ -30338,7 +30315,6 @@
         "Rwanda",
         "Samoa",
         "Sudan",
-        "Tajikistan",
         "Ukraine"
       ],
       "Percent of GDP_Annual_Not Seasonally Adjusted": [
@@ -30362,7 +30338,6 @@
         "Rwanda",
         "Samoa",
         "Sudan",
-        "Tajikistan",
         "Ukraine"
       ]
     },
@@ -30470,9 +30445,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Tunisia",
@@ -30588,9 +30563,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Tunisia",
@@ -30670,7 +30645,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Turkey",
@@ -30746,7 +30720,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Turkey",
@@ -30824,7 +30797,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Turkey",
@@ -30900,7 +30872,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Turkey",
@@ -31019,9 +30990,9 @@
         "Sierra Leone",
         "Slovenia",
         "Solomon Islands",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -31139,9 +31110,9 @@
         "Sierra Leone",
         "Slovenia",
         "Solomon Islands",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -31577,7 +31548,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Tunisia",
         "Turkey",
         "Uganda",
@@ -31647,7 +31617,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Tunisia",
         "Turkey",
         "Uganda",
@@ -31718,7 +31687,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Tunisia",
         "Turkey",
         "Uganda",
@@ -31787,7 +31755,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Tunisia",
         "Turkey",
         "Uganda",
@@ -31859,7 +31826,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Tunisia",
         "Turkey",
         "Uganda",
@@ -31929,7 +31895,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Tunisia",
         "Turkey",
         "Uganda",
@@ -32047,9 +32012,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -32172,9 +32137,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -32253,7 +32218,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Tunisia",
         "Turkey",
         "Uganda",
@@ -32323,7 +32287,6 @@
         "Sierra Leone",
         "Slovenia",
         "Swaziland",
-        "Tajikistan",
         "Tunisia",
         "Turkey",
         "Uganda",
@@ -32451,9 +32414,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -32586,9 +32549,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -32976,6 +32939,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Timor-Leste",
         "Togo",
@@ -33033,6 +32997,7 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Timor-Leste",
         "Togo",
@@ -35184,6 +35149,7 @@
         "Saudi Arabia",
         "Serbia",
         "Seychelles",
+        "Suriname",
         "Trinidad and Tobago",
         "Tunisia",
         "Ukraine"
@@ -35220,6 +35186,7 @@
         "Saudi Arabia",
         "Serbia",
         "Seychelles",
+        "Suriname",
         "Trinidad and Tobago",
         "Tunisia",
         "Ukraine"
@@ -35402,7 +35369,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -35439,7 +35405,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -35517,7 +35482,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -35553,7 +35517,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -35598,7 +35561,6 @@
         "Saudi Arabia",
         "Senegal",
         "South Sudan",
-        "Tajikistan",
         "Togo",
         "Uganda",
         "Ukraine",
@@ -35642,7 +35604,6 @@
         "Saudi Arabia",
         "Senegal",
         "South Sudan",
-        "Tajikistan",
         "Togo",
         "Uganda",
         "Ukraine",
@@ -35788,8 +35749,7 @@
         "Madagascar",
         "Myanmar",
         "Pakistan",
-        "Peru",
-        "Tajikistan"
+        "Peru"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
         "Uganda",
@@ -35799,8 +35759,7 @@
         "Madagascar",
         "Myanmar",
         "Pakistan",
-        "Peru",
-        "Tajikistan"
+        "Peru"
       ]
     },
     "Key Indicators, Depositors customers with All Microfinance Institutions (MFIs) Per 1000 Adults": {
@@ -35865,7 +35824,6 @@
         "Samoa",
         "Senegal",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -35895,7 +35853,6 @@
         "Samoa",
         "Senegal",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -35958,7 +35915,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -36001,7 +35957,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -36052,7 +36007,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -36087,7 +36041,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -36364,7 +36317,6 @@
         "Nicaragua",
         "Peru",
         "Rwanda",
-        "Tajikistan",
         "Ukraine",
         "Uzbekistan",
         "Zambia"
@@ -36385,7 +36337,6 @@
         "Nicaragua",
         "Peru",
         "Rwanda",
-        "Tajikistan",
         "Ukraine",
         "Uzbekistan",
         "Zambia"
@@ -36433,7 +36384,6 @@
         "Saudi Arabia",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tunisia",
         "Uganda",
         "Vanuatu",
@@ -36480,7 +36430,6 @@
         "Saudi Arabia",
         "Serbia",
         "South Sudan",
-        "Tajikistan",
         "Tunisia",
         "Uganda",
         "Vanuatu",
@@ -36503,7 +36452,6 @@
         "Peru",
         "Rwanda",
         "Samoa",
-        "Tajikistan",
         "Ukraine"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
@@ -36521,7 +36469,6 @@
         "Peru",
         "Rwanda",
         "Samoa",
-        "Tajikistan",
         "Ukraine"
       ]
     },
@@ -36549,7 +36496,6 @@
         "Samoa",
         "Senegal",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -36577,7 +36523,6 @@
         "Samoa",
         "Senegal",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -36657,7 +36602,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -36693,7 +36637,6 @@
         "Senegal",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Timor-Leste",
         "Togo",
         "Uganda"
@@ -36961,7 +36904,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo",
         "Trinidad and Tobago",
         "Uzbekistan",
@@ -37018,7 +36961,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo",
         "Trinidad and Tobago",
         "Uzbekistan",
@@ -37047,6 +36990,7 @@
         "Samoa",
         "Senegal",
         "Seychelles",
+        "Suriname",
         "Uzbekistan"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
@@ -37070,6 +37014,7 @@
         "Samoa",
         "Senegal",
         "Seychelles",
+        "Suriname",
         "Uzbekistan"
       ]
     },
@@ -37094,6 +37039,7 @@
         "Rwanda",
         "Samoa",
         "Seychelles",
+        "Suriname",
         "Uzbekistan"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
@@ -37116,6 +37062,7 @@
         "Rwanda",
         "Samoa",
         "Seychelles",
+        "Suriname",
         "Uzbekistan"
       ]
     },
@@ -37212,6 +37159,7 @@
         "Philippines",
         "Romania",
         "Sudan",
+        "Suriname",
         "Tonga",
         "Uganda",
         "Zambia"
@@ -37240,6 +37188,7 @@
         "Philippines",
         "Romania",
         "Sudan",
+        "Suriname",
         "Tonga",
         "Uganda",
         "Zambia"
@@ -37280,6 +37229,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
+        "Suriname",
         "Togo"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
@@ -37316,6 +37266,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
+        "Suriname",
         "Togo"
       ]
     },
@@ -37354,6 +37305,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
+        "Suriname",
         "Togo"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
@@ -37390,6 +37342,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
+        "Suriname",
         "Togo"
       ]
     },
@@ -37458,6 +37411,7 @@
         "Rwanda",
         "Samoa",
         "Seychelles",
+        "Suriname",
         "Togo"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
@@ -37490,6 +37444,7 @@
         "Rwanda",
         "Samoa",
         "Seychelles",
+        "Suriname",
         "Togo"
       ]
     },
@@ -37600,7 +37555,7 @@
         "Senegal",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo",
         "Uzbekistan"
       ],
@@ -37628,7 +37583,7 @@
         "Senegal",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo",
         "Uzbekistan"
       ]
@@ -37657,7 +37612,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo",
         "Uzbekistan"
       ],
@@ -37684,7 +37639,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo",
         "Uzbekistan"
       ]
@@ -37846,7 +37801,7 @@
         "Senegal",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo"
       ],
       "Percent of GDP_Annual_Not Seasonally Adjusted": [
@@ -37891,7 +37846,7 @@
         "Senegal",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo"
       ]
     },
@@ -37937,7 +37892,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo"
       ],
       "National Currency_Annual_Not Seasonally Adjusted": [
@@ -37981,7 +37936,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo"
       ]
     },
@@ -38246,7 +38201,8 @@
         "Rwanda",
         "Samoa",
         "Senegal",
-        "Seychelles"
+        "Seychelles",
+        "Suriname"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
         "Uzbekistan",
@@ -38270,7 +38226,8 @@
         "Rwanda",
         "Samoa",
         "Senegal",
-        "Seychelles"
+        "Seychelles",
+        "Suriname"
       ]
     },
     "Number of Loan Accounts at Credit Unions and Financial Cooperatives": {
@@ -38295,7 +38252,8 @@
         "Peru",
         "Rwanda",
         "Samoa",
-        "Seychelles"
+        "Seychelles",
+        "Suriname"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
         "Uzbekistan",
@@ -38318,7 +38276,8 @@
         "Peru",
         "Rwanda",
         "Samoa",
-        "Seychelles"
+        "Seychelles",
+        "Suriname"
       ]
     },
     "Small and Medium Enterprises Borrowing from Commercial Banks": {
@@ -38575,7 +38534,7 @@
         "Samoa",
         "Senegal",
         "Seychelles",
-        "Tajikistan"
+        "Suriname"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
         "Uzbekistan",
@@ -38600,7 +38559,7 @@
         "Samoa",
         "Senegal",
         "Seychelles",
-        "Tajikistan"
+        "Suriname"
       ]
     },
     "Persons Borrowing from Credit Unions and Financial Cooperatives": {
@@ -38626,7 +38585,7 @@
         "Rwanda",
         "Samoa",
         "Seychelles",
-        "Tajikistan"
+        "Suriname"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
         "Uzbekistan",
@@ -38650,7 +38609,7 @@
         "Rwanda",
         "Samoa",
         "Seychelles",
-        "Tajikistan"
+        "Suriname"
       ]
     },
     "Outstanding Loans to Small and Medium Enterprisesat Other Deposit Takers": {
@@ -38718,7 +38677,7 @@
         "Senegal",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo"
       ],
       "Percent of GDP_Annual_Not Seasonally Adjusted": [
@@ -38763,7 +38722,7 @@
         "Senegal",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo"
       ]
     },
@@ -38829,7 +38788,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo"
       ],
       "National Currency_Annual_Not Seasonally Adjusted": [
@@ -38873,7 +38832,7 @@
         "Samoa",
         "Seychelles",
         "Solomon Islands",
-        "Tajikistan",
+        "Suriname",
         "Togo"
       ]
     },
@@ -38900,6 +38859,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Percent of Fiscal Year GDP_Annual_Not Seasonally Adjusted": [
@@ -38924,6 +38884,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -38950,6 +38911,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Percent of Fiscal Year GDP_Annual_Not Seasonally Adjusted": [
@@ -38974,6 +38936,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -40581,18 +40544,20 @@
     },
     "Household Accounts at Credit Unions and Financial Cooperatives": {
       "Household Accounts at Credit Unions and Financial Cooperatives": [
-        "Samoa",
+        "Suriname",
         "Bangladesh",
         "Chile",
         "Colombia",
-        "Guinea"
+        "Guinea",
+        "Samoa"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
-        "Samoa",
+        "Suriname",
         "Bangladesh",
         "Chile",
         "Colombia",
-        "Guinea"
+        "Guinea",
+        "Samoa"
       ]
     },
     "Household Accounts at Other Financial Intermediaries": {
@@ -40711,8 +40676,7 @@
         "Comoros",
         "Fiji",
         "Samoa",
-        "Serbia",
-        "Tajikistan"
+        "Serbia"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
         "Ukraine",
@@ -40721,28 +40685,29 @@
         "Comoros",
         "Fiji",
         "Samoa",
-        "Serbia",
-        "Tajikistan"
+        "Serbia"
       ]
     },
     "Number of Depositors at Other Financial Intermediaries": {
       "Number of Depositors at Other Financial Intermediaries": [
-        "Samoa",
+        "Suriname",
         "Bangladesh",
         "Brunei Darussalam",
         "Guinea",
         "Kyrgyz Republic",
         "Maldives",
-        "Rwanda"
+        "Rwanda",
+        "Samoa"
       ],
       "Number_Annual_Not Seasonally Adjusted": [
-        "Samoa",
+        "Suriname",
         "Bangladesh",
         "Brunei Darussalam",
         "Guinea",
         "Kyrgyz Republic",
         "Maldives",
-        "Rwanda"
+        "Rwanda",
+        "Samoa"
       ]
     },
     "Number of Depositors which are Small and Medium Enterprises at Other Financial Intermediaries": {
@@ -41956,7 +41921,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -41984,7 +41948,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42014,7 +41977,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42042,7 +42004,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42075,7 +42036,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42106,7 +42066,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42136,7 +42095,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42167,7 +42125,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42198,7 +42155,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42229,7 +42185,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42260,7 +42215,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42291,7 +42245,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42325,7 +42278,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42356,7 +42308,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42386,7 +42337,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42417,7 +42367,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42448,7 +42397,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42479,7 +42427,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42510,7 +42457,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42541,7 +42487,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates",
@@ -42572,7 +42517,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42600,7 +42544,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42663,7 +42606,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tunisia",
         "Turkmenistan",
@@ -42728,7 +42670,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tunisia",
         "Turkmenistan",
@@ -42793,7 +42734,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tunisia",
         "Turkmenistan",
@@ -42858,7 +42798,6 @@
         "Sudan",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tunisia",
         "Turkmenistan",
@@ -42892,7 +42831,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42920,7 +42858,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42950,7 +42887,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -42978,7 +42914,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43008,7 +42943,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43036,7 +42970,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43106,7 +43039,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43134,7 +43066,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43164,7 +43095,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43192,7 +43122,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43222,7 +43151,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43250,7 +43178,6 @@
         "Saudi Arabia",
         "Sudan",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Tunisia",
         "Turkmenistan",
         "United Arab Emirates"
@@ -43400,7 +43327,6 @@
         "Slovenia",
         "Sudan",
         "Swaziland",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -43503,7 +43429,6 @@
         "Slovenia",
         "Sudan",
         "Swaziland",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -43631,9 +43556,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -43761,9 +43686,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -43893,9 +43818,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -44023,9 +43948,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -44154,9 +44079,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -44283,9 +44208,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -44413,9 +44338,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -44541,9 +44466,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -44673,9 +44598,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -44803,9 +44728,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -44935,9 +44860,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -45065,9 +44990,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -45197,9 +45122,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -45327,9 +45252,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -45460,9 +45385,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -45592,9 +45517,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -45703,7 +45628,6 @@
         "Mozambique",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -45731,9 +45655,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -45842,7 +45766,6 @@
         "Mozambique",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -45870,9 +45793,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -45983,7 +45906,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -46013,9 +45935,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -46123,7 +46045,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -46153,9 +46074,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -46263,7 +46184,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -46293,9 +46213,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -46402,7 +46322,6 @@
         "Mozambique",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -46432,9 +46351,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -46539,7 +46458,6 @@
         "Mozambique",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -46569,9 +46487,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -46680,7 +46598,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -46710,9 +46627,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -46819,7 +46736,6 @@
         "Myanmar",
         "Namibia",
         "Nepal",
-        "New Caledonia",
         "Nicaragua",
         "Niger",
         "Nigeria",
@@ -46849,9 +46765,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -47062,8 +46978,8 @@
         "Sierra Leone",
         "Slovenia",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -47176,8 +47092,8 @@
         "Sierra Leone",
         "Slovenia",
         "Sudan",
+        "Suriname",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -47293,9 +47209,9 @@
         "Sierra Leone",
         "Slovenia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -47410,9 +47326,9 @@
         "Sierra Leone",
         "Slovenia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Trinidad and Tobago",
         "Tunisia",
@@ -48220,9 +48136,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -48346,9 +48262,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -48475,9 +48391,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -48603,9 +48519,9 @@
         "Solomon Islands",
         "Somalia",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -48733,9 +48649,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -48862,9 +48778,9 @@
         "Slovenia",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -48937,7 +48853,6 @@
         "Slovenia",
         "Sudan",
         "Swaziland",
-        "Tajikistan",
         "Trinidad and Tobago",
         "Tunisia",
         "Turkey",
@@ -49003,7 +48918,6 @@
         "Slovenia",
         "Sudan",
         "Swaziland",
-        "Tajikistan",
         "Trinidad and Tobago",
         "Tunisia",
         "Turkey",
@@ -49134,9 +49048,9 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -49272,9 +49186,9 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
         "Syrian Arab Republic",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -49410,8 +49324,8 @@
         "Sierra Leone",
         "Solomon Islands",
         "Sudan",
+        "Suriname",
         "Swaziland",
-        "Tajikistan",
         "Togo",
         "Tonga",
         "Trinidad and Tobago",
@@ -49789,6 +49703,7 @@
         "Senegal",
         "Seychelles",
         "Slovenia",
+        "Suriname",
         "Trinidad and Tobago",
         "Tunisia",
         "Turkey",
@@ -49850,6 +49765,7 @@
         "Senegal",
         "Seychelles",
         "Slovenia",
+        "Suriname",
         "Trinidad and Tobago",
         "Tunisia",
         "Turkey",
@@ -50676,6 +50592,7 @@
         "Seychelles",
         "Sierra Leone",
         "South Sudan",
+        "Suriname",
         "Swaziland",
         "Togo",
         "Trinidad and Tobago",
@@ -50737,6 +50654,7 @@
         "Seychelles",
         "Sierra Leone",
         "South Sudan",
+        "Suriname",
         "Swaziland",
         "Togo",
         "Trinidad and Tobago",
@@ -50798,6 +50716,7 @@
         "Seychelles",
         "Sierra Leone",
         "South Sudan",
+        "Suriname",
         "Swaziland",
         "Togo",
         "Trinidad and Tobago",
@@ -52463,6 +52382,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Percent of GDP in U.S. Dollars_Annual_Not Seasonally Adjusted": [
@@ -52487,6 +52407,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -52513,6 +52434,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Percent of Fiscal Year GDP_Annual_Not Seasonally Adjusted": [
@@ -52537,6 +52459,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -52563,6 +52486,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Percent of Fiscal Year GDP_Annual_Not Seasonally Adjusted": [
@@ -52587,6 +52511,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -52613,6 +52538,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Percent of Fiscal Year GDP_Annual_Not Seasonally Adjusted": [
@@ -52637,6 +52563,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -52707,6 +52634,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "U.S. Dollars_Annual_Not Seasonally Adjusted": [
@@ -52731,6 +52659,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -52757,6 +52686,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ],
       "Current Prices_Annual_Not Seasonally Adjusted": [
@@ -52781,6 +52711,7 @@
         "Panama",
         "Paraguay",
         "Peru",
+        "Suriname",
         "Trinidad and Tobago"
       ]
     },
@@ -55646,6 +55577,216 @@
         "Saudi Arabia"
       ]
     },
+    "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices": {
+      "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Investment Share of Purchasing Power Parity Converted GDP Per Capita at current prices": {
+      "Investment Share of Purchasing Power Parity Converted GDP Per Capita at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices": {
+      "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Ratio of GNP to GDP": {
+      "Ratio of GNP to GDP": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": {
+      "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": {
+      "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Investment Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": {
+      "Investment Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Percent_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Per Capita, average GEKS-CPDW, at current prices": {
+      "Purchasing Power Parity Converted GDP Per Capita, average GEKS-CPDW, at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "International Dollars_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, average GEKS-CPDW, at current prices": {
+      "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, average GEKS-CPDW, at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "U.S.=100_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, G-K method, at current prices": {
+      "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, G-K method, at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "U.S.=100_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Price Level of GDP, average of GEKS-CPDW": {
+      "Price Level of GDP, average of GEKS-CPDW": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "U.S.=100_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Price Level of GDP, G-K method": {
+      "Price Level of GDP, G-K method": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "U.S.=100_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Per Capita, G-K method, at current prices": {
+      "Purchasing Power Parity Converted GDP Per Capita, G-K method, at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "International Dollars_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Total Purchasing Power Parity Converted GDP, G-K method, at current prices": {
+      "Total Purchasing Power Parity Converted GDP, G-K method, at current prices": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "Millions of International Dollars_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity over GDP": {
+      "Purchasing Power Parity over GDP": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "National Currency Units per US Dollar_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Per Capita (Chain Series)": {
+      "Purchasing Power Parity Converted GDP Per Capita (Chain Series)": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "2005 International Dollars per Person_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Chain per equivalent adult": {
+      "Purchasing Power Parity Converted GDP Chain per equivalent adult": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "2005 International Dollars per Equivalent Adult_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of domestic absorption": {
+      "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of domestic absorption": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "2005 International Dollars per Person_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of Consumption, Government Consumption, Investment": {
+      "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of Consumption, Government Consumption, Investment": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "2005 International Dollars per Person_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Laspeyres per worker": {
+      "Purchasing Power Parity Converted GDP Laspeyres per worker": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "2005 International Dollars per Worker_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
+    "Purchasing Power Parity Converted GDP Chain per worker": {
+      "Purchasing Power Parity Converted GDP Chain per worker": [
+        "Ukraine",
+        "Suriname"
+      ],
+      "2005 International Dollars per Worker_Annual_Not Seasonally Adjusted": [
+        "Ukraine",
+        "Suriname"
+      ]
+    },
     "Expenditure-side Real GDP at Current Purchasing Power Parities": {
       "Expenditure-side Real GDP at Current Purchasing Power Parities": [
         "Ukraine"
@@ -55659,22 +55800,6 @@
         "Ukraine"
       ],
       "Millions of 2017 U.S. Dollars_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices": {
-      "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Investment Share of Purchasing Power Parity Converted GDP Per Capita at current prices": {
-      "Investment Share of Purchasing Power Parity Converted GDP Per Capita at current prices": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
         "Ukraine"
       ]
     },
@@ -55694,83 +55819,11 @@
         "Ukraine"
       ]
     },
-    "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices": {
-      "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at current prices": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Ratio of GNP to GDP": {
-      "Ratio of GNP to GDP": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": {
-      "Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": {
-      "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Investment Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": {
-      "Investment Share of Purchasing Power Parity Converted GDP Per Capita at constant prices": [
-        "Ukraine"
-      ],
-      "Percent_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
     "Share of Labour Compensation in GDP at Current National Prices": {
       "Share of Labour Compensation in GDP at Current National Prices": [
         "Ukraine"
       ],
       "Ratio_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Per Capita, average GEKS-CPDW, at current prices": {
-      "Purchasing Power Parity Converted GDP Per Capita, average GEKS-CPDW, at current prices": [
-        "Ukraine"
-      ],
-      "International Dollars_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, average GEKS-CPDW, at current prices": {
-      "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, average GEKS-CPDW, at current prices": [
-        "Ukraine"
-      ],
-      "U.S.=100_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, G-K method, at current prices": {
-      "Purchasing Power Parity Converted GDP Per Capita Relative to the United States, G-K method, at current prices": [
-        "Ukraine"
-      ],
-      "U.S.=100_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Price Level of GDP, average of GEKS-CPDW": {
-      "Price Level of GDP, average of GEKS-CPDW": [
-        "Ukraine"
-      ],
-      "U.S.=100_Annual_Not Seasonally Adjusted": [
         "Ukraine"
       ]
     },
@@ -55782,83 +55835,11 @@
         "Ukraine"
       ]
     },
-    "Price Level of GDP, G-K method": {
-      "Price Level of GDP, G-K method": [
-        "Ukraine"
-      ],
-      "U.S.=100_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Per Capita, G-K method, at current prices": {
-      "Purchasing Power Parity Converted GDP Per Capita, G-K method, at current prices": [
-        "Ukraine"
-      ],
-      "International Dollars_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Total Purchasing Power Parity Converted GDP, G-K method, at current prices": {
-      "Total Purchasing Power Parity Converted GDP, G-K method, at current prices": [
-        "Ukraine"
-      ],
-      "Millions of International Dollars_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity over GDP": {
-      "Purchasing Power Parity over GDP": [
-        "Ukraine"
-      ],
-      "National Currency Units per US Dollar_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Per Capita (Chain Series)": {
-      "Purchasing Power Parity Converted GDP Per Capita (Chain Series)": [
-        "Ukraine"
-      ],
-      "2005 International Dollars per Person_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Chain per equivalent adult": {
-      "Purchasing Power Parity Converted GDP Chain per equivalent adult": [
-        "Ukraine"
-      ],
-      "2005 International Dollars per Equivalent Adult_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
     "Expenditure-side Real GDP at Chained Purchasing Power Parities": {
       "Expenditure-side Real GDP at Chained Purchasing Power Parities": [
         "Ukraine"
       ],
       "Millions of 2017 U.S. Dollars_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of domestic absorption": {
-      "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of domestic absorption": [
-        "Ukraine"
-      ],
-      "2005 International Dollars per Person_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of Consumption, Government Consumption, Investment": {
-      "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of Consumption, Government Consumption, Investment": [
-        "Ukraine"
-      ],
-      "2005 International Dollars per Person_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Laspeyres per worker": {
-      "Purchasing Power Parity Converted GDP Laspeyres per worker": [
-        "Ukraine"
-      ],
-      "2005 International Dollars per Worker_Annual_Not Seasonally Adjusted": [
         "Ukraine"
       ]
     },
@@ -55883,14 +55864,6 @@
         "Ukraine"
       ],
       "2005 International Dollars per Person Counted in Total Employment_Annual_Not Seasonally Adjusted": [
-        "Ukraine"
-      ]
-    },
-    "Purchasing Power Parity Converted GDP Chain per worker": {
-      "Purchasing Power Parity Converted GDP Chain per worker": [
-        "Ukraine"
-      ],
-      "2005 International Dollars per Worker_Annual_Not Seasonally Adjusted": [
         "Ukraine"
       ]
     },

@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "LFEMTTTTRUM647S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Employed Population: Aged 15 and Over: All Persons for the Russian Federation",
     "observation_start": "2009-08-01",
     "observation_end": "2021-12-01",
@@ -14,14 +14,14 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-03-10 10:41:14-06",
     "popularity": 2,
-    "group_popularity": 3,
+    "group_popularity": 2,
     "notes": "OECD descriptor ID: LFEMTTTT\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Russian Federation"
   },
   "Israel": {
     "id": "LFEMTTTTILQ657S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Employed Population: Aged 15 and Over: All Persons for Israel",
     "observation_start": "1995-04-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Luxembourg": {
     "id": "LFEMTTTTLUQ657S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Employed Population: Aged 15 and Over: All Persons for Luxembourg",
     "observation_start": "2007-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Poland": {
     "id": "LFEMTTTTPLQ657S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Employed Population: Aged 15 and Over: All Persons for Poland",
     "observation_start": "1992-04-01",
     "observation_end": "2022-01-01",
@@ -77,8 +77,8 @@
   },
   "Slovak Republic": {
     "id": "LFEMTTTTSKQ657S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Employed Population: Aged 15 and Over: All Persons for the Slovak Republic",
     "observation_start": "1993-04-01",
     "observation_end": "2022-01-01",
@@ -96,8 +96,8 @@
   },
   "Slovenia": {
     "id": "LFEMTTTTSIQ657S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Employed Population: Aged 15 and Over: All Persons for Slovenia",
     "observation_start": "1999-04-01",
     "observation_end": "2022-01-01",
@@ -115,8 +115,8 @@
   },
   "Turkey": {
     "id": "LFEMTTTTTRQ657S",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Employed Population: Aged 15 and Over: All Persons for Turkey",
     "observation_start": "2000-01-01",
     "observation_end": "2022-01-01",
@@ -128,7 +128,7 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-09-14 14:40:21-05",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 5,
     "notes": "OECD descriptor ID: LFEMTTTT\nOECD unit ID: GPSA\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Turkey"
   }

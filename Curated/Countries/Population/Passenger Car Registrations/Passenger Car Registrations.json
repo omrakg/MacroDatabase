@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRSACRAISMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Passenger Car Registrations in Israel",
       "observation_start": "2004-01-01",
       "observation_end": "2020-01-01",
@@ -23,8 +23,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRSACRMISMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Passenger Car Registrations in Israel",
       "observation_start": "2004-01-01",
       "observation_end": "2022-06-01",
@@ -44,8 +44,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRSACRQISMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Passenger Car Registrations in Israel",
       "observation_start": "2004-01-01",
       "observation_end": "2018-07-01",

@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLCPIHICAINMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Hungary": {
       "id": "HUNCPIHICMINMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-07-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLCPIHICMINMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-07-01",
@@ -61,8 +61,8 @@
     },
     "Hungary": {
       "id": "HUNCPIHICMINMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Consumer Price Index: All Items (Harmonized Index of Consumer Prices) for Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-07-01",

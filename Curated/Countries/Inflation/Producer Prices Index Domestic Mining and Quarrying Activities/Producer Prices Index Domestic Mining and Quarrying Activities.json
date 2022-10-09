@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PIEAMI02RUA661N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Producer Prices Index: Economic Activities: Domestic Mining and Quarrying Activities for the Russian Federation",
       "observation_start": "1998-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PIEAMI02RUM661N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Producer Prices Index: Economic Activities: Domestic Mining and Quarrying Activities for the Russian Federation",
       "observation_start": "1998-01-01",
       "observation_end": "2022-01-01",
@@ -44,8 +44,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PIEAMI02RUQ661N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Producer Prices Index: Economic Activities: Domestic Mining and Quarrying Activities for the Russian Federation",
       "observation_start": "1998-01-01",
       "observation_end": "2021-10-01",

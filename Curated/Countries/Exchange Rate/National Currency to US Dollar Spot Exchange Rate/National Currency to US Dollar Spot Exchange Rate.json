@@ -2,8 +2,8 @@
   "New Israeli Sheqel_Annual_Not Seasonally Adjusted": {
     "Israel": {
       "id": "CCUSSP02ILA650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2021-01-01",
@@ -14,15 +14,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:44:23-05",
-      "popularity": 2,
-      "group_popularity": 8,
+      "popularity": 1,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Russian Federation": {
       "id": "CCUSSP02RUQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-04-01",
       "observation_end": "2022-04-01",
@@ -34,14 +34,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-08-11 14:52:57-05",
       "popularity": 1,
-      "group_popularity": 21,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Slovenia": {
       "id": "CCUSSP02SIQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
   "New Israeli Sheqel_Monthly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "CCUSSP02ILM650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2022-07-01",
@@ -73,15 +73,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 14:51:11-05",
-      "popularity": 6,
-      "group_popularity": 8,
+      "popularity": 8,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Russian Federation": {
       "id": "CCUSSP02RUQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-04-01",
       "observation_end": "2022-04-01",
@@ -93,14 +93,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-08-11 14:52:57-05",
       "popularity": 1,
-      "group_popularity": 21,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Slovenia": {
       "id": "CCUSSP02SIQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -120,8 +120,8 @@
   "New Israeli Sheqel_Quarterly_Not Seasonally Adjusted": {
     "Israel": {
       "id": "CCUSSP02ILQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -133,14 +133,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:03:27-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Russian Federation": {
       "id": "CCUSSP02RUQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-04-01",
       "observation_end": "2022-04-01",
@@ -152,14 +152,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-08-11 14:52:57-05",
       "popularity": 1,
-      "group_popularity": 21,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Slovenia": {
       "id": "CCUSSP02SIQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -179,8 +179,8 @@
   "Russian Ruble_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "CCUSSP02RUA650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2021-01-01",
@@ -191,15 +191,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-02-15 10:35:13-06",
-      "popularity": 1,
-      "group_popularity": 21,
+      "popularity": 2,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Israel": {
       "id": "CCUSSP02ILQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -211,14 +211,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:03:27-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Slovenia": {
       "id": "CCUSSP02SIQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -238,8 +238,8 @@
   "Russian Ruble_Monthly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "CCUSSP02RUM650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-06-01",
       "observation_end": "2022-07-01",
@@ -250,15 +250,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 14:47:10-05",
-      "popularity": 20,
-      "group_popularity": 21,
+      "popularity": 17,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Israel": {
       "id": "CCUSSP02ILQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -270,14 +270,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:03:27-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Slovenia": {
       "id": "CCUSSP02SIQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -297,8 +297,8 @@
   "Russian Ruble_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "CCUSSP02RUQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-04-01",
       "observation_end": "2022-04-01",
@@ -310,14 +310,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-08-11 14:52:57-05",
       "popularity": 1,
-      "group_popularity": 21,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Israel": {
       "id": "CCUSSP02ILQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -329,14 +329,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:03:27-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Slovenia": {
       "id": "CCUSSP02SIQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -356,8 +356,8 @@
   "Euro_Annual_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "CCUSSP02SIA650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1992-01-01",
       "observation_end": "2021-01-01",
@@ -375,8 +375,8 @@
     },
     "Israel": {
       "id": "CCUSSP02ILQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -388,14 +388,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:03:27-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Russian Federation": {
       "id": "CCUSSP02RUQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-04-01",
       "observation_end": "2022-04-01",
@@ -407,7 +407,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-08-11 14:52:57-05",
       "popularity": 1,
-      "group_popularity": 21,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -415,8 +415,8 @@
   "Euro_Monthly_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "CCUSSP02SIM650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1991-12-01",
       "observation_end": "2022-08-01",
@@ -434,8 +434,8 @@
     },
     "Israel": {
       "id": "CCUSSP02ILQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -447,14 +447,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:03:27-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Russian Federation": {
       "id": "CCUSSP02RUQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-04-01",
       "observation_end": "2022-04-01",
@@ -466,7 +466,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-08-11 14:52:57-05",
       "popularity": 1,
-      "group_popularity": 21,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -474,8 +474,8 @@
   "Euro_Quarterly_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "CCUSSP02SIQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Slovenia",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -493,8 +493,8 @@
     },
     "Israel": {
       "id": "CCUSSP02ILQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for Israel",
       "observation_start": "1960-01-01",
       "observation_end": "2022-04-01",
@@ -506,14 +506,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:03:27-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 9,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: ISR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Israel"
     },
     "Russian Federation": {
       "id": "CCUSSP02RUQ650N",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "National Currency to US Dollar Spot Exchange Rate for the Russian Federation",
       "observation_start": "1992-04-01",
       "observation_end": "2022-04-01",
@@ -525,7 +525,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-08-11 14:52:57-05",
       "popularity": 1,
-      "group_popularity": 21,
+      "group_popularity": 18,
       "notes": "OECD descriptor ID: CCUSSP02\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }

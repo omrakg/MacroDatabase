@@ -2,8 +2,8 @@
   "Growth rate same period previous year_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGDPRAPSMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Constant Price Gross Domestic Product in Israel",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Hungary": {
       "id": "HUNGDPRQPSMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Constant Price Gross Domestic Product in Hungary",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -40,8 +40,8 @@
     },
     "Iceland": {
       "id": "ISLGDPRQPSMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Constant Price Gross Domestic Product in Iceland",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
   "Growth rate same period previous year_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGDPRQPSMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Constant Price Gross Domestic Product in Israel",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -80,8 +80,8 @@
     },
     "Hungary": {
       "id": "HUNGDPRQPSMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Constant Price Gross Domestic Product in Hungary",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -99,8 +99,8 @@
     },
     "Iceland": {
       "id": "ISLGDPRQPSMEI",
-      "realtime_start": "2022-10-02",
-      "realtime_end": "2022-10-02",
+      "realtime_start": "2022-10-09",
+      "realtime_end": "2022-10-09",
       "title": "Constant Price Gross Domestic Product in Iceland",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",

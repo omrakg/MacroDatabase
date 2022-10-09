@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NFIRXDCSAA",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Real Gross Fixed Capital Formation for Saudi Arabia",
     "observation_start": "2010-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NFIRXDCARA",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Real Gross Fixed Capital Formation for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Great Britain": {
     "id": "NFIRXDCGBA",
-    "realtime_start": "2022-10-02",
-    "realtime_end": "2022-10-02",
+    "realtime_start": "2022-10-09",
+    "realtime_end": "2022-10-09",
     "title": "Real Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
