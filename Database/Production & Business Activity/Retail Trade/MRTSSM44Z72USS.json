@@ -1,7 +1,7 @@
 {
   "id": "MRTSSM44Z72USS",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Retail Sales: Retail Trade and Food Services, Excluding Gasoline Stations",
   "observation_start": "1992-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-15 09:06:16-05",
-  "popularity": 6,
-  "group_popularity": 8
+  "popularity": 5,
+  "group_popularity": 6
 }

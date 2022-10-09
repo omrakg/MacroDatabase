@@ -1,7 +1,7 @@
 {
   "id": "IDX",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Export Price Index (Harmonized System): Pulp of Wood or of Other Fibrous Cellulosic Material; Waste and Scrap of Paper or Paperboard; Paper and Paperboard and Articles Thereof",
   "observation_start": "1992-12-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-15 07:37:07-05",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

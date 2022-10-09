@@ -1,7 +1,7 @@
 {
   "id": "PCU31311031311015",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Producer Price Index by Industry: Fiber, Yarn, and Thread Mills: Rayon, Acetate, and Lyocell Spun Yarns (DISCONTINUED)",
   "observation_start": "1972-01-01",
   "observation_end": "2006-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2015-05-15 08:47:13-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 5,
+  "group_popularity": 5
 }

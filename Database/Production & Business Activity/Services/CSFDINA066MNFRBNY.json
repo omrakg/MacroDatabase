@@ -1,7 +1,7 @@
 {
   "id": "CSFDINA066MNFRBNY",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Future Capital Spending; Diffusion Index for FRB - New York District",
   "observation_start": "2004-09-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-16 07:31:03-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Future Capital Spending reports the likely direction of capital spending for the service sector over the six months ahead for the state of New York, Northern New Jersey, and Fairfield County, Connecticut. For more information regarding the Business Leaders Survey release from the Federal Reserve Bank of New York visit: http://www.newyorkfed.org/survey/business_leaders/bls_overview.html."
 }

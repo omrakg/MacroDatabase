@@ -1,7 +1,7 @@
 {
   "id": "HQRMT",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Real Manufacturing and Trade Industries Sales",
   "observation_start": "1967-01-01",
   "observation_end": "1996-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2013-06-14 10:46:09-05",
   "popularity": 1,
-  "group_popularity": 51,
+  "group_popularity": 49,
   "notes": "BEA Account Code: KHPMT\nReal Manufacturing and Trade Industries Sales is the historical series used to calculate CQRMTSPL (https://fred.stlouisfed.org/series/CQRMTSPL). This series is based on the Standard Industrial Classification (SIC) system, which is no longer published with this release. The SIC was replaced by the North American Industry Classification System (NAICS), and the NAICS series is CQRMT (https://fred.stlouisfed.org/series/CQRMT)."
 }

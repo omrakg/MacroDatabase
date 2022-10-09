@@ -1,7 +1,7 @@
 {
   "id": "MRTSIM441USN",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Retail Inventories: Motor Vehicle and Parts Dealers",
   "observation_start": "1992-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-15 09:07:25-05",
   "popularity": 1,
-  "group_popularity": 14,
+  "group_popularity": 15,
   "notes": "This series represents monthly statistics of complete coverage. The advance estimate of the current month and revised estimate of the prior month of nearly complete coverage is available on FRED at https://fred.stlouisfed.org/series/ARIMVPN"
 }

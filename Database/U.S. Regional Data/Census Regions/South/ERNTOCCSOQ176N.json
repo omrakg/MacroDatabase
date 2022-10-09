@@ -1,7 +1,7 @@
 {
   "id": "ERNTOCCSOQ176N",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Housing Inventory Estimate: Renter Occupied Housing Units in the South Census Region",
   "observation_start": "2000-04-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-02 09:31:12-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "A housing unit is occupied if a person or group of persons is living in it at the time of the interview or if the occupants are only temporarily absent, as for example, on vacation. The persons living in the unit must consider it their usual place of residence or have no usual place of residence elsewhere. The count of occupied housing units is the same as the count of households."
 }

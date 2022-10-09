@@ -1,7 +1,7 @@
 {
   "id": "TSITTL",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Combined Transportation Services Index",
   "observation_start": "2000-01-01",
   "observation_end": "2022-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-07 09:01:17-05",
-  "popularity": 15,
-  "group_popularity": 16,
+  "popularity": 14,
+  "group_popularity": 14,
   "notes": "This data is collected by the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS), Transportation Services Index available here (https://data.bts.gov/Research-and-Statistics/Transportation-Services-Index-and-Seasonally-Adjus/bw6n-ddqk)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "CUURA208SAH",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Consumer Price Index for All Urban Consumers: Housing in Detroit-Warren-Dearborn, MI (CBSA)",
   "observation_start": "1976-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-13 07:40:23-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 4,
+  "group_popularity": 4
 }

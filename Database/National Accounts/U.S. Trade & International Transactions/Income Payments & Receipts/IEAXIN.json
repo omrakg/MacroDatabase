@@ -1,7 +1,7 @@
 {
   "id": "IEAXIN",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Primary income receipts",
   "observation_start": "1999-01-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-22 08:47:42-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

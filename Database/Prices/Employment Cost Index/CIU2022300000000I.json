@@ -1,7 +1,7 @@
 {
   "id": "CIU2022300000000I",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Construction",
   "observation_start": "2001-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-29 07:51:06-05",
-  "popularity": 9,
-  "group_popularity": 9
+  "popularity": 12,
+  "group_popularity": 12
 }

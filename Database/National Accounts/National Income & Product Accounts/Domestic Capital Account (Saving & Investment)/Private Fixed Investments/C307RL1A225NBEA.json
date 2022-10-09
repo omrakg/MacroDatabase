@@ -1,7 +1,7 @@
 {
   "id": "C307RL1A225NBEA",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Real Private Fixed Investment: Nonresidential: Structures: Manufacturing",
   "observation_start": "1948-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 14:24:49-05",
   "popularity": 1,
-  "group_popularity": 12,
+  "group_popularity": 11,
   "notes": "BEA Account Code: C307RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

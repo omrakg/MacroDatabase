@@ -1,7 +1,7 @@
 {
   "id": "U31SVS",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Manufacturers' Value of Shipments: Primary Metals",
   "observation_start": "1992-01-01",
   "observation_end": "2022-08-01",
@@ -11,7 +11,7 @@
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-27 07:31:12-05",
+  "last_updated": "2022-10-04 09:06:12-05",
   "popularity": 1,
   "group_popularity": 3
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPS5121",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Producer Price Index by Commodity: Health Care Services: Inpatient Care",
   "observation_start": "2009-06-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-14 07:53:32-05",
-  "popularity": 8,
-  "group_popularity": 43
+  "popularity": 10,
+  "group_popularity": 44
 }

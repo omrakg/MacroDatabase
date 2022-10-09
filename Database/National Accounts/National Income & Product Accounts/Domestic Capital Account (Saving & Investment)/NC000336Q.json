@@ -1,7 +1,7 @@
 {
   "id": "NC000336Q",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Private Nonresidential Fixed Investment",
   "observation_start": "2002-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:47:07-05",
-  "popularity": 6,
-  "group_popularity": 54,
+  "popularity": 7,
+  "group_popularity": 51,
   "notes": "BEA Account Code: NC000336"
 }

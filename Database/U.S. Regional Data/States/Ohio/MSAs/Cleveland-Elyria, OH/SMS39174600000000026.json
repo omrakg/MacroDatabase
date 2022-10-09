@@ -1,7 +1,7 @@
 {
   "id": "SMS39174600000000026",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "All Employees: Total Nonfarm in Cleveland-Elyria, OH (MSA)",
   "observation_start": "1990-04-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-17 02:45:14-05",
   "popularity": 1,
-  "group_popularity": 7
+  "group_popularity": 4
 }

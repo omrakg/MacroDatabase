@@ -1,18 +1,18 @@
 {
   "id": "CEU0800000016",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Indexes of Aggregate Weekly Hours of All Employees, Private Service-Providing",
   "observation_start": "2006-03-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index 2007=100",
   "units_short": "Index 2007=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-02 07:46:12-05",
+  "last_updated": "2022-10-07 07:45:00-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU0800000016"
 }

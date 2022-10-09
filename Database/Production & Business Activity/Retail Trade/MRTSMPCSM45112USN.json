@@ -1,7 +1,7 @@
 {
   "id": "MRTSMPCSM45112USN",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Retail Sales: Hobby, Toy, and Game Stores",
   "observation_start": "1992-02-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-15 09:07:19-05",
-  "popularity": 3,
-  "group_popularity": 19,
+  "popularity": 4,
+  "group_popularity": 26,
   "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
 }

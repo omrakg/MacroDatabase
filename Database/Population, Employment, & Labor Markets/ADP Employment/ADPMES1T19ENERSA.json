@@ -1,17 +1,17 @@
 {
   "id": "ADPMES1T19ENERSA",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Nonfarm Private Employment in Small Establishments with 1 to 19 Employees",
   "observation_start": "2010-01-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Persons",
   "units_short": "Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-09-02 14:33:09-05",
-  "popularity": 0,
-  "group_popularity": 1
+  "last_updated": "2022-10-05 10:40:16-05",
+  "popularity": 3,
+  "group_popularity": 4
 }

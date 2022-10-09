@@ -1,7 +1,7 @@
 {
   "id": "WPU063",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Drugs and Pharmaceuticals",
   "observation_start": "1947-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:52:36-05",
-  "popularity": 7,
-  "group_popularity": 9
+  "popularity": 6,
+  "group_popularity": 7
 }

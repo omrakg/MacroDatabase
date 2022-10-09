@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS29820Q",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "All-Transactions House Price Index for Las Vegas-Henderson-Paradise, NV (MSA)",
   "observation_start": "1978-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-30 09:02:07-05",
-  "popularity": 54,
-  "group_popularity": 54,
+  "popularity": 55,
+  "group_popularity": 55,
   "notes": "Estimated using sales prices and appraisal data."
 }

@@ -1,7 +1,7 @@
 {
   "id": "MRTSSM44511USN",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Retail Sales: Supermarkets and Other Grocery (Except Convenience) Stores",
   "observation_start": "2001-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-15 09:06:14-05",
-  "popularity": 12,
-  "group_popularity": 13,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "Information about the Monthly Retail Trade Survey can be found on the Census website at https://www.census.gov/retail/mrts/about_the_surveys.html"
 }

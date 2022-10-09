@@ -1,7 +1,7 @@
 {
   "id": "IPDCONGD",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Industrial Production: Durable Consumer Goods",
   "observation_start": "1947-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-15 08:18:08-05",
-  "popularity": 24,
-  "group_popularity": 26,
+  "popularity": 21,
+  "group_popularity": 23,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nFor more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors\n\nSource Code: IP.B51100.S"
 }

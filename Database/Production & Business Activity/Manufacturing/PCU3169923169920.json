@@ -1,7 +1,7 @@
 {
   "id": "PCU3169923169920",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Producer Price Index by Industry: Women's Handbag and Purse Manufacturing: Women's and Children's Handbags and Purses",
   "observation_start": "2006-06-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:56:13-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 3,
+  "group_popularity": 3
 }

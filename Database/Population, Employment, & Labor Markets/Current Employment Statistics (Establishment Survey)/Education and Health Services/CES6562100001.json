@@ -1,18 +1,18 @@
 {
   "id": "CES6562100001",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "All Employees, Ambulatory Health Care Services",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-09-02 07:44:55-05",
-  "popularity": 7,
+  "last_updated": "2022-10-07 07:44:22-05",
+  "popularity": 6,
   "group_popularity": 7,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES6562100001"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU067902",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Explosives, Propellants, and Blasting Accessories",
   "observation_start": "1947-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:52:38-05",
-  "popularity": 5,
-  "group_popularity": 12
+  "popularity": 3,
+  "group_popularity": 11
 }

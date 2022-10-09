@@ -1,7 +1,7 @@
 {
   "id": "STTMINWGSD",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "State Minimum Wage Rate for South Dakota",
   "observation_start": "1970-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-01 13:33:21-06",
-  "popularity": 23,
-  "group_popularity": 23,
+  "popularity": 17,
+  "group_popularity": 17,
   "notes": "State minimum wage is changed annually based on changes in the CPI and a cost of living formula.\n\nFor more information, visit https://www.dol.gov/whd/state/stateMinWageHis.htm"
 }

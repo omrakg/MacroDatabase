@@ -1,7 +1,7 @@
 {
   "id": "DRLFRACBN",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Delinquency Rate on Lease Financing Receivables, All Commercial Banks",
   "observation_start": "1987-01-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-22 13:18:58-05",
-  "popularity": 4,
-  "group_popularity": 24
+  "popularity": 5,
+  "group_popularity": 25
 }

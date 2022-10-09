@@ -1,7 +1,7 @@
 {
   "id": "WPU102807",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Castings, Nonferrous (Except Aluminum)",
   "observation_start": "2011-12-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:57:35-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

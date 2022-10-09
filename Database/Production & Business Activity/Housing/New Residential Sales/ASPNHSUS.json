@@ -1,7 +1,7 @@
 {
   "id": "ASPNHSUS",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Average Sales Price for New Houses Sold in the United States",
   "observation_start": "1975-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-27 09:01:06-05",
-  "popularity": 52,
-  "group_popularity": 53
+  "popularity": 50,
+  "group_popularity": 51
 }

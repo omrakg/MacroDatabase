@@ -1,7 +1,7 @@
 {
   "id": "AZNA",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "All Employees: Total Nonfarm in Arizona",
   "observation_start": "1990-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-17 02:33:02-05",
-  "popularity": 10,
-  "group_popularity": 12
+  "popularity": 13,
+  "group_popularity": 14
 }

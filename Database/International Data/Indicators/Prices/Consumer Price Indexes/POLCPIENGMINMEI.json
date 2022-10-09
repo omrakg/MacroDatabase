@@ -1,7 +1,7 @@
 {
   "id": "POLCPIENGMINMEI",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Consumer Price Index: Energy for Poland",
   "observation_start": "1995-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 14:47:18-05",
   "popularity": 5,
-  "group_popularity": 17,
+  "group_popularity": 16,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

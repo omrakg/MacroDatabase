@@ -1,7 +1,7 @@
 {
   "id": "CMRMTSPL",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Real Manufacturing and Trade Industries Sales",
   "observation_start": "1967-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-30 07:49:02-05",
-  "popularity": 49,
-  "group_popularity": 51,
+  "popularity": 47,
+  "group_popularity": 49,
   "notes": "Real Manufacturing and Trade Industries Sales (CMRMTSPL) was first constructed by the Federal Reserve Bank of St. Louis in June 2013. It is calculated using Real Manufacturing and Trade Industries Sales (HMRMT) (https://fred.stlouisfed.org/series/HMRMT) and Real Manufacturing and Trade Industries (CMRMT) (https://fred.stlouisfed.org/series/CMRMT).\n\nBefore January 1997\nlag1(HMRMT) = one observation earlier than current time period observation\nHMRMT_PC = the growth rate of HMRMT\nlead1(CMRMTSPL) = one observation later than current time period observation\nHMRMT_PC = [HMRMT/lag1(HMRMT) \u20131]\nCMRMTSPL= lead1(CMRMTSPL)/(1+HMRMT_PC)\n\nAfter December 1996\nCMRMTSPL= CMRMT"
 }

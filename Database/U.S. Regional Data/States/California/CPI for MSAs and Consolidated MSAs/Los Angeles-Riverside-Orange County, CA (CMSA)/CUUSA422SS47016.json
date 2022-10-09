@@ -1,7 +1,7 @@
 {
   "id": "CUUSA422SS47016",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in San Francisco-Oakland-Hayward, CA (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2022-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-13 07:47:26-05",
   "popularity": 0,
-  "group_popularity": 1
+  "group_popularity": 2
 }

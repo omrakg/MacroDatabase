@@ -1,7 +1,7 @@
 {
   "id": "DEUPRMNTO01IXOBM",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Production: Manufacturing: Total manufacturing: Total manufacturing for Germany",
   "observation_start": "1960-01-01",
   "observation_end": "2022-06-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 15:35:03-05",
   "popularity": 1,
-  "group_popularity": 12,
+  "group_popularity": 17,
   "notes": "OECD descriptor ID: PRMNTO01 OECD unit ID: IXOB OECD country ID: DEU All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

@@ -1,7 +1,7 @@
 {
   "id": "LAKE412NA",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "All Employees: Total Nonfarm in Lakeland-Winter Haven, FL (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-17 02:46:15-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

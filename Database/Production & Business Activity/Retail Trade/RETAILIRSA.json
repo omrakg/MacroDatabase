@@ -1,7 +1,7 @@
 {
   "id": "RETAILIRSA",
-  "realtime_start": "2022-10-02",
-  "realtime_end": "2022-10-02",
+  "realtime_start": "2022-10-09",
+  "realtime_end": "2022-10-09",
   "title": "Retailers: Inventories to Sales Ratio",
   "observation_start": "1992-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-15 09:01:05-05",
-  "popularity": 67,
-  "group_popularity": 67,
+  "popularity": 68,
+  "group_popularity": 68,
   "notes": "The inventories to sales ratios show the relationship of the end-of-month values of inventory to the monthly sales. These ratios can be looked at as indications of the number of months of inventory that are on hand in relation to the sales for a month. For example, a ratio of 2.5 would indicate that the retail stores have enough merchandise on hand to cover two and a half months of sales."
 }
