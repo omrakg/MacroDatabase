@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "FXRATEUAA618NUPN",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "Exchange Rate to U.S. Dollar for Ukraine",
     "observation_start": "1993-01-01",
     "observation_end": "2010-01-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2012-08-31 14:30:46-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 8,
+    "group_popularity": 8,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: XRAT",
     "path": "Database/International Data/Countries/Ukraine"
   },
   "Suriname": {
     "id": "FXRATESRA618NUPN",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "Exchange Rate to U.S. Dollar for Suriname",
     "observation_start": "1950-01-01",
     "observation_end": "2010-01-01",
@@ -32,8 +32,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2012-09-17 11:13:43-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "For more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: XRAT",
     "path": "Database/International Data/Countries/Suriname"
   }

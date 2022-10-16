@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "PL2GDPUAA621NUPN",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "Price Level of GDP, average of GEKS-CPDW for Ukraine",
     "observation_start": "1993-01-01",
     "observation_end": "2010-01-01",
@@ -20,8 +20,8 @@
   },
   "Suriname": {
     "id": "PL2GDPSRA621NUPN",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "Price Level of GDP, average of GEKS-CPDW for Suriname",
     "observation_start": "1970-01-01",
     "observation_end": "2010-01-01",

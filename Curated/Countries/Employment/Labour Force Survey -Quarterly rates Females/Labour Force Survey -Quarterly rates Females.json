@@ -2,8 +2,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULRIN24FESTQ",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Labour Force Survey -Quarterly rates: Inactivity rate: Aged 15-24: Females for Lithuania",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",
@@ -23,8 +23,8 @@
   "Percent_Quarterly_Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULRIN24FESTSAQ",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Labour Force Survey -Quarterly rates: Inactivity rate: Aged 15-24: Females for Lithuania",
       "observation_start": "2005-01-01",
       "observation_end": "2022-01-01",

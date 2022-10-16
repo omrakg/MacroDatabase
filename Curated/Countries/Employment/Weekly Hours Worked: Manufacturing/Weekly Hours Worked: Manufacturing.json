@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "HOHWMN02TRA661N",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2021-01-01",
@@ -15,7 +15,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:42:37-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: HOHWMN02\nOECD unit ID: IXOB\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Turkey"
     }
@@ -23,8 +23,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "HOHWMN02TRQ661N",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2022-04-01",
@@ -35,8 +35,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 14:40:51-05",
-      "popularity": 1,
-      "group_popularity": 1,
+      "popularity": 2,
+      "group_popularity": 2,
       "notes": "OECD descriptor ID: HOHWMN02\nOECD unit ID: IXOB\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Turkey"
     }
