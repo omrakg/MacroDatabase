@@ -24,9 +24,9 @@
 | LAURD840000000000005  | Employed Persons in West North Central Census Division                                                                           | 1976-01-01          | 2022-08-01        |
 | LAURD840000000000005A | Employed Persons in West North Central Census Division                                                                           | 1976-01-01          | 2021-01-01        |
 | LAURD840000000000006A | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2021-01-01        |
-| PCU221122221122414    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for West North Central Census Division | 1990-12-01          | 2022-08-01        |
-| PCU221122221122424    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for West North Central Census Division  | 1971-01-01          | 2022-08-01        |
-| PCU221122221122434    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for West North Central Census Division  | 1971-01-01          | 2022-08-01        |
+| PCU221122221122414    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for West North Central Census Division | 1990-12-01          | 2022-09-01        |
+| PCU221122221122424    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for West North Central Census Division  | 1971-01-01          | 2022-09-01        |
+| PCU221122221122434    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for West North Central Census Division  | 1971-01-01          | 2022-09-01        |
 | PONHPI00107M226N      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-07-01        |
 | PONHPI00107M226S      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-07-01        |
 | PONHPI10700Q226N      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-04-01        |

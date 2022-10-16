@@ -1,12 +1,2 @@
-| id           | title                                                                                                                         | observation_start   | observation_end   |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| MORTGAGE1SW  | 1-Year Adjustable Rate Mortgage Average in the Southwest Freddie Mac Region (DISCONTINUED)                                    | 1986-04-04          | 2015-12-31        |
-| MORTGAGE5SW  | 5/1-Year Adjustable Rate Mortgage Average in the Southwest Freddie Mac Region (DISCONTINUED)                                  | 2005-01-06          | 2015-12-31        |
-| MORTGAGE15SW | 15-Year Fixed Rate Mortgage Average in the Southwest Freddie Mac Region (DISCONTINUED)                                        | 1991-08-30          | 2015-12-31        |
-| MORTGAGE30SW | 30-Year Fixed Rate Mortgage Average in the Southwest Freddie Mac Region (DISCONTINUED)                                        | 1976-03-26          | 2015-12-31        |
-| MORTMRGN1SW  | Margin for 1-Year Adjustable Rate Mortgage in the Southwest Freddie Mac Region (DISCONTINUED)                                 | 1988-02-19          | 2015-12-31        |
-| MORTMRGN5SW  | Margin for 5/1-Year Adjustable Rate Mortgage in the Southwest Freddie Mac Region (DISCONTINUED)                               | 2005-01-06          | 2015-12-31        |
-| MORTPTS1SW   | Origination Fees and Discount Points for 1-Year Adjustable Rate Mortgage in the Southwest Freddie Mac Region (DISCONTINUED)   | 1986-04-04          | 2015-12-31        |
-| MORTPTS5SW   | Origination Fees and Discount Points for 5/1-Year Adjustable Rate Mortgage in the Southwest Freddie Mac Region (DISCONTINUED) | 2005-01-06          | 2015-12-31        |
-| MORTPTS15SW  | Origination Fees and Discount Points for 15-Year Fixed Rate Mortgage in the Southwest Freddie Mac Region (DISCONTINUED)       | 1991-08-30          | 2015-12-31        |
-| MORTPTS30SW  | Origination Fees and Discount Points for 30-Year Fixed Rate Mortgage in the Southwest Freddie Mac Region (DISCONTINUED)       | 1976-03-26          | 2015-12-31        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

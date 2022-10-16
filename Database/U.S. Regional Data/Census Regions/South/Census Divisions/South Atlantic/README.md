@@ -24,9 +24,9 @@
 | LAURD850000000000005  | Employed Persons in South Atlantic Census Division                                                                           | 1976-01-01          | 2022-08-01        |
 | LAURD850000000000005A | Employed Persons in South Atlantic Census Division                                                                           | 1976-01-01          | 2021-01-01        |
 | LAURD850000000000006A | Civilian Labor Force in South Atlantic Census Division                                                                       | 1976-01-01          | 2021-01-01        |
-| PCU221122221122415    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for South Atlantic Census Division | 1990-12-01          | 2022-08-01        |
-| PCU221122221122425    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for South Atlantic Census Division  | 1971-01-01          | 2022-08-01        |
-| PCU221122221122435    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for South Atlantic Census Division  | 1971-01-01          | 2022-08-01        |
+| PCU221122221122415    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for South Atlantic Census Division | 1990-12-01          | 2022-09-01        |
+| PCU221122221122425    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for South Atlantic Census Division  | 1971-01-01          | 2022-09-01        |
+| PCU221122221122435    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for South Atlantic Census Division  | 1971-01-01          | 2022-09-01        |
 | PONHPI00103M226N      | Purchase Only House Price Index for the South Atlantic Census Division                                                       | 1991-01-01          | 2022-07-01        |
 | PONHPI00103M226S      | Purchase Only House Price Index for the South Atlantic Census Division                                                       | 1991-01-01          | 2022-07-01        |
 | PONHPI10300Q226N      | Purchase Only House Price Index for the South Atlantic Census Division                                                       | 1991-01-01          | 2022-04-01        |

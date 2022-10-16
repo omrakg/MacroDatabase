@@ -59,10 +59,6 @@
 | SMU39446009093161101   | All Employees: Local Government Educational Services in Steubenville-Weirton, OH-WV (MSA) (DISCONTINUED)    | 1990-01-01          | 2014-12-01        |
 | SMU39446009093161101A  | All Employees: Local Government Educational Services in Steubenville-Weirton, OH-WV (MSA) (DISCONTINUED)    | 1990-01-01          | 2013-01-01        |
 | SMU39446009093161101SA | All Employees: Local Government Educational Services in Steubenville-Weirton, OH-WV (MSA) (DISCONTINUED)    | 1990-01-01          | 2014-12-01        |
-| WEIR239EDUHN           | All Employees: Education and Health Services in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED)            | 1990-01-01          | 2007-12-01        |
-| WEIR239GOVTN           | All Employees: Government in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED)                               | 1993-01-01          | 2007-12-01        |
-| WEIR239LEIHN           | All Employees: Leisure and Hospitality in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED)                  | 1990-01-01          | 2007-12-01        |
-| WEIR239MFGN            | All Employees: Manufacturing in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED)                            | 1990-01-01          | 2007-12-01        |
-| WEIR239NRMNN           | All Employees: Mining, Logging, and Construction in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED)        | 1990-01-01          | 2007-12-01        |
-| WEIR239PBSVN           | All Employees: Professional and Business Services in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED)       | 1990-01-01          | 2007-12-01        |
-| WEIR239TRADN           | All Employees: Trade, Transportation, and Utilities in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED)     | 1990-01-01          | 2007-12-01        |
+| SMU39482600500000002SA | Average Weekly Hours of All Employees: Total Private in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU39482600500000003SA | Average Hourly Earnings of All Employees: Total Private in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU39482600500000011SA | Average Weekly Earnings of All Employees: Total Private in Weirton-Steubenville, WV-OH (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

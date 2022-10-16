@@ -56,7 +56,7 @@
 | HORAMSA19660              | Market Hotness: Hotness Rank in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | HORAYYMSA19660            | Market Hotness: Hotness Rank in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
 | HOSCMSA19660              | Market Hotness: Hotness Score in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
-| IHLCHG19660               | Job Postings on Indeed in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                  | 2020-02-01          | 2022-09-30        |
+| IHLCHG19660               | Job Postings on Indeed in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                  | 2020-02-01          | 2022-10-07        |
 | IRPD19660                 | Implicit Regional Price Deflator for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT121966000000003A     | Unemployment Rate in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT121966000000004      | Unemployed Persons in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |

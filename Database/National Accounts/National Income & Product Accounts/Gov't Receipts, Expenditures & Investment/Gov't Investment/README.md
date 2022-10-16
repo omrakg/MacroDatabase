@@ -10,7 +10,7 @@
 | A782RC1Q027SBEA  | Gross government investment                                                                                                             | 1947-01-01          | 2022-04-01        |
 | A782RL1A225NBEA  | Real Government Gross Investment                                                                                                        | 1930-01-01          | 2021-01-01        |
 | A782RL1Q225SBEA  | Real Government Gross Investment                                                                                                        | 1947-04-01          | 2022-04-01        |
-| A782RX1A020NBEA  | Real gross government investment                                                                                                        | 2002-01-01          | 2021-01-01        |
+| A782RX1A020NBEA  | Real gross government investment                                                                                                        | 1967-01-01          | 2021-01-01        |
 | A782RX1Q020SBEA  | Real government consumption expenditures and gross investment: Gross investment: Equipment and software                                 | 2002-01-01          | 2022-04-01        |
 | A787RC1A027NBEA  | Gross government investment: Federal                                                                                                    | 1929-01-01          | 2021-01-01        |
 | A787RC1Q027SBEA  | Gross government investment: Federal                                                                                                    | 1947-01-01          | 2022-04-01        |
@@ -31,12 +31,12 @@
 | A830RL1Q225SBEA  | Real Government Gross Investment: Federal: Nondefense: Gross Investment: Structures                                                     | 1947-04-01          | 2022-04-01        |
 | A842RL1A225NBEA  | Real Government Gross Investment: State and Local: Gross Investment: Structures                                                         | 1930-01-01          | 2021-01-01        |
 | A842RL1Q225SBEA  | Real Government Gross Investment: State and Local: Gross Investment: Structures                                                         | 1947-04-01          | 2022-04-01        |
-| A889RX1A020NBEA  | Real net government investment                                                                                                          | 1967-01-01          | 2020-01-01        |
-| A890RX1A020NBEA  | Real net government investment: Federal                                                                                                 | 1967-01-01          | 2020-01-01        |
-| A895RC1A027NBEA  | Net government investment: Net structures                                                                                               | 2001-01-01          | 2021-01-01        |
-| A895RX1A020NBEA  | Real net government investment: Net structures                                                                                          | 2002-01-01          | 2020-01-01        |
-| A896RC1A027NBEA  | Net government investment: Net structures: Federal                                                                                      | 2001-01-01          | 2021-01-01        |
-| A896RX1A020NBEA  | Real net government investment: Net structures: Federal                                                                                 | 2002-01-01          | 2020-01-01        |
+| A889RX1A020NBEA  | Real net government investment                                                                                                          | 1967-01-01          | 2021-01-01        |
+| A890RX1A020NBEA  | Real net government investment: Federal                                                                                                 | 1967-01-01          | 2021-01-01        |
+| A895RC1A027NBEA  | Net government investment: Net structures                                                                                               | 1929-01-01          | 2021-01-01        |
+| A895RX1A020NBEA  | Real net government investment: Net structures                                                                                          | 2002-01-01          | 2021-01-01        |
+| A896RC1A027NBEA  | Net government investment: Net structures: Federal                                                                                      | 1929-01-01          | 2021-01-01        |
+| A896RX1A020NBEA  | Real net government investment: Net structures: Federal                                                                                 | 2002-01-01          | 2021-01-01        |
 | AB64RC1A027NBEA  | Motor vehicle output: Gross government investment                                                                                       | 1967-01-01          | 2021-01-01        |
 | AB64RC1Q027SBEA  | Motor vehicle output: Gross government investment                                                                                       | 1967-01-01          | 2022-04-01        |
 | AB64RX1A020NBEA  | Real motor vehicle output: Gross government investment                                                                                  | 2002-01-01          | 2021-01-01        |
@@ -49,17 +49,17 @@
 | B708RC1Q027SBEA  | Motor vehicle output: Gross government investment: Trucks                                                                               | 1967-01-01          | 2022-04-01        |
 | B708RX1A020NBEA  | Real motor vehicle output: Gross government investment: Trucks                                                                          | 2002-01-01          | 2021-01-01        |
 | B708RX1Q020SBEA  | Real motor vehicle output: Gross government investment: Trucks                                                                          | 2002-01-01          | 2022-04-01        |
-| B891RC1A027NBEA  | Net government investment: Federal: National defense                                                                                    | 1929-01-01          | 2020-01-01        |
-| B891RX1A020NBEA  | Real net government investment: Federal: National defense                                                                               | 1967-01-01          | 2020-01-01        |
-| B892RC1A027NBEA  | Net government investment: Federal: Nondefense                                                                                          | 1929-01-01          | 2020-01-01        |
-| B892RX1A020NBEA  | Real net government investment: Federal: Nondefense                                                                                     | 1967-01-01          | 2020-01-01        |
-| B893RX1A020NBEA  | Real net government investment: State and local                                                                                         | 1967-01-01          | 2020-01-01        |
-| B897RC1A027NBEA  | Net government investment: Net structures: Federal: National defense                                                                    | 1929-01-01          | 2020-01-01        |
-| B897RX1A020NBEA  | Real net government investment: Net structures: Federal: National defense                                                               | 2002-01-01          | 2020-01-01        |
-| B898RC1A027NBEA  | Net government investment: Net structures: Federal: Nondefense                                                                          | 1929-01-01          | 2020-01-01        |
-| B898RX1A020NBEA  | Real net government investment: Net structures: Federal: Nondefense                                                                     | 2002-01-01          | 2020-01-01        |
-| B899RC1A027NBEA  | Net government investment: Net structures: State and local                                                                              | 2001-01-01          | 2021-01-01        |
-| B899RX1A020NBEA  | Real net government investment: Net structures: State and local                                                                         | 2002-01-01          | 2020-01-01        |
+| B891RC1A027NBEA  | Net government investment: Federal: National defense                                                                                    | 1929-01-01          | 2021-01-01        |
+| B891RX1A020NBEA  | Real net government investment: Federal: National defense                                                                               | 1967-01-01          | 2021-01-01        |
+| B892RC1A027NBEA  | Net government investment: Federal: Nondefense                                                                                          | 1929-01-01          | 2021-01-01        |
+| B892RX1A020NBEA  | Real net government investment: Federal: Nondefense                                                                                     | 1967-01-01          | 2021-01-01        |
+| B893RX1A020NBEA  | Real net government investment: State and local                                                                                         | 1967-01-01          | 2021-01-01        |
+| B897RC1A027NBEA  | Net government investment: Net structures: Federal: National defense                                                                    | 1929-01-01          | 2021-01-01        |
+| B897RX1A020NBEA  | Real net government investment: Net structures: Federal: National defense                                                               | 2002-01-01          | 2021-01-01        |
+| B898RC1A027NBEA  | Net government investment: Net structures: Federal: Nondefense                                                                          | 1929-01-01          | 2021-01-01        |
+| B898RX1A020NBEA  | Real net government investment: Net structures: Federal: Nondefense                                                                     | 2002-01-01          | 2021-01-01        |
+| B899RC1A027NBEA  | Net government investment: Net structures: State and local                                                                              | 1929-01-01          | 2021-01-01        |
+| B899RX1A020NBEA  | Real net government investment: Net structures: State and local                                                                         | 2002-01-01          | 2021-01-01        |
 | FEDGOVCONTRIBNOW | Contributions to percent change in GDPNow: Real Gross Government Investment: Federal Government                                         | 2014-04-01          | 2022-07-01        |
 | FEDGOVNOW        | Nowcast for Real Gross Government Investment: Federal Government                                                                        | 2012-04-01          | 2022-07-01        |
 | GOVCONTRIBNOW    | Contributions to percent change in GDPNow: Real Gross Government Investment                                                             | 2014-04-01          | 2022-07-01        |
@@ -189,27 +189,27 @@
 | Y076RL1Q225SBEA  | Real Government Gross Investment: Federal: National Defense: Gross Investment: Intellectual Property Products: Research and Development | 1947-04-01          | 2022-04-01        |
 | Y076RX1A020NBEA  | Real Government Gross Investment: Federal: National Defense: Gross Investment: Intellectual Property Products: Research and Development | 2002-01-01          | 2021-01-01        |
 | Y076RX1Q020SBEA  | Real Government Gross Investment: Federal: National Defense: Gross Investment: Intellectual Property Products: Research and Development | 2002-01-01          | 2022-04-01        |
-| Y085RC1A027NBEA  | Government investment: Equipment: Consumption of fixed capital                                                                          | 1929-01-01          | 2020-01-01        |
-| Y085RX1A020NBEA  | Real government investment: Equipment: Consumption of fixed capital                                                                     | 2002-01-01          | 2020-01-01        |
-| Y086RC1A027NBEA  | Government investment: Net Equipment                                                                                                    | 1929-01-01          | 2020-01-01        |
-| Y086RX1A020NBEA  | Real government investment: Net Equipment                                                                                               | 2002-01-01          | 2020-01-01        |
-| Y087RC1A027NBEA  | Government investment: Net equipment: Federal                                                                                           | 1929-01-01          | 2020-01-01        |
-| Y087RX1A020NBEA  | Real government investment: Net Equipment: Federal                                                                                      | 2002-01-01          | 2020-01-01        |
-| Y088RC1A027NBEA  | Government investment: Net equipment: Federal: National defense                                                                         | 1929-01-01          | 2020-01-01        |
-| Y088RX1A020NBEA  | Real government investment: Net equipment: Federal: National defense                                                                    | 2002-01-01          | 2020-01-01        |
-| Y089RC1A027NBEA  | Government investment: Net equipment: Federal: Nondefense                                                                               | 1929-01-01          | 2020-01-01        |
-| Y089RX1A020NBEA  | Real government investment: Net equipment: Federal: Nondefense                                                                          | 2002-01-01          | 2020-01-01        |
-| Y090RC1A027NBEA  | Government investment: Net equipment: State and local                                                                                   | 2001-01-01          | 2021-01-01        |
-| Y090RX1A020NBEA  | Real government investment: Net equipment: State and local                                                                              | 2002-01-01          | 2020-01-01        |
-| Y091RC1A027NBEA  | Government investment: Intellectual property products: Consumption of fixed capital                                                     | 1929-01-01          | 2020-01-01        |
-| Y091RX1A020NBEA  | Real government investment: Intellectual property products: Consumption of fixed capital                                                | 2002-01-01          | 2020-01-01        |
-| Y092RC1A027NBEA  | Government investment: Net intellectual property products                                                                               | 2001-01-01          | 2021-01-01        |
-| Y092RX1A020NBEA  | Real government investment: Net intellectual property products                                                                          | 2002-01-01          | 2020-01-01        |
-| Y093RC1A027NBEA  | Government investment: Net intellectual property products: Federal                                                                      | 1929-01-01          | 2020-01-01        |
-| Y093RX1A020NBEA  | Real government investment: Net intellectual property products: Federal                                                                 | 2002-01-01          | 2020-01-01        |
-| Y094RC1A027NBEA  | Government investment: Net intellectual property products: Federal: National defense                                                    | 1929-01-01          | 2020-01-01        |
-| Y094RX1A020NBEA  | Real government investment: Net intellectual property products: Federal: National defense                                               | 2002-01-01          | 2020-01-01        |
-| Y095RC1A027NBEA  | Government investment: Net intellectual property products: Federal: Nondefense                                                          | 1929-01-01          | 2020-01-01        |
-| Y095RX1A020NBEA  | Real government investment: Net intellectual property products: Federal: Nondefense                                                     | 2002-01-01          | 2020-01-01        |
-| Y096RC1A027NBEA  | Government investment: Net intellectual property products: State and local                                                              | 2001-01-01          | 2021-01-01        |
-| Y096RX1A020NBEA  | Real government investment: Net intellectual property products: State and local                                                         | 2002-01-01          | 2020-01-01        |
+| Y085RC1A027NBEA  | Government investment: Equipment: Consumption of fixed capital                                                                          | 1929-01-01          | 2021-01-01        |
+| Y085RX1A020NBEA  | Real government investment: Equipment: Consumption of fixed capital                                                                     | 2002-01-01          | 2021-01-01        |
+| Y086RC1A027NBEA  | Government investment: Net Equipment                                                                                                    | 1929-01-01          | 2021-01-01        |
+| Y086RX1A020NBEA  | Real government investment: Net Equipment                                                                                               | 2002-01-01          | 2021-01-01        |
+| Y087RC1A027NBEA  | Government investment: Net equipment: Federal                                                                                           | 1929-01-01          | 2021-01-01        |
+| Y087RX1A020NBEA  | Real government investment: Net Equipment: Federal                                                                                      | 2002-01-01          | 2021-01-01        |
+| Y088RC1A027NBEA  | Government investment: Net equipment: Federal: National defense                                                                         | 1929-01-01          | 2021-01-01        |
+| Y088RX1A020NBEA  | Real government investment: Net equipment: Federal: National defense                                                                    | 2002-01-01          | 2021-01-01        |
+| Y089RC1A027NBEA  | Government investment: Net equipment: Federal: Nondefense                                                                               | 1929-01-01          | 2021-01-01        |
+| Y089RX1A020NBEA  | Real government investment: Net equipment: Federal: Nondefense                                                                          | 2002-01-01          | 2021-01-01        |
+| Y090RC1A027NBEA  | Government investment: Net equipment: State and local                                                                                   | 1929-01-01          | 2021-01-01        |
+| Y090RX1A020NBEA  | Real government investment: Net equipment: State and local                                                                              | 2002-01-01          | 2021-01-01        |
+| Y091RC1A027NBEA  | Government investment: Intellectual property products: Consumption of fixed capital                                                     | 1929-01-01          | 2021-01-01        |
+| Y091RX1A020NBEA  | Real government investment: Intellectual property products: Consumption of fixed capital                                                | 2002-01-01          | 2021-01-01        |
+| Y092RC1A027NBEA  | Government investment: Net intellectual property products                                                                               | 1929-01-01          | 2021-01-01        |
+| Y092RX1A020NBEA  | Real government investment: Net intellectual property products                                                                          | 2002-01-01          | 2021-01-01        |
+| Y093RC1A027NBEA  | Government investment: Net intellectual property products: Federal                                                                      | 1929-01-01          | 2021-01-01        |
+| Y093RX1A020NBEA  | Real government investment: Net intellectual property products: Federal                                                                 | 2002-01-01          | 2021-01-01        |
+| Y094RC1A027NBEA  | Government investment: Net intellectual property products: Federal: National defense                                                    | 1929-01-01          | 2021-01-01        |
+| Y094RX1A020NBEA  | Real government investment: Net intellectual property products: Federal: National defense                                               | 2002-01-01          | 2021-01-01        |
+| Y095RC1A027NBEA  | Government investment: Net intellectual property products: Federal: Nondefense                                                          | 1929-01-01          | 2021-01-01        |
+| Y095RX1A020NBEA  | Real government investment: Net intellectual property products: Federal: Nondefense                                                     | 2002-01-01          | 2021-01-01        |
+| Y096RC1A027NBEA  | Government investment: Net intellectual property products: State and local                                                              | 1929-01-01          | 2021-01-01        |
+| Y096RX1A020NBEA  | Real government investment: Net intellectual property products: State and local                                                         | 2002-01-01          | 2021-01-01        |

@@ -1,7 +1,7 @@
 | id              | title                                                                                                                                          | observation_start   | observation_end   |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | CUURA320SA0     | Consumer Price Index for All Urban Consumers: All Items in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                    | 1977-11-01          | 2022-08-01        |
-| CUURA320SA0E    | Consumer Price Index for All Urban Consumers: Energy in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                       | 1977-11-01          | 2022-08-01        |
+| CUURA320SA0E    | Consumer Price Index for All Urban Consumers: Energy in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                       | 1977-11-01          | 2022-09-01        |
 | CUURA320SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)               | 1982-01-01          | 2022-08-01        |
 | CUURA320SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                       | 1977-11-01          | 2022-08-01        |
 | CUURA320SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                  | 1977-11-01          | 2022-08-01        |
@@ -16,16 +16,16 @@
 | CUURA320SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)         | 2009-12-01          | 2022-08-01        |
 | CUURA320SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                           | 1977-11-01          | 2022-08-01        |
 | CUURA320SAF1    | Consumer Price Index for All Urban Consumers: Food in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                         | 1977-11-01          | 2022-08-01        |
-| CUURA320SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                 | 1977-11-01          | 2022-08-01        |
+| CUURA320SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                 | 1977-11-01          | 2022-09-01        |
 | CUURA320SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                          | 1977-11-01          | 2022-08-01        |
 | CUURA320SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                     | 1977-11-01          | 2022-08-01        |
 | CUURA320SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                  | 2009-12-01          | 2022-08-01        |
 | CUURA320SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                      | 2009-12-01          | 2022-08-01        |
 | CUURA320SAH     | Consumer Price Index for All Urban Consumers: Housing in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                      | 1977-11-01          | 2022-08-01        |
-| CUURA320SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                      | 1977-11-01          | 2022-08-01        |
+| CUURA320SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                      | 1977-11-01          | 2022-09-01        |
 | CUURA320SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                          | 1977-11-01          | 2022-08-01        |
 | CUURA320SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)         | 1977-11-01          | 2022-08-01        |
-| CUURA320SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                             | 1977-11-01          | 2022-08-01        |
+| CUURA320SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                             | 1977-11-01          | 2022-09-01        |
 | CUURA320SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)           | 2009-12-01          | 2022-08-01        |
 | CUURA320SAM     | Consumer Price Index for All Urban Consumers: Medical Care in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                 | 1977-11-01          | 2022-08-01        |
 | CUURA320SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                  | 1977-11-01          | 2022-08-01        |
@@ -39,17 +39,17 @@
 | CUURA320SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                       | 1977-11-01          | 2022-08-01        |
 | CUURA320SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)   | 2009-12-01          | 2022-08-01        |
 | CUURA320SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                          | 1977-11-01          | 2022-08-01        |
-| CUURA320SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                    | 1977-11-01          | 2022-08-01        |
-| CUURA320SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)        | 1982-11-01          | 2022-08-01        |
-| CUURA320SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA) | 1982-11-01          | 2022-08-01        |
-| CUURA320SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                              | 1977-11-01          | 2022-08-01        |
-| CUURA320SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                  | 1977-11-01          | 2022-08-01        |
-| CUURA320SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                  | 1977-11-01          | 2022-08-01        |
-| CUURA320SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                   | 1977-11-01          | 2022-08-01        |
-| CUURA320SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                         | 1977-11-01          | 2022-08-01        |
-| CUURA320SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                   | 1978-06-01          | 2022-08-01        |
-| CUURA320SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                  | 1993-12-01          | 2022-08-01        |
-| CUURA320SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                   | 1981-08-01          | 2022-08-01        |
+| CUURA320SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                    | 1977-11-01          | 2022-09-01        |
+| CUURA320SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)        | 1982-11-01          | 2022-09-01        |
+| CUURA320SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA) | 1982-11-01          | 2022-09-01        |
+| CUURA320SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                              | 1977-11-01          | 2022-09-01        |
+| CUURA320SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                  | 1977-11-01          | 2022-09-01        |
+| CUURA320SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                  | 1977-11-01          | 2022-09-01        |
+| CUURA320SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                   | 1977-11-01          | 2022-09-01        |
+| CUURA320SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                         | 1977-11-01          | 2022-09-01        |
+| CUURA320SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                   | 1978-06-01          | 2022-09-01        |
+| CUURA320SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                  | 1993-12-01          | 2022-09-01        |
+| CUURA320SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                   | 1981-08-01          | 2022-09-01        |
 | CUUSA320SA0     | Consumer Price Index for All Urban Consumers: All Items in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                    | 1984-01-01          | 2022-01-01        |
 | CUUSA320SA0E    | Consumer Price Index for All Urban Consumers: Energy in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)                                       | 1984-01-01          | 2022-01-01        |
 | CUUSA320SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Miami-Fort Lauderdale-West Palm Beach, FL (CBSA)               | 1984-01-01          | 2022-01-01        |

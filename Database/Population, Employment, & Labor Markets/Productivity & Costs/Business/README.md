@@ -1,15 +1,15 @@
 | id                 | title                                                                                                                                 | observation_start   | observation_end   |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CFSBCACTIVITY      | Chicago Fed Survey of Business Conditions: Activity Index in Federal Reserve District 7: Chicago                                      | 2013-01-01          | 2022-08-01        |
-| CFSBCACTIVITYMFG   | Chicago Fed Survey of Business Conditions: Manufacturing Activity Index in Federal Reserve District 7: Chicago                        | 2013-01-01          | 2022-08-01        |
-| CFSBCACTIVITYNMFG  | Chicago Fed Survey of Business Conditions: Nonmanufacturing Activity Index in Federal Reserve District 7: Chicago                     | 2013-01-01          | 2022-08-01        |
+| CFSBCACTIVITY      | Chicago Fed Survey of Business Conditions: Activity Index in Federal Reserve District 7: Chicago                                      | 2013-01-01          | 2022-09-01        |
+| CFSBCACTIVITYMFG   | Chicago Fed Survey of Business Conditions: Manufacturing Activity Index in Federal Reserve District 7: Chicago                        | 2013-01-01          | 2022-09-01        |
+| CFSBCACTIVITYNMFG  | Chicago Fed Survey of Business Conditions: Nonmanufacturing Activity Index in Federal Reserve District 7: Chicago                     | 2013-01-01          | 2022-09-01        |
 | CFSBCCAPX          | Chicago Fed Survey of Business Conditions: Current Capital Spending Index in Federal Reserve District 7: Chicago                      | 2013-02-01          | 2019-09-01        |
-| CFSBCCAPXEXP       | Chicago Fed Survey of Business Conditions: Capital Spending Expectations in the next 12 Months in Federal Reserve District 7: Chicago | 2013-01-01          | 2022-08-01        |
-| CFSBCHIRING        | Chicago Fed Survey of Business Conditions: Current Hiring Index in Federal Reserve District 7: Chicago                                | 2013-01-01          | 2022-08-01        |
-| CFSBCHIRINGEXP     | Chicago Fed Survey of Business Conditions: Hiring Expectations in the next 12 Months in Federal Reserve District 7: Chicago           | 2013-01-01          | 2022-08-01        |
-| CFSBCLABORCOSTS    | Chicago Fed Survey of Business Conditions: Labor Costs Index in Federal Reserve District 7: Chicago                                   | 2013-01-01          | 2022-08-01        |
-| CFSBCNONLABORCOSTS | Chicago Fed Survey of Business Conditions: Nonlabor Costs Index in Federal Reserve District 7: Chicago                                | 2013-01-01          | 2022-08-01        |
-| CFSBCOUTLOOK       | Chicago Fed Survey of Business Conditions: 12 month Outlook for the US Economy in Federal Reserve District 7: Chicago                 | 2013-01-01          | 2022-08-01        |
+| CFSBCCAPXEXP       | Chicago Fed Survey of Business Conditions: Capital Spending Expectations in the next 12 Months in Federal Reserve District 7: Chicago | 2013-01-01          | 2022-09-01        |
+| CFSBCHIRING        | Chicago Fed Survey of Business Conditions: Current Hiring Index in Federal Reserve District 7: Chicago                                | 2013-01-01          | 2022-09-01        |
+| CFSBCHIRINGEXP     | Chicago Fed Survey of Business Conditions: Hiring Expectations in the next 12 Months in Federal Reserve District 7: Chicago           | 2013-01-01          | 2022-09-01        |
+| CFSBCLABORCOSTS    | Chicago Fed Survey of Business Conditions: Labor Costs Index in Federal Reserve District 7: Chicago                                   | 2013-01-01          | 2022-09-01        |
+| CFSBCNONLABORCOSTS | Chicago Fed Survey of Business Conditions: Nonlabor Costs Index in Federal Reserve District 7: Chicago                                | 2013-01-01          | 2022-09-01        |
+| CFSBCOUTLOOK       | Chicago Fed Survey of Business Conditions: 12 month Outlook for the US Economy in Federal Reserve District 7: Chicago                 | 2013-01-01          | 2022-09-01        |
 | HCOMPBS            | Business Sector: Hourly Compensation for All Employed Persons                                                                         | 1947-01-01          | 2022-04-01        |
 | HOABS              | Business Sector: Hours Worked for All Employed Persons                                                                                | 1947-01-01          | 2022-04-01        |
 | IPDBS              | Business Sector: Implicit Price Deflator for All Employed Persons                                                                     | 1947-01-01          | 2022-04-01        |

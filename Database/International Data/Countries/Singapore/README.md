@@ -1,3 +1,5 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 0 |
+| id      | title                                               | observation_start   | observation_end   |
+|---------|-----------------------------------------------------|---------------------|-------------------|
+| AEXSIUS | Singapore Dollars to U.S. Dollar Spot Exchange Rate | 1981-01-01          | 2021-01-01        |
+| DEXSIUS | Singapore Dollars to U.S. Dollar Spot Exchange Rate | 1981-01-02          | 2022-10-07        |
+| EXSIUS  | Singapore Dollars to U.S. Dollar Spot Exchange Rate | 1981-01-01          | 2022-09-01        |

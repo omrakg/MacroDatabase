@@ -1,17 +1,17 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
 | Columbus, GA-AL                      |                 0 |
-| Albany, GA                           |               131 |
-| Warner Robins, GA                    |               141 |
-| Chattanooga, TN-GA                   |               165 |
-| Valdosta, GA                         |               104 |
-| Atlanta-Sandy Springs-Alpharetta, GA |               305 |
-| Dalton, GA                           |               123 |
-| Athens-Clarke County, GA             |               134 |
-| Brunswick, GA                        |               108 |
 | Augusta-Richmond County, GA-SC       |               159 |
-| Macon-Bibb County, GA                |               143 |
+| Atlanta-Sandy Springs-Alpharetta, GA |               305 |
+| Valdosta, GA                         |               104 |
 | Hinesville, GA                       |               100 |
-| Savannah, GA                         |               158 |
-| Rome, GA                             |               118 |
+| Athens-Clarke County, GA             |               134 |
+| Dalton, GA                           |               123 |
+| Warner Robins, GA                    |               141 |
 | Gainesville, GA                      |               128 |
+| Rome, GA                             |               118 |
+| Albany, GA                           |               131 |
+| Savannah, GA                         |               158 |
+| Brunswick, GA                        |               108 |
+| Macon-Bibb County, GA                |               143 |
+| Chattanooga, TN-GA                   |                 0 |

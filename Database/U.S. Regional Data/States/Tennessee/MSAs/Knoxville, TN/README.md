@@ -22,7 +22,7 @@
 | HORAMSA28940              | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | HORAYYMSA28940            | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
 | HOSCMSA28940              | Market Hotness: Hotness Score in Knoxville, TN (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
-| IHLCHG28940               | Job Postings on Indeed in Knoxville, TN (MSA)                                                                  | 2020-02-01          | 2022-09-30        |
+| IHLCHG28940               | Job Postings on Indeed in Knoxville, TN (MSA)                                                                  | 2020-02-01          | 2022-10-07        |
 | IRPD28940                 | Implicit Regional Price Deflator for Knoxville, TN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | KNOX947EDUH               | All Employees: Education and Health Services in Knoxville, TN (MSA)                                            | 1990-01-01          | 2022-08-01        |
 | KNOX947EDUHN              | All Employees: Education and Health Services in Knoxville, TN (MSA)                                            | 1990-01-01          | 2022-08-01        |

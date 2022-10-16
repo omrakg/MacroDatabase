@@ -36,6 +36,16 @@
 | CHIC917UR                 | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | CHIC917URN                | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
 | CHIPOP                    | Resident Population in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
+| CHXRCNSA                  | Condo Price Index for Chicago, Illinois                                                                                             | 1995-01-01          | 2022-07-01        |
+| CHXRCPSNSA                | Condo Price Sales Pair Counts for Chicago, Illinois                                                                                 | 1995-01-01          | 2022-07-01        |
+| CHXRCSA                   | Condo Price Index for Chicago, Illinois                                                                                             | 1995-01-01          | 2022-07-01        |
+| CHXRHTNSA                 | Home Price Index (High Tier) for Chicago, Illinois                                                                                  | 1992-01-01          | 2022-07-01        |
+| CHXRHTSA                  | Home Price Index (High Tier) for Chicago, Illinois                                                                                  | 1992-01-01          | 2022-07-01        |
+| CHXRLTNSA                 | Home Price Index (Low Tier) for Chicago, Illinois                                                                                   | 1992-01-01          | 2022-07-01        |
+| CHXRLTSA                  | Home Price Index (Low Tier) for Chicago, Illinois                                                                                   | 1992-01-01          | 2022-07-01        |
+| CHXRMTNSA                 | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2022-07-01        |
+| CHXRMTSA                  | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2022-07-01        |
+| CHXRPSNSA                 | Home Price Sales Pair Counts for Chicago, Illinois                                                                                  | 1987-01-01          | 2022-07-01        |
 | DESCMSA16980              | Market Hotness: Demand Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC169830010             | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC169830010SA           | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -53,7 +63,7 @@
 | HORAMSA16980              | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | HORAYYMSA16980            | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
 | HOSCMSA16980              | Market Hotness: Hotness Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
-| IHLCHG16980               | Job Postings on Indeed in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                  | 2020-02-01          | 2022-09-30        |
+| IHLCHG16980               | Job Postings on Indeed in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                  | 2020-02-01          | 2022-10-07        |
 | IRPD16980                 | Implicit Regional Price Deflator for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171698000000003A     | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT171698000000004      | Unemployed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                      | 1990-01-01          | 2022-08-01        |

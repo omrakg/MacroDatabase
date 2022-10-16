@@ -1,4 +1,4 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Urban Honolulu, HI          |                41 |
 | Kahului-Wailuku-Lahaina, HI |               160 |
+| Urban Honolulu, HI          |                 0 |
