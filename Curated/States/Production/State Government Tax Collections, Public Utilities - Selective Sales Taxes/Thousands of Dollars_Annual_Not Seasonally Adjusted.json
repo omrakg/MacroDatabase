@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIUTILITAX",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "State Government Tax Collections, Public Utilities - Selective Sales Taxes in Hawaii",
     "observation_start": "1955-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALUTILITAX",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "State Government Tax Collections, Public Utilities - Selective Sales Taxes in Alabama",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKUTILITAX",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "State Government Tax Collections, Public Utilities - Selective Sales Taxes in Alaska",
     "observation_start": "1957-01-01",
     "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZUTILITAX",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "State Government Tax Collections, Public Utilities - Selective Sales Taxes in Arizona",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -77,8 +77,8 @@
   },
   "Colorado": {
     "id": "COUTILITAX",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "State Government Tax Collections, Public Utilities - Selective Sales Taxes in Colorado",
     "observation_start": "1942-01-01",
     "observation_end": "2014-01-01",
@@ -96,8 +96,8 @@
   },
   "Connecticut": {
     "id": "CTUTILITAX",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "State Government Tax Collections, Public Utilities - Selective Sales Taxes in Connecticut",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",
@@ -115,8 +115,8 @@
   },
   "Delaware": {
     "id": "DEUTILITAX",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "State Government Tax Collections, Public Utilities - Selective Sales Taxes in Delaware",
     "observation_start": "1942-01-01",
     "observation_end": "2021-01-01",

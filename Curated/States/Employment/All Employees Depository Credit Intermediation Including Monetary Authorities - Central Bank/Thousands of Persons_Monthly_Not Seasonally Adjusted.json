@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000005552210001",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Financial Activities: Depository Credit Intermediation Including Monetary Authorities - Central Bank in Wisconsin",
     "observation_start": "2003-01-01",
     "observation_end": "2022-08-01",
@@ -14,13 +14,13 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-09-17 02:03:24-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 2,
     "path": "Database/U.S. Regional Data/States/Wisconsin"
   },
   "Texas": {
     "id": "SMU48000005552210001SA",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Financial Activities: Depository Credit Intermediation Including Monetary Authorities - Central Bank in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",

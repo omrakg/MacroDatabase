@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000008081100001",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
     },
     "Utah": {
       "id": "SMU49000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
     },
     "Virginia": {
       "id": "SMU51000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -77,8 +77,8 @@
     },
     "Washington": {
       "id": "SMU53000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -96,8 +96,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -117,8 +117,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -155,8 +155,8 @@
     },
     "Utah": {
       "id": "SMU49000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -174,8 +174,8 @@
     },
     "Virginia": {
       "id": "SMU51000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -193,8 +193,8 @@
     },
     "Washington": {
       "id": "SMU53000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -212,8 +212,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000008081100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Other Services: Repair and Maintenance in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",

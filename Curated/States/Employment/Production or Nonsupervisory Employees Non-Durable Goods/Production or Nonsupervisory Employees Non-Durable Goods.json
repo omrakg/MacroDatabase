@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Virginia": {
       "id": "SMU51000003200000006",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2022-08-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000003200000006SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-08-01",
@@ -41,8 +41,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Virginia": {
       "id": "SMU51000003200000006A",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",
@@ -59,8 +59,8 @@
     },
     "Texas": {
       "id": "SMU48000003200000006SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-08-01",
@@ -80,8 +80,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Virginia": {
       "id": "SMU51000003200000006SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2022-08-01",
@@ -99,8 +99,8 @@
     },
     "Texas": {
       "id": "SMU48000003200000006SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-08-01",

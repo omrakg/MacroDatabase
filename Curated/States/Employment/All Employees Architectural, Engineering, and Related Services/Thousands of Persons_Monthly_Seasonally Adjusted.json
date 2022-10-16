@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000006054130001SA",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Professional and Business Services: Architectural, Engineering, and Related Services in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -20,8 +20,8 @@
   },
   "Texas": {
     "id": "SMU48000006054130001SA",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Professional and Business Services: Architectural, Engineering, and Related Services in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
   },
   "Utah": {
     "id": "SMU49000006054130001SA",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Professional and Business Services: Architectural, Engineering, and Related Services in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
   },
   "Washington": {
     "id": "SMU53000006054130001SA",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Professional and Business Services: Architectural, Engineering, and Related Services in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -77,8 +77,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000006054130001SA",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Professional and Business Services: Architectural, Engineering, and Related Services in Wisconsin",
     "observation_start": "2005-01-01",
     "observation_end": "2022-08-01",

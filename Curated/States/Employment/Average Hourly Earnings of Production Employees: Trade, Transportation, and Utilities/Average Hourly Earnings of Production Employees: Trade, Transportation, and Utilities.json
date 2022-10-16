@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000004000000008",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Average Hourly Earnings of Production Employees: Trade, Transportation, and Utilities in West Virginia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-08-01",
@@ -41,8 +41,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000004000000008A",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "Average Hourly Earnings of Production Employees: Trade, Transportation, and Utilities in West Virginia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",

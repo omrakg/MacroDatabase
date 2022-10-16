@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWRET",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "Retail Trade Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-09-30 10:02:31-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS.",
     "path": "Database/U.S. Regional Data/States/Hawaii"
   },
   "Alabama": {
     "id": "ALWRET",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "Retail Trade Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -32,15 +32,15 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-09-30 10:03:00-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS.",
     "path": "Database/U.S. Regional Data/States/Alabama"
   },
   "Alaska": {
     "id": "AKWRET",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "Retail Trade Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -51,8 +51,8 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-09-30 10:03:03-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS.",
     "path": "Database/U.S. Regional Data/States/Alaska"
   },
@@ -77,8 +77,8 @@
   },
   "Delaware": {
     "id": "DEWRET",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "Retail Trade Wages and Salaries in Delaware",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -89,8 +89,8 @@
     "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
     "seasonal_adjustment_short": "SAAR",
     "last_updated": "2022-09-30 10:02:39-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "Industry based on North American Industry Classification System (NAICS). Please consult the U.S. Census Bureau (http://www.census.gov/eos/www/naics/) for additional information about NAICS.",
     "path": "Database/U.S. Regional Data/States/Delaware"
   }

@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004244100001",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
     },
     "Utah": {
       "id": "SMU49000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -77,8 +77,8 @@
     },
     "Washington": {
       "id": "SMU53000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -96,8 +96,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -117,8 +117,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004244100001A",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -154,8 +154,8 @@
     },
     "Texas": {
       "id": "SMU48000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -173,8 +173,8 @@
     },
     "Utah": {
       "id": "SMU49000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -192,8 +192,8 @@
     },
     "Washington": {
       "id": "SMU53000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -211,8 +211,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -232,8 +232,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -270,8 +270,8 @@
     },
     "Texas": {
       "id": "SMU48000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -289,8 +289,8 @@
     },
     "Utah": {
       "id": "SMU49000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -308,8 +308,8 @@
     },
     "Washington": {
       "id": "SMU53000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -327,8 +327,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000004244100001SA",
-      "realtime_start": "2022-10-09",
-      "realtime_end": "2022-10-09",
+      "realtime_start": "2022-10-16",
+      "realtime_end": "2022-10-16",
       "title": "All Employees: Retail Trade: Motor Vehicle and Parts Dealers in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",

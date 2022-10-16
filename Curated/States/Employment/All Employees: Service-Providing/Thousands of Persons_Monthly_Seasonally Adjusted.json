@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMS56000000700000001",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Service-Providing in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000000700000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Service-Providing in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -56,8 +56,8 @@
   },
   "Utah": {
     "id": "SMU49000000700000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Service-Providing in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -74,8 +74,8 @@
   },
   "Vermont": {
     "id": "SMU50000000700000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Service-Providing in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -92,8 +92,8 @@
   },
   "Virginia": {
     "id": "SMU51000000700000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Service-Providing in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -110,8 +110,8 @@
   },
   "Washington": {
     "id": "SMU53000000700000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Service-Providing in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -128,8 +128,8 @@
   },
   "West Virginia": {
     "id": "SMU54000000700000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Service-Providing in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -146,8 +146,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000000700000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Service-Providing in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

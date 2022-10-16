@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000006055000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Management of Companies and Enterprises in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Texas": {
     "id": "SMU48000006055000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Management of Companies and Enterprises in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Utah": {
     "id": "SMU49000006055000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Management of Companies and Enterprises in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Virginia": {
     "id": "SMU51000006055000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Management of Companies and Enterprises in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Washington": {
     "id": "SMU53000006055000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Management of Companies and Enterprises in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -109,8 +109,8 @@
   },
   "West Virginia": {
     "id": "SMU54000006055000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Management of Companies and Enterprises in West Virginia",
     "observation_start": "2003-01-01",
     "observation_end": "2021-01-01",
@@ -127,8 +127,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000006055000001A",
-    "realtime_start": "2022-10-09",
-    "realtime_end": "2022-10-09",
+    "realtime_start": "2022-10-16",
+    "realtime_end": "2022-10-16",
     "title": "All Employees: Management of Companies and Enterprises in Wisconsin",
     "observation_start": "2003-01-01",
     "observation_end": "2021-01-01",
