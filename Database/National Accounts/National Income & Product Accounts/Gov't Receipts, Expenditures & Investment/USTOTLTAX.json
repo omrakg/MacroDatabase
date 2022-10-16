@@ -1,7 +1,7 @@
 {
   "id": "USTOTLTAX",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "State Government Tax Collections, Total Taxes in the United States",
   "observation_start": "1902-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-19 13:35:04-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "For more information, see https://www.census.gov/programs-surveys/qtax.html."
 }

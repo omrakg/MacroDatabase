@@ -1,0 +1,18 @@
+{
+  "id": "M04162US000PAM264NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Price of Lubricating Oil, Refineries for Pennsylvania",
+  "observation_start": "1918-01-01",
+  "observation_end": "1940-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Gallon",
+  "units_short": "Cents Per Gallon",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:49:22-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This Series Consists Of Prices For Cylinder Oil, Pennsylvania Refineries, 600 Flash, Steam Refined, Filtered. No Quotation For July, 1926. Annual Figure Is The Sum Of 11 Months. Source: For 1918-1925, Directly From Bls; 1926-1940, Bls Bulletins And \"Wholesale Prices.\"\n\nThis NBER data series m04162 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04162"
+}

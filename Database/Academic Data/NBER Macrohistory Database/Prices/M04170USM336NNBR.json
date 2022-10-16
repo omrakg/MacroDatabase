@@ -1,0 +1,18 @@
+{
+  "id": "M04170USM336NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Index of Wholesale Prices of Non-Agricultural Commodities for United States",
+  "observation_start": "1913-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:49:53-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Data Includes All Bls Commodities Other Than Farm Products. Beginning In October, 1946, Current Prices Of Motor Vehicles Are Introduced Into The Calculations. During The War, When No Motor Vehicles Were Produced For Civilian Sale, The April, 1942 Prices Were Carried Forward In Each Computation Through September, 1946 Source: Bls Bulletin Nos. 473 (1927) And Following Bulletins; \"Wholesale Prices\" Through 1941. Bls Bulletin Nos. 736, 785, 870, 877, 920, 947, 973, 1007, For 1942-1949; Bls Mimeographed Releases Thereafter.\n\nThis NBER data series m04170 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04170"
+}

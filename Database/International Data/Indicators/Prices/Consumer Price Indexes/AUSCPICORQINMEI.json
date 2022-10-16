@@ -1,7 +1,7 @@
 {
   "id": "AUSCPICORQINMEI",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Consumer Price Index: OECD Groups: All Items Non-Food Non-Energy: Total for Australia",
   "observation_start": "1971-04-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 14:44:17-05",
-  "popularity": 10,
-  "group_popularity": 18,
+  "popularity": 13,
+  "group_popularity": 23,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

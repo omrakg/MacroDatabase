@@ -1,7 +1,7 @@
 {
   "id": "COPCPI",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Per Capita Personal Income in Colorado",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-30 09:59:06-05",
-  "popularity": 14,
-  "group_popularity": 14
+  "popularity": 13,
+  "group_popularity": 13
 }

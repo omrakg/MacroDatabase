@@ -1,7 +1,7 @@
 {
   "id": "DRSFRMOBN",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, Banks Not Among the 100 Largest in Size by Assets",
   "observation_start": "1991-01-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-22 13:18:35-05",
   "popularity": 1,
-  "group_popularity": 13,
+  "group_popularity": 15,
   "notes": "The 100 largest banks are measured by consolidated foreign and domestic assets."
 }

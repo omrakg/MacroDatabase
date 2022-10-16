@@ -1,17 +1,17 @@
 {
   "id": "WPUID542",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Producer Price Index by Commodity: Intermediate Demand by Production Flow: Inputs to Stage 4 Services Producers",
   "observation_start": "2009-11-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Nov 2009=100",
   "units_short": "Index Nov 2009=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-14 07:56:29-05",
+  "last_updated": "2022-10-12 07:56:31-05",
   "popularity": 1,
   "group_popularity": 1
 }

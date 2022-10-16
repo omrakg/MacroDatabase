@@ -1,0 +1,18 @@
+{
+  "id": "M04033US16980M267NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Retail Price of Potatoes for Chicago, IL",
+  "observation_start": "1911-01-01",
+  "observation_end": "1943-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:11-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Quotations Are For \"Irish\" Or \"White\" Potatoes. New Potatoes Have Been Included Only When They Form The Bulk Of The Dealer'S Sales. Prices Are Averages Of Prices On The 15Th Or The Tuesday Closest To The 15Th Of Each Month. Data Was Computed By NBER By Averaging Varying Numbers Of Firm'S Quotations. Figures Given As Price Per Peck Were Reduced To Per Pound. Between August 1933 And June 1936 The Bls Collected Several Prices Per Month. If One Applied To A Date Between The 12Th To 18Th The Given Price Was Used; In Cases Of Other Dates, Given Prices Were Averaged. From June To August 1941 Prices Were Given In Pecks; Starting In Sept. Prices Were Given In Units Of 15 Lbs. Prices Were Converted On The Basis: 1 Peck = 1/4 Bushel; 1 Bushel Potatoes = 60 Lbs.(Agricultural Statistics 1943) Source: 1911-1934: Bls Bulletins, No. 105, 115, 125, 132, 136, 137, 140, 270, 300, 315, 334, 396, 418, 445, 464, 495, And Current Monthly Issues Of\"Retail Prices\" Except 12/1931-12/1932: Special Monthly Mimeographed Reports; 1935-1943: Mimeographed Release, \"Retail Food Prices By Cities\"\n\nThis NBER data series m04033 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04033"
+}

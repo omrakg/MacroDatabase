@@ -1,7 +1,7 @@
 {
   "id": "RIELPCFAUNQ",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Average Finance Rate of Used Car Loans at Finance Companies, Amount of Finance Weighted",
   "observation_start": "2008-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 13:33:02-05",
-  "popularity": 22,
-  "group_popularity": 22,
+  "popularity": 21,
+  "group_popularity": 21,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.20 release, online at http://www.federalreserve.gov/releases/g20/."
 }

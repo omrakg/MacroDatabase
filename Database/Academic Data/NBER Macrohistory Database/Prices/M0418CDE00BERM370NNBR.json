@@ -1,0 +1,18 @@
+{
+  "id": "M0418CDE00BERM370NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Monthly Average Wholesale Price of Hogs for Slaughter for Berlin, Germany",
+  "observation_start": "1911-01-01",
+  "observation_end": "1936-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Marks per 100 Kilograms",
+  "units_short": "Marks per 100 Kilograms",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:54:38-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)-- Original Data, 1879-1887 (2)--Original Data, 1887-1915 (3)--Original Data, 1911-1915, 1921-1922, 1924-1936. Beginning In 1924 Prices Are In Gold Marks. Prices Were Given In Marks Per 50 Kilograms And Were Changed By NBER To Marks Per 100 Kilograms. Data For This Variable Are For Live Weights Of 80-100 Kilograms. Source: Vierteljahrshefte Zur Statistik Des Deutschen Reichs.\n\nThis NBER data series m04118c appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04118c"
+}

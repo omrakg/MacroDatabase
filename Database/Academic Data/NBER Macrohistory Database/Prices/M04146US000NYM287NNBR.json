@@ -1,0 +1,18 @@
+{
+  "id": "M04146US000NYM287NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Price of Lead Pipe for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1951-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hundred Pounds",
+  "units_short": "$ Per Hundred Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:19-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Prices Are Those Paid By Wholesale Jobbers To Manufacturers. Prices Are For Pipes With Inside Diameters Ranging From 3/8 Of An Inch To 6 Inches, Inclusive. For 1890-1917, Prices Are First Of Month Quotations; For 1918-1931, They Are The Daily Average Of Quotations; And For 1932-1939, They Are The Average Of Quotations As Of One Day Each Week. This Series Ends Because Lead Pipe Is No Longer Quoted By The Bls After December 1951. Source: Bls Bulletins\n\nThis NBER data series m04146 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04146"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M04217USM350NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Index of Wholesale Prices, Farm Products and Processed Foods for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1968-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:49:27-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Starting With 1967, This Index Includes Feeds. The Figure For January, 1967, Prior To The Inclusion Of Feeds Is 107.2. Annual Figure For 1968 Is Based On Data For Four Months (January- April). Source: 1947-1965, Unpublished Table From The United States Department Of Labor, Bureau Of Labor Statistics, April, 1966. For 1966-1968, Survey Of Current Business, Current Issues.\n\nThis NBER data series m04217 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04217"
+}

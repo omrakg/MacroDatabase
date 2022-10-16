@@ -1,7 +1,7 @@
 {
   "id": "ADPMINDNRMINNERNSA",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Nonfarm Private Payroll Employment for Natural Resources and Mining",
   "observation_start": "2010-01-01",
   "observation_end": "2022-09-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-05 10:40:08-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 3
 }

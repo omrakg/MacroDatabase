@@ -1,0 +1,18 @@
+{
+  "id": "M04213USM350NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Index of Wholesale Prices of Finished Goods, Consumer Goods for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1966-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:57:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Monthly Summary Tables For 1962 And 1963 Can Be Found In Bls Bulletins 1411 And 1513 Respectively. For A Description Of Wholesale Price Indexes By Stage Of Processing As Well As The Weights Allocated To Consumer Finished Goods, Consumer Foods, See Bls, \"Wholesale Prices And Price Indexes, January 1967, Final And February 1967 Final, Pp. 116-117 And 125. Source: 1947-1961: Bls Mimeographed Table, \"Consumer Foods, Wholesale Price Index (1957-59=100)\", March 1962; 1962-1966: Monthly Releases Of \"Wholesale Prices And Price Indexes\"\n\nThis NBER data series m04213 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04213"
+}

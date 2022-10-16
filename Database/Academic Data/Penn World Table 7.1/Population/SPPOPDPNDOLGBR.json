@@ -1,0 +1,18 @@
+{
+  "id": "SPPOPDPNDOLGBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Age Dependency Ratio: Older Dependents to Working-Age Population for the United Kingdom",
+  "observation_start": "1960-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent of Working-Age Population",
+  "units_short": "% of Working-Age Population",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-05 14:23:38-05",
+  "popularity": 5,
+  "group_popularity": 5,
+  "notes": "Age dependency ratio, old, is the ratio of older dependents (people older than 64) to the working-age population (those ages 15-64). Data are shown as the proportion of dependents per 100 working-age population.\n\nSource Indicator: SP.POP.DPND.OL"
+}

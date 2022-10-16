@@ -1,0 +1,18 @@
+{
+  "id": "GAFDFNA066MNFRBPHI",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Future General Activity; Diffusion Index for Federal Reserve District 3: Philadelphia",
+  "observation_start": "1968-05-01",
+  "observation_end": "2022-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-15 07:46:09-05",
+  "popularity": 3,
+  "group_popularity": 8,
+  "notes": "Future General Activity forecasts the change in general business activity over the next six months for reporting manufacturing firms. The General Business Activity is the broadest measure for future manufacturing conditions in the Manufacturing Business Outlook Survey. The diffusion index is calculated by taking the percent reporting increases and subtracting the percentage reporting decreases. For more information about this release from the Federal Reserve Bank of Philadelphia, visit: http://www.philadelphiafed.org/research-and-data/regional-economy/business-outlook-survey/ ."
+}

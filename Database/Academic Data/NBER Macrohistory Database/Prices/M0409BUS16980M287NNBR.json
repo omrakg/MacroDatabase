@@ -1,0 +1,18 @@
+{
+  "id": "M0409BUS16980M287NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Sheep Prices for Chicago, IL",
+  "observation_start": "1901-01-01",
+  "observation_end": "1941-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hundred Pounds",
+  "units_short": "$ Per Hundred Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:52:43-05",
+  "popularity": 5,
+  "group_popularity": 8,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1874-1904 (2)--Original Data, 1901-1941. Data Not Computed By NBER, Given Directly In Yearbook Of Agriculture. Prices Are Average Price Of Native And Western Sheep. In The 1932 Yearbook, The Figure For February, 1919, Was Given As 11.25; However, The Figure Quoted In All Other Yearbooks, 11.35, Is Used Here. For June, 1919, The Figure In The 1932 Yearbook Was 83.0, But The Quotation From The Other Volumes, 9.30, Is Used Here. Source: Yearbook Of Agriculture, United States Department Of Agriculture, 1932, P.802; 1934, P.611; 1940, P.399.\n\nThis NBER data series m04009b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04009b"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "GAFDINA066MNFRBNY",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Future General Business Conditions; Diffusion Index for New York",
+  "observation_start": "2001-07-01",
+  "observation_end": "2022-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-15 07:31:18-05",
+  "popularity": 1,
+  "group_popularity": 7,
+  "notes": "Future General Business Conditions reports the likely direction of general business conditions over the six months ahead for the state of New York. The General Business Conditions series is the main index of the Empire State Manufacturing Survey and is a distinct question posed on the survey. For more information regarding the Empire State Manufacturing Survey release from the Federal Reserve Bank of New York visit: http://www.newyorkfed.org/survey/empire/empiresurvey_overview.html."
+}

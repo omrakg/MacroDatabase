@@ -1,0 +1,18 @@
+{
+  "id": "M04147US16980M287NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Price of Wire, Fence, Barb, Galvanized for Chicago, IL",
+  "observation_start": "1890-01-01",
+  "observation_end": "1940-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Hundred Pounds",
+  "units_short": "$ Per Hundred Pounds",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:48-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Figures Here Are The Average Of Weekly Quotations. Source: Bls Bulletins And \"Wholesale Prices\".\n\nThis NBER data series m04147 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04147"
+}

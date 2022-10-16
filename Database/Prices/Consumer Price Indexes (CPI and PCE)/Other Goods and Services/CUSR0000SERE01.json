@@ -1,17 +1,17 @@
 {
   "id": "CUSR0000SERE01",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Consumer Price Index for All Urban Consumers: Toys in U.S. City Average",
   "observation_start": "1978-01-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index 1982-1984=100",
   "units_short": "Index 1982-1984=100",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-09-13 07:39:15-05",
-  "popularity": 17,
-  "group_popularity": 17
+  "last_updated": "2022-10-13 07:38:10-05",
+  "popularity": 18,
+  "group_popularity": 19
 }

@@ -1,7 +1,7 @@
 {
   "id": "CIU202S000100000I",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Service-providing; management, professional, and related occupations",
   "observation_start": "2001-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-29 07:51:34-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "New series. Historical data are available beginning with March 2001."
 }

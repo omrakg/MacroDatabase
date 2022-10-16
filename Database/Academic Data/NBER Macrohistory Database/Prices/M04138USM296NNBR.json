@@ -1,0 +1,18 @@
+{
+  "id": "M04138USM296NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Price of Beehive Coke, Connellsville Furnace for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1957-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Short Ton, F.O.B. Ovens",
+  "units_short": "$ Per Short Ton, F.O.B. Ovens",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Original Sources For Data Are: Geological Survey (1890- 1901), Iron Age (1902-1922), And Steel, The Magazine Of Metalworking And Metalproducing (1923-1957). Prices As Of First Of Month, 1890-1919, And Average Of Wednesday Prices Form 1920 On. A Strike Occurrred In 1902, From \"Spring To Latter Part Of Year.\" Iron Age. Strike In 1922 Reached Height In July And Ended Gradually From October January, 1923. There Was A Labor Dispute In The Anthracite Coal Industry, 10/1925-02/1926. Source: Bls Bulletins And \"Wholesale Prices\" (Except For 1920-1922-- Revised Figures From Bls Direct) Through 1941; Bulletin Nos. 718, 736, 759, 785, 870, 877, 920, 943, 947, 1007, And 1083 Through 1951; For 1952 And Following, Survey Of Current Business, 1955 Statistical Supplement And Monthly Issues.\n\nThis NBER data series m04138 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04138"
+}

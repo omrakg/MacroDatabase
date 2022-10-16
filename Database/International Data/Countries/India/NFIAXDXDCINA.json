@@ -1,0 +1,17 @@
+{
+  "id": "NFIAXDXDCINA",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Nominal Acquisitions less Disposals of Valuables for India",
+  "observation_start": "2005-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Domestic Currency",
+  "units_short": "Domestic Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-03-21 07:11:34-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

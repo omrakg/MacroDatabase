@@ -1,0 +1,18 @@
+{
+  "id": "H0RIFSPPFM06NM",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "6-Month Finance Paper Placed Directly, Average Offering Rate, Quoted on a Discount Basis (DISCONTINUED)",
+  "observation_start": "1954-05-01",
+  "observation_end": "1997-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-03 16:09:46-05",
+  "popularity": 1,
+  "group_popularity": 2,
+  "notes": "Averages of daily figures.\n\nThe Federal Reserve Board has discontinued this series. For more information see the H.15 Statistical Release (https://www.federalreserve.gov/releases/h15/default.htm)."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M04H0BUS14460M298NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Price of Spruce for Boston, MA",
+  "observation_start": "1913-01-01",
+  "observation_end": "1944-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Thousand Feet",
+  "units_short": "$ Per Thous. Feet",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:57:00-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1919 (2)--Original Data, 1913-1944. 1913-1919 Copied From Bls Handwritten Files. Taken From The Bls. Beginning In 1913, Prices Are Quoted Weekly, On Saturday. Called Spruce Eastern, Random Cargoes, 2 By 3 And 4 (See Bulletin 473, 1926-1928. Bulletin 473 Gives 1926 Overlap And Annual Review Figures Showing That Series Is Consistent From Beginning Of 1920). From 1929-June, 1940, Series Labelled Spruce Eastern, Boston. For July-December, 1940, Specification States \"No Quantity Specified;\" Beginning 1941, Called\"Eastern, Random No. 1, 2 Inches By 3 Inches And 4 Inches, Per Thousand Board Feet, Carlot, Delivered By Rail, On Boston Rate Of Freight.\" Series Remains The Same As That Called\"Eastern, Boston.\" Source: Bureau Of Labor Statistics Bulletins, Monthly \"Wholesale Prices\", Bls Files.\n\nThis NBER data series m04090b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04090b"
+}

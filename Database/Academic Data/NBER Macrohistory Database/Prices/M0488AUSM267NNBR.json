@@ -1,0 +1,18 @@
+{
+  "id": "M0488AUSM267NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Price of Leather, Sole, Oak, Scoured Backs for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1947-07-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:57:45-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1947 (2)--Original Data, 1947-1958. 1890-1913, Prices Are From The First Of Each Month; 1914, First Wednesday Of Each Month; 1915-1917, Near First Of Month; 1918-1947, Monthly Averages Are Used. Quotations Are From The Shoe And Leather Reporter. For 1890-1901, Title Of Series Is Sole, Oak, Dressed Backs, Heavy. 1890-1901 Data Are Computed From Range For The Month. 1890-March, 1902 Are Prices In New York. After March, General Market Prices Are Used. September, 1914-March, 1915 Data Are Computed By NBER From Data Given In Text In Shoe And Leather Reporter. From 1917-1922, Series Is Called Leather, Sole, Oak. Bulletin No. 367 For 1922 Overlap, And Back To 1890 Annually, Gives Title As Leather, Sole, Oak, Scoured Backs. Bulletin #473, Giving An Annual Review From 1913-1926 And A Monthly Overlap For 1926, Gives The Boston As The Market. Bulletins Continue Giving Boston As The Market. Prices Are Not Quoted After July, 1947. Monthly 1947, January- July Figures, Only Shown In Mimeographed Monthly Releases. September, 1947 Release Shows A New Series. A Footnote States That #223 Is Being Replaced By A New Code, #223.1. \"Substitution Replaces #223. Leather, Bellies, Cow And Steer Hides, Per Pound, New York.\" Source: Bls Bulletin No. 39, Pp. 358-359, And Nos. 45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114, 149, 181, 200, 226, 269, 296, 335, 367, 415, 440, 473, 493, 521, 543, 572, And Monthly \"Wholesale Prices.\"\n\nThis NBER data series m04088a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04088a"
+}

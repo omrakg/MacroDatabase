@@ -1,7 +1,7 @@
 {
   "id": "EA19SLRTTO02IXOBM",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Sales: Retail Trade: Total Retail Trade: Value for the Euro Area (19 Countries)",
   "observation_start": "1995-01-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 14:55:26-05",
-  "popularity": 3,
-  "group_popularity": 23,
+  "popularity": 4,
+  "group_popularity": 24,
   "notes": "OECD descriptor ID: SLRTTO02 OECD unit ID: IXOB OECD country ID: EA19 All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

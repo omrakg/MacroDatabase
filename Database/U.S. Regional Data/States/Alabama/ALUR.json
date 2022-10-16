@@ -1,7 +1,7 @@
 {
   "id": "ALUR",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Unemployment Rate in Alabama",
   "observation_start": "1976-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-19 09:30:04-05",
-  "popularity": 35,
+  "popularity": 36,
   "group_popularity": 38
 }

@@ -1,17 +1,17 @@
 {
   "id": "SPSNSAUS",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Average Sales Price of New Manufactured Homes: Single Homes in the United States",
   "observation_start": "2014-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-05-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "U.S. Dollars",
   "units_short": "U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-08 11:03:02-05",
-  "popularity": 34,
-  "group_popularity": 34
+  "last_updated": "2022-10-11 11:03:01-05",
+  "popularity": 32,
+  "group_popularity": 32
 }

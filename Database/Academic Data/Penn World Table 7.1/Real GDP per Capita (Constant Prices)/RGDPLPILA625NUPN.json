@@ -1,7 +1,7 @@
 {
   "id": "RGDPLPILA625NUPN",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Purchasing Power Parity Converted GDP Per Capita (Laspeyres), derived from growth rates of Consumption, Government Consumption, Investment for Israel",
   "observation_start": "1950-01-01",
   "observation_end": "2010-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-09-17 11:28:48-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series is obtained by adding up consumption, investment, government and exports, and subtracting imports in any given year.\n\nFor more information and proper citation see http://www.rug.nl/research/ggdc/data/pwt/pwt-7.1\n\nSource Indicator: rgdpl"
 }

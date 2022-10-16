@@ -1,7 +1,7 @@
 {
   "id": "THREEFY6",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Fitted Yield on a 6 Year Zero Coupon Bond",
   "observation_start": "1990-01-02",
   "observation_end": "2022-09-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-04 14:47:10-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Kim and Wright (2005) produced this data by fitting a simple three-factor arbitrage-free term structure model to U.S. Treasury yields since 1990, in order to evaluate the behavior of long-term yields, distant-horizon forward rates, and term premiums. For the full paper, please go to http://www.federalreserve.gov/pubs/feds/2005/200533/200533abs.html"
 }

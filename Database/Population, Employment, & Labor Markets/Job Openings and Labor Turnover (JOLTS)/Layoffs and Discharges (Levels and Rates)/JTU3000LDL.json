@@ -1,7 +1,7 @@
 {
   "id": "JTU3000LDL",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Layoffs and Discharges: Manufacturing",
   "observation_start": "2000-12-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-04 09:05:04-05",
-  "popularity": 6,
-  "group_popularity": 8
+  "popularity": 12,
+  "group_popularity": 13
 }

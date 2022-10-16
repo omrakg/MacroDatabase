@@ -1,0 +1,18 @@
+{
+  "id": "M0465AUSM336NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Index of Wholesale Prices of Paper for United States",
+  "observation_start": "1913-01-01",
+  "observation_end": "1940-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1926=100",
+  "units_short": "Index 1926=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:49:51-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1913-1940 (2)--Original Data, 1947-1956. 1913-1940 Computed By NBER From Bls Group Indexes. For Weights, See Source Citation Above. New Segment Beginning In 1947 Is Considered Roughly Comparable To This Series. Source: For 1913-1925: Bls Paper And Pulp Subgroup Less Pulp Series. 1923-1925 Census Quantities In The Exchange Used As Weights. Paper And Pulp, 1.71, Less--Pulp And Mechanical, .04, Pulp Sulphite, .25. For 1926-1940: Bls Paper And Pulp Subgroup Less 4 Woodpulp Series: Weights For 1926-1940 Equal 1927-1929 Quantities In Exchange From Census Source (1931 Bulletin) For 1926-1940. Paper And Pulp, 1.74, Woodpulp Mechanical .04, Woodpulp Sulphite, .12, Woodpulp Kraft, .04, Woodpulp Soda, .02.\n\nThis NBER data series m04165a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04165a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "PIROA",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Personal Income Receipts on Assets",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-09-30 07:43:39-05",
+  "popularity": 11,
+  "group_popularity": 12,
+  "notes": "BEA Account Code: W210RC\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
+}

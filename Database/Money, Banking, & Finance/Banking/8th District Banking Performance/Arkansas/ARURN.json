@@ -1,7 +1,7 @@
 {
   "id": "ARURN",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Unemployment Rate in Arkansas",
   "observation_start": "1976-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-19 09:29:21-05",
-  "popularity": 3,
-  "group_popularity": 24
+  "popularity": 4,
+  "group_popularity": 25
 }

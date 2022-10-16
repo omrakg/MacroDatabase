@@ -1,7 +1,7 @@
 {
   "id": "WICH648URN",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Unemployment Rate in Wichita Falls, TX (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-28 10:08:35-05",
-  "popularity": 3,
+  "popularity": 2,
   "group_popularity": 3
 }

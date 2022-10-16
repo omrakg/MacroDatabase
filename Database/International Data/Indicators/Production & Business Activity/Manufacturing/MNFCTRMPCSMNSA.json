@@ -1,0 +1,17 @@
+{
+  "id": "MNFCTRMPCSMNSA",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Manufacturers Sales",
+  "observation_start": "1992-02-01",
+  "observation_end": "2022-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent Change",
+  "units_short": "% Chg.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-14 09:01:15-05",
+  "popularity": 2,
+  "group_popularity": 35
+}

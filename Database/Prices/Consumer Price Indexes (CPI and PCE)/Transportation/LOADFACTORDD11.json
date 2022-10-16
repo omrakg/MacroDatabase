@@ -1,0 +1,18 @@
+{
+  "id": "LOADFACTORDD11",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Load Factor for U.S. Air Carrier Domestic, Scheduled Passenger Flights",
+  "observation_start": "2000-01-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-10-12 09:01:22-05",
+  "popularity": 3,
+  "group_popularity": 10,
+  "notes": "Data from all U.S. air carrier domestic, scheduled passenger flights.\n\nThis data is collected by the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS) calculation from BTS U.S. Air Carrier Traffic Statistics reported in BTS' monthly Air Traffic Data release, available here (https://www.bts.dot.gov/statistical-releases)."
+}

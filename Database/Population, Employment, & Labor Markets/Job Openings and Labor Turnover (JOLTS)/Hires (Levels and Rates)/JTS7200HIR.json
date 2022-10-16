@@ -1,7 +1,7 @@
 {
   "id": "JTS7200HIR",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Hires: Accommodation and Food Services",
   "observation_start": "2000-12-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-04 09:06:13-05",
-  "popularity": 4,
+  "popularity": 3,
   "group_popularity": 11
 }

@@ -1,7 +1,7 @@
 {
   "id": "ACDGUO",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Manufacturers' Unfilled Orders: Consumer Durable Goods",
   "observation_start": "1992-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-04 09:07:56-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

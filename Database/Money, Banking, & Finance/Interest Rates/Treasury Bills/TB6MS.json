@@ -1,7 +1,7 @@
 {
   "id": "TB6MS",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "6-Month Treasury Bill Secondary Market Rate, Discount Basis",
   "observation_start": "1958-12-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 15:23:25-05",
-  "popularity": 30,
-  "group_popularity": 61,
+  "popularity": 26,
+  "group_popularity": 62,
   "notes": "Averages of Business Days, Discount Basis"
 }

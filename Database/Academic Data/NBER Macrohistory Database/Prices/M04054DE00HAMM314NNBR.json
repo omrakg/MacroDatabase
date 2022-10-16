@@ -1,0 +1,18 @@
+{
+  "id": "M04054DE00HAMM314NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Price Index for Hamburg, Germany",
+  "observation_start": "1879-03-01",
+  "observation_end": "1914-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1879-1888=100",
+  "units_short": "Index 1879-1888=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:46:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables --(1)-- Original Data, 1851-1900 (2)--Original Data, 1879-1902, 1907-1914. The Base For March, 1879-February, 1881 Is 107.2775. The Base For March, 1881-August, 1886 Is 100.4468. The Base For September, 1886-February, 1895 Is 95.8748. The Base For March, 1895- March, 1902 Is 93.1953. The Base For April, 1902-February, 1905 Is 97.51. The Base For March, 1905-October, 1908 Is 111.24. The Base For November, 1908-July (June), 1914 Is 120.3807. Data For Pig Iron And Copper Are Not Included After January, 1909. Source: Die Beiregung Du Warenpreise, Pp. 346-397, Through October, 1902; Great Britain Board Of Trade, Cost Of Living Of The Working Classes (Book 3, Germany), 1912, P.357, And Zeitschrift Fur Social Wissenschaft (Monatlichte Ubersichter, 1909, December 1912 And December, 1914\n\nThis NBER data series m04054 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04054"
+}

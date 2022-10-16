@@ -1,17 +1,17 @@
 {
   "id": "JTU00WEJOL",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Job Openings: Total Nonfarm in West Census Region",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-05-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Level in Thousands",
   "units_short": "Level in Thous.",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-07-06 13:16:21-05",
+  "last_updated": "2022-10-04 09:05:50-05",
   "popularity": 1,
-  "group_popularity": 5
+  "group_popularity": 4
 }

@@ -1,0 +1,18 @@
+{
+  "id": "M04043US35620M262NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Retail Price of Canned Tomatoes, No.2 Can for New York, NY",
+  "observation_start": "1919-01-01",
+  "observation_end": "1943-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Can",
+  "units_short": "Cents Per Can",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:56-05",
+  "popularity": 4,
+  "group_popularity": 4,
+  "notes": "Tomatoes Are Graded Into Fancy And Standard. The Standard In The No.2 Size Can Is Given In This Series. Prices Are As Of The 15Th Of The Month Or The Tuesday Nearest The 15Th. Note That Wholesale Prices Are Given By Bls As Dollars Per Dozen Cans, While Retail Prices Are In Cents Per Can. Source: Bls Bulletins, Nos. 270, 300, 315, 334, 396, 418, 445, 464, 495 And United States Bureau Of Labor Monthly Issues Of Retail Prices, Except For The Period December, 1931-December, 1932, Which Are From Usbl Special Monthly Mimeographed Reports. Those Data Were Not Included In Other Published Sources Because Of Economy Measures.\n\nThis NBER data series m04043 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04043"
+}

@@ -1,7 +1,7 @@
 {
   "id": "EA19PRINTO01IXNBSAM",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Production: Industry: Total Industry: Total Industry Excluding Construction for the Euro Area (19 Countries)",
   "observation_start": "1975-07-01",
   "observation_end": "2022-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-14 14:55:34-05",
-  "popularity": 4,
-  "group_popularity": 20,
+  "popularity": 7,
+  "group_popularity": 24,
   "notes": "OECD descriptor ID: PRINTO01 OECD unit ID: IXNBSA OECD country ID: EA19All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

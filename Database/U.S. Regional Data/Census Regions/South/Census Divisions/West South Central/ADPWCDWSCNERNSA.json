@@ -1,7 +1,7 @@
 {
   "id": "ADPWCDWSCNERNSA",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Nonfarm Private Employment in the West South Central Census Division",
   "observation_start": "2010-01-02",
   "observation_end": "2022-07-30",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-05 10:40:11-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

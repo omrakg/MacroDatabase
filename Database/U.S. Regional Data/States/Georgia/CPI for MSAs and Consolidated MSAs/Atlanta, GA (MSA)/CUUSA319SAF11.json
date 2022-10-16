@@ -1,7 +1,7 @@
 {
   "id": "CUUSA319SAF11",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Consumer Price Index for All Urban Consumers: Food at Home in Atlanta-Sandy Springs-Roswell, GA (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2022-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-13 07:42:31-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

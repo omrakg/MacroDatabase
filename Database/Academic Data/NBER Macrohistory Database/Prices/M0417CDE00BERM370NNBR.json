@@ -1,0 +1,18 @@
+{
+  "id": "M0417CDE00BERM370NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Prices of Oxen for Slaughter for Berlin, Germany",
+  "observation_start": "1910-01-01",
+  "observation_end": "1936-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Marks per 100 Kilograms",
+  "units_short": "Marks per 100 Kilograms",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:47:57-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Three Variables--(1)-- Original Data, 1876-1897 (2)--Original Data, 1897-1916 (3)--Original Data, 1910-1915, 1921-1922, 1924-1936. Prices For 1910-1915, 1921-1922, 1924-1936 Are For Live Weights. Prices For 1910-1915 Are For Oxen, Young, Meaty, Not Fattened, And Older, Fattened, Live Weight. Gold Marks Are Used From 1924-1936. Data Are Given As Price Per 50 Kilograms And Computed By NBER To Equal Price Per 100 Kilograms To Be Comparable With Earlier Data. Beginning In October, 1926, Data Are For Oxen, Meaty. Source: Vierteljahrshefte Zur Statistik Des Deutschen Reichs\n\nThis NBER data series m04117c appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04117c"
+}

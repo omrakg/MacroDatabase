@@ -1,0 +1,18 @@
+{
+  "id": "M0477BUS000NYM267NNBR",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Wholesale Price of Rubber, Para Island; Plantation for New York",
+  "observation_start": "1913-01-01",
+  "observation_end": "1958-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:55:10-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1920 (2)-- Original Data,\" 1913-1958. Data Are Average Of Tuesday Prices. Series Is Described In Source As \"Rubber, Crude, Plantation, Ribbed, Smoked Sheets\" In Bls Wholesale Prices Through 1943. Beginning In 1944, It Is Described As \"Rubber, Crude, Delivered, Ex-Dock And/Or Warehouse, New York.\" In 1947, Further Specification \"Spot Delivered\" Is Added. (Bls Code 07 11 02) Data Through 1951 Are Also Published In Bls Bulletin Nos. 947, 973, 1007, 1083, And 1143 (Revision Of September, 1947 From 16.6 To 16.7 Shown In The More Recent Issue. In 1950, Specification Reads \"#1\" But Is Otherwise Unchanged (Bls Bulletin No. 1083, P.54). A \"Minor Change\" Occurred In The Series In January, 1954. See Monthly Issue Of Wholesale Price Index For January, 1954 (Issued March, 1954). Following The Practice Of The Survey Of Current Business Where This Series Is Also Published, It Is Here Being Considered As Continuous, Since The Change Was Too Small To Call For A Special Explanation (See The Introductory Note In Monthly Issues Of Wholesale Price Index Concerning Major And Minor Changes In The Price Series). Source: 1913-1923 Data Sent Directly From Bls. 1923-1946 Data Are From Bls Bulletins And \"Wholesale Prices.\" For 1947 And Following Years: Bls, \"Prices And Price Relatives For Individual Commodities In The Revised Index, 1947-1950, \" Group 7--Rubber And Rubber Products (February, 1952); Summary Table For January-November, 1951, Vol. 1--Prices; Monthly Issues Of Wholesale Price Index, December, 1951 And Following, Thereafter.\n\nThis NBER data series m04077b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04077b"
+}

@@ -1,7 +1,7 @@
 {
   "id": "WPU15130127",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
   "title": "Producer Price Index by Commodity: Miscellaneous Products: Rifles",
   "observation_start": "2013-06-01",
   "observation_end": "2021-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-05-13 08:01:25-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

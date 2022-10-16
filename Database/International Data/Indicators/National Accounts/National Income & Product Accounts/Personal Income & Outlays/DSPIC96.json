@@ -1,0 +1,18 @@
+{
+  "id": "DSPIC96",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Real Disposable Personal Income",
+  "observation_start": "1959-01-01",
+  "observation_end": "2022-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Billions of Chained 2012 Dollars",
+  "units_short": "Bil. of Chn. 2012 $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-09-30 07:43:13-05",
+  "popularity": 74,
+  "group_popularity": 75,
+  "notes": "BEA Account Code: A067RX\nAGuide to the National Income and Product Accounts of the United States (http://www.bea.gov/national/pdf/nipaguid.pdf) (NIPA)"
+}

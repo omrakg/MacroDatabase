@@ -1,0 +1,18 @@
+{
+  "id": "LNU04000173",
+  "realtime_start": "2022-10-16",
+  "realtime_end": "2022-10-16",
+  "title": "Unemployment Rate - 35-44 Yrs., Men",
+  "observation_start": "1948-01-01",
+  "observation_end": "2022-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-07 07:44:36-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04000173"
+}
