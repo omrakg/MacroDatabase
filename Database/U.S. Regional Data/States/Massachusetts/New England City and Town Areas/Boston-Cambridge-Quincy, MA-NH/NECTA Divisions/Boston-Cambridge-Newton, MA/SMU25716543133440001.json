@@ -1,17 +1,17 @@
 {
   "id": "SMU25716543133440001",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "All Employees: Manufacturing: Durable Goods: Semiconductor and Other Electronic Component Manufacturing in Boston-Cambridge-Newton, MA (NECTA Division)",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-17 02:29:52-05",
+  "last_updated": "2022-10-22 02:35:38-05",
   "popularity": 1,
   "group_popularity": 1
 }

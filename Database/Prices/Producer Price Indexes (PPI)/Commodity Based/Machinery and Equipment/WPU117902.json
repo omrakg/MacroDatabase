@@ -1,7 +1,7 @@
 {
   "id": "WPU117902",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Primary Batteries",
   "observation_start": "1947-01-01",
   "observation_end": "2022-09-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 07:52:58-05",
   "popularity": 2,
-  "group_popularity": 7
+  "group_popularity": 5
 }

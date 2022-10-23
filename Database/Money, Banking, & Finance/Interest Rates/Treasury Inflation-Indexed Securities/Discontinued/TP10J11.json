@@ -1,7 +1,7 @@
 {
   "id": "TP10J11",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "10-Year 3-1/2% Treasury Inflation-Indexed Note, Due 1/15/2011 (DISCONTINUED)",
   "observation_start": "2001-02-01",
   "observation_end": "2010-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2011-01-03 09:31:15-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Averages of business days. Copyright, 2016, Haver Analytics. Reprinted with permission. Calculated from data provided by the Wall Street Journal."
 }

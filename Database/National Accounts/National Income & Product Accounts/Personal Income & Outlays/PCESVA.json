@@ -1,7 +1,7 @@
 {
   "id": "PCESVA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Personal Consumption Expenditures: Services",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-30 07:54:11-05",
-  "popularity": 15,
-  "group_popularity": 63,
+  "last_updated": "2022-09-29 07:45:30-05",
+  "popularity": 7,
+  "group_popularity": 59,
   "notes": "BEA Account Code: DSERRC\n\n"
 }

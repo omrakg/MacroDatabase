@@ -1,0 +1,18 @@
+{
+  "id": "ADJRES",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
+  "title": "St. Louis Adjusted Reserves (DISCONTINUED)",
+  "observation_start": "1984-02-15",
+  "observation_end": "2019-12-04",
+  "frequency": "Biweekly, Ending Wednesday",
+  "frequency_short": "BW",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2019-12-19 15:31:02-06",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "Updates of this series will be ceased on December 19, 2019. There is no replacement to this seasonally adjusted series. Interested users can construct a proxy of not seasonally adjusted data as the difference between monetary base from the H.3 release and currency component of M1 from the H.6 release. The discontinued series plotted on the same graph with the calculated data can be accessed for comparison here (https://fred.stlouisfed.org/graph/?g=oJ5l).\nFor more details, see the FRED Announcement (https://news.research.stlouisfed.org/2019/12/discontinuance-of-st-louis-monetary-base-and-reserves-data/)."
+}

@@ -1,7 +1,7 @@
 {
   "id": "CWUR0000SA0",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Consumer Price Index for All Urban Wage Earners and Clerical Workers: All Items in U.S. City Average",
   "observation_start": "1913-01-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-13 07:38:03-05",
-  "popularity": 60,
-  "group_popularity": 62
+  "popularity": 57,
+  "group_popularity": 59
 }

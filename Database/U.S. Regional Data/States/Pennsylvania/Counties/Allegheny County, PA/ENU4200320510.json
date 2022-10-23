@@ -1,7 +1,7 @@
 {
   "id": "ENU4200320510",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Number of Private Establishments for All Industries in Allegheny County, PA",
   "observation_start": "1990-01-01",
   "observation_end": "2022-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-07 11:16:17-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "An establishment is an economic unit, such as a factory, mine, store, or office that produces goods or services. It generally is at a single location and is engaged predominantly in one type of economic activity. Where a single location encompasses two or more distinct activities, these are treated as separate establishments, if separate payroll records are available, and the various activities are classified under different industry codes."
 }

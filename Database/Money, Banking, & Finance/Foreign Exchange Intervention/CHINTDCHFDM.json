@@ -1,7 +1,7 @@
 {
   "id": "CHINTDCHFDM",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Swiss Intervention: Swiss National Bank Purchases of DEM against CHF (Millions of DEM)",
   "observation_start": "1975-01-01",
   "observation_end": "1998-12-31",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2009-06-30 10:16:17-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Copyright, 2016, Swiss National Bank.\n\n(+) numbers mean purchases of DEM, (-) numbers mean sales of DEM. Unpublished data."
 }

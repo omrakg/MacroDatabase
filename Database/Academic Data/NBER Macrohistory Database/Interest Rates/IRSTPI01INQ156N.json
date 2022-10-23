@@ -1,7 +1,7 @@
 {
   "id": "IRSTPI01INQ156N",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Immediate Rates: Less than 24 Hours: Prime Rates for India",
   "observation_start": "1990-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-11 14:45:23-05",
-  "popularity": 3,
-  "group_popularity": 7,
+  "popularity": 7,
+  "group_popularity": 10,
   "notes": "OECD descriptor ID: IRSTPI01\nOECD unit ID: ST\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

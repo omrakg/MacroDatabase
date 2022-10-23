@@ -1,0 +1,18 @@
+{
+  "id": "LNU00073395",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
+  "title": "Population Level - Foreign Born",
+  "observation_start": "2007-01-01",
+  "observation_end": "2022-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-07 07:44:16-05",
+  "popularity": 13,
+  "group_popularity": 13,
+  "notes": "Civilian noninstitutional population is defined as persons 16 years of age and older residing in the 50 states and the District of Columbia, who are not inmates of institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.\n\nThe series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU00073395"
+}

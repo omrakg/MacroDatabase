@@ -1,7 +1,7 @@
 {
   "id": "TOTALGOV",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Total Consumer Credit Owned by Federal Government",
   "observation_start": "1977-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-07 14:02:05-05",
-  "popularity": 14,
-  "group_popularity": 14,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "Data for the Student Loan Marketing Association (Sallie Mae) are included in the Federal government sector until the completion of Sallie Mae's privatization in 2004:Q4 and in the Finance company sector thereafter.\n\nFor further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
 }

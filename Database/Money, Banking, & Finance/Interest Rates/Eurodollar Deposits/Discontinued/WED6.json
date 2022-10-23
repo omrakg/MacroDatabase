@@ -1,7 +1,7 @@
 {
   "id": "WED6",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "U.S. Short-Term Interest Rates: Daily 6-Month Eurodollar Deposit Rate (DISCONTINUED)",
   "observation_start": "1971-01-08",
   "observation_end": "2016-10-07",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-06 09:39:52-05",
   "popularity": 1,
-  "group_popularity": 11,
+  "group_popularity": 15,
   "notes": "The Federal Reserve Board has discontinued this series as of October 11, 2016. More information, including possible alternative series, can be found at http://www.federalreserve.gov/feeds/h15.html.\n\nAnnualized using a 360-day year or bank interest. Source: Bloomberg and CTRB ICAP Fixed Income & Money Market Products."
 }

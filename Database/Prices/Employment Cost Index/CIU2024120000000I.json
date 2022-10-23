@@ -1,7 +1,7 @@
 {
   "id": "CIU2024120000000I",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Retail trade",
   "observation_start": "2001-01-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-29 07:51:40-05",
   "popularity": 1,
-  "group_popularity": 8
+  "group_popularity": 11
 }

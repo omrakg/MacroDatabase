@@ -1,7 +1,7 @@
 {
   "id": "B069RC1Q027SBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Personal interest payments",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-08-25 07:53:59-05",
+  "last_updated": "2022-09-29 07:47:36-05",
   "popularity": 3,
-  "group_popularity": 28,
+  "group_popularity": 30,
   "notes": "BEA Account Code: B069RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

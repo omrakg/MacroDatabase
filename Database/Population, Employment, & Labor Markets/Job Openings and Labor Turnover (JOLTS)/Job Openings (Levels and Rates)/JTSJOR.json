@@ -1,7 +1,7 @@
 {
   "id": "JTSJOR",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Job Openings: Total Nonfarm",
   "observation_start": "2000-12-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-04 09:06:03-05",
   "popularity": 51,
-  "group_popularity": 78
+  "group_popularity": 77
 }

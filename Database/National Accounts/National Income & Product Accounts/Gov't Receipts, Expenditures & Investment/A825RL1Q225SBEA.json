@@ -1,7 +1,7 @@
 {
   "id": "A825RL1Q225SBEA",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Real Government Consumption Expenditures and Gross Investment: Federal: Nondefense",
   "observation_start": "1947-04-01",
   "observation_end": "2022-04-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-09-29 07:47:23-05",
   "popularity": 2,
-  "group_popularity": 8,
+  "group_popularity": 7,
   "notes": "BEA Account Code: A825RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

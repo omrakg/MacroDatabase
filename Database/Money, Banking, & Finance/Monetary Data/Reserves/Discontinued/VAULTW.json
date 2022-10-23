@@ -1,0 +1,18 @@
+{
+  "id": "VAULTW",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
+  "title": "Vault Cash, Used to Satisfy Required Reserves (DISCONTINUED)",
+  "observation_start": "1975-01-08",
+  "observation_end": "2020-09-09",
+  "frequency": "Weekly, Ending Wednesday",
+  "frequency_short": "W",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2020-09-10 15:46:23-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Board of Governors discontinued the H.3 statistical release on September 17, 2020. For more information, please see the announcement (https://www.federalreserve.gov/feeds/h3.html) posted on August 20, 2020.\n\nVault cash eligible to satisfy reserve requirements that's held by institutions not exempt from reserve requirements. All vault cash held during the lagged computation period by \"bound\" institutions (that is, those whose required reserves exceed their vault cash) plus the amount of vault cash applied during the maintenance period by \"nonbound\" institutions (that is, those whose vault cash exceeds their required reserves) to satisfy current reserve requirements.\n\nEffective February 2, 1984, reserve computation and maintenance periods have been changed from weekly to bi-weekly. Series with data prior to February 2, 1984 have different values reported from one week to the next. After February 2, 1984, the value repeats for 2 consecutive weeks."
+}

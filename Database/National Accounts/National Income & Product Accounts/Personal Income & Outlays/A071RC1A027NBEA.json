@@ -1,7 +1,7 @@
 {
   "id": "A071RC1A027NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Personal saving",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-26 07:52:06-05",
-  "popularity": 36,
-  "group_popularity": 68,
+  "last_updated": "2022-09-29 07:45:13-05",
+  "popularity": 39,
+  "group_popularity": 72,
   "notes": "BEA Account Code: A071RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

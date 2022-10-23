@@ -1,7 +1,7 @@
 {
   "id": "LNU01300006",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Labor Force Participation Rate - Black or African American",
   "observation_start": "1972-01-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-07 07:43:12-05",
-  "popularity": 15,
-  "group_popularity": 42,
+  "popularity": 11,
+  "group_popularity": 41,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU01300006"
 }

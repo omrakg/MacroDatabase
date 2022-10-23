@@ -1,0 +1,18 @@
+{
+  "id": "NONFIN59A2P2AMT",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
+  "title": "Total Value of Issues, with a Maturity Between 5 and 9 Days, Used in Calculating the A2/P2 Nonfinancial Commercial Paper Rates",
+  "observation_start": "2001-01-02",
+  "observation_end": "2022-10-20",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-21 12:21:09-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For more information, please see http://www.federalreserve.gov/releases/cp/about.htm."
+}

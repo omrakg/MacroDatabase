@@ -1,0 +1,18 @@
+{
+  "id": "IPUIN49311W200000000",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
+  "title": "Employment for Transportation and Warehousing: General Warehousing and Storage (NAICS 49311) in the United States",
+  "observation_start": "1987-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Thousands of Jobs",
+  "units_short": "Thous. of Jobs",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-05-02 11:33:08-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Employment is the total number of wage and salary workers, unincorporated self-employed workers, and unpaid family workers working within business establishments. An individual who works multiple jobs at separate establishments would have each job included in the number of employees."
+}

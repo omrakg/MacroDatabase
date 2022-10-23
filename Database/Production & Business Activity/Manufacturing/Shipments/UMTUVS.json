@@ -1,7 +1,7 @@
 {
   "id": "UMTUVS",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Manufacturers' Value of Shipments: Manufacturing with Unfilled Orders",
   "observation_start": "1992-01-01",
   "observation_end": "2022-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-04 09:05:28-05",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "Estimates of Shipments for the semiconductor industry are no longer shown separately, but are included in Computers and Electronic Products industry and in all other applicable aggregate totals."
 }

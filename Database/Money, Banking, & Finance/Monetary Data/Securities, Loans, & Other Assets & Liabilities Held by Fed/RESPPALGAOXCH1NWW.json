@@ -1,17 +1,17 @@
 {
   "id": "RESPPALGAOXCH1NWW",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Assets: Securities Held Outright: Federal Agency Debt Securities: Change in Wednesday Level from Previous Wednesday Level",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-10-12",
+  "observation_end": "2022-10-19",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-10-13 15:35:57-05",
+  "last_updated": "2022-10-20 15:35:09-05",
   "popularity": 1,
   "group_popularity": 1
 }

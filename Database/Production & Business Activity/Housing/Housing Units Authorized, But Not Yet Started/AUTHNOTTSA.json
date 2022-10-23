@@ -1,17 +1,17 @@
 {
   "id": "AUTHNOTTSA",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "New Privately-Owned Housing Units Authorized but Not Started: Total Units",
   "observation_start": "1999-01-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-09-20 07:31:20-05",
-  "popularity": 12,
-  "group_popularity": 29
+  "last_updated": "2022-10-19 07:31:21-05",
+  "popularity": 15,
+  "group_popularity": 35
 }

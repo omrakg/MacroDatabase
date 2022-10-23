@@ -1,18 +1,18 @@
 {
   "id": "DTCDFNA066MNFRBPHI",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia",
   "observation_start": "1968-05-01",
-  "observation_end": "2022-09-01",
+  "observation_end": "2022-10-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index",
   "units_short": "Index",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-15 07:46:03-05",
+  "last_updated": "2022-10-20 07:46:02-05",
   "popularity": 25,
-  "group_popularity": 29,
+  "group_popularity": 30,
   "notes": "Current Delivery Time reports the change in delivery time compared to the previous month for reporting manufacturing firms. The diffusion index is calculated by taking the percent reporting increases and subtracting the percentage reporting decreases. For more information about this release from the Federal Reserve Bank of Philadelphia, visit: http://www.philadelphiafed.org/research-and-data/regional-economy/business-outlook-survey/ ."
 }

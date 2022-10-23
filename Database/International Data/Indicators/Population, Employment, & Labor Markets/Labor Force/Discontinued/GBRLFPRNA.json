@@ -1,7 +1,7 @@
 {
   "id": "GBRLFPRNA",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Labor Force Participation Rate in the United Kingdom (DISCONTINUED)",
   "observation_start": "1971-01-01",
   "observation_end": "2012-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-06-10 09:17:53-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Bureau of Labor Statistics (BLS) has eliminated the International Labor Comparisons (ILC) program. This is the last BLS release of international comparisons of annual labor force statistics."
 }

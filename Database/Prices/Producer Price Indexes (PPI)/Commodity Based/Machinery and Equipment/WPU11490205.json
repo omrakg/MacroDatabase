@@ -1,7 +1,7 @@
 {
   "id": "WPU11490205",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Plumbing and Heating Valves and Specialties, Except Plumbers' Brass Goods",
   "observation_start": "1982-12-01",
   "observation_end": "2022-08-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 07:51:46-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 3,
+  "group_popularity": 3
 }

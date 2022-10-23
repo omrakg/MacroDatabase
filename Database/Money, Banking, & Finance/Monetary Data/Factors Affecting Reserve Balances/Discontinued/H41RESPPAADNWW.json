@@ -1,7 +1,7 @@
 {
   "id": "H41RESPPAADNWW",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Assets: Liquidity and Credit Facilities: Municipal Liquidity Facility LLC: Wednesday Level (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2020-06-03",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-06-04 15:45:32-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

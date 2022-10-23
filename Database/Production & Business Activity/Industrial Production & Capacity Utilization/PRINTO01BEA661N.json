@@ -1,7 +1,7 @@
 {
   "id": "PRINTO01BEA661N",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Production: Industry: Total Industry: Total Industry Excluding Construction for Belgium",
   "observation_start": "1960-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 16:08:56-05",
   "popularity": 0,
-  "group_popularity": 10,
+  "group_popularity": 8,
   "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: BEL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

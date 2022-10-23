@@ -1,7 +1,7 @@
 {
   "id": "A792RC0A052NBEA",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Personal income per capita",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -11,8 +11,8 @@
   "units_short": "$",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-05-26 07:52:02-05",
-  "popularity": 40,
-  "group_popularity": 57,
+  "last_updated": "2022-09-29 07:45:10-05",
+  "popularity": 44,
+  "group_popularity": 59,
   "notes": "BEA Account Code: A792RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "N7727C0A144NBEA",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Corporate capital consumption allowances: Mining, except oil and gas",
   "observation_start": "1998-01-01",
   "observation_end": "2019-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 13:57:59-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: N7727C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

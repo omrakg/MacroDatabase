@@ -1,7 +1,7 @@
 {
   "id": "PCDGCC96",
-  "realtime_start": "2022-09-25",
-  "realtime_end": "2022-09-25",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Real Personal Consumption Expenditures: Durable Goods",
   "observation_start": "2002-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of Chn. 2012 $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-08-25 07:53:32-05",
-  "popularity": 37,
-  "group_popularity": 59,
+  "last_updated": "2022-09-29 07:46:32-05",
+  "popularity": 28,
+  "group_popularity": 56,
   "notes": "BEA Account Code: DDURRX\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

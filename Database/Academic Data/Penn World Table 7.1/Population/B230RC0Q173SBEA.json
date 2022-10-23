@@ -1,0 +1,18 @@
+{
+  "id": "B230RC0Q173SBEA",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
+  "title": "Population",
+  "observation_start": "1947-01-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Thousands",
+  "units_short": "Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-28 07:53:13-05",
+  "popularity": 38,
+  "group_popularity": 67,
+  "notes": "Population includes resident population plus armed forces overseas. The annual estimate is constructed as an average of monthly series https://fred.stlouisfed.org/series/POPTHM. \nBEA Account Code: B230RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

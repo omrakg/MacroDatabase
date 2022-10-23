@@ -1,7 +1,7 @@
 {
   "id": "LAUMT257165000000003A",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Unemployment Rate in Boston-Cambridge-Nashua, MA-NH (NECTA)",
   "observation_start": "1990-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-27 10:15:51-05",
-  "popularity": 1,
+  "popularity": 4,
   "group_popularity": 26
 }

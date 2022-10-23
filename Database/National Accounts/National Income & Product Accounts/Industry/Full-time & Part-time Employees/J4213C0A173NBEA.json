@@ -1,7 +1,7 @@
 {
   "id": "J4213C0A173NBEA",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Full-time and part-time employees: Domestic private industries: Manufacturing",
   "observation_start": "1948-01-01",
   "observation_end": "1987-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2018-08-08 14:12:15-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 6,
   "notes": "BEA Account Code: J4213C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,17 +1,17 @@
 {
   "id": "WMAIDEN3",
-  "realtime_start": "2022-10-16",
-  "realtime_end": "2022-10-16",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
   "title": "Assets: Net Portfolio Holdings of Maiden Lane LLCs: Net Portfolio Holdings of Maiden Lane III LLC: Week Average (DISCONTINUED)",
-  "observation_start": "2008-11-26",
-  "observation_end": "2015-12-30",
+  "observation_start": "2002-12-18",
+  "observation_end": "2020-03-11",
   "frequency": "Weekly, Ending Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2015-12-31 16:03:28-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "last_updated": "2022-10-21 16:05:22-05",
+  "popularity": 2,
+  "group_popularity": 2
 }

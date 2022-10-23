@@ -1,0 +1,18 @@
+{
+  "id": "EXPINF4YR",
+  "realtime_start": "2022-10-23",
+  "realtime_end": "2022-10-23",
+  "title": "4-Year Expected Inflation",
+  "observation_start": "1982-01-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-21 10:58:09-05",
+  "popularity": 12,
+  "group_popularity": 12,
+  "notes": "The Federal Reserve Bank of Cleveland estimates the expected rate of inflation over the next 30 years along with the inflation risk premium, the real risk premium, and the real interest rate.\n\nTheir estimates are calculated with a model that uses Treasury yields, inflation data, inflation swaps, and survey-based measures of inflation expectations.\n\nFor more information, please visit the <a href=\"https://www.clevelandfed.org/indicators-and-data/inflation-expectations#background\">Federal Reserve Bank of Cleveland<a/>."
+}
