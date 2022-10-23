@@ -70,7 +70,7 @@
 | GEPUPPP            | Global Economic Policy Uncertainty Index: PPP-Adjusted GDP                                          | 1997-01-01          | 2022-08-01        |
 | INDEPUINDXM        | Economic Policy Uncertainty Index for India                                                         | 2003-01-01          | 2022-09-01        |
 | INFECTDISEMVTRACK  | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-08-01        |
-| INFECTDISEMVTRACKD | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-10-13        |
+| INFECTDISEMVTRACKD | Equity Market Volatility: Infectious Disease Tracker                                                | 1985-01-01          | 2022-10-20        |
 | ITEPUINDXM         | Economic Policy Uncertainty Index for Italy                                                         | 1997-01-01          | 2022-09-01        |
 | KOREAEPUINDXM      | Economic Policy Uncertainty Index for South Korea                                                   | 1990-01-01          | 2020-12-01        |
 | SPEPUINDXM         | Economic Policy Uncertainty Index for Spain                                                         | 2001-01-01          | 2022-09-01        |
@@ -78,11 +78,11 @@
 | UKEPUINDXM         | Economic Policy Uncertainty Index for United Kingdom                                                | 1997-01-01          | 2022-09-01        |
 | UKEPUMIGINDX       | Migration Policy Uncertainty Index for the United Kingdom                                           | 1990-01-01          | 2022-07-01        |
 | USEPUFEARINDX      | Migration Fear Index for the United States                                                          | 1990-01-01          | 2022-07-01        |
-| USEPUINDXD         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-10-13        |
+| USEPUINDXD         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-10-20        |
 | USEPUINDXM         | Economic Policy Uncertainty Index for United States                                                 | 1985-01-01          | 2022-09-01        |
 | USEPUMIGINDX       | Migration Policy Uncertainty Index for the United States                                            | 1990-01-01          | 2022-07-01        |
 | USEPUNEWSINDXM     | Economic Policy Uncertainty Index: News-Based Index for the United States                           | 1985-01-01          | 2022-09-01        |
-| WLEMUINDXD         | Equity Market-related Economic Uncertainty Index                                                    | 1985-01-01          | 2022-10-13        |
+| WLEMUINDXD         | Equity Market-related Economic Uncertainty Index                                                    | 1985-01-01          | 2022-10-20        |
 | WPDI               | World Discussion About Pandemics Index                                                              | 1996-01-01          | 2022-07-01        |
 | WPDIAFG            | Discussion About Pandemics Index for Afghanistan                                                    | 1996-01-01          | 2022-07-01        |
 | WPDIAGO            | Discussion About Pandemics Index for Angola                                                         | 1996-01-01          | 2022-07-01        |
@@ -232,7 +232,7 @@
 | WUIAFRICA          | World Uncertainty Index: Africa                                                                     | 1990-01-01          | 2022-07-01        |
 | WUIAGO             | World Uncertainty Index for Angola                                                                  | 1974-01-01          | 2022-07-01        |
 | WUIALB             | World Uncertainty Index for Albania                                                                 | 1956-01-01          | 2022-07-01        |
-| WUIARE             | World Uncertainty Index for United Arab Emirates                                                    | 1971-01-01          | 2022-04-01        |
+| WUIARE             | World Uncertainty Index for United Arab Emirates                                                    | 1971-01-01          | 2022-07-01        |
 | WUIARG             | World Uncertainty Index for Argentina                                                               | 1952-01-01          | 2022-07-01        |
 | WUIARM             | World Uncertainty Index for Armenia                                                                 | 1993-01-01          | 2022-07-01        |
 | WUIASIAPACIFIC     | World Uncertainty Index: Asia and the Pacific                                                       | 1990-01-01          | 2022-07-01        |
@@ -241,7 +241,7 @@
 | WUIAZE             | World Uncertainty Index for Azerbaijan                                                              | 1993-01-01          | 2022-07-01        |
 | WUIBDI             | World Uncertainty Index for Burundi                                                                 | 1965-01-01          | 2022-07-01        |
 | WUIBEL             | World Uncertainty Index for Belgium                                                                 | 1952-01-01          | 2022-07-01        |
-| WUIBEN             | World Uncertainty Index for Benin                                                                   | 1962-01-01          | 2022-04-01        |
+| WUIBEN             | World Uncertainty Index for Benin                                                                   | 1962-01-01          | 2022-07-01        |
 | WUIBFA             | World Uncertainty Index for Burkina Faso                                                            | 1962-07-01          | 2022-07-01        |
 | WUIBGD             | World Uncertainty Index for Bangladesh                                                              | 1972-01-01          | 2022-07-01        |
 | WUIBGR             | World Uncertainty Index for Bulgaria                                                                | 1956-01-01          | 2022-07-01        |
@@ -260,14 +260,14 @@
 | WUICOD             | World Uncertainty Index for Democratic Republic of the Congo                                        | 1963-01-01          | 2022-07-01        |
 | WUICOG             | World Uncertainty Index for Republic of Congo                                                       | 1963-01-01          | 2022-07-01        |
 | WUICOL             | World Uncertainty Index for Colombia                                                                | 1953-07-01          | 2022-07-01        |
-| WUICRI             | World Uncertainty Index for Costa Rica                                                              | 1954-04-01          | 2022-04-01        |
+| WUICRI             | World Uncertainty Index for Costa Rica                                                              | 1954-04-01          | 2022-07-01        |
 | WUICZE             | World Uncertainty Index for Czech Republic                                                          | 1993-04-01          | 2022-07-01        |
 | WUIDEU             | World Uncertainty Index for Germany                                                                 | 1952-04-01          | 2022-07-01        |
 | WUIDNK             | World Uncertainty Index for Denmark                                                                 | 1952-01-01          | 2022-07-01        |
 | WUIDOM             | World Uncertainty Index for Dominican Republic                                                      | 1956-01-01          | 2022-07-01        |
 | WUIDZA             | World Uncertainty Index for Algeria                                                                 | 1960-01-01          | 2022-07-01        |
 | WUIECU             | World Uncertainty Index for Ecuador                                                                 | 1954-01-01          | 2022-07-01        |
-| WUIEGY             | World Uncertainty Index for Egypt                                                                   | 1953-01-01          | 2022-04-01        |
+| WUIEGY             | World Uncertainty Index for Egypt                                                                   | 1953-01-01          | 2022-07-01        |
 | WUIEMERGE          | World Uncertainty Index: Emerging Economies                                                         | 1990-01-01          | 2022-07-01        |
 | WUIERI             | World Uncertainty Index for Eritrea                                                                 | 1993-07-01          | 2022-07-01        |
 | WUIESP             | World Uncertainty Index for Spain                                                                   | 1952-01-01          | 2022-07-01        |
@@ -285,9 +285,9 @@
 | WUIGMB             | World Uncertainty Index for The Gambia                                                              | 1957-01-01          | 2022-07-01        |
 | WUIGNB             | World Uncertainty Index for Guinea-Bissau                                                           | 1978-04-01          | 2022-07-01        |
 | WUIGRC             | World Uncertainty Index for Greece                                                                  | 1953-04-01          | 2022-07-01        |
-| WUIGTM             | World Uncertainty Index for Guatemala                                                               | 1954-04-01          | 2022-04-01        |
-| WUIHKG             | World Uncertainty Index for Hong Kong SAR                                                           | 1953-01-01          | 2022-04-01        |
-| WUIHND             | World Uncertainty Index for Honduras                                                                | 1954-04-01          | 2022-04-01        |
+| WUIGTM             | World Uncertainty Index for Guatemala                                                               | 1954-04-01          | 2022-07-01        |
+| WUIHKG             | World Uncertainty Index for Hong Kong SAR                                                           | 1953-01-01          | 2022-07-01        |
+| WUIHND             | World Uncertainty Index for Honduras                                                                | 1954-04-01          | 2022-07-01        |
 | WUIHRV             | World Uncertainty Index for Croatia                                                                 | 1993-01-01          | 2022-07-01        |
 | WUIHTI             | World Uncertainty Index for Haiti                                                                   | 1956-01-01          | 2022-07-01        |
 | WUIHUN             | World Uncertainty Index for Hungary                                                                 | 1953-01-01          | 2022-07-01        |
@@ -307,14 +307,14 @@
 | WUIKHM             | World Uncertainty Index for Cambodia                                                                | 1956-01-01          | 2022-07-01        |
 | WUIKOR             | World Uncertainty Index for Korea                                                                   | 1956-01-01          | 2022-07-01        |
 | WUIKWT             | World Uncertainty Index for Kuwait                                                                  | 1968-01-01          | 2022-07-01        |
-| WUILAO             | World Uncertainty Index for Lao P.D.R.                                                              | 1956-01-01          | 2022-04-01        |
+| WUILAO             | World Uncertainty Index for Lao P.D.R.                                                              | 1956-01-01          | 2022-07-01        |
 | WUILBN             | World Uncertainty Index for Lebanon                                                                 | 1956-01-01          | 2022-07-01        |
-| WUILBR             | World Uncertainty Index for Liberia                                                                 | 1956-07-01          | 2022-04-01        |
+| WUILBR             | World Uncertainty Index for Liberia                                                                 | 1956-07-01          | 2022-07-01        |
 | WUILBY             | World Uncertainty Index for Libya                                                                   | 1956-01-01          | 2022-07-01        |
 | WUILKA             | World Uncertainty Index for Sri Lanka                                                               | 1953-01-01          | 2022-07-01        |
 | WUILOWINCOME       | World Uncertainty Index: Low Income Economies                                                       | 1990-01-01          | 2022-07-01        |
 | WUILSO             | World Uncertainty Index for Lesotho                                                                 | 1966-10-01          | 2022-07-01        |
-| WUILTU             | World Uncertainty Index for Lithuania                                                               | 1993-01-01          | 2022-04-01        |
+| WUILTU             | World Uncertainty Index for Lithuania                                                               | 1993-01-01          | 2022-07-01        |
 | WUILVA             | World Uncertainty Index for Latvia                                                                  | 1993-01-01          | 2022-07-01        |
 | WUIMAAFG           | Smoothed World Uncertainty Index for Afghanistan                                                    | 1956-07-01          | 2022-07-01        |
 | WUIMAAGO           | Smoothed World Uncertainty Index for Angola                                                         | 1974-07-01          | 2022-07-01        |
@@ -352,7 +352,7 @@
 | WUIMADNK           | Smoothed World Uncertainty Index for Denmark                                                        | 1952-07-01          | 2022-07-01        |
 | WUIMADOM           | Smoothed World Uncertainty Index for Dominican Republic                                             | 1956-07-01          | 2022-07-01        |
 | WUIMADZA           | Smoothed World Uncertainty Index for Algeria                                                        | 1960-07-01          | 2022-07-01        |
-| WUIMAECU           | Smoothed World Uncertainty Index for Ecuador                                                        | 1954-07-01          | 2022-04-01        |
+| WUIMAECU           | Smoothed World Uncertainty Index for Ecuador                                                        | 1954-07-01          | 2022-07-01        |
 | WUIMAEGY           | Smoothed World Uncertainty Index for Egypt                                                          | 1953-07-01          | 2022-07-01        |
 | WUIMAERI           | Smoothed World Uncertainty Index for Eritrea                                                        | 1994-01-01          | 2022-07-01        |
 | WUIMAESP           | Smoothed World Uncertainty Index for Spain                                                          | 1952-07-01          | 2022-07-01        |
@@ -461,7 +461,7 @@
 | WUIMAZMB           | Smoothed World Uncertainty Index for Zambia                                                         | 1967-01-01          | 2022-07-01        |
 | WUIMAZWE           | Smoothed World Uncertainty Index for Zimbabwe                                                       | 1966-07-01          | 2022-07-01        |
 | WUIMDA             | World Uncertainty Index for Moldova                                                                 | 1992-04-01          | 2022-07-01        |
-| WUIMDG             | World Uncertainty Index for Madagascar                                                              | 1962-01-01          | 2022-04-01        |
+| WUIMDG             | World Uncertainty Index for Madagascar                                                              | 1962-01-01          | 2022-07-01        |
 | WUIMEX             | World Uncertainty Index for Mexico                                                                  | 1952-01-01          | 2022-07-01        |
 | WUIMIDEAST         | World Uncertainty Index: Middle East and Central Asia                                               | 1990-01-01          | 2022-07-01        |
 | WUIMKD             | World Uncertainty Index for FYR Macedonia                                                           | 1993-01-01          | 2022-07-01        |
@@ -469,7 +469,7 @@
 | WUIMMR             | World Uncertainty Index for Myanmar                                                                 | 1953-07-01          | 2022-07-01        |
 | WUIMNG             | World Uncertainty Index for Mongolia                                                                | 1993-01-01          | 2022-07-01        |
 | WUIMOZ             | World Uncertainty Index for Mozambique                                                              | 1974-01-01          | 2022-07-01        |
-| WUIMRT             | World Uncertainty Index for Mauritania                                                              | 1967-01-01          | 2022-04-01        |
+| WUIMRT             | World Uncertainty Index for Mauritania                                                              | 1967-01-01          | 2022-07-01        |
 | WUIMWI             | World Uncertainty Index for Malawi                                                                  | 1966-07-01          | 2022-07-01        |
 | WUIMYS             | World Uncertainty Index for Malaysia                                                                | 1954-01-01          | 2022-07-01        |
 | WUINAM             | World Uncertainty Index for Namibia                                                                 | 1978-07-01          | 2022-07-01        |
@@ -484,7 +484,7 @@
 | WUIPAK             | World Uncertainty Index for Pakistan                                                                | 1952-01-01          | 2022-07-01        |
 | WUIPAN             | World Uncertainty Index for Panama                                                                  | 1954-04-01          | 2022-07-01        |
 | WUIPER             | World Uncertainty Index for Peru                                                                    | 1954-01-01          | 2022-07-01        |
-| WUIPHL             | World Uncertainty Index for Philippines                                                             | 1952-04-01          | 2022-04-01        |
+| WUIPHL             | World Uncertainty Index for Philippines                                                             | 1952-04-01          | 2022-07-01        |
 | WUIPNG             | World Uncertainty Index for Papua New Guinea                                                        | 1970-01-01          | 2022-07-01        |
 | WUIPOL             | World Uncertainty Index for Poland                                                                  | 1971-01-01          | 2022-07-01        |
 | WUIPRT             | World Uncertainty Index for Portugal                                                                | 1952-01-01          | 2022-07-01        |
@@ -495,9 +495,9 @@
 | WUIRWA             | World Uncertainty Index for Rwanda                                                                  | 1965-01-01          | 2022-07-01        |
 | WUISAU             | World Uncertainty Index for Saudi Arabia                                                            | 1968-01-01          | 2022-07-01        |
 | WUISDN             | World Uncertainty Index for Sudan                                                                   | 1954-01-01          | 2022-07-01        |
-| WUISEN             | World Uncertainty Index for Senegal                                                                 | 1963-01-01          | 2022-04-01        |
+| WUISEN             | World Uncertainty Index for Senegal                                                                 | 1963-01-01          | 2022-07-01        |
 | WUISGP             | World Uncertainty Index for Singapore                                                               | 1957-07-01          | 2022-07-01        |
-| WUISLE             | World Uncertainty Index for Sierra Leone                                                            | 1957-01-01          | 2022-04-01        |
+| WUISLE             | World Uncertainty Index for Sierra Leone                                                            | 1957-01-01          | 2022-07-01        |
 | WUISLV             | World Uncertainty Index for El Salvador                                                             | 1954-04-01          | 2022-07-01        |
 | WUISVK             | World Uncertainty Index for Slovak Republic                                                         | 1993-04-01          | 2022-07-01        |
 | WUISVN             | World Uncertainty Index for Slovenia                                                                | 1993-01-01          | 2022-07-01        |

@@ -1,2 +1,5 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                         | observation_start   | observation_end   |
+|------------------------|-----------------------------------------------------------------------------------------------|---------------------|-------------------|
+| SMU42979620500000002SA | Average Weekly Hours of All Employees: Total Private in Delaware County, PA (DISCONTINUED)    | 2011-01-01          | 2022-03-01        |
+| SMU42979620500000003SA | Average Hourly Earnings of All Employees: Total Private in Delaware County, PA (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
+| SMU42979620500000011SA | Average Weekly Earnings of All Employees: Total Private in Delaware County, PA (DISCONTINUED) | 2011-01-01          | 2022-03-01        |

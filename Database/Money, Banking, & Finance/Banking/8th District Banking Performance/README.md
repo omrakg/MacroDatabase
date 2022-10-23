@@ -1,11 +1,11 @@
 | Folder        |   Files / Folders |
 |---------------|-------------------|
-| 8th District  |                 1 |
-| Arkansas      |               939 |
-| Mississippi   |               950 |
+| Missouri      |                 1 |
 | Kentucky      |               949 |
-| United States |                 0 |
-| Missouri      |               950 |
 | Indiana       |                 1 |
+| Mississippi   |                 1 |
+| Arkansas      |               939 |
 | Tennessee     |                 1 |
-| Illinois      |               950 |
+| United States |               853 |
+| 8th District  |                 1 |
+| Illinois      |                 1 |

@@ -24,7 +24,7 @@
 | HORAMSA39300              | Market Hotness: Hotness Rank in Providence-Warwick, RI-MA (CBSA)                                                                 | 2017-08-01          | 2022-09-01        |
 | HORAYYMSA39300            | Market Hotness: Hotness Rank in Providence-Warwick, RI-MA (CBSA)                                                                 | 2018-08-01          | 2022-09-01        |
 | HOSCMSA39300              | Market Hotness: Hotness Score in Providence-Warwick, RI-MA (CBSA)                                                                | 2017-08-01          | 2022-09-01        |
-| IHLCHG39300               | Job Postings on Indeed in Providence-Warwick, RI-MA (MSA)                                                                        | 2020-02-01          | 2022-10-07        |
+| IHLCHG39300               | Job Postings on Indeed in Providence-Warwick, RI-MA (MSA)                                                                        | 2020-02-01          | 2022-10-14        |
 | IRPD39300                 | Implicit Regional Price Deflator for Providence-Warwick, RI-MA (MSA)                                                             | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA39300          | Market Hotness: Listing Views per Property in Providence-Warwick, RI-MA (CBSA)                                                   | 2017-09-01          | 2022-09-01        |
 | LDPEPRVSUSMSA39300        | Market Hotness: Listing Views per Property Versus the United States in Providence-Warwick, RI-MA (CBSA)                          | 2017-08-01          | 2022-09-01        |
@@ -75,16 +75,16 @@
 | RPPGOOD39300              | Regional Price Parities: Goods for Providence-Warwick, RI-MA (MSA)                                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH39300          | Regional Price Parities: Services: Other for Providence-Warwick, RI-MA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT39300         | Regional Price Parities: Services: Rents for Providence-Warwick, RI-MA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| SMU44772003133991001      | All Employees: Manufacturing: Durable Goods: Jewelry and Silverware Manufacturing in Providence-Warwick, RI-MA (NECTA)           | 2003-01-01          | 2022-08-01        |
+| SMU44772003133991001      | All Employees: Manufacturing: Durable Goods: Jewelry and Silverware Manufacturing in Providence-Warwick, RI-MA (NECTA)           | 2003-01-01          | 2022-09-01        |
 | SMU44772003133991001A     | All Employees: Durable Goods: Jewelry and Silverware Manufacturing in Providence-Warwick, RI-MA (NECTA)                          | 2003-01-01          | 2021-01-01        |
-| SMU44772003133991001SA    | All Employees: Manufacturing: Durable Goods: Jewelry and Silverware Manufacturing in Providence-Warwick, RI-MA (NECTA)           | 2003-01-01          | 2022-08-01        |
+| SMU44772003133991001SA    | All Employees: Manufacturing: Durable Goods: Jewelry and Silverware Manufacturing in Providence-Warwick, RI-MA (NECTA)           | 2003-01-01          | 2022-09-01        |
 | SMU44772004245210001      | All Employees: Retail Trade: Department Stores in Providence-Warwick, RI-MA (NECTA)                                              | 2003-01-01          | 2017-12-01        |
 | SMU44772004245210001A     | All Employees: Retail Trade: Department Stores in Providence-Warwick, RI-MA (NECTA)                                              | 2003-01-01          | 2016-01-01        |
 | SMU44772004245210001SA    | All Employees: Retail Trade: Department Stores in Providence-Warwick, RI-MA (NECTA)                                              | 2003-01-01          | 2017-12-01        |
-| SMU44772007072251101      | All Employees: Leisure and Hospitality: Full-Service Restaurants in Providence-Warwick, RI-MA (NECTA)                            | 1990-01-01          | 2022-08-01        |
+| SMU44772007072251101      | All Employees: Leisure and Hospitality: Full-Service Restaurants in Providence-Warwick, RI-MA (NECTA)                            | 1990-01-01          | 2022-09-01        |
 | SMU44772007072251101A     | All Employees: Full-Service Restaurants in Providence-Warwick, RI-MA (NECTA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU44772007072251101SA    | All Employees: Leisure and Hospitality: Full-Service Restaurants in Providence-Warwick, RI-MA (NECTA)                            | 1990-01-01          | 2022-08-01        |
-| SMU44772007072259001      | All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Providence-Warwick, RI-MA (NECTA) | 1990-01-01          | 2022-08-01        |
+| SMU44772007072251101SA    | All Employees: Leisure and Hospitality: Full-Service Restaurants in Providence-Warwick, RI-MA (NECTA)                            | 1990-01-01          | 2022-09-01        |
+| SMU44772007072259001      | All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Providence-Warwick, RI-MA (NECTA) | 1990-01-01          | 2022-09-01        |
 | SMU44772007072259001A     | All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Providence-Warwick, RI-MA (NECTA) | 1990-01-01          | 2021-01-01        |
-| SMU44772007072259001SA    | All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Providence-Warwick, RI-MA (NECTA) | 1990-01-01          | 2022-08-01        |
+| SMU44772007072259001SA    | All Employees: Leisure and Hospitality: Limited-Service Restaurants and Other Eating Places in Providence-Warwick, RI-MA (NECTA) | 1990-01-01          | 2022-09-01        |
 | SUSCMSA39300              | Market Hotness: Supply Score in Providence-Warwick, RI-MA (CBSA)                                                                 | 2017-08-01          | 2022-09-01        |

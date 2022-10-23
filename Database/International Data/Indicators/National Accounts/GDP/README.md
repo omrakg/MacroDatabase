@@ -134,7 +134,7 @@
 | CHNPFCEADSMEI          | National Accounts: GDP by Expenditure: Current Prices: Private Final Consumption Expenditure for China (People's Republic Of)                   | 1978-01-01          | 2014-01-01        |
 | CLVMEURNSAB1GQAT       | Real Gross Domestic Product (Euro/ECU series) for Austria                                                                                       | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQBE       | Real Gross Domestic Product (Euro/ECU series) for Belgium                                                                                       | 1995-01-01          | 2022-04-01        |
-| CLVMEURNSAB1GQBG       | Real Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                                      | 1995-01-01          | 2022-01-01        |
+| CLVMEURNSAB1GQBG       | Real Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                                      | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQCH       | Real Gross Domestic Product (Euro/ECU series) for Switzerland                                                                                   | 1980-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQCY       | Real Gross Domestic Product (Euro/ECU series) for Cyprus                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQCZ       | Real Gross Domestic Product (Euro/ECU series) for Czech Republic                                                                                | 1996-01-01          | 2022-04-01        |
@@ -145,7 +145,7 @@
 | CLVMEURNSAB1GQEA18     | Real Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                                                      | 1995-01-01          | 2017-07-01        |
 | CLVMEURNSAB1GQEA19     | Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                                                      | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQEE       | Real Gross Domestic Product (Euro/ECU series) for Estonia                                                                                       | 1995-01-01          | 2022-04-01        |
-| CLVMEURNSAB1GQEL       | Real Gross Domestic Product (Euro/ECU series) for Greece                                                                                        | 1995-01-01          | 2022-01-01        |
+| CLVMEURNSAB1GQEL       | Real Gross Domestic Product (Euro/ECU series) for Greece                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQES       | Real Gross Domestic Product (Euro/ECU series) for Spain                                                                                         | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQEU15     | Real Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                                                 | 1995-01-01          | 2019-10-01        |
 | CLVMEURNSAB1GQEU28     | Real Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                                                 | 1995-01-01          | 2019-10-01        |
@@ -158,7 +158,7 @@
 | CLVMEURNSAB1GQIS       | Real Gross Domestic Product (Euro/ECU series) for Iceland                                                                                       | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQIT       | Real Gross Domestic Product (Euro/ECU series) for Italy                                                                                         | 1996-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQLT       | Real Gross Domestic Product (Euro/ECU series) for Lithuania                                                                                     | 1995-01-01          | 2022-04-01        |
-| CLVMEURNSAB1GQLU       | Real Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                                    | 1995-01-01          | 2022-01-01        |
+| CLVMEURNSAB1GQLU       | Real Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                                    | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQLV       | Real Gross Domestic Product (Euro/ECU series) for Latvia                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQMK       | Real Gross Domestic Product (Euro/ECU series) for the former Yugoslav Republic of Macedonia                                                     | 2000-01-01          | 2022-04-01        |
 | CLVMEURNSAB1GQMT       | Real Gross Domestic Product (Euro/ECU series) for Malta                                                                                         | 2000-01-01          | 2022-04-01        |
@@ -180,7 +180,7 @@
 | CLVMEURSAB1GQUK        | Real Gross Domestic Product (Euro/ECU series) for United Kingdom                                                                                | 1975-01-01          | 2014-10-01        |
 | CLVMEURSCAB1GQAT       | Real Gross Domestic Product (Euro/ECU series) for Austria                                                                                       | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQBE       | Real Gross Domestic Product (Euro/ECU series) for Belgium                                                                                       | 1995-01-01          | 2022-04-01        |
-| CLVMEURSCAB1GQBG       | Real Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                                      | 1995-01-01          | 2022-01-01        |
+| CLVMEURSCAB1GQBG       | Real Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                                      | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQCH       | Real Gross Domestic Product (Euro/ECU series) for Switzerland                                                                                   | 1980-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQCY       | Real Gross Domestic Product (Euro/ECU series) for Cyprus                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQCZ       | Real Gross Domestic Product (Euro/ECU series) for Czech Republic                                                                                | 1996-01-01          | 2022-04-01        |
@@ -191,7 +191,7 @@
 | CLVMEURSCAB1GQEA18     | Real Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                                                      | 1995-01-01          | 2017-07-01        |
 | CLVMEURSCAB1GQEA19     | Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                                                      | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQEE       | Real Gross Domestic Product (Euro/ECU series) for Estonia                                                                                       | 1995-01-01          | 2022-04-01        |
-| CLVMEURSCAB1GQEL       | Real Gross Domestic Product (Euro/ECU series) for Greece                                                                                        | 1995-01-01          | 2022-01-01        |
+| CLVMEURSCAB1GQEL       | Real Gross Domestic Product (Euro/ECU series) for Greece                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQES       | Real Gross Domestic Product (Euro/ECU series) for Spain                                                                                         | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQEU15     | Real Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                                                 | 1995-01-01          | 2019-10-01        |
 | CLVMEURSCAB1GQEU28     | Real Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                                                 | 1995-01-01          | 2019-10-01        |
@@ -202,7 +202,7 @@
 | CLVMEURSCAB1GQHU       | Real Gross Domestic Product (Euro/ECU series) for Hungary                                                                                       | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQIT       | Real Gross Domestic Product (Euro/ECU series) for Italy                                                                                         | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQLT       | Real Gross Domestic Product (Euro/ECU series) for Lithuania                                                                                     | 1995-01-01          | 2022-04-01        |
-| CLVMEURSCAB1GQLU       | Real Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                                    | 1995-01-01          | 2022-01-01        |
+| CLVMEURSCAB1GQLU       | Real Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                                    | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQLV       | Real Gross Domestic Product (Euro/ECU series) for Latvia                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQMT       | Real Gross Domestic Product (Euro/ECU series) for Malta                                                                                         | 2000-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQNL       | Real Gross Domestic Product (Euro/ECU series) for Netherlands                                                                                   | 1996-01-01          | 2022-04-01        |
@@ -214,10 +214,10 @@
 | CLVMEURSCAB1GQSE       | Real Gross Domestic Product (Euro/ECU series) for Sweden                                                                                        | 1993-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQSI       | Real Gross Domestic Product (Euro/ECU series) for Slovenia                                                                                      | 1995-01-01          | 2022-04-01        |
 | CLVMEURSCAB1GQUK       | Real Gross Domestic Product (Euro/ECU series) for United Kingdom                                                                                | 1975-01-01          | 2020-07-01        |
-| CLVMNACNSAB1GQAL       | Real Gross Domestic Product for Albania                                                                                                         | 2009-01-01          | 2022-01-01        |
+| CLVMNACNSAB1GQAL       | Real Gross Domestic Product for Albania                                                                                                         | 2009-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQAT       | Real Gross Domestic Product for Austria                                                                                                         | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQBE       | Real Gross Domestic Product for Belgium                                                                                                         | 1995-01-01          | 2022-04-01        |
-| CLVMNACNSAB1GQBG       | Real Gross Domestic Product for Bulgaria                                                                                                        | 1995-01-01          | 2022-01-01        |
+| CLVMNACNSAB1GQBG       | Real Gross Domestic Product for Bulgaria                                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQCH       | Real Gross Domestic Product for Switzerland                                                                                                     | 1980-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQCY       | Real Gross Domestic Product for Cyprus                                                                                                          | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQCZ       | Real Gross Domestic Product for Czech Republic                                                                                                  | 1996-01-01          | 2022-04-01        |
@@ -228,7 +228,7 @@
 | CLVMNACNSAB1GQEA18     | Real Gross Domestic Product for Euro area (18 countries)                                                                                        | 1995-01-01          | 2017-07-01        |
 | CLVMNACNSAB1GQEA19     | Real Gross Domestic Product for Euro area (19 countries)                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQEE       | Real Gross Domestic Product for Estonia                                                                                                         | 1995-01-01          | 2022-04-01        |
-| CLVMNACNSAB1GQEL       | Real Gross Domestic Product for Greece                                                                                                          | 1995-01-01          | 2022-01-01        |
+| CLVMNACNSAB1GQEL       | Real Gross Domestic Product for Greece                                                                                                          | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQES       | Real Gross Domestic Product for Spain                                                                                                           | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQEU15     | Real Gross Domestic Product for European Union (15 countries)                                                                                   | 1995-01-01          | 2019-10-01        |
 | CLVMNACNSAB1GQEU28     | Real Gross Domestic Product for European Union (28 countries)                                                                                   | 1995-01-01          | 2019-10-01        |
@@ -241,7 +241,7 @@
 | CLVMNACNSAB1GQIS       | Real Gross Domestic Product for Iceland                                                                                                         | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQIT       | Real Gross Domestic Product for Italy                                                                                                           | 1996-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQLT       | Real Gross Domestic Product for Lithuania                                                                                                       | 1995-01-01          | 2022-04-01        |
-| CLVMNACNSAB1GQLU       | Real Gross Domestic Product for Luxembourg                                                                                                      | 1995-01-01          | 2022-01-01        |
+| CLVMNACNSAB1GQLU       | Real Gross Domestic Product for Luxembourg                                                                                                      | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQLV       | Real Gross Domestic Product for Latvia                                                                                                          | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQMK       | Real Gross Domestic Product for the former Yugoslav Republic of Macedonia                                                                       | 2000-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQMT       | Real Gross Domestic Product for Malta                                                                                                           | 2000-01-01          | 2022-04-01        |
@@ -255,7 +255,7 @@
 | CLVMNACNSAB1GQSI       | Real Gross Domestic Product for Slovenia                                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQSK       | Real Gross Domestic Product for Slovakia                                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMNACNSAB1GQUK       | Real Gross Domestic Product for United Kingdom                                                                                                  | 1995-01-01          | 2020-07-01        |
-| CLVMNACSAB1GQAL        | Real Gross Domestic Product for Albania                                                                                                         | 2009-01-01          | 2022-01-01        |
+| CLVMNACSAB1GQAL        | Real Gross Domestic Product for Albania                                                                                                         | 2009-01-01          | 2022-04-01        |
 | CLVMNACSAB1GQCH        | Real Gross Domestic Product for Switzerland                                                                                                     | 1980-01-01          | 2022-04-01        |
 | CLVMNACSAB1GQCY        | Real Gross Domestic Product for Cyprus                                                                                                          | 1995-01-01          | 2017-04-01        |
 | CLVMNACSAB1GQIE        | Real Gross Domestic Product for Ireland                                                                                                         | 1997-01-01          | 2015-10-01        |
@@ -264,7 +264,7 @@
 | CLVMNACSAB1GQUK        | Real Gross Domestic Product for United Kingdom                                                                                                  | 1975-01-01          | 2014-10-01        |
 | CLVMNACSCAB1GQAT       | Real Gross Domestic Product for Austria                                                                                                         | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQBE       | Real Gross Domestic Product for Belgium                                                                                                         | 1995-01-01          | 2022-04-01        |
-| CLVMNACSCAB1GQBG       | Real Gross Domestic Product for Bulgaria                                                                                                        | 1995-01-01          | 2022-01-01        |
+| CLVMNACSCAB1GQBG       | Real Gross Domestic Product for Bulgaria                                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQCH       | Real Gross Domestic Product for Switzerland                                                                                                     | 1980-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQCY       | Real Gross Domestic Product for Cyprus                                                                                                          | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQCZ       | Real Gross Domestic Product for Czech Republic                                                                                                  | 1996-01-01          | 2022-04-01        |
@@ -275,7 +275,7 @@
 | CLVMNACSCAB1GQEA18     | Real Gross Domestic Product for Euro area (18 countries)                                                                                        | 1995-01-01          | 2017-07-01        |
 | CLVMNACSCAB1GQEA19     | Real Gross Domestic Product for Euro area (19 countries)                                                                                        | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQEE       | Real Gross Domestic Product for Estonia                                                                                                         | 1995-01-01          | 2022-04-01        |
-| CLVMNACSCAB1GQEL       | Real Gross Domestic Product for Greece                                                                                                          | 1995-01-01          | 2022-01-01        |
+| CLVMNACSCAB1GQEL       | Real Gross Domestic Product for Greece                                                                                                          | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQES       | Real Gross Domestic Product for Spain                                                                                                           | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQEU15     | Real Gross Domestic Product for European Union (15 countries)                                                                                   | 1995-01-01          | 2019-10-01        |
 | CLVMNACSCAB1GQEU28     | Real Gross Domestic Product for European Union (28 countries)                                                                                   | 1995-01-01          | 2019-10-01        |
@@ -286,7 +286,7 @@
 | CLVMNACSCAB1GQHU       | Real Gross Domestic Product for Hungary                                                                                                         | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQIT       | Real Gross Domestic Product for Italy                                                                                                           | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQLT       | Real Gross Domestic Product for Lithuania                                                                                                       | 1995-01-01          | 2022-04-01        |
-| CLVMNACSCAB1GQLU       | Real Gross Domestic Product for Luxembourg                                                                                                      | 1995-01-01          | 2022-01-01        |
+| CLVMNACSCAB1GQLU       | Real Gross Domestic Product for Luxembourg                                                                                                      | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQLV       | Real Gross Domestic Product for Latvia                                                                                                          | 1995-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQMT       | Real Gross Domestic Product for Malta                                                                                                           | 2000-01-01          | 2022-04-01        |
 | CLVMNACSCAB1GQNL       | Real Gross Domestic Product for Netherlands                                                                                                     | 1996-01-01          | 2022-04-01        |
@@ -300,7 +300,7 @@
 | CLVMNACSCAB1GQUK       | Real Gross Domestic Product for United Kingdom                                                                                                  | 1975-01-01          | 2020-07-01        |
 | CPMEURNSAB1GQAT        | Gross Domestic Product (Euro/ECU series) for Austria                                                                                            | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQBE        | Gross Domestic Product (Euro/ECU series) for Belgium                                                                                            | 1995-01-01          | 2022-04-01        |
-| CPMEURNSAB1GQBG        | Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                                           | 1995-01-01          | 2022-01-01        |
+| CPMEURNSAB1GQBG        | Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQCH        | Gross Domestic Product (Euro/ECU series) for Switzerland                                                                                        | 1980-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQCY        | Gross Domestic Product (Euro/ECU series) for Cyprus                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQCZ        | Gross Domestic Product (Euro/ECU series) for Czech Republic                                                                                     | 1995-01-01          | 2022-04-01        |
@@ -311,7 +311,7 @@
 | CPMEURNSAB1GQEA18      | Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                                                           | 1995-01-01          | 2017-07-01        |
 | CPMEURNSAB1GQEA19      | Gross Domestic Product (Euro/ECU series) for Euro area (19 countries)                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQEE        | Gross Domestic Product (Euro/ECU series) for Estonia                                                                                            | 1995-01-01          | 2022-04-01        |
-| CPMEURNSAB1GQEL        | Gross Domestic Product (Euro/ECU series) for Greece                                                                                             | 1995-01-01          | 2022-01-01        |
+| CPMEURNSAB1GQEL        | Gross Domestic Product (Euro/ECU series) for Greece                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQES        | Gross Domestic Product (Euro/ECU series) for Spain                                                                                              | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQEU15      | Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                                                      | 1995-01-01          | 2019-10-01        |
 | CPMEURNSAB1GQEU28      | Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                                                      | 1995-01-01          | 2019-10-01        |
@@ -324,9 +324,9 @@
 | CPMEURNSAB1GQIS        | Gross Domestic Product (Euro/ECU series) for Iceland                                                                                            | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQIT        | Gross Domestic Product (Euro/ECU series) for Italy                                                                                              | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQLT        | Gross Domestic Product (Euro/ECU series) for Lithuania                                                                                          | 1995-01-01          | 2022-04-01        |
-| CPMEURNSAB1GQLU        | Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                                         | 1995-01-01          | 2022-01-01        |
+| CPMEURNSAB1GQLU        | Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                                         | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQLV        | Gross Domestic Product (Euro/ECU series) for Latvia                                                                                             | 1995-01-01          | 2022-04-01        |
-| CPMEURNSAB1GQME        | Gross Domestic Product (Euro/ECU series) for Montenegro                                                                                         | 2006-01-01          | 2022-01-01        |
+| CPMEURNSAB1GQME        | Gross Domestic Product (Euro/ECU series) for Montenegro                                                                                         | 2006-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQMK        | Gross Domestic Product (Euro/ECU series) for the former Yugoslav Republic of Macedonia                                                          | 2000-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQMT        | Gross Domestic Product (Euro/ECU series) for Malta                                                                                              | 2000-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQNL        | Gross Domestic Product (Euro/ECU series) for Netherlands                                                                                        | 1995-01-01          | 2022-04-01        |
@@ -339,7 +339,7 @@
 | CPMEURNSAB1GQSI        | Gross Domestic Product (Euro/ECU series) for Slovenia                                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQSK        | Gross Domestic Product (Euro/ECU series) for Slovakia                                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMEURNSAB1GQUK        | Gross Domestic Product (Euro/ECU series) for United Kingdom                                                                                     | 1975-01-01          | 2020-07-01        |
-| CPMEURNSAB1GQXK        | Gross Domestic Product (Euro/ECU series) for Kosovo                                                                                             | 2010-01-01          | 2022-01-01        |
+| CPMEURNSAB1GQXK        | Gross Domestic Product (Euro/ECU series) for Kosovo                                                                                             | 2010-01-01          | 2022-04-01        |
 | CPMEURSAB1GQCH         | Gross Domestic Product (Euro/ECU series) for Switzerland                                                                                        | 1980-01-01          | 2022-04-01        |
 | CPMEURSAB1GQCY         | Gross Domestic Product (Euro/ECU series) for Cyprus                                                                                             | 1995-01-01          | 2017-04-01        |
 | CPMEURSAB1GQIE         | Gross Domestic Product (Euro/ECU series) for Ireland                                                                                            | 1997-01-01          | 2015-10-01        |
@@ -347,7 +347,7 @@
 | CPMEURSAB1GQSK         | Gross Domestic Product (Euro/ECU series) for Slovakia                                                                                           | 1995-01-01          | 2020-07-01        |
 | CPMEURSCAB1GQAT        | Gross Domestic Product (Euro/ECU series) for Austria                                                                                            | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQBE        | Gross Domestic Product (Euro/ECU series) for Belgium                                                                                            | 1995-01-01          | 2022-04-01        |
-| CPMEURSCAB1GQBG        | Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                                           | 1995-01-01          | 2022-01-01        |
+| CPMEURSCAB1GQBG        | Gross Domestic Product (Euro/ECU series) for Bulgaria                                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQCH        | Gross Domestic Product (Euro/ECU series) for Switzerland                                                                                        | 1980-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQCY        | Gross Domestic Product (Euro/ECU series) for Cyprus                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQCZ        | Gross Domestic Product (Euro/ECU series) for Czech Republic                                                                                     | 1995-01-01          | 2022-04-01        |
@@ -357,7 +357,7 @@
 | CPMEURSCAB1GQEA12      | Gross Domestic Product (Euro/ECU series) for Euro area (12 countries)                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQEA18      | Gross Domestic Product (Euro/ECU series) for Euro area (18 countries)                                                                           | 1995-01-01          | 2017-07-01        |
 | CPMEURSCAB1GQEE        | Gross Domestic Product (Euro/ECU series) for Estonia                                                                                            | 1995-01-01          | 2022-04-01        |
-| CPMEURSCAB1GQEL        | Gross Domestic Product (Euro/ECU series) for Greece                                                                                             | 1995-01-01          | 2022-01-01        |
+| CPMEURSCAB1GQEL        | Gross Domestic Product (Euro/ECU series) for Greece                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQES        | Gross Domestic Product (Euro/ECU series) for Spain                                                                                              | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQEU15      | Gross Domestic Product (Euro/ECU series) for European Union (15 countries)                                                                      | 1995-01-01          | 2019-10-01        |
 | CPMEURSCAB1GQEU28      | Gross Domestic Product (Euro/ECU series) for European Union (28 countries)                                                                      | 1995-01-01          | 2019-10-01        |
@@ -368,7 +368,7 @@
 | CPMEURSCAB1GQHU        | Gross Domestic Product (Euro/ECU series) for Hungary                                                                                            | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQIT        | Gross Domestic Product (Euro/ECU series) for Italy                                                                                              | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQLT        | Gross Domestic Product (Euro/ECU series) for Lithuania                                                                                          | 1995-01-01          | 2022-04-01        |
-| CPMEURSCAB1GQLU        | Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                                         | 1995-01-01          | 2022-01-01        |
+| CPMEURSCAB1GQLU        | Gross Domestic Product (Euro/ECU series) for Luxembourg                                                                                         | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQLV        | Gross Domestic Product (Euro/ECU series) for Latvia                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQMT        | Gross Domestic Product (Euro/ECU series) for Malta                                                                                              | 2000-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQNL        | Gross Domestic Product (Euro/ECU series) for Netherlands                                                                                        | 1995-01-01          | 2022-04-01        |
@@ -379,10 +379,10 @@
 | CPMEURSCAB1GQSE        | Gross Domestic Product (Euro/ECU series) for Sweden                                                                                             | 1993-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQSI        | Gross Domestic Product (Euro/ECU series) for Slovenia                                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMEURSCAB1GQUK        | Gross Domestic Product (Euro/ECU series) for United Kingdom                                                                                     | 1995-01-01          | 2020-07-01        |
-| CPMNACNSAB1GQAL        | Gross Domestic Product for Albania                                                                                                              | 2008-01-01          | 2022-01-01        |
+| CPMNACNSAB1GQAL        | Gross Domestic Product for Albania                                                                                                              | 2008-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQAT        | Gross Domestic Product for Austria                                                                                                              | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQBE        | Gross Domestic Product for Belgium                                                                                                              | 1995-01-01          | 2022-04-01        |
-| CPMNACNSAB1GQBG        | Gross Domestic Product for Bulgaria                                                                                                             | 1995-01-01          | 2022-01-01        |
+| CPMNACNSAB1GQBG        | Gross Domestic Product for Bulgaria                                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQCH        | Gross Domestic Product for Switzerland                                                                                                          | 1980-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQCY        | Gross Domestic Product for Cyprus                                                                                                               | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQCZ        | Gross Domestic Product for Czech Republic                                                                                                       | 1995-01-01          | 2022-04-01        |
@@ -393,7 +393,7 @@
 | CPMNACNSAB1GQEA18      | Gross Domestic Product for Euro area (18 countries)                                                                                             | 1995-01-01          | 2017-07-01        |
 | CPMNACNSAB1GQEA19      | Gross Domestic Product for Euro area (19 countries)                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQEE        | Gross Domestic Product for Estonia                                                                                                              | 1995-01-01          | 2022-04-01        |
-| CPMNACNSAB1GQEL        | Gross Domestic Product for Greece                                                                                                               | 1995-01-01          | 2022-01-01        |
+| CPMNACNSAB1GQEL        | Gross Domestic Product for Greece                                                                                                               | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQES        | Gross Domestic Product for Spain                                                                                                                | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQEU15      | Gross Domestic Product for European Union (15 countries)                                                                                        | 1995-01-01          | 2019-10-01        |
 | CPMNACNSAB1GQEU28      | Gross Domestic Product for European Union (28 countries)                                                                                        | 1995-01-01          | 2019-10-01        |
@@ -406,9 +406,9 @@
 | CPMNACNSAB1GQIS        | Gross Domestic Product for Iceland                                                                                                              | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQIT        | Gross Domestic Product for Italy                                                                                                                | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQLT        | Gross Domestic Product for Lithuania                                                                                                            | 1995-01-01          | 2022-04-01        |
-| CPMNACNSAB1GQLU        | Gross Domestic Product for Luxembourg                                                                                                           | 1995-01-01          | 2022-01-01        |
+| CPMNACNSAB1GQLU        | Gross Domestic Product for Luxembourg                                                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQLV        | Gross Domestic Product for Latvia                                                                                                               | 1995-01-01          | 2022-04-01        |
-| CPMNACNSAB1GQME        | Gross Domestic Product for Montenegro                                                                                                           | 2006-01-01          | 2022-01-01        |
+| CPMNACNSAB1GQME        | Gross Domestic Product for Montenegro                                                                                                           | 2006-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQMK        | Gross Domestic Product for the former Yugoslav Republic of Macedonia                                                                            | 2000-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQMT        | Gross Domestic Product for Malta                                                                                                                | 2000-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQNL        | Gross Domestic Product for Netherlands                                                                                                          | 1995-01-01          | 2022-04-01        |
@@ -421,8 +421,8 @@
 | CPMNACNSAB1GQSI        | Gross Domestic Product for Slovenia                                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQSK        | Gross Domestic Product for Slovakia                                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMNACNSAB1GQUK        | Gross Domestic Product for United Kingdom                                                                                                       | 1975-01-01          | 2020-07-01        |
-| CPMNACNSAB1GQXK        | Gross Domestic Product for Kosovo                                                                                                               | 2010-01-01          | 2022-01-01        |
-| CPMNACSAB1GQAL         | Gross Domestic Product for Albania                                                                                                              | 2008-01-01          | 2022-01-01        |
+| CPMNACNSAB1GQXK        | Gross Domestic Product for Kosovo                                                                                                               | 2010-01-01          | 2022-04-01        |
+| CPMNACSAB1GQAL         | Gross Domestic Product for Albania                                                                                                              | 2008-01-01          | 2022-04-01        |
 | CPMNACSAB1GQCH         | Gross Domestic Product for Switzerland                                                                                                          | 1980-01-01          | 2022-04-01        |
 | CPMNACSAB1GQCY         | Gross Domestic Product for Cyprus                                                                                                               | 1995-01-01          | 2017-04-01        |
 | CPMNACSAB1GQIE         | Gross Domestic Product for Ireland                                                                                                              | 1997-01-01          | 2015-10-01        |
@@ -431,7 +431,7 @@
 | CPMNACSCAB1GQAL        | Gross Domestic Product for Albania                                                                                                              | 2008-01-01          | 2015-01-01        |
 | CPMNACSCAB1GQAT        | Gross Domestic Product for Austria                                                                                                              | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQBE        | Gross Domestic Product for Belgium                                                                                                              | 1995-01-01          | 2022-04-01        |
-| CPMNACSCAB1GQBG        | Gross Domestic Product for Bulgaria                                                                                                             | 1995-01-01          | 2022-01-01        |
+| CPMNACSCAB1GQBG        | Gross Domestic Product for Bulgaria                                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQCH        | Gross Domestic Product for Switzerland                                                                                                          | 1980-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQCY        | Gross Domestic Product for Cyprus                                                                                                               | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQCZ        | Gross Domestic Product for Czech Republic                                                                                                       | 1995-01-01          | 2022-04-01        |
@@ -442,7 +442,7 @@
 | CPMNACSCAB1GQEA18      | Gross Domestic Product for Euro area (18 countries)                                                                                             | 1995-01-01          | 2017-07-01        |
 | CPMNACSCAB1GQEA19      | Gross Domestic Product for Euro area (19 countries)                                                                                             | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQEE        | Gross Domestic Product for Estonia                                                                                                              | 1995-01-01          | 2022-04-01        |
-| CPMNACSCAB1GQEL        | Gross Domestic Product for Greece                                                                                                               | 1995-01-01          | 2022-01-01        |
+| CPMNACSCAB1GQEL        | Gross Domestic Product for Greece                                                                                                               | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQES        | Gross Domestic Product for Spain                                                                                                                | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQEU15      | Gross Domestic Product for European Union (15 countries)                                                                                        | 1995-01-01          | 2019-10-01        |
 | CPMNACSCAB1GQEU28      | Gross Domestic Product for European Union (28 countries)                                                                                        | 1995-01-01          | 2019-10-01        |
@@ -453,7 +453,7 @@
 | CPMNACSCAB1GQHU        | Gross Domestic Product for Hungary                                                                                                              | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQIT        | Gross Domestic Product for Italy                                                                                                                | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQLT        | Gross Domestic Product for Lithuania                                                                                                            | 1995-01-01          | 2022-04-01        |
-| CPMNACSCAB1GQLU        | Gross Domestic Product for Luxembourg                                                                                                           | 1995-01-01          | 2022-01-01        |
+| CPMNACSCAB1GQLU        | Gross Domestic Product for Luxembourg                                                                                                           | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQLV        | Gross Domestic Product for Latvia                                                                                                               | 1995-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQMT        | Gross Domestic Product for Malta                                                                                                                | 2000-01-01          | 2022-04-01        |
 | CPMNACSCAB1GQNL        | Gross Domestic Product for Netherlands                                                                                                          | 1995-01-01          | 2022-04-01        |

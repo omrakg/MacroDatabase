@@ -1,20 +1,20 @@
 | id              | title                                                                                      | observation_start   | observation_end   |
 |-----------------|--------------------------------------------------------------------------------------------|---------------------|-------------------|
 | CNSTA           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Construction                         | 1964-01-01          | 2021-01-01        |
-| CNSTQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Construction                         | 1964-01-01          | 2022-04-01        |
+| CNSTQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Construction                         | 1964-01-01          | 2022-07-01        |
 | COMPNFB         | Nonfarm Business Sector: Hourly Compensation for All Employed Persons                      | 1947-01-01          | 2022-04-01        |
 | COMPRNFB        | Nonfarm Business Sector: Real Hourly Compensation for All Employed Persons                 | 1947-01-01          | 2022-04-01        |
 | DRMGA           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing | 1964-01-01          | 2021-01-01        |
-| DRMGQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing | 1964-01-01          | 2022-04-01        |
+| DRMGQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing | 1964-01-01          | 2022-07-01        |
 | EHSCA           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Education and Health Services        | 1964-01-01          | 2021-01-01        |
-| EHSCQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Education and Health Services        | 1964-01-01          | 2022-04-01        |
+| EHSCQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Education and Health Services        | 1964-01-01          | 2022-07-01        |
 | FNATA           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Financial Activities                 | 1964-01-01          | 2021-01-01        |
-| FNATQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Financial Activities                 | 1964-01-01          | 2022-04-01        |
+| FNATQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Financial Activities                 | 1964-01-01          | 2022-07-01        |
 | GVRTA           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Government                           | 1964-01-01          | 2021-01-01        |
-| GVRTQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Government                           | 1964-01-01          | 2022-04-01        |
+| GVRTQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Government                           | 1964-01-01          | 2022-07-01        |
 | HOANBS          | Nonfarm Business Sector: Hours Worked for All Employed Persons                             | 1947-01-01          | 2022-04-01        |
 | INFRA           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Information                          | 1964-01-01          | 2021-01-01        |
-| INFRQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Information                          | 1964-01-01          | 2022-04-01        |
+| INFRQ           | Hours of Wage and Salary Workers on Nonfarm Payrolls: Information                          | 1964-01-01          | 2022-07-01        |
 | IPDNBS          | Nonfarm Business Sector: Implicit Price Deflator for All Employed Persons                  | 1947-01-01          | 2022-04-01        |
 | IPUZNL000010000 | Labor Productivity for Private Nonfarm in Alabama                                          | 2007-01-01          | 2021-01-01        |
 | IPUZNL000020000 | Labor Productivity for Private Nonfarm in Alaska                                           | 2007-01-01          | 2021-01-01        |

@@ -11,6 +11,15 @@
 | BOST625BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Boston-Cambridge-Newton, MA-NH (MSA) | 1988-01-01          | 2022-08-01        |
 | BOST625BPPRIV             | New Private Housing Structures Authorized by Building Permits for Boston-Cambridge-Newton, MA-NH (MSA)               | 1988-01-01          | 2022-08-01        |
 | BOST625BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for Boston-Cambridge-Newton, MA-NH (MSA)               | 1988-01-01          | 2022-08-01        |
+| BOXRCPSNSA                | Condo Price Sales Pair Counts for Boston, Massachusetts                                                              | 1995-01-01          | 2022-07-01        |
+| BOXRCSA                   | Condo Price Index for Boston, Massachusetts                                                                          | 1995-01-01          | 2022-07-01        |
+| BOXRHTNSA                 | Home Price Index (High Tier) for Boston, Massachusetts                                                               | 1987-01-01          | 2022-07-01        |
+| BOXRHTSA                  | Home Price Index (High Tier) for Boston, Massachusetts                                                               | 1987-01-01          | 2022-07-01        |
+| BOXRLTNSA                 | Home Price Index (Low Tier) for Boston, Massachusetts                                                                | 1987-01-01          | 2022-07-01        |
+| BOXRLTSA                  | Home Price Index (Low Tier) for Boston, Massachusetts                                                                | 1987-01-01          | 2022-07-01        |
+| BOXRMTNSA                 | Home Price Index (Middle Tier) for Boston, Massachusetts                                                             | 1987-01-01          | 2022-07-01        |
+| BOXRMTSA                  | Home Price Index (Middle Tier) for Boston, Massachusetts                                                             | 1987-01-01          | 2022-07-01        |
+| BOXRPSNSA                 | Home Price Sales Pair Counts for Boston, Massachusetts                                                               | 1987-01-01          | 2022-07-01        |
 | DESCMSA14460              | Market Hotness: Demand Score in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-08-01          | 2022-09-01        |
 | ENUC144630010             | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
 | ENUC144630010SA           | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
@@ -28,7 +37,7 @@
 | HORAMSA14460              | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-08-01          | 2022-09-01        |
 | HORAYYMSA14460            | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2018-08-01          | 2022-09-01        |
 | HOSCMSA14460              | Market Hotness: Hotness Score in Boston-Cambridge-Newton, MA-NH (CBSA)                                               | 2017-08-01          | 2022-09-01        |
-| IHLCHG14460               | Job Postings on Indeed in Boston-Cambridge-Newton, MA-NH (MSA)                                                       | 2020-02-01          | 2022-10-07        |
+| IHLCHG14460               | Job Postings on Indeed in Boston-Cambridge-Newton, MA-NH (MSA)                                                       | 2020-02-01          | 2022-10-14        |
 | IRPD14460                 | Implicit Regional Price Deflator for Boston-Cambridge-Newton, MA-NH (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LDPEPRMMMSA14460          | Market Hotness: Listing Views per Property in Boston-Cambridge-Newton, MA-NH (CBSA)                                  | 2017-09-01          | 2022-09-01        |
 | LDPEPRVSUSMSA14460        | Market Hotness: Listing Views per Property Versus the United States in Boston-Cambridge-Newton, MA-NH (CBSA)         | 2017-08-01          | 2022-09-01        |

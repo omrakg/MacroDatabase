@@ -1049,7 +1049,7 @@
 | IDNPROMANAISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2020-01-01        |
 | IDNPROMANMISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2018-12-01        |
 | IDNPROMANQISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2018-10-01        |
-| IGREA               | Index of Global Real Economic Activity                                                             | 1968-01-01          | 2022-07-01        |
+| IGREA               | Index of Global Real Economic Activity                                                             | 1968-01-01          | 2022-08-01        |
 | INDPROINDAISMEI     | Production of Total Industry in India                                                              | 1995-01-01          | 2021-01-01        |
 | INDPROINDMISMEI     | Production of Total Industry in India                                                              | 1994-04-01          | 2022-06-01        |
 | INDPROINDQISMEI     | Production of Total Industry in India                                                              | 1994-04-01          | 2022-04-01        |

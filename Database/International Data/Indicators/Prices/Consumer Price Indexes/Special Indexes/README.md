@@ -1,34 +1,3 @@
-| id          | title                                                                                                                                        | observation_start   | observation_end   |
-|-------------|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| WPUSI01102A | Producer Price Index by Commodity: Special Indexes: Apples                                                                                   | 2008-06-01          | 2022-09-01        |
-| WPUSI01102B | Producer Price Index by Commodity: Special Indexes: Berries                                                                                  | 2008-06-01          | 2022-09-01        |
-| WPUSI004011 | Producer Price Index by Commodity: Special Indexes: Lumber and Plywood                                                                       | 1967-01-01          | 2022-09-01        |
-| WPUSI006111 | Producer Price Index by Commodity: Special Indexes: All Commodities Except Farm Products                                                     | 1967-01-01          | 2022-09-01        |
-| WPUSI07003  | Producer Price Index by Commodity: Special Indexes: Pharmaceuticals for Human Use, Prescription                                              | 2001-06-01          | 2022-09-01        |
-| WPUSI07006  | Producer Price Index by Commodity: Special Indexes: Pharmaceuticals for Human Use, Non-Prescription                                          | 2001-06-01          | 2022-09-01        |
-| WPUSI012011 | Producer Price Index by Commodity: Special Indexes: Construction Materials                                                                   | 1947-01-01          | 2022-09-01        |
-| WPUSI013011 | Producer Price Index by Commodity: Special Indexes: All Foods                                                                                | 1967-01-01          | 2022-09-01        |
-| WPUSI017011 | Producer Price Index by Commodity: Special Indexes: Fabricated Metal Products                                                                | 1967-01-01          | 2022-09-01        |
-| WPUSI018011 | Producer Price Index by Commodity: Special Indexes: Special Metals and Metal Products                                                        | 1967-01-01          | 2022-09-01        |
-| WPUSI019011 | Producer Price Index by Commodity: Special Indexes: Copper and Copper Products                                                               | 1967-01-01          | 2022-09-01        |
-| WPUSI020011 | Producer Price Index by Commodity: Special Indexes: Chemicals and Allied Products, Including Synthetic Rubber and Synthetic Fibers and Yarns | 1967-01-01          | 2022-09-01        |
-| WPUSI021011 | Producer Price Index by Commodity: Special Indexes: Metalworking Machinery                                                                   | 1967-01-01          | 2022-09-01        |
-| WPUSI021012 | Producer Price Index by Commodity: Special Indexes: Agriculture Machinery and Equipment, Less Parts                                          | 1974-01-01          | 2022-09-01        |
-| WPUSI023011 | Producer Price Index by Commodity: Special Indexes: Total Tractors                                                                           | 1967-01-01          | 2022-09-01        |
-| WPUSI023012 | Producer Price Index by Commodity: Special Indexes: Farm and Garden Tractors, Less Parts                                                     | 1974-01-01          | 2019-01-01        |
-| WPUSI024011 | Producer Price Index by Commodity: Special Indexes: Agricultural Machinery, Including Tractors                                               | 1967-01-01          | 2022-09-01        |
-| WPUSI024012 | Producer Price Index by Commodity: Special Indexes: Agricultural Machinery, Excluding Tractors                                               | 1974-01-01          | 2022-09-01        |
-| WPUSI070011 | Producer Price Index by Commodity: Special Indexes: Pharmaceutical Preparations for Human and Veterinary Use                                 | 1967-01-01          | 2022-09-01        |
-| WPUSI089011 | Producer Price Index by Commodity: Special Indexes: Machinery and Equipment, Except Electrical                                               | 1967-01-01          | 2022-09-01        |
-| WPUSI092011 | Producer Price Index by Commodity: Special Indexes: Hosiery                                                                                  | 1967-01-01          | 2022-09-01        |
-| WPUSI093011 | Producer Price Index by Commodity: Special Indexes: Machinery and Motive Products                                                            | 1967-01-01          | 2022-09-01        |
-| WPUSI094011 | Producer Price Index by Commodity: Special Indexes: Underwear and Nightwear                                                                  | 1967-01-01          | 2022-09-01        |
-| WPUSI095011 | Producer Price Index by Commodity: Special Indexes: Processed Foods                                                                          | 1967-01-01          | 2022-09-01        |
-| WPUSI134011 | Producer Price Index by Commodity: Special Indexes: Selected Textile Mill Products                                                           | 1976-01-01          | 2022-09-01        |
-| WPUSIHCARE1 | Producer Price Index by Commodity: Special Indexes: Health Care Services, Medicare Patients                                                  | 2014-06-01          | 2022-09-01        |
-| WPUSIHCARE2 | Producer Price Index by Commodity: Special Indexes: Health Care Services, Medicaid Patients                                                  | 2014-06-01          | 2022-09-01        |
-| WPUSIHCARE3 | Producer Price Index by Commodity: Special Indexes: Health Care Services, Private Insurance Patients                                         | 2014-06-01          | 2022-09-01        |
-| WPUSIHCARE4 | Producer Price Index by Commodity: Special Indexes: Health Care Services, All Other Patients                                                 | 2014-06-01          | 2022-09-01        |
-| WPUSISTEEL1 | Producer Price Index by Commodity: Special Indexes: Steel Mill Products, Including Fabricated Wire Products                                  | 1939-01-01          | 2022-09-01        |
-| WPUSISTEEL2 | Producer Price Index by Commodity: Special Indexes: Finished Steel Mill Products, Excluding Fabricated Wire Products                         | 1939-01-01          | 2022-09-01        |
-| WPUSISTEEL3 | Producer Price Index by Commodity: Special Indexes: Finished Steel Mill Products, Including Fabricated Wire Products                         | 1939-01-01          | 2022-09-01        |
+| Folder       |   Files / Folders |
+|--------------|-------------------|
+| Discontinued |                 0 |

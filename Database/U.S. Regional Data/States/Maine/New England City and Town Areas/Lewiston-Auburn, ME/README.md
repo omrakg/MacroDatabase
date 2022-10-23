@@ -1,83 +1,57 @@
-| id                     | title                                                                                                                  | observation_start   | observation_end   |
-|------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| LAUMT237465000000003A  | Unemployment Rate in Lewiston-Auburn, ME (NECTA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT237465000000004   | Unemployed Persons in Lewiston-Auburn, ME (NECTA)                                                                      | 1990-01-01          | 2022-08-01        |
-| LAUMT237465000000004A  | Unemployed Persons in Lewiston-Auburn, ME (NECTA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT237465000000005   | Employed Persons in Lewiston-Auburn, ME (NECTA)                                                                        | 1990-01-01          | 2022-08-01        |
-| LAUMT237465000000005A  | Employed Persons in Lewiston-Auburn, ME (NECTA)                                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT237465000000006A  | Civilian Labor Force in Lewiston-Auburn, ME (NECTA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LEWI623EDUH            | All Employees: Education and Health Services in Lewiston-Auburn, ME (NECTA)                                            | 1990-01-01          | 2022-08-01        |
-| LEWI623EDUHN           | All Employees: Education and Health Services in Lewiston-Auburn, ME (NECTA)                                            | 1990-01-01          | 2022-08-01        |
-| LEWI623FIRE            | All Employees: Financial Activities in Lewiston-Auburn, ME (NECTA)                                                     | 1990-01-01          | 2022-08-01        |
-| LEWI623FIREN           | All Employees: Financial Activities in Lewiston-Auburn, ME (NECTA)                                                     | 1990-01-01          | 2022-08-01        |
-| LEWI623GOVT            | All Employees: Government in Lewiston-Auburn, ME (NECTA)                                                               | 1990-01-01          | 2022-08-01        |
-| LEWI623GOVTN           | All Employees: Government in Lewiston-Auburn, ME (NECTA)                                                               | 1990-01-01          | 2022-08-01        |
-| LEWI623INFO            | All Employees: Information in Lewiston-Auburn, ME (NECTA)                                                              | 1990-01-01          | 2022-08-01        |
-| LEWI623INFON           | All Employees: Information in Lewiston-Auburn, ME (NECTA)                                                              | 1990-01-01          | 2022-08-01        |
-| LEWI623LEIH            | All Employees: Leisure and Hospitality in Lewiston-Auburn, ME (NECTA)                                                  | 1990-01-01          | 2022-08-01        |
-| LEWI623LEIHN           | All Employees: Leisure and Hospitality in Lewiston-Auburn, ME (NECTA)                                                  | 1990-01-01          | 2022-08-01        |
-| LEWI623LF              | Civilian Labor Force in Lewiston-Auburn, ME (NECTA)                                                                    | 1990-01-01          | 2022-08-01        |
-| LEWI623LFN             | Civilian Labor Force in Lewiston-Auburn, ME (NECTA)                                                                    | 1990-01-01          | 2022-08-01        |
-| LEWI623MFG             | All Employees: Manufacturing in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-08-01        |
-| LEWI623MFGN            | All Employees: Manufacturing in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-08-01        |
-| LEWI623NA              | All Employees: Total Nonfarm in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-08-01        |
-| LEWI623NAN             | All Employees: Total Nonfarm in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-08-01        |
-| LEWI623NRMN            | All Employees: Mining, Logging, and Construction in Lewiston-Auburn, ME (NECTA)                                        | 1990-01-01          | 2022-08-01        |
-| LEWI623NRMNN           | All Employees: Mining, Logging, and Construction in Lewiston-Auburn, ME (NECTA)                                        | 1990-01-01          | 2022-08-01        |
-| LEWI623PBSV            | All Employees: Professional and Business Services in Lewiston-Auburn, ME (NECTA)                                       | 1990-01-01          | 2022-08-01        |
-| LEWI623PBSVN           | All Employees: Professional and Business Services in Lewiston-Auburn, ME (NECTA)                                       | 1990-01-01          | 2022-08-01        |
-| LEWI623PCPI            | Per Capita Personal Income in Lewiston-Auburn, ME (MSA)                                                                | 1969-01-01          | 2020-01-01        |
-| LEWI623SRVO            | All Employees: Other Services in Lewiston-Auburn, ME (NECTA)                                                           | 1990-01-01          | 2022-08-01        |
-| LEWI623SRVON           | All Employees: Other Services in Lewiston-Auburn, ME (NECTA)                                                           | 1990-01-01          | 2022-08-01        |
-| LEWI623TRAD            | All Employees: Trade, Transportation, and Utilities in Lewiston-Auburn, ME (NECTA)                                     | 1990-01-01          | 2022-08-01        |
-| LEWI623TRADN           | All Employees: Trade, Transportation, and Utilities in Lewiston-Auburn, ME (NECTA)                                     | 1990-01-01          | 2022-08-01        |
-| LEWI623UR              | Unemployment Rate in Lewiston-Auburn, ME (NECTA)                                                                       | 1990-01-01          | 2022-08-01        |
-| LEWI623URN             | Unemployment Rate in Lewiston-Auburn, ME (NECTA)                                                                       | 1990-01-01          | 2022-08-01        |
-| SMS23746500000000026   | All Employees: Total Nonfarm in Lewiston-Auburn, ME (NECTA)                                                            | 1990-04-01          | 2022-08-01        |
-| SMU23746500000000001A  | All Employees: Total Nonfarm in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU23746500500000001   | All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-08-01        |
-| SMU23746500500000001A  | All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU23746500500000001SA | All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2022-08-01        |
-| SMU23746500500000002   | Average Weekly Hours of All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                    | 2007-01-01          | 2022-08-01        |
-| SMU23746500500000002A  | Average Weekly Hours of All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU23746500500000003   | Average Hourly Earnings of All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                 | 2007-01-01          | 2022-08-01        |
-| SMU23746500500000003A  | Average Hourly Earnings of All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU23746500500000011   | Average Weekly Earnings of All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                 | 2007-01-01          | 2022-08-01        |
-| SMU23746500500000011A  | Average Weekly Earnings of All Employees: Total Private in Lewiston-Auburn, ME (NECTA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU23746500600000001   | All Employees: Goods Producing in Lewiston-Auburn, ME (NECTA)                                                          | 1990-01-01          | 2022-08-01        |
-| SMU23746500600000001A  | All Employees: Goods Producing in Lewiston-Auburn, ME (NECTA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU23746500600000001SA | All Employees: Goods Producing in Lewiston-Auburn, ME (NECTA)                                                          | 1990-01-01          | 2022-08-01        |
-| SMU23746500700000001   | All Employees: Service-Providing in Lewiston-Auburn, ME (NECTA)                                                        | 1990-01-01          | 2022-08-01        |
-| SMU23746500700000001A  | All Employees: Service-Providing in Lewiston-Auburn, ME (NECTA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU23746500700000001SA | All Employees: Service-Providing in Lewiston-Auburn, ME (NECTA)                                                        | 1990-01-01          | 2022-08-01        |
-| SMU23746500800000001   | All Employees: Private Service Providing in Lewiston-Auburn, ME (NECTA)                                                | 1990-01-01          | 2022-08-01        |
-| SMU23746500800000001A  | All Employees: Private Service Providing in Lewiston-Auburn, ME (NECTA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU23746500800000001SA | All Employees: Private Service Providing in Lewiston-Auburn, ME (NECTA)                                                | 1990-01-01          | 2022-08-01        |
-| SMU23746501500000001A  | All Employees: Mining, Logging, and Construction in Lewiston-Auburn, ME (NECTA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU23746503000000001A  | All Employees: Manufacturing in Lewiston-Auburn, ME (NECTA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU23746504000000001A  | All Employees: Trade, Transportation, and Utilities in Lewiston-Auburn, ME (NECTA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU23746504100000001   | All Employees: Wholesale Trade in Lewiston-Auburn, ME (NECTA)                                                          | 1990-01-01          | 2022-08-01        |
-| SMU23746504100000001A  | All Employees: Wholesale Trade in Lewiston-Auburn, ME (NECTA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU23746504100000001SA | All Employees: Wholesale Trade in Lewiston-Auburn, ME (NECTA)                                                          | 1990-01-01          | 2022-08-01        |
-| SMU23746504200000001   | All Employees: Retail Trade in Lewiston-Auburn, ME (NECTA)                                                             | 1990-01-01          | 2022-08-01        |
-| SMU23746504200000001A  | All Employees: Retail Trade in Lewiston-Auburn, ME (NECTA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU23746504200000001SA | All Employees: Retail Trade in Lewiston-Auburn, ME (NECTA)                                                             | 1990-01-01          | 2022-08-01        |
-| SMU23746504300000001   | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lewiston-Auburn, ME (NECTA) | 1990-01-01          | 2022-08-01        |
-| SMU23746504300000001A  | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lewiston-Auburn, ME (NECTA) | 1990-01-01          | 2021-01-01        |
-| SMU23746504300000001SA | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Lewiston-Auburn, ME (NECTA) | 1990-01-01          | 2022-08-01        |
-| SMU23746505000000001A  | All Employees: Information in Lewiston-Auburn, ME (NECTA)                                                              | 1990-01-01          | 2021-01-01        |
-| SMU23746505500000001A  | All Employees: Financial Activities in Lewiston-Auburn, ME (NECTA)                                                     | 1990-01-01          | 2021-01-01        |
-| SMU23746506000000001A  | All Employees: Professional and Business Services in Lewiston-Auburn, ME (NECTA)                                       | 1990-01-01          | 2021-01-01        |
-| SMU23746506500000001A  | All Employees: Education and Health Services in Lewiston-Auburn, ME (NECTA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU23746507000000001A  | All Employees: Leisure and Hospitality in Lewiston-Auburn, ME (NECTA)                                                  | 1990-01-01          | 2021-01-01        |
-| SMU23746508000000001A  | All Employees: Other Services in Lewiston-Auburn, ME (NECTA)                                                           | 1990-01-01          | 2021-01-01        |
-| SMU23746509000000001A  | All Employees: Government in Lewiston-Auburn, ME (NECTA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU23746509091000001   | All Employees: Government: Federal Government in Lewiston-Auburn, ME (NECTA)                                           | 1990-01-01          | 2022-08-01        |
-| SMU23746509091000001A  | All Employees: Federal Government in Lewiston-Auburn, ME (NECTA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU23746509091000001SA | All Employees: Government: Federal Government in Lewiston-Auburn, ME (NECTA)                                           | 1990-01-01          | 2022-08-01        |
-| SMU23746509092000001   | All Employees: Government: State Government in Lewiston-Auburn, ME (NECTA)                                             | 1990-01-01          | 2022-08-01        |
-| SMU23746509092000001A  | All Employees: State Government in Lewiston-Auburn, ME (NECTA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU23746509092000001SA | All Employees: Government: State Government in Lewiston-Auburn, ME (NECTA)                                             | 1990-01-01          | 2022-08-01        |
-| SMU23746509093000001   | All Employees: Government: Local Government in Lewiston-Auburn, ME (NECTA)                                             | 1990-01-01          | 2022-08-01        |
-| SMU23746509093000001A  | All Employees: Local Government in Lewiston-Auburn, ME (NECTA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU23746509093000001SA | All Employees: Government: Local Government in Lewiston-Auburn, ME (NECTA)                                             | 1990-01-01          | 2022-08-01        |
+| id                        | title                                                                                                  | observation_start   | observation_end   |
+|---------------------------|--------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| ACTLISCOU30340            | Housing Inventory: Active Listing Count in Lewiston-Auburn, ME (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| ACTLISCOUMM30340          | Housing Inventory: Active Listing Count Month-Over-Month in Lewiston-Auburn, ME (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| ACTLISCOUYY30340          | Housing Inventory: Active Listing Count Year-Over-Year in Lewiston-Auburn, ME (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| ATNHPIUS30340Q            | All-Transactions House Price Index for Lewiston-Auburn, ME (MSA)                                       | 1987-01-01          | 2022-04-01        |
+| AVELISPRI30340            | Housing Inventory: Average Listing Price in Lewiston-Auburn, ME (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| AVELISPRIMM30340          | Housing Inventory: Average Listing Price Month-Over-Month in Lewiston-Auburn, ME (CBSA)                | 2017-07-01          | 2022-09-01        |
+| AVELISPRIYY30340          | Housing Inventory: Average Listing Price Year-Over-Year in Lewiston-Auburn, ME (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| ENUC303430010             | Total Quarterly Wages in Lewiston-Auburn, ME (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC303430010SA           | Total Quarterly Wages in Lewiston-Auburn, ME (MSA)                                                     | 1990-01-01          | 2022-01-01        |
+| ENUC303440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lewiston-Auburn, ME (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC303440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lewiston-Auburn, ME (MSA)        | 1990-01-01          | 2022-01-01        |
+| ENUC303440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lewiston-Auburn, ME (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC303440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lewiston-Auburn, ME (MSA)   | 1990-01-01          | 2022-01-01        |
+| ENUC303440210             | Average Weekly Wages for Employees in State Government Establishments in Lewiston-Auburn, ME (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC303440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lewiston-Auburn, ME (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC303440310             | Average Weekly Wages for Employees in Local Government Establishments in Lewiston-Auburn, ME (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC303440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lewiston-Auburn, ME (MSA)     | 1990-01-01          | 2022-01-01        |
+| ENUC303440510             | Average Weekly Wages for Employees in Private Establishments in Lewiston-Auburn, ME (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC303440510SA           | Average Weekly Wages for Employees in Private Establishments in Lewiston-Auburn, ME (MSA)              | 1990-01-01          | 2022-01-01        |
+| IRPD30340                 | Implicit Regional Price Deflator for Lewiston-Auburn, ME (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| LWAPOP                    | Resident Population in Lewiston-Auburn, ME (MSA)                                                       | 2000-01-01          | 2021-01-01        |
+| MEDDAYONMAR30340          | Housing Inventory: Median Days on Market in Lewiston-Auburn, ME (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| MEDDAYONMARMM30340        | Housing Inventory: Median Days on Market Month-Over-Month in Lewiston-Auburn, ME (CBSA)                | 2017-07-01          | 2022-09-01        |
+| MEDDAYONMARYY30340        | Housing Inventory: Median Days on Market Year-Over-Year in Lewiston-Auburn, ME (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| MEDLISPRI30340            | Housing Inventory: Median Listing Price in Lewiston-Auburn, ME (CBSA)                                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIMM30340          | Housing Inventory: Median Listing Price Month-Over-Month in Lewiston-Auburn, ME (CBSA)                 | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEE30340   | Housing Inventory: Median Listing Price per Square Feet in Lewiston-Auburn, ME (CBSA)                  | 2016-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEMM30340 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lewiston-Auburn, ME (CBSA) | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIPERSQUFEEYY30340 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lewiston-Auburn, ME (CBSA)   | 2017-07-01          | 2022-09-01        |
+| MEDLISPRIYY30340          | Housing Inventory: Median Listing Price Year-Over-Year in Lewiston-Auburn, ME (CBSA)                   | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEE30340            | Housing Inventory: Median Home Size in Square Feet in Lewiston-Auburn, ME (CBSA)                       | 2016-07-01          | 2022-09-01        |
+| MEDSQUFEEMM30340          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lewiston-Auburn, ME (CBSA)      | 2017-07-01          | 2022-09-01        |
+| MEDSQUFEEYY30340          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lewiston-Auburn, ME (CBSA)        | 2017-07-01          | 2022-09-01        |
+| NEWLISCOU30340            | Housing Inventory: New Listing Count in Lewiston-Auburn, ME (CBSA)                                     | 2016-07-01          | 2022-09-01        |
+| NEWLISCOUMM30340          | Housing Inventory: New Listing Count Month-Over-Month in Lewiston-Auburn, ME (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| NEWLISCOUYY30340          | Housing Inventory: New Listing Count Year-Over-Year in Lewiston-Auburn, ME (CBSA)                      | 2017-07-01          | 2022-09-01        |
+| NGMP30340                 | Total Gross Domestic Product for Lewiston-Auburn, ME (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| PATENTCBSA130340          | U.S. Granted Utility Patents Originating in Lewiston-Auburn, ME (MSA)                                  | 2000-01-01          | 2015-01-01        |
+| PENLISCOU30340            | Housing Inventory: Pending Listing Count in Lewiston-Auburn, ME (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PENLISCOUMM30340          | Housing Inventory: Pending Listing Count Month-Over-Month in Lewiston-Auburn, ME (CBSA)                | 2017-07-01          | 2022-09-01        |
+| PENLISCOUYY30340          | Housing Inventory: Pending Listing Count Year-Over-Year in Lewiston-Auburn, ME (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIINCCOU30340            | Housing Inventory: Price Increased Count in Lewiston-Auburn, ME (CBSA)                                 | 2016-07-01          | 2022-09-01        |
+| PRIINCCOUMM30340          | Housing Inventory: Price Increased Count Month-Over-Month in Lewiston-Auburn, ME (CBSA)                | 2017-08-01          | 2022-06-01        |
+| PRIINCCOUYY30340          | Housing Inventory: Price Increased Count Year-Over-Year in Lewiston-Auburn, ME (CBSA)                  | 2017-08-01          | 2022-08-01        |
+| PRIREDCOU30340            | Housing Inventory: Price Reduced Count in Lewiston-Auburn, ME (CBSA)                                   | 2016-07-01          | 2022-09-01        |
+| PRIREDCOUMM30340          | Housing Inventory: Price Reduced Count Month-Over-Month in Lewiston-Auburn, ME (CBSA)                  | 2017-07-01          | 2022-09-01        |
+| PRIREDCOUYY30340          | Housing Inventory: Price Reduced Count Year-Over-Year in Lewiston-Auburn, ME (CBSA)                    | 2017-07-01          | 2022-09-01        |
+| QGMP30340                 | Total Quantity Indexes for Real GDP for Lewiston-Auburn, ME (MSA)                                      | 2001-01-01          | 2020-01-01        |
+| RGMP30340                 | Total Real Gross Domestic Product for Lewiston-Auburn, ME (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| RPI30340                  | Real Personal Income for Lewiston-Auburn, ME (MSA)                                                     | 2008-01-01          | 2020-01-01        |
+| RPIPC30340                | Real Per Capita Personal Income for Lewiston-Auburn, ME (MSA)                                          | 2008-01-01          | 2020-01-01        |
+| RPPALL30340               | Regional Price Parities: All Items for Lewiston-Auburn, ME (MSA)                                       | 2008-01-01          | 2020-01-01        |
+| RPPGOOD30340              | Regional Price Parities: Goods for Lewiston-Auburn, ME (MSA)                                           | 2008-01-01          | 2020-01-01        |
+| RPPSERVEOTH30340          | Regional Price Parities: Services: Other for Lewiston-Auburn, ME (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| RPPSERVERENT30340         | Regional Price Parities: Services: Rents for Lewiston-Auburn, ME (MSA)                                 | 2008-01-01          | 2020-01-01        |

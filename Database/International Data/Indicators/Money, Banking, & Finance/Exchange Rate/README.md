@@ -504,176 +504,176 @@
 | CCUSSP02ZAA650N | National Currency to US Dollar Spot Exchange Rate for South Africa                                                      | 1960-01-01          | 2021-01-01        |
 | CCUSSP02ZAM650N | National Currency to US Dollar Spot Exchange Rate for South Africa                                                      | 1960-01-01          | 2022-07-01        |
 | CCUSSP02ZAQ650N | National Currency to US Dollar Spot Exchange Rate for South Africa                                                      | 1960-01-01          | 2022-04-01        |
-| NBAEBIS         | Broad Effective Exchange Rate for United Arab Emirates                                                                  | 1994-01-01          | 2022-08-01        |
-| NBARBIS         | Broad Effective Exchange Rate for Argentina                                                                             | 1994-01-01          | 2022-08-01        |
-| NBATBIS         | Broad Effective Exchange Rate for Austria                                                                               | 1994-01-01          | 2022-08-01        |
-| NBAUBIS         | Broad Effective Exchange Rate for Australia                                                                             | 1994-01-01          | 2022-08-01        |
-| NBBEBIS         | Broad Effective Exchange Rate for Belgium                                                                               | 1994-01-01          | 2022-08-01        |
-| NBBGBIS         | Broad Effective Exchange Rate for Bulgaria                                                                              | 1994-01-01          | 2022-08-01        |
-| NBBRBIS         | Broad Effective Exchange Rate for Brazil                                                                                | 1994-01-01          | 2022-08-01        |
-| NBCABIS         | Broad Effective Exchange Rate for Canada                                                                                | 1994-01-01          | 2022-08-01        |
-| NBCHBIS         | Broad Effective Exchange Rate for Switzerland                                                                           | 1994-01-01          | 2022-08-01        |
-| NBCLBIS         | Broad Effective Exchange Rate for Chile                                                                                 | 1994-01-01          | 2022-08-01        |
-| NBCNBIS         | Broad Effective Exchange Rate for China                                                                                 | 1994-01-01          | 2022-08-01        |
-| NBCOBIS         | Broad Effective Exchange Rate for Colombia                                                                              | 1994-01-01          | 2022-08-01        |
-| NBCYBIS         | Broad Effective Exchange Rate for Cyprus                                                                                | 1994-01-01          | 2022-08-01        |
-| NBCZBIS         | Broad Effective Exchange Rate for Czech Republic                                                                        | 1994-01-01          | 2022-08-01        |
-| NBDEBIS         | Broad Effective Exchange Rate for Germany                                                                               | 1994-01-01          | 2022-08-01        |
-| NBDKBIS         | Broad Effective Exchange Rate for Denmark                                                                               | 1994-01-01          | 2022-08-01        |
-| NBDZBIS         | Broad Effective Exchange Rate for Algeria                                                                               | 1994-01-01          | 2022-08-01        |
-| NBEEBIS         | Broad Effective Exchange Rate for Estonia                                                                               | 1994-01-01          | 2022-08-01        |
-| NBESBIS         | Broad Effective Exchange Rate for Spain                                                                                 | 1994-01-01          | 2022-08-01        |
-| NBFIBIS         | Broad Effective Exchange Rate for Finland                                                                               | 1994-01-01          | 2022-08-01        |
-| NBFRBIS         | Broad Effective Exchange Rate for France                                                                                | 1994-01-01          | 2022-08-01        |
-| NBGBBIS         | Broad Effective Exchange Rate for United Kingdom                                                                        | 1994-01-01          | 2022-08-01        |
-| NBGRBIS         | Broad Effective Exchange Rate for Greece                                                                                | 1994-01-01          | 2022-08-01        |
-| NBHKBIS         | Broad Effective Exchange Rate for Hong Kong SAR                                                                         | 1994-01-01          | 2022-08-01        |
-| NBHRBIS         | Broad Effective Exchange Rate for Croatia                                                                               | 1994-01-01          | 2022-08-01        |
-| NBHUBIS         | Broad Effective Exchange Rate for Hungary                                                                               | 1994-01-01          | 2022-08-01        |
-| NBIDBIS         | Broad Effective Exchange Rate for Indonesia                                                                             | 1994-01-01          | 2022-08-01        |
-| NBIEBIS         | Broad Effective Exchange Rate for Ireland                                                                               | 1994-01-01          | 2022-08-01        |
-| NBILBIS         | Broad Effective Exchange Rate for Israel                                                                                | 1994-01-01          | 2022-08-01        |
-| NBINBIS         | Broad Effective Exchange Rate for India                                                                                 | 1994-01-01          | 2022-08-01        |
-| NBISBIS         | Broad Effective Exchange Rate for Iceland                                                                               | 1994-01-01          | 2022-08-01        |
-| NBITBIS         | Broad Effective Exchange Rate for Italy                                                                                 | 1994-01-01          | 2022-08-01        |
-| NBJPBIS         | Broad Effective Exchange Rate for Japan                                                                                 | 1994-01-01          | 2022-08-01        |
-| NBKRBIS         | Broad Effective Exchange Rate for Korea                                                                                 | 1994-01-01          | 2022-08-01        |
-| NBLTBIS         | Broad Effective Exchange Rate for Lithuania                                                                             | 1994-01-01          | 2022-08-01        |
-| NBLUBIS         | Broad Effective Exchange Rate for Luxembourg                                                                            | 1994-01-01          | 2022-08-01        |
-| NBLVBIS         | Broad Effective Exchange Rate for Latvia                                                                                | 1994-01-01          | 2022-08-01        |
-| NBMTBIS         | Broad Effective Exchange Rate for Malta                                                                                 | 1994-01-01          | 2022-08-01        |
-| NBMXBIS         | Broad Effective Exchange Rate for Mexico                                                                                | 1994-01-01          | 2022-08-01        |
-| NBMYBIS         | Broad Effective Exchange Rate for Malaysia                                                                              | 1994-01-01          | 2022-08-01        |
-| NBNLBIS         | Broad Effective Exchange Rate for Netherlands                                                                           | 1994-01-01          | 2022-08-01        |
-| NBNOBIS         | Broad Effective Exchange Rate for Norway                                                                                | 1994-01-01          | 2022-08-01        |
-| NBNZBIS         | Broad Effective Exchange Rate for New Zealand                                                                           | 1994-01-01          | 2022-08-01        |
-| NBPEBIS         | Broad Effective Exchange Rate for Peru                                                                                  | 1994-01-01          | 2022-08-01        |
-| NBPHBIS         | Broad Effective Exchange Rate for Philippines                                                                           | 1994-01-01          | 2022-08-01        |
-| NBPLBIS         | Broad Effective Exchange Rate for Poland                                                                                | 1994-01-01          | 2022-08-01        |
-| NBPTBIS         | Broad Effective Exchange Rate for Portugal                                                                              | 1994-01-01          | 2022-08-01        |
-| NBROBIS         | Broad Effective Exchange Rate for Romania                                                                               | 1994-01-01          | 2022-08-01        |
-| NBRUBIS         | Broad Effective Exchange Rate for Russia                                                                                | 1994-01-01          | 2022-08-01        |
-| NBSABIS         | Broad Effective Exchange Rate for Saudi Arabia                                                                          | 1994-01-01          | 2022-08-01        |
-| NBSEBIS         | Broad Effective Exchange Rate for Sweden                                                                                | 1994-01-01          | 2022-08-01        |
-| NBSGBIS         | Broad Effective Exchange Rate for Singapore                                                                             | 1994-01-01          | 2022-08-01        |
-| NBSIBIS         | Broad Effective Exchange Rate for Slovenia                                                                              | 1994-01-01          | 2022-08-01        |
-| NBSKBIS         | Broad Effective Exchange Rate for Slovakia                                                                              | 1994-01-01          | 2022-08-01        |
-| NBTHBIS         | Broad Effective Exchange Rate for Thailand                                                                              | 1994-01-01          | 2022-08-01        |
-| NBTRBIS         | Broad Effective Exchange Rate for Turkey                                                                                | 1994-01-01          | 2022-08-01        |
-| NBTWBIS         | Broad Effective Exchange Rate for Chinese Taipei                                                                        | 1994-01-01          | 2022-08-01        |
-| NBUSBIS         | Broad Effective Exchange Rate for United States                                                                         | 1994-01-01          | 2022-08-01        |
-| NBXMBIS         | Broad Effective Exchange Rate for Euro Area                                                                             | 1994-01-01          | 2022-08-01        |
-| NBZABIS         | Broad Effective Exchange Rate for South Africa                                                                          | 1994-01-01          | 2022-08-01        |
-| NNATBIS         | Narrow Effective Exchange Rate for Austria                                                                              | 1964-01-01          | 2022-08-01        |
-| NNAUBIS         | Narrow Effective Exchange Rate for Australia                                                                            | 1964-01-01          | 2022-08-01        |
-| NNBEBIS         | Narrow Effective Exchange Rate for Belgium                                                                              | 1964-01-01          | 2022-08-01        |
-| NNCABIS         | Narrow Effective Exchange Rate for Canada                                                                               | 1964-01-01          | 2022-08-01        |
-| NNCHBIS         | Narrow Effective Exchange Rate for Switzerland                                                                          | 1964-01-01          | 2022-08-01        |
-| NNDEBIS         | Narrow Effective Exchange Rate for Germany                                                                              | 1964-01-01          | 2022-08-01        |
-| NNDKBIS         | Narrow Effective Exchange Rate for Denmark                                                                              | 1964-01-01          | 2022-08-01        |
-| NNESBIS         | Narrow Effective Exchange Rate for Spain                                                                                | 1964-01-01          | 2022-08-01        |
-| NNFIBIS         | Narrow Effective Exchange Rate for Finland                                                                              | 1964-01-01          | 2022-08-01        |
-| NNFRBIS         | Narrow Effective Exchange Rate for France                                                                               | 1964-01-01          | 2022-08-01        |
-| NNGBBIS         | Narrow Effective Exchange Rate for United Kingdom                                                                       | 1964-01-01          | 2022-08-01        |
-| NNGRBIS         | Narrow Effective Exchange Rate for Greece                                                                               | 1964-01-01          | 2022-08-01        |
-| NNHKBIS         | Narrow Effective Exchange Rate for Hong Kong SAR                                                                        | 1964-01-01          | 2022-08-01        |
-| NNIEBIS         | Narrow Effective Exchange Rate for Ireland                                                                              | 1964-01-01          | 2022-08-01        |
-| NNITBIS         | Narrow Effective Exchange Rate for Italy                                                                                | 1964-01-01          | 2022-08-01        |
-| NNJPBIS         | Narrow Effective Exchange Rate for Japan                                                                                | 1964-01-01          | 2022-08-01        |
-| NNKRBIS         | Narrow Effective Exchange Rate for Korea                                                                                | 1964-01-01          | 2022-08-01        |
-| NNNLBIS         | Narrow Effective Exchange Rate for Netherlands                                                                          | 1964-01-01          | 2022-08-01        |
-| NNNOBIS         | Narrow Effective Exchange Rate for Norway                                                                               | 1964-01-01          | 2022-08-01        |
-| NNNZBIS         | Narrow Effective Exchange Rate for New Zealand                                                                          | 1964-01-01          | 2022-08-01        |
-| NNPTBIS         | Narrow Effective Exchange Rate for Portugal                                                                             | 1964-01-01          | 2022-08-01        |
-| NNSEBIS         | Narrow Effective Exchange Rate for Sweden                                                                               | 1964-01-01          | 2022-08-01        |
-| NNSGBIS         | Narrow Effective Exchange Rate for Singapore                                                                            | 1964-01-01          | 2022-08-01        |
-| NNTWBIS         | Narrow Effective Exchange Rate for Chinese Taipei                                                                       | 1964-01-01          | 2022-08-01        |
-| NNUSBIS         | Narrow Effective Exchange Rate for United States                                                                        | 1964-01-01          | 2022-08-01        |
-| NNXMBIS         | Narrow Effective Exchange Rate for Euro area                                                                            | 1964-01-01          | 2022-08-01        |
-| RBAEBIS         | Real Broad Effective Exchange Rate for United Arab Emirates                                                             | 1994-01-01          | 2022-08-01        |
-| RBARBIS         | Real Broad Effective Exchange Rate for Argentina                                                                        | 1994-01-01          | 2022-08-01        |
-| RBATBIS         | Real Broad Effective Exchange Rate for Austria                                                                          | 1994-01-01          | 2022-08-01        |
-| RBAUBIS         | Real Broad Effective Exchange Rate for Australia                                                                        | 1994-01-01          | 2022-08-01        |
-| RBBEBIS         | Real Broad Effective Exchange Rate for Belgium                                                                          | 1994-01-01          | 2022-08-01        |
-| RBBGBIS         | Real Broad Effective Exchange Rate for Bulgaria                                                                         | 1994-01-01          | 2022-08-01        |
-| RBBRBIS         | Real Broad Effective Exchange Rate for Brazil                                                                           | 1994-01-01          | 2022-08-01        |
-| RBCABIS         | Real Broad Effective Exchange Rate for Canada                                                                           | 1994-01-01          | 2022-08-01        |
-| RBCHBIS         | Real Broad Effective Exchange Rate for Switzerland                                                                      | 1994-01-01          | 2022-08-01        |
-| RBCLBIS         | Real Broad Effective Exchange Rate for Chile                                                                            | 1994-01-01          | 2022-08-01        |
-| RBCNBIS         | Real Broad Effective Exchange Rate for China                                                                            | 1994-01-01          | 2022-08-01        |
-| RBCOBIS         | Real Broad Effective Exchange Rate for Colombia                                                                         | 1994-01-01          | 2022-08-01        |
-| RBCYBIS         | Real Broad Effective Exchange Rate for Cyprus                                                                           | 1994-01-01          | 2022-08-01        |
-| RBCZBIS         | Real Broad Effective Exchange Rate for Czech Republic                                                                   | 1994-01-01          | 2022-08-01        |
-| RBDEBIS         | Real Broad Effective Exchange Rate for Germany                                                                          | 1994-01-01          | 2022-08-01        |
-| RBDKBIS         | Real Broad Effective Exchange Rate for Denmark                                                                          | 1994-01-01          | 2022-08-01        |
-| RBDZBIS         | Real Broad Effective Exchange Rate for Algeria                                                                          | 1994-01-01          | 2022-08-01        |
-| RBEEBIS         | Real Broad Effective Exchange Rate for Estonia                                                                          | 1994-01-01          | 2022-08-01        |
-| RBESBIS         | Real Broad Effective Exchange Rate for Spain                                                                            | 1994-01-01          | 2022-08-01        |
-| RBFIBIS         | Real Broad Effective Exchange Rate for Finland                                                                          | 1994-01-01          | 2022-08-01        |
-| RBFRBIS         | Real Broad Effective Exchange Rate for France                                                                           | 1994-01-01          | 2022-08-01        |
-| RBGBBIS         | Real Broad Effective Exchange Rate for United Kingdom                                                                   | 1994-01-01          | 2022-08-01        |
-| RBGRBIS         | Real Broad Effective Exchange Rate for Greece                                                                           | 1994-01-01          | 2022-08-01        |
-| RBHKBIS         | Real Broad Effective Exchange Rate for Hong Kong SAR                                                                    | 1994-01-01          | 2022-08-01        |
-| RBHRBIS         | Real Broad Effective Exchange Rate for Croatia                                                                          | 1994-01-01          | 2022-08-01        |
-| RBHUBIS         | Real Broad Effective Exchange Rate for Hungary                                                                          | 1994-01-01          | 2022-08-01        |
-| RBIDBIS         | Real Broad Effective Exchange Rate for Indonesia                                                                        | 1994-01-01          | 2022-08-01        |
-| RBIEBIS         | Real Broad Effective Exchange Rate for Ireland                                                                          | 1994-01-01          | 2022-08-01        |
-| RBILBIS         | Real Broad Effective Exchange Rate for Israel                                                                           | 1994-01-01          | 2022-08-01        |
-| RBINBIS         | Real Broad Effective Exchange Rate for India                                                                            | 1994-01-01          | 2022-08-01        |
-| RBISBIS         | Real Broad Effective Exchange Rate for Iceland                                                                          | 1994-01-01          | 2022-08-01        |
-| RBITBIS         | Real Broad Effective Exchange Rate for Italy                                                                            | 1994-01-01          | 2022-08-01        |
-| RBJPBIS         | Real Broad Effective Exchange Rate for Japan                                                                            | 1994-01-01          | 2022-08-01        |
-| RBKRBIS         | Real Broad Effective Exchange Rate for Korea                                                                            | 1994-01-01          | 2022-08-01        |
-| RBLTBIS         | Real Broad Effective Exchange Rate for Lithuania                                                                        | 1994-01-01          | 2022-08-01        |
-| RBLUBIS         | Real Broad Effective Exchange Rate for Luxembourg                                                                       | 1994-01-01          | 2022-08-01        |
-| RBLVBIS         | Real Broad Effective Exchange Rate for Latvia                                                                           | 1994-01-01          | 2022-08-01        |
-| RBMTBIS         | Real Broad Effective Exchange Rate for Malta                                                                            | 1994-01-01          | 2022-08-01        |
-| RBMXBIS         | Real Broad Effective Exchange Rate for Mexico                                                                           | 1994-01-01          | 2022-08-01        |
-| RBMYBIS         | Real Broad Effective Exchange Rate for Malaysia                                                                         | 1994-01-01          | 2022-08-01        |
-| RBNLBIS         | Real Broad Effective Exchange Rate for Netherlands                                                                      | 1994-01-01          | 2022-08-01        |
-| RBNOBIS         | Real Broad Effective Exchange Rate for Norway                                                                           | 1994-01-01          | 2022-08-01        |
-| RBNZBIS         | Real Broad Effective Exchange Rate for New Zealand                                                                      | 1994-01-01          | 2022-08-01        |
-| RBPEBIS         | Real Broad Effective Exchange Rate for Peru                                                                             | 1994-01-01          | 2022-08-01        |
-| RBPHBIS         | Real Broad Effective Exchange Rate for Philippines                                                                      | 1994-01-01          | 2022-08-01        |
-| RBPLBIS         | Real Broad Effective Exchange Rate for Poland                                                                           | 1994-01-01          | 2022-08-01        |
-| RBPTBIS         | Real Broad Effective Exchange Rate for Portugal                                                                         | 1994-01-01          | 2022-08-01        |
-| RBROBIS         | Real Broad Effective Exchange Rate for Romania                                                                          | 1994-01-01          | 2022-08-01        |
-| RBRUBIS         | Real Broad Effective Exchange Rate for Russia                                                                           | 1994-01-01          | 2022-08-01        |
-| RBSABIS         | Real Broad Effective Exchange Rate for Saudi Arabia                                                                     | 1994-01-01          | 2022-08-01        |
-| RBSEBIS         | Real Broad Effective Exchange Rate for Sweden                                                                           | 1994-01-01          | 2022-08-01        |
-| RBSGBIS         | Real Broad Effective Exchange Rate for Singapore                                                                        | 1994-01-01          | 2022-08-01        |
-| RBSIBIS         | Real Broad Effective Exchange Rate for Slovenia                                                                         | 1994-01-01          | 2022-08-01        |
-| RBSKBIS         | Real Broad Effective Exchange Rate for Slovakia                                                                         | 1994-01-01          | 2022-08-01        |
-| RBTHBIS         | Real Broad Effective Exchange Rate for Thailand                                                                         | 1994-01-01          | 2022-08-01        |
-| RBTRBIS         | Real Broad Effective Exchange Rate for Turkey                                                                           | 1994-01-01          | 2022-08-01        |
-| RBTWBIS         | Real Broad Effective Exchange Rate for Chinese Taipei                                                                   | 1994-01-01          | 2022-08-01        |
-| RBUSBIS         | Real Broad Effective Exchange Rate for United States                                                                    | 1994-01-01          | 2022-08-01        |
-| RBXMBIS         | Real Broad Effective Exchange Rate for Euro Area                                                                        | 1994-01-01          | 2022-08-01        |
-| RBZABIS         | Real Broad Effective Exchange Rate for South Africa                                                                     | 1994-01-01          | 2022-08-01        |
-| RNATBIS         | Real Narrow Effective Exchange Rate for Austria                                                                         | 1964-01-01          | 2022-08-01        |
-| RNAUBIS         | Real Narrow Effective Exchange Rate for Australia                                                                       | 1964-01-01          | 2022-08-01        |
-| RNBEBIS         | Real Narrow Effective Exchange Rate for Belgium                                                                         | 1964-01-01          | 2022-08-01        |
-| RNCABIS         | Real Narrow Effective Exchange Rate for Canada                                                                          | 1964-01-01          | 2022-08-01        |
-| RNCHBIS         | Real Narrow Effective Exchange Rate for Switzerland                                                                     | 1964-01-01          | 2022-08-01        |
-| RNDEBIS         | Real Narrow Effective Exchange Rate for Germany                                                                         | 1964-01-01          | 2022-08-01        |
-| RNDKBIS         | Real Narrow Effective Exchange Rate for Denmark                                                                         | 1964-01-01          | 2022-08-01        |
-| RNESBIS         | Real Narrow Effective Exchange Rate for Spain                                                                           | 1964-01-01          | 2022-08-01        |
-| RNFIBIS         | Real Narrow Effective Exchange Rate for Finland                                                                         | 1964-01-01          | 2022-08-01        |
-| RNFRBIS         | Real Narrow Effective Exchange Rate for France                                                                          | 1964-01-01          | 2022-08-01        |
-| RNGBBIS         | Real Narrow Effective Exchange Rate for United Kingdom                                                                  | 1964-01-01          | 2022-08-01        |
-| RNGRBIS         | Real Narrow Effective Exchange Rate for Greece                                                                          | 1964-01-01          | 2022-08-01        |
-| RNHKBIS         | Real Narrow Effective Exchange Rate for Hong Kong SAR                                                                   | 1964-01-01          | 2022-08-01        |
-| RNIEBIS         | Real Narrow Effective Exchange Rate for Ireland                                                                         | 1964-01-01          | 2022-08-01        |
-| RNITBIS         | Real Narrow Effective Exchange Rate for Italy                                                                           | 1964-01-01          | 2022-08-01        |
-| RNJPBIS         | Real Narrow Effective Exchange Rate for Japan                                                                           | 1964-01-01          | 2022-08-01        |
-| RNKRBIS         | Real Narrow Effective Exchange Rate for Korea                                                                           | 1964-01-01          | 2022-08-01        |
-| RNMXBIS         | Real Narrow Effective Exchange Rate for Mexico                                                                          | 1964-01-01          | 2022-08-01        |
-| RNNLBIS         | Real Narrow Effective Exchange Rate for Netherlands                                                                     | 1964-01-01          | 2022-08-01        |
-| RNNOBIS         | Real Narrow Effective Exchange Rate for Norway                                                                          | 1964-01-01          | 2022-08-01        |
-| RNNZBIS         | Real Narrow Effective Exchange Rate for New Zealand                                                                     | 1964-01-01          | 2022-08-01        |
-| RNPTBIS         | Real Narrow Effective Exchange Rate for Portugal                                                                        | 1964-01-01          | 2022-08-01        |
-| RNSEBIS         | Real Narrow Effective Exchange Rate for Sweden                                                                          | 1964-01-01          | 2022-08-01        |
-| RNSGBIS         | Real Narrow Effective Exchange Rate for Singapore                                                                       | 1964-01-01          | 2022-08-01        |
-| RNTWBIS         | Real Narrow Effective Exchange Rate for Chinese Taipei                                                                  | 1964-01-01          | 2022-08-01        |
-| RNUSBIS         | Real Narrow Effective Exchange Rate for United States                                                                   | 1964-01-01          | 2022-08-01        |
-| RNXMBIS         | Real Narrow Effective Exchange Rate for Euro area                                                                       | 1964-01-01          | 2022-08-01        |
+| NBAEBIS         | Broad Effective Exchange Rate for United Arab Emirates                                                                  | 1994-01-01          | 2022-09-01        |
+| NBARBIS         | Broad Effective Exchange Rate for Argentina                                                                             | 1994-01-01          | 2022-09-01        |
+| NBATBIS         | Broad Effective Exchange Rate for Austria                                                                               | 1994-01-01          | 2022-09-01        |
+| NBAUBIS         | Broad Effective Exchange Rate for Australia                                                                             | 1994-01-01          | 2022-09-01        |
+| NBBEBIS         | Broad Effective Exchange Rate for Belgium                                                                               | 1994-01-01          | 2022-09-01        |
+| NBBGBIS         | Broad Effective Exchange Rate for Bulgaria                                                                              | 1994-01-01          | 2022-09-01        |
+| NBBRBIS         | Broad Effective Exchange Rate for Brazil                                                                                | 1994-01-01          | 2022-09-01        |
+| NBCABIS         | Broad Effective Exchange Rate for Canada                                                                                | 1994-01-01          | 2022-09-01        |
+| NBCHBIS         | Broad Effective Exchange Rate for Switzerland                                                                           | 1994-01-01          | 2022-09-01        |
+| NBCLBIS         | Broad Effective Exchange Rate for Chile                                                                                 | 1994-01-01          | 2022-09-01        |
+| NBCNBIS         | Broad Effective Exchange Rate for China                                                                                 | 1994-01-01          | 2022-09-01        |
+| NBCOBIS         | Broad Effective Exchange Rate for Colombia                                                                              | 1994-01-01          | 2022-09-01        |
+| NBCYBIS         | Broad Effective Exchange Rate for Cyprus                                                                                | 1994-01-01          | 2022-09-01        |
+| NBCZBIS         | Broad Effective Exchange Rate for Czech Republic                                                                        | 1994-01-01          | 2022-09-01        |
+| NBDEBIS         | Broad Effective Exchange Rate for Germany                                                                               | 1994-01-01          | 2022-09-01        |
+| NBDKBIS         | Broad Effective Exchange Rate for Denmark                                                                               | 1994-01-01          | 2022-09-01        |
+| NBDZBIS         | Broad Effective Exchange Rate for Algeria                                                                               | 1994-01-01          | 2022-09-01        |
+| NBEEBIS         | Broad Effective Exchange Rate for Estonia                                                                               | 1994-01-01          | 2022-09-01        |
+| NBESBIS         | Broad Effective Exchange Rate for Spain                                                                                 | 1994-01-01          | 2022-09-01        |
+| NBFIBIS         | Broad Effective Exchange Rate for Finland                                                                               | 1994-01-01          | 2022-09-01        |
+| NBFRBIS         | Broad Effective Exchange Rate for France                                                                                | 1994-01-01          | 2022-09-01        |
+| NBGBBIS         | Broad Effective Exchange Rate for United Kingdom                                                                        | 1994-01-01          | 2022-09-01        |
+| NBGRBIS         | Broad Effective Exchange Rate for Greece                                                                                | 1994-01-01          | 2022-09-01        |
+| NBHKBIS         | Broad Effective Exchange Rate for Hong Kong SAR                                                                         | 1994-01-01          | 2022-09-01        |
+| NBHRBIS         | Broad Effective Exchange Rate for Croatia                                                                               | 1994-01-01          | 2022-09-01        |
+| NBHUBIS         | Broad Effective Exchange Rate for Hungary                                                                               | 1994-01-01          | 2022-09-01        |
+| NBIDBIS         | Broad Effective Exchange Rate for Indonesia                                                                             | 1994-01-01          | 2022-09-01        |
+| NBIEBIS         | Broad Effective Exchange Rate for Ireland                                                                               | 1994-01-01          | 2022-09-01        |
+| NBILBIS         | Broad Effective Exchange Rate for Israel                                                                                | 1994-01-01          | 2022-09-01        |
+| NBINBIS         | Broad Effective Exchange Rate for India                                                                                 | 1994-01-01          | 2022-09-01        |
+| NBISBIS         | Broad Effective Exchange Rate for Iceland                                                                               | 1994-01-01          | 2022-09-01        |
+| NBITBIS         | Broad Effective Exchange Rate for Italy                                                                                 | 1994-01-01          | 2022-09-01        |
+| NBJPBIS         | Broad Effective Exchange Rate for Japan                                                                                 | 1994-01-01          | 2022-09-01        |
+| NBKRBIS         | Broad Effective Exchange Rate for Korea                                                                                 | 1994-01-01          | 2022-09-01        |
+| NBLTBIS         | Broad Effective Exchange Rate for Lithuania                                                                             | 1994-01-01          | 2022-09-01        |
+| NBLUBIS         | Broad Effective Exchange Rate for Luxembourg                                                                            | 1994-01-01          | 2022-09-01        |
+| NBLVBIS         | Broad Effective Exchange Rate for Latvia                                                                                | 1994-01-01          | 2022-09-01        |
+| NBMTBIS         | Broad Effective Exchange Rate for Malta                                                                                 | 1994-01-01          | 2022-09-01        |
+| NBMXBIS         | Broad Effective Exchange Rate for Mexico                                                                                | 1994-01-01          | 2022-09-01        |
+| NBMYBIS         | Broad Effective Exchange Rate for Malaysia                                                                              | 1994-01-01          | 2022-09-01        |
+| NBNLBIS         | Broad Effective Exchange Rate for Netherlands                                                                           | 1994-01-01          | 2022-09-01        |
+| NBNOBIS         | Broad Effective Exchange Rate for Norway                                                                                | 1994-01-01          | 2022-09-01        |
+| NBNZBIS         | Broad Effective Exchange Rate for New Zealand                                                                           | 1994-01-01          | 2022-09-01        |
+| NBPEBIS         | Broad Effective Exchange Rate for Peru                                                                                  | 1994-01-01          | 2022-09-01        |
+| NBPHBIS         | Broad Effective Exchange Rate for Philippines                                                                           | 1994-01-01          | 2022-09-01        |
+| NBPLBIS         | Broad Effective Exchange Rate for Poland                                                                                | 1994-01-01          | 2022-09-01        |
+| NBPTBIS         | Broad Effective Exchange Rate for Portugal                                                                              | 1994-01-01          | 2022-09-01        |
+| NBROBIS         | Broad Effective Exchange Rate for Romania                                                                               | 1994-01-01          | 2022-09-01        |
+| NBRUBIS         | Broad Effective Exchange Rate for Russia                                                                                | 1994-01-01          | 2022-09-01        |
+| NBSABIS         | Broad Effective Exchange Rate for Saudi Arabia                                                                          | 1994-01-01          | 2022-09-01        |
+| NBSEBIS         | Broad Effective Exchange Rate for Sweden                                                                                | 1994-01-01          | 2022-09-01        |
+| NBSGBIS         | Broad Effective Exchange Rate for Singapore                                                                             | 1994-01-01          | 2022-09-01        |
+| NBSIBIS         | Broad Effective Exchange Rate for Slovenia                                                                              | 1994-01-01          | 2022-09-01        |
+| NBSKBIS         | Broad Effective Exchange Rate for Slovakia                                                                              | 1994-01-01          | 2022-09-01        |
+| NBTHBIS         | Broad Effective Exchange Rate for Thailand                                                                              | 1994-01-01          | 2022-09-01        |
+| NBTRBIS         | Broad Effective Exchange Rate for Turkey                                                                                | 1994-01-01          | 2022-09-01        |
+| NBTWBIS         | Broad Effective Exchange Rate for Chinese Taipei                                                                        | 1994-01-01          | 2022-09-01        |
+| NBUSBIS         | Broad Effective Exchange Rate for United States                                                                         | 1994-01-01          | 2022-09-01        |
+| NBXMBIS         | Broad Effective Exchange Rate for Euro Area                                                                             | 1994-01-01          | 2022-09-01        |
+| NBZABIS         | Broad Effective Exchange Rate for South Africa                                                                          | 1994-01-01          | 2022-09-01        |
+| NNATBIS         | Narrow Effective Exchange Rate for Austria                                                                              | 1964-01-01          | 2022-09-01        |
+| NNAUBIS         | Narrow Effective Exchange Rate for Australia                                                                            | 1964-01-01          | 2022-09-01        |
+| NNBEBIS         | Narrow Effective Exchange Rate for Belgium                                                                              | 1964-01-01          | 2022-09-01        |
+| NNCABIS         | Narrow Effective Exchange Rate for Canada                                                                               | 1964-01-01          | 2022-09-01        |
+| NNCHBIS         | Narrow Effective Exchange Rate for Switzerland                                                                          | 1964-01-01          | 2022-09-01        |
+| NNDEBIS         | Narrow Effective Exchange Rate for Germany                                                                              | 1964-01-01          | 2022-09-01        |
+| NNDKBIS         | Narrow Effective Exchange Rate for Denmark                                                                              | 1964-01-01          | 2022-09-01        |
+| NNESBIS         | Narrow Effective Exchange Rate for Spain                                                                                | 1964-01-01          | 2022-09-01        |
+| NNFIBIS         | Narrow Effective Exchange Rate for Finland                                                                              | 1964-01-01          | 2022-09-01        |
+| NNFRBIS         | Narrow Effective Exchange Rate for France                                                                               | 1964-01-01          | 2022-09-01        |
+| NNGBBIS         | Narrow Effective Exchange Rate for United Kingdom                                                                       | 1964-01-01          | 2022-09-01        |
+| NNGRBIS         | Narrow Effective Exchange Rate for Greece                                                                               | 1964-01-01          | 2022-09-01        |
+| NNHKBIS         | Narrow Effective Exchange Rate for Hong Kong SAR                                                                        | 1964-01-01          | 2022-09-01        |
+| NNIEBIS         | Narrow Effective Exchange Rate for Ireland                                                                              | 1964-01-01          | 2022-09-01        |
+| NNITBIS         | Narrow Effective Exchange Rate for Italy                                                                                | 1964-01-01          | 2022-09-01        |
+| NNJPBIS         | Narrow Effective Exchange Rate for Japan                                                                                | 1964-01-01          | 2022-09-01        |
+| NNKRBIS         | Narrow Effective Exchange Rate for Korea                                                                                | 1964-01-01          | 2022-09-01        |
+| NNNLBIS         | Narrow Effective Exchange Rate for Netherlands                                                                          | 1964-01-01          | 2022-09-01        |
+| NNNOBIS         | Narrow Effective Exchange Rate for Norway                                                                               | 1964-01-01          | 2022-09-01        |
+| NNNZBIS         | Narrow Effective Exchange Rate for New Zealand                                                                          | 1964-01-01          | 2022-09-01        |
+| NNPTBIS         | Narrow Effective Exchange Rate for Portugal                                                                             | 1964-01-01          | 2022-09-01        |
+| NNSEBIS         | Narrow Effective Exchange Rate for Sweden                                                                               | 1964-01-01          | 2022-09-01        |
+| NNSGBIS         | Narrow Effective Exchange Rate for Singapore                                                                            | 1964-01-01          | 2022-09-01        |
+| NNTWBIS         | Narrow Effective Exchange Rate for Chinese Taipei                                                                       | 1964-01-01          | 2022-09-01        |
+| NNUSBIS         | Narrow Effective Exchange Rate for United States                                                                        | 1964-01-01          | 2022-09-01        |
+| NNXMBIS         | Narrow Effective Exchange Rate for Euro area                                                                            | 1964-01-01          | 2022-09-01        |
+| RBAEBIS         | Real Broad Effective Exchange Rate for United Arab Emirates                                                             | 1994-01-01          | 2022-09-01        |
+| RBARBIS         | Real Broad Effective Exchange Rate for Argentina                                                                        | 1994-01-01          | 2022-09-01        |
+| RBATBIS         | Real Broad Effective Exchange Rate for Austria                                                                          | 1994-01-01          | 2022-09-01        |
+| RBAUBIS         | Real Broad Effective Exchange Rate for Australia                                                                        | 1994-01-01          | 2022-09-01        |
+| RBBEBIS         | Real Broad Effective Exchange Rate for Belgium                                                                          | 1994-01-01          | 2022-09-01        |
+| RBBGBIS         | Real Broad Effective Exchange Rate for Bulgaria                                                                         | 1994-01-01          | 2022-09-01        |
+| RBBRBIS         | Real Broad Effective Exchange Rate for Brazil                                                                           | 1994-01-01          | 2022-09-01        |
+| RBCABIS         | Real Broad Effective Exchange Rate for Canada                                                                           | 1994-01-01          | 2022-09-01        |
+| RBCHBIS         | Real Broad Effective Exchange Rate for Switzerland                                                                      | 1994-01-01          | 2022-09-01        |
+| RBCLBIS         | Real Broad Effective Exchange Rate for Chile                                                                            | 1994-01-01          | 2022-09-01        |
+| RBCNBIS         | Real Broad Effective Exchange Rate for China                                                                            | 1994-01-01          | 2022-09-01        |
+| RBCOBIS         | Real Broad Effective Exchange Rate for Colombia                                                                         | 1994-01-01          | 2022-09-01        |
+| RBCYBIS         | Real Broad Effective Exchange Rate for Cyprus                                                                           | 1994-01-01          | 2022-09-01        |
+| RBCZBIS         | Real Broad Effective Exchange Rate for Czech Republic                                                                   | 1994-01-01          | 2022-09-01        |
+| RBDEBIS         | Real Broad Effective Exchange Rate for Germany                                                                          | 1994-01-01          | 2022-09-01        |
+| RBDKBIS         | Real Broad Effective Exchange Rate for Denmark                                                                          | 1994-01-01          | 2022-09-01        |
+| RBDZBIS         | Real Broad Effective Exchange Rate for Algeria                                                                          | 1994-01-01          | 2022-09-01        |
+| RBEEBIS         | Real Broad Effective Exchange Rate for Estonia                                                                          | 1994-01-01          | 2022-09-01        |
+| RBESBIS         | Real Broad Effective Exchange Rate for Spain                                                                            | 1994-01-01          | 2022-09-01        |
+| RBFIBIS         | Real Broad Effective Exchange Rate for Finland                                                                          | 1994-01-01          | 2022-09-01        |
+| RBFRBIS         | Real Broad Effective Exchange Rate for France                                                                           | 1994-01-01          | 2022-09-01        |
+| RBGBBIS         | Real Broad Effective Exchange Rate for United Kingdom                                                                   | 1994-01-01          | 2022-09-01        |
+| RBGRBIS         | Real Broad Effective Exchange Rate for Greece                                                                           | 1994-01-01          | 2022-09-01        |
+| RBHKBIS         | Real Broad Effective Exchange Rate for Hong Kong SAR                                                                    | 1994-01-01          | 2022-09-01        |
+| RBHRBIS         | Real Broad Effective Exchange Rate for Croatia                                                                          | 1994-01-01          | 2022-09-01        |
+| RBHUBIS         | Real Broad Effective Exchange Rate for Hungary                                                                          | 1994-01-01          | 2022-09-01        |
+| RBIDBIS         | Real Broad Effective Exchange Rate for Indonesia                                                                        | 1994-01-01          | 2022-09-01        |
+| RBIEBIS         | Real Broad Effective Exchange Rate for Ireland                                                                          | 1994-01-01          | 2022-09-01        |
+| RBILBIS         | Real Broad Effective Exchange Rate for Israel                                                                           | 1994-01-01          | 2022-09-01        |
+| RBINBIS         | Real Broad Effective Exchange Rate for India                                                                            | 1994-01-01          | 2022-09-01        |
+| RBISBIS         | Real Broad Effective Exchange Rate for Iceland                                                                          | 1994-01-01          | 2022-09-01        |
+| RBITBIS         | Real Broad Effective Exchange Rate for Italy                                                                            | 1994-01-01          | 2022-09-01        |
+| RBJPBIS         | Real Broad Effective Exchange Rate for Japan                                                                            | 1994-01-01          | 2022-09-01        |
+| RBKRBIS         | Real Broad Effective Exchange Rate for Korea                                                                            | 1994-01-01          | 2022-09-01        |
+| RBLTBIS         | Real Broad Effective Exchange Rate for Lithuania                                                                        | 1994-01-01          | 2022-09-01        |
+| RBLUBIS         | Real Broad Effective Exchange Rate for Luxembourg                                                                       | 1994-01-01          | 2022-09-01        |
+| RBLVBIS         | Real Broad Effective Exchange Rate for Latvia                                                                           | 1994-01-01          | 2022-09-01        |
+| RBMTBIS         | Real Broad Effective Exchange Rate for Malta                                                                            | 1994-01-01          | 2022-09-01        |
+| RBMXBIS         | Real Broad Effective Exchange Rate for Mexico                                                                           | 1994-01-01          | 2022-09-01        |
+| RBMYBIS         | Real Broad Effective Exchange Rate for Malaysia                                                                         | 1994-01-01          | 2022-09-01        |
+| RBNLBIS         | Real Broad Effective Exchange Rate for Netherlands                                                                      | 1994-01-01          | 2022-09-01        |
+| RBNOBIS         | Real Broad Effective Exchange Rate for Norway                                                                           | 1994-01-01          | 2022-09-01        |
+| RBNZBIS         | Real Broad Effective Exchange Rate for New Zealand                                                                      | 1994-01-01          | 2022-09-01        |
+| RBPEBIS         | Real Broad Effective Exchange Rate for Peru                                                                             | 1994-01-01          | 2022-09-01        |
+| RBPHBIS         | Real Broad Effective Exchange Rate for Philippines                                                                      | 1994-01-01          | 2022-09-01        |
+| RBPLBIS         | Real Broad Effective Exchange Rate for Poland                                                                           | 1994-01-01          | 2022-09-01        |
+| RBPTBIS         | Real Broad Effective Exchange Rate for Portugal                                                                         | 1994-01-01          | 2022-09-01        |
+| RBROBIS         | Real Broad Effective Exchange Rate for Romania                                                                          | 1994-01-01          | 2022-09-01        |
+| RBRUBIS         | Real Broad Effective Exchange Rate for Russia                                                                           | 1994-01-01          | 2022-09-01        |
+| RBSABIS         | Real Broad Effective Exchange Rate for Saudi Arabia                                                                     | 1994-01-01          | 2022-09-01        |
+| RBSEBIS         | Real Broad Effective Exchange Rate for Sweden                                                                           | 1994-01-01          | 2022-09-01        |
+| RBSGBIS         | Real Broad Effective Exchange Rate for Singapore                                                                        | 1994-01-01          | 2022-09-01        |
+| RBSIBIS         | Real Broad Effective Exchange Rate for Slovenia                                                                         | 1994-01-01          | 2022-09-01        |
+| RBSKBIS         | Real Broad Effective Exchange Rate for Slovakia                                                                         | 1994-01-01          | 2022-09-01        |
+| RBTHBIS         | Real Broad Effective Exchange Rate for Thailand                                                                         | 1994-01-01          | 2022-09-01        |
+| RBTRBIS         | Real Broad Effective Exchange Rate for Turkey                                                                           | 1994-01-01          | 2022-09-01        |
+| RBTWBIS         | Real Broad Effective Exchange Rate for Chinese Taipei                                                                   | 1994-01-01          | 2022-09-01        |
+| RBUSBIS         | Real Broad Effective Exchange Rate for United States                                                                    | 1994-01-01          | 2022-09-01        |
+| RBXMBIS         | Real Broad Effective Exchange Rate for Euro Area                                                                        | 1994-01-01          | 2022-09-01        |
+| RBZABIS         | Real Broad Effective Exchange Rate for South Africa                                                                     | 1994-01-01          | 2022-09-01        |
+| RNATBIS         | Real Narrow Effective Exchange Rate for Austria                                                                         | 1964-01-01          | 2022-09-01        |
+| RNAUBIS         | Real Narrow Effective Exchange Rate for Australia                                                                       | 1964-01-01          | 2022-09-01        |
+| RNBEBIS         | Real Narrow Effective Exchange Rate for Belgium                                                                         | 1964-01-01          | 2022-09-01        |
+| RNCABIS         | Real Narrow Effective Exchange Rate for Canada                                                                          | 1964-01-01          | 2022-09-01        |
+| RNCHBIS         | Real Narrow Effective Exchange Rate for Switzerland                                                                     | 1964-01-01          | 2022-09-01        |
+| RNDEBIS         | Real Narrow Effective Exchange Rate for Germany                                                                         | 1964-01-01          | 2022-09-01        |
+| RNDKBIS         | Real Narrow Effective Exchange Rate for Denmark                                                                         | 1964-01-01          | 2022-09-01        |
+| RNESBIS         | Real Narrow Effective Exchange Rate for Spain                                                                           | 1964-01-01          | 2022-09-01        |
+| RNFIBIS         | Real Narrow Effective Exchange Rate for Finland                                                                         | 1964-01-01          | 2022-09-01        |
+| RNFRBIS         | Real Narrow Effective Exchange Rate for France                                                                          | 1964-01-01          | 2022-09-01        |
+| RNGBBIS         | Real Narrow Effective Exchange Rate for United Kingdom                                                                  | 1964-01-01          | 2022-09-01        |
+| RNGRBIS         | Real Narrow Effective Exchange Rate for Greece                                                                          | 1964-01-01          | 2022-09-01        |
+| RNHKBIS         | Real Narrow Effective Exchange Rate for Hong Kong SAR                                                                   | 1964-01-01          | 2022-09-01        |
+| RNIEBIS         | Real Narrow Effective Exchange Rate for Ireland                                                                         | 1964-01-01          | 2022-09-01        |
+| RNITBIS         | Real Narrow Effective Exchange Rate for Italy                                                                           | 1964-01-01          | 2022-09-01        |
+| RNJPBIS         | Real Narrow Effective Exchange Rate for Japan                                                                           | 1964-01-01          | 2022-09-01        |
+| RNKRBIS         | Real Narrow Effective Exchange Rate for Korea                                                                           | 1964-01-01          | 2022-09-01        |
+| RNMXBIS         | Real Narrow Effective Exchange Rate for Mexico                                                                          | 1964-01-01          | 2022-09-01        |
+| RNNLBIS         | Real Narrow Effective Exchange Rate for Netherlands                                                                     | 1964-01-01          | 2022-09-01        |
+| RNNOBIS         | Real Narrow Effective Exchange Rate for Norway                                                                          | 1964-01-01          | 2022-09-01        |
+| RNNZBIS         | Real Narrow Effective Exchange Rate for New Zealand                                                                     | 1964-01-01          | 2022-09-01        |
+| RNPTBIS         | Real Narrow Effective Exchange Rate for Portugal                                                                        | 1964-01-01          | 2022-09-01        |
+| RNSEBIS         | Real Narrow Effective Exchange Rate for Sweden                                                                          | 1964-01-01          | 2022-09-01        |
+| RNSGBIS         | Real Narrow Effective Exchange Rate for Singapore                                                                       | 1964-01-01          | 2022-09-01        |
+| RNTWBIS         | Real Narrow Effective Exchange Rate for Chinese Taipei                                                                  | 1964-01-01          | 2022-09-01        |
+| RNUSBIS         | Real Narrow Effective Exchange Rate for United States                                                                   | 1964-01-01          | 2022-09-01        |
+| RNXMBIS         | Real Narrow Effective Exchange Rate for Euro area                                                                       | 1964-01-01          | 2022-09-01        |
