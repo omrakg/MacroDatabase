@@ -2835,6 +2835,32 @@
         "Wisconsin"
       ]
     },
+    "All Employees: Real Estate and Rental and Leasing": {
+      "All Employees: Real Estate and Rental and Leasing": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
     "Housing Inventory: Pending Listing Count Month-Over-Month": {
       "Housing Inventory: Pending Listing Count Month-Over-Month": [
         "Wyoming",
@@ -3105,30 +3131,6 @@
         "Wisconsin"
       ]
     },
-    "All Employees: Real Estate and Rental and Leasing": {
-      "All Employees: Real Estate and Rental and Leasing": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
     "All Employees Real Estate": {
       "All Employees Real Estate": [
         "Utah",
@@ -3238,6 +3240,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -3289,6 +3292,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -3342,6 +3346,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -3393,6 +3398,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -3644,6 +3650,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -3696,6 +3703,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -3748,6 +3756,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -3800,6 +3809,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -3956,6 +3966,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4008,6 +4019,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4060,6 +4072,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4112,6 +4125,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4166,6 +4180,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4218,6 +4233,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4270,6 +4286,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4322,6 +4339,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4376,6 +4394,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4423,6 +4442,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4472,6 +4492,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4524,6 +4545,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4576,6 +4598,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4628,6 +4651,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4682,6 +4706,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4727,10 +4752,57 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
         "Vermont"
+      ],
+      "Number_Weekly, Ending Saturday_Not Seasonally Adjusted": [
+        "Puerto Rico",
+        "Alabama",
+        "Alaska",
+        "Arizona",
+        "Arkansas",
+        "California",
+        "Colorado",
+        "Connecticut",
+        "Delaware",
+        "Florida",
+        "Georgia",
+        "Hawaii",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Iowa",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Maine",
+        "Maryland",
+        "Massachusetts",
+        "Michigan",
+        "Minnesota",
+        "Mississippi",
+        "Missouri",
+        "Montana",
+        "Nebraska",
+        "Nevada",
+        "New Hampshire",
+        "New Jersey",
+        "New Mexico",
+        "New York",
+        "North Carolina",
+        "North Dakota",
+        "Ohio",
+        "Oklahoma",
+        "Oregon",
+        "Pennsylvania",
+        "Rhode Island",
+        "South Carolina",
+        "South Dakota",
+        "Vermont",
+        "Wyoming"
       ]
     },
     "All Employees: Leisure and Hospitality": {
@@ -4774,6 +4846,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4826,6 +4899,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4878,6 +4952,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4930,6 +5005,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -4984,6 +5060,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5036,6 +5113,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5088,6 +5166,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5140,6 +5219,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5192,6 +5272,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5352,6 +5433,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5404,6 +5486,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5456,6 +5539,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5508,6 +5592,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5738,6 +5823,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "Tennessee",
@@ -5790,6 +5876,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "Tennessee",
@@ -5842,6 +5929,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "Tennessee",
@@ -5894,6 +5982,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -5946,6 +6035,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -6638,6 +6728,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "Tennessee",
@@ -6690,6 +6781,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "Tennessee",
@@ -6742,6 +6834,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "Tennessee",
@@ -6794,6 +6887,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -7153,7 +7247,7 @@
         "Wyoming"
       ],
       "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "North Dakota",
+        "Puerto Rico",
         "Alabama",
         "Alaska",
         "Arizona",
@@ -7166,7 +7260,7 @@
         "Idaho",
         "Iowa",
         "Montana",
-        "Puerto Rico",
+        "North Dakota",
         "Tennessee",
         "Texas",
         "Utah",
@@ -7205,7 +7299,7 @@
     },
     "All Employees: Trade, Transportation, and Utilities": {
       "All Employees: Trade, Transportation, and Utilities": [
-        "Idaho",
+        "Puerto Rico",
         "Alabama",
         "Alaska",
         "Arizona",
@@ -7215,6 +7309,7 @@
         "Connecticut",
         "Delaware",
         "Hawaii",
+        "Idaho",
         "Tennessee",
         "Texas",
         "Utah",
@@ -7226,7 +7321,7 @@
         "Wyoming"
       ],
       "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Idaho",
+        "Puerto Rico",
         "Alabama",
         "Alaska",
         "Arizona",
@@ -7236,6 +7331,7 @@
         "Connecticut",
         "Delaware",
         "Hawaii",
+        "Idaho",
         "Tennessee",
         "Texas",
         "Utah",
@@ -7247,7 +7343,7 @@
         "Wyoming"
       ],
       "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Idaho",
+        "Puerto Rico",
         "Alabama",
         "Alaska",
         "Arizona",
@@ -7257,6 +7353,7 @@
         "Connecticut",
         "Delaware",
         "Hawaii",
+        "Idaho",
         "Tennessee",
         "Texas",
         "Utah",
@@ -7279,6 +7376,7 @@
         "Delaware",
         "Hawaii",
         "Idaho",
+        "Puerto Rico",
         "Tennessee",
         "Texas",
         "Utah",
@@ -7291,7 +7389,7 @@
     },
     "Unemployment Rate": {
       "Unemployment Rate": [
-        "Hawaii",
+        "Puerto Rico",
         "Alabama",
         "Alaska",
         "Arizona",
@@ -7299,6 +7397,7 @@
         "Colorado",
         "Connecticut",
         "Delaware",
+        "Hawaii",
         "Maine",
         "Maryland",
         "Massachusetts",
@@ -7333,7 +7432,7 @@
         "Wyoming"
       ],
       "Percent_Monthly_Seasonally Adjusted": [
-        "Hawaii",
+        "Puerto Rico",
         "Alabama",
         "Alaska",
         "Arizona",
@@ -7341,6 +7440,7 @@
         "Colorado",
         "Connecticut",
         "Delaware",
+        "Hawaii",
         "Maine",
         "Maryland",
         "Massachusetts",
@@ -7375,7 +7475,7 @@
         "Wyoming"
       ],
       "Percent_Monthly_Not Seasonally Adjusted": [
-        "Hawaii",
+        "Puerto Rico",
         "Alabama",
         "Alaska",
         "Arizona",
@@ -7383,6 +7483,7 @@
         "Colorado",
         "Connecticut",
         "Delaware",
+        "Hawaii",
         "Maine",
         "Maryland",
         "Massachusetts",
@@ -7446,6 +7547,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -9876,6 +9978,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -9910,6 +10013,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -9944,6 +10048,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -9978,6 +10083,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -10014,6 +10120,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -10048,6 +10155,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -10082,6 +10190,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -10116,6 +10225,7 @@
         "Oklahoma",
         "Oregon",
         "Pennsylvania",
+        "Puerto Rico",
         "Rhode Island",
         "South Carolina",
         "South Dakota",
@@ -10365,6 +10475,272 @@
         "Wisconsin"
       ]
     },
+    "All Employees: Total Private": {
+      "All Employees: Total Private": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "3-Month Average Change, Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Goods Producing": {
+      "All Employees: Goods Producing": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Service-Providing": {
+      "All Employees: Service-Providing": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Private Service Providing": {
+      "All Employees: Private Service Providing": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Mining, Logging, and Construction": {
+      "All Employees: Mining, Logging, and Construction": [
+        "Wyoming",
+        "Puerto Rico",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
     "All Employees Durable Goods": {
       "All Employees Durable Goods": [
         "Wyoming",
@@ -10515,6 +10891,56 @@
         "Wisconsin"
       ]
     },
+    "All Employees: Retail Trade": {
+      "All Employees: Retail Trade": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
     "All Employees Finance and Insurance": {
       "All Employees Finance and Insurance": [
         "Wyoming",
@@ -10565,8 +10991,466 @@
         "Wisconsin"
       ]
     },
+    "All Employees Professional, Scientific, and Technical Services": {
+      "All Employees Professional, Scientific, and Technical Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Administrative and Support and Waste Management and Remediation Services": {
+      "All Employees Administrative and Support and Waste Management and Remediation Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Educational Services": {
+      "All Employees Educational Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Accommodation and Food Services": {
+      "All Employees Accommodation and Food Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Federal Government": {
+      "All Employees Federal Government": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees State Government": {
+      "All Employees State Government": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Local Government": {
+      "All Employees Local Government": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "Average Weekly Hours of All Employees: Total Private": {
+      "Average Weekly Hours of All Employees: Total Private": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Hours per Week_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Hours per Week_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "Average Hourly Earnings of All Employees: Total Private": {
+      "Average Hourly Earnings of All Employees: Total Private": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Hour_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "Average Weekly Earnings of All Employees: Total Private": {
+      "Average Weekly Earnings of All Employees: Total Private": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Week_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Week_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
     "All Employees Construction of Buildings": {
       "All Employees Construction of Buildings": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Specialty Trade Contractors": {
+      "All Employees Specialty Trade Contractors": [
         "Wyoming",
         "Puerto Rico",
         "Tennessee",
@@ -10649,13 +11533,1158 @@
         "Wisconsin"
       ]
     },
-    "All Employees Specialty Trade Contractors": {
-      "All Employees Specialty Trade Contractors": [
+    "Production or Nonsupervisory Employees: Manufacturing": {
+      "Production or Nonsupervisory Employees: Manufacturing": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ]
+    },
+    "Average Weekly Hours of Production Employees: Manufacturing": {
+      "Average Weekly Hours of Production Employees: Manufacturing": [
         "Wyoming",
         "Puerto Rico",
         "Tennessee",
         "Texas",
         "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Hours per Week_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Hours per Week_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "Average Hourly Earnings of Production Employees: Manufacturing": {
+      "Average Hourly Earnings of Production Employees: Manufacturing": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Hour_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "Average Weekly Earnings of Production Employees: Manufacturing": {
+      "Average Weekly Earnings of Production Employees: Manufacturing": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Week_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Dollars per Week_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Durable Goods": {
+      "All Employees: Durable Goods": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Production or Nonsupervisory Employees Durable Goods": {
+      "Production or Nonsupervisory Employees Durable Goods": [
+        "Virginia",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Virginia",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Virginia",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Virginia",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont"
+      ]
+    },
+    "Average Weekly Hours of Production Employees Durable Goods": {
+      "Average Weekly Hours of Production Employees Durable Goods": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Hours per Week_Annual_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Hours per Week_Monthly_Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ]
+    },
+    "Average Hourly Earnings of Production Employees Durable Goods": {
+      "Average Hourly Earnings of Production Employees Durable Goods": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Dollars per Hour_Monthly_Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ]
+    },
+    "Average Weekly Earnings of Production Employees Durable Goods": {
+      "Average Weekly Earnings of Production Employees Durable Goods": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Dollars per Week_Annual_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ],
+      "Dollars per Week_Monthly_Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia"
+      ]
+    },
+    "All Employees Nonmetallic Mineral Product Manufacturing": {
+      "All Employees Nonmetallic Mineral Product Manufacturing": [
+        "Washington",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Washington",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Washington",
+        "Tennessee",
+        "Texas"
+      ]
+    },
+    "Production or Nonsupervisory Employees Nonmetallic Mineral Product Manufacturing": {
+      "Production or Nonsupervisory Employees Nonmetallic Mineral Product Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Weekly Hours of Production Employees Nonmetallic Mineral Product Manufacturing": {
+      "Average Weekly Hours of Production Employees Nonmetallic Mineral Product Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Hours per Week_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Hourly Earnings of Production Employees Nonmetallic Mineral Product Manufacturing": {
+      "Average Hourly Earnings of Production Employees Nonmetallic Mineral Product Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Weekly Earnings of Production Employees Nonmetallic Mineral Product Manufacturing": {
+      "Average Weekly Earnings of Production Employees Nonmetallic Mineral Product Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Dollars per Week_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "All Employees Fabricated Metal Product Manufacturing": {
+      "All Employees Fabricated Metal Product Manufacturing": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Vermont",
+        "Washington"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Vermont",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Vermont",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Vermont",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Computer and Electronic Product Manufacturing": {
+      "All Employees Computer and Electronic Product Manufacturing": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah"
+      ]
+    },
+    "All Employees Electrical Equipment, Appliance, and Component Manufacturing": {
+      "All Employees Electrical Equipment, Appliance, and Component Manufacturing": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ]
+    },
+    "All Employees Miscellaneous Durable Goods Manufacturing": {
+      "All Employees Miscellaneous Durable Goods Manufacturing": [
+        "Texas",
+        "Puerto Rico",
+        "Tennessee"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Texas",
+        "Puerto Rico",
+        "Tennessee"
+      ]
+    },
+    "Production or Nonsupervisory Employees Non-Durable Goods": {
+      "Production or Nonsupervisory Employees Non-Durable Goods": [
+        "Virginia",
+        "Puerto Rico",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Virginia",
+        "Puerto Rico",
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Virginia",
+        "Puerto Rico",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Virginia",
+        "Puerto Rico",
+        "Texas"
+      ]
+    },
+    "Average Weekly Hours of Production Employees Non-Durable Goods": {
+      "Average Weekly Hours of Production Employees Non-Durable Goods": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Hours per Week_Annual_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Hours per Week_Monthly_Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ]
+    },
+    "Average Hourly Earnings of Production Employees Non-Durable Goods": {
+      "Average Hourly Earnings of Production Employees Non-Durable Goods": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Dollars per Hour_Monthly_Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ]
+    },
+    "Average Weekly Earnings of Production Employees Non-Durable Goods": {
+      "Average Weekly Earnings of Production Employees Non-Durable Goods": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Dollars per Week_Annual_Not Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ],
+      "Dollars per Week_Monthly_Seasonally Adjusted": [
+        "West Virginia",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Virginia"
+      ]
+    },
+    "All Employees Food Manufacturing": {
+      "All Employees Food Manufacturing": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Vermont",
+        "Washington"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Vermont",
+        "Washington"
+      ]
+    },
+    "Production or Nonsupervisory Employees Food Manufacturing": {
+      "Production or Nonsupervisory Employees Food Manufacturing": [
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Washington"
+      ]
+    },
+    "Average Weekly Hours of Production Employees Food Manufacturing": {
+      "Average Weekly Hours of Production Employees Food Manufacturing": [
+        "Washington"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "Washington"
+      ],
+      "Hours per Week_Monthly_Seasonally Adjusted": [
+        "Washington"
+      ]
+    },
+    "Average Hourly Earnings of Production Employees Food Manufacturing": {
+      "Average Hourly Earnings of Production Employees Food Manufacturing": [
+        "Washington"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "Washington"
+      ],
+      "Dollars per Hour_Monthly_Seasonally Adjusted": [
+        "Washington"
+      ]
+    },
+    "Average Weekly Earnings of Production Employees Food Manufacturing": {
+      "Average Weekly Earnings of Production Employees Food Manufacturing": [
+        "Washington"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "Washington"
+      ],
+      "Dollars per Week_Monthly_Seasonally Adjusted": [
+        "Washington"
+      ]
+    },
+    "All Employees Beverage and Tobacco Product Manufacturing": {
+      "All Employees Beverage and Tobacco Product Manufacturing": [
+        "Texas",
+        "Puerto Rico",
+        "Tennessee"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Texas",
+        "Puerto Rico",
+        "Tennessee"
+      ]
+    },
+    "All Employees Apparel Manufacturing": {
+      "All Employees Apparel Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Production or Nonsupervisory Employees Apparel Manufacturing": {
+      "Production or Nonsupervisory Employees Apparel Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Weekly Hours of Production Employees Apparel Manufacturing": {
+      "Average Weekly Hours of Production Employees Apparel Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Hours per Week_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Hourly Earnings of Production Employees Apparel Manufacturing": {
+      "Average Hourly Earnings of Production Employees Apparel Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Weekly Earnings of Production Employees Apparel Manufacturing": {
+      "Average Weekly Earnings of Production Employees Apparel Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Dollars per Week_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "All Employees Chemical Manufacturing": {
+      "All Employees Chemical Manufacturing": [
+        "Texas",
+        "Puerto Rico",
+        "Tennessee"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Texas",
+        "Puerto Rico",
+        "Tennessee"
+      ]
+    },
+    "Production or Nonsupervisory Employees Chemical Manufacturing": {
+      "Production or Nonsupervisory Employees Chemical Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Weekly Hours of Production Employees Chemical Manufacturing": {
+      "Average Weekly Hours of Production Employees Chemical Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Hours per Week_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Hours per Week_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Hourly Earnings of Production Employees Chemical Manufacturing": {
+      "Average Hourly Earnings of Production Employees Chemical Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "Average Weekly Earnings of Production Employees Chemical Manufacturing": {
+      "Average Weekly Earnings of Production Employees Chemical Manufacturing": [
+        "Puerto Rico"
+      ],
+      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ],
+      "Dollars per Week_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "All Employees Merchant Wholesalers, Durable Goods": {
+      "All Employees Merchant Wholesalers, Durable Goods": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Merchant Wholesalers, Nondurable Goods": {
+      "All Employees Merchant Wholesalers, Nondurable Goods": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington"
+      ]
+    },
+    "All Employees Motor Vehicle and Parts Dealers": {
+      "All Employees Motor Vehicle and Parts Dealers": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Furniture and Home Furnishings Stores": {
+      "All Employees Furniture and Home Furnishings Stores": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ]
+    },
+    "All Employees Building Material and Garden Equipment and Supplies Dealers": {
+      "All Employees Building Material and Garden Equipment and Supplies Dealers": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Washington"
+      ]
+    },
+    "All Employees Food and Beverage Stores": {
+      "All Employees Food and Beverage Stores": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Health and Personal Care Stores": {
+      "All Employees Health and Personal Care Stores": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ]
+    },
+    "All Employees Clothing and Clothing Accessories Stores": {
+      "All Employees Clothing and Clothing Accessories Stores": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas"
+      ]
+    },
+    "All Employees General Merchandise Stores": {
+      "All Employees General Merchandise Stores": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Transportation, Warehousing, and Utilities": {
+      "All Employees Transportation, Warehousing, and Utilities": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Tennessee",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin",
+        "Wyoming"
+      ]
+    },
+    "All Employees: Transportation and Utilities": {
+      "All Employees: Transportation and Utilities": [
+        "Wyoming",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Transportation and Warehousing": {
+      "All Employees Transportation and Warehousing": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
         "Virginia",
         "Washington",
         "Wisconsin"
@@ -10666,16 +12695,7 @@
         "Tennessee",
         "Texas",
         "Utah",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Puerto Rico",
-        "Tennessee",
-        "Texas",
-        "Utah",
+        "Vermont",
         "Virginia",
         "Washington",
         "Wisconsin"
@@ -10686,8 +12706,650 @@
         "Tennessee",
         "Texas",
         "Utah",
+        "Vermont",
         "Virginia",
         "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Transportation and Warehousing": {
+      "All Employees: Transportation and Warehousing": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Publishing Industries (Except Internet)": {
+      "All Employees Publishing Industries (Except Internet)": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah"
+      ]
+    },
+    "All Employees Publishing Industries (except Internet)": {
+      "All Employees Publishing Industries (except Internet)": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas",
+        "Utah"
+      ]
+    },
+    "All Employees Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank": {
+      "All Employees Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Washington"
+      ]
+    },
+    "All Employees Credit Intermediation and Related Activities including Monetary Authorities - Central Bank": {
+      "All Employees Credit Intermediation and Related Activities including Monetary Authorities - Central Bank": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "All Employees Insurance Carriers and Related Activities": {
+      "All Employees Insurance Carriers and Related Activities": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Washington"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Utah",
+        "Washington"
+      ]
+    },
+    "All Employees: Professional, Scientific, and Technical Services": {
+      "All Employees: Professional, Scientific, and Technical Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Administrative and Support and Waste Management and Remediation Services": {
+      "All Employees: Administrative and Support and Waste Management and Remediation Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Administrative and Support Services": {
+      "All Employees Administrative and Support Services": [
+        "Washington",
+        "Puerto Rico",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas"
+      ]
+    },
+    "All Employees: Administrative and Support Services": {
+      "All Employees: Administrative and Support Services": [
+        "Washington",
+        "Puerto Rico",
+        "Texas"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Washington",
+        "Puerto Rico",
+        "Texas"
+      ]
+    },
+    "All Employees: Educational Services": {
+      "All Employees: Educational Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Elementary and Secondary Schools": {
+      "All Employees Elementary and Secondary Schools": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "All Employees Colleges, Universities, and Professional Schools": {
+      "All Employees Colleges, Universities, and Professional Schools": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Vermont",
+        "Virginia"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wisconsin",
+        "Puerto Rico",
+        "Texas",
+        "Vermont",
+        "Virginia"
+      ]
+    },
+    "All Employees Health Care and Social Assistance": {
+      "All Employees Health Care and Social Assistance": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Health Care and Social Assistance": {
+      "All Employees: Health Care and Social Assistance": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Ambulatory Health Care Services": {
+      "All Employees Ambulatory Health Care Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Hospitals": {
+      "All Employees Hospitals": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Individual and Family Services": {
+      "All Employees Individual and Family Services": [
+        "Puerto Rico"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico"
+      ]
+    },
+    "All Employees: Accommodation and Food Services": {
+      "All Employees: Accommodation and Food Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Accommodation": {
+      "All Employees Accommodation": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Accommodation": {
+      "All Employees: Accommodation": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees Food Services and Drinking Places": {
+      "All Employees Food Services and Drinking Places": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Food Services and Drinking Places": {
+      "All Employees: Food Services and Drinking Places": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: Federal Government": {
+      "All Employees: Federal Government": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees: State Government": {
+      "All Employees: State Government": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ]
+    },
+    "All Employees State Government Educational Services": {
+      "All Employees State Government Educational Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington"
+      ],
+      "Thousands of Persons_Monthly_Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington"
+      ]
+    },
+    "All Employees: State Government Educational Services": {
+      "All Employees: State Government Educational Services": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Washington"
+      ]
+    },
+    "All Employees: Local Government": {
+      "All Employees: Local Government": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin"
+      ],
+      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
+        "Wyoming",
+        "Puerto Rico",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
         "Wisconsin"
       ]
     },
@@ -10811,56 +13473,6 @@
         "Wisconsin"
       ]
     },
-    "All Employees: Mining, Logging, and Construction": {
-      "All Employees: Mining, Logging, and Construction": [
-        "Wyoming",
-        "South Dakota",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "South Dakota",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "South Dakota",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "South Dakota",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
     "Output per Employee for Private Nonfarm": {
       "Output per Employee for Private Nonfarm": [
         "Tennessee"
@@ -10870,433 +13482,6 @@
       ],
       "Percent Change from Year Ago_Annual_Not Seasonally Adjusted": [
         "Tennessee"
-      ]
-    },
-    "All Employees: Total Private": {
-      "All Employees: Total Private": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "3-Month Average Change, Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Goods Producing": {
-      "All Employees: Goods Producing": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Service-Providing": {
-      "All Employees: Service-Providing": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Private Service Providing": {
-      "All Employees: Private Service Providing": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Retail Trade": {
-      "All Employees: Retail Trade": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Transportation, Warehousing, and Utilities": {
-      "All Employees Transportation, Warehousing, and Utilities": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin",
-        "Wyoming"
-      ]
-    },
-    "All Employees Professional, Scientific, and Technical Services": {
-      "All Employees Professional, Scientific, and Technical Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Administrative and Support and Waste Management and Remediation Services": {
-      "All Employees Administrative and Support and Waste Management and Remediation Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Educational Services": {
-      "All Employees Educational Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Health Care and Social Assistance": {
-      "All Employees Health Care and Social Assistance": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
       ]
     },
     "All Employees Arts, Entertainment, and Recreation": {
@@ -11334,249 +13519,6 @@
         "Wisconsin"
       ],
       "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Accommodation and Food Services": {
-      "All Employees Accommodation and Food Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees State Government": {
-      "All Employees State Government": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Local Government": {
-      "All Employees Local Government": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "Average Weekly Hours of All Employees: Total Private": {
-      "Average Weekly Hours of All Employees: Total Private": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Hours per Week_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Hours per Week_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Hours per Week_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "Average Hourly Earnings of All Employees: Total Private": {
-      "Average Hourly Earnings of All Employees: Total Private": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Hour_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "Average Weekly Earnings of All Employees: Total Private": {
-      "Average Weekly Earnings of All Employees: Total Private": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Week_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Week_Monthly_Seasonally Adjusted": [
         "Wyoming",
         "Tennessee",
         "Texas",
@@ -11990,98 +13932,6 @@
         "West Virginia"
       ]
     },
-    "Average Weekly Hours of Production Employees: Manufacturing": {
-      "Average Weekly Hours of Production Employees: Manufacturing": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Hours per Week_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Hours per Week_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Hours per Week_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "Average Hourly Earnings of Production Employees: Manufacturing": {
-      "Average Hourly Earnings of Production Employees: Manufacturing": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Hour_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
     "Average Weekly Earnings of All Employees: Manufacturing": {
       "Average Weekly Earnings of All Employees: Manufacturing": [
         "Wisconsin",
@@ -12124,154 +13974,6 @@
         "West Virginia"
       ]
     },
-    "Average Weekly Earnings of Production Employees: Manufacturing": {
-      "Average Weekly Earnings of Production Employees: Manufacturing": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Week_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Dollars per Week_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "Average Weekly Hours of Production Employees Durable Goods": {
-      "Average Weekly Hours of Production Employees Durable Goods": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Hours per Week_Monthly_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Hours per Week_Annual_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Hours per Week_Monthly_Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ]
-    },
-    "Average Hourly Earnings of Production Employees Durable Goods": {
-      "Average Hourly Earnings of Production Employees Durable Goods": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Dollars per Hour_Monthly_Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ]
-    },
-    "Average Weekly Earnings of Production Employees Durable Goods": {
-      "Average Weekly Earnings of Production Employees Durable Goods": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Dollars per Week_Annual_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Dollars per Week_Monthly_Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ]
-    },
     "All Employees Wood Product Manufacturing": {
       "All Employees Wood Product Manufacturing": [
         "Wisconsin",
@@ -12286,18 +13988,6 @@
         "Washington"
       ]
     },
-    "All Employees Nonmetallic Mineral Product Manufacturing": {
-      "All Employees Nonmetallic Mineral Product Manufacturing": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ]
-    },
     "All Employees Primary Metal Manufacturing": {
       "All Employees Primary Metal Manufacturing": [
         "Texas",
@@ -12306,36 +13996,6 @@
       "Thousands of Persons_Annual_Not Seasonally Adjusted": [
         "Texas",
         "Tennessee"
-      ]
-    },
-    "All Employees Fabricated Metal Product Manufacturing": {
-      "All Employees Fabricated Metal Product Manufacturing": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Vermont",
-        "Washington"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Vermont",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Vermont",
-        "Tennessee",
-        "Texas",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Vermont",
-        "Tennessee",
-        "Texas",
-        "Washington",
-        "Wisconsin"
       ]
     },
     "All Employees Machinery Manufacturing": {
@@ -12350,32 +14010,6 @@
         "Tennessee",
         "Texas",
         "Washington"
-      ]
-    },
-    "All Employees Computer and Electronic Product Manufacturing": {
-      "All Employees Computer and Electronic Product Manufacturing": [
-        "Washington",
-        "Tennessee",
-        "Texas",
-        "Utah"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas",
-        "Utah"
-      ]
-    },
-    "All Employees Electrical Equipment, Appliance, and Component Manufacturing": {
-      "All Employees Electrical Equipment, Appliance, and Component Manufacturing": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas"
       ]
     },
     "All Employees Transportation Equipment Manufacturing": {
@@ -12404,94 +14038,6 @@
         "Tennessee"
       ]
     },
-    "All Employees Miscellaneous Durable Goods Manufacturing": {
-      "All Employees Miscellaneous Durable Goods Manufacturing": [
-        "Texas",
-        "Tennessee"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Texas",
-        "Tennessee"
-      ]
-    },
-    "Average Weekly Hours of Production Employees Non-Durable Goods": {
-      "Average Weekly Hours of Production Employees Non-Durable Goods": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Hours per Week_Monthly_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Hours per Week_Annual_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Hours per Week_Monthly_Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ]
-    },
-    "Average Hourly Earnings of Production Employees Non-Durable Goods": {
-      "Average Hourly Earnings of Production Employees Non-Durable Goods": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Dollars per Hour_Monthly_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Dollars per Hour_Monthly_Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ]
-    },
-    "Average Weekly Earnings of Production Employees Non-Durable Goods": {
-      "Average Weekly Earnings of Production Employees Non-Durable Goods": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Dollars per Week_Monthly_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Dollars per Week_Annual_Not Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ],
-      "Dollars per Week_Monthly_Seasonally Adjusted": [
-        "West Virginia",
-        "Tennessee",
-        "Texas",
-        "Virginia"
-      ]
-    },
     "All Employees Textile Mills, Textile Mill Products, and Apparel Mfg": {
       "All Employees Textile Mills, Textile Mill Products, and Apparel Mfg": [
         "Tennessee"
@@ -12503,32 +14049,6 @@
         "Tennessee"
       ],
       "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Tennessee"
-      ]
-    },
-    "All Employees Food Manufacturing": {
-      "All Employees Food Manufacturing": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Vermont",
-        "Washington"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Vermont",
-        "Washington"
-      ]
-    },
-    "All Employees Beverage and Tobacco Product Manufacturing": {
-      "All Employees Beverage and Tobacco Product Manufacturing": [
-        "Texas",
-        "Tennessee"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Texas",
         "Tennessee"
       ]
     },
@@ -12570,16 +14090,6 @@
         "Tennessee",
         "Texas",
         "Washington"
-      ]
-    },
-    "All Employees Chemical Manufacturing": {
-      "All Employees Chemical Manufacturing": [
-        "Texas",
-        "Tennessee"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Texas",
-        "Tennessee"
       ]
     },
     "All Employees Plastics and Rubber Products Manufacturing": {
@@ -12757,206 +14267,8 @@
         "Wisconsin"
       ]
     },
-    "All Employees Merchant Wholesalers, Durable Goods": {
-      "All Employees Merchant Wholesalers, Durable Goods": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Merchant Wholesalers, Nondurable Goods": {
-      "All Employees Merchant Wholesalers, Nondurable Goods": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Washington"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Washington"
-      ]
-    },
     "All Employees Wholesale Electronic Markets and Agents and Brokers": {
       "All Employees Wholesale Electronic Markets and Agents and Brokers": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ]
-    },
-    "All Employees Motor Vehicle and Parts Dealers": {
-      "All Employees Motor Vehicle and Parts Dealers": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Furniture and Home Furnishings Stores": {
-      "All Employees Furniture and Home Furnishings Stores": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ]
-    },
-    "All Employees Building Material and Garden Equipment and Supplies Dealers": {
-      "All Employees Building Material and Garden Equipment and Supplies Dealers": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Washington"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wisconsin",
-        "Tennessee",
-        "Texas",
-        "Washington"
-      ]
-    },
-    "All Employees Food and Beverage Stores": {
-      "All Employees Food and Beverage Stores": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Health and Personal Care Stores": {
-      "All Employees Health and Personal Care Stores": [
         "Washington",
         "Tennessee",
         "Texas"
@@ -13003,28 +14315,6 @@
         "Wisconsin"
       ]
     },
-    "All Employees Clothing and Clothing Accessories Stores": {
-      "All Employees Clothing and Clothing Accessories Stores": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Washington",
-        "Tennessee",
-        "Texas"
-      ]
-    },
     "All Employees Sporting Goods, Hobby, Musical Instrument, and Book Stores": {
       "All Employees Sporting Goods, Hobby, Musical Instrument, and Book Stores": [
         "Texas",
@@ -13041,44 +14331,6 @@
       "Thousands of Persons_Monthly_Seasonally Adjusted": [
         "Texas",
         "Tennessee"
-      ]
-    },
-    "All Employees General Merchandise Stores": {
-      "All Employees General Merchandise Stores": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington",
-        "Wisconsin"
       ]
     },
     "All Employees Miscellaneous Store Retailers": {
@@ -13159,60 +14411,6 @@
     },
     "All Employees: Utilities": {
       "All Employees: Utilities": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Transportation and Warehousing": {
-      "All Employees Transportation and Warehousing": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Transportation and Warehousing": {
-      "All Employees: Transportation and Warehousing": [
         "Wyoming",
         "Tennessee",
         "Texas",
@@ -13595,30 +14793,6 @@
         "Wisconsin"
       ]
     },
-    "All Employees: Professional, Scientific, and Technical Services": {
-      "All Employees: Professional, Scientific, and Technical Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
     "All Employees Management of Companies and Enterprises": {
       "All Employees Management of Companies and Enterprises": [
         "Wyoming",
@@ -13667,30 +14841,6 @@
         "Tennessee",
         "Texas",
         "Utah",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Administrative and Support and Waste Management and Remediation Services": {
-      "All Employees: Administrative and Support and Waste Management and Remediation Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
         "Virginia",
         "Washington",
         "West Virginia",
@@ -13832,98 +14982,6 @@
         "Virginia",
         "Washington",
         "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Educational Services": {
-      "All Employees: Educational Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Health Care and Social Assistance": {
-      "All Employees: Health Care and Social Assistance": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Ambulatory Health Care Services": {
-      "All Employees Ambulatory Health Care Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Hospitals": {
-      "All Employees Hospitals": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
         "Wisconsin"
       ]
     },
@@ -14141,138 +15199,6 @@
         "Wisconsin"
       ]
     },
-    "All Employees: Accommodation and Food Services": {
-      "All Employees: Accommodation and Food Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Accommodation": {
-      "All Employees Accommodation": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Accommodation": {
-      "All Employees: Accommodation": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Food Services and Drinking Places": {
-      "All Employees Food Services and Drinking Places": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Food Services and Drinking Places": {
-      "All Employees: Food Services and Drinking Places": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "Wisconsin"
-      ]
-    },
     "Average Weekly Hours of All Employees: Other Services": {
       "Average Weekly Hours of All Employees: Other Services": [
         "Wyoming",
@@ -14381,157 +15307,6 @@
         "Wyoming",
         "Tennessee",
         "Texas",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees Federal Government": {
-      "All Employees Federal Government": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: Federal Government": {
-      "All Employees: Federal Government": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees: State Government": {
-      "All Employees: State Government": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
-    "All Employees State Government Educational Services": {
-      "All Employees State Government Educational Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington"
-      ]
-    },
-    "All Employees: State Government Educational Services": {
-      "All Employees: State Government Educational Services": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Washington"
-      ]
-    },
-    "All Employees: Local Government": {
-      "All Employees: Local Government": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
         "Virginia",
         "Washington",
         "West Virginia",
@@ -15187,62 +15962,6 @@
         "Texas"
       ]
     },
-    "Production or Nonsupervisory Employees: Manufacturing": {
-      "Production or Nonsupervisory Employees: Manufacturing": [
-        "Washington",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Washington",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Washington",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia"
-      ]
-    },
-    "Production or Nonsupervisory Employees Durable Goods": {
-      "Production or Nonsupervisory Employees Durable Goods": [
-        "Virginia",
-        "Texas",
-        "Utah",
-        "Vermont"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Virginia",
-        "Texas",
-        "Utah",
-        "Vermont"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Virginia",
-        "Texas",
-        "Utah",
-        "Vermont"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Virginia",
-        "Texas",
-        "Utah",
-        "Vermont"
-      ]
-    },
     "All Employees Cement and Concrete Product Manufacturing": {
       "All Employees Cement and Concrete Product Manufacturing": [
         "Texas"
@@ -15360,24 +16079,6 @@
       ],
       "Thousands of Persons_Annual_Not Seasonally Adjusted": [
         "Washington",
-        "Texas"
-      ]
-    },
-    "Production or Nonsupervisory Employees Non-Durable Goods": {
-      "Production or Nonsupervisory Employees Non-Durable Goods": [
-        "Virginia",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Virginia",
-        "Texas"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Virginia",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Virginia",
         "Texas"
       ]
     },
@@ -16093,28 +16794,6 @@
         "Texas"
       ]
     },
-    "All Employees: Transportation and Utilities": {
-      "All Employees: Transportation and Utilities": [
-        "Wyoming",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wyoming",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin"
-      ]
-    },
     "All Employees Electric Power Generation, Transmission and Distribution": {
       "All Employees Electric Power Generation, Transmission and Distribution": [
         "Texas"
@@ -16289,35 +16968,6 @@
         "Texas"
       ]
     },
-    "All Employees Publishing Industries (Except Internet)": {
-      "All Employees Publishing Industries (Except Internet)": [
-        "Washington",
-        "Texas",
-        "Utah"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Washington",
-        "Texas",
-        "Utah"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Washington",
-        "Texas",
-        "Utah"
-      ]
-    },
-    "All Employees Publishing Industries (except Internet)": {
-      "All Employees Publishing Industries (except Internet)": [
-        "Washington",
-        "Texas",
-        "Utah"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington",
-        "Texas",
-        "Utah"
-      ]
-    },
     "All Employees Newspaper, Periodical, Book, and Directory Publishers": {
       "All Employees Newspaper, Periodical, Book, and Directory Publishers": [
         "Texas"
@@ -16421,26 +17071,6 @@
         "Texas"
       ]
     },
-    "All Employees Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank": {
-      "All Employees Credit Intermediation and Related Activities Including Monetary Authorities - Central Bank": [
-        "Wisconsin",
-        "Texas",
-        "Utah",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Texas",
-        "Utah",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wisconsin",
-        "Texas",
-        "Utah",
-        "Washington"
-      ]
-    },
     "All Employees Credit Intermediation and Related Activities": {
       "All Employees Credit Intermediation and Related Activities": [
         "Wisconsin",
@@ -16510,32 +17140,6 @@
       ],
       "Thousands of Persons_Annual_Not Seasonally Adjusted": [
         "Texas"
-      ]
-    },
-    "All Employees Insurance Carriers and Related Activities": {
-      "All Employees Insurance Carriers and Related Activities": [
-        "Wisconsin",
-        "Texas",
-        "Utah",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Texas",
-        "Utah",
-        "Washington"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Texas",
-        "Utah",
-        "Washington"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Wisconsin",
-        "Texas",
-        "Utah",
-        "Washington"
       ]
     },
     "All Employees Insurance Carriers": {
@@ -16730,30 +17334,6 @@
         "Texas"
       ]
     },
-    "All Employees Administrative and Support Services": {
-      "All Employees Administrative and Support Services": [
-        "Washington",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Not Seasonally Adjusted": [
-        "Washington",
-        "Texas"
-      ],
-      "Thousands of Persons_Monthly_Seasonally Adjusted": [
-        "Washington",
-        "Texas"
-      ]
-    },
-    "All Employees: Administrative and Support Services": {
-      "All Employees: Administrative and Support Services": [
-        "Washington",
-        "Texas"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington",
-        "Texas"
-      ]
-    },
     "All Employees Employment Services": {
       "All Employees Employment Services": [
         "Wisconsin",
@@ -16882,20 +17462,6 @@
       "Thousands of Persons_Annual_Not Seasonally Adjusted": [
         "Washington",
         "Texas"
-      ]
-    },
-    "All Employees Colleges, Universities, and Professional Schools": {
-      "All Employees Colleges, Universities, and Professional Schools": [
-        "Wisconsin",
-        "Texas",
-        "Vermont",
-        "Virginia"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Wisconsin",
-        "Texas",
-        "Vermont",
-        "Virginia"
       ]
     },
     "All Employees Offices of Physicians": {
@@ -17957,38 +18523,6 @@
     },
     "Average Weekly Earnings of Production Employees Transportation Equipment Manufacturing": {
       "Average Weekly Earnings of Production Employees Transportation Equipment Manufacturing": [
-        "Washington"
-      ],
-      "Dollars per Week_Annual_Not Seasonally Adjusted": [
-        "Washington"
-      ]
-    },
-    "Production or Nonsupervisory Employees Food Manufacturing": {
-      "Production or Nonsupervisory Employees Food Manufacturing": [
-        "Washington"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Washington"
-      ]
-    },
-    "Average Weekly Hours of Production Employees Food Manufacturing": {
-      "Average Weekly Hours of Production Employees Food Manufacturing": [
-        "Washington"
-      ],
-      "Hours per Week_Annual_Not Seasonally Adjusted": [
-        "Washington"
-      ]
-    },
-    "Average Hourly Earnings of Production Employees Food Manufacturing": {
-      "Average Hourly Earnings of Production Employees Food Manufacturing": [
-        "Washington"
-      ],
-      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
-        "Washington"
-      ]
-    },
-    "Average Weekly Earnings of Production Employees Food Manufacturing": {
-      "Average Weekly Earnings of Production Employees Food Manufacturing": [
         "Washington"
       ],
       "Dollars per Week_Annual_Not Seasonally Adjusted": [
@@ -30052,36 +30586,45 @@
     },
     "Internet users": {
       "Internet users": [
+        "Puerto Rico",
         "Georgia"
       ],
       "Per 100 People_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },
     "Population, Total": {
       "Population, Total": [
+        "Puerto Rico",
         "Georgia"
       ],
       "Persons_5 Year_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ],
       "Persons_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },
     "Literacy Rate, Adult Total": {
       "Literacy Rate, Adult Total": [
+        "Puerto Rico",
         "Georgia"
       ],
       "Percent of People Ages 15 and Above_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },
     "Net migration": {
       "Net migration": [
+        "Puerto Rico",
         "Georgia"
       ],
       "People_5 Year_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },
@@ -30095,25 +30638,31 @@
     },
     "Life Expectancy at Birth, Total": {
       "Life Expectancy at Birth, Total": [
+        "Puerto Rico",
         "Georgia"
       ],
       "Number of Years_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },
     "Fertility Rate, Total": {
       "Fertility Rate, Total": [
+        "Puerto Rico",
         "Georgia"
       ],
       "Births per Woman_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },
     "Population ages 65 and above": {
       "Population ages 65 and above": [
+        "Puerto Rico",
         "Georgia"
       ],
       "Percent of Total_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },
@@ -43944,9 +44493,11 @@
     },
     "Ease of doing business index": {
       "Ease of doing business index": [
+        "Puerto Rico",
         "Georgia"
       ],
       "1=Most Business-friendly Regulations_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },
@@ -69617,9 +70168,11 @@
     },
     "Constant GDP per capita": {
       "Constant GDP per capita": [
+        "Puerto Rico",
         "Georgia"
       ],
       "2010 U.S. Dollars_Annual_Not Seasonally Adjusted": [
+        "Puerto Rico",
         "Georgia"
       ]
     },

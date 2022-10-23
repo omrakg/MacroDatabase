@@ -2,18 +2,18 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000007000000003",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Average Hourly Earnings of All Employees: Leisure and Hospitality in Wyoming",
       "observation_start": "2007-01-01",
-      "observation_end": "2022-08-01",
+      "observation_end": "2022-09-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Dollars per Hour",
       "units_short": "$ per Hour",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-09-17 02:02:33-05",
+      "last_updated": "2022-10-22 02:08:34-05",
       "popularity": 1,
       "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wyoming"
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000007000000003A",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Average Hourly Earnings of All Employees: Leisure and Hospitality in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -173,8 +173,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000007000000003A",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Average Hourly Earnings of All Employees: Leisure and Hospitality in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -210,8 +210,8 @@
     },
     "Texas": {
       "id": "SMU48000007000000003A",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Average Hourly Earnings of All Employees: Leisure and Hospitality in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -382,8 +382,8 @@
     },
     "Texas": {
       "id": "SMU48000007000000003A",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Average Hourly Earnings of All Employees: Leisure and Hospitality in Texas",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
