@@ -2,8 +2,8 @@
   "Index 2010=100_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "CPSETT01RUA661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Consumer Price Index: Total Services for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2014-01-01",
@@ -21,8 +21,8 @@
     },
     "Hungary": {
       "id": "CPSETT01HUQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Consumer Price Index: Total Services for Hungary",
       "observation_start": "1980-01-01",
       "observation_end": "2018-01-01",
@@ -42,8 +42,8 @@
   "Index 2010=100_Monthly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "CPSETT01RUM661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Consumer Price Index: Total Services for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2015-11-01",
@@ -61,8 +61,8 @@
     },
     "Hungary": {
       "id": "CPSETT01HUQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Consumer Price Index: Total Services for Hungary",
       "observation_start": "1980-01-01",
       "observation_end": "2018-01-01",
@@ -82,8 +82,8 @@
   "Index 2010=100_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "CPSETT01RUQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Consumer Price Index: Total Services for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2015-07-01",
@@ -101,8 +101,8 @@
     },
     "Hungary": {
       "id": "CPSETT01HUQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Consumer Price Index: Total Services for Hungary",
       "observation_start": "1980-01-01",
       "observation_end": "2018-01-01",

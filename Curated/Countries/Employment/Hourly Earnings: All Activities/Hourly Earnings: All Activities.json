@@ -2,8 +2,8 @@
   "Euro_Annual_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIA189N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIA661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2021-01-01",
@@ -44,8 +44,8 @@
   "Index 2015=100_Annual_Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIA661S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2021-01-01",
@@ -65,8 +65,8 @@
   "Euro_Monthly_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIM189N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-06-01",
@@ -86,8 +86,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIM661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-06-01",
@@ -107,8 +107,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIM661S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-06-01",
@@ -128,8 +128,8 @@
   "Euro_Quarterly_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIQ189N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-04-01",
@@ -149,8 +149,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-04-01",
@@ -170,8 +170,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Slovenia": {
       "id": "LCEATT01SIQ661S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Hourly Earnings: All Activities for Slovenia",
       "observation_start": "1998-01-01",
       "observation_end": "2022-04-01",

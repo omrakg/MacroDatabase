@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "LFUNTTTTRUM647N",
-    "realtime_start": "2022-10-16",
-    "realtime_end": "2022-10-16",
+    "realtime_start": "2022-10-23",
+    "realtime_end": "2022-10-23",
     "title": "Unemployed Population: Aged 15 and Over: All Persons for the Russian Federation",
     "observation_start": "2009-08-01",
     "observation_end": "2011-06-01",
@@ -20,8 +20,8 @@
   },
   "Poland": {
     "id": "LFUNTTTTPLQ647S",
-    "realtime_start": "2022-10-16",
-    "realtime_end": "2022-10-16",
+    "realtime_start": "2022-10-23",
+    "realtime_end": "2022-10-23",
     "title": "Unemployed Population: Aged 15 and Over: All Persons for Poland",
     "observation_start": "1992-04-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Turkey": {
     "id": "LFUNTTTTTRQ647S",
-    "realtime_start": "2022-10-16",
-    "realtime_end": "2022-10-16",
+    "realtime_start": "2022-10-23",
+    "realtime_end": "2022-10-23",
     "title": "Unemployed Population: Aged 15 and Over: All Persons for Turkey",
     "observation_start": "2006-01-01",
     "observation_end": "2022-01-01",

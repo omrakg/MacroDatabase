@@ -1,8 +1,8 @@
 {
   "Lithuania": {
     "id": "LTULCEAPR01IXOBQ",
-    "realtime_start": "2022-10-16",
-    "realtime_end": "2022-10-16",
+    "realtime_start": "2022-10-23",
+    "realtime_end": "2022-10-23",
     "title": "Labour Compensation: Earnings: Private sector: Hourly for Lithuania",
     "observation_start": "2000-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Latvia": {
     "id": "LVALCEAPR01IXOBSAQ",
-    "realtime_start": "2022-10-16",
-    "realtime_end": "2022-10-16",
+    "realtime_start": "2022-10-23",
+    "realtime_end": "2022-10-23",
     "title": "Labour Compensation: Earnings: Private sector: Hourly for Latvia",
     "observation_start": "2000-01-01",
     "observation_end": "2022-01-01",

@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEATT03SKA661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -40,8 +40,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -61,8 +61,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Iceland": {
       "id": "LCEATT03ISM661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1988-12-01",
       "observation_end": "2022-07-01",
@@ -80,8 +80,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -99,8 +99,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -120,8 +120,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -139,8 +139,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -158,8 +158,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -179,8 +179,8 @@
   "Russian Ruble, monthly level_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUA664N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2020-01-01",
@@ -198,8 +198,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -217,8 +217,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -238,8 +238,8 @@
   "Russian Ruble, monthly level_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUA664S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2020-01-01",
@@ -257,8 +257,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -276,8 +276,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -297,8 +297,8 @@
   "Russian Ruble, monthly level_Monthly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUM664N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-11-01",
@@ -309,15 +309,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-10 10:41:30-06",
-      "popularity": 2,
+      "popularity": 3,
       "group_popularity": 5,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: NCML\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -335,8 +335,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -356,8 +356,8 @@
   "Russian Ruble, monthly level_Monthly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUM664S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-11-01",
@@ -368,15 +368,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:46:17-05",
-      "popularity": 3,
+      "popularity": 2,
       "group_popularity": 5,
       "notes": "OECD descriptor ID: LCEATT03\nOECD unit ID: NCMLSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -394,8 +394,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -415,8 +415,8 @@
   "Russian Ruble, monthly level_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUQ664N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1992-01-01",
       "observation_end": "2021-04-01",
@@ -434,8 +434,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -453,8 +453,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -474,8 +474,8 @@
   "Russian Ruble, monthly level_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -493,8 +493,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -512,8 +512,8 @@
     },
     "Slovak Republic": {
       "id": "LCEATT03SKQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -533,8 +533,8 @@
   "Euro_Annual_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEATT03SKA189N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -552,8 +552,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -571,8 +571,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
@@ -592,8 +592,8 @@
   "Euro_Quarterly_Not Seasonally Adjusted": {
     "Slovak Republic": {
       "id": "LCEATT03SKQ189N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Slovak Republic",
       "observation_start": "1990-01-01",
       "observation_end": "2022-01-01",
@@ -611,8 +611,8 @@
     },
     "Iceland": {
       "id": "LCEATT03ISQ661N",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for Iceland",
       "observation_start": "1989-01-01",
       "observation_end": "2022-04-01",
@@ -630,8 +630,8 @@
     },
     "Russian Federation": {
       "id": "LCEATT03RUQ664S",
-      "realtime_start": "2022-10-16",
-      "realtime_end": "2022-10-16",
+      "realtime_start": "2022-10-23",
+      "realtime_end": "2022-10-23",
       "title": "Monthly Earnings: All Activities for the Russian Federation",
       "observation_start": "1996-01-01",
       "observation_end": "2021-07-01",
