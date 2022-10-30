@@ -41,11 +41,11 @@
 | Green Lake County, WI                   |                90 |
 | Shawano County, WI                      |                90 |
 | Buffalo County, WI                      |                89 |
-| Manitowoc County, WI                    |               145 |
+| Manitowoc County, WI                    |                 0 |
 | Milwaukee County, WI                    |               146 |
 | Forest County, WI                       |                90 |
 | Adams County, WI                        |                90 |
-| Burnett County, WI                      |                 0 |
+| Burnett County, WI                      |                90 |
 | Price County, WI                        |                89 |
 | Racine County, WI                       |               147 |
 | Vernon County, WI                       |                89 |

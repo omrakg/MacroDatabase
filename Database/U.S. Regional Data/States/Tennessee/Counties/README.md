@@ -3,7 +3,7 @@
 | McMinn County, TN     |               146 |
 | Washington County, TN |               147 |
 | Unicoi County, TN     |                90 |
-| Dyer County, TN       |                 0 |
+| Dyer County, TN       |                90 |
 | Macon County, TN      |                89 |
 | Greene County, TN     |               147 |
 | Obion County, TN      |                90 |
@@ -54,7 +54,7 @@
 | Hamblen County, TN    |               146 |
 | Carter County, TN     |               146 |
 | Perry County, TN      |                88 |
-| Hickman County, TN    |                90 |
+| Hickman County, TN    |                 0 |
 | Claiborne County, TN  |                89 |
 | Williamson County, TN |               147 |
 | Coffee County, TN     |               146 |
@@ -63,7 +63,7 @@
 | Smith County, TN      |                90 |
 | Henry County, TN      |                89 |
 | Carroll County, TN    |                90 |
-| Robertson County, TN  |                 0 |
+| Robertson County, TN  |               147 |
 | Knox County, TN       |               147 |
 | Houston County, TN    |                89 |
 | Bledsoe County, TN    |                88 |

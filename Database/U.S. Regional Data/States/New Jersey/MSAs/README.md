@@ -1,6 +1,6 @@
 | Folder                                      |   Files / Folders |
 |---------------------------------------------|-------------------|
-| Allentown-Bethlehem-Easton, PA-NJ           |                 0 |
+| Allentown-Bethlehem-Easton, PA-NJ           |               220 |
 | Trenton-Princeton, NJ                       |               186 |
 | Vineland-Bridgeton, NJ                      |               142 |
 | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |                 0 |

@@ -20,10 +20,10 @@
 | ENUC216640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC216640510             | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC216640510SA           | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
-| EUGE641BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-08-01        |
-| EUGE641BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-08-01        |
-| EUGE641BPPRIV             | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-08-01        |
-| EUGE641BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-08-01        |
+| EUGE641BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-09-01        |
+| EUGE641BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-09-01        |
+| EUGE641BPPRIV             | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-09-01        |
+| EUGE641BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-09-01        |
 | EUGE641EDUH               | All Employees: Education and Health Services in Eugene, OR (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | EUGE641EDUHN              | All Employees: Education and Health Services in Eugene, OR (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | EUGE641FIRE               | All Employees: Financial Activities in Eugene, OR (MSA)                                                                 | 1990-01-01          | 2022-09-01        |

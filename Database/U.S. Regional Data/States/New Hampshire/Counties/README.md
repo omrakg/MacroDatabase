@@ -8,5 +8,5 @@
 | Cheshire County, NH     |               147 |
 | Belknap County, NH      |               145 |
 | Sullivan County, NH     |                89 |
-| Strafford County, NH    |                 0 |
+| Strafford County, NH    |               146 |
 | Hillsborough County, NH |               146 |

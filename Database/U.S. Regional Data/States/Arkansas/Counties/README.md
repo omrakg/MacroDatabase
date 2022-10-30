@@ -9,12 +9,12 @@
 | Johnson County, AR      |                89 |
 | Union County, AR        |                90 |
 | Calhoun County, AR      |                89 |
-| Searcy County, AR       |                88 |
+| Searcy County, AR       |                 0 |
 | Columbia County, AR     |                90 |
 | Jackson County, AR      |                90 |
 | Van Buren County, AR    |                89 |
 | Sebastian County, AR    |               147 |
-| Arkansas County, AR     |                 0 |
+| Arkansas County, AR     |                90 |
 | Scott County, AR        |                89 |
 | White County, AR        |               147 |
 | Bradley County, AR      |                88 |

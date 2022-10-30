@@ -8,7 +8,7 @@
 | Mansfield, OH                     |               135 |
 | Wheeling, WV-OH                   |               127 |
 | Canton-Massillon, OH              |               176 |
-| Lima, OH                          |                 0 |
+| Lima, OH                          |               131 |
 | Columbus, OH                      |               250 |
 | Springfield, OH                   |               162 |
 | Huntington-Ashland, WV-KY-OH      |               159 |

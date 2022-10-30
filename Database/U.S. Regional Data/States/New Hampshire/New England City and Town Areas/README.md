@@ -10,7 +10,7 @@
 | Lowell-Billerica-Chelmsford, MA-NH      |                 8 |
 | Lebanon, NH-VT                          |                 0 |
 | Portsmouth, NH-ME                       |                92 |
-| Nashua, NH-MA                           |                99 |
+| Nashua, NH-MA                           |                 0 |
 | Haverhill-North Andover-Amesbury, MA-NH |                59 |
 | Franklin, NH                            |                 0 |
 | Rochester-Dover, NH-ME                  |                12 |

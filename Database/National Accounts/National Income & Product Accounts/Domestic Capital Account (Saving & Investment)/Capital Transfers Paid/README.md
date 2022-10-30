@@ -3,34 +3,34 @@
 | AD10RC1A027NBEA   | Capital transfers paid, by government: Federal: Capital transfers paid to the rest of the world (net)                         | 1969-01-01          | 2021-01-01        |
 | AD11RC1A027NBEA   | Capital transfers paid, by government: Federal: Capital grants to state and local governments                                 | 1937-01-01          | 2021-01-01        |
 | B232RC1A027NBEA   | Capital transfers paid, by persons: Estate and gift taxes, federal                                                            | 1929-01-01          | 2021-01-01        |
-| B232RC1Q027SBEA   | Federal government capital transfer receipts                                                                                  | 1947-01-01          | 2022-04-01        |
-| G171361A027NBEA   | Federal government capital transfers paid: Economic affairs                                                                   | 1959-01-01          | 2020-01-01        |
-| G171371A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation                                                   | 1959-01-01          | 2020-01-01        |
-| G171381A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation: Highways                                         | 1959-01-01          | 2020-01-01        |
-| G171391A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation: Air                                              | 1959-01-01          | 2020-01-01        |
-| G171411A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation: Transit and railroad                             | 1965-01-01          | 2020-01-01        |
-| G171421A027NBEA   | Federal government capital transfers paid: Housing and community services                                                     | 1965-01-01          | 2020-01-01        |
-| G171431A027NBEA   | Federal government capital transfers paid: Health                                                                             | 1968-01-01          | 2020-01-01        |
-| G171441A027NBEA   | Federal government capital transfers paid: Income security                                                                    | 2007-01-01          | 2020-01-01        |
+| B232RC1Q027SBEA   | Federal government capital transfer receipts                                                                                  | 1947-01-01          | 2022-07-01        |
+| G171361A027NBEA   | Federal government capital transfers paid: Economic affairs                                                                   | 1959-01-01          | 2021-01-01        |
+| G171371A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation                                                   | 1959-01-01          | 2021-01-01        |
+| G171381A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation: Highways                                         | 1959-01-01          | 2021-01-01        |
+| G171391A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation: Air                                              | 1959-01-01          | 2021-01-01        |
+| G171411A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation: Transit and railroad                             | 1965-01-01          | 2021-01-01        |
+| G171421A027NBEA   | Federal government capital transfers paid: Housing and community services                                                     | 1965-01-01          | 2021-01-01        |
+| G171431A027NBEA   | Federal government capital transfers paid: Health                                                                             | 1968-01-01          | 2021-01-01        |
+| G171441A027NBEA   | Federal government capital transfers paid: Income security                                                                    | 2007-01-01          | 2021-01-01        |
 | LA0000301A027NBEA | Business Current Transfer Payments: Net Payments to the Rest of the World: Current transfer payments to the rest of the world | 1999-01-01          | 2021-01-01        |
-| M318301A027NBEA   | Federal government expenditures: Coverage differences: Capital transfers paid (NIPA vs. Budget)                               | 1952-01-01          | 2020-01-01        |
-| M318301Q027NBEA   | Federal government expenditures: Coverage differences: Capital transfers paid (NIPA vs. Budget)                               | 1959-07-01          | 2020-10-01        |
+| M318301A027NBEA   | Federal government expenditures: Coverage differences: Capital transfers paid (NIPA vs. Budget)                               | 1952-01-01          | 2021-01-01        |
+| M318301Q027NBEA   | Federal government expenditures: Coverage differences: Capital transfers paid (NIPA vs. Budget)                               | 1959-07-01          | 2021-10-01        |
 | S210201A027NBEA   | Capital transfers paid, by persons: Estate and gift taxes, state and local                                                    | 1929-01-01          | 2021-01-01        |
 | W027RC1A027NBEA   | Capital transfers paid, by government: Federal: Other capital transfers paid to persons                                       | 2002-01-01          | 2021-01-01        |
-| W698RC1A027NBEA   | Federal government capital transfers paid: General public service                                                             | 1989-01-01          | 2020-01-01        |
-| W699RC1A027NBEA   | Federal government capital transfers paid: Economic affairs: Other economic affairs                                           | 1998-01-01          | 2020-01-01        |
-| W800RC1A027NBEA   | Government capital transfers paid: General public service                                                                     | 1989-01-01          | 2020-01-01        |
-| W801RC1A027NBEA   | Government capital transfers paid: Economic affairs                                                                           | 1959-01-01          | 2020-01-01        |
-| W802RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation                                                           | 1959-01-01          | 2020-01-01        |
-| W803RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation: Highways                                                 | 1959-01-01          | 2020-01-01        |
-| W804RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation: Air                                                      | 1959-01-01          | 2020-01-01        |
-| W805RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation: Water                                                    | 1959-01-01          | 2020-01-01        |
-| W806RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation: Transit and railroad                                     | 1965-01-01          | 2020-01-01        |
-| W807RC1A027NBEA   | Government capital transfers paid: Economic affairs: Other economic affairs                                                   | 1998-01-01          | 2020-01-01        |
-| W808RC1A027NBEA   | Government capital transfers paid: Housing and community services                                                             | 1965-01-01          | 2020-01-01        |
-| W809RC1A027NBEA   | Government capital transfers paid: Health                                                                                     | 1968-01-01          | 2020-01-01        |
-| W810RC1A027NBEA   | Government capital transfers paid: Income security                                                                            | 2007-01-01          | 2020-01-01        |
-| W813RC1A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation: Water                                            | 1959-01-01          | 2020-01-01        |
+| W698RC1A027NBEA   | Federal government capital transfers paid: General public service                                                             | 1989-01-01          | 2021-01-01        |
+| W699RC1A027NBEA   | Federal government capital transfers paid: Economic affairs: Other economic affairs                                           | 1998-01-01          | 2021-01-01        |
+| W800RC1A027NBEA   | Government capital transfers paid: General public service                                                                     | 1989-01-01          | 2021-01-01        |
+| W801RC1A027NBEA   | Government capital transfers paid: Economic affairs                                                                           | 1959-01-01          | 2021-01-01        |
+| W802RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation                                                           | 1959-01-01          | 2021-01-01        |
+| W803RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation: Highways                                                 | 1959-01-01          | 2021-01-01        |
+| W804RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation: Air                                                      | 1959-01-01          | 2021-01-01        |
+| W805RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation: Water                                                    | 1959-01-01          | 2021-01-01        |
+| W806RC1A027NBEA   | Government capital transfers paid: Economic affairs: Transportation: Transit and railroad                                     | 1965-01-01          | 2021-01-01        |
+| W807RC1A027NBEA   | Government capital transfers paid: Economic affairs: Other economic affairs                                                   | 1998-01-01          | 2021-01-01        |
+| W808RC1A027NBEA   | Government capital transfers paid: Housing and community services                                                             | 1965-01-01          | 2021-01-01        |
+| W809RC1A027NBEA   | Government capital transfers paid: Health                                                                                     | 1968-01-01          | 2021-01-01        |
+| W810RC1A027NBEA   | Government capital transfers paid: Income security                                                                            | 2007-01-01          | 2021-01-01        |
+| W813RC1A027NBEA   | Federal government capital transfers paid: Economic affairs: Transportation: Water                                            | 1959-01-01          | 2021-01-01        |
 | W940RC1A027NBEA   | Capital transfers paid, by sector                                                                                             | 1929-01-01          | 2021-01-01        |
 | W941RC1A027NBEA   | Capital transfers paid, by private business sector                                                                            | 1989-01-01          | 2021-01-01        |
 | W942RC1A027NBEA   | Capital transfers paid, by private business sector: Financial corporations                                                    | 1989-01-01          | 2021-01-01        |

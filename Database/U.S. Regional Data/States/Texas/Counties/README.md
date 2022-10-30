@@ -54,9 +54,9 @@
 | Bexar County, TX         |               147 |
 | Williamson County, TX    |               147 |
 | McLennan County, TX      |               147 |
-| Reeves County, TX        |                 0 |
+| Reeves County, TX        |                88 |
 | Scurry County, TX        |                89 |
-| Ector County, TX         |               147 |
+| Ector County, TX         |                 0 |
 | Washington County, TX    |                90 |
 | Guadalupe County, TX     |               147 |
 | Nueces County, TX        |               147 |
@@ -114,9 +114,9 @@
 | Houston County, TX       |                88 |
 | Loving County, TX        |                81 |
 | Hardeman County, TX      |                89 |
-| Wilbarger County, TX     |                 0 |
+| Wilbarger County, TX     |                90 |
 | Navarro County, TX       |                90 |
-| Frio County, TX          |                88 |
+| Frio County, TX          |                 0 |
 | Denton County, TX        |               147 |
 | Deaf Smith County, TX    |                89 |
 | Stonewall County, TX     |                87 |
@@ -174,9 +174,9 @@
 | Dimmit County, TX        |                87 |
 | Hutchinson County, TX    |                90 |
 | Galveston County, TX     |               147 |
-| Angelina County, TX      |                 0 |
+| Angelina County, TX      |               147 |
 | Hunt County, TX          |               147 |
-| Midland County, TX       |               147 |
+| Midland County, TX       |                 0 |
 | Anderson County, TX      |                90 |
 | Falls County, TX         |                89 |
 | Presidio County, TX      |                88 |
@@ -234,7 +234,7 @@
 | Crosby County, TX        |                87 |
 | Burleson County, TX      |                89 |
 | Kendall County, TX       |                90 |
-| Hudspeth County, TX      |                 0 |
+| Hudspeth County, TX      |                87 |
 | Calhoun County, TX       |                90 |
 | Atascosa County, TX      |                90 |
 | Grayson County, TX       |               147 |

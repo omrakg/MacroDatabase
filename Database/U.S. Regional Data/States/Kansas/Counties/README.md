@@ -18,7 +18,7 @@
 | Greeley County, KS      |                87 |
 | Marion County, KS       |                90 |
 | Clay County, KS         |                90 |
-| Ellis County, KS        |                90 |
+| Ellis County, KS        |                 0 |
 | Hodgeman County, KS     |                89 |
 | Wabaunsee County, KS    |                89 |
 | Barber County, KS       |                89 |
@@ -46,7 +46,7 @@
 | Norton County, KS       |                87 |
 | Kingman County, KS      |                89 |
 | Stafford County, KS     |                89 |
-| Pottawatomie County, KS |                 0 |
+| Pottawatomie County, KS |                90 |
 | Pawnee County, KS       |                89 |
 | Kearny County, KS       |                89 |
 | Miami County, KS        |                90 |

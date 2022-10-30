@@ -36,7 +36,7 @@
 | Deer Lodge County, MT      |                89 |
 | Carbon County, MT          |                90 |
 | Big Horn County, MT        |                88 |
-| Sheridan County, MT        |                 0 |
+| Sheridan County, MT        |                88 |
 | Judith Basin County, MT    |                86 |
 | Treasure County, MT        |                85 |
 | Petroleum County, MT       |                82 |

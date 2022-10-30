@@ -134,10 +134,10 @@
 | SMU12452209093000001A     | All Employees: Local Government in Tallahassee, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU12452209093000001SA    | All Employees: Government: Local Government in Tallahassee, FL (MSA)                                             | 1990-01-01          | 2022-09-01        |
 | SUSCMSA45220              | Market Hotness: Supply Score in Tallahassee, FL (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
-| TALL212BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Tallahassee, FL (MSA)            | 1988-01-01          | 2022-08-01        |
-| TALL212BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Tallahassee, FL (MSA)            | 1988-01-01          | 2022-08-01        |
-| TALL212BPPRIV             | New Private Housing Units Authorized by Building Permits for Tallahassee, FL (MSA)                               | 1988-01-01          | 2022-08-01        |
-| TALL212BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Tallahassee, FL (MSA)                               | 1988-01-01          | 2022-08-01        |
+| TALL212BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Tallahassee, FL (MSA)            | 1988-01-01          | 2022-09-01        |
+| TALL212BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Tallahassee, FL (MSA)            | 1988-01-01          | 2022-09-01        |
+| TALL212BPPRIV             | New Private Housing Units Authorized by Building Permits for Tallahassee, FL (MSA)                               | 1988-01-01          | 2022-09-01        |
+| TALL212BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Tallahassee, FL (MSA)                               | 1988-01-01          | 2022-09-01        |
 | TALL212EDUH               | All Employees: Education and Health Services in Tallahassee, FL (MSA)                                            | 1990-01-01          | 2022-09-01        |
 | TALL212EDUHN              | All Employees: Education and Health Services in Tallahassee, FL (MSA)                                            | 1990-01-01          | 2022-09-01        |
 | TALL212FIRE               | All Employees: Financial Activities in Tallahassee, FL (MSA)                                                     | 1990-01-01          | 2022-09-01        |

@@ -7,7 +7,7 @@
 | Montgomery County, KY   |                90 |
 | Calloway County, KY     |                90 |
 | Butler County, KY       |                90 |
-| Henderson County, KY    |               144 |
+| Henderson County, KY    |                 0 |
 | Wolfe County, KY        |                87 |
 | McLean County, KY       |                90 |
 | Carroll County, KY      |                90 |
@@ -26,7 +26,7 @@
 | Todd County, KY         |                89 |
 | Elliott County, KY      |                88 |
 | Greenup County, KY      |                90 |
-| Rowan County, KY        |                 0 |
+| Rowan County, KY        |                90 |
 | Lee County, KY          |                88 |
 | Rockcastle County, KY   |                88 |
 | Muhlenberg County, KY   |                90 |
@@ -86,7 +86,7 @@
 | Whitley County, KY      |                90 |
 | Hart County, KY         |                89 |
 | Boyle County, KY        |                90 |
-| Harrison County, KY     |                 0 |
+| Harrison County, KY     |                90 |
 | Fulton County, KY       |                88 |
 | Hickman County, KY      |                87 |
 | Campbell County, KY     |               145 |
@@ -108,7 +108,7 @@
 | Russell County, KY      |                90 |
 | Livingston County, KY   |                88 |
 | Bell County, KY         |                89 |
-| Caldwell County, KY     |                90 |
+| Caldwell County, KY     |                 0 |
 | Nelson County, KY       |                90 |
 | Johnson County, KY      |                89 |
 | Trigg County, KY        |                90 |

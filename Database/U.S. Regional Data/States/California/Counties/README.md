@@ -45,7 +45,7 @@
 | Sacramento County, CA           |               147 |
 | Yuba County, CA                 |               147 |
 | Ventura County, CA              |               147 |
-| Napa County, CA                 |               147 |
+| Napa County, CA                 |                 0 |
 | Stanislaus County, CA           |               147 |
 | Riverside County, CA            |               147 |
 | San Luis Obispo County, CA      |               146 |

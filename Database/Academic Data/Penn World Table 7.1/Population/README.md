@@ -1,7 +1,7 @@
 | id              | title                                                                                            | observation_start   | observation_end   |
 |-----------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | B230RC0A052NBEA | Population                                                                                       | 1929-01-01          | 2021-01-01        |
-| B230RC0Q173SBEA | Population                                                                                       | 1947-01-01          | 2022-04-01        |
+| B230RC0Q173SBEA | Population                                                                                       | 1947-01-01          | 2022-07-01        |
 | CNP16OV         | Population Level                                                                                 | 1948-01-01          | 2022-09-01        |
 | FHHWMC          | Family Households with Married Couples                                                           | 1940-01-01          | 2020-01-01        |
 | FMLWCUMC        | Total Families with Children under 18 Years Old with Married Couple                              | 1950-01-01          | 2020-01-01        |
@@ -51,7 +51,7 @@
 | OPFWCUMO        | Total One Parent Families with Children under 18 Years Old with Mother                           | 1950-01-01          | 2020-01-01        |
 | POP             | Total Population: All Ages including Armed Forces Overseas                                       | 1952-01-01          | 2022-12-01        |
 | POPH            | National Population                                                                              | 1900-01-01          | 1999-01-01        |
-| POPTHM          | Population                                                                                       | 1959-01-01          | 2022-08-01        |
+| POPTHM          | Population                                                                                       | 1959-01-01          | 2022-09-01        |
 | TTLFHH          | Total Family Households                                                                          | 1940-01-01          | 2020-01-01        |
 | TTLFMCU         | Total Families with Children under 18 Years Old                                                  | 1950-01-01          | 2020-01-01        |
 | TTLHH           | Total Households                                                                                 | 1940-01-01          | 2020-01-01        |

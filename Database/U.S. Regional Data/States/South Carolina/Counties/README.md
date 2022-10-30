@@ -26,8 +26,8 @@
 | York County, SC         |               147 |
 | Florence County, SC     |               147 |
 | Berkeley County, SC     |               147 |
-| Lee County, SC          |                90 |
-| McCormick County, SC    |                 0 |
+| Lee County, SC          |                 0 |
+| McCormick County, SC    |                90 |
 | Marion County, SC       |                89 |
 | Lexington County, SC    |               147 |
 | Marlboro County, SC     |                90 |

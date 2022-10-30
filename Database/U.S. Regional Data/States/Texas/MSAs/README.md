@@ -9,7 +9,7 @@
 | Brownsville-Harlingen, TX            |               217 |
 | Lubbock, TX                          |               162 |
 | Wichita Falls, TX                    |               162 |
-| Dallas-Fort Worth-Arlington, TX      |               245 |
+| Dallas-Fort Worth-Arlington, TX      |                 0 |
 | Amarillo, TX                         |               165 |
 | Corpus Christi, TX                   |               180 |
 | Laredo, TX                           |               218 |
@@ -23,5 +23,5 @@
 | Midland, TX                          |               166 |
 | Waco, TX                             |               162 |
 | Killeen-Temple, TX                   |               168 |
-| El Paso, TX                          |                 0 |
+| El Paso, TX                          |               224 |
 | Austin-Round Rock-Georgetown, TX     |               305 |

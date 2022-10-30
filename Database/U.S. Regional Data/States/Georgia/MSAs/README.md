@@ -7,7 +7,7 @@
 | Atlanta-Sandy Springs-Alpharetta, GA |               305 |
 | Valdosta, GA                         |               104 |
 | Columbus, GA-AL                      |               162 |
-| Dalton, GA                           |               123 |
+| Dalton, GA                           |                 0 |
 | Macon-Bibb County, GA                |               143 |
 | Brunswick, GA                        |               108 |
 | Chattanooga, TN-GA                   |               165 |

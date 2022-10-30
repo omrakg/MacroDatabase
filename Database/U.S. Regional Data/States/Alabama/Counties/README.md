@@ -17,7 +17,7 @@
 | Elmore County, AL     |               147 |
 | Perry County, AL      |                89 |
 | Greene County, AL     |                89 |
-| Marengo County, AL    |                 0 |
+| Marengo County, AL    |                90 |
 | Randolph County, AL   |                90 |
 | Bullock County, AL    |                89 |
 | Calhoun County, AL    |               147 |
@@ -26,7 +26,7 @@
 | De Kalb County, AL    |                91 |
 | Colbert County, AL    |               146 |
 | Shelby County, AL     |               147 |
-| Wilcox County, AL     |                88 |
+| Wilcox County, AL     |                 0 |
 | Clay County, AL       |                88 |
 | Houston County, AL    |               147 |
 | Chambers County, AL   |                90 |

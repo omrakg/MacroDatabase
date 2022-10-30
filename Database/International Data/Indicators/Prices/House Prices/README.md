@@ -24,10 +24,10 @@
 | QBEN628BIS | Residential Property Prices for Belgium                             | 1970-01-01          | 2022-04-01        |
 | QBER368BIS | Real Residential Property Prices for Belgium                        | 1971-01-01          | 2022-04-01        |
 | QBER628BIS | Real Residential Property Prices for Belgium                        | 1970-01-01          | 2022-04-01        |
-| QBGN368BIS | Residential Property Prices for Bulgaria                            | 2006-01-01          | 2022-01-01        |
-| QBGN628BIS | Residential Property Prices for Bulgaria                            | 2005-01-01          | 2022-01-01        |
-| QBGR368BIS | Real Residential Property Prices for Bulgaria                       | 2006-01-01          | 2022-01-01        |
-| QBGR628BIS | Real Residential Property Prices for Bulgaria                       | 2005-01-01          | 2022-01-01        |
+| QBGN368BIS | Residential Property Prices for Bulgaria                            | 2006-01-01          | 2022-04-01        |
+| QBGN628BIS | Residential Property Prices for Bulgaria                            | 2005-01-01          | 2022-04-01        |
+| QBGR368BIS | Real Residential Property Prices for Bulgaria                       | 2006-01-01          | 2022-04-01        |
+| QBGR628BIS | Real Residential Property Prices for Bulgaria                       | 2005-01-01          | 2022-04-01        |
 | QBRN368BIS | Residential Property Prices for Brazil                              | 2002-01-01          | 2022-04-01        |
 | QBRN628BIS | Residential Property Prices for Brazil                              | 2001-01-01          | 2022-04-01        |
 | QBRR368BIS | Real Residential Property Prices for Brazil                         | 2002-01-01          | 2022-04-01        |
@@ -48,42 +48,42 @@
 | QCNN628BIS | Residential Property Prices for China                               | 2005-04-01          | 2022-01-01        |
 | QCNR368BIS | Real Residential Property Prices for China                          | 2006-04-01          | 2022-01-01        |
 | QCNR628BIS | Real Residential Property Prices for China                          | 2005-04-01          | 2022-01-01        |
-| QCON368BIS | Residential Property Prices for Colombia                            | 1989-01-01          | 2022-01-01        |
-| QCON628BIS | Residential Property Prices for Colombia                            | 1988-01-01          | 2022-01-01        |
-| QCOR368BIS | Real Residential Property Prices for Colombia                       | 1989-01-01          | 2022-01-01        |
-| QCOR628BIS | Real Residential Property Prices for Colombia                       | 1988-01-01          | 2022-01-01        |
-| QCYN368BIS | Residential Property Prices for Cyprus                              | 2003-01-01          | 2022-01-01        |
-| QCYN628BIS | Residential Property Prices for Cyprus                              | 2002-01-01          | 2022-01-01        |
+| QCON368BIS | Residential Property Prices for Colombia                            | 1989-01-01          | 2022-04-01        |
+| QCON628BIS | Residential Property Prices for Colombia                            | 1988-01-01          | 2022-04-01        |
+| QCOR368BIS | Real Residential Property Prices for Colombia                       | 1989-01-01          | 2022-04-01        |
+| QCOR628BIS | Real Residential Property Prices for Colombia                       | 1988-01-01          | 2022-04-01        |
+| QCYN368BIS | Residential Property Prices for Cyprus                              | 2003-01-01          | 2022-04-01        |
+| QCYN628BIS | Residential Property Prices for Cyprus                              | 2002-01-01          | 2022-04-01        |
 | QCYR368BIS | Real Residential Property Prices for Cyprus                         | 2003-01-01          | 2022-01-01        |
 | QCYR628BIS | Real Residential Property Prices for Cyprus                         | 2002-01-01          | 2022-01-01        |
-| QCZN368BIS | Residential Property Prices for Czech Republic                      | 2009-01-01          | 2022-01-01        |
-| QCZN628BIS | Residential Property Prices for Czech Republic                      | 2008-01-01          | 2022-01-01        |
-| QCZR368BIS | Real Residential Property Prices for Czech Republic                 | 2009-01-01          | 2022-01-01        |
-| QCZR628BIS | Real Residential Property Prices for Czech Republic                 | 2008-01-01          | 2022-01-01        |
+| QCZN368BIS | Residential Property Prices for Czech Republic                      | 2009-01-01          | 2022-04-01        |
+| QCZN628BIS | Residential Property Prices for Czech Republic                      | 2008-01-01          | 2022-04-01        |
+| QCZR368BIS | Real Residential Property Prices for Czech Republic                 | 2009-01-01          | 2022-04-01        |
+| QCZR628BIS | Real Residential Property Prices for Czech Republic                 | 2008-01-01          | 2022-04-01        |
 | QDEN368BIS | Residential Property Prices for Germany                             | 1971-01-01          | 2022-04-01        |
 | QDEN628BIS | Residential Property Prices for Germany                             | 1970-01-01          | 2022-04-01        |
 | QDER368BIS | Real Residential Property Prices for Germany                        | 1971-01-01          | 2022-04-01        |
 | QDER628BIS | Real Residential Property Prices for Germany                        | 1970-01-01          | 2022-04-01        |
-| QDKN368BIS | Residential Property Prices for Denmark                             | 1971-01-01          | 2022-01-01        |
-| QDKN628BIS | Residential Property Prices for Denmark                             | 1970-01-01          | 2022-01-01        |
-| QDKR368BIS | Real Residential Property Prices for Denmark                        | 1971-01-01          | 2022-01-01        |
-| QDKR628BIS | Real Residential Property Prices for Denmark                        | 1970-01-01          | 2022-01-01        |
-| QEEN368BIS | Residential Property Prices for Estonia                             | 2006-01-01          | 2022-01-01        |
-| QEEN628BIS | Residential Property Prices for Estonia                             | 2005-01-01          | 2022-01-01        |
-| QEER368BIS | Real Residential Property Prices for Estonia                        | 2006-01-01          | 2022-01-01        |
-| QEER628BIS | Real Residential Property Prices for Estonia                        | 2005-01-01          | 2022-01-01        |
-| QESN368BIS | Residential Property Prices for Spain                               | 1972-01-01          | 2022-01-01        |
-| QESN628BIS | Residential Property Prices for Spain                               | 1971-01-01          | 2022-01-01        |
-| QESR368BIS | Real Residential Property Prices for Spain                          | 1972-01-01          | 2022-01-01        |
-| QESR628BIS | Real Residential Property Prices for Spain                          | 1971-01-01          | 2022-01-01        |
-| QFIN368BIS | Residential Property Prices for Finland                             | 1971-01-01          | 2022-01-01        |
-| QFIN628BIS | Residential Property Prices for Finland                             | 1970-01-01          | 2022-01-01        |
+| QDKN368BIS | Residential Property Prices for Denmark                             | 1971-01-01          | 2022-04-01        |
+| QDKN628BIS | Residential Property Prices for Denmark                             | 1970-01-01          | 2022-04-01        |
+| QDKR368BIS | Real Residential Property Prices for Denmark                        | 1971-01-01          | 2022-04-01        |
+| QDKR628BIS | Real Residential Property Prices for Denmark                        | 1970-01-01          | 2022-04-01        |
+| QEEN368BIS | Residential Property Prices for Estonia                             | 2006-01-01          | 2022-04-01        |
+| QEEN628BIS | Residential Property Prices for Estonia                             | 2005-01-01          | 2022-04-01        |
+| QEER368BIS | Real Residential Property Prices for Estonia                        | 2006-01-01          | 2022-04-01        |
+| QEER628BIS | Real Residential Property Prices for Estonia                        | 2005-01-01          | 2022-04-01        |
+| QESN368BIS | Residential Property Prices for Spain                               | 1972-01-01          | 2022-04-01        |
+| QESN628BIS | Residential Property Prices for Spain                               | 1971-01-01          | 2022-04-01        |
+| QESR368BIS | Real Residential Property Prices for Spain                          | 1972-01-01          | 2022-04-01        |
+| QESR628BIS | Real Residential Property Prices for Spain                          | 1971-01-01          | 2022-04-01        |
+| QFIN368BIS | Residential Property Prices for Finland                             | 1971-01-01          | 2022-04-01        |
+| QFIN628BIS | Residential Property Prices for Finland                             | 1970-01-01          | 2022-04-01        |
 | QFIR368BIS | Real Residential Property Prices for Finland                        | 1971-01-01          | 2022-01-01        |
-| QFIR628BIS | Real Residential Property Prices for Finland                        | 1970-01-01          | 2022-01-01        |
-| QFRN368BIS | Residential Property Prices for France                              | 1971-01-01          | 2022-01-01        |
-| QFRN628BIS | Residential Property Prices for France                              | 1970-01-01          | 2022-01-01        |
-| QFRR368BIS | Real Residential Property Prices for France                         | 1971-01-01          | 2022-01-01        |
-| QFRR628BIS | Real Residential Property Prices for France                         | 1970-01-01          | 2022-01-01        |
+| QFIR628BIS | Real Residential Property Prices for Finland                        | 1970-01-01          | 2022-04-01        |
+| QFRN368BIS | Residential Property Prices for France                              | 1971-01-01          | 2022-04-01        |
+| QFRN628BIS | Residential Property Prices for France                              | 1970-01-01          | 2022-04-01        |
+| QFRR368BIS | Real Residential Property Prices for France                         | 1971-01-01          | 2022-04-01        |
+| QFRR628BIS | Real Residential Property Prices for France                         | 1970-01-01          | 2022-04-01        |
 | QGBN368BIS | Residential Property Prices for United Kingdom                      | 1969-04-01          | 2022-04-01        |
 | QGBN628BIS | Residential Property Prices for United Kingdom                      | 1968-04-01          | 2022-04-01        |
 | QGBR368BIS | Real Residential Property Prices for United Kingdom                 | 1969-04-01          | 2022-04-01        |
@@ -92,14 +92,14 @@
 | QGRN628BIS | Residential Property Prices for Greece                              | 2006-01-01          | 2022-04-01        |
 | QGRR368BIS | Real Residential Property Prices for Greece                         | 2007-01-01          | 2022-04-01        |
 | QGRR628BIS | Real Residential Property Prices for Greece                         | 2006-01-01          | 2022-04-01        |
-| QHRN368BIS | Residential Property Prices for Croatia                             | 2003-01-01          | 2022-01-01        |
-| QHRN628BIS | Residential Property Prices for Croatia                             | 2002-01-01          | 2022-01-01        |
-| QHRR368BIS | Real Residential Property Prices for Croatia                        | 2003-01-01          | 2022-01-01        |
-| QHRR628BIS | Real Residential Property Prices for Croatia                        | 2002-01-01          | 2022-01-01        |
-| QHUN368BIS | Residential Property Prices for Hungary                             | 2008-01-01          | 2022-01-01        |
-| QHUN628BIS | Residential Property Prices for Hungary                             | 2007-01-01          | 2022-01-01        |
-| QHUR368BIS | Real Residential Property Prices for Hungary                        | 2008-01-01          | 2022-01-01        |
-| QHUR628BIS | Real Residential Property Prices for Hungary                        | 2007-01-01          | 2022-01-01        |
+| QHRN368BIS | Residential Property Prices for Croatia                             | 2003-01-01          | 2022-04-01        |
+| QHRN628BIS | Residential Property Prices for Croatia                             | 2002-01-01          | 2022-04-01        |
+| QHRR368BIS | Real Residential Property Prices for Croatia                        | 2003-01-01          | 2022-04-01        |
+| QHRR628BIS | Real Residential Property Prices for Croatia                        | 2002-01-01          | 2022-04-01        |
+| QHUN368BIS | Residential Property Prices for Hungary                             | 2008-01-01          | 2022-04-01        |
+| QHUN628BIS | Residential Property Prices for Hungary                             | 2007-01-01          | 2022-04-01        |
+| QHUR368BIS | Real Residential Property Prices for Hungary                        | 2008-01-01          | 2022-04-01        |
+| QHUR628BIS | Real Residential Property Prices for Hungary                        | 2007-01-01          | 2022-04-01        |
 | QIDN368BIS | Residential Property Prices for Indonesia                           | 2003-01-01          | 2022-04-01        |
 | QIDN628BIS | Residential Property Prices for Indonesia                           | 2002-01-01          | 2022-04-01        |
 | QIDR368BIS | Real Residential Property Prices for Indonesia                      | 2003-01-01          | 2022-04-01        |
@@ -108,14 +108,14 @@
 | QIEN628BIS | Residential Property Prices for Ireland                             | 1970-01-01          | 2022-01-01        |
 | QIER368BIS | Real Residential Property Prices for Ireland                        | 1971-01-01          | 2022-01-01        |
 | QIER628BIS | Real Residential Property Prices for Ireland                        | 1970-01-01          | 2022-01-01        |
-| QILN368BIS | Residential Property Prices for Israel                              | 1995-01-01          | 2022-01-01        |
-| QILN628BIS | Residential Property Prices for Israel                              | 1994-01-01          | 2022-01-01        |
-| QILR368BIS | Real Residential Property Prices for Israel                         | 1995-01-01          | 2022-01-01        |
-| QILR628BIS | Real Residential Property Prices for Israel                         | 1994-01-01          | 2022-01-01        |
-| QINN368BIS | Residential Property Prices for India                               | 2010-01-01          | 2022-01-01        |
-| QINN628BIS | Residential Property Prices for India                               | 2009-01-01          | 2022-01-01        |
-| QINR368BIS | Real Residential Property Prices for India                          | 2010-01-01          | 2022-01-01        |
-| QINR628BIS | Real Residential Property Prices for India                          | 2009-01-01          | 2022-01-01        |
+| QILN368BIS | Residential Property Prices for Israel                              | 1995-01-01          | 2022-04-01        |
+| QILN628BIS | Residential Property Prices for Israel                              | 1994-01-01          | 2022-04-01        |
+| QILR368BIS | Real Residential Property Prices for Israel                         | 1995-01-01          | 2022-04-01        |
+| QILR628BIS | Real Residential Property Prices for Israel                         | 1994-01-01          | 2022-04-01        |
+| QINN368BIS | Residential Property Prices for India                               | 2010-01-01          | 2022-04-01        |
+| QINN628BIS | Residential Property Prices for India                               | 2009-01-01          | 2022-04-01        |
+| QINR368BIS | Real Residential Property Prices for India                          | 2010-01-01          | 2022-04-01        |
+| QINR628BIS | Real Residential Property Prices for India                          | 2009-01-01          | 2022-04-01        |
 | QISN368BIS | Residential Property Prices for Reykjavik, Iceland                  | 2001-01-01          | 2022-04-01        |
 | QISN628BIS | Residential Property Prices for Reykjavik, Iceland                  | 2000-01-01          | 2022-04-01        |
 | QISR368BIS | Real Residential Property Prices for Reykjavik, Iceland             | 2001-01-01          | 2022-04-01        |
@@ -124,18 +124,18 @@
 | QITN628BIS | Residential Property Prices for Italy                               | 1927-01-01          | 2022-04-01        |
 | QITR368BIS | Real Residential Property Prices for Italy                          | 1948-01-01          | 2022-04-01        |
 | QITR628BIS | Real Residential Property Prices for Italy                          | 1947-01-01          | 2022-04-01        |
-| QJPN368BIS | Residential Property Prices for Japan                               | 1956-01-01          | 2022-01-01        |
-| QJPN628BIS | Residential Property Prices for Japan                               | 1955-01-01          | 2022-01-01        |
-| QJPR368BIS | Real Residential Property Prices for Japan                          | 1956-01-01          | 2022-01-01        |
-| QJPR628BIS | Real Residential Property Prices for Japan                          | 1955-01-01          | 2022-01-01        |
+| QJPN368BIS | Residential Property Prices for Japan                               | 1956-01-01          | 2022-04-01        |
+| QJPN628BIS | Residential Property Prices for Japan                               | 1955-01-01          | 2022-04-01        |
+| QJPR368BIS | Real Residential Property Prices for Japan                          | 1956-01-01          | 2022-04-01        |
+| QJPR628BIS | Real Residential Property Prices for Japan                          | 1955-01-01          | 2022-04-01        |
 | QLTN368BIS | Residential Property Prices for Lithuania                           | 1999-10-01          | 2022-04-01        |
 | QLTN628BIS | Residential Property Prices for Lithuania                           | 1998-10-01          | 2022-04-01        |
 | QLTR368BIS | Real Residential Property Prices for Lithuania                      | 1999-10-01          | 2022-04-01        |
 | QLTR628BIS | Real Residential Property Prices for Lithuania                      | 1998-10-01          | 2022-04-01        |
-| QLUN368BIS | Residential Property Prices for Luxembourg                          | 2008-01-01          | 2022-01-01        |
-| QLUN628BIS | Residential Property Prices for Luxembourg                          | 2007-01-01          | 2022-01-01        |
-| QLUR368BIS | Real Residential Property Prices for Luxembourg                     | 2008-01-01          | 2022-01-01        |
-| QLUR628BIS | Real Residential Property Prices for Luxembourg                     | 2007-01-01          | 2022-01-01        |
+| QLUN368BIS | Residential Property Prices for Luxembourg                          | 2008-01-01          | 2022-04-01        |
+| QLUN628BIS | Residential Property Prices for Luxembourg                          | 2007-01-01          | 2022-04-01        |
+| QLUR368BIS | Real Residential Property Prices for Luxembourg                     | 2008-01-01          | 2022-04-01        |
+| QLUR628BIS | Real Residential Property Prices for Luxembourg                     | 2007-01-01          | 2022-04-01        |
 | QLVN368BIS | Residential Property Prices for Latvia                              | 2007-01-01          | 2022-04-01        |
 | QLVN628BIS | Residential Property Prices for Latvia                              | 2006-01-01          | 2022-04-01        |
 | QLVR368BIS | Real Residential Property Prices for Latvia                         | 2007-01-01          | 2022-04-01        |
@@ -160,10 +160,10 @@
 | QMYN628BIS | Residential Property Prices for Malaysia                            | 1988-01-01          | 2022-04-01        |
 | QMYR368BIS | Real Residential Property Prices for Malaysia                       | 1989-01-01          | 2022-04-01        |
 | QMYR628BIS | Real Residential Property Prices for Malaysia                       | 1988-01-01          | 2022-04-01        |
-| QNLN368BIS | Residential Property Prices for Netherlands                         | 1971-01-01          | 2022-01-01        |
-| QNLN628BIS | Residential Property Prices for Netherlands                         | 1970-01-01          | 2022-01-01        |
-| QNLR368BIS | Real Residential Property Prices for Netherlands                    | 1971-01-01          | 2022-01-01        |
-| QNLR628BIS | Real Residential Property Prices for Netherlands                    | 1970-01-01          | 2022-01-01        |
+| QNLN368BIS | Residential Property Prices for Netherlands                         | 1971-01-01          | 2022-04-01        |
+| QNLN628BIS | Residential Property Prices for Netherlands                         | 1970-01-01          | 2022-04-01        |
+| QNLR368BIS | Real Residential Property Prices for Netherlands                    | 1971-01-01          | 2022-04-01        |
+| QNLR628BIS | Real Residential Property Prices for Netherlands                    | 1970-01-01          | 2022-04-01        |
 | QNON368BIS | Residential Property Prices for Norway                              | 1993-01-01          | 2022-04-01        |
 | QNON628BIS | Residential Property Prices for Norway                              | 1970-01-01          | 2022-04-01        |
 | QNOR368BIS | Real Residential Property Prices for Norway                         | 1993-01-01          | 2022-04-01        |
@@ -176,22 +176,22 @@
 | QPEN628BIS | Residential Property Prices for Peru                                | 1998-01-01          | 2022-04-01        |
 | QPER368BIS | Real Residential Property Prices for Peru                           | 1999-01-01          | 2022-04-01        |
 | QPER628BIS | Real Residential Property Prices for Peru                           | 1998-01-01          | 2022-04-01        |
-| QPHN368BIS | Residential Property Prices for Makati, Philippines                 | 2009-01-01          | 2022-01-01        |
-| QPHN628BIS | Residential Property Prices for Makati, Philippines                 | 2008-01-01          | 2022-01-01        |
-| QPHR368BIS | Real Residential Property Prices for Makati, Philippines            | 2009-01-01          | 2022-01-01        |
-| QPHR628BIS | Real Residential Property Prices for Makati, Philippines            | 2008-01-01          | 2022-01-01        |
-| QPLN368BIS | Residential Property Prices for Poland                              | 2011-01-01          | 2022-01-01        |
-| QPLN628BIS | Residential Property Prices for Poland                              | 2010-01-01          | 2022-01-01        |
-| QPLR368BIS | Real Residential Property Prices for Poland                         | 2011-01-01          | 2022-01-01        |
-| QPLR628BIS | Real Residential Property Prices for Poland                         | 2010-01-01          | 2022-01-01        |
+| QPHN368BIS | Residential Property Prices for Makati, Philippines                 | 2009-01-01          | 2022-04-01        |
+| QPHN628BIS | Residential Property Prices for Makati, Philippines                 | 2008-01-01          | 2022-04-01        |
+| QPHR368BIS | Real Residential Property Prices for Makati, Philippines            | 2009-01-01          | 2022-04-01        |
+| QPHR628BIS | Real Residential Property Prices for Makati, Philippines            | 2008-01-01          | 2022-04-01        |
+| QPLN368BIS | Residential Property Prices for Poland                              | 2011-01-01          | 2022-04-01        |
+| QPLN628BIS | Residential Property Prices for Poland                              | 2010-01-01          | 2022-04-01        |
+| QPLR368BIS | Real Residential Property Prices for Poland                         | 2011-01-01          | 2022-04-01        |
+| QPLR628BIS | Real Residential Property Prices for Poland                         | 2010-01-01          | 2022-04-01        |
 | QPTN368BIS | Residential Property Prices for Portugal                            | 2009-01-01          | 2022-04-01        |
 | QPTN628BIS | Residential Property Prices for Portugal                            | 2008-01-01          | 2022-04-01        |
 | QPTR368BIS | Real Residential Property Prices for Portugal                       | 2009-01-01          | 2022-04-01        |
 | QPTR628BIS | Real Residential Property Prices for Portugal                       | 2008-01-01          | 2022-04-01        |
-| QRON368BIS | Residential Property Prices for Romania                             | 2010-01-01          | 2022-01-01        |
-| QRON628BIS | Residential Property Prices for Romania                             | 2009-01-01          | 2022-01-01        |
-| QROR368BIS | Real Residential Property Prices for Romania                        | 2010-01-01          | 2022-01-01        |
-| QROR628BIS | Real Residential Property Prices for Romania                        | 2009-01-01          | 2022-01-01        |
+| QRON368BIS | Residential Property Prices for Romania                             | 2010-01-01          | 2022-04-01        |
+| QRON628BIS | Residential Property Prices for Romania                             | 2009-01-01          | 2022-04-01        |
+| QROR368BIS | Real Residential Property Prices for Romania                        | 2010-01-01          | 2022-04-01        |
+| QROR628BIS | Real Residential Property Prices for Romania                        | 2009-01-01          | 2022-04-01        |
 | QRSN628BIS | Residential Property Prices for Serbia                              | 2000-01-01          | 2022-04-01        |
 | QRSN771BIS | Residential Property Prices for Serbia                              | 2001-01-01          | 2022-04-01        |
 | QRSR628BIS | Real Residential Property Prices for Serbia                         | 2000-01-01          | 2022-04-01        |
@@ -200,10 +200,10 @@
 | QSEN628BIS | Residential Property Prices for Sweden                              | 1970-01-01          | 2022-04-01        |
 | QSER368BIS | Real Residential Property Prices for Sweden                         | 1971-01-01          | 2022-04-01        |
 | QSER628BIS | Real Residential Property Prices for Sweden                         | 1970-01-01          | 2022-04-01        |
-| QSGN368BIS | Residential Property Prices for Singapore                           | 1999-01-01          | 2022-01-01        |
-| QSGN628BIS | Residential Property Prices for Singapore                           | 1998-01-01          | 2022-01-01        |
-| QSGR368BIS | Real Residential Property Prices for Singapore                      | 1999-01-01          | 2022-01-01        |
-| QSGR628BIS | Real Residential Property Prices for Singapore                      | 1998-01-01          | 2022-01-01        |
+| QSGN368BIS | Residential Property Prices for Singapore                           | 1999-01-01          | 2022-04-01        |
+| QSGN628BIS | Residential Property Prices for Singapore                           | 1998-01-01          | 2022-04-01        |
+| QSGR368BIS | Real Residential Property Prices for Singapore                      | 1999-01-01          | 2022-04-01        |
+| QSGR628BIS | Real Residential Property Prices for Singapore                      | 1998-01-01          | 2022-04-01        |
 | QSIN368BIS | Residential Property Prices for Slovenia                            | 2008-01-01          | 2022-04-01        |
 | QSIN628BIS | Residential Property Prices for Slovenia                            | 2007-01-01          | 2022-04-01        |
 | QSIR368BIS | Real Residential Property Prices for Slovenia                       | 2008-01-01          | 2022-04-01        |

@@ -14,7 +14,7 @@
 | Wayne County, WV      |                90 |
 | Hardy County, WV      |                89 |
 | Wyoming County, WV    |                89 |
-| Barbour County, WV    |                89 |
+| Barbour County, WV    |                 0 |
 | Wood County, WV       |               147 |
 | Randolph County, WV   |                90 |
 | Mason County, WV      |                89 |
@@ -29,7 +29,7 @@
 | Preston County, WV    |                88 |
 | Marshall County, WV   |                90 |
 | Clay County, WV       |                88 |
-| Hancock County, WV    |                 0 |
+| Hancock County, WV    |                90 |
 | Putnam County, WV     |               144 |
 | Logan County, WV      |                90 |
 | Monongalia County, WV |               147 |

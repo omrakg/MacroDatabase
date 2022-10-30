@@ -4,7 +4,7 @@
 | Johnston County, NC     |               147 |
 | Polk County, NC         |                90 |
 | Jones County, NC        |                90 |
-| Beaufort County, NC     |               146 |
+| Beaufort County, NC     |                 0 |
 | Watauga County, NC      |               146 |
 | Harnett County, NC      |               147 |
 | Clay County, NC         |                90 |
@@ -55,7 +55,7 @@
 | Forsyth County, NC      |               147 |
 | Gaston County, NC       |               146 |
 | Cherokee County, NC     |                89 |
-| Duplin County, NC       |                 0 |
+| Duplin County, NC       |                90 |
 | Sampson County, NC      |                90 |
 | Yancey County, NC       |                90 |
 | Cabarrus County, NC     |               147 |
@@ -64,7 +64,7 @@
 | Perquimans County, NC   |                90 |
 | Caswell County, NC      |                90 |
 | Lee County, NC          |               146 |
-| Cumberland County, NC   |               147 |
+| Cumberland County, NC   |                 0 |
 | Swain County, NC        |                88 |
 | Bertie County, NC       |                89 |
 | Caldwell County, NC     |               147 |

@@ -19,10 +19,10 @@
 | ENUC263040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-01-01        |
 | ENUC263040510             | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2022-01-01        |
 | ENUC263040510SA           | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| HSPBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 2004-01-01          | 2022-08-01        |
-| HSPBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 1988-01-01          | 2022-08-01        |
-| HSPBPPRIV                 | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 2004-01-01          | 2022-08-01        |
-| HSPBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 1988-01-01          | 2022-08-01        |
+| HSPBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 2004-01-01          | 2022-09-01        |
+| HSPBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 1988-01-01          | 2022-09-01        |
+| HSPBPPRIV                 | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 2004-01-01          | 2022-09-01        |
+| HSPBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 1988-01-01          | 2022-09-01        |
 | HSPGOVT                   | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-09-01        |
 | HSPGOVTN                  | All Employees: Government in Hot Springs, AR (MSA)                                                    | 1990-01-01          | 2022-09-01        |
 | HSPLF                     | Civilian Labor Force in Hot Springs, AR (MSA)                                                         | 1990-01-01          | 2022-08-01        |

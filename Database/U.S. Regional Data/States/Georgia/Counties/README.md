@@ -30,7 +30,7 @@
 | Morgan County, GA        |                89 |
 | Schley County, GA        |                88 |
 | Dawson County, GA        |                90 |
-| Long County, GA          |                 0 |
+| Long County, GA          |                88 |
 | Warren County, GA        |                88 |
 | Marion County, GA        |                88 |
 | Dodge County, GA         |                90 |
@@ -79,7 +79,7 @@
 | Worth County, GA         |                90 |
 | Evans County, GA         |                87 |
 | Forsyth County, GA       |               147 |
-| Bulloch County, GA       |               147 |
+| Bulloch County, GA       |                 0 |
 | Lanier County, GA        |                88 |
 | De Kalb County, GA       |               147 |
 | Chattahoochee County, GA |                88 |
@@ -90,7 +90,7 @@
 | Lamar County, GA         |                89 |
 | Johnson County, GA       |                88 |
 | Banks County, GA         |                90 |
-| Terrell County, GA       |                 0 |
+| Terrell County, GA       |                88 |
 | White County, GA         |                90 |
 | Atkinson County, GA      |                88 |
 | Clay County, GA          |                87 |
@@ -139,7 +139,7 @@
 | Heard County, GA         |                90 |
 | Houston County, GA       |               147 |
 | Emanuel County, GA       |                88 |
-| Liberty County, GA       |               146 |
+| Liberty County, GA       |                 0 |
 | Pike County, GA          |                89 |
 | Floyd County, GA         |               147 |
 | Brooks County, GA        |                89 |
@@ -150,7 +150,7 @@
 | Jasper County, GA        |                90 |
 | Clinch County, GA        |                87 |
 | Treutlen County, GA      |                88 |
-| Harris County, GA        |                 0 |
+| Harris County, GA        |                90 |
 | Peach County, GA         |                90 |
 | Miller County, GA        |                87 |
 | Bleckley County, GA      |                89 |

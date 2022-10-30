@@ -28,13 +28,13 @@
 | Wapello County, IA       |                90 |
 | Black Hawk County, IA    |               147 |
 | Calhoun County, IA       |                90 |
-| Jones County, IA         |                90 |
+| Jones County, IA         |                 0 |
 | Poweshiek County, IA     |                90 |
 | Wright County, IA        |                90 |
 | Audubon County, IA       |                90 |
 | Hamilton County, IA      |                89 |
 | Cedar County, IA         |                90 |
-| Decatur County, IA       |                 0 |
+| Decatur County, IA       |                88 |
 | Des Moines County, IA    |                90 |
 | Clinton County, IA       |               146 |
 | O'Brien County, IA       |                90 |
@@ -88,13 +88,13 @@
 | Cass County, IA          |                90 |
 | Carroll County, IA       |                90 |
 | Tama County, IA          |                90 |
-| Fremont County, IA       |                89 |
+| Fremont County, IA       |                 0 |
 | Mitchell County, IA      |                90 |
 | Washington County, IA    |                89 |
 | Crawford County, IA      |                90 |
 | Taylor County, IA        |                89 |
 | Story County, IA         |               147 |
-| Marion County, IA        |                 0 |
+| Marion County, IA        |                90 |
 | Ida County, IA           |                89 |
 | Allamakee County, IA     |                90 |
 | Montgomery County, IA    |                89 |

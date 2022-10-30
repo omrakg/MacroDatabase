@@ -5,5 +5,5 @@
 | Lewiston, ID-WA   |               144 |
 | Twin Falls, ID    |                11 |
 | Idaho Falls, ID   |               137 |
-| Coeur d'Alene, ID |               164 |
+| Coeur d'Alene, ID |                 0 |
 | Logan, UT-ID      |               138 |

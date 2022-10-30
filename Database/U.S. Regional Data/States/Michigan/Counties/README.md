@@ -2,7 +2,7 @@
 |---------------------------|-------------------|
 | Wayne County, MI          |               147 |
 | Menominee County, MI      |                90 |
-| St. Clair County, MI      |                 0 |
+| St. Clair County, MI      |               147 |
 | Monroe County, MI         |               147 |
 | Tuscola County, MI        |                90 |
 | Wexford County, MI        |                90 |
@@ -46,7 +46,7 @@
 | Calhoun County, MI        |               147 |
 | Ingham County, MI         |               147 |
 | Clinton County, MI        |               147 |
-| Oscoda County, MI         |                90 |
+| Oscoda County, MI         |                 0 |
 | Alpena County, MI         |                90 |
 | Houghton County, MI       |                90 |
 | Hillsdale County, MI      |                90 |
@@ -74,7 +74,7 @@
 | Eaton County, MI          |               147 |
 | Baraga County, MI         |                88 |
 | Antrim County, MI         |                90 |
-| Lapeer County, MI         |                 0 |
+| Lapeer County, MI         |               147 |
 | Ionia County, MI          |               146 |
 | Muskegon County, MI       |               147 |
 | Alcona County, MI         |                90 |

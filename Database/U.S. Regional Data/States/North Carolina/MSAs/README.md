@@ -10,7 +10,7 @@
 | Goldsboro, NC                                 |               102 |
 | Rocky Mount, NC                               |               143 |
 | Burlington, NC                                |               158 |
-| Wilmington, NC                                |                 0 |
+| Wilmington, NC                                |               169 |
 | Myrtle Beach-Conway-North Myrtle Beach, SC-NC |               168 |
 | Raleigh-Cary, NC                              |               217 |
 | Charlotte-Concord-Gastonia, NC-SC             |               264 |

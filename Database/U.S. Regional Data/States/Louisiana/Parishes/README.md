@@ -17,7 +17,7 @@
 | East Baton Rouge Parish, LA     |               148 |
 | Jefferson Parish, LA            |               147 |
 | St. James Parish, LA            |                90 |
-| Tangipahoa Parish, LA           |               147 |
+| Tangipahoa Parish, LA           |                 0 |
 | Lafayette Parish, LA            |               147 |
 | Tensas Parish, LA               |                88 |
 | St. Charles Parish, LA          |               145 |
@@ -41,7 +41,7 @@
 | Union Parish, LA                |                90 |
 | Pointe Coupee Parish, LA        |                89 |
 | Webster Parish, LA              |                90 |
-| Plaquemines Parish, LA          |                 0 |
+| Plaquemines Parish, LA          |                89 |
 | Morehouse Parish, LA            |                89 |
 | Sabine Parish, LA               |                90 |
 | West Carroll Parish, LA         |                88 |

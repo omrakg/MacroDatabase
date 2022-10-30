@@ -24,8 +24,8 @@
 | Juab County, UT       |                89 |
 | Garfield County, UT   |                87 |
 | Daggett County, UT    |                86 |
-| Morgan County, UT     |                90 |
+| Morgan County, UT     |                 0 |
 | Emery County, UT      |                89 |
 | Summit County, UT     |                90 |
 | Washington County, UT |               147 |
-| Millard County, UT    |                 0 |
+| Millard County, UT    |                89 |

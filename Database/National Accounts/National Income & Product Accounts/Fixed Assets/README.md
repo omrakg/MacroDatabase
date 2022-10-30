@@ -2,4 +2,4 @@
 |------------------|-------------------|
 | Net Stocks       |                24 |
 | Depreciation     |                24 |
-| Fixed Investment |                 0 |
+| Fixed Investment |               250 |

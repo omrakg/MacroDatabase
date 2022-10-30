@@ -6,7 +6,7 @@
 | Euro Area                                                          |               659 |
 | Bureau of Labor Statistics Asian Newly Industrialized Countries    |                10 |
 | Four Big European Countries                                        |                17 |
-| International Organizations                                        |                 0 |
+| International Organizations                                        |                 9 |
 | Group of Seven (G7)                                                |               465 |
 | Bureau of Labor Statistics Industrialized Countries                |                40 |
 | European Economic Area                                             |               169 |
@@ -18,7 +18,7 @@
 | Non-OECD                                                           |                 8 |
 | European Union                                                     |               848 |
 | Advance Technology Products                                        |                 4 |
-| Association of Southeast Asian Nations (ASEAN)                     |                 9 |
+| Association of Southeast Asian Nations (ASEAN)                     |                 0 |
 | Emerging Markets                                                   |                 6 |
 | Bureau of Labor Statistics Pacific Rim                             |                42 |
 | Bureau of Labor Statistics Latin America                           |                17 |

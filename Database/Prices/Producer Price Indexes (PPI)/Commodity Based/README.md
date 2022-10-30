@@ -24,7 +24,7 @@
 | Repair and Maintenance Services                                    |                28 |
 | Industrial Commodities Less Fuels                                  |                 0 |
 | Lumber and Wood Products                                           |               119 |
-| Warehousing, Storage, and Related Services                         |                 7 |
+| Warehousing, Storage, and Related Services                         |                 0 |
 | Intermediate Demand By Production Flow                             |               306 |
 | Software Publishing                                                |                11 |
 | Processed Foods and Feeds                                          |               385 |
@@ -43,7 +43,7 @@
 | Transportation Services                                            |                86 |
 | Inputs to Industries                                               |               227 |
 | Pulp, Paper, and Allied Products                                   |               176 |
-| Data Processing and Related Services                               |                 0 |
+| Data Processing and Related Services                               |                11 |
 | Real Estate Services                                               |                37 |
 | Contract Work on Textile Products, Apparel, and Leather            |                26 |
 | Retail Trade Services                                              |                88 |

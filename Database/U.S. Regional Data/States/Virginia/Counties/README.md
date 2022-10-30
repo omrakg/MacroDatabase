@@ -34,7 +34,7 @@
 | Lee County, VA                                      |                89 |
 | Botetourt County, VA                                |                90 |
 | Gloucester County, VA                               |                89 |
-| Scott County, VA                                    |                88 |
+| Scott County, VA                                    |                 0 |
 | Lexington City, VA                                  |                78 |
 | Covington City, VA                                  |                77 |
 | Fluvanna County, VA                                 |                90 |
@@ -73,7 +73,7 @@
 | Pittsylvania County, VA                             |               136 |
 | Tazewell County, VA                                 |                90 |
 | Harrisonburg City, VA                               |                79 |
-| Middlesex County, VA                                |                 0 |
+| Middlesex County, VA                                |                88 |
 | Spotsylvania County, VA                             |               137 |
 | Grayson County, VA                                  |                89 |
 | Henrico County, VA                                  |               147 |
@@ -125,7 +125,7 @@
 | Norton City, VA                                     |                77 |
 | Halifax County, VA                                  |                89 |
 | Charlotte County, VA                                |                88 |
-| Dinwiddie, Colonial Heights + Petersburg County, VA |                10 |
+| Dinwiddie, Colonial Heights + Petersburg County, VA |                 0 |
 | Powhatan County, VA                                 |                90 |
 | Southampton County, VA                              |                80 |
 | Staunton City, VA                                   |                79 |
@@ -133,7 +133,7 @@
 | Brunswick County, VA                                |                90 |
 | Alexandria City, VA                                 |               146 |
 | Wythe County, VA                                    |                89 |
-| Galax City, VA                                      |                 0 |
+| Galax City, VA                                      |                79 |
 | Washington County, VA                               |               136 |
 | Rockingham County, VA                               |               137 |
 | Colonial Heights City, VA                           |                77 |

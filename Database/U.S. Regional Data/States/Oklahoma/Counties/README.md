@@ -38,14 +38,14 @@
 | Craig County, OK        |                90 |
 | Garvin County, OK       |                89 |
 | Kingfisher County, OK   |                89 |
-| Cotton County, OK       |                88 |
+| Cotton County, OK       |                 0 |
 | Noble County, OK        |                90 |
 | Caddo County, OK        |                89 |
 | Pittsburg County, OK    |                90 |
 | Muskogee County, OK     |               147 |
 | McClain County, OK      |                90 |
 | Wagoner County, OK      |               147 |
-| Nowata County, OK       |                 0 |
+| Nowata County, OK       |                90 |
 | Stephens County, OK     |                90 |
 | Ottawa County, OK       |                90 |
 | Carter County, OK       |               146 |

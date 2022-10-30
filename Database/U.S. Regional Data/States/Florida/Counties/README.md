@@ -22,12 +22,12 @@
 | Pasco County, FL        |               147 |
 | Columbia County, FL     |               146 |
 | Hendry County, FL       |                90 |
-| Jefferson County, FL    |                89 |
+| Jefferson County, FL    |                 0 |
 | Bay County, FL          |               147 |
 | Dixie County, FL        |                89 |
 | Highlands County, FL    |               147 |
 | Alachua County, FL      |               147 |
-| Volusia County, FL      |                 0 |
+| Volusia County, FL      |               147 |
 | Levy County, FL         |                89 |
 | Okeechobee County, FL   |                89 |
 | Walton County, FL       |               147 |

@@ -28,7 +28,7 @@
 | Bahrain                                              |               189 |
 | Norway                                               |                 0 |
 | Virgin Islands, British                              |               106 |
-| Holy See (Vatican City State)                        |                58 |
+| Holy See (Vatican City State)                        |                 0 |
 | Aland Islands                                        |                 0 |
 | Christmas Island                                     |                55 |
 | Algeria                                              |               234 |
@@ -76,7 +76,7 @@
 | Vanuatu                                              |               166 |
 | Latvia                                               |               983 |
 | Netherlands                                          |                 0 |
-| Bhutan                                               |                 0 |
+| Bhutan                                               |               153 |
 | Saint Lucia                                          |               170 |
 | Cocos (Keeling) Islands                              |                44 |
 | Nepal                                                |               223 |
@@ -88,7 +88,7 @@
 | Uzbekistan                                           |               184 |
 | Moldova, Republic of                                 |               235 |
 | Israel                                               |               862 |
-| Rwanda                                               |               300 |
+| Rwanda                                               |                 0 |
 | Turkmenistan                                         |               142 |
 | Ethiopia                                             |               216 |
 | Panama                                               |               225 |
@@ -136,7 +136,7 @@
 | Côte d’Ivoire                                        |               224 |
 | Kyrgyz Republic                                      |               210 |
 | Bulgaria                                             |               420 |
-| Montserrat                                           |                 0 |
+| Montserrat                                           |                81 |
 | Congo, Democratic Republic of the                    |               192 |
 | Kiribati                                             |               166 |
 | Brazil                                               |                 0 |
@@ -196,7 +196,7 @@
 | Tanzania, United Republic of                         |               236 |
 | Guatemala                                            |               237 |
 | Viet Nam                                             |               227 |
-| Guinea                                               |                 0 |
+| Guinea                                               |               334 |
 | Territorial collectivity of Saint Barthelemy         |                 0 |
 | Argentina                                            |               557 |
 | Libyan Arab Jamahiriya                               |               225 |
@@ -208,7 +208,7 @@
 | Hungary                                              |               864 |
 | Aruba                                                |               188 |
 | Sao Tome and Principe                                |               165 |
-| Saint Pierre and Miquelon                            |                33 |
+| Saint Pierre and Miquelon                            |                 0 |
 | Tokelau                                              |                85 |
 | Turks and Caicos Islands                             |               108 |
 | Western Sahara                                       |                16 |

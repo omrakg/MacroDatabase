@@ -44,8 +44,8 @@
 | Charles Mix County, SD   |                89 |
 | McPherson County, SD     |                88 |
 | Corson County, SD        |                87 |
-| Kingsbury County, SD     |                88 |
-| Yankton County, SD       |                 0 |
+| Kingsbury County, SD     |                 0 |
+| Yankton County, SD       |                90 |
 | Shannon County, SD       |                22 |
 | Bennett County, SD       |                87 |
 | Perkins County, SD       |                89 |

@@ -30,7 +30,7 @@
 | EXPINF28YR         | 28-Year Expected Inflation                                                          | 1982-01-01          | 2022-10-01        |
 | EXPINF29YR         | 29-Year Expected Inflation                                                          | 1982-01-01          | 2022-10-01        |
 | EXPINF30YR         | 30-Year Expected Inflation                                                          | 1982-01-01          | 2022-10-01        |
-| MICH               | University of Michigan: Inflation Expectation                                       | 1978-01-01          | 2022-08-01        |
+| MICH               | University of Michigan: Inflation Expectation                                       | 1978-01-01          | 2022-09-01        |
 | REAINTRATREARAT1MO | 1-Month Real Interest Rate                                                          | 1982-01-01          | 2022-10-01        |
 | REAINTRATREARAT1YE | 1-Year Real Interest Rate                                                           | 1982-01-01          | 2022-10-01        |
 | REAINTRATREARAT10Y | 10-Year Real Interest Rate                                                          | 1982-01-01          | 2022-10-01        |
@@ -38,9 +38,9 @@
 | RPPGOODUSNMP       | Regional Price Parities: Goods: Nonmetropolitan Portion for United States           | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTHUSNMP   | Regional Price Parities: Services: Other: Nonmetropolitan Portion for United States | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENTUSNMP  | Regional Price Parities: Services: Rents: Nonmetropolitan Portion for United States | 2008-01-01          | 2020-01-01        |
-| STLPPM             | Price Pressures Measure                                                             | 1990-01-01          | 2022-09-01        |
-| STLPPMDEF          | Deflation Probability                                                               | 1990-01-01          | 2022-09-01        |
-| STLPPMLOW          | Inflation Between 0 and 1.5 Percent                                                 | 1990-01-01          | 2022-09-01        |
-| STLPPMMID          | Inflation Between 1.5 and 2.5 Percent                                               | 1990-01-01          | 2022-09-01        |
+| STLPPM             | Price Pressures Measure                                                             | 1990-01-01          | 2022-10-01        |
+| STLPPMDEF          | Deflation Probability                                                               | 1990-01-01          | 2022-10-01        |
+| STLPPMLOW          | Inflation Between 0 and 1.5 Percent                                                 | 1990-01-01          | 2022-10-01        |
+| STLPPMMID          | Inflation Between 1.5 and 2.5 Percent                                               | 1990-01-01          | 2022-10-01        |
 | TENEXPCHAINFRISPRE | Inflation Risk Premium                                                              | 1982-01-01          | 2022-10-01        |
 | TENEXPCHAREARISPRE | Real Risk Premium                                                                   | 1982-01-01          | 2022-10-01        |

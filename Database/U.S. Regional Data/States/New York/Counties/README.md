@@ -22,14 +22,14 @@
 | Schuyler County, NY     |                90 |
 | Cortland County, NY     |               146 |
 | Warren County, NY       |               147 |
-| Hamilton County, NY     |                 0 |
+| Hamilton County, NY     |                89 |
 | New York County, NY     |               146 |
 | Otsego County, NY       |               145 |
 | Tompkins County, NY     |               146 |
 | Tioga County, NY        |               146 |
 | Onondaga County, NY     |               147 |
 | Lewis County, NY        |                89 |
-| Nassau County, NY       |               143 |
+| Nassau County, NY       |                 0 |
 | Kings County, NY        |               146 |
 | Yates County, NY        |                90 |
 | Erie County, NY         |               147 |

@@ -1,14 +1,14 @@
 | id           | title                                                    | observation_start   | observation_end   |
 |--------------|----------------------------------------------------------|---------------------|-------------------|
-| AISRSA       | Auto Inventory/Sales Ratio                               | 1993-01-01          | 2022-08-01        |
+| AISRSA       | Auto Inventory/Sales Ratio                               | 1993-01-01          | 2022-09-01        |
 | ALTSALES     | Light Weight Vehicle Sales: Autos and Light Trucks       | 1976-01-01          | 2022-09-01        |
-| AUENSA       | Auto Exports                                             | 1993-01-01          | 2022-07-01        |
-| AUESA        | Auto Exports                                             | 1993-01-01          | 2022-07-01        |
-| AUINSA       | Domestic Auto Inventories                                | 1993-01-01          | 2022-08-01        |
-| CAUINSA      | Canadian Auto Imports                                    | 1993-01-01          | 2022-07-01        |
-| CAUISA       | Canadian Auto Imports                                    | 1993-01-01          | 2022-07-01        |
-| DAUPNSA      | Domestic Auto Production                                 | 1993-01-01          | 2022-08-01        |
-| DAUPSA       | Domestic Auto Production                                 | 1993-01-01          | 2022-08-01        |
+| AUENSA       | Auto Exports                                             | 1993-01-01          | 2022-08-01        |
+| AUESA        | Auto Exports                                             | 1993-01-01          | 2022-08-01        |
+| AUINSA       | Domestic Auto Inventories                                | 1993-01-01          | 2022-09-01        |
+| CAUINSA      | Canadian Auto Imports                                    | 1993-01-01          | 2022-08-01        |
+| CAUISA       | Canadian Auto Imports                                    | 1993-01-01          | 2022-08-01        |
+| DAUPNSA      | Domestic Auto Production                                 | 1993-01-01          | 2022-09-01        |
+| DAUPSA       | Domestic Auto Production                                 | 1993-01-01          | 2022-09-01        |
 | DAUTONSA     | Motor Vehicle Retail Sales: Domestic Autos               | 1967-01-01          | 2022-09-01        |
 | DAUTOSA      | Motor Vehicle Retail Sales: Domestic Autos               | 1967-01-01          | 2022-09-01        |
 | DAUTOSAAR    | Motor Vehicle Retail Sales: Domestic Autos               | 1967-01-01          | 2022-09-01        |
@@ -29,7 +29,7 @@
 | LTOTALNSA    | Light Weight Vehicle Sales                               | 1976-01-01          | 2022-09-01        |
 | LTRUCKNSA    | Motor Vehicle Retail Sales: Light Weight Trucks          | 1976-01-01          | 2022-09-01        |
 | LTRUCKSA     | Motor Vehicle Retail Sales: Light Weight Trucks          | 1976-01-01          | 2022-09-01        |
-| MAUINSA      | Mexican Auto Imports                                     | 1993-01-01          | 2022-07-01        |
-| MAUISA       | Mexican Auto Imports                                     | 1993-01-01          | 2022-07-01        |
+| MAUINSA      | Mexican Auto Imports                                     | 1993-01-01          | 2022-08-01        |
+| MAUISA       | Mexican Auto Imports                                     | 1993-01-01          | 2022-08-01        |
 | TOTALNSA     | Total Vehicle Sales                                      | 1976-01-01          | 2022-09-01        |
 | TOTALSA      | Total Vehicle Sales                                      | 1976-01-01          | 2022-09-01        |

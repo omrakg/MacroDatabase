@@ -35,7 +35,7 @@
 | Larimer County, CO           |               147 |
 | Logan County, CO             |                89 |
 | Kiowa County, CO             |                88 |
-| Moffat County, CO            |                89 |
+| Moffat County, CO            |                 0 |
 | Eagle County, CO             |               146 |
 | Park County, CO              |                90 |
 | Montezuma County, CO         |                90 |

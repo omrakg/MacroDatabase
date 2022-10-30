@@ -11,7 +11,7 @@
 | Darke County, OH      |               146 |
 | Montgomery County, OH |               147 |
 | Wyandot County, OH    |                89 |
-| Noble County, OH      |                90 |
+| Noble County, OH      |                 0 |
 | Hamilton County, OH   |               147 |
 | Fulton County, OH     |                90 |
 | Geauga County, OH     |               147 |
@@ -71,14 +71,14 @@
 | Paulding County, OH   |                90 |
 | Preble County, OH     |                90 |
 | Mahoning County, OH   |               147 |
-| Hardin County, OH     |                90 |
+| Hardin County, OH     |                 0 |
 | Putnam County, OH     |                90 |
 | Clark County, OH      |               147 |
 | Pike County, OH       |                90 |
 | Fairfield County, OH  |               147 |
 | Columbiana County, OH |               147 |
 | Fayette County, OH    |                90 |
-| Scioto County, OH     |                 0 |
+| Scioto County, OH     |               147 |
 | Knox County, OH       |               146 |
 | Morrow County, OH     |                90 |
 | Vinton County, OH     |                90 |

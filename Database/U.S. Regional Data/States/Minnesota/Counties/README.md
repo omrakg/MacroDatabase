@@ -31,7 +31,7 @@
 | Mahnomen County, MN          |                88 |
 | Yellow Medicine County, MN   |                89 |
 | Kittson County, MN           |                88 |
-| Stevens County, MN           |                 0 |
+| Stevens County, MN           |                89 |
 | Lake County, MN              |                89 |
 | Hennepin County, MN          |               147 |
 | Swift County, MN             |                90 |
@@ -50,7 +50,7 @@
 | Kandiyohi County, MN         |                90 |
 | Norman County, MN            |                88 |
 | Chippewa County, MN          |                90 |
-| Freeborn County, MN          |                90 |
+| Freeborn County, MN          |                 0 |
 | Sherburne County, MN         |               147 |
 | Le Sueur County, MN          |                89 |
 | Meeker County, MN            |                90 |

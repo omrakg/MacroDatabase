@@ -6,7 +6,7 @@
 | CDC20N2UAA002270          | Age-Adjusted Premature Death Rate for Wade Hampton Census Area, AK                                                                          | 1999-01-01          | 2020-01-01        |
 | DMPCRATE002270            | Rate of Preventable Hospital Admissions (5-year estimate) in Wade Hampton Census Area, AK                                                   | 2008-01-01          | 2015-01-01        |
 | ENU0227020510             | Number of Private Establishments for All Industries in Wade Hampton Census Area, AK                                                         | 1990-01-01          | 2015-10-01        |
-| EQFXSUBPRIME002270        | Equifax Subprime Credit Population for Wade Hampton Census Area, AK                                                                         | 1999-01-01          | 2015-10-01        |
+| EQFXSUBPRIME002270        | Equifax Subprime Credit Population for Wade Hampton Census Area, AK                                                                         | 2014-04-01          | 2015-10-01        |
 | GDPALL02158               | Gross Domestic Product: All Industries in Kusilvak Census Area County, AK                                                                   | 2001-01-01          | 2020-01-01        |
 | GDPGOODS02158             | Gross Domestic Product: Private Goods-Producing Industries in Kusilvak Census Area County, AK                                               | 2003-01-01          | 2020-01-01        |
 | GDPGOVT02158              | Gross Domestic Product: Government and Government Enterprises in Kusilvak Census Area County, AK                                            | 2001-01-01          | 2020-01-01        |

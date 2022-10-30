@@ -7,10 +7,10 @@
 | AVELISPRI17860            | Housing Inventory: Average Listing Price in Columbia, MO (CBSA)                                    | 2016-07-01          | 2022-09-01        |
 | AVELISPRIMM17860          | Housing Inventory: Average Listing Price Month-Over-Month in Columbia, MO (CBSA)                   | 2017-07-01          | 2022-09-01        |
 | AVELISPRIYY17860          | Housing Inventory: Average Listing Price Year-Over-Year in Columbia, MO (CBSA)                     | 2017-07-01          | 2022-09-01        |
-| CLMBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Columbia, MO (MSA) | 1988-01-01          | 2022-08-01        |
-| CLMBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Columbia, MO (MSA) | 1988-01-01          | 2022-08-01        |
-| CLMBPPRIV                 | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-08-01        |
-| CLMBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-08-01        |
+| CLMBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Columbia, MO (MSA) | 1988-01-01          | 2022-09-01        |
+| CLMBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Columbia, MO (MSA) | 1988-01-01          | 2022-09-01        |
+| CLMBPPRIV                 | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-09-01        |
+| CLMBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-09-01        |
 | CLMGOVT                   | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2022-09-01        |
 | CLMGOVTN                  | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2022-09-01        |
 | CLMLF                     | Civilian Labor Force in Columbia, MO (MSA)                                                         | 1990-01-01          | 2022-08-01        |

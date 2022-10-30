@@ -21,6 +21,6 @@
 | Baltimore County, MD       |               148 |
 | Howard County, MD          |               147 |
 | Somerset County, MD        |                90 |
-| Worcester County, MD       |               146 |
+| Worcester County, MD       |                 0 |
 | Kent County, MD            |                90 |
 | Garrett County, MD         |                90 |

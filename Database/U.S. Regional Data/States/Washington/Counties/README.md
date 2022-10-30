@@ -19,13 +19,13 @@
 | Asotin County, WA       |                89 |
 | Grant County, WA        |               147 |
 | Yakima County, WA       |               146 |
-| Stevens County, WA      |                90 |
+| Stevens County, WA      |                 0 |
 | Pierce County, WA       |               147 |
 | Grays Harbor County, WA |               147 |
 | Adams County, WA        |                90 |
 | Lincoln County, WA      |                90 |
 | Thurston County, WA     |               147 |
-| Spokane County, WA      |                 0 |
+| Spokane County, WA      |               147 |
 | Franklin County, WA     |               147 |
 | San Juan County, WA     |                90 |
 | Snohomish County, WA    |               147 |

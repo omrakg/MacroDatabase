@@ -25,7 +25,7 @@
 | Clatsop County, OR    |                90 |
 | Wheeler County, OR    |                87 |
 | Jefferson County, OR  |                90 |
-| Morrow County, OR     |                 0 |
+| Morrow County, OR     |                90 |
 | Lincoln County, OR    |               146 |
 | Gilliam County, OR    |                88 |
 | Clackamas County, OR  |               147 |

@@ -4,18 +4,18 @@
 | ADPMCDWNCNERSA        | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-01          | 2022-09-01        |
 | ADPWCDWNCNERNSA       | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-02          | 2022-07-30        |
 | ADPWCDWNCNERSA        | Nonfarm Private Employment in the West North Central Census Division                                                             | 2010-01-02          | 2022-07-30        |
-| CIU2010000000234I     | Employment Cost Index: Total compensation for Private industry workers in the West North Central Census Division                 | 2006-01-01          | 2022-04-01        |
-| CIU2020000000234I     | Employment Cost Index: Wages and salaries for Private industry workers in the West North Central Census Division                 | 2006-01-01          | 2022-04-01        |
-| CWNCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-08-01        |
-| CWNCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-08-01        |
-| CWNCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-08-01        |
-| CWNCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-08-01        |
-| CWNCLF                | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-08-01        |
-| CWNCLFN               | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-08-01        |
+| CIU2010000000234I     | Employment Cost Index: Total compensation for Private industry workers in the West North Central Census Division                 | 2006-01-01          | 2022-07-01        |
+| CIU2020000000234I     | Employment Cost Index: Wages and salaries for Private industry workers in the West North Central Census Division                 | 2006-01-01          | 2022-07-01        |
+| CWNCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-09-01        |
+| CWNCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the West North Central Census Division           | 1988-01-01          | 2022-09-01        |
+| CWNCBPPRIV            | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-09-01        |
+| CWNCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the West North Central Census Division                              | 1988-01-01          | 2022-09-01        |
+| CWNCLF                | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-09-01        |
+| CWNCLFN               | Civilian Labor Force in West North Central Census Division                                                                       | 1976-01-01          | 2022-09-01        |
 | CWNCPOP               | Resident Population in the West North Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |
 | CWNCSTHPI             | All-Transactions House Price Index for the West North Central Census Division                                                    | 1975-01-01          | 2022-04-01        |
-| CWNCUR                | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2022-08-01        |
-| CWNCURN               | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2022-08-01        |
+| CWNCUR                | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2022-09-01        |
+| CWNCURN               | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2022-09-01        |
 | LASRD840000000000004  | Unemployed Persons in West North Central Census Division                                                                         | 1976-01-01          | 2022-08-01        |
 | LASRD840000000000005  | Employed Persons in West North Central Census Division                                                                           | 1976-01-01          | 2022-08-01        |
 | LAURD840000000000003A | Unemployment Rate in West North Central Census Division                                                                          | 1976-01-01          | 2021-01-01        |
@@ -27,7 +27,7 @@
 | PCU221122221122414    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for West North Central Census Division | 1990-12-01          | 2022-09-01        |
 | PCU221122221122424    | Producer Price Index by Industry: Electric Power Distribution: Commercial Electric Power for West North Central Census Division  | 1971-01-01          | 2022-09-01        |
 | PCU221122221122434    | Producer Price Index by Industry: Electric Power Distribution: Industrial Electric Power for West North Central Census Division  | 1971-01-01          | 2022-09-01        |
-| PONHPI00107M226N      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-07-01        |
-| PONHPI00107M226S      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-07-01        |
+| PONHPI00107M226N      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-08-01        |
+| PONHPI00107M226S      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-08-01        |
 | PONHPI10700Q226N      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-04-01        |
 | PONHPI10700Q226S      | Purchase Only House Price Index for the West North Central Census Division                                                       | 1991-01-01          | 2022-04-01        |

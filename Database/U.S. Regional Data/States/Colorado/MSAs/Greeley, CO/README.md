@@ -20,10 +20,10 @@
 | ENUC245440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC245440510             | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC245440510SA           | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
-| GREE508BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-08-01        |
-| GREE508BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-08-01        |
-| GREE508BPPRIV             | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-08-01        |
-| GREE508BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-08-01        |
+| GREE508BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-09-01        |
+| GREE508BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-09-01        |
+| GREE508BPPRIV             | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-09-01        |
+| GREE508BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-09-01        |
 | GREE508EDUH               | All Employees: Education and Health Services in Greeley, CO (MSA)                                            | 1990-01-01          | 2022-09-01        |
 | GREE508EDUHN              | All Employees: Education and Health Services in Greeley, CO (MSA)                                            | 1990-01-01          | 2022-09-01        |
 | GREE508FIRE               | All Employees: Financial Activities in Greeley, CO (MSA)                                                     | 1990-01-01          | 2022-09-01        |

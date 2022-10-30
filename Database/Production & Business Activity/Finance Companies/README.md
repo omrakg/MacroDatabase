@@ -1,151 +1,151 @@
 | id               | title                                                                                                                     | observation_start   | observation_end   |
 |------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DTBNELNM         | Business Equipment Loans Securitized by Finance Companies, Level                                                          | 1992-06-01          | 2022-07-01        |
-| DTBNELXDFBANA    | Business Equipment Loans Securitized by Finance Companies, Flow                                                           | 1992-07-01          | 2022-07-01        |
-| DTBNELXDFBANM    | Business Equipment Loans Securitized by Finance Companies, Flow                                                           | 1992-07-01          | 2022-07-01        |
-| DTBNENM          | Business Equipment Loans and Leases Securitized by Finance Companies, Level                                               | 1990-06-01          | 2022-07-01        |
-| DTBNERNM         | Business Equipment Leases Securitized by Finance Companies, Level                                                         | 1990-06-01          | 2022-07-01        |
-| DTBNERXDFBANA    | Business Equipment Leases Securitized by Finance Companies, Flow                                                          | 1990-07-01          | 2022-07-01        |
-| DTBNERXDFBANM    | Business Equipment Leases Securitized by Finance Companies, Flow                                                          | 1990-07-01          | 2022-07-01        |
-| DTBNEXDFBANA     | Business Equipment Loans and Leases Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-07-01        |
-| DTBNEXDFBANM     | Business Equipment Loans and Leases Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-07-01        |
-| DTBNONM          | Other Business Receivables Securitized by Finance Companies, Level                                                        | 1990-12-01          | 2022-07-01        |
-| DTBNOXDFBANA     | Other Business Receivables Securitized by Finance Companies, Flow                                                         | 1991-01-01          | 2022-07-01        |
-| DTBNOXDFBANM     | Other Business Receivables Securitized by Finance Companies, Flow                                                         | 1991-01-01          | 2022-07-01        |
-| DTBNVLRNM        | Business Retail Motor Vehicle Loans Securitized by Finance Companies, Level                                               | 1990-06-01          | 2022-07-01        |
-| DTBNVLRXDFBANA   | Business Retail Motor Vehicle Loans Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-07-01        |
-| DTBNVLRXDFBANM   | Business Retail Motor Vehicle Loans Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-07-01        |
-| DTBNVLWNM        | Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Level                                            | 1990-08-01          | 2022-07-01        |
-| DTBNVLWXDFBANA   | Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Flow                                             | 1990-09-01          | 2022-07-01        |
-| DTBNVLWXDFBANM   | Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Flow                                             | 1990-09-01          | 2022-07-01        |
-| DTBNVNM          | Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Level                                           | 1990-06-01          | 2022-07-01        |
-| DTBNVRNM         | Business Motor Vehicle Leases Securitized by Finance Companies, Level                                                     | 1996-06-01          | 2022-07-01        |
-| DTBNVRXDFBANA    | Business Motor Vehicle Leases Securitized by Finance Companies, Flow                                                      | 1996-07-01          | 2022-07-01        |
-| DTBNVRXDFBANM    | Business Motor Vehicle Leases Securitized by Finance Companies, Flow                                                      | 1996-07-01          | 2022-07-01        |
-| DTBNVXDFBANA     | Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                            | 1990-07-01          | 2022-07-01        |
-| DTBNVXDFBANM     | Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                            | 1990-07-01          | 2022-07-01        |
-| DTBOELNM         | Business Equipment Loans Owned by Finance Companies, Level                                                                | 1985-06-01          | 2022-07-01        |
-| DTBOELXDFBANA    | Business Equipment Loans Owned by Finance Companies, Flow                                                                 | 1985-07-01          | 2022-07-01        |
-| DTBOELXDFBANM    | Business Equipment Loans Owned by Finance Companies, Flow                                                                 | 1985-07-01          | 2022-07-01        |
-| DTBOENM          | Business Equipment Loans and Leases Owned by Finance Companies, Level                                                     | 1985-06-01          | 2022-07-01        |
-| DTBOERNM         | Business Equipment Leases Owned by Finance Companies, Level                                                               | 1985-06-01          | 2022-07-01        |
-| DTBOERXDFBANA    | Business Equipment Leases Owned by Finance Companies, Flow                                                                | 1985-07-01          | 2022-07-01        |
-| DTBOERXDFBANM    | Business Equipment Leases Owned by Finance Companies, Flow                                                                | 1985-07-01          | 2022-07-01        |
-| DTBOEXDFBANA     | Business Equipment Loans and Leases Owned by Finance Companies, Flow                                                      | 1985-07-01          | 2022-07-01        |
-| DTBOEXDFBANM     | Business Equipment Loans and Leases Owned by Finance Companies, Flow                                                      | 1985-07-01          | 2022-07-01        |
-| DTBOONM          | Other Business Receivables Owned by Finance Companies, Level                                                              | 1980-06-01          | 2022-07-01        |
-| DTBOOXDFBANA     | Other Business Receivables Owned by Finance Companies, Flow                                                               | 1980-07-01          | 2022-07-01        |
-| DTBOOXDFBANM     | Other Business Receivables Owned by Finance Companies, Flow                                                               | 1980-07-01          | 2022-07-01        |
-| DTBOVLRNM        | Business Retail Motor Vehicle Loans Owned by Finance Companies, Level                                                     | 1980-06-01          | 2022-07-01        |
-| DTBOVLRXDFBANA   | Business Retail Motor Vehicle Loans Owned by Finance Companies, Flow                                                      | 1980-07-01          | 2022-07-01        |
-| DTBOVLRXDFBANM   | Business Retail Motor Vehicle Loans Owned by Finance Companies, Flow                                                      | 1980-07-01          | 2022-07-01        |
-| DTBOVLWNM        | Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Level                                                  | 1980-06-01          | 2022-07-01        |
-| DTBOVLWXDFBANA   | Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Flow                                                   | 1980-07-01          | 2022-07-01        |
-| DTBOVLWXDFBANM   | Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Flow                                                   | 1980-07-01          | 2022-07-01        |
-| DTBOVNM          | Business Motor Vehicle Loans and Leases Owned by Finance Companies, Level                                                 | 1980-06-01          | 2022-07-01        |
-| DTBOVRNM         | Business Motor Vehicle Leases Owned by Finance Companies, Level                                                           | 1980-06-01          | 2022-07-01        |
-| DTBOVRXDFBANA    | Business Motor Vehicle Leases Owned by Finance Companies, Flow                                                            | 1980-07-01          | 2022-07-01        |
-| DTBOVRXDFBANM    | Business Motor Vehicle Leases Owned by Finance Companies, Flow                                                            | 1980-07-01          | 2022-07-01        |
-| DTBOVXDFBANA     | Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                  | 1980-07-01          | 2022-07-01        |
-| DTBOVXDFBANM     | Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                  | 1980-07-01          | 2022-07-01        |
-| DTBTABAM         | Total Business Owned and Managed Receivables Outstanding Held by Finance Companies                                        | 1985-07-01          | 2022-07-01        |
-| DTBTELNM         | Business Equipment Loans Owned and Securitized by Finance Companies, Level                                                | 1992-06-01          | 2022-07-01        |
-| DTBTELXDFBANM    | Business Equipment Loans Owned and Securitized by Finance Companies, Flow                                                 | 1992-07-01          | 2022-07-01        |
-| DTBTENM          | Business Equipment Owned and Securitized by Finance Companies, Level                                                      | 2006-01-01          | 2022-07-01        |
-| DTBTERNM         | Business Equipment Leases Owned and Securitized by Finance Companies, Level                                               | 1990-06-01          | 2022-07-01        |
-| DTBTERXDFBANM    | Business Equipment Leases Owned and Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-07-01        |
-| DTBTEXDFBANM     | Business Equipment Owned and Securitized by Finance Companies, Flow                                                       | 2006-02-01          | 2022-07-01        |
-| DTBTM            | Total Business Loans and Leases Owned and Securitized by Finance Companies, Level                                         | 1985-06-01          | 2022-07-01        |
-| DTBTNM           | Total Business Loans and Leases Owned and Securitized by Finance Companies, Level                                         | 1980-06-01          | 2022-07-01        |
-| DTBTONM          | Other Business Loans Owned and Securitized by Finance Companies, Level                                                    | 1990-12-01          | 2022-07-01        |
-| DTBTOXDFBANM     | Other Business Loans Owned and Securitized by Finance Companies, Flow                                                     | 1991-01-01          | 2022-07-01        |
-| DTBTVLRNM        | Business Retail Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                     | 1990-06-01          | 2022-07-01        |
-| DTBTVLRXDFBANM   | Business Retail Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                      | 1990-07-01          | 2022-07-01        |
-| DTBTVLWNM        | Business Wholesale Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                  | 1990-08-01          | 2022-07-01        |
-| DTBTVLWXDFBANM   | Business Wholesale Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                   | 1990-09-01          | 2022-07-01        |
-| DTBTVNM          | Business Motor Vehicle Loans and Leases Owned and Securitized by Finance Companies, Level                                 | 2006-01-01          | 2022-07-01        |
-| DTBTVRNM         | Business Motor Vehicle Leases Owned and Securitized by Finance Companies, Level                                           | 1996-06-01          | 2022-07-01        |
-| DTBTVRXDFBANM    | Business Motor Vehicle Leases Owned and Securitized by Finance Companies, Flow                                            | 1996-07-01          | 2022-07-01        |
-| DTBTVXDFBANM     | Business Motor Vehicle Loans and Leases Owned and Securitized by Finance Companies, Flow                                  | 2006-02-01          | 2022-07-01        |
-| DTBTXDFBAA       | Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1985-07-01          | 2022-07-01        |
-| DTBTXDFBAM       | Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1985-07-01          | 2022-07-01        |
-| DTBTXDFBANA      | Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1980-07-01          | 2022-07-01        |
-| DTBTXDFBANM      | Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1980-07-01          | 2022-07-01        |
-| DTCNLNOHFNM      | Other Consumer Loans Securitized by Finance Companies, Level                                                              | 1989-01-01          | 2022-07-01        |
-| DTCNLNOHFXDFBANA | Other Consumer Loans Securitized by Finance Companies, Flow                                                               | 1989-02-01          | 2022-07-01        |
-| DTCNLNOHFXDFBANM | Other Consumer Loans Securitized by Finance Companies, Flow                                                               | 1989-02-01          | 2022-07-01        |
-| DTCNLNVHFNM      | Consumer Motor Vehicle Loans Securitized by Finance Companies, Level                                                      | 1989-01-01          | 2022-07-01        |
-| DTCNLNVHFXDFBANA | Consumer Motor Vehicle Loans Securitized by Finance Companies, Flow                                                       | 1989-02-01          | 2022-07-01        |
-| DTCNLNVHFXDFBANM | Consumer Motor Vehicle Loans Securitized by Finance Companies, Flow                                                       | 1989-02-01          | 2022-07-01        |
-| DTCNLRHFNM       | Revolving Consumer Credit Securitized by Finance Companies, Level                                                         | 1997-01-01          | 2022-07-01        |
-| DTCNLRHFXDFBANA  | Revolving Consumer Credit Securitized by Finance Companies, Flow                                                          | 1997-02-01          | 2022-07-01        |
-| DTCNLRHFXDFBANM  | Revolving Consumer Credit Securitized by Finance Companies, Flow                                                          | 1997-02-01          | 2022-07-01        |
-| DTCNRVHFNM       | Consumer Motor Vehicle Leases Securitized by Finance Companies, Level                                                     | 1990-06-01          | 2022-07-01        |
-| DTCNRVHFXDFBANA  | Consumer Motor Vehicle Leases Securitized by Finance Companies, Flow                                                      | 1990-07-01          | 2022-07-01        |
-| DTCNRVHFXDFBANM  | Consumer Motor Vehicle Leases Securitized by Finance Companies, Flow                                                      | 1990-07-01          | 2022-07-01        |
-| DTCOLNOHFNM      | Other Consumer Loans Owned by Finance Companies, Level                                                                    | 1943-01-01          | 2022-07-01        |
-| DTCOLNOHFXDFBANA | Other Consumer Loans Owned by Finance Companies, Flow                                                                     | 1943-02-01          | 2022-07-01        |
-| DTCOLNOHFXDFBANM | Other Consumer Loans Owned by Finance Companies, Flow                                                                     | 1943-02-01          | 2022-07-01        |
-| DTCOLNVHFNM      | Consumer Motor Vehicle Loans Owned by Finance Companies, Level                                                            | 1943-01-01          | 2022-07-01        |
-| DTCOLNVHFXDFBANA | Consumer Motor Vehicle Loans Owned by Finance Companies, Flow                                                             | 1943-02-01          | 2022-07-01        |
-| DTCOLNVHFXDFBANM | Consumer Motor Vehicle Loans Owned by Finance Companies, Flow                                                             | 1943-02-01          | 2022-07-01        |
-| DTCOLRHFNM       | Revolving Consumer Credit Owned by Finance Companies, Level                                                               | 1984-12-01          | 2022-07-01        |
-| DTCOLRHFXDFBANA  | Revolving Consumer Credit Owned by Finance Companies, Flow                                                                | 1985-01-01          | 2022-07-01        |
-| DTCOLRHFXDFBANM  | Revolving Consumer Credit Owned by Finance Companies, Flow                                                                | 1985-01-01          | 2022-07-01        |
-| DTCORVHFNM       | Consumer Motor Vehicle Leases Owned by Finance Companies, Level                                                           | 1980-06-01          | 2022-07-01        |
-| DTCORVHFXDFBANA  | Consumer Motor Vehicle Leases Owned by Finance Companies, Flow                                                            | 1980-07-01          | 2022-07-01        |
-| DTCORVHFXDFBANM  | Consumer Motor Vehicle Leases Owned by Finance Companies, Flow                                                            | 1980-07-01          | 2022-07-01        |
-| DTCTHFABAM       | Total Consumer Owned and Managed Receivables Outstanding Held by Finance Companies                                        | 1985-07-01          | 2022-07-01        |
-| DTCTHFM          | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level                                         | 1985-06-01          | 2022-07-01        |
-| DTCTHFNM         | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level                                         | 1943-01-01          | 2022-07-01        |
-| DTCTHFXDFBAA     | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1985-07-01          | 2022-07-01        |
-| DTCTHFXDFBAM     | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1985-07-01          | 2022-07-01        |
-| DTCTHFXDFBANA    | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1943-02-01          | 2022-07-01        |
-| DTCTHFXDFBANM    | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1943-02-01          | 2022-07-01        |
-| DTCTLNOHFNM      | Other Consumer Loans Owned and Securitized by Finance Companies, Level                                                    | 1989-01-01          | 2022-07-01        |
-| DTCTLNOHFXDFBANM | Other Consumer Loans Owned and Securitized by Finance Companies, Flow                                                     | 1989-02-01          | 2022-07-01        |
-| DTCTLNVHFNM      | Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                            | 1989-01-01          | 2022-07-01        |
-| DTCTLNVHFXDFBANM | Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                             | 1989-02-01          | 2022-07-01        |
-| DTCTLRHFNM       | Revolving Consumer Credit Owned and Securitized by Finance Companies, Level                                               | 1984-12-01          | 2022-07-01        |
-| DTCTLRHFXDFBANM  | Revolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                                | 1985-01-01          | 2022-07-01        |
+| DTBNELNM         | Business Equipment Loans Securitized by Finance Companies, Level                                                          | 1992-06-01          | 2022-08-01        |
+| DTBNELXDFBANA    | Business Equipment Loans Securitized by Finance Companies, Flow                                                           | 1992-07-01          | 2022-08-01        |
+| DTBNELXDFBANM    | Business Equipment Loans Securitized by Finance Companies, Flow                                                           | 1992-07-01          | 2022-08-01        |
+| DTBNENM          | Business Equipment Loans and Leases Securitized by Finance Companies, Level                                               | 1990-06-01          | 2022-08-01        |
+| DTBNERNM         | Business Equipment Leases Securitized by Finance Companies, Level                                                         | 1990-06-01          | 2022-08-01        |
+| DTBNERXDFBANA    | Business Equipment Leases Securitized by Finance Companies, Flow                                                          | 1990-07-01          | 2022-08-01        |
+| DTBNERXDFBANM    | Business Equipment Leases Securitized by Finance Companies, Flow                                                          | 1990-07-01          | 2022-08-01        |
+| DTBNEXDFBANA     | Business Equipment Loans and Leases Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-08-01        |
+| DTBNEXDFBANM     | Business Equipment Loans and Leases Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-08-01        |
+| DTBNONM          | Other Business Receivables Securitized by Finance Companies, Level                                                        | 1990-12-01          | 2022-08-01        |
+| DTBNOXDFBANA     | Other Business Receivables Securitized by Finance Companies, Flow                                                         | 1991-01-01          | 2022-08-01        |
+| DTBNOXDFBANM     | Other Business Receivables Securitized by Finance Companies, Flow                                                         | 1991-01-01          | 2022-08-01        |
+| DTBNVLRNM        | Business Retail Motor Vehicle Loans Securitized by Finance Companies, Level                                               | 1990-06-01          | 2022-08-01        |
+| DTBNVLRXDFBANA   | Business Retail Motor Vehicle Loans Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-08-01        |
+| DTBNVLRXDFBANM   | Business Retail Motor Vehicle Loans Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-08-01        |
+| DTBNVLWNM        | Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Level                                            | 1990-08-01          | 2022-08-01        |
+| DTBNVLWXDFBANA   | Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Flow                                             | 1990-09-01          | 2022-08-01        |
+| DTBNVLWXDFBANM   | Business Wholesale Motor Vehicle Loans Securitized by Finance Companies, Flow                                             | 1990-09-01          | 2022-08-01        |
+| DTBNVNM          | Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Level                                           | 1990-06-01          | 2022-08-01        |
+| DTBNVRNM         | Business Motor Vehicle Leases Securitized by Finance Companies, Level                                                     | 1996-06-01          | 2022-08-01        |
+| DTBNVRXDFBANA    | Business Motor Vehicle Leases Securitized by Finance Companies, Flow                                                      | 1996-07-01          | 2022-08-01        |
+| DTBNVRXDFBANM    | Business Motor Vehicle Leases Securitized by Finance Companies, Flow                                                      | 1996-07-01          | 2022-08-01        |
+| DTBNVXDFBANA     | Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                            | 1990-07-01          | 2022-08-01        |
+| DTBNVXDFBANM     | Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                            | 1990-07-01          | 2022-08-01        |
+| DTBOELNM         | Business Equipment Loans Owned by Finance Companies, Level                                                                | 1985-06-01          | 2022-08-01        |
+| DTBOELXDFBANA    | Business Equipment Loans Owned by Finance Companies, Flow                                                                 | 1985-07-01          | 2022-08-01        |
+| DTBOELXDFBANM    | Business Equipment Loans Owned by Finance Companies, Flow                                                                 | 1985-07-01          | 2022-08-01        |
+| DTBOENM          | Business Equipment Loans and Leases Owned by Finance Companies, Level                                                     | 1985-06-01          | 2022-08-01        |
+| DTBOERNM         | Business Equipment Leases Owned by Finance Companies, Level                                                               | 1985-06-01          | 2022-08-01        |
+| DTBOERXDFBANA    | Business Equipment Leases Owned by Finance Companies, Flow                                                                | 1985-07-01          | 2022-08-01        |
+| DTBOERXDFBANM    | Business Equipment Leases Owned by Finance Companies, Flow                                                                | 1985-07-01          | 2022-08-01        |
+| DTBOEXDFBANA     | Business Equipment Loans and Leases Owned by Finance Companies, Flow                                                      | 1985-07-01          | 2022-08-01        |
+| DTBOEXDFBANM     | Business Equipment Loans and Leases Owned by Finance Companies, Flow                                                      | 1985-07-01          | 2022-08-01        |
+| DTBOONM          | Other Business Receivables Owned by Finance Companies, Level                                                              | 1980-06-01          | 2022-08-01        |
+| DTBOOXDFBANA     | Other Business Receivables Owned by Finance Companies, Flow                                                               | 1980-07-01          | 2022-08-01        |
+| DTBOOXDFBANM     | Other Business Receivables Owned by Finance Companies, Flow                                                               | 1980-07-01          | 2022-08-01        |
+| DTBOVLRNM        | Business Retail Motor Vehicle Loans Owned by Finance Companies, Level                                                     | 1980-06-01          | 2022-08-01        |
+| DTBOVLRXDFBANA   | Business Retail Motor Vehicle Loans Owned by Finance Companies, Flow                                                      | 1980-07-01          | 2022-08-01        |
+| DTBOVLRXDFBANM   | Business Retail Motor Vehicle Loans Owned by Finance Companies, Flow                                                      | 1980-07-01          | 2022-08-01        |
+| DTBOVLWNM        | Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Level                                                  | 1980-06-01          | 2022-08-01        |
+| DTBOVLWXDFBANA   | Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Flow                                                   | 1980-07-01          | 2022-08-01        |
+| DTBOVLWXDFBANM   | Business Wholesale Motor Vehicle Loans Owned by Finance Companies, Flow                                                   | 1980-07-01          | 2022-08-01        |
+| DTBOVNM          | Business Motor Vehicle Loans and Leases Owned by Finance Companies, Level                                                 | 1980-06-01          | 2022-08-01        |
+| DTBOVRNM         | Business Motor Vehicle Leases Owned by Finance Companies, Level                                                           | 1980-06-01          | 2022-08-01        |
+| DTBOVRXDFBANA    | Business Motor Vehicle Leases Owned by Finance Companies, Flow                                                            | 1980-07-01          | 2022-08-01        |
+| DTBOVRXDFBANM    | Business Motor Vehicle Leases Owned by Finance Companies, Flow                                                            | 1980-07-01          | 2022-08-01        |
+| DTBOVXDFBANA     | Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                  | 1980-07-01          | 2022-08-01        |
+| DTBOVXDFBANM     | Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                  | 1980-07-01          | 2022-08-01        |
+| DTBTABAM         | Total Business Owned and Managed Receivables Outstanding Held by Finance Companies                                        | 1985-07-01          | 2022-08-01        |
+| DTBTELNM         | Business Equipment Loans Owned and Securitized by Finance Companies, Level                                                | 1992-06-01          | 2022-08-01        |
+| DTBTELXDFBANM    | Business Equipment Loans Owned and Securitized by Finance Companies, Flow                                                 | 1992-07-01          | 2022-08-01        |
+| DTBTENM          | Business Equipment Owned and Securitized by Finance Companies, Level                                                      | 2006-01-01          | 2022-08-01        |
+| DTBTERNM         | Business Equipment Leases Owned and Securitized by Finance Companies, Level                                               | 1990-06-01          | 2022-08-01        |
+| DTBTERXDFBANM    | Business Equipment Leases Owned and Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-08-01        |
+| DTBTEXDFBANM     | Business Equipment Owned and Securitized by Finance Companies, Flow                                                       | 2006-02-01          | 2022-08-01        |
+| DTBTM            | Total Business Loans and Leases Owned and Securitized by Finance Companies, Level                                         | 1985-06-01          | 2022-08-01        |
+| DTBTNM           | Total Business Loans and Leases Owned and Securitized by Finance Companies, Level                                         | 1980-06-01          | 2022-08-01        |
+| DTBTONM          | Other Business Loans Owned and Securitized by Finance Companies, Level                                                    | 1990-12-01          | 2022-08-01        |
+| DTBTOXDFBANM     | Other Business Loans Owned and Securitized by Finance Companies, Flow                                                     | 1991-01-01          | 2022-08-01        |
+| DTBTVLRNM        | Business Retail Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                     | 1990-06-01          | 2022-08-01        |
+| DTBTVLRXDFBANM   | Business Retail Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                      | 1990-07-01          | 2022-08-01        |
+| DTBTVLWNM        | Business Wholesale Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                  | 1990-08-01          | 2022-08-01        |
+| DTBTVLWXDFBANM   | Business Wholesale Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                   | 1990-09-01          | 2022-08-01        |
+| DTBTVNM          | Business Motor Vehicle Loans and Leases Owned and Securitized by Finance Companies, Level                                 | 2006-01-01          | 2022-08-01        |
+| DTBTVRNM         | Business Motor Vehicle Leases Owned and Securitized by Finance Companies, Level                                           | 1996-06-01          | 2022-08-01        |
+| DTBTVRXDFBANM    | Business Motor Vehicle Leases Owned and Securitized by Finance Companies, Flow                                            | 1996-07-01          | 2022-08-01        |
+| DTBTVXDFBANM     | Business Motor Vehicle Loans and Leases Owned and Securitized by Finance Companies, Flow                                  | 2006-02-01          | 2022-08-01        |
+| DTBTXDFBAA       | Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1985-07-01          | 2022-08-01        |
+| DTBTXDFBAM       | Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1985-07-01          | 2022-08-01        |
+| DTBTXDFBANA      | Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1980-07-01          | 2022-08-01        |
+| DTBTXDFBANM      | Total Business Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1980-07-01          | 2022-08-01        |
+| DTCNLNOHFNM      | Other Consumer Loans Securitized by Finance Companies, Level                                                              | 1989-01-01          | 2022-08-01        |
+| DTCNLNOHFXDFBANA | Other Consumer Loans Securitized by Finance Companies, Flow                                                               | 1989-02-01          | 2022-08-01        |
+| DTCNLNOHFXDFBANM | Other Consumer Loans Securitized by Finance Companies, Flow                                                               | 1989-02-01          | 2022-08-01        |
+| DTCNLNVHFNM      | Consumer Motor Vehicle Loans Securitized by Finance Companies, Level                                                      | 1989-01-01          | 2022-08-01        |
+| DTCNLNVHFXDFBANA | Consumer Motor Vehicle Loans Securitized by Finance Companies, Flow                                                       | 1989-02-01          | 2022-08-01        |
+| DTCNLNVHFXDFBANM | Consumer Motor Vehicle Loans Securitized by Finance Companies, Flow                                                       | 1989-02-01          | 2022-08-01        |
+| DTCNLRHFNM       | Revolving Consumer Credit Securitized by Finance Companies, Level                                                         | 1997-01-01          | 2022-08-01        |
+| DTCNLRHFXDFBANA  | Revolving Consumer Credit Securitized by Finance Companies, Flow                                                          | 1997-02-01          | 2022-08-01        |
+| DTCNLRHFXDFBANM  | Revolving Consumer Credit Securitized by Finance Companies, Flow                                                          | 1997-02-01          | 2022-08-01        |
+| DTCNRVHFNM       | Consumer Motor Vehicle Leases Securitized by Finance Companies, Level                                                     | 1990-06-01          | 2022-08-01        |
+| DTCNRVHFXDFBANA  | Consumer Motor Vehicle Leases Securitized by Finance Companies, Flow                                                      | 1990-07-01          | 2022-08-01        |
+| DTCNRVHFXDFBANM  | Consumer Motor Vehicle Leases Securitized by Finance Companies, Flow                                                      | 1990-07-01          | 2022-08-01        |
+| DTCOLNOHFNM      | Other Consumer Loans Owned by Finance Companies, Level                                                                    | 1943-01-01          | 2022-08-01        |
+| DTCOLNOHFXDFBANA | Other Consumer Loans Owned by Finance Companies, Flow                                                                     | 1943-02-01          | 2022-08-01        |
+| DTCOLNOHFXDFBANM | Other Consumer Loans Owned by Finance Companies, Flow                                                                     | 1943-02-01          | 2022-08-01        |
+| DTCOLNVHFNM      | Consumer Motor Vehicle Loans Owned by Finance Companies, Level                                                            | 1943-01-01          | 2022-08-01        |
+| DTCOLNVHFXDFBANA | Consumer Motor Vehicle Loans Owned by Finance Companies, Flow                                                             | 1943-02-01          | 2022-08-01        |
+| DTCOLNVHFXDFBANM | Consumer Motor Vehicle Loans Owned by Finance Companies, Flow                                                             | 1943-02-01          | 2022-08-01        |
+| DTCOLRHFNM       | Revolving Consumer Credit Owned by Finance Companies, Level                                                               | 1984-12-01          | 2022-08-01        |
+| DTCOLRHFXDFBANA  | Revolving Consumer Credit Owned by Finance Companies, Flow                                                                | 1985-01-01          | 2022-08-01        |
+| DTCOLRHFXDFBANM  | Revolving Consumer Credit Owned by Finance Companies, Flow                                                                | 1985-01-01          | 2022-08-01        |
+| DTCORVHFNM       | Consumer Motor Vehicle Leases Owned by Finance Companies, Level                                                           | 1980-06-01          | 2022-08-01        |
+| DTCORVHFXDFBANA  | Consumer Motor Vehicle Leases Owned by Finance Companies, Flow                                                            | 1980-07-01          | 2022-08-01        |
+| DTCORVHFXDFBANM  | Consumer Motor Vehicle Leases Owned by Finance Companies, Flow                                                            | 1980-07-01          | 2022-08-01        |
+| DTCTHFABAM       | Total Consumer Owned and Managed Receivables Outstanding Held by Finance Companies                                        | 1985-07-01          | 2022-08-01        |
+| DTCTHFM          | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level                                         | 1985-06-01          | 2022-08-01        |
+| DTCTHFNM         | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Level                                         | 1943-01-01          | 2022-08-01        |
+| DTCTHFXDFBAA     | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1985-07-01          | 2022-08-01        |
+| DTCTHFXDFBAM     | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1985-07-01          | 2022-08-01        |
+| DTCTHFXDFBANA    | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1943-02-01          | 2022-08-01        |
+| DTCTHFXDFBANM    | Total Consumer Loans and Leases Owned and Securitized by Finance Companies, Flow                                          | 1943-02-01          | 2022-08-01        |
+| DTCTLNOHFNM      | Other Consumer Loans Owned and Securitized by Finance Companies, Level                                                    | 1989-01-01          | 2022-08-01        |
+| DTCTLNOHFXDFBANM | Other Consumer Loans Owned and Securitized by Finance Companies, Flow                                                     | 1989-02-01          | 2022-08-01        |
+| DTCTLNVHFNM      | Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Level                                            | 1989-01-01          | 2022-08-01        |
+| DTCTLNVHFXDFBANM | Consumer Motor Vehicle Loans Owned and Securitized by Finance Companies, Flow                                             | 1989-02-01          | 2022-08-01        |
+| DTCTLRHFNM       | Revolving Consumer Credit Owned and Securitized by Finance Companies, Level                                               | 1984-12-01          | 2022-08-01        |
+| DTCTLRHFXDFBANM  | Revolving Consumer Credit Owned and Securitized by Finance Companies, Flow                                                | 1985-01-01          | 2022-08-01        |
 | DTCTLVENANM      | Average Amount Financed for New Car Loans at Finance Companies                                                            | 2008-03-01          | 2022-06-01        |
 | DTCTLVENANQ      | Average Amount Financed for New Car Loans at Finance Companies                                                            | 2008-01-01          | 2022-04-01        |
 | DTCTLVENMNM      | Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                        | 2008-03-01          | 2022-06-01        |
 | DTCTLVENMNQ      | Average Maturity of New Car Loans at Finance Companies, Amount of Finance Weighted                                        | 2008-01-01          | 2022-04-01        |
 | DTCTLVEUANQ      | Average Amount Financed for Used Car Loans at Finance Companies                                                           | 2008-01-01          | 2022-04-01        |
 | DTCTLVEUMNQ      | Average Maturity of Used Car Loans at Finance Companies, Amount of Finance Weighted                                       | 2008-01-01          | 2022-04-01        |
-| DTCTRVHFNM       | Consumer Motor Vehicle Leases Owned and Securitized by Finance Companies, Level                                           | 1990-06-01          | 2022-07-01        |
-| DTCTRVHFXDFBANM  | Consumer Motor Vehicle Leases Owned and Securitized by Finance Companies, Flow                                            | 1990-07-01          | 2022-07-01        |
-| DTRNONM          | Other Real Estate Loans Securitized by Finance Companies, Level                                                           | 1996-06-01          | 2022-07-01        |
-| DTRNOXDFBANA     | Other Real Estate Loans Securitized by Finance Companies, Flow                                                            | 1996-07-01          | 2022-07-01        |
-| DTRNOXDFBANM     | Other Real Estate Loans Securitized by Finance Companies, Flow                                                            | 1996-07-01          | 2022-07-01        |
-| DTRNSNM          | One to Four Family Real Estate Loans Securitized by Finance Companies, Level                                              | 1996-06-01          | 2022-07-01        |
-| DTRNSXDFBANA     | One to Four Family Real Estate Loans Securitized by Finance Companies, Flow                                               | 1996-07-01          | 2022-07-01        |
-| DTRNSXDFBANM     | One to Four Family Real Estate Loans Securitized by Finance Companies, Flow                                               | 1996-07-01          | 2022-07-01        |
-| DTROONM          | Other Real Estate Loans Owned by Finance Companies, Level                                                                 | 1970-06-01          | 2022-07-01        |
-| DTROOXDFBANA     | Other Real Estate Loans Owned by Finance Companies, Flow                                                                  | 1970-07-01          | 2022-07-01        |
-| DTROOXDFBANM     | Other Real Estate Loans Owned by Finance Companies, Flow                                                                  | 1970-07-01          | 2022-07-01        |
-| DTROSNM          | One to Four Family Real Estate Loans Owned by Finance Companies, Level                                                    | 1970-06-01          | 2022-07-01        |
-| DTROSXDFBANA     | One to Four Family Real Estate Loans Owned by Finance Companies, Flow                                                     | 1970-07-01          | 2022-07-01        |
-| DTROSXDFBANM     | One to Four Family Real Estate Loans Owned by Finance Companies, Flow                                                     | 1970-07-01          | 2022-07-01        |
-| DTRTABAM         | Total Real Estate Owned and Managed Receivables Outstanding Held by Finance Companies                                     | 1970-07-01          | 2022-07-01        |
-| DTRTM            | Total Real Estate Loans Owned and Securitized by Finance Companies, Level                                                 | 1970-06-01          | 2022-07-01        |
-| DTRTNM           | Total Real Estate Loans Owned and Securitized by Finance Companies, Level                                                 | 1970-06-01          | 2022-07-01        |
-| DTRTONM          | Other Real Estate Loans Owned and Securitized by Finance Companies, Level                                                 | 2006-01-01          | 2022-07-01        |
-| DTRTOXDFBANM     | Other Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 2006-02-01          | 2022-07-01        |
-| DTRTSNM          | One to Four Family Real Estate Owned and Securitized by Finance Companies, Level                                          | 1996-06-01          | 2022-07-01        |
-| DTRTSXDFBANM     | One to Four Family Real Estate Owned and Securitized by Finance Companies, Flow                                           | 1996-07-01          | 2022-07-01        |
-| DTRTXDFBAA       | Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 1970-07-01          | 2022-07-01        |
-| DTRTXDFBAM       | Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 1970-07-01          | 2022-07-01        |
-| DTRTXDFBANA      | Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 1970-07-01          | 2022-07-01        |
-| DTRTXDFBANM      | Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 1970-07-01          | 2022-07-01        |
-| DTTHFABAM        | Total Owned and Managed Receivables Outstanding Held by Finance Companies                                                 | 1970-07-01          | 2022-07-01        |
-| DTTHFM           | Total Loans and Leases Outstanding at Domestic Finance Companies, Level                                                   | 1970-06-01          | 2022-07-01        |
-| DTTHFNM          | Total Loans and Leases Outstanding at Domestic Finance Companies, Level                                                   | 1943-01-01          | 2022-07-01        |
-| DTTHFXDFBAA      | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1970-07-01          | 2022-07-01        |
-| DTTHFXDFBAM      | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1970-07-01          | 2022-07-01        |
-| DTTHFXDFBANA     | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1943-02-01          | 2022-07-01        |
-| DTTHFXDFBANM     | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1943-02-01          | 2022-07-01        |
+| DTCTRVHFNM       | Consumer Motor Vehicle Leases Owned and Securitized by Finance Companies, Level                                           | 1990-06-01          | 2022-08-01        |
+| DTCTRVHFXDFBANM  | Consumer Motor Vehicle Leases Owned and Securitized by Finance Companies, Flow                                            | 1990-07-01          | 2022-08-01        |
+| DTRNONM          | Other Real Estate Loans Securitized by Finance Companies, Level                                                           | 1996-06-01          | 2022-08-01        |
+| DTRNOXDFBANA     | Other Real Estate Loans Securitized by Finance Companies, Flow                                                            | 1996-07-01          | 2022-08-01        |
+| DTRNOXDFBANM     | Other Real Estate Loans Securitized by Finance Companies, Flow                                                            | 1996-07-01          | 2022-08-01        |
+| DTRNSNM          | One to Four Family Real Estate Loans Securitized by Finance Companies, Level                                              | 1996-06-01          | 2022-08-01        |
+| DTRNSXDFBANA     | One to Four Family Real Estate Loans Securitized by Finance Companies, Flow                                               | 1996-07-01          | 2022-08-01        |
+| DTRNSXDFBANM     | One to Four Family Real Estate Loans Securitized by Finance Companies, Flow                                               | 1996-07-01          | 2022-08-01        |
+| DTROONM          | Other Real Estate Loans Owned by Finance Companies, Level                                                                 | 1970-06-01          | 2022-08-01        |
+| DTROOXDFBANA     | Other Real Estate Loans Owned by Finance Companies, Flow                                                                  | 1970-07-01          | 2022-08-01        |
+| DTROOXDFBANM     | Other Real Estate Loans Owned by Finance Companies, Flow                                                                  | 1970-07-01          | 2022-08-01        |
+| DTROSNM          | One to Four Family Real Estate Loans Owned by Finance Companies, Level                                                    | 1970-06-01          | 2022-08-01        |
+| DTROSXDFBANA     | One to Four Family Real Estate Loans Owned by Finance Companies, Flow                                                     | 1970-07-01          | 2022-08-01        |
+| DTROSXDFBANM     | One to Four Family Real Estate Loans Owned by Finance Companies, Flow                                                     | 1970-07-01          | 2022-08-01        |
+| DTRTABAM         | Total Real Estate Owned and Managed Receivables Outstanding Held by Finance Companies                                     | 1970-07-01          | 2022-08-01        |
+| DTRTM            | Total Real Estate Loans Owned and Securitized by Finance Companies, Level                                                 | 1970-06-01          | 2022-08-01        |
+| DTRTNM           | Total Real Estate Loans Owned and Securitized by Finance Companies, Level                                                 | 1970-06-01          | 2022-08-01        |
+| DTRTONM          | Other Real Estate Loans Owned and Securitized by Finance Companies, Level                                                 | 2006-01-01          | 2022-08-01        |
+| DTRTOXDFBANM     | Other Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 2006-02-01          | 2022-08-01        |
+| DTRTSNM          | One to Four Family Real Estate Owned and Securitized by Finance Companies, Level                                          | 1996-06-01          | 2022-08-01        |
+| DTRTSXDFBANM     | One to Four Family Real Estate Owned and Securitized by Finance Companies, Flow                                           | 1996-07-01          | 2022-08-01        |
+| DTRTXDFBAA       | Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 1970-07-01          | 2022-08-01        |
+| DTRTXDFBAM       | Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 1970-07-01          | 2022-08-01        |
+| DTRTXDFBANA      | Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 1970-07-01          | 2022-08-01        |
+| DTRTXDFBANM      | Total Real Estate Loans Owned and Securitized by Finance Companies, Flow                                                  | 1970-07-01          | 2022-08-01        |
+| DTTHFABAM        | Total Owned and Managed Receivables Outstanding Held by Finance Companies                                                 | 1970-07-01          | 2022-08-01        |
+| DTTHFM           | Total Loans and Leases Outstanding at Domestic Finance Companies, Level                                                   | 1970-06-01          | 2022-08-01        |
+| DTTHFNM          | Total Loans and Leases Outstanding at Domestic Finance Companies, Level                                                   | 1943-01-01          | 2022-08-01        |
+| DTTHFXDFBAA      | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1970-07-01          | 2022-08-01        |
+| DTTHFXDFBAM      | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1970-07-01          | 2022-08-01        |
+| DTTHFXDFBANA     | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1943-02-01          | 2022-08-01        |
+| DTTHFXDFBANM     | Total Loans and Leases Outstanding at Domestic Finance Companies, Flow                                                    | 1943-02-01          | 2022-08-01        |
 | RIELPCFANNM      | Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                    | 2008-03-01          | 2022-06-01        |
 | RIELPCFANNQ      | Average Finance Rate of New Car Loans at Finance Companies, Amount of Finance Weighted                                    | 2008-01-01          | 2022-04-01        |
 | RIELPCFAUNQ      | Average Finance Rate of Used Car Loans at Finance Companies, Amount of Finance Weighted                                   | 2008-01-01          | 2022-04-01        |

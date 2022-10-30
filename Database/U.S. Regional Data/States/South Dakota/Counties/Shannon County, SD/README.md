@@ -6,7 +6,7 @@
 | CDC20N2UAA046113      | Age-Adjusted Premature Death Rate for Shannon County, SD                                       | 1999-01-01          | 2020-01-01        |
 | DMPCRATE046113        | Rate of Preventable Hospital Admissions (5-year estimate) in Shannon County, SD                | 2008-01-01          | 2015-01-01        |
 | ENU4611320510         | Number of Private Establishments for All Industries in Shannon County, SD                      | 1990-01-01          | 2015-10-01        |
-| EQFXSUBPRIME046113    | Equifax Subprime Credit Population for Shannon County, SD                                      | 1999-01-01          | 2015-10-01        |
+| EQFXSUBPRIME046113    | Equifax Subprime Credit Population for Shannon County, SD                                      | 2014-04-01          | 2015-10-01        |
 | FBITC046113           | Combined Violent and Property Crime Offenses Known to Law Enforcement in Shannon County, SD    | 2014-01-01          | 2016-01-01        |
 | GDPALL46102           | Gross Domestic Product: All Industries in Oglala Lakota County, SD                             | 2001-01-01          | 2020-01-01        |
 | GDPGOODS46102         | Gross Domestic Product: Private Goods-Producing Industries in Oglala Lakota County, SD         | 2001-01-01          | 2020-01-01        |

@@ -16,7 +16,7 @@
 | Moniteau County, MO       |                90 |
 | Pulaski County, MO        |                90 |
 | Wayne County, MO          |                88 |
-| Pike County, MO           |                90 |
+| Pike County, MO           |                 0 |
 | Bollinger County, MO      |                89 |
 | Saline County, MO         |                90 |
 | Putnam County, MO         |                88 |
@@ -35,7 +35,7 @@
 | Polk County, MO           |                90 |
 | Howard County, MO         |                90 |
 | Oregon County, MO         |                89 |
-| Morgan County, MO         |                 0 |
+| Morgan County, MO         |                90 |
 | Pemiscot County, MO       |                89 |
 | Lewis County, MO          |                89 |
 | Holt County, MO           |                88 |
@@ -76,7 +76,7 @@
 | Laclede County, MO        |                90 |
 | Ralls County, MO          |                89 |
 | Scott County, MO          |                90 |
-| Washington County, MO     |                89 |
+| Washington County, MO     |                 0 |
 | Clark County, MO          |                89 |
 | Hickory County, MO        |                88 |
 | Warren County, MO         |                90 |
@@ -95,7 +95,7 @@
 | Christian County, MO      |               147 |
 | Gentry County, MO         |                88 |
 | Carter County, MO         |                88 |
-| St. Charles County, MO    |                 0 |
+| St. Charles County, MO    |               147 |
 | Ozark County, MO          |                89 |
 | Marion County, MO         |                89 |
 | Dent County, MO           |                89 |

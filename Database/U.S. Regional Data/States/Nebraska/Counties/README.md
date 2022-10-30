@@ -45,7 +45,7 @@
 | Deuel County, NE        |                88 |
 | Phelps County, NE       |                90 |
 | Lancaster County, NE    |               147 |
-| Nemaha County, NE       |                89 |
+| Nemaha County, NE       |                 0 |
 | Thurston County, NE     |                89 |
 | Knox County, NE         |                89 |
 | Arthur County, NE       |                82 |

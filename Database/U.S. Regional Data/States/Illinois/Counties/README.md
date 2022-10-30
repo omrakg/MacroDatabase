@@ -38,7 +38,7 @@
 | Bond County, IL        |                90 |
 | Montgomery County, IL  |                90 |
 | Pope County, IL        |                88 |
-| Cass County, IL        |                90 |
+| Cass County, IL        |                 0 |
 | Pike County, IL        |                89 |
 | Hamilton County, IL    |                87 |
 | Perry County, IL       |                90 |
@@ -82,7 +82,7 @@
 | Lee County, IL         |                90 |
 | Livingston County, IL  |                90 |
 | Moultrie County, IL    |                90 |
-| Mason County, IL       |                 0 |
+| Mason County, IL       |                90 |
 | Will County, IL        |               147 |
 | Menard County, IL      |                89 |
 | La Salle County, IL    |               147 |
@@ -98,7 +98,7 @@
 | Clark County, IL       |                90 |
 | Crawford County, IL    |                89 |
 | Macoupin County, IL    |               144 |
-| Grundy County, IL      |               146 |
+| Grundy County, IL      |                 0 |
 | Kendall County, IL     |               147 |
 | Clinton County, IL     |                90 |
 | Douglas County, IL     |                90 |

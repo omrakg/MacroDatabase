@@ -57,10 +57,10 @@
 | MELIPRMSA33260            | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
 | MELIPRVSUSMSA33260        | Market Hotness: Median Listing Price Versus the United States in Midland, TX (CBSA)                          | 2017-08-01          | 2022-09-01        |
 | MELIPRYYMSA33260          | Market Hotness: Median Listing Price in Midland, TX (CBSA)                                                   | 2017-08-01          | 2022-09-01        |
-| MIDL248BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-08-01        |
-| MIDL248BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-08-01        |
-| MIDL248BPPRIV             | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-08-01        |
-| MIDL248BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-08-01        |
+| MIDL248BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-09-01        |
+| MIDL248BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Midland, TX (MSA)            | 1988-01-01          | 2022-09-01        |
+| MIDL248BPPRIV             | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-09-01        |
+| MIDL248BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Midland, TX (MSA)                               | 1988-01-01          | 2022-09-01        |
 | MIDL248EDUH               | All Employees: Education and Health Services in Midland, TX (MSA)                                            | 1990-01-01          | 2022-09-01        |
 | MIDL248EDUHN              | All Employees: Education and Health Services in Midland, TX (MSA)                                            | 1990-01-01          | 2022-09-01        |
 | MIDL248FIRE               | All Employees: Financial Activities in Midland, TX (MSA)                                                     | 1990-01-01          | 2022-09-01        |

@@ -88,8 +88,8 @@
 | J3152C0A144NBEA | Taxes on corporate income: Domestic industries: Banking                                                                                               | 1948-01-01          | 1987-01-01        |
 | J3154C0A144NBEA | Taxes on corporate income: Domestic industries: Commercial and mutual banks                                                                           | 1948-01-01          | 1987-01-01        |
 | J3155C0A144NBEA | Taxes on corporate income: Domestic industries: Credit agencies other than banks                                                                      | 1948-01-01          | 1987-01-01        |
-| M318131A027NBEA | Federal government receipts: Timing differences: Taxes on corporate income (NIPA vs. Budget)                                                          | 1952-01-01          | 2020-01-01        |
-| M318131Q027NBEA | Federal government receipts: Timing differences: Taxes on corporate income (NIPA vs. Budget)                                                          | 1959-07-01          | 2020-10-01        |
+| M318131A027NBEA | Federal government receipts: Timing differences: Taxes on corporate income (NIPA vs. Budget)                                                          | 1952-01-01          | 2021-01-01        |
+| M318131Q027NBEA | Federal government receipts: Timing differences: Taxes on corporate income (NIPA vs. Budget)                                                          | 1959-07-01          | 2021-10-01        |
 | N3103C0A144NBEA | Taxes on corporate income: Domestic industries: Agriculture, forestry, fishing, and hunting                                                           | 1998-01-01          | 2021-01-01        |
 | N3104C0A144NBEA | Taxes on corporate income: Domestic industries: Farms                                                                                                 | 1998-01-01          | 2019-01-01        |
 | N3105C0A144NBEA | Taxes on corporate income: Domestic industries: Forestry, fishing, and related activities                                                             | 1998-01-01          | 2019-01-01        |
@@ -171,5 +171,5 @@
 | NA000272Q       | Gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Taxes on corporate income | 2002-01-01          | 2022-04-01        |
 | NA000322Q       | Federal government current tax receipts: Taxes on corporate income                                                                                    | 1947-01-01          | 2022-04-01        |
 | NA000323Q       | State and local government current tax receipts: Taxes on corporate income                                                                            | 1947-01-01          | 2022-04-01        |
-| W739RC1A027NBEA | State government current tax receipts: Taxes on corporate income                                                                                      | 1959-01-01          | 2020-01-01        |
-| W839RC1A027NBEA | Local government current tax receipts: Taxes on corporate income                                                                                      | 1959-01-01          | 2020-01-01        |
+| W739RC1A027NBEA | State government current tax receipts: Taxes on corporate income                                                                                      | 1959-01-01          | 2021-01-01        |
+| W839RC1A027NBEA | Local government current tax receipts: Taxes on corporate income                                                                                      | 1959-01-01          | 2021-01-01        |

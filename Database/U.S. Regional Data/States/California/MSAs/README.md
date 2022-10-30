@@ -19,7 +19,7 @@
 | Los Angeles-Long Beach-Anaheim, CA   |               332 |
 | Redding, CA                          |               167 |
 | Oxnard-Thousand Oaks-Ventura, CA     |               239 |
-| Fresno, CA                           |               246 |
+| Fresno, CA                           |                 0 |
 | Madera, CA                           |               150 |
 | San Jose-Sunnyvale-Santa Clara, CA   |               331 |
 | Riverside-San Bernardino-Ontario, CA |               364 |
