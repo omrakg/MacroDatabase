@@ -1,8 +1,8 @@
 {
   "Texas": {
     "id": "SMU48000004244110001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Retail Trade: Automobile Dealers in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -14,7 +14,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-10-22 02:14:38-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 2,
     "path": "Database/U.S. Regional Data/States/Texas"
   }
 }

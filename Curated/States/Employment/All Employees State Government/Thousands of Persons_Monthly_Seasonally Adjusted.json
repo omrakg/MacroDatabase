@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMS56000009092000001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Government: State Government in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -20,8 +20,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000009092000001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Government: State Government in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -33,7 +33,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-10-22 02:07:47-05",
     "popularity": 1,
-    "group_popularity": 8,
+    "group_popularity": 6,
     "path": "Database/U.S. Regional Data/States/Puerto Rico"
   },
   "Tennessee": {
@@ -74,8 +74,8 @@
   },
   "Utah": {
     "id": "SMU49000009092000001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Government: State Government in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -92,8 +92,8 @@
   },
   "Vermont": {
     "id": "SMU50000009092000001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Government: State Government in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -110,8 +110,8 @@
   },
   "Virginia": {
     "id": "SMU51000009092000001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Government: State Government in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -128,8 +128,8 @@
   },
   "Washington": {
     "id": "SMU53000009092000001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Government: State Government in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -146,8 +146,8 @@
   },
   "West Virginia": {
     "id": "SMU54000009092000001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Government: State Government in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -164,8 +164,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000009092000001",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "All Employees: Government: State Government in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",

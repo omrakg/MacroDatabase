@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142360001",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Wholesale Trade: Household Appliances and Electrical and Electronic Goods Merchant Wholesalers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142360001A",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Wholesale Trade: Household Appliances and Electrical and Electronic Goods Merchant Wholesalers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142360001SA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Wholesale Trade: Household Appliances and Electrical and Electronic Goods Merchant Wholesalers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",

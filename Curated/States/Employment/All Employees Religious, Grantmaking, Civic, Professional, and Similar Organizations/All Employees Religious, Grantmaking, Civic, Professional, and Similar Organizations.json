@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000008081300001",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Other Services: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -39,8 +39,8 @@
     },
     "Virginia": {
       "id": "SMU51000008081300001SA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Other Services: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -58,8 +58,8 @@
     },
     "Washington": {
       "id": "SMU53000008081300001SA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Other Services: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -79,8 +79,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000008081300001SA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Other Services: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -117,8 +117,8 @@
     },
     "Virginia": {
       "id": "SMU51000008081300001SA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Other Services: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -136,8 +136,8 @@
     },
     "Washington": {
       "id": "SMU53000008081300001SA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "All Employees: Other Services: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
