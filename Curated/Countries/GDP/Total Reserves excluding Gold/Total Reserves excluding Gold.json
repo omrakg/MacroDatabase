@@ -2,8 +2,8 @@
   "Dollars_Monthly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "TRESEGSAM052N",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Total Reserves excluding Gold for Saudi Arabia",
       "observation_start": "1957-12-01",
       "observation_end": "2022-08-01",
@@ -15,14 +15,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-10-11 15:00:46-05",
       "popularity": 1,
-      "group_popularity": 12,
+      "group_popularity": 8,
       "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     },
     "Argentina": {
       "id": "TRESEGARM194N",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Total Reserves excluding Gold for Argentina",
       "observation_start": "1950-12-01",
       "observation_end": "2022-08-01",
@@ -34,7 +34,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-26 07:10:06-05",
       "popularity": 1,
-      "group_popularity": 11,
+      "group_popularity": 10,
       "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Argentina"
     }
@@ -42,8 +42,8 @@
   "Special Drawing Rights_Monthly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "TRESEGSAM194N",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Total Reserves excluding Gold for Saudi Arabia",
       "observation_start": "1957-12-01",
       "observation_end": "2022-08-01",
@@ -54,15 +54,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-10-11 15:00:11-05",
-      "popularity": 11,
-      "group_popularity": 12,
+      "popularity": 8,
+      "group_popularity": 8,
       "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Saudi Arabia"
     },
     "Argentina": {
       "id": "TRESEGARM194N",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Total Reserves excluding Gold for Argentina",
       "observation_start": "1950-12-01",
       "observation_end": "2022-08-01",
@@ -74,7 +74,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-26 07:10:06-05",
       "popularity": 1,
-      "group_popularity": 11,
+      "group_popularity": 10,
       "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
       "path": "Database/International Data/Countries/Argentina"
     }

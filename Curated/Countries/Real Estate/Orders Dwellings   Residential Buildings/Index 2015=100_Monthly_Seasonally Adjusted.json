@@ -1,8 +1,8 @@
 {
   "Chile": {
     "id": "CHLPERMITMISMEI",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile",
     "observation_start": "1991-01-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Czech Republic": {
     "id": "CZEPERMITQISMEI",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Orders: Construction: Permits Issued: Dwellings / Residential Buildings for the Czech Republic",
     "observation_start": "1999-01-01",
     "observation_end": "2022-01-01",

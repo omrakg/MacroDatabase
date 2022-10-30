@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRPROMANAISMEI",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Production in Total Manufacturing for Israel",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Iceland": {
     "id": "ISLPROMANQISMEI",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Production in Total Manufacturing for Iceland",
     "observation_start": "1998-01-01",
     "observation_end": "2017-10-01",

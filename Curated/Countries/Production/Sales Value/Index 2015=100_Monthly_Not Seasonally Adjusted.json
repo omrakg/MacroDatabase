@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRSLRTTO02IXOBM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Sales: Retail trade: Total retail trade: Value for Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLSLRTTO02IXOBSAM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Sales: Retail trade: Total retail trade: Value for Chile",
     "observation_start": "2005-01-01",
     "observation_end": "2016-12-01",
@@ -39,8 +39,8 @@
   },
   "Colombia": {
     "id": "COLSLRTTO02IXOBSAQ",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Sales: Retail trade: Total retail trade: Value for Colombia",
     "observation_start": "1999-01-01",
     "observation_end": "2018-10-01",
@@ -58,8 +58,8 @@
   },
   "Czech Republic": {
     "id": "CZESLRTTO02IXOBSAQ",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Sales: Retail trade: Total retail trade: Value for the Czech Republic",
     "observation_start": "1996-01-01",
     "observation_end": "2022-04-01",
@@ -71,14 +71,14 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-09-14 15:07:47-05",
     "popularity": 1,
-    "group_popularity": 3,
+    "group_popularity": 1,
     "notes": "OECD descriptor ID: SLRTTO02 OECD unit ID: IXOBSA OECD country ID: CZE All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Czech Republic"
   },
   "Estonia": {
     "id": "ESTSLRTTO02IXOBSAM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Sales: Retail trade: Total retail trade: Value for Estonia",
     "observation_start": "1995-01-01",
     "observation_end": "2022-07-01",
@@ -96,8 +96,8 @@
   },
   "Iceland": {
     "id": "ISLSLRTTO02IXOBSAM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Sales: Retail trade: Total retail trade: Value for Iceland",
     "observation_start": "1991-01-01",
     "observation_end": "2017-07-01",

@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRLOLITOTRSTSAM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Leading Indicators OECD: Leading indicators: CLI: Trend restored for Israel",
     "observation_start": "1995-02-01",
     "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLLOLITOTRSTSAM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Leading Indicators OECD: Leading indicators: CLI: Trend restored for Chile",
     "observation_start": "1996-01-01",
     "observation_end": "2021-11-01",
@@ -39,8 +39,8 @@
   },
   "Czech Republic": {
     "id": "CZELOLITOTRSTSAM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Leading Indicators OECD: Leading indicators: CLI: Trend restored for the Czech Republic",
     "observation_start": "1995-02-01",
     "observation_end": "2022-05-01",
@@ -58,8 +58,8 @@
   },
   "Estonia": {
     "id": "ESTLOLITOTRSTSAM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Leading Indicators OECD: Leading indicators: CLI: Trend restored for Estonia",
     "observation_start": "1995-02-01",
     "observation_end": "2022-05-01",
@@ -77,8 +77,8 @@
   },
   "Hungary": {
     "id": "HUNLOLITOTRSTSAM",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Leading Indicators OECD: Leading indicators: CLI: Trend restored for Hungary",
     "observation_start": "1995-02-01",
     "observation_end": "2022-05-01",

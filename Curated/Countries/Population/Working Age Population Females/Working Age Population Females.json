@@ -2,8 +2,8 @@
   "Persons_Annual_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "LFWA55FETRA647N",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Working Age Population: Aged 55-64: Females for Turkey",
       "observation_start": "2006-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Persons_Annual_Seasonally Adjusted": {
     "Turkey": {
       "id": "LFWA55FETRA647S",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Working Age Population: Aged 55-64: Females for Turkey",
       "observation_start": "2006-01-01",
       "observation_end": "2021-01-01",
@@ -44,8 +44,8 @@
   "Persons_Quarterly_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "LFWA55FETRQ647N",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Working Age Population: Aged 55-64: Females for Turkey",
       "observation_start": "2006-01-01",
       "observation_end": "2022-01-01",
@@ -65,8 +65,8 @@
   "Persons_Quarterly_Seasonally Adjusted": {
     "Turkey": {
       "id": "LFWA55FETRQ647S",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Working Age Population: Aged 55-64: Females for Turkey",
       "observation_start": "2006-01-01",
       "observation_end": "2022-01-01",

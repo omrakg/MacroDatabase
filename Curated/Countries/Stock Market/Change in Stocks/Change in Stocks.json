@@ -2,8 +2,8 @@
   "Forint_Annual_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNCINSADSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -40,8 +40,8 @@
     },
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -52,8 +52,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:35:08-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 2,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -61,8 +61,8 @@
   "Forint_Quarterly_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -80,8 +80,8 @@
     },
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -99,8 +99,8 @@
     },
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -111,8 +111,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:35:08-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 2,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -120,8 +120,8 @@
   "Iceland Krona_Annual_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLCINSADSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -139,8 +139,8 @@
     },
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -158,8 +158,8 @@
     },
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -170,8 +170,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:35:08-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 2,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -179,8 +179,8 @@
   "Iceland Krona_Quarterly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -198,8 +198,8 @@
     },
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -217,8 +217,8 @@
     },
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -229,8 +229,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:35:08-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 2,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -238,8 +238,8 @@
   "Russian Ruble_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "RUSCINSADSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2020-01-01",
@@ -251,14 +251,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:41:52-05",
       "popularity": 1,
-      "group_popularity": 4,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -276,8 +276,8 @@
     },
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -297,8 +297,8 @@
   "Russian Ruble_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -309,15 +309,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:35:08-05",
-      "popularity": 4,
-      "group_popularity": 4,
+      "popularity": 2,
+      "group_popularity": 2,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Russian Federation"
     },
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -335,8 +335,8 @@
     },
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",

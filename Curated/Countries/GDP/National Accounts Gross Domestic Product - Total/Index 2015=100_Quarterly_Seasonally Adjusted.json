@@ -1,8 +1,8 @@
 {
   "Costa Rica": {
     "id": "CRINAEXKP01IXOBSAQ",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total for Costa Rica",
     "observation_start": "1991-01-01",
     "observation_end": "2022-04-01",
@@ -14,14 +14,14 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-09-14 15:09:06-05",
     "popularity": 1,
-    "group_popularity": 4,
+    "group_popularity": 3,
     "notes": "OECD descriptor ID: NAEXKP01 OECD unit ID: IXOBSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Costa Rica"
   },
   "Chile": {
     "id": "CHLGDPRQPSMEI",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total for Chile",
     "observation_start": "1996-01-01",
     "observation_end": "2021-10-01",
@@ -32,15 +32,15 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-04-14 14:24:31-05",
-    "popularity": 4,
-    "group_popularity": 27,
+    "popularity": 2,
+    "group_popularity": 26,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Chile"
   },
   "Colombia": {
     "id": "COLNAEXKP01STSAQ",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total for Colombia",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -52,14 +52,14 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-09-14 14:42:05-05",
     "popularity": 14,
-    "group_popularity": 17,
+    "group_popularity": 19,
     "notes": "OECD descriptor ID: NAEXKP01 OECD unit ID: STSA OECD country ID: COL All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Colombia"
   },
   "Czech Republic": {
     "id": "CZEGDPRQPSMEI",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product - Total for the Czech Republic",
     "observation_start": "1997-01-01",
     "observation_end": "2022-04-01",
@@ -71,7 +71,7 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-09-14 15:09:00-05",
     "popularity": 1,
-    "group_popularity": 3,
+    "group_popularity": 2,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Czech Republic"
   }

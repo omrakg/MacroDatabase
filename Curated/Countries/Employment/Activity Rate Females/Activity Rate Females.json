@@ -2,8 +2,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Colombia": {
       "id": "COLLRACTTFESTM",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Activity Rate: Aged 15 and over: Females for Colombia",
       "observation_start": "2007-01-01",
       "observation_end": "2022-07-01",
@@ -23,8 +23,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Colombia": {
       "id": "COLLRACTTFESTQ",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Activity Rate: Aged 15 and over: Females for Colombia",
       "observation_start": "2007-01-01",
       "observation_end": "2022-04-01",
@@ -44,8 +44,8 @@
   "Percent_Monthly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLLRACTTFESTSAM",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Activity Rate: Aged 15 and over: Females for Colombia",
       "observation_start": "2007-01-01",
       "observation_end": "2022-07-01",
@@ -65,8 +65,8 @@
   "Percent_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLLRACTTFESTSAQ",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Activity Rate: Aged 15 and over: Females for Colombia",
       "observation_start": "2007-01-01",
       "observation_end": "2022-04-01",

@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NNXGSRNSAXDCSAQ",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Real External Balance of Goods and Services for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
     },
     "Argentina": {
       "id": "NNXGSRXDCARA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Real External Balance of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -40,8 +40,8 @@
   "Domestic Currency_Quarterly_Seasonally Adjusted": {
     "Argentina": {
       "id": "NNXGSRSAXDCARQ",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Real External Balance of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
     },
     "Saudi Arabia": {
       "id": "NNXGSRXDCSAA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Real External Balance of Goods and Services for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -78,8 +78,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NNXGSRXDCSAA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Real External Balance of Goods and Services for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -96,8 +96,8 @@
     },
     "Argentina": {
       "id": "NNXGSRXDCARA",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Real External Balance of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",

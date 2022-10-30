@@ -1,8 +1,8 @@
 {
   "Argentina": {
     "id": "QARHAMXDCU",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Total Credit to Households and NPISHs, Unadjusted for Breaks, for Argentina",
     "observation_start": "1994-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Saudi Arabia": {
     "id": "QSAHAMXDCU",
-    "realtime_start": "2022-10-23",
-    "realtime_end": "2022-10-23",
+    "realtime_start": "2022-10-30",
+    "realtime_end": "2022-10-30",
     "title": "Total Credit to Households and NPISHs, Unadjusted for Breaks, for Saudi Arabia",
     "observation_start": "1998-01-01",
     "observation_end": "2022-01-01",

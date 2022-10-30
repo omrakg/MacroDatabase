@@ -2,8 +2,8 @@
   "Forint_Annual_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNGFCEADSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -40,8 +40,8 @@
     },
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
   "Forint_Quarterly_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -80,8 +80,8 @@
     },
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -99,8 +99,8 @@
     },
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -120,8 +120,8 @@
   "Iceland Krona_Annual_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLGFCEADSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -139,8 +139,8 @@
     },
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -158,8 +158,8 @@
     },
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -179,8 +179,8 @@
   "Iceland Krona_Quarterly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -198,8 +198,8 @@
     },
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -217,8 +217,8 @@
     },
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -238,8 +238,8 @@
   "New Israeli Sheqel_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGFCEADSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -257,8 +257,8 @@
     },
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -276,8 +276,8 @@
     },
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -297,8 +297,8 @@
   "New Israeli Sheqel_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -316,8 +316,8 @@
     },
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -335,8 +335,8 @@
     },
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-10-23",
-      "realtime_end": "2022-10-23",
+      "realtime_start": "2022-10-30",
+      "realtime_end": "2022-10-30",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
