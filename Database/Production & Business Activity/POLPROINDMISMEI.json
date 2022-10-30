@@ -1,7 +1,7 @@
 {
   "id": "POLPROINDMISMEI",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Production of Total Industry in Poland",
   "observation_start": "1985-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-09-14 14:47:10-05",
   "popularity": 5,
-  "group_popularity": 8,
+  "group_popularity": 7,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

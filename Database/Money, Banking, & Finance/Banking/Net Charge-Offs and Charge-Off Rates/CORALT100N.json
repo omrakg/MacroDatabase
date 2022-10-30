@@ -1,7 +1,7 @@
 {
   "id": "CORALT100N",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Charge-Off Rate on All Loans, Banks Ranked 1st to 100th Largest in Size by Assets",
   "observation_start": "1985-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-22 13:18:33-05",
-  "popularity": 4,
-  "group_popularity": 5,
+  "popularity": 3,
+  "group_popularity": 4,
   "notes": "Charge-off rates are annualized, net of recoveries. The 100 largest banks are measured by consolidated foreign and domestic assets."
 }

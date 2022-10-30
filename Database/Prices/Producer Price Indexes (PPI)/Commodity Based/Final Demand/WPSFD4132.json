@@ -1,7 +1,7 @@
 {
   "id": "WPSFD4132",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Producer Price Index by Commodity: Final Demand: Government Purchased Goods, Excluding Foods and Energy",
   "observation_start": "2009-11-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-12 07:58:32-05",
-  "popularity": 2,
-  "group_popularity": 5
+  "popularity": 1,
+  "group_popularity": 6
 }

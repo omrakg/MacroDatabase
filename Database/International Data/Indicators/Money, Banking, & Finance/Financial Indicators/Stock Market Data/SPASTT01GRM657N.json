@@ -1,7 +1,7 @@
 {
   "id": "SPASTT01GRM657N",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Total Share Prices for All Shares for Greece",
   "observation_start": "1985-02-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 14:53:33-05",
-  "popularity": 5,
-  "group_popularity": 7,
+  "popularity": 2,
+  "group_popularity": 4,
   "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: GP\nOECD country ID: GRC\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

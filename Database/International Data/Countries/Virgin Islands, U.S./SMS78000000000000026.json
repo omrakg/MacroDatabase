@@ -1,7 +1,7 @@
 {
   "id": "SMS78000000000000026",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "All Employees: Total Nonfarm in the U.S. Virgin Islands",
   "observation_start": "1990-04-01",
   "observation_end": "2022-09-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-22 02:51:30-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

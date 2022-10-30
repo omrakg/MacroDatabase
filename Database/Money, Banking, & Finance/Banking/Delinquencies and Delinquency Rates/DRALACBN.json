@@ -1,7 +1,7 @@
 {
   "id": "DRALACBN",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Delinquency Rate on All Loans, All Commercial Banks",
   "observation_start": "1985-01-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-22 13:18:05-05",
   "popularity": 61,
-  "group_popularity": 68
+  "group_popularity": 67
 }

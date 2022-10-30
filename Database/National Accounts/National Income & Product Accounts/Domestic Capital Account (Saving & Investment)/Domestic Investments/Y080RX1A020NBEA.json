@@ -1,7 +1,7 @@
 {
   "id": "Y080RX1A020NBEA",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Real private domestic investment: Fixed investment: Nonresidential: Consumption of fixed capital",
   "observation_start": "1967-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 13:56:25-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: Y080RX\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

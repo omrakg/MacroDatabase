@@ -1,7 +1,7 @@
 {
   "id": "FYONET",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Federal Net Outlays",
   "observation_start": "1901-06-30",
   "observation_end": "2022-09-30",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-21 10:36:06-05",
-  "popularity": 37,
-  "group_popularity": 37,
+  "popularity": 38,
+  "group_popularity": 38,
   "notes": "Dates represent the end of the fiscal year. Fiscal year series are updated with official OMB figures in January or February. In October, the latest fiscal year is updated with figures from the Treasury Department (September figures from the Treasury's fiscal year to date series)."
 }

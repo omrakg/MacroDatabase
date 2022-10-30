@@ -1,7 +1,7 @@
 {
   "id": "NGDPSAXDCGBQ",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Nominal Gross Domestic Product for Great Britain",
   "observation_start": "1955-01-01",
   "observation_end": "2022-04-01",
@@ -11,7 +11,7 @@
   "units_short": "Domestic Currency",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-09-05 07:10:04-05",
-  "popularity": 9,
-  "group_popularity": 10
+  "last_updated": "2022-10-24 07:09:04-05",
+  "popularity": 11,
+  "group_popularity": 12
 }

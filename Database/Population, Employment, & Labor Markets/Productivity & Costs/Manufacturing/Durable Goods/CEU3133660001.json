@@ -1,7 +1,7 @@
 {
   "id": "CEU3133660001",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "All Employees, Ship and Boat Building",
   "observation_start": "1939-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-07 07:44:23-05",
-  "popularity": 5,
-  "group_popularity": 7,
+  "popularity": 3,
+  "group_popularity": 4,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CEU3133660001"
 }

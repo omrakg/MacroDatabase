@@ -1,7 +1,7 @@
 {
   "id": "DPCERD3A086NBEA",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Personal consumption expenditures (implicit price deflator)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:45:55-05",
-  "popularity": 16,
-  "group_popularity": 53,
+  "popularity": 14,
+  "group_popularity": 54,
   "notes": "BEA Account Code: DPCERD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU10211201",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Other Metal Ores",
   "observation_start": "2003-12-01",
   "observation_end": "2022-05-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 08:04:23-05",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

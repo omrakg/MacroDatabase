@@ -1,7 +1,7 @@
 {
   "id": "WPS105601",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Enameled Iron and Metal Sanitary Ware (DISCONTINUED)",
   "observation_start": "1992-01-01",
   "observation_end": "1994-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:39:42-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 1
 }

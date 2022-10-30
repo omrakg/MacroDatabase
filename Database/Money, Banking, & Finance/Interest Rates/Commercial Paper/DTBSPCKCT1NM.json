@@ -1,7 +1,7 @@
 {
   "id": "DTBSPCKCT1NM",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Commercial Paper Outstanding, Tier-1",
   "observation_start": "2001-01-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 12:11:03-05",
-  "popularity": 5,
-  "group_popularity": 6,
+  "popularity": 6,
+  "group_popularity": 8,
   "notes": "For more information, please see http://www.federalreserve.gov/releases/cp/about.htm."
 }

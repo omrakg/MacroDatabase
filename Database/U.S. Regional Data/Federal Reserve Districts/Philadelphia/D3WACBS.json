@@ -1,17 +1,17 @@
 {
   "id": "D3WACBS",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Assets: Central Bank Liquidity Swaps: Central Bank Liquidity Swaps: Wednesday Level in Federal Reserve District 3: Philadelphia",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-10-19",
+  "observation_end": "2022-10-26",
   "frequency": "Weekly, As of Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-10-20 15:35:18-05",
+  "last_updated": "2022-10-27 15:35:21-05",
   "popularity": 1,
   "group_popularity": 1
 }

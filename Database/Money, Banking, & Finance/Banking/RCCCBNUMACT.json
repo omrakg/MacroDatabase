@@ -1,7 +1,7 @@
 {
   "id": "RCCCBNUMACT",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Large Bank Consumer Credit Card Balances: Number of Accounts",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:08-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "The total count of all consumer credit card accounts among firms included in the reporting panel. Reported accounts are as of the end of the current month's cycle. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "PCU5411105411108",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Producer Price Index by Industry: Offices of Lawyers: Family Legal Services",
   "observation_start": "2014-12-01",
   "observation_end": "2020-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-05-13 08:09:33-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

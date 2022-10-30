@@ -1,17 +1,17 @@
 {
   "id": "DTWEXBGS",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Nominal Broad U.S. Dollar Index",
   "observation_start": "2006-01-02",
-  "observation_end": "2022-10-14",
+  "observation_end": "2022-10-21",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Index Jan 2006=100",
   "units_short": "Index Jan 2006=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-10-17 15:19:03-05",
+  "last_updated": "2022-10-24 15:19:02-05",
   "popularity": 78,
   "group_popularity": 79
 }

@@ -1,7 +1,7 @@
 {
   "id": "PCU236221236221",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Producer Price Index by Industry: New Warehouse Building Construction",
   "observation_start": "2004-12-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 07:56:03-05",
-  "popularity": 22,
-  "group_popularity": 22
+  "popularity": 24,
+  "group_popularity": 24
 }

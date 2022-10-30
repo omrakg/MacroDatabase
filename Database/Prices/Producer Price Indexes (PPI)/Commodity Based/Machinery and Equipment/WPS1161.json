@@ -1,7 +1,7 @@
 {
   "id": "WPS1161",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Food Products Machinery",
   "observation_start": "1975-01-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-12 07:55:55-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 4
 }

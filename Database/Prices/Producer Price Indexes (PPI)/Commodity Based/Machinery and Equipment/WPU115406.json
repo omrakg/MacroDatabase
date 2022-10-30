@@ -1,7 +1,7 @@
 {
   "id": "WPU115406",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Point of Sale (POS) Terminals, Funds-Transfer Devices, Computer Terminals and Other Computer Peripheral Equipment",
   "observation_start": "1999-06-01",
   "observation_end": "2022-09-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 07:57:49-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

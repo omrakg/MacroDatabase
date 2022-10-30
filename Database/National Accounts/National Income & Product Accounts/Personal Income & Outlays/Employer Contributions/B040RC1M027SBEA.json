@@ -1,18 +1,18 @@
 {
   "id": "B040RC1M027SBEA",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Compensation of employees: Supplements to wages and salaries: Employer contributions for employee pension and insurance funds",
   "observation_start": "1959-01-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Billions of Dollars",
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-09-30 07:43:38-05",
+  "last_updated": "2022-10-28 08:40:38-05",
   "popularity": 11,
-  "group_popularity": 14,
+  "group_popularity": 12,
   "notes": "BEA Account Code: B040RC\nFor more information about this series, please see http://www.bea.gov/national/."
 }

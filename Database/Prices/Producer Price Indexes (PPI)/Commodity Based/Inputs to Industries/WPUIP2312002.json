@@ -1,7 +1,7 @@
 {
   "id": "WPUIP2312002",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Producer Price Index by Commodity: Inputs to Industries: Net Inputs to Nonresidential Construction, Services",
   "observation_start": "2014-12-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 07:50:58-05",
-  "popularity": 9,
-  "group_popularity": 9
+  "popularity": 7,
+  "group_popularity": 7
 }

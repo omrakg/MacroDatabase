@@ -1,7 +1,7 @@
 {
   "id": "RCCCOORG",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Large Bank Consumer Credit Card Originations: New Originations",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:10-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 13,
+  "group_popularity": 13,
   "notes": "The total origination balances provided by new credit card accounts. Quarterly credit card originations represent the sum of origination balances in the given quarter. Dollar originations are calculated based on the new account's original credit limit. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "Q397RC1A027NBEA",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Personal income: Nonprofit institution income: Nonprofit institution transfer receipts: From households",
   "observation_start": "1992-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-11-24 07:51:06-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: Q397RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

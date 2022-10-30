@@ -1,7 +1,7 @@
 {
   "id": "RCCCBACTDPD60P",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Accounts Based",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:04-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "The share of all credit card accounts that are 60 or more days past due. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "AFRECPT",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Federal Government: Current Receipts",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:45:36-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "BEA Account Code: W005RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

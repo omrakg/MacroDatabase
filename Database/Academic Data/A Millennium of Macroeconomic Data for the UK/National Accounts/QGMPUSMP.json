@@ -1,7 +1,7 @@
 {
   "id": "QGMPUSMP",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Total Quantity Indexes for Real GDP for United States Metropolitan Portion",
   "observation_start": "2001-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-08 08:37:18-06",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "The All industry total includes all Private industries and Government.\n\nConsists of all counties in a state that are parts of metropolitan statistical areas.\n\nFor more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_metro/gdp_metro_newsrelease.htm."
 }

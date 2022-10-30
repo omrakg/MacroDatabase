@@ -1,7 +1,7 @@
 {
   "id": "NXRSAXDCGBQ",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Real Exports of Goods and Services for Great Britain",
   "observation_start": "1955-01-01",
   "observation_end": "2022-04-01",
@@ -11,7 +11,7 @@
   "units_short": "Domestic Currency",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-09-05 07:10:10-05",
-  "popularity": 1,
-  "group_popularity": 2
+  "last_updated": "2022-10-24 07:09:12-05",
+  "popularity": 5,
+  "group_popularity": 5
 }

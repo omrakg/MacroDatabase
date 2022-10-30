@@ -1,7 +1,7 @@
 {
   "id": "ARNA",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "All Employees: Total Nonfarm in Arkansas",
   "observation_start": "1990-01-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-22 02:42:04-05",
-  "popularity": 8,
-  "group_popularity": 8
+  "popularity": 5,
+  "group_popularity": 5
 }

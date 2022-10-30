@@ -1,7 +1,7 @@
 {
   "id": "RCCCONUMACT",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Large Bank Consumer Credit Card Originations: Number of New Accounts",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:10-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 15,
+  "group_popularity": 15,
   "notes": "The total number of new credit card originations. This is the count of new accounts in the given quarter. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "DSADJREN",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "St. Louis Adjusted Reserves (DISCONTINUED)",
   "observation_start": "1984-02-15",
   "observation_end": "2003-06-25",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2003-07-14 17:27:16-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 4,
   "notes": "This series was discontinued on July 14, 2003. For information on the construction of this series, please refer to http://research.stlouisfed.org/aggreg/newbase.html. For information on the reconstructed series (ADJRESN), available starting on July 14, 2003, please refer to https://files.stlouisfed.org/research/publications/review/03/09/Anderson.pdf."
 }

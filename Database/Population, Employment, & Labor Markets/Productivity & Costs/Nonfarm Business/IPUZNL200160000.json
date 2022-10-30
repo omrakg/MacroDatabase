@@ -1,7 +1,7 @@
 {
   "id": "IPUZNL200160000",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Hours Worked for Private Nonfarm in Idaho",
   "observation_start": "2007-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 12:30:46-05",
-  "popularity": 0,
-  "group_popularity": 0,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Labor hours are measured as annual hours worked by all workers, including wage and salary workers, unincorporated self-employed workers, and unpaid family workers, in the production of goods and services."
 }

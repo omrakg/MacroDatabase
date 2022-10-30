@@ -1,17 +1,17 @@
 {
   "id": "AUENSA",
-  "realtime_start": "2022-10-23",
-  "realtime_end": "2022-10-23",
+  "realtime_start": "2022-10-30",
+  "realtime_end": "2022-10-30",
   "title": "Auto Exports",
   "observation_start": "1993-01-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-08-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-10-07 13:18:04-05",
-  "popularity": 7,
-  "group_popularity": 15
+  "last_updated": "2022-10-28 09:10:16-05",
+  "popularity": 9,
+  "group_popularity": 19
 }
