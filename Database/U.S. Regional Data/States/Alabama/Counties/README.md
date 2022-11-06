@@ -6,7 +6,7 @@
 | Pickens County, AL    |                89 |
 | Monroe County, AL     |                89 |
 | Talladega County, AL  |               146 |
-| Mobile County, AL     |               147 |
+| Mobile County, AL     |                 0 |
 | Franklin County, AL   |                90 |
 | Henry County, AL      |                90 |
 | Tallapoosa County, AL |                90 |
@@ -26,7 +26,7 @@
 | De Kalb County, AL    |                91 |
 | Colbert County, AL    |               146 |
 | Shelby County, AL     |               147 |
-| Wilcox County, AL     |                 0 |
+| Wilcox County, AL     |                88 |
 | Clay County, AL       |                88 |
 | Houston County, AL    |               147 |
 | Chambers County, AL   |                90 |

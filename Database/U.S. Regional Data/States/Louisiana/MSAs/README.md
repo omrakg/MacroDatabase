@@ -1,6 +1,6 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
-| Baton Rouge, LA             |               220 |
+| Baton Rouge, LA             |                 0 |
 | Alexandria, LA              |               131 |
 | Monroe, LA                  |               155 |
 | Lafayette, LA               |               186 |

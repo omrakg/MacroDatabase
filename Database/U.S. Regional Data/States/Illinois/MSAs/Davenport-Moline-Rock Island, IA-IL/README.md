@@ -17,8 +17,8 @@
 | DAVE317INFON              | All Employees: Information in Davenport-Moline-Rock Island, IA-IL (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | DAVE317LEIH               | All Employees: Leisure and Hospitality in Davenport-Moline-Rock Island, IA-IL (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | DAVE317LEIHN              | All Employees: Leisure and Hospitality in Davenport-Moline-Rock Island, IA-IL (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| DAVE317LF                 | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| DAVE317LFN                | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| DAVE317LF                 | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| DAVE317LFN                | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | DAVE317MFG                | All Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | DAVE317MFGN               | All Employees: Manufacturing in Davenport-Moline-Rock Island, IA-IL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | DAVE317NA                 | All Employees: Total Nonfarm in Davenport-Moline-Rock Island, IA-IL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -32,8 +32,8 @@
 | DAVE317SRVON              | All Employees: Other Services in Davenport-Moline-Rock Island, IA-IL (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | DAVE317TRAD               | All Employees: Trade, Transportation, and Utilities in Davenport-Moline-Rock Island, IA-IL (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | DAVE317TRADN              | All Employees: Trade, Transportation, and Utilities in Davenport-Moline-Rock Island, IA-IL (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| DAVE317UR                 | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| DAVE317URN                | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| DAVE317UR                 | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| DAVE317URN                | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | DESCMSA19340              | Market Hotness: Demand Score in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | DRMPOP                    | Resident Population in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC193430010             | Total Quarterly Wages in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA19340              | Market Hotness: Hotness Score in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD19340                 | Implicit Regional Price Deflator for Davenport-Moline-Rock Island, IA-IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171934000000003A     | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT171934000000004      | Unemployed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT171934000000004      | Unemployed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT171934000000004A     | Unemployed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT171934000000005      | Employed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT171934000000005      | Employed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT171934000000005A     | Employed Persons in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT171934000000006A     | Civilian Labor Force in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA19340          | Market Hotness: Listing Views per Property in Davenport-Moline-Rock Island, IA-IL (CBSA)                                             | 2017-09-01          | 2022-09-01        |

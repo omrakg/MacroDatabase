@@ -32,13 +32,13 @@
 | Wayne County, IL       |                89 |
 | Fulton County, IL      |                90 |
 | Lake County, IL        |               147 |
-| Randolph County, IL    |                90 |
+| Randolph County, IL    |                 0 |
 | Jefferson County, IL   |                90 |
 | Gallatin County, IL    |                87 |
 | Bond County, IL        |                90 |
 | Montgomery County, IL  |                90 |
 | Pope County, IL        |                88 |
-| Cass County, IL        |                 0 |
+| Cass County, IL        |                90 |
 | Pike County, IL        |                89 |
 | Hamilton County, IL    |                87 |
 | Perry County, IL       |                90 |
@@ -92,13 +92,13 @@
 | Boone County, IL       |                90 |
 | Union County, IL       |                89 |
 | Bureau County, IL      |                90 |
-| Piatt County, IL       |                90 |
+| Piatt County, IL       |                 0 |
 | Christian County, IL   |                90 |
 | Du Page County, IL     |               147 |
 | Clark County, IL       |                90 |
 | Crawford County, IL    |                89 |
 | Macoupin County, IL    |               144 |
-| Grundy County, IL      |                 0 |
+| Grundy County, IL      |               146 |
 | Kendall County, IL     |               147 |
 | Clinton County, IL     |                90 |
 | Douglas County, IL     |                90 |

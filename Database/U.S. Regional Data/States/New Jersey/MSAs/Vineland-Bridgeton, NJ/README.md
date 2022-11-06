@@ -21,9 +21,9 @@
 | ENUC472240510SA           | Average Weekly Wages for Employees in Private Establishments in Vineland-Millville-Bridgeton, NJ (MSA)                 | 1990-01-01          | 2022-01-01        |
 | IRPD47220                 | Implicit Regional Price Deflator for Vineland-Bridgeton, NJ (MSA)                                                      | 2008-01-01          | 2020-01-01        |
 | LAUMT344722000000003A     | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT344722000000004      | Unemployed Persons in Vineland-Bridgeton, NJ (MSA)                                                                     | 1990-01-01          | 2022-08-01        |
+| LAUMT344722000000004      | Unemployed Persons in Vineland-Bridgeton, NJ (MSA)                                                                     | 1990-01-01          | 2022-09-01        |
 | LAUMT344722000000004A     | Unemployed Persons in Vineland-Bridgeton, NJ (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| LAUMT344722000000005      | Employed Persons in Vineland-Bridgeton, NJ (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| LAUMT344722000000005      | Employed Persons in Vineland-Bridgeton, NJ (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | LAUMT344722000000005A     | Employed Persons in Vineland-Bridgeton, NJ (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT344722000000006A     | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR47220          | Housing Inventory: Median Days on Market in Vineland-Bridgeton, NJ (CBSA)                                              | 2016-07-01          | 2022-09-01        |
@@ -122,8 +122,8 @@
 | VINE234INFON              | All Employees: Information in Vineland-Bridgeton, NJ (MSA)                                                             | 1990-01-01          | 2022-09-01        |
 | VINE234LEIH               | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | VINE234LEIHN              | All Employees: Leisure and Hospitality in Vineland-Bridgeton, NJ (MSA)                                                 | 1990-01-01          | 2022-09-01        |
-| VINE234LF                 | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-08-01        |
-| VINE234LFN                | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-08-01        |
+| VINE234LF                 | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-09-01        |
+| VINE234LFN                | Civilian Labor Force in Vineland-Bridgeton, NJ (MSA)                                                                   | 1990-01-01          | 2022-09-01        |
 | VINE234MFG                | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | VINE234MFGN               | All Employees: Manufacturing in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | VINE234NA                 | All Employees: Total Nonfarm in Vineland-Bridgeton, NJ (MSA)                                                           | 1990-01-01          | 2022-09-01        |
@@ -137,6 +137,6 @@
 | VINE234SRVON              | All Employees: Other Services in Vineland-Bridgeton, NJ (MSA)                                                          | 1990-01-01          | 2022-09-01        |
 | VINE234TRAD               | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2022-09-01        |
 | VINE234TRADN              | All Employees: Trade, Transportation, and Utilities in Vineland-Bridgeton, NJ (MSA)                                    | 1990-01-01          | 2022-09-01        |
-| VINE234UR                 | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
-| VINE234URN                | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| VINE234UR                 | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| VINE234URN                | Unemployment Rate in Vineland-Bridgeton, NJ (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | VINPOP                    | Resident Population in Vineland-Bridgeton, NJ (MSA)                                                                    | 2000-01-01          | 2021-01-01        |

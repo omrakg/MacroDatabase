@@ -13,16 +13,16 @@
 | CLMBPPRIVSA               | New Private Housing Units Authorized by Building Permits for Columbia, MO (MSA)                    | 1988-01-01          | 2022-09-01        |
 | CLMGOVT                   | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2022-09-01        |
 | CLMGOVTN                  | All Employees: Government in Columbia, MO (MSA)                                                    | 1990-01-01          | 2022-09-01        |
-| CLMLF                     | Civilian Labor Force in Columbia, MO (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| CLMLFN                    | Civilian Labor Force in Columbia, MO (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| CLMLF                     | Civilian Labor Force in Columbia, MO (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| CLMLFN                    | Civilian Labor Force in Columbia, MO (MSA)                                                         | 1990-01-01          | 2022-09-01        |
 | CLMNA                     | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | CLMNAN                    | All Employees: Total Nonfarm in Columbia, MO (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | CLMPCPI                   | Per Capita Personal Income in Columbia, MO (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | CLMPOP                    | Resident Population in Columbia, MO (MSA)                                                          | 1970-01-01          | 2021-01-01        |
 | CLMTRAD                   | All Employees: Trade, Transportation, and Utilities in Columbia, MO (MSA)                          | 1990-01-01          | 2022-09-01        |
 | CLMTRADN                  | All Employees: Trade, Transportation, and Utilities in Columbia, MO (MSA)                          | 1990-01-01          | 2022-09-01        |
-| CLMUR                     | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-08-01        |
-| CLMURN                    | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-08-01        |
+| CLMUR                     | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-09-01        |
+| CLMURN                    | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | DESCMSA17860              | Market Hotness: Demand Score in Columbia, MO (CBSA)                                                | 2017-08-01          | 2022-09-01        |
 | ENUC178630010             | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2022-01-01        |
 | ENUC178630010SA           | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2022-01-01        |
@@ -42,9 +42,9 @@
 | HOSCMSA17860              | Market Hotness: Hotness Score in Columbia, MO (CBSA)                                               | 2017-08-01          | 2022-09-01        |
 | IRPD17860                 | Implicit Regional Price Deflator for Columbia, MO (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT291786000000003A     | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LAUMT291786000000004      | Unemployed Persons in Columbia, MO (MSA)                                                           | 1990-01-01          | 2022-08-01        |
+| LAUMT291786000000004      | Unemployed Persons in Columbia, MO (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | LAUMT291786000000004A     | Unemployed Persons in Columbia, MO (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT291786000000005      | Employed Persons in Columbia, MO (MSA)                                                             | 1990-01-01          | 2022-08-01        |
+| LAUMT291786000000005      | Employed Persons in Columbia, MO (MSA)                                                             | 1990-01-01          | 2022-09-01        |
 | LAUMT291786000000005A     | Employed Persons in Columbia, MO (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT291786000000006A     | Civilian Labor Force in Columbia, MO (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA17860          | Market Hotness: Listing Views per Property in Columbia, MO (CBSA)                                  | 2017-09-01          | 2022-09-01        |

@@ -22,7 +22,7 @@
 | Pasco County, FL        |               147 |
 | Columbia County, FL     |               146 |
 | Hendry County, FL       |                90 |
-| Jefferson County, FL    |                 0 |
+| Jefferson County, FL    |                89 |
 | Bay County, FL          |               147 |
 | Dixie County, FL        |                89 |
 | Highlands County, FL    |               147 |
@@ -48,7 +48,7 @@
 | Liberty County, FL      |                88 |
 | Miami-Dade County, FL   |               147 |
 | Suwannee County, FL     |                90 |
-| Pinellas County, FL     |               147 |
+| Pinellas County, FL     |                 0 |
 | Martin County, FL       |               147 |
 | Okaloosa County, FL     |               147 |
 | Lafayette County, FL    |                88 |

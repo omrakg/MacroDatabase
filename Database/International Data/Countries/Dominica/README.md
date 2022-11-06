@@ -45,7 +45,7 @@
 | DDSI04DMA156NWDB  | Bank Credit to Bank Deposits for Dominica                                                                                | 1975-01-01          | 2019-01-01        |
 | DDSI06DMA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Dominica                                                            | 2005-01-01          | 2016-01-01        |
 | DEDMAA475SCEN     | Number of Identified Exporters to Dominica from Delaware                                                                 | 2002-01-01          | 2016-01-01        |
-| DMABCAGDPBP6      | Balance of Payments for Dominica                                                                                         | 2014-01-01          | 2027-01-01        |
+| DMABCAGDPBP6      | Balance of Payments for Dominica                                                                                         | 2000-01-01          | 2027-01-01        |
 | DMAFCAANUM        | Geographical Outreach: Key Indicators ATMs Per 100,000 Adults for Dominica                                               | 2004-01-01          | 2021-01-01        |
 | DMAFCACNUM        | Geographical Outreach: Number of Automated Teller Machines (ATMs), Country Wide for Dominica                             | 2004-01-01          | 2021-01-01        |
 | DMAFCAKNUM        | Geographical Outreach: Key Indicators ATMs Per 1000 Km2 for Dominica                                                     | 2004-01-01          | 2021-01-01        |
@@ -78,7 +78,7 @@
 | DMANGDPRPCH       | Gross Domestic Product for Dominica                                                                                      | 1980-01-01          | 2027-01-01        |
 | DMAPCPIEPCH       | Consumer Prices for Dominica                                                                                             | 1980-01-01          | 2027-01-01        |
 | DMAPPPSH          | Purchasing Power Parity, Share of World for Dominica                                                                     | 2011-01-01          | 2024-01-01        |
-| EXP2486           | U.S. Exports of Goods by F.A.S. Basis to Dominica                                                                        | 1992-01-01          | 2022-08-01        |
+| EXP2486           | U.S. Exports of Goods by F.A.S. Basis to Dominica                                                                        | 1992-01-01          | 2022-09-01        |
 | FLDMAA052SCEN     | Value of Exports to Dominica from Florida                                                                                | 1992-01-01          | 2017-01-01        |
 | FLDMAA475SCEN     | Number of Identified Exporters to Dominica from Florida                                                                  | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGDMA    | Inflation, consumer prices for Dominica                                                                                  | 1967-01-01          | 2021-01-01        |
@@ -91,7 +91,7 @@
 | IDDMAA475SCEN     | Number of Identified Exporters to Dominica from Idaho                                                                    | 1997-01-01          | 2016-01-01        |
 | ILDMAA052SCEN     | Value of Exports to Dominica from Illinois                                                                               | 1992-01-01          | 2017-01-01        |
 | ILDMAA475SCEN     | Number of Identified Exporters to Dominica from Illinois                                                                 | 1992-01-01          | 2017-01-01        |
-| IMP2486           | U.S. Imports of Goods by Customs Basis from Dominica                                                                     | 1992-01-01          | 2022-08-01        |
+| IMP2486           | U.S. Imports of Goods by Customs Basis from Dominica                                                                     | 1992-01-01          | 2022-09-01        |
 | INDMAA052SCEN     | Value of Exports to Dominica from Indiana                                                                                | 2003-01-01          | 2017-01-01        |
 | INDMAA475SCEN     | Number of Identified Exporters to Dominica from Indiana                                                                  | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2DMA    | Internet users for Dominica                                                                                              | 1990-01-01          | 2017-01-01        |

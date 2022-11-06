@@ -31,8 +31,8 @@
 | HUNT554GOVTN              | All Employees: Government in Huntington-Ashland, WV-KY-OH (MSA)                                                               | 1990-01-01          | 2022-09-01        |
 | HUNT554LEIH               | All Employees: Leisure and Hospitality in Huntington-Ashland, WV-KY-OH (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | HUNT554LEIHN              | All Employees: Leisure and Hospitality in Huntington-Ashland, WV-KY-OH (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| HUNT554LF                 | Civilian Labor Force in Huntington-Ashland, WV-KY-OH (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| HUNT554LFN                | Civilian Labor Force in Huntington-Ashland, WV-KY-OH (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| HUNT554LF                 | Civilian Labor Force in Huntington-Ashland, WV-KY-OH (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| HUNT554LFN                | Civilian Labor Force in Huntington-Ashland, WV-KY-OH (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | HUNT554MFG                | All Employees: Manufacturing in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | HUNT554MFGN               | All Employees: Manufacturing in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | HUNT554NA                 | All Employees: Total Nonfarm in Huntington-Ashland, WV-KY-OH (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -40,13 +40,13 @@
 | HUNT554PBSV               | All Employees: Professional and Business Services in Huntington-Ashland, WV-KY-OH (MSA)                                       | 1990-01-01          | 2022-09-01        |
 | HUNT554PBSVN              | All Employees: Professional and Business Services in Huntington-Ashland, WV-KY-OH (MSA)                                       | 1990-01-01          | 2022-09-01        |
 | HUNT554PCPI               | Per Capita Personal Income in Huntington-Ashland, WV-KY-OH (MSA)                                                              | 1969-01-01          | 2020-01-01        |
-| HUNT554UR                 | Unemployment Rate in Huntington-Ashland, WV-KY-OH (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| HUNT554URN                | Unemployment Rate in Huntington-Ashland, WV-KY-OH (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| HUNT554UR                 | Unemployment Rate in Huntington-Ashland, WV-KY-OH (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| HUNT554URN                | Unemployment Rate in Huntington-Ashland, WV-KY-OH (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | IRPD26580                 | Implicit Regional Price Deflator for Huntington-Ashland, WV-KY-OH (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT542658000000003A     | Unemployment Rate in Huntington-Ashland, WV-KY-OH (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT542658000000004      | Unemployed Persons in Huntington-Ashland, WV-KY-OH (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT542658000000004      | Unemployed Persons in Huntington-Ashland, WV-KY-OH (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT542658000000004A     | Unemployed Persons in Huntington-Ashland, WV-KY-OH (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT542658000000005      | Employed Persons in Huntington-Ashland, WV-KY-OH (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT542658000000005      | Employed Persons in Huntington-Ashland, WV-KY-OH (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT542658000000005A     | Employed Persons in Huntington-Ashland, WV-KY-OH (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT542658000000006A     | Civilian Labor Force in Huntington-Ashland, WV-KY-OH (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA26580          | Market Hotness: Listing Views per Property in Huntington-Ashland, WV-KY-OH (CBSA)                                             | 2017-09-01          | 2022-09-01        |

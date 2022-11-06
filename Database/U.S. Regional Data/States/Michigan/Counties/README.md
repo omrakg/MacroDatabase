@@ -46,8 +46,8 @@
 | Calhoun County, MI        |               147 |
 | Ingham County, MI         |               147 |
 | Clinton County, MI        |               147 |
-| Oscoda County, MI         |                 0 |
-| Alpena County, MI         |                90 |
+| Oscoda County, MI         |                90 |
+| Alpena County, MI         |                 0 |
 | Houghton County, MI       |                90 |
 | Hillsdale County, MI      |                90 |
 | Shiawassee County, MI     |               147 |

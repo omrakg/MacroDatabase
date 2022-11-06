@@ -9,15 +9,15 @@
 | AVELISPRIYY15260          | Housing Inventory: Average Listing Price Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-09-01        |
 | BRUN213GOVT               | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | BRUN213GOVTN              | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2022-09-01        |
-| BRUN213LF                 | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
-| BRUN213LFN                | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| BRUN213LF                 | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| BRUN213LFN                | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | BRUN213NA                 | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | BRUN213NAN                | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | BRUN213PCPI               | Per Capita Personal Income in Brunswick, GA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | BRUN213TRAD               | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2022-09-01        |
 | BRUN213TRADN              | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2022-09-01        |
-| BRUN213UR                 | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| BRUN213URN                | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| BRUN213UR                 | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| BRUN213URN                | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
 | BRUPOP                    | Resident Population in Brunswick, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | ENUC152630010             | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC152630010SA           | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
@@ -33,9 +33,9 @@
 | ENUC152640510SA           | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD15260                 | Implicit Regional Price Deflator for Brunswick, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT131526000000003A     | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT131526000000004      | Unemployed Persons in Brunswick, GA (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT131526000000004      | Unemployed Persons in Brunswick, GA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT131526000000004A     | Unemployed Persons in Brunswick, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT131526000000005      | Employed Persons in Brunswick, GA (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| LAUMT131526000000005      | Employed Persons in Brunswick, GA (MSA)                                                          | 1990-01-01          | 2022-09-01        |
 | LAUMT131526000000005A     | Employed Persons in Brunswick, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT131526000000006A     | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR15260          | Housing Inventory: Median Days on Market in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-09-01        |

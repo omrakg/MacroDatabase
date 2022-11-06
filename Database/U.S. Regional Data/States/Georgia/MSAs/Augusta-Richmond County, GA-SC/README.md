@@ -15,8 +15,8 @@
 | AUGU213INFON              | All Employees: Information in Augusta-Richmond County, GA-SC (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | AUGU213LEIH               | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | AUGU213LEIHN              | All Employees: Leisure and Hospitality in Augusta-Richmond County, GA-SC (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| AUGU213LF                 | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| AUGU213LFN                | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| AUGU213LF                 | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| AUGU213LFN                | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | AUGU213MFG                | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | AUGU213MFGN               | All Employees: Manufacturing in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | AUGU213NA                 | All Employees: Total Nonfarm in Augusta-Richmond County, GA-SC (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -30,8 +30,8 @@
 | AUGU213SRVON              | All Employees: Other Services in Augusta-Richmond County, GA-SC (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | AUGU213TRAD               | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | AUGU213TRADN              | All Employees: Trade, Transportation, and Utilities in Augusta-Richmond County, GA-SC (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| AUGU213UR                 | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| AUGU213URN                | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| AUGU213UR                 | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| AUGU213URN                | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | AVELISPRI12260            | Housing Inventory: Average Listing Price in Augusta-Richmond County, GA-SC (CBSA)                                               | 2016-07-01          | 2022-09-01        |
 | AVELISPRIMM12260          | Housing Inventory: Average Listing Price Month-Over-Month in Augusta-Richmond County, GA-SC (CBSA)                              | 2017-07-01          | 2022-09-01        |
 | AVELISPRIYY12260          | Housing Inventory: Average Listing Price Year-Over-Year in Augusta-Richmond County, GA-SC (CBSA)                                | 2017-07-01          | 2022-09-01        |
@@ -55,9 +55,9 @@
 | IHLCHG12260               | Job Postings on Indeed in Augusta-Richmond County, GA-SC (MSA)                                                                  | 2020-02-01          | 2022-10-14        |
 | IRPD12260                 | Implicit Regional Price Deflator for Augusta-Richmond County, GA-SC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT131226000000003A     | Unemployment Rate in Augusta-Richmond County, GA-SC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT131226000000004      | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT131226000000004      | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT131226000000004A     | Unemployed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT131226000000005      | Employed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT131226000000005      | Employed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT131226000000005A     | Employed Persons in Augusta-Richmond County, GA-SC (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT131226000000006A     | Civilian Labor Force in Augusta-Richmond County, GA-SC (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA12260          | Market Hotness: Listing Views per Property in Augusta-Richmond County, GA-SC (CBSA)                                             | 2017-09-01          | 2022-09-01        |

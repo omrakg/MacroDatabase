@@ -34,8 +34,8 @@
 | KNOX947INFON              | All Employees: Information in Knoxville, TN (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | KNOX947LEIH               | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | KNOX947LEIHN              | All Employees: Leisure and Hospitality in Knoxville, TN (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| KNOX947LF                 | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| KNOX947LFN                | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| KNOX947LF                 | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| KNOX947LFN                | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | KNOX947MFG                | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | KNOX947MFGN               | All Employees: Manufacturing in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | KNOX947NA                 | All Employees: Total Nonfarm in Knoxville, TN (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -49,13 +49,13 @@
 | KNOX947SRVON              | All Employees: Other Services in Knoxville, TN (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | KNOX947TRAD               | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | KNOX947TRADN              | All Employees: Trade, Transportation, and Utilities in Knoxville, TN (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| KNOX947UR                 | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| KNOX947URN                | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| KNOX947UR                 | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| KNOX947URN                | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | KNXPOP                    | Resident Population in Knoxville, TN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT472894000000003A     | Unemployment Rate in Knoxville, TN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT472894000000004      | Unemployed Persons in Knoxville, TN (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT472894000000004      | Unemployed Persons in Knoxville, TN (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT472894000000004A     | Unemployed Persons in Knoxville, TN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT472894000000005      | Employed Persons in Knoxville, TN (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT472894000000005      | Employed Persons in Knoxville, TN (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT472894000000005A     | Employed Persons in Knoxville, TN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT472894000000006A     | Civilian Labor Force in Knoxville, TN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA28940          | Market Hotness: Listing Views per Property in Knoxville, TN (CBSA)                                             | 2017-09-01          | 2022-09-01        |

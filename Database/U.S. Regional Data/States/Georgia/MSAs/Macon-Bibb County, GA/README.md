@@ -26,9 +26,9 @@
 | HOSCMSA31420              | Market Hotness: Hotness Score in Macon, GA (CBSA)                                                                      | 2017-08-01          | 2022-09-01        |
 | IRPD31420                 | Implicit Regional Price Deflator for Macon, GA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT133142000000003A     | Unemployment Rate in Macon-Bibb County, GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT133142000000004      | Unemployed Persons in Macon-Bibb County, GA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT133142000000004      | Unemployed Persons in Macon-Bibb County, GA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT133142000000004A     | Unemployed Persons in Macon-Bibb County, GA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT133142000000005      | Employed Persons in Macon-Bibb County, GA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT133142000000005      | Employed Persons in Macon-Bibb County, GA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT133142000000005A     | Employed Persons in Macon-Bibb County, GA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT133142000000006A     | Civilian Labor Force in Macon-Bibb County, GA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA31420          | Market Hotness: Listing Views per Property in Macon, GA (MSA)                                                          | 2017-09-01          | 2022-09-01        |
@@ -42,8 +42,8 @@
 | MACO413GOVTN              | All Employees: Government in Macon-Bibb County, GA (MSA)                                                               | 1990-01-01          | 2022-09-01        |
 | MACO413LEIH               | All Employees: Leisure and Hospitality in Macon-Bibb County, GA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | MACO413LEIHN              | All Employees: Leisure and Hospitality in Macon-Bibb County, GA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| MACO413LF                 | Civilian Labor Force in Macon, GA (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
-| MACO413LFN                | Civilian Labor Force in Macon, GA (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
+| MACO413LF                 | Civilian Labor Force in Macon, GA (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
+| MACO413LFN                | Civilian Labor Force in Macon, GA (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
 | MACO413NA                 | All Employees: Total Nonfarm in Macon-Bibb County, GA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | MACO413NAN                | All Employees: Total Nonfarm in Macon-Bibb County, GA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | MACO413PBSV               | All Employees: Professional and Business Services in Macon-Bibb County, GA (MSA)                                       | 1990-01-01          | 2022-09-01        |
@@ -51,8 +51,8 @@
 | MACO413PCPI               | Per Capita Personal Income in Macon, GA (MSA)                                                                          | 1969-01-01          | 2020-01-01        |
 | MACO413TRAD               | All Employees: Trade, Transportation, and Utilities in Macon-Bibb County, GA (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | MACO413TRADN              | All Employees: Trade, Transportation, and Utilities in Macon-Bibb County, GA (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| MACO413UR                 | Unemployment Rate in Macon, GA (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
-| MACO413URN                | Unemployment Rate in Macon, GA (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
+| MACO413UR                 | Unemployment Rate in Macon, GA (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
+| MACO413URN                | Unemployment Rate in Macon, GA (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
 | MACPOP                    | Resident Population in Macon-Bibb County, GA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA31420        | Market Hotness: Median Days on Market in Macon, GA (MSA)                                                               | 2017-08-01          | 2022-09-01        |
 | MEDAONMAMSA31420          | Market Hotness: Median Days on Market in Macon, GA (CBSA)                                                              | 2017-08-01          | 2022-09-01        |

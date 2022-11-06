@@ -47,7 +47,7 @@
 | DEBTTLKNA188A     | Central government debt, total (% of GDP) for St. Kitts and Nevis                                                                       | 2002-01-01          | 2014-01-01        |
 | DEKNAA052SCEN     | Value of Exports to Saint Kitts and Nevis from Delaware                                                                                 | 2013-01-01          | 2013-01-01        |
 | DEKNAA475SCEN     | Number of Identified Exporters to Saint Kitts and Nevis from Delaware                                                                   | 2003-01-01          | 2016-01-01        |
-| EXP2483           | U.S. Exports of Goods by F.A.S. Basis to Saint Kitts and Nevis                                                                          | 1992-01-01          | 2022-08-01        |
+| EXP2483           | U.S. Exports of Goods by F.A.S. Basis to Saint Kitts and Nevis                                                                          | 1992-01-01          | 2022-09-01        |
 | FLKNAA052SCEN     | Value of Exports to Saint Kitts and Nevis from Florida                                                                                  | 1992-01-01          | 2016-01-01        |
 | FLKNAA475SCEN     | Number of Identified Exporters to Saint Kitts and Nevis from Florida                                                                    | 1992-01-01          | 2016-01-01        |
 | FPCPITOTLZGKNA    | Inflation, consumer prices for St. Kitts and Nevis                                                                                      | 1980-01-01          | 2021-01-01        |
@@ -61,7 +61,7 @@
 | IDKNAA475SCEN     | Number of Identified Exporters to Saint Kitts and Nevis from Idaho                                                                      | 1997-01-01          | 2015-01-01        |
 | ILKNAA052SCEN     | Value of Exports to Saint Kitts and Nevis from Illinois                                                                                 | 1992-01-01          | 2016-01-01        |
 | ILKNAA475SCEN     | Number of Identified Exporters to Saint Kitts and Nevis from Illinois                                                                   | 1992-01-01          | 2016-01-01        |
-| IMP2483           | U.S. Imports of Goods by Customs Basis from Saint Kitts and Nevis                                                                       | 1992-01-01          | 2022-08-01        |
+| IMP2483           | U.S. Imports of Goods by Customs Basis from Saint Kitts and Nevis                                                                       | 1992-01-01          | 2022-09-01        |
 | INKNAA052SCEN     | Value of Exports to Saint Kitts and Nevis from Indiana                                                                                  | 1997-01-01          | 2016-01-01        |
 | INKNAA475SCEN     | Number of Identified Exporters to Saint Kitts and Nevis from Indiana                                                                    | 1997-01-01          | 2016-01-01        |
 | ITNETUSERP2KNA    | Internet users for St. Kitts and Nevis                                                                                                  | 1990-01-01          | 2017-01-01        |

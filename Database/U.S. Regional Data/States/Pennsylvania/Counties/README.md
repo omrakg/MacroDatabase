@@ -59,7 +59,7 @@
 | Berks County, PA               |               147 |
 | Bedford County, PA             |                90 |
 | Snyder County, PA              |                90 |
-| Somerset County, PA            |                 0 |
+| Somerset County, PA            |               144 |
 | Cambria County, PA             |               146 |
 | Warren County, PA              |                90 |
 | Montgomery County, PA          |               147 |

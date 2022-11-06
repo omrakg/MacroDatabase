@@ -17,7 +17,7 @@
 | DDOI09NCA156NWDB  | Loans from Non-Resident Banks, Amounts Outstanding, to GDP for New Caledonia | 1995-01-01          | 2000-01-01        |
 | DENCLA052SCEN     | Value of Exports to New Caledonia from Delaware                              | 2011-01-01          | 2012-01-01        |
 | DENCLA475SCEN     | Number of Identified Exporters to New Caledonia from Delaware                | 2003-01-01          | 2015-01-01        |
-| EXP6412           | U.S. Exports of Goods by F.A.S. Basis to New Caledonia                       | 1992-01-01          | 2022-08-01        |
+| EXP6412           | U.S. Exports of Goods by F.A.S. Basis to New Caledonia                       | 1992-01-01          | 2022-09-01        |
 | FLNCLA052SCEN     | Value of Exports to New Caledonia from Florida                               | 1997-01-01          | 2017-01-01        |
 | FLNCLA475SCEN     | Number of Identified Exporters to New Caledonia from Florida                 | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGNCL    | Inflation, consumer prices for New Caledonia                                 | 2011-01-01          | 2016-01-01        |
@@ -31,7 +31,7 @@
 | IDNCLA475SCEN     | Number of Identified Exporters to New Caledonia from Idaho                   | 1992-01-01          | 2016-01-01        |
 | ILNCLA052SCEN     | Value of Exports to New Caledonia from Illinois                              | 1997-01-01          | 2017-01-01        |
 | ILNCLA475SCEN     | Number of Identified Exporters to New Caledonia from Illinois                | 1992-01-01          | 2017-01-01        |
-| IMP6412           | U.S. Imports of Goods by Customs Basis from New Caledonia                    | 1992-01-01          | 2022-08-01        |
+| IMP6412           | U.S. Imports of Goods by Customs Basis from New Caledonia                    | 1992-01-01          | 2022-09-01        |
 | INNCLA052SCEN     | Value of Exports to New Caledonia from Indiana                               | 2005-01-01          | 2016-01-01        |
 | INNCLA475SCEN     | Number of Identified Exporters to New Caledonia from Indiana                 | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2NCL    | Internet users for New Caledonia                                             | 1990-01-01          | 2017-01-01        |

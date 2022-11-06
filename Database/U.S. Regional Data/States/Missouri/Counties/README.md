@@ -16,14 +16,14 @@
 | Moniteau County, MO       |                90 |
 | Pulaski County, MO        |                90 |
 | Wayne County, MO          |                88 |
-| Pike County, MO           |                 0 |
+| Pike County, MO           |                90 |
 | Bollinger County, MO      |                89 |
 | Saline County, MO         |                90 |
 | Putnam County, MO         |                88 |
 | Macon County, MO          |                90 |
 | Platte County, MO         |               147 |
 | St. Louis City, MO        |               146 |
-| Harrison County, MO       |                88 |
+| Harrison County, MO       |                 0 |
 | Montgomery County, MO     |                89 |
 | Lincoln County, MO        |               146 |
 | Ripley County, MO         |                90 |
@@ -76,14 +76,14 @@
 | Laclede County, MO        |                90 |
 | Ralls County, MO          |                89 |
 | Scott County, MO          |                90 |
-| Washington County, MO     |                 0 |
+| Washington County, MO     |                89 |
 | Clark County, MO          |                89 |
 | Hickory County, MO        |                88 |
 | Warren County, MO         |                90 |
 | Nodaway County, MO        |                89 |
 | Pettis County, MO         |                90 |
 | Linn County, MO           |                90 |
-| Madison County, MO        |                88 |
+| Madison County, MO        |                 0 |
 | Boone County, MO          |               147 |
 | Mississippi County, MO    |                90 |
 | Clay County, MO           |               147 |

@@ -20,8 +20,8 @@
 | CHIC917INFON              | All Employees: Information in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | CHIC917LEIH               | All Employees: Leisure and Hospitality in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | CHIC917LEIHN              | All Employees: Leisure and Hospitality in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| CHIC917LF                 | Civilian Labor Force in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| CHIC917LFN                | Civilian Labor Force in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| CHIC917LF                 | Civilian Labor Force in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| CHIC917LFN                | Civilian Labor Force in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | CHIC917MFG                | All Employees: Manufacturing in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CHIC917MFGN               | All Employees: Manufacturing in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CHIC917NA                 | All Employees: Total Nonfarm in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -33,8 +33,8 @@
 | CHIC917SRVON              | All Employees: Other Services in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | CHIC917TRAD               | All Employees: Trade, Transportation, and Utilities in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | CHIC917TRADN              | All Employees: Trade, Transportation, and Utilities in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| CHIC917UR                 | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| CHIC917URN                | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| CHIC917UR                 | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| CHIC917URN                | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | CHIPOP                    | Resident Population in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16980              | Market Hotness: Demand Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC169830010             | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -56,9 +56,9 @@
 | IHLCHG16980               | Job Postings on Indeed in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                  | 2020-02-01          | 2022-10-14        |
 | IRPD16980                 | Implicit Regional Price Deflator for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171698000000003A     | Unemployment Rate in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT171698000000004      | Unemployed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT171698000000004      | Unemployed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT171698000000004A     | Unemployed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT171698000000005      | Employed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT171698000000005      | Employed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT171698000000005A     | Employed Persons in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT171698000000006A     | Civilian Labor Force in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA16980          | Market Hotness: Listing Views per Property in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                             | 2017-09-01          | 2022-09-01        |

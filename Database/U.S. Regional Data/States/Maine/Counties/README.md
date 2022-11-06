@@ -6,7 +6,7 @@
 | Aroostook County, ME    |                91 |
 | Androscoggin County, ME |               147 |
 | Knox County, ME         |                90 |
-| Piscataquis County, ME  |                 0 |
+| Piscataquis County, ME  |                89 |
 | Cumberland County, ME   |               147 |
 | Sagadahoc County, ME    |                90 |
 | Lincoln County, ME      |                90 |

@@ -7,7 +7,7 @@
 | Polk County, WI                         |                90 |
 | Fond Du Lac County, WI                  |               147 |
 | Marinette County, WI                    |                89 |
-| Langlade County, WI                     |                90 |
+| Langlade County, WI                     |                 0 |
 | Dane County, WI                         |               147 |
 | Ashland County, WI                      |                90 |
 | Waukesha County, WI                     |               147 |
@@ -41,7 +41,7 @@
 | Green Lake County, WI                   |                90 |
 | Shawano County, WI                      |                90 |
 | Buffalo County, WI                      |                89 |
-| Manitowoc County, WI                    |                 0 |
+| Manitowoc County, WI                    |               145 |
 | Milwaukee County, WI                    |               146 |
 | Forest County, WI                       |                90 |
 | Adams County, WI                        |                90 |

@@ -7,7 +7,7 @@
 | Montgomery County, KY   |                90 |
 | Calloway County, KY     |                90 |
 | Butler County, KY       |                90 |
-| Henderson County, KY    |                 0 |
+| Henderson County, KY    |               144 |
 | Wolfe County, KY        |                87 |
 | McLean County, KY       |                90 |
 | Carroll County, KY      |                90 |
@@ -36,7 +36,7 @@
 | Fayette County, KY      |               146 |
 | Mason County, KY        |                90 |
 | Breckinridge County, KY |                89 |
-| Oldham County, KY       |               147 |
+| Oldham County, KY       |                 0 |
 | Washington County, KY   |                90 |
 | Henry County, KY        |                90 |
 | Lincoln County, KY      |                90 |
@@ -96,7 +96,7 @@
 | Green County, KY        |                90 |
 | Webster County, KY      |                90 |
 | McCreary County, KY     |                89 |
-| Grayson County, KY      |                89 |
+| Grayson County, KY      |                 0 |
 | Laurel County, KY       |               146 |
 | Clinton County, KY      |                88 |
 | Grant County, KY        |                90 |
@@ -108,7 +108,7 @@
 | Russell County, KY      |                90 |
 | Livingston County, KY   |                88 |
 | Bell County, KY         |                89 |
-| Caldwell County, KY     |                 0 |
+| Caldwell County, KY     |                90 |
 | Nelson County, KY       |                90 |
 | Johnson County, KY      |                89 |
 | Trigg County, KY        |                90 |

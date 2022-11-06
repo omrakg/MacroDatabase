@@ -22,8 +22,8 @@
 | COLO808INFON              | All Employees: Information in Colorado Springs, CO (MSA)                                                                          | 1990-01-01          | 2022-09-01        |
 | COLO808LEIH               | All Employees: Leisure and Hospitality in Colorado Springs, CO (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | COLO808LEIHN              | All Employees: Leisure and Hospitality in Colorado Springs, CO (MSA)                                                              | 1990-01-01          | 2022-09-01        |
-| COLO808LF                 | Civilian Labor Force in Colorado Springs, CO (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
-| COLO808LFN                | Civilian Labor Force in Colorado Springs, CO (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
+| COLO808LF                 | Civilian Labor Force in Colorado Springs, CO (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
+| COLO808LFN                | Civilian Labor Force in Colorado Springs, CO (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
 | COLO808MFG                | All Employees: Manufacturing in Colorado Springs, CO (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | COLO808MFGN               | All Employees: Manufacturing in Colorado Springs, CO (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | COLO808NA                 | All Employees: Total Nonfarm in Colorado Springs, CO (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
@@ -37,8 +37,8 @@
 | COLO808SRVON              | All Employees: Other Services in Colorado Springs, CO (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | COLO808TRAD               | All Employees: Trade, Transportation, and Utilities in Colorado Springs, CO (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | COLO808TRADN              | All Employees: Trade, Transportation, and Utilities in Colorado Springs, CO (MSA)                                                 | 1990-01-01          | 2022-09-01        |
-| COLO808UR                 | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
-| COLO808URN                | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
+| COLO808UR                 | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
+| COLO808URN                | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
 | DESCMSA17820              | Market Hotness: Demand Score in Colorado Springs, CO (CBSA)                                                                       | 2017-08-01          | 2022-09-01        |
 | ENUC178230010             | Total Quarterly Wages in Colorado Springs, CO (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
 | ENUC178230010SA           | Total Quarterly Wages in Colorado Springs, CO (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
@@ -59,9 +59,9 @@
 | IHLCHG17820               | Job Postings on Indeed in Colorado Springs, CO (MSA)                                                                              | 2020-02-01          | 2022-10-14        |
 | IRPD17820                 | Implicit Regional Price Deflator for Colorado Springs, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT081782000000003A     | Unemployment Rate in Colorado Springs, CO (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT081782000000004      | Unemployed Persons in Colorado Springs, CO (MSA)                                                                                  | 1990-01-01          | 2022-08-01        |
+| LAUMT081782000000004      | Unemployed Persons in Colorado Springs, CO (MSA)                                                                                  | 1990-01-01          | 2022-09-01        |
 | LAUMT081782000000004A     | Unemployed Persons in Colorado Springs, CO (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT081782000000005      | Employed Persons in Colorado Springs, CO (MSA)                                                                                    | 1990-01-01          | 2022-08-01        |
+| LAUMT081782000000005      | Employed Persons in Colorado Springs, CO (MSA)                                                                                    | 1990-01-01          | 2022-09-01        |
 | LAUMT081782000000005A     | Employed Persons in Colorado Springs, CO (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT081782000000006A     | Civilian Labor Force in Colorado Springs, CO (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA17820          | Market Hotness: Listing Views per Property in Colorado Springs, CO (CBSA)                                                         | 2017-09-01          | 2022-09-01        |

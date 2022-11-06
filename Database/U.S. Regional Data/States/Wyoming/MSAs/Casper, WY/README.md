@@ -17,8 +17,8 @@
 | CASP256INFON              | All Employees: Information in Casper, WY (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | CASP256LEIH               | All Employees: Leisure and Hospitality in Casper, WY (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | CASP256LEIHN              | All Employees: Leisure and Hospitality in Casper, WY (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| CASP256LF                 | Civilian Labor Force in Casper, WY (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| CASP256LFN                | Civilian Labor Force in Casper, WY (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| CASP256LF                 | Civilian Labor Force in Casper, WY (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| CASP256LFN                | Civilian Labor Force in Casper, WY (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | CASP256MFG                | All Employees: Manufacturing in Casper, WY (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CASP256MFGN               | All Employees: Manufacturing in Casper, WY (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CASP256NA                 | All Employees: Total Nonfarm in Casper, WY (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -30,8 +30,8 @@
 | CASP256SRVON              | All Employees: Other Services in Casper, WY (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | CASP256TRAD               | All Employees: Trade, Transportation, and Utilities in Casper, WY (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | CASP256TRADN              | All Employees: Trade, Transportation, and Utilities in Casper, WY (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| CASP256UR                 | Unemployment Rate in Casper, WY (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| CASP256URN                | Unemployment Rate in Casper, WY (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| CASP256UR                 | Unemployment Rate in Casper, WY (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| CASP256URN                | Unemployment Rate in Casper, WY (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | CSPPOP                    | Resident Population in Casper, WY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC162230010             | Total Quarterly Wages in Casper, WY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC162230010SA           | Total Quarterly Wages in Casper, WY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -47,9 +47,9 @@
 | ENUC162240510SA           | Average Weekly Wages for Employees in Private Establishments in Casper, WY (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD16220                 | Implicit Regional Price Deflator for Casper, WY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT561622000000003A     | Unemployment Rate in Casper, WY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT561622000000004      | Unemployed Persons in Casper, WY (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT561622000000004      | Unemployed Persons in Casper, WY (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT561622000000004A     | Unemployed Persons in Casper, WY (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT561622000000005      | Employed Persons in Casper, WY (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT561622000000005      | Employed Persons in Casper, WY (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT561622000000005A     | Employed Persons in Casper, WY (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT561622000000006A     | Civilian Labor Force in Casper, WY (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR16220          | Housing Inventory: Median Days on Market in Casper, WY (CBSA)                                               | 2016-07-01          | 2022-09-01        |

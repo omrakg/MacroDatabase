@@ -18,8 +18,8 @@
 | Greeley County, KS      |                87 |
 | Marion County, KS       |                90 |
 | Clay County, KS         |                90 |
-| Ellis County, KS        |                 0 |
-| Hodgeman County, KS     |                89 |
+| Ellis County, KS        |                90 |
+| Hodgeman County, KS     |                 0 |
 | Wabaunsee County, KS    |                89 |
 | Barber County, KS       |                89 |
 | Lincoln County, KS      |                88 |
@@ -92,7 +92,7 @@
 | Wallace County, KS      |                84 |
 | Washington County, KS   |                89 |
 | Bourbon County, KS      |                90 |
-| Ellsworth County, KS    |                89 |
+| Ellsworth County, KS    |                 0 |
 | Haskell County, KS      |                87 |
 | Osage County, KS        |                90 |
 | Seward County, KS       |                89 |

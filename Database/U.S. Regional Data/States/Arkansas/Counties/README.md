@@ -9,7 +9,7 @@
 | Johnson County, AR      |                89 |
 | Union County, AR        |                90 |
 | Calhoun County, AR      |                89 |
-| Searcy County, AR       |                 0 |
+| Searcy County, AR       |                88 |
 | Columbia County, AR     |                90 |
 | Jackson County, AR      |                90 |
 | Van Buren County, AR    |                89 |
@@ -35,7 +35,7 @@
 | Miller County, AR       |                89 |
 | Cleveland County, AR    |                87 |
 | Stone County, AR        |                89 |
-| Craighead County, AR    |               147 |
+| Craighead County, AR    |                 0 |
 | Chicot County, AR       |                90 |
 | Carroll County, AR      |                90 |
 | Montgomery County, AR   |                87 |

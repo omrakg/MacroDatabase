@@ -29,7 +29,7 @@
 | Germany        |                 1 |
 | Mexico         |               874 |
 | Belgium        |                 1 |
-| Portugal       |               829 |
+| Portugal       |                 0 |
 | Thailand       |                 5 |
 | Hong Kong      |               270 |
 | India          |                 5 |

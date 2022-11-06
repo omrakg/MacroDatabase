@@ -32,7 +32,7 @@
 | Todd County, SD          |                88 |
 | Clark County, SD         |                88 |
 | Lake County, SD          |                88 |
-| Mellette County, SD      |                88 |
+| Mellette County, SD      |                 0 |
 | Hyde County, SD          |                86 |
 | Grant County, SD         |                88 |
 | Moody County, SD         |                89 |
@@ -44,7 +44,7 @@
 | Charles Mix County, SD   |                89 |
 | McPherson County, SD     |                88 |
 | Corson County, SD        |                87 |
-| Kingsbury County, SD     |                 0 |
+| Kingsbury County, SD     |                88 |
 | Yankton County, SD       |                90 |
 | Shannon County, SD       |                22 |
 | Bennett County, SD       |                87 |

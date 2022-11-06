@@ -2,7 +2,7 @@
 |-----------------------|-------------------|
 | Mercer County, WV     |               146 |
 | Pocahontas County, WV |                87 |
-| Raleigh County, WV    |               147 |
+| Raleigh County, WV    |                 0 |
 | Roane County, WV      |                89 |
 | Boone County, WV      |                89 |
 | Jefferson County, WV  |               146 |
@@ -14,7 +14,7 @@
 | Wayne County, WV      |                90 |
 | Hardy County, WV      |                89 |
 | Wyoming County, WV    |                89 |
-| Barbour County, WV    |                 0 |
+| Barbour County, WV    |                89 |
 | Wood County, WV       |               147 |
 | Randolph County, WV   |                90 |
 | Mason County, WV      |                89 |

@@ -26,9 +26,9 @@
 | HOSCMSA39380              | Market Hotness: Hotness Score in Pueblo, CO (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD39380                 | Implicit Regional Price Deflator for Pueblo, CO (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT083938000000003A     | Unemployment Rate in Pueblo, CO (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT083938000000004      | Unemployed Persons in Pueblo, CO (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT083938000000004      | Unemployed Persons in Pueblo, CO (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT083938000000004A     | Unemployed Persons in Pueblo, CO (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT083938000000005      | Employed Persons in Pueblo, CO (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT083938000000005      | Employed Persons in Pueblo, CO (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT083938000000005A     | Employed Persons in Pueblo, CO (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT083938000000006A     | Civilian Labor Force in Pueblo, CO (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA39380          | Market Hotness: Listing Views per Property in Pueblo, CO (CBSA)                                             | 2017-09-01          | 2022-09-01        |
@@ -85,8 +85,8 @@
 | PUEB308INFON              | All Employees: Information in Pueblo, CO (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | PUEB308LEIH               | All Employees: Leisure and Hospitality in Pueblo, CO (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | PUEB308LEIHN              | All Employees: Leisure and Hospitality in Pueblo, CO (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| PUEB308LF                 | Civilian Labor Force in Pueblo, CO (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| PUEB308LFN                | Civilian Labor Force in Pueblo, CO (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| PUEB308LF                 | Civilian Labor Force in Pueblo, CO (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| PUEB308LFN                | Civilian Labor Force in Pueblo, CO (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | PUEB308MFG                | All Employees: Manufacturing in Pueblo, CO (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | PUEB308MFGN               | All Employees: Manufacturing in Pueblo, CO (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | PUEB308NA                 | All Employees: Total Nonfarm in Pueblo, CO (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -100,8 +100,8 @@
 | PUEB308SRVON              | All Employees: Other Services in Pueblo, CO (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | PUEB308TRAD               | All Employees: Trade, Transportation, and Utilities in Pueblo, CO (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | PUEB308TRADN              | All Employees: Trade, Transportation, and Utilities in Pueblo, CO (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| PUEB308UR                 | Unemployment Rate in Pueblo, CO (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| PUEB308URN                | Unemployment Rate in Pueblo, CO (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| PUEB308UR                 | Unemployment Rate in Pueblo, CO (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| PUEB308URN                | Unemployment Rate in Pueblo, CO (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | PUEPOP                    | Resident Population in Pueblo, CO (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | QGMP39380                 | Total Quantity Indexes for Real GDP for Pueblo, CO (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP39380                 | Total Real Gross Domestic Product for Pueblo, CO (MSA)                                                      | 2001-01-01          | 2020-01-01        |

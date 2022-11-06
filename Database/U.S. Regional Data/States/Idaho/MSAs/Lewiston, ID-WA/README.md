@@ -21,9 +21,9 @@
 | ENUC303040510SA           | Average Weekly Wages for Employees in Private Establishments in Lewiston, ID-WA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD30300                 | Implicit Regional Price Deflator for Lewiston, ID-WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT163030000000003A     | Unemployment Rate in Lewiston, ID-WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT163030000000004      | Unemployed Persons in Lewiston, ID-WA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT163030000000004      | Unemployed Persons in Lewiston, ID-WA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT163030000000004A     | Unemployed Persons in Lewiston, ID-WA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT163030000000005      | Employed Persons in Lewiston, ID-WA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT163030000000005      | Employed Persons in Lewiston, ID-WA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT163030000000005A     | Employed Persons in Lewiston, ID-WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT163030000000006A     | Civilian Labor Force in Lewiston, ID-WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LEWI316EDUH               | All Employees: Education and Health Services in Lewiston, ID-WA (MSA)                                            | 1990-01-01          | 2022-09-01        |
@@ -36,8 +36,8 @@
 | LEWI316INFON              | All Employees: Information in Lewiston, ID-WA (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | LEWI316LEIH               | All Employees: Leisure and Hospitality in Lewiston, ID-WA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | LEWI316LEIHN              | All Employees: Leisure and Hospitality in Lewiston, ID-WA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| LEWI316LF                 | Civilian Labor Force in Lewiston, ID-WA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| LEWI316LFN                | Civilian Labor Force in Lewiston, ID-WA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| LEWI316LF                 | Civilian Labor Force in Lewiston, ID-WA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| LEWI316LFN                | Civilian Labor Force in Lewiston, ID-WA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | LEWI316MFG                | All Employees: Manufacturing in Lewiston, ID-WA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | LEWI316MFGN               | All Employees: Manufacturing in Lewiston, ID-WA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | LEWI316NA                 | All Employees: Total Nonfarm in Lewiston, ID-WA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -49,8 +49,8 @@
 | LEWI316SRVON              | All Employees: Other Services in Lewiston, ID-WA (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | LEWI316TRAD               | All Employees: Trade, Transportation, and Utilities in Lewiston, ID-WA (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | LEWI316TRADN              | All Employees: Trade, Transportation, and Utilities in Lewiston, ID-WA (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| LEWI316UR                 | Unemployment Rate in Lewiston, ID-WA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| LEWI316URN                | Unemployment Rate in Lewiston, ID-WA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| LEWI316UR                 | Unemployment Rate in Lewiston, ID-WA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| LEWI316URN                | Unemployment Rate in Lewiston, ID-WA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | LEWPOP                    | Resident Population in Lewiston, ID-WA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | MEDDAYONMAR30300          | Housing Inventory: Median Days on Market in Lewiston, ID-WA (CBSA)                                               | 2016-07-01          | 2022-09-01        |
 | MEDDAYONMARMM30300        | Housing Inventory: Median Days on Market Month-Over-Month in Lewiston, ID-WA (CBSA)                              | 2017-07-01          | 2022-09-01        |

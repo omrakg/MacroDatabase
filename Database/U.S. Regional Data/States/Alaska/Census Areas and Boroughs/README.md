@@ -13,7 +13,7 @@
 | Dillingham Census Area, AK                      |                87 |
 | Wrangell Borough - City, AK                     |                 0 |
 | Fairbanks North Star Borough, AK                |               146 |
-| Haines Borough, AK                              |                 0 |
+| Haines Borough, AK                              |                87 |
 | Yakutat City and Borough                        |                82 |
 | Skagway-Hoonah-Angoon Census Area, AK           |                 7 |
 | Ketchikan Gateway Borough, AK                   |                88 |

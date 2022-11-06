@@ -21,9 +21,9 @@
 | ENUC431040510SA           | Average Weekly Wages for Employees in Private Establishments in Sheboygan, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD43100                 | Implicit Regional Price Deflator for Sheboygan, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT554310000000003A     | Unemployment Rate in Sheboygan, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT554310000000004      | Unemployed Persons in Sheboygan, WI (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT554310000000004      | Unemployed Persons in Sheboygan, WI (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT554310000000004A     | Unemployed Persons in Sheboygan, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT554310000000005      | Employed Persons in Sheboygan, WI (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT554310000000005      | Employed Persons in Sheboygan, WI (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT554310000000005A     | Employed Persons in Sheboygan, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT554310000000006A     | Civilian Labor Force in Sheboygan, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR43100          | Housing Inventory: Median Days on Market in Sheboygan, WI (CBSA)                                               | 2016-07-01          | 2022-09-01        |
@@ -71,8 +71,8 @@
 | SHEB155INFON              | All Employees: Information in Sheboygan, WI (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | SHEB155LEIH               | All Employees: Leisure and Hospitality in Sheboygan, WI (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | SHEB155LEIHN              | All Employees: Leisure and Hospitality in Sheboygan, WI (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| SHEB155LF                 | Civilian Labor Force in Sheboygan, WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| SHEB155LFN                | Civilian Labor Force in Sheboygan, WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| SHEB155LF                 | Civilian Labor Force in Sheboygan, WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| SHEB155LFN                | Civilian Labor Force in Sheboygan, WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | SHEB155MFG                | All Employees: Manufacturing in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | SHEB155MFGN               | All Employees: Manufacturing in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | SHEB155NA                 | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -86,8 +86,8 @@
 | SHEB155SRVON              | All Employees: Other Services in Sheboygan, WI (MSA)                                                           | 2001-01-01          | 2022-09-01        |
 | SHEB155TRAD               | All Employees: Trade, Transportation, and Utilities in Sheboygan, WI (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | SHEB155TRADN              | All Employees: Trade, Transportation, and Utilities in Sheboygan, WI (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| SHEB155UR                 | Unemployment Rate in Sheboygan, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| SHEB155URN                | Unemployment Rate in Sheboygan, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| SHEB155UR                 | Unemployment Rate in Sheboygan, WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| SHEB155URN                | Unemployment Rate in Sheboygan, WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | SMS55431000000000026      | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1990-04-01          | 2022-09-01        |
 | SMU55431000000000001A     | All Employees: Total Nonfarm in Sheboygan, WI (MSA)                                                            | 1981-01-01          | 2021-01-01        |
 | SMU55431000500000001      | All Employees: Total Private in Sheboygan, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |

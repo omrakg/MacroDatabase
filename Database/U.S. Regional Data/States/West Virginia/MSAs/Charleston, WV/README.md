@@ -17,8 +17,8 @@
 | CHAR654INFON              | All Employees: Information in Charleston, WV (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | CHAR654LEIH               | All Employees: Leisure and Hospitality in Charleston, WV (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | CHAR654LEIHN              | All Employees: Leisure and Hospitality in Charleston, WV (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| CHAR654LF                 | Civilian Labor Force in Charleston, WV (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| CHAR654LFN                | Civilian Labor Force in Charleston, WV (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| CHAR654LF                 | Civilian Labor Force in Charleston, WV (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| CHAR654LFN                | Civilian Labor Force in Charleston, WV (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | CHAR654MFG                | All Employees: Manufacturing in Charleston, WV (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CHAR654MFGN               | All Employees: Manufacturing in Charleston, WV (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CHAR654NA                 | All Employees: Total Nonfarm in Charleston, WV (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -32,8 +32,8 @@
 | CHAR654SRVON              | All Employees: Other Services in Charleston, WV (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | CHAR654TRAD               | All Employees: Trade, Transportation, and Utilities in Charleston, WV (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | CHAR654TRADN              | All Employees: Trade, Transportation, and Utilities in Charleston, WV (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| CHAR654UR                 | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| CHAR654URN                | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| CHAR654UR                 | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| CHAR654URN                | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | CHRPOP                    | Resident Population in Charleston, WV (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16620              | Market Hotness: Demand Score in Charleston, WV (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC166230010             | Total Quarterly Wages in Charleston, WV (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA16620              | Market Hotness: Hotness Score in Charleston, WV (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD16620                 | Implicit Regional Price Deflator for Charleston, WV (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT541662000000003A     | Unemployment Rate in Charleston, WV (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT541662000000004      | Unemployed Persons in Charleston, WV (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT541662000000004      | Unemployed Persons in Charleston, WV (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT541662000000004A     | Unemployed Persons in Charleston, WV (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT541662000000005      | Employed Persons in Charleston, WV (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT541662000000005      | Employed Persons in Charleston, WV (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT541662000000005A     | Employed Persons in Charleston, WV (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT541662000000006A     | Civilian Labor Force in Charleston, WV (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA16620          | Market Hotness: Listing Views per Property in Charleston, WV (CBSA)                                             | 2017-09-01          | 2022-09-01        |

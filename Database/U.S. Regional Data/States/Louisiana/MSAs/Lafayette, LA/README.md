@@ -35,8 +35,8 @@
 | LAFA122INFON              | All Employees: Information in Lafayette, LA (MSA)                                                                          | 1990-01-01          | 2022-09-01        |
 | LAFA122LEIH               | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | LAFA122LEIHN              | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-09-01        |
-| LAFA122LF                 | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
-| LAFA122LFN                | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-08-01        |
+| LAFA122LF                 | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
+| LAFA122LFN                | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
 | LAFA122MFG                | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAFA122MFGN               | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAFA122NA                 | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
@@ -48,12 +48,12 @@
 | LAFA122SRVON              | All Employees: Other Services in Lafayette, LA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | LAFA122TRAD               | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | LAFA122TRADN              | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-09-01        |
-| LAFA122UR                 | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
-| LAFA122URN                | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-08-01        |
+| LAFA122UR                 | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
+| LAFA122URN                | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
 | LAUMT222918000000003A     | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT222918000000004      | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2022-08-01        |
+| LAUMT222918000000004      | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2022-09-01        |
 | LAUMT222918000000004A     | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT222918000000005      | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2022-08-01        |
+| LAUMT222918000000005      | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2022-09-01        |
 | LAUMT222918000000005A     | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT222918000000006A     | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA29180          | Market Hotness: Listing Views per Property in Lafayette, LA (CBSA)                                                         | 2017-09-01          | 2022-09-01        |

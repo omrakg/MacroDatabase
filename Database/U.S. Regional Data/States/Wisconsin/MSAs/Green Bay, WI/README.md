@@ -31,8 +31,8 @@
 | GREE555INFON              | All Employees: Information in Green Bay, WI (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | GREE555LEIH               | All Employees: Leisure and Hospitality in Green Bay, WI (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | GREE555LEIHN              | All Employees: Leisure and Hospitality in Green Bay, WI (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| GREE555LF                 | Civilian Labor Force in Green Bay, WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| GREE555LFN                | Civilian Labor Force in Green Bay, WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| GREE555LF                 | Civilian Labor Force in Green Bay, WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| GREE555LFN                | Civilian Labor Force in Green Bay, WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | GREE555MFG                | All Employees: Manufacturing in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | GREE555MFGN               | All Employees: Manufacturing in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | GREE555NA                 | All Employees: Total Nonfarm in Green Bay, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -46,17 +46,17 @@
 | GREE555SRVON              | All Employees: Other Services in Green Bay, WI (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | GREE555TRAD               | All Employees: Trade, Transportation, and Utilities in Green Bay, WI (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | GREE555TRADN              | All Employees: Trade, Transportation, and Utilities in Green Bay, WI (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| GREE555UR                 | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| GREE555URN                | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| GREE555UR                 | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| GREE555URN                | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | HORAMMMSA24580            | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
 | HORAMSA24580              | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | HORAYYMSA24580            | Market Hotness: Hotness Rank in Green Bay, WI (CBSA)                                                           | 2018-08-01          | 2022-09-01        |
 | HOSCMSA24580              | Market Hotness: Hotness Score in Green Bay, WI (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD24580                 | Implicit Regional Price Deflator for Green Bay, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT552458000000003A     | Unemployment Rate in Green Bay, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT552458000000004      | Unemployed Persons in Green Bay, WI (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT552458000000004      | Unemployed Persons in Green Bay, WI (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT552458000000004A     | Unemployed Persons in Green Bay, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT552458000000005      | Employed Persons in Green Bay, WI (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT552458000000005      | Employed Persons in Green Bay, WI (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT552458000000005A     | Employed Persons in Green Bay, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT552458000000006A     | Civilian Labor Force in Green Bay, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA24580          | Market Hotness: Listing Views per Property in Green Bay, WI (CBSA)                                             | 2017-09-01          | 2022-09-01        |

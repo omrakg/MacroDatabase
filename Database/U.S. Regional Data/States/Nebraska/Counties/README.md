@@ -5,7 +5,7 @@
 | Boyd County, NE         |                89 |
 | Wayne County, NE        |                90 |
 | McPherson County, NE    |                83 |
-| Cedar County, NE        |                90 |
+| Cedar County, NE        |                 0 |
 | Frontier County, NE     |                89 |
 | Antelope County, NE     |                90 |
 | Saunders County, NE     |                90 |
@@ -45,7 +45,7 @@
 | Deuel County, NE        |                88 |
 | Phelps County, NE       |                90 |
 | Lancaster County, NE    |               147 |
-| Nemaha County, NE       |                 0 |
+| Nemaha County, NE       |                89 |
 | Thurston County, NE     |                89 |
 | Knox County, NE         |                89 |
 | Arthur County, NE       |                82 |
@@ -65,7 +65,7 @@
 | Nance County, NE        |                88 |
 | Cherry County, NE       |                88 |
 | Thayer County, NE       |                88 |
-| Colfax County, NE       |                90 |
+| Colfax County, NE       |                 0 |
 | Polk County, NE         |                90 |
 | Keith County, NE        |                89 |
 | Sarpy County, NE        |               147 |

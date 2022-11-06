@@ -14,8 +14,8 @@
 | ELZGOVTN                  | All Employees: Government in Elizabethtown-Fort Knox, KY (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | ELZLEIH                   | All Employees: Leisure and Hospitality in Elizabethtown-Fort Knox, KY (MSA)                                    | 1990-01-01          | 2022-09-01        |
 | ELZLEIHN                  | All Employees: Leisure and Hospitality in Elizabethtown-Fort Knox, KY (MSA)                                    | 1990-01-01          | 2022-09-01        |
-| ELZLF                     | Civilian Labor Force in Elizabethtown-Fort Knox, KY (MSA)                                                      | 1990-01-01          | 2022-08-01        |
-| ELZLFN                    | Civilian Labor Force in Elizabethtown-Fort Knox, KY (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| ELZLF                     | Civilian Labor Force in Elizabethtown-Fort Knox, KY (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| ELZLFN                    | Civilian Labor Force in Elizabethtown-Fort Knox, KY (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | ELZMFG                    | All Employees: Manufacturing in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | ELZMFGN                   | All Employees: Manufacturing in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | ELZNA                     | All Employees: Total Nonfarm in Elizabethtown-Fort Knox, KY (MSA)                                              | 1990-01-01          | 2022-09-01        |
@@ -27,8 +27,8 @@
 | ELZPOP                    | Resident Population in Elizabethtown-Fort Knox, KY (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | ELZTRAD                   | All Employees: Trade, Transportation, and Utilities in Elizabethtown-Fort Knox, KY (MSA)                       | 1990-01-01          | 2022-09-01        |
 | ELZTRADN                  | All Employees: Trade, Transportation, and Utilities in Elizabethtown-Fort Knox, KY (MSA)                       | 1990-01-01          | 2022-09-01        |
-| ELZUR                     | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| ELZURN                    | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| ELZUR                     | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| ELZURN                    | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2022-09-01        |
 | ENUC210630010             | Total Quarterly Wages in Elizabethtown-Fort Knox, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC210630010SA           | Total Quarterly Wages in Elizabethtown-Fort Knox, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC210640010             | Average Weekly Wages for Employees in Total Covered Establishments in Elizabethtown, KY (MSA)                  | 1990-01-01          | 2022-01-01        |
@@ -47,9 +47,9 @@
 | HOSCMSA21060              | Market Hotness: Hotness Score in Elizabethtown-Fort Knox, KY (CBSA)                                            | 2017-08-01          | 2022-09-01        |
 | IRPD21060                 | Implicit Regional Price Deflator for Elizabethtown-Fort Knox, KY (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT212106000000003A     | Unemployment Rate in Elizabethtown-Fort Knox, KY (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT212106000000004      | Unemployed Persons in Elizabethtown-Fort Knox, KY (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT212106000000004      | Unemployed Persons in Elizabethtown-Fort Knox, KY (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT212106000000004A     | Unemployed Persons in Elizabethtown-Fort Knox, KY (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT212106000000005      | Employed Persons in Elizabethtown-Fort Knox, KY (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| LAUMT212106000000005      | Employed Persons in Elizabethtown-Fort Knox, KY (MSA)                                                          | 1990-01-01          | 2022-09-01        |
 | LAUMT212106000000005A     | Employed Persons in Elizabethtown-Fort Knox, KY (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT212106000000006A     | Civilian Labor Force in Elizabethtown-Fort Knox, KY (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA21060          | Market Hotness: Listing Views per Property in Elizabethtown-Fort Knox, KY (CBSA)                               | 2017-09-01          | 2022-09-01        |

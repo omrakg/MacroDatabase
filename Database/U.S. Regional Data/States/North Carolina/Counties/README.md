@@ -2,9 +2,9 @@
 |-------------------------|-------------------|
 | Orange County, NC       |               147 |
 | Johnston County, NC     |               147 |
-| Polk County, NC         |                90 |
+| Polk County, NC         |                 0 |
 | Jones County, NC        |                90 |
-| Beaufort County, NC     |                 0 |
+| Beaufort County, NC     |               146 |
 | Watauga County, NC      |               146 |
 | Harnett County, NC      |               147 |
 | Clay County, NC         |                90 |
@@ -62,9 +62,9 @@
 | Haywood County, NC      |               146 |
 | Alexander County, NC    |                90 |
 | Perquimans County, NC   |                90 |
-| Caswell County, NC      |                90 |
+| Caswell County, NC      |                 0 |
 | Lee County, NC          |               146 |
-| Cumberland County, NC   |                 0 |
+| Cumberland County, NC   |               147 |
 | Swain County, NC        |                88 |
 | Bertie County, NC       |                89 |
 | Caldwell County, NC     |               147 |

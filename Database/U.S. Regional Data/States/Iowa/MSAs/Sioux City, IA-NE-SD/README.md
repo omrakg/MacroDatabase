@@ -26,9 +26,9 @@
 | HOSCMSA43580              | Market Hotness: Hotness Score in Sioux City, IA-NE-SD (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD43580                 | Implicit Regional Price Deflator for Sioux City, IA-NE-SD (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT194358000000003A     | Unemployment Rate in Sioux City, IA-NE-SD (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT194358000000004      | Unemployed Persons in Sioux City, IA-NE-SD (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT194358000000004      | Unemployed Persons in Sioux City, IA-NE-SD (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT194358000000004A     | Unemployed Persons in Sioux City, IA-NE-SD (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT194358000000005      | Employed Persons in Sioux City, IA-NE-SD (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| LAUMT194358000000005      | Employed Persons in Sioux City, IA-NE-SD (MSA)                                                          | 1990-01-01          | 2022-09-01        |
 | LAUMT194358000000005A     | Employed Persons in Sioux City, IA-NE-SD (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT194358000000006A     | Civilian Labor Force in Sioux City, IA-NE-SD (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA43580          | Market Hotness: Listing Views per Property in Sioux City, IA-NE-SD (CBSA)                               | 2018-08-01          | 2022-08-01        |
@@ -84,8 +84,8 @@
 | SIOU519GOVTN              | All Employees: Government in Sioux City, IA-NE-SD (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | SIOU519LEIH               | All Employees: Leisure and Hospitality in Sioux City, IA-NE-SD (MSA)                                    | 1990-01-01          | 2022-09-01        |
 | SIOU519LEIHN              | All Employees: Leisure and Hospitality in Sioux City, IA-NE-SD (MSA)                                    | 1990-01-01          | 2022-09-01        |
-| SIOU519LF                 | Civilian Labor Force in Sioux City, IA-NE-SD (MSA)                                                      | 1990-01-01          | 2022-08-01        |
-| SIOU519LFN                | Civilian Labor Force in Sioux City, IA-NE-SD (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| SIOU519LF                 | Civilian Labor Force in Sioux City, IA-NE-SD (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| SIOU519LFN                | Civilian Labor Force in Sioux City, IA-NE-SD (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | SIOU519MFG                | All Employees: Manufacturing in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | SIOU519MFGN               | All Employees: Manufacturing in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | SIOU519NA                 | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2022-09-01        |
@@ -95,8 +95,8 @@
 | SIOU519PCPI               | Per Capita Personal Income in Sioux City, IA-NE-SD (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | SIOU519TRAD               | All Employees: Trade, Transportation, and Utilities in Sioux City, IA-NE-SD (MSA)                       | 1990-01-01          | 2022-09-01        |
 | SIOU519TRADN              | All Employees: Trade, Transportation, and Utilities in Sioux City, IA-NE-SD (MSA)                       | 1990-01-01          | 2022-09-01        |
-| SIOU519UR                 | Unemployment Rate in Sioux City, IA-NE-SD (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| SIOU519URN                | Unemployment Rate in Sioux City, IA-NE-SD (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| SIOU519UR                 | Unemployment Rate in Sioux City, IA-NE-SD (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| SIOU519URN                | Unemployment Rate in Sioux City, IA-NE-SD (MSA)                                                         | 1990-01-01          | 2022-09-01        |
 | SMS19435800000000001      | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2018-02-01        |
 | SMS19435800000000026      | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-04-01          | 2022-09-01        |
 | SMU19435800000000001A     | All Employees: Total Nonfarm in Sioux City, IA-NE-SD (MSA)                                              | 1990-01-01          | 2021-01-01        |

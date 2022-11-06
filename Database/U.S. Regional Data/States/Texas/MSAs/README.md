@@ -9,7 +9,7 @@
 | Brownsville-Harlingen, TX            |               217 |
 | Lubbock, TX                          |               162 |
 | Wichita Falls, TX                    |               162 |
-| Dallas-Fort Worth-Arlington, TX      |                 0 |
+| Dallas-Fort Worth-Arlington, TX      |               245 |
 | Amarillo, TX                         |               165 |
 | Corpus Christi, TX                   |               180 |
 | Laredo, TX                           |               218 |

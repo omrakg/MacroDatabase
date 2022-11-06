@@ -40,7 +40,7 @@
 | St. Louis County, MN         |               147 |
 | Steele County, MN            |                90 |
 | Itasca County, MN            |                90 |
-| Beltrami County, MN          |                90 |
+| Beltrami County, MN          |                 0 |
 | Cass County, MN              |                90 |
 | Lake of the Woods County, MN |                88 |
 | Cottonwood County, MN        |                89 |
@@ -50,7 +50,7 @@
 | Kandiyohi County, MN         |                90 |
 | Norman County, MN            |                88 |
 | Chippewa County, MN          |                90 |
-| Freeborn County, MN          |                 0 |
+| Freeborn County, MN          |                90 |
 | Sherburne County, MN         |               147 |
 | Le Sueur County, MN          |                89 |
 | Meeker County, MN            |                90 |

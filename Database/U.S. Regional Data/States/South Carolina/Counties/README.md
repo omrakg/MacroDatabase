@@ -26,7 +26,7 @@
 | York County, SC         |               147 |
 | Florence County, SC     |               147 |
 | Berkeley County, SC     |               147 |
-| Lee County, SC          |                 0 |
+| Lee County, SC          |                90 |
 | McCormick County, SC    |                90 |
 | Marion County, SC       |                89 |
 | Lexington County, SC    |               147 |
@@ -36,7 +36,7 @@
 | Charleston County, SC   |               147 |
 | Spartanburg County, SC  |               147 |
 | Aiken County, SC        |               147 |
-| Kershaw County, SC      |               146 |
+| Kershaw County, SC      |                 0 |
 | Chester County, SC      |                90 |
 | Saluda County, SC       |                88 |
 | Fairfield County, SC    |                90 |

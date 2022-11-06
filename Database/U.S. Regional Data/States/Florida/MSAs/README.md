@@ -1,6 +1,6 @@
 | Folder                                  |   Files / Folders |
 |-----------------------------------------|-------------------|
-| Panama City, FL                         |               159 |
+| Panama City, FL                         |                 0 |
 | Gainesville, FL                         |               165 |
 | Homosassa Springs, FL                   |                59 |
 | Cape Coral-Fort Myers, FL               |               169 |

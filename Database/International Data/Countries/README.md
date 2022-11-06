@@ -28,13 +28,13 @@
 | Bahrain                                              |               189 |
 | Norway                                               |                 0 |
 | Virgin Islands, British                              |               106 |
-| Holy See (Vatican City State)                        |                 0 |
+| Holy See (Vatican City State)                        |                58 |
 | Aland Islands                                        |                 0 |
 | Christmas Island                                     |                55 |
 | Algeria                                              |               234 |
 | Micronesia, Federated States of                      |               155 |
 | Sudan                                                |               211 |
-| Suriname                                             |               255 |
+| Suriname                                             |                 0 |
 | Slovak Republic                                      |               761 |
 | Japan                                                |                 0 |
 | Turkey                                               |               887 |
@@ -88,7 +88,7 @@
 | Uzbekistan                                           |               184 |
 | Moldova, Republic of                                 |               235 |
 | Israel                                               |               862 |
-| Rwanda                                               |                 0 |
+| Rwanda                                               |               300 |
 | Turkmenistan                                         |               142 |
 | Ethiopia                                             |               216 |
 | Panama                                               |               225 |
@@ -100,7 +100,7 @@
 | Luxembourg                                           |               832 |
 | Northern Mariana Islands                             |                 6 |
 | Denmark                                              |                 0 |
-| Costa Rica                                           |               578 |
+| Costa Rica                                           |                 0 |
 | Svalbard and Jan Mayen                               |                43 |
 | Belize                                               |               216 |
 | United States                                        |                 0 |
@@ -160,7 +160,7 @@
 | Falkland Islands                                     |                41 |
 | Lebanon                                              |               259 |
 | Barbados                                             |               215 |
-| Comoros                                              |               203 |
+| Comoros                                              |                 0 |
 | Croatia                                              |               425 |
 | Saudi Arabia                                         |               426 |
 | Jamaica                                              |               241 |
@@ -208,7 +208,7 @@
 | Hungary                                              |               864 |
 | Aruba                                                |               188 |
 | Sao Tome and Principe                                |               165 |
-| Saint Pierre and Miquelon                            |                 0 |
+| Saint Pierre and Miquelon                            |                33 |
 | Tokelau                                              |                85 |
 | Turks and Caicos Islands                             |               108 |
 | Western Sahara                                       |                16 |
@@ -237,10 +237,10 @@
 | India                                                |                 0 |
 | Niue                                                 |                39 |
 | Saint Helena, Ascension and Tristan da Cunha         |                56 |
-| Swaziland                                            |               217 |
+| Swaziland                                            |                 0 |
 | Malta                                                |               403 |
 | Philippines                                          |               301 |
-| Wallis and Futuna                                    |                33 |
+| Wallis and Futuna                                    |                 0 |
 | Cuba                                                 |               102 |
 | China                                                |                 0 |
 | Samoa                                                |               279 |

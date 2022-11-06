@@ -27,9 +27,9 @@
 | IHLCHG46140               | Job Postings on Indeed in Tulsa, OK (MSA)                                                                                                      | 2020-02-01          | 2022-10-14        |
 | IRPD46140                 | Implicit Regional Price Deflator for Tulsa, OK (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT404614000000003A     | Unemployment Rate in Tulsa, OK (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT404614000000004      | Unemployed Persons in Tulsa, OK (MSA)                                                                                                          | 1990-01-01          | 2022-08-01        |
+| LAUMT404614000000004      | Unemployed Persons in Tulsa, OK (MSA)                                                                                                          | 1990-01-01          | 2022-09-01        |
 | LAUMT404614000000004A     | Unemployed Persons in Tulsa, OK (MSA)                                                                                                          | 1990-01-01          | 2021-01-01        |
-| LAUMT404614000000005      | Employed Persons in Tulsa, OK (MSA)                                                                                                            | 1990-01-01          | 2022-08-01        |
+| LAUMT404614000000005      | Employed Persons in Tulsa, OK (MSA)                                                                                                            | 1990-01-01          | 2022-09-01        |
 | LAUMT404614000000005A     | Employed Persons in Tulsa, OK (MSA)                                                                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT404614000000006A     | Civilian Labor Force in Tulsa, OK (MSA)                                                                                                        | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA46140          | Market Hotness: Listing Views per Property in Tulsa, OK (CBSA)                                                                                 | 2017-09-01          | 2022-09-01        |
@@ -233,8 +233,8 @@
 | TULS140INFON              | All Employees: Information in Tulsa, OK (MSA)                                                                                                  | 1990-01-01          | 2022-09-01        |
 | TULS140LEIH               | All Employees: Leisure and Hospitality in Tulsa, OK (MSA)                                                                                      | 1990-01-01          | 2022-09-01        |
 | TULS140LEIHN              | All Employees: Leisure and Hospitality in Tulsa, OK (MSA)                                                                                      | 1990-01-01          | 2022-09-01        |
-| TULS140LF                 | Civilian Labor Force in Tulsa, OK (MSA)                                                                                                        | 1990-01-01          | 2022-08-01        |
-| TULS140LFN                | Civilian Labor Force in Tulsa, OK (MSA)                                                                                                        | 1990-01-01          | 2022-08-01        |
+| TULS140LF                 | Civilian Labor Force in Tulsa, OK (MSA)                                                                                                        | 1990-01-01          | 2022-09-01        |
+| TULS140LFN                | Civilian Labor Force in Tulsa, OK (MSA)                                                                                                        | 1990-01-01          | 2022-09-01        |
 | TULS140MFG                | All Employees: Manufacturing in Tulsa, OK (MSA)                                                                                                | 1990-01-01          | 2022-09-01        |
 | TULS140MFGN               | All Employees: Manufacturing in Tulsa, OK (MSA)                                                                                                | 1990-01-01          | 2022-09-01        |
 | TULS140NA                 | All Employees: Total Nonfarm in Tulsa, OK (MSA)                                                                                                | 1990-01-01          | 2022-09-01        |
@@ -246,5 +246,5 @@
 | TULS140SRVON              | All Employees: Other Services in Tulsa, OK (MSA)                                                                                               | 1990-01-01          | 2022-09-01        |
 | TULS140TRAD               | All Employees: Trade, Transportation, and Utilities in Tulsa, OK (MSA)                                                                         | 1990-01-01          | 2022-09-01        |
 | TULS140TRADN              | All Employees: Trade, Transportation, and Utilities in Tulsa, OK (MSA)                                                                         | 1990-01-01          | 2022-09-01        |
-| TULS140UR                 | Unemployment Rate in Tulsa, OK (MSA)                                                                                                           | 1990-01-01          | 2022-08-01        |
-| TULS140URN                | Unemployment Rate in Tulsa, OK (MSA)                                                                                                           | 1990-01-01          | 2022-08-01        |
+| TULS140UR                 | Unemployment Rate in Tulsa, OK (MSA)                                                                                                           | 1990-01-01          | 2022-09-01        |
+| TULS140URN                | Unemployment Rate in Tulsa, OK (MSA)                                                                                                           | 1990-01-01          | 2022-09-01        |

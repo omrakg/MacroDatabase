@@ -26,9 +26,9 @@
 | HOSCMSA30140              | Market Hotness: Hotness Score in Lebanon, PA (CBSA)                                            | 2017-08-01          | 2022-09-01        |
 | IRPD30140                 | Implicit Regional Price Deflator for Lebanon, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT423014000000003A     | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT423014000000004      | Unemployed Persons in Lebanon, PA (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT423014000000004      | Unemployed Persons in Lebanon, PA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT423014000000004A     | Unemployed Persons in Lebanon, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT423014000000005      | Employed Persons in Lebanon, PA (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| LAUMT423014000000005      | Employed Persons in Lebanon, PA (MSA)                                                          | 1990-01-01          | 2022-09-01        |
 | LAUMT423014000000005A     | Employed Persons in Lebanon, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT423014000000006A     | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA30140          | Market Hotness: Listing Views per Property in Lebanon, PA (CBSA)                               | 2017-09-01          | 2022-09-01        |
@@ -38,8 +38,8 @@
 | LEBA142EDUHN              | All Employees: Education and Health Services in Lebanon, PA (MSA)                              | 1990-01-01          | 2022-09-01        |
 | LEBA142GOVT               | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | LEBA142GOVTN              | All Employees: Government in Lebanon, PA (MSA)                                                 | 1990-01-01          | 2022-09-01        |
-| LEBA142LF                 | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
-| LEBA142LFN                | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| LEBA142LF                 | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| LEBA142LFN                | Civilian Labor Force in Lebanon, PA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | LEBA142MFG                | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | LEBA142MFGN               | All Employees: Manufacturing in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | LEBA142NA                 | All Employees: Total Nonfarm in Lebanon, PA (MSA)                                              | 1990-01-01          | 2022-09-01        |
@@ -47,8 +47,8 @@
 | LEBA142PCPI               | Per Capita Personal Income in Lebanon, PA (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | LEBA142TRAD               | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2022-09-01        |
 | LEBA142TRADN              | All Employees: Trade, Transportation, and Utilities in Lebanon, PA (MSA)                       | 1990-01-01          | 2022-09-01        |
-| LEBA142UR                 | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| LEBA142URN                | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| LEBA142UR                 | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| LEBA142URN                | Unemployment Rate in Lebanon, PA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
 | LEBPOP                    | Resident Population in Lebanon, PA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | MEDAONMAMMMSA30140        | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2017-08-01          | 2022-09-01        |
 | MEDAONMAMSA30140          | Market Hotness: Median Days on Market in Lebanon, PA (CBSA)                                    | 2017-08-01          | 2022-09-01        |

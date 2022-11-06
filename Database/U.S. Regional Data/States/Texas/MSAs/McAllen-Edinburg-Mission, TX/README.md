@@ -27,9 +27,9 @@
 | IHLCHG32580               | Job Postings on Indeed in McAllen-Edinburg-Mission, TX (MSA)                                                                  | 2020-02-01          | 2022-10-14        |
 | IRPD32580                 | Implicit Regional Price Deflator for McAllen-Edinburg-Mission, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483258000000003A     | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT483258000000004      | Unemployed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT483258000000004      | Unemployed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT483258000000004A     | Unemployed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT483258000000005      | Employed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT483258000000005      | Employed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT483258000000005A     | Employed Persons in McAllen-Edinburg-Mission, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT483258000000006A     | Civilian Labor Force in McAllen-Edinburg-Mission, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA32580          | Market Hotness: Listing Views per Property in Mcallen-Edinburg-Mission, TX (CBSA)                                             | 2017-09-01          | 2022-09-01        |
@@ -69,8 +69,8 @@
 | MCAL548INFON              | All Employees: Information in McAllen-Edinburg-Mission, TX (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | MCAL548LEIH               | All Employees: Leisure and Hospitality in McAllen-Edinburg-Mission, TX (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | MCAL548LEIHN              | All Employees: Leisure and Hospitality in McAllen-Edinburg-Mission, TX (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| MCAL548LF                 | Civilian Labor Force in McAllen-Edinburg-Mission, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| MCAL548LFN                | Civilian Labor Force in McAllen-Edinburg-Mission, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| MCAL548LF                 | Civilian Labor Force in McAllen-Edinburg-Mission, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| MCAL548LFN                | Civilian Labor Force in McAllen-Edinburg-Mission, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | MCAL548MFG                | All Employees: Manufacturing in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | MCAL548MFGN               | All Employees: Manufacturing in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | MCAL548NA                 | All Employees: Total Nonfarm in McAllen-Edinburg-Mission, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -84,8 +84,8 @@
 | MCAL548SRVON              | All Employees: Other Services in McAllen-Edinburg-Mission, TX (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | MCAL548TRAD               | All Employees: Trade, Transportation, and Utilities in McAllen-Edinburg-Mission, TX (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | MCAL548TRADN              | All Employees: Trade, Transportation, and Utilities in McAllen-Edinburg-Mission, TX (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| MCAL548UR                 | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| MCAL548URN                | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| MCAL548UR                 | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| MCAL548URN                | Unemployment Rate in McAllen-Edinburg-Mission, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | MCALEIHA158MFRBDAL        | Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-02-01          | 2022-09-01        |
 | MCALEIHA175MCFRBDAL       | Change in Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                   | 1990-02-01          | 2022-09-01        |
 | MCALEIHA175MFRBDAL        | Leisure and Hospitality Payroll Employment for McAllen-Edinburg-Mission, TX (MSA)                                             | 1990-01-01          | 2022-09-01        |

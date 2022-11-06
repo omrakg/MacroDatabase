@@ -30,8 +30,8 @@
 | FAYE137INFON              | All Employees: Information in Fayetteville, NC (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | FAYE137LEIH               | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | FAYE137LEIHN              | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| FAYE137LF                 | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| FAYE137LFN                | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| FAYE137LF                 | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| FAYE137LFN                | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | FAYE137MFG                | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | FAYE137MFGN               | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | FAYE137NA                 | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -45,8 +45,8 @@
 | FAYE137SRVON              | All Employees: Other Services in Fayetteville, NC (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | FAYE137TRAD               | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | FAYE137TRADN              | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| FAYE137UR                 | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| FAYE137URN                | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| FAYE137UR                 | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| FAYE137URN                | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | FAYPOP                    | Resident Population in Fayetteville, NC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA22180            | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
 | HORAMSA22180              | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
@@ -55,9 +55,9 @@
 | IHLCHG22180               | Job Postings on Indeed in Fayetteville, NC (MSA)                                                                  | 2020-02-01          | 2022-10-14        |
 | IRPD22180                 | Implicit Regional Price Deflator for Fayetteville, NC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT372218000000003A     | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT372218000000004      | Unemployed Persons in Fayetteville, NC (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT372218000000004      | Unemployed Persons in Fayetteville, NC (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT372218000000004A     | Unemployed Persons in Fayetteville, NC (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT372218000000005      | Employed Persons in Fayetteville, NC (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT372218000000005      | Employed Persons in Fayetteville, NC (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT372218000000005A     | Employed Persons in Fayetteville, NC (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT372218000000006A     | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA22180          | Market Hotness: Listing Views per Property in Fayetteville, NC (CBSA)                                             | 2017-09-01          | 2022-09-01        |

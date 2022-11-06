@@ -33,8 +33,8 @@
 | FAIR802INFON              | All Employees: Information in Fairbanks, AK (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | FAIR802LEIH               | All Employees: Leisure and Hospitality in Fairbanks, AK (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | FAIR802LEIHN              | All Employees: Leisure and Hospitality in Fairbanks, AK (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| FAIR802LF                 | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| FAIR802LFN                | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| FAIR802LF                 | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| FAIR802LFN                | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | FAIR802MFG                | All Employees: Manufacturing in Fairbanks, AK (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | FAIR802MFGN               | All Employees: Manufacturing in Fairbanks, AK (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | FAIR802NA                 | All Employees: Total Nonfarm in Fairbanks, AK (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -46,14 +46,14 @@
 | FAIR802SRVON              | All Employees: Other Services in Fairbanks, AK (MSA)                                                           | 2003-01-01          | 2022-09-01        |
 | FAIR802TRAD               | All Employees: Trade, Transportation, and Utilities in Fairbanks, AK (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | FAIR802TRADN              | All Employees: Trade, Transportation, and Utilities in Fairbanks, AK (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| FAIR802UR                 | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| FAIR802URN                | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| FAIR802UR                 | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| FAIR802URN                | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | FBKPOP                    | Resident Population in Fairbanks, AK (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | IRPD21820                 | Implicit Regional Price Deflator for Fairbanks, AK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT022182000000003A     | Unemployment Rate in Fairbanks, AK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT022182000000004      | Unemployed Persons in Fairbanks, AK (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT022182000000004      | Unemployed Persons in Fairbanks, AK (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT022182000000004A     | Unemployed Persons in Fairbanks, AK (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT022182000000005      | Employed Persons in Fairbanks, AK (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT022182000000005      | Employed Persons in Fairbanks, AK (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT022182000000005A     | Employed Persons in Fairbanks, AK (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT022182000000006A     | Civilian Labor Force in Fairbanks, AK (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR21820          | Housing Inventory: Median Days on Market in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-09-01        |

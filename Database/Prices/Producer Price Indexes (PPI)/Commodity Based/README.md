@@ -12,7 +12,7 @@
 | Furniture and Household Durables                                   |               151 |
 | Investment Services                                                |                17 |
 | Intermediate Demand By Commodity Type                              |               116 |
-| Cleaning and Building Maintenance Services                         |                 7 |
+| Cleaning and Building Maintenance Services                         |                 0 |
 | Travel Arrangement Services                                        |                25 |
 | Transportation Equipment                                           |               148 |
 | Industrial Commodities                                             |                 0 |
@@ -24,7 +24,7 @@
 | Repair and Maintenance Services                                    |                28 |
 | Industrial Commodities Less Fuels                                  |                 0 |
 | Lumber and Wood Products                                           |               119 |
-| Warehousing, Storage, and Related Services                         |                 0 |
+| Warehousing, Storage, and Related Services                         |                 7 |
 | Intermediate Demand By Production Flow                             |               306 |
 | Software Publishing                                                |                11 |
 | Processed Foods and Feeds                                          |               385 |

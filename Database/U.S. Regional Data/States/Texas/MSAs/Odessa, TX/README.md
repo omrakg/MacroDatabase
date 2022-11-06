@@ -26,9 +26,9 @@
 | HOSCMSA36220              | Market Hotness: Hotness Score in Odessa, TX (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD36220                 | Implicit Regional Price Deflator for Odessa, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483622000000003A     | Unemployment Rate in Odessa, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT483622000000004      | Unemployed Persons in Odessa, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT483622000000004      | Unemployed Persons in Odessa, TX (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT483622000000004A     | Unemployed Persons in Odessa, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT483622000000005      | Employed Persons in Odessa, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT483622000000005      | Employed Persons in Odessa, TX (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT483622000000005A     | Employed Persons in Odessa, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT483622000000006A     | Civilian Labor Force in Odessa, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA36220          | Market Hotness: Listing Views per Property in Odessa, TX (CBSA)                                             | 2017-09-01          | 2022-09-01        |
@@ -76,8 +76,8 @@
 | ODES248INFON              | All Employees: Information in Odessa, TX (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | ODES248LEIH               | All Employees: Leisure and Hospitality in Odessa, TX (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | ODES248LEIHN              | All Employees: Leisure and Hospitality in Odessa, TX (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| ODES248LF                 | Civilian Labor Force in Odessa, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| ODES248LFN                | Civilian Labor Force in Odessa, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| ODES248LF                 | Civilian Labor Force in Odessa, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| ODES248LFN                | Civilian Labor Force in Odessa, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | ODES248MFG                | All Employees: Manufacturing in Odessa, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | ODES248MFGN               | All Employees: Manufacturing in Odessa, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | ODES248NA                 | All Employees: Total Nonfarm in Odessa, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -91,8 +91,8 @@
 | ODES248SRVON              | All Employees: Other Services in Odessa, TX (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | ODES248TRAD               | All Employees: Trade, Transportation, and Utilities in Odessa, TX (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | ODES248TRADN              | All Employees: Trade, Transportation, and Utilities in Odessa, TX (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| ODES248UR                 | Unemployment Rate in Odessa, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| ODES248URN                | Unemployment Rate in Odessa, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| ODES248UR                 | Unemployment Rate in Odessa, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| ODES248URN                | Unemployment Rate in Odessa, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | ODESA158MFRBDAL           | Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                                       | 1990-02-01          | 2022-09-01        |
 | ODESA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                             | 1990-02-01          | 2022-09-01        |
 | ODESA175MFRBDAL           | Total Nonfarm Payroll Employment for Odessa, TX (MSA)                                                       | 1990-01-01          | 2022-09-01        |

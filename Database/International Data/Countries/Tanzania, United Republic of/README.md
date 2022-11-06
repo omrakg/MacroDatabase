@@ -71,7 +71,7 @@
 | DDSM01TZA066NWDB    | Volatility of Stock Price Index for United Republic of Tanzania                                                                            | 2009-01-01          | 2020-01-01        |
 | DETZAA052SCEN       | Value of Exports to Tanzania from Delaware                                                                                                 | 2008-01-01          | 2017-01-01        |
 | DETZAA475SCEN       | Number of Identified Exporters to Tanzania from Delaware                                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP7830             | U.S. Exports of Goods by F.A.S. Basis to Tanzania                                                                                          | 1992-01-01          | 2022-08-01        |
+| EXP7830             | U.S. Exports of Goods by F.A.S. Basis to Tanzania                                                                                          | 1992-01-01          | 2022-09-01        |
 | FLTZAA052SCEN       | Value of Exports to Tanzania from Florida                                                                                                  | 1997-01-01          | 2017-01-01        |
 | FLTZAA475SCEN       | Number of Identified Exporters to Tanzania from Florida                                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGTZA      | Inflation, consumer prices for the United Republic of Tanzania                                                                             | 1966-01-01          | 2020-01-01        |
@@ -85,7 +85,7 @@
 | IDTZAA475SCEN       | Number of Identified Exporters to Tanzania from Idaho                                                                                      | 1997-01-01          | 2017-01-01        |
 | ILTZAA052SCEN       | Value of Exports to Tanzania from Illinois                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILTZAA475SCEN       | Number of Identified Exporters to Tanzania from Illinois                                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7830             | U.S. Imports of Goods by Customs Basis from Tanzania                                                                                       | 1992-01-01          | 2022-08-01        |
+| IMP7830             | U.S. Imports of Goods by Customs Basis from Tanzania                                                                                       | 1992-01-01          | 2022-09-01        |
 | INTZAA052SCEN       | Value of Exports to Tanzania from Indiana                                                                                                  | 2002-01-01          | 2017-01-01        |
 | INTZAA475SCEN       | Number of Identified Exporters to Tanzania from Indiana                                                                                    | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2TZA      | Internet users for the United Republic of Tanzania                                                                                         | 1990-01-01          | 2020-01-01        |

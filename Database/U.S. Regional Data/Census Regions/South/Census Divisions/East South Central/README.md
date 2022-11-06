@@ -1,9 +1,9 @@
 | id                    | title                                                                                                                            | observation_start   | observation_end   |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ADPMCDESCNERNSA       | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-01          | 2022-09-01        |
-| ADPMCDESCNERSA        | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-01          | 2022-09-01        |
-| ADPWCDESCNERNSA       | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-02          | 2022-07-30        |
-| ADPWCDESCNERSA        | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-02          | 2022-07-30        |
+| ADPMCDESCNERNSA       | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-01          | 2022-10-01        |
+| ADPMCDESCNERSA        | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-01          | 2022-10-01        |
+| ADPWCDESCNERNSA       | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-02          | 2022-08-27        |
+| ADPWCDESCNERSA        | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-02          | 2022-08-27        |
 | CESCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-09-01        |
 | CESCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-09-01        |
 | CESCBPPRIV            | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-09-01        |
@@ -16,12 +16,12 @@
 | CESCURN               | Unemployment Rate in East South Central Census Division                                                                          | 1976-01-01          | 2022-09-01        |
 | CIU2010000000226I     | Employment Cost Index: Total compensation for Private industry workers in the East South Central Census Division                 | 2006-01-01          | 2022-07-01        |
 | CIU2020000000226I     | Employment Cost Index: Wages and salaries for Private industry workers in the East South Central Census Division                 | 2006-01-01          | 2022-07-01        |
-| LASRD860000000000004  | Unemployed Persons in East South Central Census Division                                                                         | 1976-01-01          | 2022-08-01        |
-| LASRD860000000000005  | Employed Persons in East South Central Census Division                                                                           | 1976-01-01          | 2022-08-01        |
+| LASRD860000000000004  | Unemployed Persons in East South Central Census Division                                                                         | 1976-01-01          | 2022-09-01        |
+| LASRD860000000000005  | Employed Persons in East South Central Census Division                                                                           | 1976-01-01          | 2022-09-01        |
 | LAURD860000000000003A | Unemployment Rate in East South Central Census Division                                                                          | 1976-01-01          | 2021-01-01        |
-| LAURD860000000000004  | Unemployed Persons in East South Central Census Division                                                                         | 1976-01-01          | 2022-08-01        |
+| LAURD860000000000004  | Unemployed Persons in East South Central Census Division                                                                         | 1976-01-01          | 2022-09-01        |
 | LAURD860000000000004A | Unemployed Persons in East South Central Census Division                                                                         | 1976-01-01          | 2021-01-01        |
-| LAURD860000000000005  | Employed Persons in East South Central Census Division                                                                           | 1976-01-01          | 2022-08-01        |
+| LAURD860000000000005  | Employed Persons in East South Central Census Division                                                                           | 1976-01-01          | 2022-09-01        |
 | LAURD860000000000005A | Employed Persons in East South Central Census Division                                                                           | 1976-01-01          | 2021-01-01        |
 | LAURD860000000000006A | Civilian Labor Force in East South Central Census Division                                                                       | 1976-01-01          | 2021-01-01        |
 | PCU221122221122416    | Producer Price Index by Industry: Electric Power Distribution: Residential Electric Power for East South Central Census Division | 1990-12-01          | 2022-09-01        |

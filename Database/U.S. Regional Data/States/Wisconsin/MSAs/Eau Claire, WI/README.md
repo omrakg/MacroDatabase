@@ -18,8 +18,8 @@
 | EAUC755INFON              | All Employees: Information in Eau Claire, WI (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | EAUC755LEIH               | All Employees: Leisure and Hospitality in Eau Claire, WI (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | EAUC755LEIHN              | All Employees: Leisure and Hospitality in Eau Claire, WI (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| EAUC755LF                 | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| EAUC755LFN                | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| EAUC755LF                 | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| EAUC755LFN                | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | EAUC755MFG                | All Employees: Manufacturing in Eau Claire, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | EAUC755MFGN               | All Employees: Manufacturing in Eau Claire, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | EAUC755NA                 | All Employees: Total Nonfarm in Eau Claire, WI (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -33,8 +33,8 @@
 | EAUC755SRVON              | All Employees: Other Services in Eau Claire, WI (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | EAUC755TRAD               | All Employees: Trade, Transportation, and Utilities in Eau Claire, WI (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | EAUC755TRADN              | All Employees: Trade, Transportation, and Utilities in Eau Claire, WI (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| EAUC755UR                 | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| EAUC755URN                | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| EAUC755UR                 | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| EAUC755URN                | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | ENUC207430010             | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC207430010SA           | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC207440010             | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA20740              | Market Hotness: Hotness Score in Eau Claire, WI (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD20740                 | Implicit Regional Price Deflator for Eau Claire, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT552074000000003A     | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT552074000000004      | Unemployed Persons in Eau Claire, WI (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT552074000000004      | Unemployed Persons in Eau Claire, WI (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT552074000000004A     | Unemployed Persons in Eau Claire, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT552074000000005      | Employed Persons in Eau Claire, WI (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT552074000000005      | Employed Persons in Eau Claire, WI (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT552074000000005A     | Employed Persons in Eau Claire, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT552074000000006A     | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA20740          | Market Hotness: Listing Views per Property in Eau Claire, WI (CBSA)                                             | 2017-09-01          | 2022-09-01        |

@@ -18,13 +18,13 @@
 | Tooele County, UT     |               146 |
 | Beaver County, UT     |                89 |
 | Wasatch County, UT    |                90 |
-| Carbon County, UT     |                90 |
+| Carbon County, UT     |                 0 |
 | Cache County, UT      |               147 |
 | Duchesne County, UT   |                90 |
 | Juab County, UT       |                89 |
 | Garfield County, UT   |                87 |
 | Daggett County, UT    |                86 |
-| Morgan County, UT     |                 0 |
+| Morgan County, UT     |                90 |
 | Emery County, UT      |                89 |
 | Summit County, UT     |                90 |
 | Washington County, UT |               147 |

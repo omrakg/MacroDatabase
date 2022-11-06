@@ -22,9 +22,9 @@
 | IRPD30020                 | Implicit Regional Price Deflator for Lawton, OK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LATPOP                    | Resident Population in Lawton, OK (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT403002000000003A     | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT403002000000004      | Unemployed Persons in Lawton, OK (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT403002000000004      | Unemployed Persons in Lawton, OK (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT403002000000004A     | Unemployed Persons in Lawton, OK (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT403002000000005      | Employed Persons in Lawton, OK (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT403002000000005      | Employed Persons in Lawton, OK (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT403002000000005A     | Employed Persons in Lawton, OK (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT403002000000006A     | Civilian Labor Force in Lawton, OK (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LAWT040EDUH               | All Employees: Education and Health Services in Lawton, OK (MSA)                                            | 1990-01-01          | 2022-09-01        |
@@ -37,8 +37,8 @@
 | LAWT040INFON              | All Employees: Information in Lawton, OK (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | LAWT040LEIH               | All Employees: Leisure and Hospitality in Lawton, OK (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | LAWT040LEIHN              | All Employees: Leisure and Hospitality in Lawton, OK (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| LAWT040LF                 | Civilian Labor Force in Lawton, OK (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| LAWT040LFN                | Civilian Labor Force in Lawton, OK (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| LAWT040LF                 | Civilian Labor Force in Lawton, OK (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| LAWT040LFN                | Civilian Labor Force in Lawton, OK (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | LAWT040MFG                | All Employees: Manufacturing in Lawton, OK (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | LAWT040MFGN               | All Employees: Manufacturing in Lawton, OK (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | LAWT040NA                 | All Employees: Total Nonfarm in Lawton, OK (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -52,8 +52,8 @@
 | LAWT040SRVON              | All Employees: Other Services in Lawton, OK (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | LAWT040TRAD               | All Employees: Trade, Transportation, and Utilities in Lawton, OK (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | LAWT040TRADN              | All Employees: Trade, Transportation, and Utilities in Lawton, OK (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| LAWT040UR                 | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| LAWT040URN                | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| LAWT040UR                 | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| LAWT040URN                | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | MEDDAYONMAR30020          | Housing Inventory: Median Days on Market in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
 | MEDDAYONMARMM30020        | Housing Inventory: Median Days on Market Month-Over-Month in Lawton, OK (CBSA)                              | 2017-07-01          | 2022-09-01        |
 | MEDDAYONMARYY30020        | Housing Inventory: Median Days on Market Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-09-01        |

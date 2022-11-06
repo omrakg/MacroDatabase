@@ -32,12 +32,12 @@
 | Foster County, ND        |                88 |
 | Renville County, ND      |                88 |
 | Mercer County, ND        |                89 |
-| Stutsman County, ND      |                90 |
+| Stutsman County, ND      |                 0 |
 | Pembina County, ND       |                89 |
 | Nelson County, ND        |                87 |
 | Emmons County, ND        |                88 |
 | Cass County, ND          |               147 |
-| McIntosh County, ND      |                 0 |
+| McIntosh County, ND      |                89 |
 | Golden Valley County, ND |                88 |
 | Hettinger County, ND     |                88 |
 | Stark County, ND         |                89 |

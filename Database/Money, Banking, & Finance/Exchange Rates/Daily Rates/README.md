@@ -1,31 +1,31 @@
 | id           | title                                                   | observation_start   | observation_end   |
 |--------------|---------------------------------------------------------|---------------------|-------------------|
-| DEXBZUS      | Brazilian Reals to U.S. Dollar Spot Exchange Rate       | 1995-01-02          | 2022-10-21        |
-| DEXCAUS      | Canadian Dollars to U.S. Dollar Spot Exchange Rate      | 1971-01-04          | 2022-10-21        |
-| DEXCHUS      | Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate | 1981-01-02          | 2022-10-21        |
-| DEXDNUS      | Danish Kroner to U.S. Dollar Spot Exchange Rate         | 1971-01-04          | 2022-10-21        |
-| DEXHKUS      | Hong Kong Dollars to U.S. Dollar Spot Exchange Rate     | 1981-01-02          | 2022-10-21        |
-| DEXINUS      | Indian Rupees to U.S. Dollar Spot Exchange Rate         | 1973-01-02          | 2022-10-21        |
-| DEXJPUS      | Japanese Yen to U.S. Dollar Spot Exchange Rate          | 1971-01-04          | 2022-10-21        |
-| DEXKOUS      | South Korean Won to U.S. Dollar Spot Exchange Rate      | 1981-04-13          | 2022-10-21        |
-| DEXMAUS      | Malaysian Ringgit to U.S. Dollar Spot Exchange Rate     | 1971-01-04          | 2022-10-21        |
-| DEXMXUS      | Mexican Pesos to U.S. Dollar Spot Exchange Rate         | 1993-11-08          | 2022-10-21        |
-| DEXNOUS      | Norwegian Kroner to U.S. Dollar Spot Exchange Rate      | 1971-01-04          | 2022-10-21        |
-| DEXSDUS      | Swedish Kronor to U.S. Dollar Spot Exchange Rate        | 1971-01-04          | 2022-10-21        |
-| DEXSFUS      | South African Rand to U.S. Dollar Spot Exchange Rate    | 1980-01-02          | 2022-10-21        |
-| DEXSIUS      | Singapore Dollars to U.S. Dollar Spot Exchange Rate     | 1981-01-02          | 2022-10-21        |
-| DEXSLUS      | Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate     | 1973-01-02          | 2022-10-21        |
-| DEXSZUS      | Swiss Francs to U.S. Dollar Spot Exchange Rate          | 1971-01-04          | 2022-10-21        |
-| DEXTAUS      | Taiwan Dollars to U.S. Dollar Spot Exchange Rate        | 1983-10-03          | 2022-10-21        |
-| DEXTHUS      | Thai Baht to U.S. Dollar Spot Exchange Rate             | 1981-01-02          | 2022-10-21        |
-| DEXUSAL      | U.S. Dollars to Australian Dollar Spot Exchange Rate    | 1971-01-04          | 2022-10-21        |
-| DEXUSEU      | U.S. Dollars to Euro Spot Exchange Rate                 | 1999-01-04          | 2022-10-21        |
-| DEXUSNZ      | U.S. Dollars to New Zealand Dollar Spot Exchange Rate   | 1971-01-04          | 2022-10-21        |
-| DEXUSUK      | U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate  | 1971-01-04          | 2022-10-21        |
-| DEXVZUS      | Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate  | 1995-01-02          | 2022-10-21        |
-| DTWEXAFEGS   | Nominal Advanced Foreign Economies U.S. Dollar Index    | 2006-01-02          | 2022-10-21        |
-| DTWEXBGS     | Nominal Broad U.S. Dollar Index                         | 2006-01-02          | 2022-10-21        |
-| DTWEXEMEGS   | Nominal Emerging Market Economies U.S. Dollar Index     | 2006-01-02          | 2022-10-21        |
+| DEXBZUS      | Brazilian Reals to U.S. Dollar Spot Exchange Rate       | 1995-01-02          | 2022-10-28        |
+| DEXCAUS      | Canadian Dollars to U.S. Dollar Spot Exchange Rate      | 1971-01-04          | 2022-10-28        |
+| DEXCHUS      | Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate | 1981-01-02          | 2022-10-28        |
+| DEXDNUS      | Danish Kroner to U.S. Dollar Spot Exchange Rate         | 1971-01-04          | 2022-10-28        |
+| DEXHKUS      | Hong Kong Dollars to U.S. Dollar Spot Exchange Rate     | 1981-01-02          | 2022-10-28        |
+| DEXINUS      | Indian Rupees to U.S. Dollar Spot Exchange Rate         | 1973-01-02          | 2022-10-28        |
+| DEXJPUS      | Japanese Yen to U.S. Dollar Spot Exchange Rate          | 1971-01-04          | 2022-10-28        |
+| DEXKOUS      | South Korean Won to U.S. Dollar Spot Exchange Rate      | 1981-04-13          | 2022-10-28        |
+| DEXMAUS      | Malaysian Ringgit to U.S. Dollar Spot Exchange Rate     | 1971-01-04          | 2022-10-28        |
+| DEXMXUS      | Mexican Pesos to U.S. Dollar Spot Exchange Rate         | 1993-11-08          | 2022-10-28        |
+| DEXNOUS      | Norwegian Kroner to U.S. Dollar Spot Exchange Rate      | 1971-01-04          | 2022-10-28        |
+| DEXSDUS      | Swedish Kronor to U.S. Dollar Spot Exchange Rate        | 1971-01-04          | 2022-10-28        |
+| DEXSFUS      | South African Rand to U.S. Dollar Spot Exchange Rate    | 1980-01-02          | 2022-10-28        |
+| DEXSIUS      | Singapore Dollars to U.S. Dollar Spot Exchange Rate     | 1981-01-02          | 2022-10-28        |
+| DEXSLUS      | Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate     | 1973-01-02          | 2022-10-28        |
+| DEXSZUS      | Swiss Francs to U.S. Dollar Spot Exchange Rate          | 1971-01-04          | 2022-10-28        |
+| DEXTAUS      | Taiwan Dollars to U.S. Dollar Spot Exchange Rate        | 1983-10-03          | 2022-10-28        |
+| DEXTHUS      | Thai Baht to U.S. Dollar Spot Exchange Rate             | 1981-01-02          | 2022-10-28        |
+| DEXUSAL      | U.S. Dollars to Australian Dollar Spot Exchange Rate    | 1971-01-04          | 2022-10-28        |
+| DEXUSEU      | U.S. Dollars to Euro Spot Exchange Rate                 | 1999-01-04          | 2022-10-28        |
+| DEXUSNZ      | U.S. Dollars to New Zealand Dollar Spot Exchange Rate   | 1971-01-04          | 2022-10-28        |
+| DEXUSUK      | U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate  | 1971-01-04          | 2022-10-28        |
+| DEXVZUS      | Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate  | 1995-01-02          | 2022-10-28        |
+| DTWEXAFEGS   | Nominal Advanced Foreign Economies U.S. Dollar Index    | 2006-01-02          | 2022-10-28        |
+| DTWEXBGS     | Nominal Broad U.S. Dollar Index                         | 2006-01-02          | 2022-10-28        |
+| DTWEXEMEGS   | Nominal Emerging Market Economies U.S. Dollar Index     | 2006-01-02          | 2022-10-28        |
 | TWEXAFEGSANL | Nominal Advanced Foreign Economies U.S. Dollar Index    | 2006-01-01          | 2021-01-01        |
 | TWEXAFEGSMTH | Nominal Advanced Foreign Economies U.S. Dollar Index    | 2006-01-01          | 2022-09-01        |
 | TWEXBGSANL   | Nominal Broad U.S. Dollar Index                         | 2006-01-01          | 2021-01-01        |

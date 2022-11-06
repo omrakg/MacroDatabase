@@ -26,9 +26,9 @@
 | IHLCHG35620               | Job Postings on Indeed in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                  | 2020-02-01          | 2022-10-14        |
 | IRPD35620                 | Implicit Regional Price Deflator for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT363562000000003A     | Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT363562000000004      | Unemployed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT363562000000004      | Unemployed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT363562000000004A     | Unemployed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT363562000000005      | Employed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT363562000000005      | Employed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT363562000000005A     | Employed Persons in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT363562000000006A     | Civilian Labor Force in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA35620          | Market Hotness: Listing Views per Property in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                             | 2017-09-01          | 2022-09-01        |
@@ -73,8 +73,8 @@
 | NEWY636INFON              | All Employees: Information in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | NEWY636LEIH               | All Employees: Leisure and Hospitality in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | NEWY636LEIHN              | All Employees: Leisure and Hospitality in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| NEWY636LF                 | Civilian Labor Force in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| NEWY636LFN                | Civilian Labor Force in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| NEWY636LF                 | Civilian Labor Force in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| NEWY636LFN                | Civilian Labor Force in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | NEWY636MFG                | All Employees: Manufacturing in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | NEWY636MFGN               | All Employees: Manufacturing in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | NEWY636NA                 | All Employees: Total Nonfarm in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -88,8 +88,8 @@
 | NEWY636SRVON              | All Employees: Other Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | NEWY636TRAD               | All Employees: Trade, Transportation, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | NEWY636TRADN              | All Employees: Trade, Transportation, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| NEWY636UR                 | Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| NEWY636URN                | Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| NEWY636UR                 | Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| NEWY636URN                | Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | NGMP35620                 | Total Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA35620            | Market Hotness: Nielsen Household Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                 | 2017-08-01          | 2022-09-01        |
 | NYTPOP                    | Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

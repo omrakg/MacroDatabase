@@ -27,9 +27,9 @@
 | IRPD30980                 | Implicit Regional Price Deflator for Longview, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD31020                 | Implicit Regional Price Deflator for Longview, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483098000000003A     | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT483098000000004      | Unemployed Persons in Longview, TX (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT483098000000004      | Unemployed Persons in Longview, TX (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT483098000000004A     | Unemployed Persons in Longview, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT483098000000005      | Employed Persons in Longview, TX (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT483098000000005      | Employed Persons in Longview, TX (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT483098000000005A     | Employed Persons in Longview, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT483098000000006A     | Civilian Labor Force in Longview, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA30980          | Market Hotness: Listing Views per Property in Longview, TX (CBSA)                                             | 2017-09-01          | 2022-09-01        |
@@ -46,8 +46,8 @@
 | LONG948INFON              | All Employees: Information in Longview, TX (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | LONG948LEIH               | All Employees: Leisure and Hospitality in Longview, TX (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | LONG948LEIHN              | All Employees: Leisure and Hospitality in Longview, TX (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| LONG948LF                 | Civilian Labor Force in Longview, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| LONG948LFN                | Civilian Labor Force in Longview, TX (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| LONG948LF                 | Civilian Labor Force in Longview, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| LONG948LFN                | Civilian Labor Force in Longview, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | LONG948MFG                | All Employees: Manufacturing in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | LONG948MFGN               | All Employees: Manufacturing in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | LONG948NA                 | All Employees: Total Nonfarm in Longview, TX (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -61,8 +61,8 @@
 | LONG948SRVON              | All Employees: Other Services in Longview, TX (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | LONG948TRAD               | All Employees: Trade, Transportation, and Utilities in Longview, TX (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | LONG948TRADN              | All Employees: Trade, Transportation, and Utilities in Longview, TX (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| LONG948UR                 | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| LONG948URN                | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| LONG948UR                 | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| LONG948URN                | Unemployment Rate in Longview, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | LONSA158MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-02-01          | 2022-09-01        |
 | LONSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Longview, TX (MSA)                                             | 1990-02-01          | 2022-09-01        |
 | LONSA175MFRBDAL           | Total Nonfarm Payroll Employment for Longview, TX (MSA)                                                       | 1990-01-01          | 2022-09-01        |

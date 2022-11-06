@@ -13,8 +13,8 @@
 | BILL730GOVTN              | All Employees: Government in Billings, MT (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | BILL730LEIH               | All Employees: Leisure and Hospitality in Billings, MT (MSA)                                    | 1990-01-01          | 2022-09-01        |
 | BILL730LEIHN              | All Employees: Leisure and Hospitality in Billings, MT (MSA)                                    | 1990-01-01          | 2022-09-01        |
-| BILL730LF                 | Civilian Labor Force in Billings, MT (MSA)                                                      | 1990-01-01          | 2022-08-01        |
-| BILL730LFN                | Civilian Labor Force in Billings, MT (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| BILL730LF                 | Civilian Labor Force in Billings, MT (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| BILL730LFN                | Civilian Labor Force in Billings, MT (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | BILL730NA                 | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | BILL730NAN                | All Employees: Total Nonfarm in Billings, MT (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | BILL730PBSV               | All Employees: Professional and Business Services in Billings, MT (MSA)                         | 1990-01-01          | 2022-09-01        |
@@ -22,8 +22,8 @@
 | BILL730PCPI               | Per Capita Personal Income in Billings, MT (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | BILL730TRAD               | All Employees: Trade, Transportation, and Utilities in Billings, MT (MSA)                       | 1990-01-01          | 2022-09-01        |
 | BILL730TRADN              | All Employees: Trade, Transportation, and Utilities in Billings, MT (MSA)                       | 1990-01-01          | 2022-09-01        |
-| BILL730UR                 | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| BILL730URN                | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| BILL730UR                 | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| BILL730URN                | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2022-09-01        |
 | BILPOP                    | Resident Population in Billings, MT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA13740              | Market Hotness: Demand Score in Billings, MT (CBSA)                                             | 2017-08-01          | 2022-09-01        |
 | ENUC137430010             | Total Quarterly Wages in Billings, MT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
@@ -44,9 +44,9 @@
 | HOSCMSA13740              | Market Hotness: Hotness Score in Billings, MT (CBSA)                                            | 2017-08-01          | 2022-09-01        |
 | IRPD13740                 | Implicit Regional Price Deflator for Billings, MT (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT301374000000003A     | Unemployment Rate in Billings, MT (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT301374000000004      | Unemployed Persons in Billings, MT (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT301374000000004      | Unemployed Persons in Billings, MT (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT301374000000004A     | Unemployed Persons in Billings, MT (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT301374000000005      | Employed Persons in Billings, MT (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| LAUMT301374000000005      | Employed Persons in Billings, MT (MSA)                                                          | 1990-01-01          | 2022-09-01        |
 | LAUMT301374000000005A     | Employed Persons in Billings, MT (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT301374000000006A     | Civilian Labor Force in Billings, MT (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA13740          | Market Hotness: Listing Views per Property in Billings, MT (CBSA)                               | 2017-09-01          | 2022-09-01        |

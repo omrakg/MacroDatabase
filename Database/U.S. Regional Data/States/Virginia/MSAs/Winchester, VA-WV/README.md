@@ -21,9 +21,9 @@
 | ENUC490240510SA           | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD49020                 | Implicit Regional Price Deflator for Winchester, VA-WV (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT514902000000003A     | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT514902000000004      | Unemployed Persons in Winchester, VA-WV (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT514902000000004      | Unemployed Persons in Winchester, VA-WV (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT514902000000004A     | Unemployed Persons in Winchester, VA-WV (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT514902000000005      | Employed Persons in Winchester, VA-WV (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| LAUMT514902000000005      | Employed Persons in Winchester, VA-WV (MSA)                                                          | 1990-01-01          | 2022-09-01        |
 | LAUMT514902000000005A     | Employed Persons in Winchester, VA-WV (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT514902000000006A     | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR49020          | Housing Inventory: Median Days on Market in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-09-01        |
@@ -94,12 +94,12 @@
 | WCHPOP                    | Resident Population in Winchester, VA-WV (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | WINC051GOVT               | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | WINC051GOVTN              | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2022-09-01        |
-| WINC051LF                 | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-08-01        |
-| WINC051LFN                | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| WINC051LF                 | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| WINC051LFN                | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | WINC051NA                 | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | WINC051NAN                | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | WINC051PCPI               | Per Capita Personal Income in Winchester, VA-WV (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | WINC051TRAD               | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2022-09-01        |
 | WINC051TRADN              | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2022-09-01        |
-| WINC051UR                 | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| WINC051URN                | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| WINC051UR                 | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| WINC051URN                | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-09-01        |

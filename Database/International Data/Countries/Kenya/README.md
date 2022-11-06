@@ -76,7 +76,7 @@
 | DEBTTLKEA188A       | Central government debt, total (% of GDP) for Kenya                                                                                     | 1998-01-01          | 1999-01-01        |
 | DEKENA052SCEN       | Value of Exports to Kenya from Delaware                                                                                                 | 2003-01-01          | 2016-01-01        |
 | DEKENA475SCEN       | Number of Identified Exporters to Kenya from Delaware                                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP7790             | U.S. Exports of Goods by F.A.S. Basis to Kenya                                                                                          | 1992-01-01          | 2022-08-01        |
+| EXP7790             | U.S. Exports of Goods by F.A.S. Basis to Kenya                                                                                          | 1992-01-01          | 2022-09-01        |
 | FLKENA052SCEN       | Value of Exports to Kenya from Florida                                                                                                  | 1992-01-01          | 2017-01-01        |
 | FLKENA475SCEN       | Number of Identified Exporters to Kenya from Florida                                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGKEN      | Inflation, consumer prices for Kenya                                                                                                    | 1960-01-01          | 2021-01-01        |
@@ -97,7 +97,7 @@
 | IDSGAMNINIKE        | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kenya                             | 1997-10-01          | 2021-04-01        |
 | ILKENA052SCEN       | Value of Exports to Kenya from Illinois                                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILKENA475SCEN       | Number of Identified Exporters to Kenya from Illinois                                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7790             | U.S. Imports of Goods by Customs Basis from Kenya                                                                                       | 1992-01-01          | 2022-08-01        |
+| IMP7790             | U.S. Imports of Goods by Customs Basis from Kenya                                                                                       | 1992-01-01          | 2022-09-01        |
 | INKENA052SCEN       | Value of Exports to Kenya from Indiana                                                                                                  | 1992-01-01          | 2017-01-01        |
 | INKENA475SCEN       | Number of Identified Exporters to Kenya from Indiana                                                                                    | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2KEN      | Internet users for Kenya                                                                                                                | 1990-01-01          | 2020-01-01        |

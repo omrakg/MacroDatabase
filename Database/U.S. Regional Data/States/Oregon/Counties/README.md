@@ -16,7 +16,7 @@
 | Deschutes County, OR  |               147 |
 | Josephine County, OR  |               147 |
 | Coos County, OR       |               146 |
-| Wallowa County, OR    |                90 |
+| Wallowa County, OR    |                 0 |
 | Sherman County, OR    |                87 |
 | Benton County, OR     |               147 |
 | Union County, OR      |                90 |

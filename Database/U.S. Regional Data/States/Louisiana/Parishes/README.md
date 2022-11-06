@@ -17,7 +17,7 @@
 | East Baton Rouge Parish, LA     |               148 |
 | Jefferson Parish, LA            |               147 |
 | St. James Parish, LA            |                90 |
-| Tangipahoa Parish, LA           |                 0 |
+| Tangipahoa Parish, LA           |               147 |
 | Lafayette Parish, LA            |               147 |
 | Tensas Parish, LA               |                88 |
 | St. Charles Parish, LA          |               145 |

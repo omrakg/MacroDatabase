@@ -10,9 +10,9 @@
 | CFSBCLABORCOSTS    | Chicago Fed Survey of Business Conditions: Labor Costs Index in Federal Reserve District 7: Chicago                                   | 2013-01-01          | 2022-09-01        |
 | CFSBCNONLABORCOSTS | Chicago Fed Survey of Business Conditions: Nonlabor Costs Index in Federal Reserve District 7: Chicago                                | 2013-01-01          | 2022-09-01        |
 | CFSBCOUTLOOK       | Chicago Fed Survey of Business Conditions: 12 month Outlook for the US Economy in Federal Reserve District 7: Chicago                 | 2013-01-01          | 2022-09-01        |
-| HCOMPBS            | Business Sector: Hourly Compensation for All Employed Persons                                                                         | 1947-01-01          | 2022-04-01        |
-| HOABS              | Business Sector: Hours Worked for All Employed Persons                                                                                | 1947-01-01          | 2022-04-01        |
-| IPDBS              | Business Sector: Implicit Price Deflator for All Employed Persons                                                                     | 1947-01-01          | 2022-04-01        |
+| HCOMPBS            | Business Sector: Hourly Compensation for All Employed Persons                                                                         | 1947-01-01          | 2022-07-01        |
+| HOABS              | Business Sector: Hours Worked for All Employed Persons                                                                                | 1947-01-01          | 2022-07-01        |
+| IPDBS              | Business Sector: Implicit Price Deflator for All Employed Persons                                                                     | 1947-01-01          | 2022-07-01        |
 | MFPPBS             | Private Business Sector: Multifactor Productivity                                                                                     | 1948-01-01          | 2021-01-01        |
 | MPU4900013         | Private Business Sector: Multifactor Productivity                                                                                     | 1988-01-01          | 2021-01-01        |
 | MPU4900022         | Private Business Sector: Value-Added Output                                                                                           | 1987-01-01          | 2021-01-01        |
@@ -48,45 +48,45 @@
 | MPU4900193         | Private Business Sector: Contribution of Research and Development (R&D) Intensity                                                     | 1988-01-01          | 2020-01-01        |
 | MPU4900202         | Private Business Sector: Contribution of Intellectual Property Products Excluding R&D Intensity                                       | 1987-01-01          | 2020-01-01        |
 | MPU4900203         | Private Business Sector: Contribution of Intellectual Property Products Excluding R&D Intensity                                       | 1988-01-01          | 2020-01-01        |
-| OPHPBS             | Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                                        | 1947-01-01          | 2022-04-01        |
-| OUTBS              | Business Sector: Output for All Employed Persons                                                                                      | 1947-01-01          | 2022-04-01        |
-| PRS84006011        | Business Sector: Employment for All Employed Persons                                                                                  | 1948-01-01          | 2022-04-01        |
-| PRS84006012        | Business Sector: Employment for All Employed Persons                                                                                  | 1947-04-01          | 2022-04-01        |
-| PRS84006013        | Business Sector: Employment for All Employed Persons                                                                                  | 1947-01-01          | 2022-04-01        |
-| PRS84006021        | Business Sector: Average Weekly Hours Worked for All Employed Persons                                                                 | 1948-01-01          | 2022-04-01        |
-| PRS84006022        | Business Sector: Average Weekly Hours Worked for All Employed Persons                                                                 | 1947-04-01          | 2022-04-01        |
-| PRS84006023        | Business Sector: Average Weekly Hours Worked for All Employed Persons                                                                 | 1947-01-01          | 2022-04-01        |
-| PRS84006031        | Business Sector: Hours Worked for All Employed Persons                                                                                | 1948-01-01          | 2022-04-01        |
-| PRS84006032        | Business Sector: Hours Worked for All Employed Persons                                                                                | 1947-04-01          | 2022-04-01        |
-| PRS84006041        | Business Sector: Output for All Employed Persons                                                                                      | 1948-01-01          | 2022-04-01        |
-| PRS84006042        | Business Sector: Output for All Employed Persons                                                                                      | 1947-04-01          | 2022-04-01        |
-| PRS84006051        | Business Sector: Current Dollar Output for All Employed Persons                                                                       | 1948-01-01          | 2022-04-01        |
-| PRS84006052        | Business Sector: Current Dollar Output for All Employed Persons                                                                       | 1947-04-01          | 2022-04-01        |
-| PRS84006053        | Business Sector: Current Dollar Output for All Employed Persons                                                                       | 1947-01-01          | 2022-04-01        |
-| PRS84006061        | Business Sector: Compensation for All Employed Persons                                                                                | 1948-01-01          | 2022-04-01        |
-| PRS84006062        | Business Sector: Compensation for All Employed Persons                                                                                | 1947-04-01          | 2022-04-01        |
-| PRS84006063        | Business Sector: Compensation for All Employed Persons                                                                                | 1947-01-01          | 2022-04-01        |
-| PRS84006081        | Business Sector: Nonlabor Payments for All Employed Persons                                                                           | 1948-01-01          | 2022-04-01        |
-| PRS84006082        | Business Sector: Nonlabor Payments for All Employed Persons                                                                           | 1947-04-01          | 2022-04-01        |
-| PRS84006083        | Business Sector: Nonlabor Payments for All Employed Persons                                                                           | 1947-01-01          | 2022-04-01        |
-| PRS84006091        | Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                                        | 1948-01-01          | 2022-04-01        |
-| PRS84006092        | Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                                        | 1947-04-01          | 2022-04-01        |
-| PRS84006101        | Business Sector: Hourly Compensation for All Employed Persons                                                                         | 1948-01-01          | 2022-04-01        |
-| PRS84006102        | Business Sector: Hourly Compensation for All Employed Persons                                                                         | 1947-04-01          | 2022-04-01        |
-| PRS84006111        | Business Sector: Unit Labor Costs for All Employed Persons                                                                            | 1948-01-01          | 2022-04-01        |
-| PRS84006112        | Business Sector: Unit Labor Costs for All Employed Persons                                                                            | 1947-04-01          | 2022-04-01        |
-| PRS84006131        | Business Sector: Unit Nonlabor Payments for All Employed Persons                                                                      | 1948-01-01          | 2022-04-01        |
-| PRS84006132        | Business Sector: Unit Nonlabor Payments for All Employed Persons                                                                      | 1947-04-01          | 2022-04-01        |
-| PRS84006141        | Business Sector: Implicit Price Deflator for All Employed Persons                                                                     | 1948-01-01          | 2022-04-01        |
-| PRS84006142        | Business Sector: Implicit Price Deflator for All Employed Persons                                                                     | 1947-04-01          | 2022-04-01        |
-| PRS84006151        | Business Sector: Real Hourly Compensation for All Employed Persons                                                                    | 1948-01-01          | 2022-04-01        |
-| PRS84006152        | Business Sector: Real Hourly Compensation for All Employed Persons                                                                    | 1947-04-01          | 2022-04-01        |
-| PRS84006161        | Business Sector: Output per Job for All Employed Persons                                                                              | 1948-01-01          | 2022-04-01        |
-| PRS84006162        | Business Sector: Output per Job for All Employed Persons                                                                              | 1947-04-01          | 2022-04-01        |
-| PRS84006163        | Business Sector: Output per Job for All Employed Persons                                                                              | 1947-01-01          | 2022-04-01        |
-| PRS84006171        | Business Sector: Labor Share for All Employed Persons                                                                                 | 1948-01-01          | 2022-04-01        |
-| PRS84006172        | Business Sector: Labor Share for All Employed Persons                                                                                 | 1947-04-01          | 2022-04-01        |
-| PRS84006173        | Business Sector: Labor Share for All Employed Persons                                                                                 | 1947-01-01          | 2022-04-01        |
-| RCPHBS             | Business Sector: Real Hourly Compensation for All Employed Persons                                                                    | 1947-01-01          | 2022-04-01        |
-| ULCBS              | Business Sector: Unit Labor Costs for All Employed Persons                                                                            | 1947-01-01          | 2022-04-01        |
-| UNLPBS             | Business Sector: Unit Nonlabor Payments for All Employed Persons                                                                      | 1947-01-01          | 2022-04-01        |
+| OPHPBS             | Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                                        | 1947-01-01          | 2022-07-01        |
+| OUTBS              | Business Sector: Output for All Employed Persons                                                                                      | 1947-01-01          | 2022-07-01        |
+| PRS84006011        | Business Sector: Employment for All Employed Persons                                                                                  | 1948-01-01          | 2022-07-01        |
+| PRS84006012        | Business Sector: Employment for All Employed Persons                                                                                  | 1947-04-01          | 2022-07-01        |
+| PRS84006013        | Business Sector: Employment for All Employed Persons                                                                                  | 1947-01-01          | 2022-07-01        |
+| PRS84006021        | Business Sector: Average Weekly Hours Worked for All Employed Persons                                                                 | 1948-01-01          | 2022-07-01        |
+| PRS84006022        | Business Sector: Average Weekly Hours Worked for All Employed Persons                                                                 | 1947-04-01          | 2022-07-01        |
+| PRS84006023        | Business Sector: Average Weekly Hours Worked for All Employed Persons                                                                 | 1947-01-01          | 2022-07-01        |
+| PRS84006031        | Business Sector: Hours Worked for All Employed Persons                                                                                | 1948-01-01          | 2022-07-01        |
+| PRS84006032        | Business Sector: Hours Worked for All Employed Persons                                                                                | 1947-04-01          | 2022-07-01        |
+| PRS84006041        | Business Sector: Output for All Employed Persons                                                                                      | 1948-01-01          | 2022-07-01        |
+| PRS84006042        | Business Sector: Output for All Employed Persons                                                                                      | 1947-04-01          | 2022-07-01        |
+| PRS84006051        | Business Sector: Current Dollar Output for All Employed Persons                                                                       | 1948-01-01          | 2022-07-01        |
+| PRS84006052        | Business Sector: Current Dollar Output for All Employed Persons                                                                       | 1947-04-01          | 2022-07-01        |
+| PRS84006053        | Business Sector: Current Dollar Output for All Employed Persons                                                                       | 1947-01-01          | 2022-07-01        |
+| PRS84006061        | Business Sector: Compensation for All Employed Persons                                                                                | 1948-01-01          | 2022-07-01        |
+| PRS84006062        | Business Sector: Compensation for All Employed Persons                                                                                | 1947-04-01          | 2022-07-01        |
+| PRS84006063        | Business Sector: Compensation for All Employed Persons                                                                                | 1947-01-01          | 2022-07-01        |
+| PRS84006081        | Business Sector: Nonlabor Payments for All Employed Persons                                                                           | 1948-01-01          | 2022-07-01        |
+| PRS84006082        | Business Sector: Nonlabor Payments for All Employed Persons                                                                           | 1947-04-01          | 2022-07-01        |
+| PRS84006083        | Business Sector: Nonlabor Payments for All Employed Persons                                                                           | 1947-01-01          | 2022-07-01        |
+| PRS84006091        | Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                                        | 1948-01-01          | 2022-07-01        |
+| PRS84006092        | Business Sector: Labor Productivity (Output per Hour) for All Employed Persons                                                        | 1947-04-01          | 2022-07-01        |
+| PRS84006101        | Business Sector: Hourly Compensation for All Employed Persons                                                                         | 1948-01-01          | 2022-07-01        |
+| PRS84006102        | Business Sector: Hourly Compensation for All Employed Persons                                                                         | 1947-04-01          | 2022-07-01        |
+| PRS84006111        | Business Sector: Unit Labor Costs for All Employed Persons                                                                            | 1948-01-01          | 2022-07-01        |
+| PRS84006112        | Business Sector: Unit Labor Costs for All Employed Persons                                                                            | 1947-04-01          | 2022-07-01        |
+| PRS84006131        | Business Sector: Unit Nonlabor Payments for All Employed Persons                                                                      | 1948-01-01          | 2022-07-01        |
+| PRS84006132        | Business Sector: Unit Nonlabor Payments for All Employed Persons                                                                      | 1947-04-01          | 2022-07-01        |
+| PRS84006141        | Business Sector: Implicit Price Deflator for All Employed Persons                                                                     | 1948-01-01          | 2022-07-01        |
+| PRS84006142        | Business Sector: Implicit Price Deflator for All Employed Persons                                                                     | 1947-04-01          | 2022-07-01        |
+| PRS84006151        | Business Sector: Real Hourly Compensation for All Employed Persons                                                                    | 1948-01-01          | 2022-07-01        |
+| PRS84006152        | Business Sector: Real Hourly Compensation for All Employed Persons                                                                    | 1947-04-01          | 2022-07-01        |
+| PRS84006161        | Business Sector: Output per Job for All Employed Persons                                                                              | 1948-01-01          | 2022-07-01        |
+| PRS84006162        | Business Sector: Output per Job for All Employed Persons                                                                              | 1947-04-01          | 2022-07-01        |
+| PRS84006163        | Business Sector: Output per Job for All Employed Persons                                                                              | 1947-01-01          | 2022-07-01        |
+| PRS84006171        | Business Sector: Labor Share for All Employed Persons                                                                                 | 1948-01-01          | 2022-07-01        |
+| PRS84006172        | Business Sector: Labor Share for All Employed Persons                                                                                 | 1947-04-01          | 2022-07-01        |
+| PRS84006173        | Business Sector: Labor Share for All Employed Persons                                                                                 | 1947-01-01          | 2022-07-01        |
+| RCPHBS             | Business Sector: Real Hourly Compensation for All Employed Persons                                                                    | 1947-01-01          | 2022-07-01        |
+| ULCBS              | Business Sector: Unit Labor Costs for All Employed Persons                                                                            | 1947-01-01          | 2022-07-01        |
+| UNLPBS             | Business Sector: Unit Nonlabor Payments for All Employed Persons                                                                      | 1947-01-01          | 2022-07-01        |

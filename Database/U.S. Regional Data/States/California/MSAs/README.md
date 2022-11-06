@@ -7,7 +7,7 @@
 | Bakersfield, CA                      |               246 |
 | Chico, CA                            |               173 |
 | Vallejo, CA                          |               212 |
-| Visalia, CA                          |               191 |
+| Visalia, CA                          |                 0 |
 | Merced, CA                           |               173 |
 | Stockton, CA                         |               240 |
 | El Centro, CA                        |               150 |
@@ -19,7 +19,7 @@
 | Los Angeles-Long Beach-Anaheim, CA   |               332 |
 | Redding, CA                          |               167 |
 | Oxnard-Thousand Oaks-Ventura, CA     |               239 |
-| Fresno, CA                           |                 0 |
+| Fresno, CA                           |               246 |
 | Madera, CA                           |               150 |
 | San Jose-Sunnyvale-Santa Clara, CA   |               331 |
 | Riverside-San Bernardino-Ontario, CA |               364 |

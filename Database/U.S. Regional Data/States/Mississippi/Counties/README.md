@@ -34,7 +34,7 @@
 | Tate County, MS            |                89 |
 | Claiborne County, MS       |                87 |
 | Calhoun County, MS         |                89 |
-| Hancock County, MS         |                 0 |
+| Hancock County, MS         |               146 |
 | Coahoma County, MS         |                90 |
 | Choctaw County, MS         |                88 |
 | Attala County, MS          |                88 |
@@ -50,7 +50,7 @@
 | Covington County, MS       |                89 |
 | Kemper County, MS          |                87 |
 | Adams County, MS           |                89 |
-| Harrison County, MS        |               147 |
+| Harrison County, MS        |                 0 |
 | Lamar County, MS           |               145 |
 | Leake County, MS           |                89 |
 | Warren County, MS          |               146 |

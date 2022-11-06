@@ -459,48 +459,48 @@
 | MPU9910783  | Nondurable Manufacturing Sector: Contribution of Intermediate Inputs                                             | 1988-01-01          | 2020-01-01        |
 | MPU9910992  | Manufacturing Nondurable Goods Sector: Hours                                                                     | 1987-01-01          | 2013-01-01        |
 | MPU9910993  | Manufacturing Nondurable Goods Sector: Hours                                                                     | 1988-01-01          | 2013-01-01        |
-| PRS32006011 | Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                      | 1988-01-01          | 2022-04-01        |
-| PRS32006012 | Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                      | 1987-04-01          | 2022-04-01        |
-| PRS32006013 | Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                      | 1987-01-01          | 2022-04-01        |
-| PRS32006021 | Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                     | 1988-01-01          | 2022-04-01        |
-| PRS32006022 | Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                     | 1987-04-01          | 2022-04-01        |
-| PRS32006023 | Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                     | 1987-01-01          | 2022-04-01        |
-| PRS32006031 | Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                    | 1988-01-01          | 2022-04-01        |
-| PRS32006032 | Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                    | 1987-04-01          | 2022-04-01        |
-| PRS32006033 | Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                    | 1987-01-01          | 2022-04-01        |
-| PRS32006041 | Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                          | 1988-01-01          | 2022-04-01        |
-| PRS32006042 | Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                          | 1987-04-01          | 2022-04-01        |
-| PRS32006043 | Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                          | 1987-01-01          | 2022-04-01        |
+| PRS32006011 | Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                      | 1988-01-01          | 2022-07-01        |
+| PRS32006012 | Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                      | 1987-04-01          | 2022-07-01        |
+| PRS32006013 | Manufacturing, Nondurable Goods Sector: Employment for All Employed Persons                                      | 1987-01-01          | 2022-07-01        |
+| PRS32006021 | Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                     | 1988-01-01          | 2022-07-01        |
+| PRS32006022 | Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                     | 1987-04-01          | 2022-07-01        |
+| PRS32006023 | Manufacturing, Nondurable Goods Sector: Average Weekly Hours Worked for All Employed Persons                     | 1987-01-01          | 2022-07-01        |
+| PRS32006031 | Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                    | 1988-01-01          | 2022-07-01        |
+| PRS32006032 | Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                    | 1987-04-01          | 2022-07-01        |
+| PRS32006033 | Manufacturing, Nondurable Goods Sector: Hours Worked for All Employed Persons                                    | 1987-01-01          | 2022-07-01        |
+| PRS32006041 | Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                          | 1988-01-01          | 2022-07-01        |
+| PRS32006042 | Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                          | 1987-04-01          | 2022-07-01        |
+| PRS32006043 | Manufacturing, Nondurable Goods Sector: Output for All Employed Persons                                          | 1987-01-01          | 2022-07-01        |
 | PRS32006051 | Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                           | 1988-01-01          | 2020-01-01        |
 | PRS32006052 | Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                           | 1988-01-01          | 2020-01-01        |
 | PRS32006053 | Manufacturing, Nondurable Goods Sector: Current Dollar Output for All Employed Persons                           | 1987-01-01          | 2020-01-01        |
-| PRS32006061 | Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                    | 1988-01-01          | 2022-04-01        |
-| PRS32006062 | Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                    | 1987-04-01          | 2022-04-01        |
-| PRS32006063 | Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                    | 1987-01-01          | 2022-04-01        |
+| PRS32006061 | Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                    | 1988-01-01          | 2022-07-01        |
+| PRS32006062 | Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                    | 1987-04-01          | 2022-07-01        |
+| PRS32006063 | Manufacturing, Nondurable Goods Sector: Compensation for All Employed Persons                                    | 1987-01-01          | 2022-07-01        |
 | PRS32006081 | Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                               | 1988-01-01          | 2020-01-01        |
 | PRS32006082 | Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                               | 1988-01-01          | 2020-01-01        |
 | PRS32006083 | Manufacturing, Nondurable Goods Sector: Nonlabor Payments for All Employed Persons                               | 1987-01-01          | 2020-01-01        |
-| PRS32006091 | Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons            | 1988-01-01          | 2022-04-01        |
-| PRS32006092 | Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons            | 1987-04-01          | 2022-04-01        |
-| PRS32006093 | Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons            | 1987-01-01          | 2022-04-01        |
-| PRS32006101 | Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                             | 1988-01-01          | 2022-04-01        |
-| PRS32006102 | Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                             | 1987-04-01          | 2022-04-01        |
-| PRS32006103 | Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                             | 1987-01-01          | 2022-04-01        |
-| PRS32006111 | Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                | 1988-01-01          | 2022-04-01        |
-| PRS32006112 | Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                | 1987-04-01          | 2022-04-01        |
-| PRS32006113 | Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                | 1987-01-01          | 2022-04-01        |
+| PRS32006091 | Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons            | 1988-01-01          | 2022-07-01        |
+| PRS32006092 | Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons            | 1987-04-01          | 2022-07-01        |
+| PRS32006093 | Manufacturing, Nondurable Goods Sector: Labor Productivity (Output per Hour) for All Employed Persons            | 1987-01-01          | 2022-07-01        |
+| PRS32006101 | Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                             | 1988-01-01          | 2022-07-01        |
+| PRS32006102 | Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                             | 1987-04-01          | 2022-07-01        |
+| PRS32006103 | Manufacturing, Nondurable Goods Sector: Hourly Compensation for All Employed Persons                             | 1987-01-01          | 2022-07-01        |
+| PRS32006111 | Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                | 1988-01-01          | 2022-07-01        |
+| PRS32006112 | Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                | 1987-04-01          | 2022-07-01        |
+| PRS32006113 | Manufacturing, Nondurable Goods Sector: Unit Labor Costs for All Employed Persons                                | 1987-01-01          | 2022-07-01        |
 | PRS32006131 | Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                          | 1988-01-01          | 2020-01-01        |
 | PRS32006132 | Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                          | 1988-01-01          | 2020-01-01        |
 | PRS32006133 | Manufacturing, Nondurable Goods Sector: Unit Nonlabor Payments for All Employed Persons                          | 1987-01-01          | 2020-01-01        |
 | PRS32006141 | Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                         | 1988-01-01          | 2020-01-01        |
 | PRS32006142 | Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                         | 1988-01-01          | 2020-01-01        |
 | PRS32006143 | Manufacturing, Nondurable Goods Sector: Implicit Price Deflator for All Employed Persons                         | 1987-01-01          | 2020-01-01        |
-| PRS32006151 | Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                        | 1988-01-01          | 2022-04-01        |
-| PRS32006152 | Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                        | 1987-04-01          | 2022-04-01        |
-| PRS32006153 | Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                        | 1987-01-01          | 2022-04-01        |
-| PRS32006161 | Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                  | 1988-01-01          | 2022-04-01        |
-| PRS32006162 | Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                  | 1987-04-01          | 2022-04-01        |
-| PRS32006163 | Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                  | 1987-01-01          | 2022-04-01        |
+| PRS32006151 | Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                        | 1988-01-01          | 2022-07-01        |
+| PRS32006152 | Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                        | 1987-04-01          | 2022-07-01        |
+| PRS32006153 | Manufacturing, Nondurable Goods Sector: Real Hourly Compensation for All Employed Persons                        | 1987-01-01          | 2022-07-01        |
+| PRS32006161 | Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                  | 1988-01-01          | 2022-07-01        |
+| PRS32006162 | Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                  | 1987-04-01          | 2022-07-01        |
+| PRS32006163 | Manufacturing, Nondurable Goods Sector: Output per Job for All Employed Persons                                  | 1987-01-01          | 2022-07-01        |
 | PRS32006171 | Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                     | 1988-01-01          | 2020-01-01        |
 | PRS32006172 | Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                     | 1988-01-01          | 2020-01-01        |
 | PRS32006173 | Manufacturing, Nondurable Goods Sector: Labor Share for All Employed Persons                                     | 1987-01-01          | 2020-01-01        |

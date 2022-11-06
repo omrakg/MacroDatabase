@@ -18,8 +18,8 @@
 | CHIC006INFON              | All Employees: Information in Chico, CA (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | CHIC006LEIH               | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | CHIC006LEIHN              | All Employees: Leisure and Hospitality in Chico, CA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| CHIC006LF                 | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| CHIC006LFN                | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| CHIC006LF                 | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| CHIC006LFN                | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | CHIC006MFG                | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CHIC006MFGN               | All Employees: Manufacturing in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CHIC006NA                 | All Employees: Total Nonfarm in Chico, CA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -33,8 +33,8 @@
 | CHIC006SRVON              | All Employees: Other Services in Chico, CA (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | CHIC006TRAD               | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | CHIC006TRADN              | All Employees: Trade, Transportation, and Utilities in Chico, CA (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| CHIC006UR                 | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| CHIC006URN                | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| CHIC006UR                 | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| CHIC006URN                | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | DESCMSA17020              | Market Hotness: Demand Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC170230010             | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC170230010SA           | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -54,9 +54,9 @@
 | HOSCMSA17020              | Market Hotness: Hotness Score in Chico, CA (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD17020                 | Implicit Regional Price Deflator for Chico, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT061702000000003A     | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT061702000000004      | Unemployed Persons in Chico, CA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT061702000000004      | Unemployed Persons in Chico, CA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT061702000000004A     | Unemployed Persons in Chico, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT061702000000005      | Employed Persons in Chico, CA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT061702000000005      | Employed Persons in Chico, CA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT061702000000005A     | Employed Persons in Chico, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT061702000000006A     | Civilian Labor Force in Chico, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA17020          | Market Hotness: Listing Views per Property in Chico, CA (CBSA)                                             | 2017-09-01          | 2022-09-01        |

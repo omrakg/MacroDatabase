@@ -50,11 +50,11 @@
 | Meigs County, TN      |                89 |
 | Campbell County, TN   |                90 |
 | Grainger County, TN   |                88 |
-| Stewart County, TN    |                90 |
+| Stewart County, TN    |                 0 |
 | Hamblen County, TN    |               146 |
 | Carter County, TN     |               146 |
 | Perry County, TN      |                88 |
-| Hickman County, TN    |                 0 |
+| Hickman County, TN    |                90 |
 | Claiborne County, TN  |                89 |
 | Williamson County, TN |               147 |
 | Coffee County, TN     |               146 |

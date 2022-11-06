@@ -1,9 +1,9 @@
 | Category                                | Sub-Category                                                    | Files   |
 |-----------------------------------------|-----------------------------------------------------------------|---------|
 | International Data                      | Indicators                                                      | 21,474  |
-|                                         | Geography                                                       | 218     |
-|                                         | Countries                                                       | 55,212  |
-|                                         | Institutions                                                    | 4,826   |
+|                                         | Geography                                                       | 214     |
+|                                         | Countries                                                       | 54,269  |
+|                                         | Institutions                                                    | 3,353   |
 | Production & Business Activity          | BAHBATOTALNSAUS.json                                            | 0       |
 |                                         | ODMNTO02DKQ661N.json                                            | 0       |
 |                                         | BACBATOTALSAKS.json                                             | 0       |
@@ -302,7 +302,7 @@
 |                                         | BACBANAICS53SAUS.json                                           | 0       |
 |                                         | CHEPERMITAISMEI.json                                            | 0       |
 |                                         | BAWBATOTALNSAKS.json                                            | 0       |
-|                                         | Housing                                                         | 226     |
+|                                         | Housing                                                         | 116     |
 |                                         | BAWBATOTALNSAOH.json                                            | 0       |
 |                                         | FINPROCONAISMEI.json                                            | 0       |
 |                                         | BAWBATOTALNSAKY.json                                            | 0       |
@@ -1380,7 +1380,7 @@
 |                                         | U.S. Trade & International Transactions                         | 373     |
 |                                         | RIVEXUKQ.json                                                   | 0       |
 |                                         | NGDPMPUKA.json                                                  | 0       |
-|                                         | National Income & Product Accounts                              | 11,635  |
+|                                         | National Income & Product Accounts                              | 11,544  |
 |                                         | TVIMPUKQ.json                                                   | 0       |
 |                                         | HPGDPUKA.json                                                   | 0       |
 |                                         | RGDNIMUKA.json                                                  | 0       |
@@ -1796,18 +1796,18 @@
 |                                         | M0415AUS35620M267NNBR.json                                      | 0       |
 |                                         | M04022US35620M267NNBR.json                                      | 0       |
 | U.S. Regional Data                      | Freddie Mac Regions                                             | 12      |
-|                                         | Census Regions                                                  | 489     |
+|                                         | Census Regions                                                  | 432     |
 |                                         | Federal Reserve Districts                                       | 961     |
-|                                         | States                                                          | 410,719 |
+|                                         | States                                                          | 409,138 |
 |                                         | BLS Regions                                                     | 203     |
 |                                         | BEA Regions                                                     | 3,264   |
 | Money, Banking, & Finance               | Banking                                                         | 5,387   |
-|                                         | Business Lending                                                | 925     |
+|                                         | Business Lending                                                | 983     |
 |                                         | Interest Rates                                                  | 1,221   |
 |                                         | ECBASSETSW.json                                                 | 0       |
 |                                         | Financial Indicators                                            | 1,262   |
 |                                         | Foreign Exchange Intervention                                   | 24      |
-|                                         | Exchange Rates                                                  | 13,285  |
+|                                         | Exchange Rates                                                  | 12,282  |
 |                                         | Discontinued                                                    | 3       |
 |                                         | _Money, Banking, & Finance_Incl_Discontinued.json               | 0       |
 |                                         | JPNASSETS.json                                                  | 0       |
@@ -1817,7 +1817,7 @@
 |                                         | Population                                                      | 2,006   |
 |                                         | Education                                                       | 45      |
 |                                         | _Population, Employment, & Labor Markets.json                   | 0       |
-|                                         | Current Population Survey (Household Survey)                    | 5,882   |
+|                                         | Current Population Survey (Household Survey)                    | 5,974   |
 |                                         | Weekly Initial Claims                                           | 25      |
 |                                         | Minimum Wage                                                    | 53      |
 |                                         | NROU.json                                                       | 0       |
@@ -1836,7 +1836,7 @@
 |                                         | The Effects of the 1930s HOLC "Redlining" Maps                  | 22      |
 |                                         | New England Textile Industry, 1815-1860                         | 28      |
 |                                         | LODINIM066N.json                                                | 0       |
-|                                         | Penn World Table 7.1                                            | 5,548   |
+|                                         | Penn World Table 7.1                                            | 5,410   |
 |                                         | Sticky Wages and Comovement                                     | 12      |
 |                                         | Historical Federal Reserve Data                                 | 127     |
 |                                         | A Millennium of Macroeconomic Data for the UK                   | 121     |

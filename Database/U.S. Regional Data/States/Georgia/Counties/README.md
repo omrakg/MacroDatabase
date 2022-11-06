@@ -47,7 +47,7 @@
 | Calhoun County, GA       |                88 |
 | Camden County, GA        |               146 |
 | Seminole County, GA      |                88 |
-| Ware County, GA          |                89 |
+| Ware County, GA          |                 0 |
 | Dade County, GA          |                90 |
 | Tattnall County, GA      |                89 |
 | Chattooga County, GA     |                90 |
@@ -79,7 +79,7 @@
 | Worth County, GA         |                90 |
 | Evans County, GA         |                87 |
 | Forsyth County, GA       |               147 |
-| Bulloch County, GA       |                 0 |
+| Bulloch County, GA       |               147 |
 | Lanier County, GA        |                88 |
 | De Kalb County, GA       |               147 |
 | Chattahoochee County, GA |                88 |
@@ -126,7 +126,7 @@
 | Bacon County, GA         |                88 |
 | Gordon County, GA        |               146 |
 | Bibb County, GA          |               147 |
-| Gilmer County, GA        |                90 |
+| Gilmer County, GA        |                 0 |
 | Hall County, GA          |               147 |
 | Columbia County, GA      |               146 |
 | Lee County, GA           |                90 |
@@ -139,7 +139,7 @@
 | Heard County, GA         |                90 |
 | Houston County, GA       |               147 |
 | Emanuel County, GA       |                88 |
-| Liberty County, GA       |                 0 |
+| Liberty County, GA       |               146 |
 | Pike County, GA          |                89 |
 | Floyd County, GA         |               147 |
 | Brooks County, GA        |                89 |

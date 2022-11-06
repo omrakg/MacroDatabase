@@ -56,10 +56,10 @@
 | McLennan County, TX      |               147 |
 | Reeves County, TX        |                88 |
 | Scurry County, TX        |                89 |
-| Ector County, TX         |                 0 |
+| Ector County, TX         |               147 |
 | Washington County, TX    |                90 |
 | Guadalupe County, TX     |               147 |
-| Nueces County, TX        |               147 |
+| Nueces County, TX        |                 0 |
 | Morris County, TX        |                88 |
 | Shackelford County, TX   |                88 |
 | Bowie County, TX         |               147 |
@@ -116,10 +116,10 @@
 | Hardeman County, TX      |                89 |
 | Wilbarger County, TX     |                90 |
 | Navarro County, TX       |                90 |
-| Frio County, TX          |                 0 |
+| Frio County, TX          |                88 |
 | Denton County, TX        |               147 |
 | Deaf Smith County, TX    |                89 |
-| Stonewall County, TX     |                87 |
+| Stonewall County, TX     |                 0 |
 | Fort Bend County, TX     |               147 |
 | Bee County, TX           |                90 |
 | Upton County, TX         |                88 |
@@ -176,7 +176,7 @@
 | Galveston County, TX     |               147 |
 | Angelina County, TX      |               147 |
 | Hunt County, TX          |               147 |
-| Midland County, TX       |                 0 |
+| Midland County, TX       |               147 |
 | Anderson County, TX      |                90 |
 | Falls County, TX         |                89 |
 | Presidio County, TX      |                88 |
@@ -207,7 +207,7 @@
 | Potter County, TX        |               147 |
 | Waller County, TX        |                90 |
 | Sherman County, TX       |                87 |
-| Hood County, TX          |               146 |
+| Hood County, TX          |                 0 |
 | Concho County, TX        |                88 |
 | Kent County, TX          |                86 |
 | Gillespie County, TX     |                90 |

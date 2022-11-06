@@ -28,21 +28,21 @@
 | HOUM322GOVTN              | All Employees: Government in Houma-Thibodaux, LA (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | HOUM322LEIH               | All Employees: Leisure and Hospitality in Houma-Thibodaux, LA (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | HOUM322LEIHN              | All Employees: Leisure and Hospitality in Houma-Thibodaux, LA (MSA)                                                 | 1990-01-01          | 2022-09-01        |
-| HOUM322LF                 | Civilian Labor Force in Houma-Thibodaux, LA (MSA)                                                                   | 1990-01-01          | 2022-08-01        |
-| HOUM322LFN                | Civilian Labor Force in Houma-Thibodaux, LA (MSA)                                                                   | 1990-01-01          | 2022-08-01        |
+| HOUM322LF                 | Civilian Labor Force in Houma-Thibodaux, LA (MSA)                                                                   | 1990-01-01          | 2022-09-01        |
+| HOUM322LFN                | Civilian Labor Force in Houma-Thibodaux, LA (MSA)                                                                   | 1990-01-01          | 2022-09-01        |
 | HOUM322NA                 | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | HOUM322NAN                | All Employees: Total Nonfarm in Houma-Thibodaux, LA (MSA)                                                           | 1975-01-01          | 2022-09-01        |
 | HOUM322PCPI               | Per Capita Personal Income in Houma-Thibodaux, LA (MSA)                                                             | 1969-01-01          | 2020-01-01        |
 | HOUM322TRAD               | All Employees: Trade, Transportation, and Utilities in Houma-Thibodaux, LA (MSA)                                    | 1990-01-01          | 2022-09-01        |
 | HOUM322TRADN              | All Employees: Trade, Transportation, and Utilities in Houma-Thibodaux, LA (MSA)                                    | 1990-01-01          | 2022-09-01        |
-| HOUM322UR                 | Unemployment Rate in Houma-Thibodaux, LA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
-| HOUM322URN                | Unemployment Rate in Houma-Thibodaux, LA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| HOUM322UR                 | Unemployment Rate in Houma-Thibodaux, LA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| HOUM322URN                | Unemployment Rate in Houma-Thibodaux, LA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | HOUPOP                    | Resident Population in Houma-Thibodaux, LA (MSA)                                                                    | 2000-01-01          | 2021-01-01        |
 | IRPD26380                 | Implicit Regional Price Deflator for Houma-Thibodaux, LA (MSA)                                                      | 2008-01-01          | 2020-01-01        |
 | LAUMT222638000000003A     | Unemployment Rate in Houma-Thibodaux, LA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT222638000000004      | Unemployed Persons in Houma-Thibodaux, LA (MSA)                                                                     | 1990-01-01          | 2022-08-01        |
+| LAUMT222638000000004      | Unemployed Persons in Houma-Thibodaux, LA (MSA)                                                                     | 1990-01-01          | 2022-09-01        |
 | LAUMT222638000000004A     | Unemployed Persons in Houma-Thibodaux, LA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
-| LAUMT222638000000005      | Employed Persons in Houma-Thibodaux, LA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| LAUMT222638000000005      | Employed Persons in Houma-Thibodaux, LA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | LAUMT222638000000005A     | Employed Persons in Houma-Thibodaux, LA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT222638000000006A     | Civilian Labor Force in Houma-Thibodaux, LA (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA26380          | Market Hotness: Listing Views per Property in Houma-Thibodaux, LA (CBSA)                                            | 2017-09-01          | 2022-09-01        |

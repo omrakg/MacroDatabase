@@ -13,7 +13,7 @@
 | Chautauqua County, NY   |               147 |
 | Montgomery County, NY   |               146 |
 | Schenectady County, NY  |               147 |
-| Monroe County, NY       |               147 |
+| Monroe County, NY       |                 0 |
 | Albany County, NY       |               147 |
 | Suffolk County, NY      |               147 |
 | Chenango County, NY     |                90 |
@@ -29,7 +29,7 @@
 | Tioga County, NY        |               146 |
 | Onondaga County, NY     |               147 |
 | Lewis County, NY        |                89 |
-| Nassau County, NY       |                 0 |
+| Nassau County, NY       |               143 |
 | Kings County, NY        |               146 |
 | Yates County, NY        |                90 |
 | Erie County, NY         |               147 |

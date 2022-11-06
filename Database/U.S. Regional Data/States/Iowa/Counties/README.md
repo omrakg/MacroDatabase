@@ -28,7 +28,7 @@
 | Wapello County, IA       |                90 |
 | Black Hawk County, IA    |               147 |
 | Calhoun County, IA       |                90 |
-| Jones County, IA         |                 0 |
+| Jones County, IA         |                90 |
 | Poweshiek County, IA     |                90 |
 | Wright County, IA        |                90 |
 | Audubon County, IA       |                90 |
@@ -82,13 +82,13 @@
 | Dallas County, IA        |               146 |
 | Johnson County, IA       |               147 |
 | Hancock County, IA       |                90 |
-| Jasper County, IA        |                90 |
+| Jasper County, IA        |                 0 |
 | Buena Vista County, IA   |                90 |
 | Guthrie County, IA       |                89 |
 | Cass County, IA          |                90 |
 | Carroll County, IA       |                90 |
 | Tama County, IA          |                90 |
-| Fremont County, IA       |                 0 |
+| Fremont County, IA       |                89 |
 | Mitchell County, IA      |                90 |
 | Washington County, IA    |                89 |
 | Crawford County, IA      |                90 |

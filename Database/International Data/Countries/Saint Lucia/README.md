@@ -48,7 +48,7 @@
 | DDSI06LCA156NWDB  | Liquid Assets to Deposits and Short Term Funding for Saint Lucia                                                          | 2009-01-01          | 2018-01-01        |
 | DELCAA052SCEN     | Value of Exports to Saint Lucia from Delaware                                                                             | 2012-01-01          | 2012-01-01        |
 | DELCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Delaware                                                               | 1997-01-01          | 2016-01-01        |
-| EXP2487           | U.S. Exports of Goods by F.A.S. Basis to Saint Lucia                                                                      | 1992-01-01          | 2022-08-01        |
+| EXP2487           | U.S. Exports of Goods by F.A.S. Basis to Saint Lucia                                                                      | 1992-01-01          | 2022-09-01        |
 | FLLCAA052SCEN     | Value of Exports to Saint Lucia from Florida                                                                              | 1992-01-01          | 2015-01-01        |
 | FLLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Florida                                                                | 1992-01-01          | 2016-01-01        |
 | FPCPITOTLZGLCA    | Inflation, consumer prices for St. Lucia                                                                                  | 1966-01-01          | 2021-01-01        |
@@ -62,7 +62,7 @@
 | IDLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Idaho                                                                  | 1992-01-01          | 2015-01-01        |
 | ILLCAA052SCEN     | Value of Exports to Saint Lucia from Illinois                                                                             | 1992-01-01          | 2016-01-01        |
 | ILLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Illinois                                                               | 1992-01-01          | 2016-01-01        |
-| IMP2487           | U.S. Imports of Goods by Customs Basis from Saint Lucia                                                                   | 1992-01-01          | 2022-08-01        |
+| IMP2487           | U.S. Imports of Goods by Customs Basis from Saint Lucia                                                                   | 1992-01-01          | 2022-09-01        |
 | INLCAA052SCEN     | Value of Exports to Saint Lucia from Indiana                                                                              | 1992-01-01          | 2016-01-01        |
 | INLCAA475SCEN     | Number of Identified Exporters to Saint Lucia from Indiana                                                                | 1992-01-01          | 2016-01-01        |
 | ITNETUSERP2LCA    | Internet users for St. Lucia                                                                                              | 1990-01-01          | 2020-01-01        |

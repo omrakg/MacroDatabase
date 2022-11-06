@@ -1,2 +1,6 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id                     | title                                                                                                    | observation_start   | observation_end   |
+|------------------------|----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMP29620            | Total Per Capita Real Gross Domestic Product for Lansing-East Lansing, MI (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
+| SMU26296200500000002SA | Average Weekly Hours of All Employees: Total Private in Lansing-East Lansing, MI (MSA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
+| SMU26296200500000003SA | Average Hourly Earnings of All Employees: Total Private in Lansing-East Lansing, MI (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| SMU26296200500000011SA | Average Weekly Earnings of All Employees: Total Private in Lansing-East Lansing, MI (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |

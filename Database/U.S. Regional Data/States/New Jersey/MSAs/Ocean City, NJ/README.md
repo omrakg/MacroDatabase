@@ -21,9 +21,9 @@
 | ENUC361440510SA           | Average Weekly Wages for Employees in Private Establishments in Ocean City, NJ (MSA)                 | 1990-01-01          | 2022-01-01        |
 | IRPD36140                 | Implicit Regional Price Deflator for Ocean City, NJ (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT343614000000003A     | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LAUMT343614000000004      | Unemployed Persons in Ocean City, NJ (MSA)                                                           | 1990-01-01          | 2022-08-01        |
+| LAUMT343614000000004      | Unemployed Persons in Ocean City, NJ (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | LAUMT343614000000004A     | Unemployed Persons in Ocean City, NJ (MSA)                                                           | 1990-01-01          | 2021-01-01        |
-| LAUMT343614000000005      | Employed Persons in Ocean City, NJ (MSA)                                                             | 1990-01-01          | 2022-08-01        |
+| LAUMT343614000000005      | Employed Persons in Ocean City, NJ (MSA)                                                             | 1990-01-01          | 2022-09-01        |
 | LAUMT343614000000005A     | Employed Persons in Ocean City, NJ (MSA)                                                             | 1990-01-01          | 2021-01-01        |
 | LAUMT343614000000006A     | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | MEDDAYONMAR36140          | Housing Inventory: Median Days on Market in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-09-01        |
@@ -52,15 +52,15 @@
 | OCEA134GOVTN              | All Employees: Government in Ocean City, NJ (MSA)                                                    | 1990-01-01          | 2022-09-01        |
 | OCEA134LEIH               | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2022-09-01        |
 | OCEA134LEIHN              | All Employees: Leisure and Hospitality in Ocean City, NJ (MSA)                                       | 1990-01-01          | 2022-09-01        |
-| OCEA134LF                 | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| OCEA134LFN                | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| OCEA134LF                 | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| OCEA134LFN                | Civilian Labor Force in Ocean City, NJ (MSA)                                                         | 1990-01-01          | 2022-09-01        |
 | OCEA134NA                 | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | OCEA134NAN                | All Employees: Total Nonfarm in Ocean City, NJ (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | OCEA134PCPI               | Per Capita Personal Income in Ocean City, NJ (MSA)                                                   | 1969-01-01          | 2020-01-01        |
 | OCEA134TRAD               | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2022-09-01        |
 | OCEA134TRADN              | All Employees: Trade, Transportation, and Utilities in Ocean City, NJ (MSA)                          | 1990-01-01          | 2022-09-01        |
-| OCEA134UR                 | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-08-01        |
-| OCEA134URN                | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-08-01        |
+| OCEA134UR                 | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-09-01        |
+| OCEA134URN                | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | OCIPOP                    | Resident Population in Ocean City, NJ (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | PATENTCBSA136140          | U.S. Granted Utility Patents Originating in Ocean City, NJ (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU36140            | Housing Inventory: Pending Listing Count in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-09-01        |

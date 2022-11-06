@@ -21,8 +21,8 @@
 | CAPE912INFON              | All Employees: Information in Cape Coral-Fort Myers, FL (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | CAPE912LEIH               | All Employees: Leisure and Hospitality in Cape Coral-Fort Myers, FL (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | CAPE912LEIHN              | All Employees: Leisure and Hospitality in Cape Coral-Fort Myers, FL (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| CAPE912LF                 | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| CAPE912LFN                | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| CAPE912LF                 | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| CAPE912LFN                | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | CAPE912MFG                | All Employees: Manufacturing in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CAPE912MFGN               | All Employees: Manufacturing in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | CAPE912NA                 | All Employees: Total Nonfarm in Cape Coral-Fort Myers, FL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -36,8 +36,8 @@
 | CAPE912SRVON              | All Employees: Other Services in Cape Coral-Fort Myers, FL (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | CAPE912TRAD               | All Employees: Trade, Transportation, and Utilities in Cape Coral-Fort Myers, FL (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | CAPE912TRADN              | All Employees: Trade, Transportation, and Utilities in Cape Coral-Fort Myers, FL (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| CAPE912UR                 | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| CAPE912URN                | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| CAPE912UR                 | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| CAPE912URN                | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | DESCMSA15980              | Market Hotness: Demand Score in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
 | ENUC159830010             | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC159830010SA           | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -59,9 +59,9 @@
 | IHLCHG15980               | Job Postings on Indeed in Cape Coral-Fort Myers, FL (MSA)                                                                  | 2020-02-01          | 2022-10-14        |
 | IRPD15980                 | Implicit Regional Price Deflator for Cape Coral-Fort Myers, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT121598000000003A     | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT121598000000004      | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT121598000000004      | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT121598000000004A     | Unemployed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT121598000000005      | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT121598000000005      | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT121598000000005A     | Employed Persons in Cape Coral-Fort Myers, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT121598000000006A     | Civilian Labor Force in Cape Coral-Fort Myers, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA15980          | Market Hotness: Listing Views per Property in Cape Coral-Fort Myers, FL (CBSA)                                             | 2017-09-01          | 2022-09-01        |

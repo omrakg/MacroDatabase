@@ -105,8 +105,8 @@
 | SPRI125INFON           | All Employees: Information in Springfield, MA-CT (NECTA)                                                              | 1990-01-01          | 2022-09-01        |
 | SPRI125LEIH            | All Employees: Leisure and Hospitality in Springfield, MA-CT (NECTA)                                                  | 1990-01-01          | 2022-09-01        |
 | SPRI125LEIHN           | All Employees: Leisure and Hospitality in Springfield, MA-CT (NECTA)                                                  | 1990-01-01          | 2022-09-01        |
-| SPRI125LF              | Civilian Labor Force in Springfield, MA-CT (NECTA)                                                                    | 1990-01-01          | 2022-08-01        |
-| SPRI125LFN             | Civilian Labor Force in Springfield, MA-CT (NECTA)                                                                    | 1990-01-01          | 2022-08-01        |
+| SPRI125LF              | Civilian Labor Force in Springfield, MA-CT (NECTA)                                                                    | 1990-01-01          | 2022-09-01        |
+| SPRI125LFN             | Civilian Labor Force in Springfield, MA-CT (NECTA)                                                                    | 1990-01-01          | 2022-09-01        |
 | SPRI125MFG             | All Employees: Manufacturing in Springfield, MA-CT (NECTA)                                                            | 1990-01-01          | 2022-09-01        |
 | SPRI125MFGN            | All Employees: Manufacturing in Springfield, MA-CT (NECTA)                                                            | 1990-01-01          | 2022-09-01        |
 | SPRI125NA              | All Employees: Total Nonfarm in Springfield, MA-CT (NECTA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -120,5 +120,5 @@
 | SPRI125SRVON           | All Employees: Other Services in Springfield, MA-CT (NECTA)                                                           | 1990-01-01          | 2022-09-01        |
 | SPRI125TRAD            | All Employees: Trade, Transportation, and Utilities in Springfield, MA-CT (NECTA)                                     | 1990-01-01          | 2022-09-01        |
 | SPRI125TRADN           | All Employees: Trade, Transportation, and Utilities in Springfield, MA-CT (NECTA)                                     | 1990-01-01          | 2022-09-01        |
-| SPRI125UR              | Unemployment Rate in Springfield, MA-CT (NECTA)                                                                       | 1990-01-01          | 2022-08-01        |
-| SPRI125URN             | Unemployment Rate in Springfield, MA-CT (NECTA)                                                                       | 1990-01-01          | 2022-08-01        |
+| SPRI125UR              | Unemployment Rate in Springfield, MA-CT (NECTA)                                                                       | 1990-01-01          | 2022-09-01        |
+| SPRI125URN             | Unemployment Rate in Springfield, MA-CT (NECTA)                                                                       | 1990-01-01          | 2022-09-01        |

@@ -53,7 +53,7 @@
 | DDSI01MRA645NWDB     | Bank Z-Score for Mauritania                                                                                                  | 2000-01-01          | 2020-01-01        |
 | DDSI04MRA156NWDB     | Bank Credit to Bank Deposits for Mauritania                                                                                  | 1961-01-01          | 2019-01-01        |
 | DDSI06MRA156NWDB     | Liquid Assets to Deposits and Short Term Funding for Mauritania                                                              | 2000-01-01          | 2020-01-01        |
-| EXP7410              | U.S. Exports of Goods by F.A.S. Basis to Mauritania                                                                          | 1992-01-01          | 2022-08-01        |
+| EXP7410              | U.S. Exports of Goods by F.A.S. Basis to Mauritania                                                                          | 1992-01-01          | 2022-09-01        |
 | FLMRTA052SCEN        | Value of Exports to Mauritania from Florida                                                                                  | 2002-01-01          | 2017-01-01        |
 | FLMRTA475SCEN        | Number of Identified Exporters to Mauritania from Florida                                                                    | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGMRT       | Inflation, consumer prices for Mauritania                                                                                    | 1986-01-01          | 2020-01-01        |
@@ -66,7 +66,7 @@
 | IDMRTA475SCEN        | Number of Identified Exporters to Mauritania from Idaho                                                                      | 2007-01-01          | 2016-01-01        |
 | ILMRTA052SCEN        | Value of Exports to Mauritania from Illinois                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILMRTA475SCEN        | Number of Identified Exporters to Mauritania from Illinois                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP7410              | U.S. Imports of Goods by Customs Basis from Mauritania                                                                       | 1992-01-01          | 2022-08-01        |
+| IMP7410              | U.S. Imports of Goods by Customs Basis from Mauritania                                                                       | 1992-01-01          | 2022-09-01        |
 | INMRTA052SCEN        | Value of Exports to Mauritania from Indiana                                                                                  | 2003-01-01          | 2015-01-01        |
 | INMRTA475SCEN        | Number of Identified Exporters to Mauritania from Indiana                                                                    | 1997-01-01          | 2017-01-01        |
 | ITNETUSERP2MRT       | Internet users for Mauritania                                                                                                | 1990-01-01          | 2020-01-01        |
@@ -125,7 +125,7 @@
 | MRTGCXCNLGDPGDPPT    | Central Government Net Lending/borrowing (central Govt Fiscal Balance) for Mauritania                                        | 2006-01-01          | 2023-01-01        |
 | MRTGGBGDPGDPPT       | Overall Fiscal Balance for General Government for Mauritania                                                                 | 2002-01-01          | 2023-01-01        |
 | MRTGGBXOGDPXOGDPXOPT | Overall Non-Oil Fiscal Balance for General Government for Mauritania                                                         | 2000-01-01          | 2023-01-01        |
-| MRTGGDGDPGDPPT       | Total Government Debt for General Government for Mauritania                                                                  | 2007-01-01          | 2023-01-01        |
+| MRTGGDGDPGDPPT       | Total Government Debt for General Government for Mauritania                                                                  | 2006-01-01          | 2023-01-01        |
 | MRTGGENLGDPGDPPT     | Total Expenditure and Net Lending for General Government for Mauritania                                                      | 2002-01-01          | 2021-01-01        |
 | MRTGGNDGDPGDPPT      | General Government Net Debt for Mauritania                                                                                   | 2007-01-01          | 2023-01-01        |
 | MRTGGRXGGDPGDPPT     | Total Revenue, Excluding Grants, for General Government for Mauritania                                                       | 2006-01-01          | 2023-01-01        |
@@ -133,7 +133,7 @@
 | MRTNGDPDUSD          | Gross Domestic Product in Current Prices for Mauritania                                                                      | 2000-01-01          | 2023-01-01        |
 | MRTNGDPMG            | Gas Production for Mauritania                                                                                                | 2019-01-01          | 2023-01-01        |
 | MRTNGDPMOMBD         | Crude Oil Production for Mauritania                                                                                          | 2006-01-01          | 2023-01-01        |
-| MRTNGDPORPCHPT       | Oil Real GDP Growth in Constant Prices for Mauritania                                                                        | 2007-01-01          | 2018-01-01        |
+| MRTNGDPORPCHPT       | Oil Real GDP Growth in Constant Prices for Mauritania                                                                        | 2007-01-01          | 2020-01-01        |
 | MRTNGDPRPCHPT        | Gross Domestic Product in Constant Prices for Mauritania                                                                     | 2000-01-01          | 2023-01-01        |
 | MRTNGDPXORPCHPT      | Non-Oil Real GDP Growth in Constant Prices for Mauritania                                                                    | 2000-01-01          | 2023-01-01        |
 | MRTPCPIPCHPT         | Consumer Price Inflation for Mauritania                                                                                      | 2000-01-01          | 2023-01-01        |

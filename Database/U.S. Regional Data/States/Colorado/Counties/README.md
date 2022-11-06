@@ -30,12 +30,12 @@
 | Clear Creek County, CO       |                90 |
 | Sedgwick County, CO          |                88 |
 | La Plata County, CO          |               146 |
-| El Paso County, CO           |               147 |
+| El Paso County, CO           |                 0 |
 | Chaffee County, CO           |                89 |
 | Larimer County, CO           |               147 |
 | Logan County, CO             |                89 |
 | Kiowa County, CO             |                88 |
-| Moffat County, CO            |                 0 |
+| Moffat County, CO            |                89 |
 | Eagle County, CO             |               146 |
 | Park County, CO              |                90 |
 | Montezuma County, CO         |                90 |

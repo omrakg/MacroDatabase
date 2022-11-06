@@ -26,9 +26,9 @@
 | HOSCMSA43620              | Market Hotness: Hotness Score in Sioux Falls, SD (CBSA)                                                          | 2017-08-01          | 2022-09-01        |
 | IRPD43620                 | Implicit Regional Price Deflator for Sioux Falls, SD (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT464362000000003A     | Unemployment Rate in Sioux Falls, SD (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT464362000000004      | Unemployed Persons in Sioux Falls, SD (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT464362000000004      | Unemployed Persons in Sioux Falls, SD (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT464362000000004A     | Unemployed Persons in Sioux Falls, SD (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT464362000000005      | Employed Persons in Sioux Falls, SD (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT464362000000005      | Employed Persons in Sioux Falls, SD (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT464362000000005A     | Employed Persons in Sioux Falls, SD (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT464362000000006A     | Civilian Labor Force in Sioux Falls, SD (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA43620          | Market Hotness: Listing Views per Property in Sioux Falls, SD (CBSA)                                             | 2017-09-01          | 2022-09-01        |
@@ -89,8 +89,8 @@
 | SIOU646INFON              | All Employees: Information in Sioux Falls, SD (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | SIOU646LEIH               | All Employees: Leisure and Hospitality in Sioux Falls, SD (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | SIOU646LEIHN              | All Employees: Leisure and Hospitality in Sioux Falls, SD (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| SIOU646LF                 | Civilian Labor Force in Sioux Falls, SD (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| SIOU646LFN                | Civilian Labor Force in Sioux Falls, SD (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| SIOU646LF                 | Civilian Labor Force in Sioux Falls, SD (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| SIOU646LFN                | Civilian Labor Force in Sioux Falls, SD (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | SIOU646MFG                | All Employees: Manufacturing in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | SIOU646MFGN               | All Employees: Manufacturing in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | SIOU646NA                 | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -104,8 +104,8 @@
 | SIOU646SRVON              | All Employees: Other Services in Sioux Falls, SD (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | SIOU646TRAD               | All Employees: Trade, Transportation, and Utilities in Sioux Falls, SD (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | SIOU646TRADN              | All Employees: Trade, Transportation, and Utilities in Sioux Falls, SD (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| SIOU646UR                 | Unemployment Rate in Sioux Falls, SD (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| SIOU646URN                | Unemployment Rate in Sioux Falls, SD (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| SIOU646UR                 | Unemployment Rate in Sioux Falls, SD (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| SIOU646URN                | Unemployment Rate in Sioux Falls, SD (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | SMS46436200000000026      | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-04-01          | 2022-09-01        |
 | SMU46436200000000001A     | All Employees: Total Nonfarm in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU46436200500000001      | All Employees: Total Private in Sioux Falls, SD (MSA)                                                            | 1990-01-01          | 2022-09-01        |

@@ -30,8 +30,8 @@
 | GAIN512INFON              | All Employees: Information in Gainesville, FL (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | GAIN512LEIH               | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | GAIN512LEIHN              | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| GAIN512LF                 | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| GAIN512LFN                | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| GAIN512LF                 | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| GAIN512LFN                | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | GAIN512MFG                | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | GAIN512MFGN               | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | GAIN512NA                 | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -45,8 +45,8 @@
 | GAIN512SRVON              | All Employees: Other Services in Gainesville, FL (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | GAIN512TRAD               | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | GAIN512TRADN              | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| GAIN512UR                 | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| GAIN512URN                | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| GAIN512UR                 | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| GAIN512URN                | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | GVLPOP                    | Resident Population in Gainesville, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA23540            | Market Hotness: Hotness Rank in Gainesville, FL (CBSA)                                                           | 2017-09-01          | 2022-09-01        |
 | HORAMSA23540              | Market Hotness: Hotness Rank in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-09-01        |
@@ -55,9 +55,9 @@
 | IRPD23540                 | Implicit Regional Price Deflator for Gainesville, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD23580                 | Implicit Regional Price Deflator for Gainesville, GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT122354000000003A     | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT122354000000004      | Unemployed Persons in Gainesville, FL (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT122354000000004      | Unemployed Persons in Gainesville, FL (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT122354000000004A     | Unemployed Persons in Gainesville, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT122354000000005      | Employed Persons in Gainesville, FL (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT122354000000005      | Employed Persons in Gainesville, FL (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT122354000000005A     | Employed Persons in Gainesville, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT122354000000006A     | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA23540          | Market Hotness: Listing Views per Property in Gainesville, FL (CBSA)                                             | 2017-09-01          | 2022-09-01        |

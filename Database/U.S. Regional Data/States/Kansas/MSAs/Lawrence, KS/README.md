@@ -17,9 +17,9 @@
 | ENUC299440510SA           | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD29940                 | Implicit Regional Price Deflator for Lawrence, KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT202994000000003A     | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT202994000000004      | Unemployed Persons in Lawrence, KS (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT202994000000004      | Unemployed Persons in Lawrence, KS (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT202994000000004A     | Unemployed Persons in Lawrence, KS (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT202994000000005      | Employed Persons in Lawrence, KS (MSA)                                                          | 1990-01-01          | 2022-08-01        |
+| LAUMT202994000000005      | Employed Persons in Lawrence, KS (MSA)                                                          | 1990-01-01          | 2022-09-01        |
 | LAUMT202994000000005A     | Employed Persons in Lawrence, KS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT202994000000006A     | Civilian Labor Force in Lawrence, KS (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LAWPOP                    | Resident Population in Lawrence, KS (MSA)                                                       | 2000-01-01          | 2021-01-01        |
@@ -29,8 +29,8 @@
 | LAWR920GOVTN              | All Employees: Government in Lawrence, KS (MSA)                                                 | 1990-01-01          | 2022-09-01        |
 | LAWR920LEIH               | All Employees: Leisure and Hospitality in Lawrence, KS (MSA)                                    | 1990-01-01          | 2022-09-01        |
 | LAWR920LEIHN              | All Employees: Leisure and Hospitality in Lawrence, KS (MSA)                                    | 1990-01-01          | 2022-09-01        |
-| LAWR920LF                 | Civilian Labor Force in Lawrence, KS (MSA)                                                      | 1990-01-01          | 2022-08-01        |
-| LAWR920LFN                | Civilian Labor Force in Lawrence, KS (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| LAWR920LF                 | Civilian Labor Force in Lawrence, KS (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| LAWR920LFN                | Civilian Labor Force in Lawrence, KS (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | LAWR920NA                 | All Employees: Total Nonfarm in Lawrence, KS (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | LAWR920NAN                | All Employees: Total Nonfarm in Lawrence, KS (MSA)                                              | 1990-01-01          | 2022-09-01        |
 | LAWR920PBSV               | All Employees: Professional and Business Services in Lawrence, KS (MSA)                         | 1990-01-01          | 2022-09-01        |
@@ -38,8 +38,8 @@
 | LAWR920PCPI               | Per Capita Personal Income in Lawrence, KS (MSA)                                                | 1969-01-01          | 2020-01-01        |
 | LAWR920TRAD               | All Employees: Trade, Transportation, and Utilities in Lawrence, KS (MSA)                       | 1990-01-01          | 2022-09-01        |
 | LAWR920TRADN              | All Employees: Trade, Transportation, and Utilities in Lawrence, KS (MSA)                       | 1990-01-01          | 2022-09-01        |
-| LAWR920UR                 | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2022-08-01        |
-| LAWR920URN                | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2022-08-01        |
+| LAWR920UR                 | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| LAWR920URN                | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2022-09-01        |
 | MEDDAYONMAR29940          | Housing Inventory: Median Days on Market in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-09-01        |
 | MEDDAYONMARMM29940        | Housing Inventory: Median Days on Market Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-09-01        |
 | MEDDAYONMARYY29940        | Housing Inventory: Median Days on Market Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-09-01        |

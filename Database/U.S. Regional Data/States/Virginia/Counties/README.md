@@ -21,7 +21,7 @@
 | South Boston City, VA                               |                 1 |
 | Montgomery County, VA                               |               137 |
 | Fauquier County, VA                                 |               147 |
-| Pittsylvania County + Danville City, VA             |                12 |
+| Pittsylvania County + Danville City, VA             |                 0 |
 | Shenandoah County, VA                               |                90 |
 | Hopewell City, VA                                   |                79 |
 | Campbell County, VA                                 |               136 |
@@ -34,7 +34,7 @@
 | Lee County, VA                                      |                89 |
 | Botetourt County, VA                                |                90 |
 | Gloucester County, VA                               |                89 |
-| Scott County, VA                                    |                 0 |
+| Scott County, VA                                    |                88 |
 | Lexington City, VA                                  |                78 |
 | Covington City, VA                                  |                77 |
 | Fluvanna County, VA                                 |                90 |
@@ -81,7 +81,7 @@
 | Goochland County, VA                                |                89 |
 | Manassas Park City, VA                              |                79 |
 | Newport News City, VA                               |               146 |
-| Lynchburg City, VA                                  |               136 |
+| Lynchburg City, VA                                  |                 0 |
 | Fairfax City, VA                                    |                79 |
 | York County, VA                                     |               137 |
 | Spotsylvania County + Fredericksburg City, VA       |                12 |
@@ -125,7 +125,7 @@
 | Norton City, VA                                     |                77 |
 | Halifax County, VA                                  |                89 |
 | Charlotte County, VA                                |                88 |
-| Dinwiddie, Colonial Heights + Petersburg County, VA |                 0 |
+| Dinwiddie, Colonial Heights + Petersburg County, VA |                10 |
 | Powhatan County, VA                                 |                90 |
 | Southampton County, VA                              |                80 |
 | Staunton City, VA                                   |                79 |
@@ -142,7 +142,7 @@
 | Giles County, VA                                    |                89 |
 | Buena Vista City, VA                                |                79 |
 | Manassas City, VA                                   |                79 |
-| Orange County, VA                                   |                90 |
+| Orange County, VA                                   |                 0 |
 | Richmond City, VA                                   |               146 |
 | Greene County, VA                                   |                89 |
 | Prince George County + Hopewell City, VA            |                12 |

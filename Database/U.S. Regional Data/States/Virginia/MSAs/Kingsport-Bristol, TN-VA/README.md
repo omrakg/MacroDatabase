@@ -35,8 +35,8 @@
 | KING747INFON              | All Employees: Information in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                              | 1990-01-01          | 2022-09-01        |
 | KING747LEIH               | All Employees: Leisure and Hospitality in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
 | KING747LEIHN              | All Employees: Leisure and Hospitality in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                  | 1990-01-01          | 2022-09-01        |
-| KING747LF                 | Civilian Labor Force in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
-| KING747LFN                | Civilian Labor Force in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                    | 1990-01-01          | 2022-08-01        |
+| KING747LF                 | Civilian Labor Force in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| KING747LFN                | Civilian Labor Force in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
 | KING747MFG                | All Employees: Manufacturing in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | KING747MFGN               | All Employees: Manufacturing in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
 | KING747NA                 | All Employees: Total Nonfarm in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                            | 1990-01-01          | 2022-09-01        |
@@ -50,13 +50,13 @@
 | KING747SRVON              | All Employees: Other Services in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                           | 1990-01-01          | 2022-09-01        |
 | KING747TRAD               | All Employees: Trade, Transportation, and Utilities in Kingsport-Bristol-Bristol, TN-VA (MSA)                                     | 1990-01-01          | 2022-09-01        |
 | KING747TRADN              | All Employees: Trade, Transportation, and Utilities in Kingsport-Bristol-Bristol, TN-VA (MSA)                                     | 1990-01-01          | 2022-09-01        |
-| KING747UR                 | Unemployment Rate in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
-| KING747URN                | Unemployment Rate in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                       | 1990-01-01          | 2022-08-01        |
+| KING747UR                 | Unemployment Rate in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| KING747URN                | Unemployment Rate in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
 | KINPOP                    | Resident Population in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT472870000000003A     | Unemployment Rate in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT472870000000004      | Unemployed Persons in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT472870000000004      | Unemployed Persons in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT472870000000004A     | Unemployed Persons in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT472870000000005      | Employed Persons in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT472870000000005      | Employed Persons in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT472870000000005A     | Employed Persons in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT472870000000006A     | Civilian Labor Force in Kingsport-Bristol-Bristol, TN-VA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA28700          | Market Hotness: Listing Views per Property in Kingsport-Bristol-Bristol, TN-VA (CBSA)                                             | 2017-09-01          | 2022-09-01        |

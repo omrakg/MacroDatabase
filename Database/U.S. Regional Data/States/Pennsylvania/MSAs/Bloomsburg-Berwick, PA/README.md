@@ -16,13 +16,13 @@
 | ENUC141040510          | Average Weekly Wages for Employees in Private Establishments in Bloomsburg-Berwick, PA (MSA)            | 2013-01-01          | 2022-01-01        |
 | ENUC141040510SA        | Average Weekly Wages for Employees in Private Establishments in Bloomsburg-Berwick, PA (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD14100              | Implicit Regional Price Deflator for Bloomsburg-Berwick, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT421410000000003   | Unemployment Rate in Bloomsburg-Berwick, PA (MSA)                                                       | 1990-01-01          | 2022-08-01        |
+| LAUMT421410000000003   | Unemployment Rate in Bloomsburg-Berwick, PA (MSA)                                                       | 1990-01-01          | 2022-09-01        |
 | LAUMT421410000000003A  | Unemployment Rate in Bloomsburg-Berwick, PA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT421410000000004   | Unemployed Persons in Bloomsburg-Berwick, PA (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT421410000000004   | Unemployed Persons in Bloomsburg-Berwick, PA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT421410000000004A  | Unemployed Persons in Bloomsburg-Berwick, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT421410000000005   | Employed Persons in Bloomsburg-Berwick, PA (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT421410000000005   | Employed Persons in Bloomsburg-Berwick, PA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT421410000000005A  | Employed Persons in Bloomsburg-Berwick, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT421410000000006   | Civilian Labor Force in Bloomsburg-Berwick, PA (MSA)                                                    | 1990-01-01          | 2022-08-01        |
+| LAUMT421410000000006   | Civilian Labor Force in Bloomsburg-Berwick, PA (MSA)                                                    | 1990-01-01          | 2022-09-01        |
 | LAUMT421410000000006A  | Civilian Labor Force in Bloomsburg-Berwick, PA (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP14100              | Total Gross Domestic Product for Bloomsburg-Berwick, PA (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP14100              | Total Quantity Indexes for Real GDP for Bloomsburg-Berwick, PA (MSA)                                    | 2001-01-01          | 2020-01-01        |

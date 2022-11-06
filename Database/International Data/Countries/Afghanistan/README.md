@@ -115,7 +115,7 @@
 | DDSI04AFA156NWDB     | Bank Credit to Bank Deposits for Afghanistan                                                                                             | 1960-01-01          | 2019-01-01        |
 | DEAFGA052SCEN        | Value of Exports to Afghanistan from Delaware                                                                                            | 2010-01-01          | 2016-01-01        |
 | DEAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Delaware                                                                              | 1992-01-01          | 2017-01-01        |
-| EXP5310              | U.S. Exports of Goods by F.A.S. Basis to Afghanistan                                                                                     | 1992-01-01          | 2022-08-01        |
+| EXP5310              | U.S. Exports of Goods by F.A.S. Basis to Afghanistan                                                                                     | 1992-01-01          | 2022-09-01        |
 | FLAFGA052SCEN        | Value of Exports to Afghanistan from Florida                                                                                             | 2003-01-01          | 2017-01-01        |
 | FLAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Florida                                                                               | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGAFG       | Inflation, consumer prices for the Islamic Republic of Afghanistan                                                                       | 2005-01-01          | 2019-01-01        |
@@ -129,7 +129,7 @@
 | IDAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Idaho                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILAFGA052SCEN        | Value of Exports to Afghanistan from Illinois                                                                                            | 2002-01-01          | 2017-01-01        |
 | ILAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Illinois                                                                              | 1997-01-01          | 2017-01-01        |
-| IMP5310              | U.S. Imports of Goods by Customs Basis from Afghanistan                                                                                  | 1992-01-01          | 2022-08-01        |
+| IMP5310              | U.S. Imports of Goods by Customs Basis from Afghanistan                                                                                  | 1992-01-01          | 2022-09-01        |
 | INAFGA052SCEN        | Value of Exports to Afghanistan from Indiana                                                                                             | 2004-01-01          | 2017-01-01        |
 | INAFGA475SCEN        | Number of Identified Exporters to Afghanistan from Indiana                                                                               | 2003-01-01          | 2017-01-01        |
 | ITNETUSERP2AFG       | Internet users for the Islamic Republic of Afghanistan                                                                                   | 1990-01-01          | 2020-01-01        |

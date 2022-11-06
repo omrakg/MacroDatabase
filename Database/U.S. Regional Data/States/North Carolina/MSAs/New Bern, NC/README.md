@@ -14,13 +14,13 @@
 | ENUC351040510          | Average Weekly Wages for Employees in Private Establishments in New Bern, NC (MSA)            | 2013-01-01          | 2022-01-01        |
 | ENUC351040510SA        | Average Weekly Wages for Employees in Private Establishments in New Bern, NC (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD35100              | Implicit Regional Price Deflator for New Bern, NC (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT373510000000003   | Unemployment Rate in New Bern, NC (MSA)                                                       | 1990-01-01          | 2022-08-01        |
+| LAUMT373510000000003   | Unemployment Rate in New Bern, NC (MSA)                                                       | 1990-01-01          | 2022-09-01        |
 | LAUMT373510000000003A  | Unemployment Rate in New Bern, NC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT373510000000004   | Unemployed Persons in New Bern, NC (MSA)                                                      | 1990-01-01          | 2022-08-01        |
+| LAUMT373510000000004   | Unemployed Persons in New Bern, NC (MSA)                                                      | 1990-01-01          | 2022-09-01        |
 | LAUMT373510000000004A  | Unemployed Persons in New Bern, NC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT373510000000005   | Employed Persons in New Bern, NC (MSA)                                                        | 1990-01-01          | 2022-08-01        |
+| LAUMT373510000000005   | Employed Persons in New Bern, NC (MSA)                                                        | 1990-01-01          | 2022-09-01        |
 | LAUMT373510000000005A  | Employed Persons in New Bern, NC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT373510000000006   | Civilian Labor Force in New Bern, NC (MSA)                                                    | 1990-01-01          | 2022-08-01        |
+| LAUMT373510000000006   | Civilian Labor Force in New Bern, NC (MSA)                                                    | 1990-01-01          | 2022-09-01        |
 | LAUMT373510000000006A  | Civilian Labor Force in New Bern, NC (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NEWB937PCPI            | Per Capita Personal Income in New Bern, NC (MSA)                                              | 1969-01-01          | 2020-01-01        |
 | NGMP35100              | Total Gross Domestic Product for New Bern, NC (MSA)                                           | 2001-01-01          | 2020-01-01        |

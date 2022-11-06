@@ -19,7 +19,7 @@
 | Asotin County, WA       |                89 |
 | Grant County, WA        |               147 |
 | Yakima County, WA       |               146 |
-| Stevens County, WA      |                 0 |
+| Stevens County, WA      |                90 |
 | Pierce County, WA       |               147 |
 | Grays Harbor County, WA |               147 |
 | Adams County, WA        |                90 |
@@ -35,7 +35,7 @@
 | Pacific County, WA      |                89 |
 | Cowlitz County, WA      |               147 |
 | Island County, WA       |               147 |
-| Benton County, WA       |               147 |
+| Benton County, WA       |                 0 |
 | Pend Oreille County, WA |                90 |
 | Jefferson County, WA    |                90 |
 | Clark County, WA        |               147 |

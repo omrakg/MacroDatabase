@@ -3,8 +3,8 @@
 | Flint, MI                   |               176 |
 | Kalamazoo-Portage, MI       |               173 |
 | Saginaw, MI                 |               164 |
-| Lansing-East Lansing, MI    |                 0 |
-| Detroit-Warren-Dearborn, MI |               319 |
+| Lansing-East Lansing, MI    |               183 |
+| Detroit-Warren-Dearborn, MI |                 0 |
 | Jackson, MI                 |               157 |
 | Bay City, MI                |               123 |
 | Midland, MI                 |                59 |
