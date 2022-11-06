@@ -1,8 +1,8 @@
 {
   "Turkey": {
     "id": "LFHUTTMATRM647N",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Total Harmonized Unemployment: Males for Turkey",
     "observation_start": "2005-01-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Luxembourg": {
     "id": "LFHUTTMALUQ647S",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Total Harmonized Unemployment: Males for Luxembourg",
     "observation_start": "1983-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Poland": {
     "id": "LFHUTTMAPLQ647S",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Total Harmonized Unemployment: Males for Poland",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Slovak Republic": {
     "id": "LFHUTTMASKQ647S",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Total Harmonized Unemployment: Males for the Slovak Republic",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Slovenia": {
     "id": "LFHUTTMASIQ647S",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Total Harmonized Unemployment: Males for Slovenia",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",

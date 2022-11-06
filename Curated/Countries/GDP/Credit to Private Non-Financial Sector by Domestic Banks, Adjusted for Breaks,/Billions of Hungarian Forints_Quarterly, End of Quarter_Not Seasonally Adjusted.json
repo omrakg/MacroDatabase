@@ -1,8 +1,8 @@
 {
   "Hungary": {
     "id": "CRDQHUBPABIS",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Hungary",
     "observation_start": "1967-10-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "CRDQARBPABIS",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Argentina",
     "observation_start": "1940-04-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Czech Republic": {
     "id": "CRDQCZBPABIS",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Czech Republic",
     "observation_start": "1993-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Luxembourg": {
     "id": "CRDQLUBPABIS",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Luxembourg",
     "observation_start": "2003-01-01",
     "observation_end": "2022-01-01",
@@ -77,8 +77,8 @@
   },
   "Poland": {
     "id": "CRDQPLBPABIS",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Poland",
     "observation_start": "1992-01-01",
     "observation_end": "2022-01-01",
@@ -96,8 +96,8 @@
   },
   "Saudi Arabia": {
     "id": "CRDQSABPABIS",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Saudi Arabia",
     "observation_start": "1993-01-01",
     "observation_end": "2022-01-01",
@@ -115,8 +115,8 @@
   },
   "Turkey": {
     "id": "CRDQTRBPABIS",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Turkey",
     "observation_start": "1986-01-01",
     "observation_end": "2022-01-01",

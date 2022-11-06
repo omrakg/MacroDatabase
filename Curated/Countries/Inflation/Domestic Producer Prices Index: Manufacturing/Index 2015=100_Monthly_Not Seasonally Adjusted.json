@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRPPDMMINMEI",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Domestic Producer Prices Index: Manufacturing for Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Hungary": {
     "id": "HUNPPDMQINMEI",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Domestic Producer Prices Index: Manufacturing for Hungary",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Iceland": {
     "id": "ISLPPDMQINMEI",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Domestic Producer Prices Index: Manufacturing for Iceland",
     "observation_start": "2006-01-01",
     "observation_end": "2022-04-01",

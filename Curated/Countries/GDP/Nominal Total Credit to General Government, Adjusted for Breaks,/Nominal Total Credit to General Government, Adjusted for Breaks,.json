@@ -2,8 +2,8 @@
   "Percentage of GDP_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "QSAGAN770A",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1999-10-01",
       "observation_end": "2022-01-01",
@@ -21,8 +21,8 @@
     },
     "Argentina": {
       "id": "QARGANXDCA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina",
       "observation_start": "1992-10-01",
       "observation_end": "2022-01-01",
@@ -42,8 +42,8 @@
   "Billions of US Dollars_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "QSAGANUSDA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1999-10-01",
       "observation_end": "2022-01-01",
@@ -61,8 +61,8 @@
     },
     "Argentina": {
       "id": "QARGANXDCA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina",
       "observation_start": "1992-10-01",
       "observation_end": "2022-01-01",
@@ -82,8 +82,8 @@
   "Billions of Argentine Pesos_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Argentina": {
       "id": "QARGANXDCA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina",
       "observation_start": "1992-10-01",
       "observation_end": "2022-01-01",
@@ -101,8 +101,8 @@
     },
     "Saudi Arabia": {
       "id": "QSAGANXDCA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1999-10-01",
       "observation_end": "2022-01-01",
@@ -122,8 +122,8 @@
   "Billions of Saudi Riyals_Quarterly, End of Quarter_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "QSAGANXDCA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Saudi Arabia",
       "observation_start": "1999-10-01",
       "observation_end": "2022-01-01",
@@ -141,8 +141,8 @@
     },
     "Argentina": {
       "id": "QARGANXDCA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina",
       "observation_start": "1992-10-01",
       "observation_end": "2022-01-01",

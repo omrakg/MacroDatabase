@@ -1,8 +1,8 @@
 {
   "Chile": {
     "id": "CHLODCNPI03STM",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Chile",
     "observation_start": "1991-01-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Colombia": {
     "id": "COLODCNPI03IXOBSAQ",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Colombia",
     "observation_start": "1986-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Hungary": {
     "id": "HUNODCNPI03IXOBM",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Hungary",
     "observation_start": "1998-01-01",
     "observation_end": "2022-06-01",
@@ -58,8 +58,8 @@
   },
   "Israel": {
     "id": "ISRODCNPI03MLSAM",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2022-03-01",

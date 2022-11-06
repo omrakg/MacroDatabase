@@ -1,8 +1,8 @@
 {
   "Romania": {
     "id": "SERVMIROM086NEST",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Harmonized Index of Consumer Prices: Services, Miscellaneous for Romania",
     "observation_start": "2000-12-01",
     "observation_end": "2022-09-01",
@@ -20,8 +20,8 @@
   },
   "Bulgaria": {
     "id": "SERVMIBGM086NEST",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Harmonized Index of Consumer Prices: Services, Miscellaneous for Bulgaria",
     "observation_start": "1996-12-01",
     "observation_end": "2022-09-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "SERVMIHRM086NEST",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Harmonized Index of Consumer Prices: Services, Miscellaneous for Croatia",
     "observation_start": "1998-01-01",
     "observation_end": "2022-09-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "SERVMICYM086NEST",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Harmonized Index of Consumer Prices: Services, Miscellaneous for Cyprus",
     "observation_start": "1996-01-01",
     "observation_end": "2022-09-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "SERVMIMTM086NEST",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Harmonized Index of Consumer Prices: Services, Miscellaneous for Malta",
     "observation_start": "1996-01-01",
     "observation_end": "2022-09-01",

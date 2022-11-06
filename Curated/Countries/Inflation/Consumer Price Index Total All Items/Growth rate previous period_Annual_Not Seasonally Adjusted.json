@@ -1,8 +1,8 @@
 {
   "Turkey": {
     "id": "CPHPTT01TRA657N",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Turkey",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Hungary": {
     "id": "CPHPTT01HUM659N",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Hungary",
     "observation_start": "1997-01-01",
     "observation_end": "2022-07-01",
@@ -39,8 +39,8 @@
   },
   "Iceland": {
     "id": "CPHPTT01ISM659N",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Iceland",
     "observation_start": "1997-01-01",
     "observation_end": "2022-07-01",
@@ -58,8 +58,8 @@
   },
   "Luxembourg": {
     "id": "CPHPTT01LUM659N",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Luxembourg",
     "observation_start": "1997-01-01",
     "observation_end": "2022-07-01",
@@ -77,8 +77,8 @@
   },
   "Poland": {
     "id": "CPHPTT01PLM659N",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Poland",
     "observation_start": "1997-01-01",
     "observation_end": "2022-07-01",
@@ -96,8 +96,8 @@
   },
   "Slovak Republic": {
     "id": "CPHPTT01SKM659N",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for the Slovak Republic",
     "observation_start": "1997-01-01",
     "observation_end": "2022-07-01",
@@ -115,8 +115,8 @@
   },
   "Slovenia": {
     "id": "CPHPTT01SIM659N",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Consumer Price Index: Harmonized Prices: Total All Items for Slovenia",
     "observation_start": "1997-01-01",
     "observation_end": "2022-07-01",
