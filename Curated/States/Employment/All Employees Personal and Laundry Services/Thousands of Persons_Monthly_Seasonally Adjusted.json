@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000008081200001SA",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Other Services: Personal and Laundry Services in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -39,8 +39,8 @@
   },
   "Virginia": {
     "id": "SMU51000008081200001SA",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Other Services: Personal and Laundry Services in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -58,8 +58,8 @@
   },
   "Washington": {
     "id": "SMU53000008081200001SA",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Other Services: Personal and Laundry Services in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",

@@ -1,8 +1,8 @@
 {
   "West Virginia": {
     "id": "SMU54000003200000008",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Average Hourly Earnings of Production Employees: Manufacturing: Non-Durable Goods in West Virginia",
     "observation_start": "2003-01-01",
     "observation_end": "2022-09-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000003200000008A",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Average Hourly Earnings of Production Employees: Manufacturing: Non-Durable Goods in Puerto Rico",
     "observation_start": "2001-01-01",
     "observation_end": "2016-01-01",

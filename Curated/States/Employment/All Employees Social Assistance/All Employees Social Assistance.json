@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000006562400001",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -58,8 +58,8 @@
     },
     "Utah": {
       "id": "SMU49000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -77,8 +77,8 @@
     },
     "Vermont": {
       "id": "SMU50000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -96,8 +96,8 @@
     },
     "Virginia": {
       "id": "SMU51000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -115,8 +115,8 @@
     },
     "Washington": {
       "id": "SMU53000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -134,8 +134,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Wisconsin",
       "observation_start": "1995-01-01",
       "observation_end": "2022-09-01",
@@ -155,8 +155,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -193,8 +193,8 @@
     },
     "Texas": {
       "id": "SMU48000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -212,8 +212,8 @@
     },
     "Utah": {
       "id": "SMU49000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -231,8 +231,8 @@
     },
     "Vermont": {
       "id": "SMU50000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -250,8 +250,8 @@
     },
     "Virginia": {
       "id": "SMU51000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -269,8 +269,8 @@
     },
     "Washington": {
       "id": "SMU53000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -288,8 +288,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000006562400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Education and Health Services: Social Assistance in Wisconsin",
       "observation_start": "1995-01-01",
       "observation_end": "2022-09-01",

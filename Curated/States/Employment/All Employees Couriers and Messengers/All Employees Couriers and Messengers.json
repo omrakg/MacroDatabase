@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Utah": {
       "id": "SMU49000004349200001",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Transportation and Utilities: Couriers and Messengers in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000004349200001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Transportation and Utilities: Couriers and Messengers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -41,8 +41,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Utah": {
       "id": "SMU49000004349200001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Transportation and Utilities: Couriers and Messengers in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -60,8 +60,8 @@
     },
     "Texas": {
       "id": "SMU48000004349200001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Transportation and Utilities: Couriers and Messengers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",

@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000000500000011",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Average Weekly Earnings of All Employees: Total Private in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2022-09-01",
@@ -15,13 +15,13 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-10-22 02:09:10-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/Wyoming"
     },
     "Puerto Rico": {
       "id": "SMU72000000500000011A",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Average Weekly Earnings of All Employees: Total Private in Puerto Rico",
       "observation_start": "2013-01-01",
       "observation_end": "2021-01-01",
@@ -192,8 +192,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000000500000011A",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Average Weekly Earnings of All Employees: Total Private in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",
@@ -205,13 +205,13 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:21:17-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/Wyoming"
     },
     "Puerto Rico": {
       "id": "SMU72000000500000011A",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Average Weekly Earnings of All Employees: Total Private in Puerto Rico",
       "observation_start": "2013-01-01",
       "observation_end": "2021-01-01",
@@ -401,8 +401,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000000500000011A",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Average Weekly Earnings of All Employees: Total Private in Puerto Rico",
       "observation_start": "2013-01-01",
       "observation_end": "2021-01-01",

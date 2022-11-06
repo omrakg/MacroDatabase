@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000003232500006",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Production or Nonsupervisory Employees: Non-Durable Goods: Chemical Manufacturing in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000003232500006A",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Production or Nonsupervisory Employees: Non-Durable Goods: Chemical Manufacturing in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2016-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000003232500006SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "Production or Nonsupervisory Employees: Non-Durable Goods: Chemical Manufacturing in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",

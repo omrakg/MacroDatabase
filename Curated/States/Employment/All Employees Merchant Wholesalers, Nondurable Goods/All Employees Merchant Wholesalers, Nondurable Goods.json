@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004142400001",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -20,8 +20,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Puerto Rico",
       "observation_start": "2003-01-01",
       "observation_end": "2022-09-01",
@@ -58,8 +58,8 @@
     },
     "Texas": {
       "id": "SMU48000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -77,8 +77,8 @@
     },
     "Washington": {
       "id": "SMU53000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -98,8 +98,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004142400001A",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -116,8 +116,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Puerto Rico",
       "observation_start": "2003-01-01",
       "observation_end": "2022-09-01",
@@ -154,8 +154,8 @@
     },
     "Texas": {
       "id": "SMU48000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -173,8 +173,8 @@
     },
     "Washington": {
       "id": "SMU53000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -194,8 +194,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -213,8 +213,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Puerto Rico",
       "observation_start": "2003-01-01",
       "observation_end": "2022-09-01",
@@ -251,8 +251,8 @@
     },
     "Texas": {
       "id": "SMU48000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -270,8 +270,8 @@
     },
     "Washington": {
       "id": "SMU53000004142400001SA",
-      "realtime_start": "2022-10-30",
-      "realtime_end": "2022-10-30",
+      "realtime_start": "2022-11-06",
+      "realtime_end": "2022-11-06",
       "title": "All Employees: Wholesale Trade: Merchant Wholesalers, Nondurable Goods in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",

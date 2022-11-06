@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000003133400001A",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000003133400001A",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Texas": {
     "id": "SMU48000003133400001A",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Utah": {
     "id": "SMU49000003133400001A",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Durable Goods: Computer and Electronic Product Manufacturing in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

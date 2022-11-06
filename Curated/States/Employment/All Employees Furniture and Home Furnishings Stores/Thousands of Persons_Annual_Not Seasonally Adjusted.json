@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000004244200001A",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Retail Trade: Furniture and Home Furnishings Stores in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000004244200001SA",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Retail Trade: Furniture and Home Furnishings Stores in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -57,8 +57,8 @@
   },
   "Texas": {
     "id": "SMU48000004244200001SA",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Retail Trade: Furniture and Home Furnishings Stores in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",

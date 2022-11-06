@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000006054120001SA",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Professional and Business Services: Accounting, Tax Preparation, Bookkeeping, and Payroll Services in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",
@@ -20,8 +20,8 @@
   },
   "Texas": {
     "id": "SMU48000006054120001SA",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "All Employees: Professional and Business Services: Accounting, Tax Preparation, Bookkeeping, and Payroll Services in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-09-01",

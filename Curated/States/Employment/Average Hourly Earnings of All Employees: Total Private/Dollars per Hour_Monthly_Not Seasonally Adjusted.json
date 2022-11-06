@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000000500000003",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Average Hourly Earnings of All Employees: Total Private in Wyoming",
     "observation_start": "2007-01-01",
     "observation_end": "2022-09-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000000500000003A",
-    "realtime_start": "2022-10-30",
-    "realtime_end": "2022-10-30",
+    "realtime_start": "2022-11-06",
+    "realtime_end": "2022-11-06",
     "title": "Average Hourly Earnings of All Employees: Total Private in Puerto Rico",
     "observation_start": "2013-01-01",
     "observation_end": "2021-01-01",
@@ -32,7 +32,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 05:20:10-05",
     "popularity": 1,
-    "group_popularity": 5,
+    "group_popularity": 3,
     "path": "Database/U.S. Regional Data/States/Puerto Rico"
   },
   "Tennessee": {
