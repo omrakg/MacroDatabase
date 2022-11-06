@@ -1,17 +1,17 @@
 {
   "id": "JTU7000JOR",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Job Openings: Leisure and Hospitality",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Rate",
   "units_short": "Rate",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-10-04 09:05:19-05",
-  "popularity": 1,
-  "group_popularity": 29
+  "last_updated": "2022-11-01 09:04:51-05",
+  "popularity": 2,
+  "group_popularity": 35
 }

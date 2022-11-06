@@ -1,7 +1,7 @@
 {
   "id": "ALRGSP",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Real Gross Domestic Product: All Industry Total in Alabama",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-30 09:14:03-05",
-  "popularity": 6,
-  "group_popularity": 12
+  "popularity": 12,
+  "group_popularity": 20
 }

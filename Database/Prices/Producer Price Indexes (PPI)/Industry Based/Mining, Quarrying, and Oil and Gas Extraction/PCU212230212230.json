@@ -1,7 +1,7 @@
 {
   "id": "PCU212230212230",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Producer Price Index by Industry: Copper, Nickel, Lead and Zinc Mining",
   "observation_start": "1988-06-01",
   "observation_end": "2022-08-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 08:00:40-05",
   "popularity": 1,
-  "group_popularity": 26
+  "group_popularity": 24
 }

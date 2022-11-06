@@ -1,7 +1,7 @@
 {
   "id": "RCCCBLIMPCT90",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Large Bank Consumer Credit Card Balances: Current Credit Limit: 90th Percentile",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:07-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "The 90th percentile credit limit among credit card accounts. The current credit limit is the maximum available credit on the account. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

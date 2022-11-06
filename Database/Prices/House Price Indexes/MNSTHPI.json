@@ -1,7 +1,7 @@
 {
   "id": "MNSTHPI",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "All-Transactions House Price Index for Minnesota",
   "observation_start": "1975-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-30 09:02:14-05",
-  "popularity": 42,
-  "group_popularity": 42,
+  "popularity": 44,
+  "group_popularity": 44,
   "notes": "Estimated using sales prices and appraisal data."
 }

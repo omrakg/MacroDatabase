@@ -1,7 +1,7 @@
 {
   "id": "A823RE1Q156NBEA",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Shares of gross domestic product: Government consumption expenditures and gross investment: Federal",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-27 07:53:22-05",
-  "popularity": 7,
-  "group_popularity": 8,
+  "popularity": 4,
+  "group_popularity": 5,
   "notes": "BEA Account Code: A823RE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

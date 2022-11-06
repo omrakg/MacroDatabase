@@ -1,7 +1,7 @@
 {
   "id": "PCU2121132121133",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Producer Price Index by Industry: Anthracite Mining: Processed Anthracite",
   "observation_start": "1979-12-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 07:56:05-05",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 11,
+  "group_popularity": 11
 }

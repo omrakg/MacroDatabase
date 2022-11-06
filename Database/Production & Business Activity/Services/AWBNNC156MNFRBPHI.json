@@ -1,7 +1,7 @@
 {
   "id": "AWBNNC156MNFRBPHI",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Current Average Employee Workweek; Percent of Respondents Reporting No Change for Federal Reserve District 3: Philadelphia",
   "observation_start": "2011-03-01",
   "observation_end": "2022-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-25 07:36:06-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Current Average Employee Workweek reports the change in average employee workweek compared to the previous month for reporting service firms. For more information about this release from the Federal Reserve Bank of Philadelphia, visit: http://www.philadelphiafed.org/research-and-data/regional-economy/nonmanufacturing-business-outlook-survey/ ."
 }

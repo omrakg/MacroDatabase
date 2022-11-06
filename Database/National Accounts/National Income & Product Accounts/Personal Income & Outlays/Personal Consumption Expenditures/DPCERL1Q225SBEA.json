@@ -1,7 +1,7 @@
 {
   "id": "DPCERL1Q225SBEA",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Real Personal Consumption Expenditures",
   "observation_start": "1947-04-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-10-27 07:52:05-05",
-  "popularity": 47,
+  "popularity": 45,
   "group_popularity": 78,
   "notes": "BEA Account Code: DPCERL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

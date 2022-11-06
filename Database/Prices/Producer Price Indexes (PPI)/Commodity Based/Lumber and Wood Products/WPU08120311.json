@@ -1,7 +1,7 @@
 {
   "id": "WPU08120311",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Cut Stock and Dimension",
   "observation_start": "1984-06-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 07:51:43-05",
-  "popularity": 4,
-  "group_popularity": 7
+  "popularity": 3,
+  "group_popularity": 5
 }

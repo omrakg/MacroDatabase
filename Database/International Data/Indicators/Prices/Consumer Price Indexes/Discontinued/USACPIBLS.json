@@ -1,7 +1,7 @@
 {
   "id": "USACPIBLS",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Consumer Price Index in the United States (DISCONTINUED)",
   "observation_start": "1950-01-01",
   "observation_end": "2012-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-03-11 08:31:16-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "Bureau of Labor Statistics (BLS) has eliminated the International Labor Comparisons (ILC) program. This is the last BLS release of international indexes of consumer prices."
 }

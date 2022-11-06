@@ -1,7 +1,7 @@
 {
   "id": "MINAN",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "All Employees: Total Nonfarm in Michigan",
   "observation_start": "1956-01-01",
   "observation_end": "2022-09-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-22 02:35:58-05",
   "popularity": 1,
-  "group_popularity": 18
+  "group_popularity": 17
 }

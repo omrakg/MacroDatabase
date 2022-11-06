@@ -1,7 +1,7 @@
 {
   "id": "WPS028301",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Processed Eggs (Dried, Frozen, or Liquid)",
   "observation_start": "1991-07-01",
   "observation_end": "2012-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2018-02-15 13:01:05-06",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

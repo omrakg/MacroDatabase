@@ -1,7 +1,7 @@
 {
   "id": "RCMFLBBALTOT",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Large Bank Consumer Mortgage Balances: Total Balances",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:12-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "The total outstanding balance for first-lien closed-end loans secured by 1-4 family residential real estate among firms included in the reporting panel. Includes both first-lien mortgages and first-lien home equity loans for portfolio mortgages only. Reported balances are as of quarter end. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

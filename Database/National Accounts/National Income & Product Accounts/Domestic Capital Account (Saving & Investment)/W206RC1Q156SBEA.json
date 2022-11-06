@@ -1,7 +1,7 @@
 {
   "id": "W206RC1Q156SBEA",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Gross saving as a percentage of gross national income",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-09-29 07:45:39-05",
-  "popularity": 22,
-  "group_popularity": 23,
+  "popularity": 17,
+  "group_popularity": 18,
   "notes": "BEA Account Code: W206RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

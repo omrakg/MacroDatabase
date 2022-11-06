@@ -1,7 +1,7 @@
 {
   "id": "A09062USA174NNBR",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Changes in Accounts Receivable, Medium Sized and Small Manufacturing Corporations for United States",
   "observation_start": "1917-01-01",
   "observation_end": "1942-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 15:04:18-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Positive Items Represent An Absorption Of Cash; Negative Items, A Release. Source: Friedrich A. Lutz, Corporate Cash Balances 1914-1943, Manufacturing And Trade (1945), P. 121.\n\nThis NBER data series a09062 appears on the NBER website in Chapter 9 at http://www.nber.org/databases/macrohistory/contents/chapter09.html.\n\nNBER Indicator: a09062"
 }

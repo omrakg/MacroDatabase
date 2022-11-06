@@ -1,17 +1,17 @@
 {
   "id": "ADPMINDFINNERSA",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Nonfarm Private Payroll Employment for Financial Activities",
   "observation_start": "2010-01-01",
-  "observation_end": "2022-09-01",
+  "observation_end": "2022-10-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Persons",
   "units_short": "Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-10-05 10:40:17-05",
-  "popularity": 1,
-  "group_popularity": 2
+  "last_updated": "2022-11-02 07:26:08-05",
+  "popularity": 3,
+  "group_popularity": 4
 }

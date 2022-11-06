@@ -1,7 +1,7 @@
 {
   "id": "WPU11440485",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Overhead Traveling Cranes and Monorail Systems, Including Parts and Attachments Sold Separately",
   "observation_start": "1984-12-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 07:55:43-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 1,
+  "group_popularity": 1
 }

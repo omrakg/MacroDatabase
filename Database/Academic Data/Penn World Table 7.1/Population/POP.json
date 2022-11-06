@@ -1,7 +1,7 @@
 {
   "id": "POP",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Total Population: All Ages including Armed Forces Overseas",
   "observation_start": "1952-01-01",
   "observation_end": "2022-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-22 11:34:01-06",
-  "popularity": 42,
-  "group_popularity": 42,
+  "popularity": 41,
+  "group_popularity": 41,
   "notes": "The intercensal estimates for 1990-2000 for the United States population are produced by converting the 1990-2000 postcensal estimates prepared previously for the U. S. to account for differences between the postcensal estimates in 2000 and census counts (error of closure). The postcensal estimates for 1990 to 2000 were produced by updating the resident population enumerated in the 1990 census by estimates of the components of population change between April 1, 1990 and April 1, 2000-- births to U.S. resident women, deaths to U.S. residents, net international migration (incl legal & residual foreign born), and net movement of the U.S. armed forces and civilian citizens to the United States. Intercensal population estimates for 1990 to 2000 are derived from the postcensal estimates by distributing the error of closure over the decade by month. The method used for the 1990s for distributing the error of closure is the same that was used for the 1980s. This method produces an intercensal estimate as a function of time and the postcensal estimates,using the following formula: the population at time t is equal to the postcensal estimate at time t multiplied by a function. The function is the April 1, 2000 census count divided by the April 1, 2000 postcensal estimate raised to the power of t divided by 3653."
 }

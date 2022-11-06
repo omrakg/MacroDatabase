@@ -1,7 +1,7 @@
 {
   "id": "PRS88003173",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Nonfinancial Corporations Sector: Labor Share for Employees",
   "observation_start": "1947-01-01",
   "observation_end": "2022-04-01",
@@ -11,7 +11,7 @@
   "units_short": "Index 2012=100",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-09-01 07:36:18-05",
+  "last_updated": "2022-11-03 07:36:26-05",
   "popularity": 3,
-  "group_popularity": 4
+  "group_popularity": 8
 }

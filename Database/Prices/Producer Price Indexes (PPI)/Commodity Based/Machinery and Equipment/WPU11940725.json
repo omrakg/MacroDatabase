@@ -1,7 +1,7 @@
 {
   "id": "WPU11940725",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Diesel, Semidiesel, and Dual-Fuel Engines (Except Automotive)",
   "observation_start": "2000-12-01",
   "observation_end": "2022-09-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 07:52:57-05",
   "popularity": 1,
-  "group_popularity": 4
+  "group_popularity": 3
 }

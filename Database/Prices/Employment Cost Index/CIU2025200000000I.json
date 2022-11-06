@@ -1,7 +1,7 @@
 {
   "id": "CIU2025200000000I",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Employment Cost Index: Wages and salaries for Private industry workers in Finance and insurance",
   "observation_start": "2001-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-28 07:51:39-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "New series. Historical data are available beginning with March 2001."
 }

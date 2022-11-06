@@ -1,7 +1,7 @@
 {
   "id": "WPU36510101",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Producer Price Index by Commodity for Advertising Space and Time Sales: Internet Advertising Sales, Excluding Internet Advertising Sold by Print Publishers (DISCONTINUED)",
   "observation_start": "2009-12-01",
   "observation_end": "2016-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2016-06-15 10:33:27-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 4,
+  "group_popularity": 4
 }

@@ -1,7 +1,7 @@
 {
   "id": "STLPPMDEF",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Deflation Probability",
   "observation_start": "1990-01-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-28 16:41:02-05",
-  "popularity": 37,
-  "group_popularity": 37,
+  "popularity": 36,
+  "group_popularity": 36,
   "notes": "This series measures the probability that the personal consumption expenditures price index (PCEPI) inflation rate (12-month changes) over the next 12 months will fall below zero.\r\n\r\nFor additional information on the Price Pressures Measure and its construction, see \u201cIntroducing the St. Louis Fed Price Pressures Measure\u201d (https://research.stlouisfed.org/publications/economic-synopses/2015/11/06/introducing-the-st-louis-fed-price-pressures-measure/).\r\n\r\nAs of February 3, 2020, the Emerging and Developing Asia and Western Hemisphere Consumer Prices Indexes have been replaced with Asia/Pacific Rim and Latin America Consumer Price Indexes respectively. These changes were made to facilitate a more timely updating of the PPM. Switching the Consumer Prices Indexes produced no meaningful change in the PPM series.\r\n\r\nAs of January 29, 2021, the Adjusted Monetary Base (including Deposits to Satisfy Clearing Balance Contracts) Seasonally Adjusted, in billions of dollars has been replaced with the series, Monetary Base, NSA, in billions of dollars."
 }

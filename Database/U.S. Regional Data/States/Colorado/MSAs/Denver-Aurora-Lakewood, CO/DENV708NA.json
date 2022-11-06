@@ -1,7 +1,7 @@
 {
   "id": "DENV708NA",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "All Employees: Total Nonfarm in Denver-Aurora-Lakewood, CO (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-22 02:24:04-05",
-  "popularity": 7,
-  "group_popularity": 12
+  "popularity": 10,
+  "group_popularity": 14
 }

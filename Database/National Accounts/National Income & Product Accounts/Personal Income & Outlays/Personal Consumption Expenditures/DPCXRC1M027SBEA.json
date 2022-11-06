@@ -1,7 +1,7 @@
 {
   "id": "DPCXRC1M027SBEA",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Personal consumption expenditures: Market-based PCE excluding food and energy",
   "observation_start": "1987-01-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-10-28 08:40:40-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 10,
+  "group_popularity": 9,
   "notes": "BEA Account Code: DPCXRC\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "BEAPLLF",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Civilian Labor Force in Plains BEA Region (DISCONTINUED)",
   "observation_start": "1990-01-01",
   "observation_end": "2015-12-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2016-01-26 12:27:49-06",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

@@ -1,7 +1,7 @@
 {
   "id": "NHSSSP15T19A",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "New Houses Sold by Sales Price Between $150,000 and $199,999 in the South Census Region",
   "observation_start": "2002-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-26 09:02:08-06",
-  "popularity": 1,
+  "popularity": 0,
   "group_popularity": 1
 }

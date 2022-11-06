@@ -1,7 +1,7 @@
 {
   "id": "OB000347Q",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Real Personal Consumption Expenditures: Goods",
   "observation_start": "2003-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-27 07:52:51-05",
   "popularity": 3,
-  "group_popularity": 54,
+  "group_popularity": 51,
   "notes": "BEA Account Code: OB000347"
 }

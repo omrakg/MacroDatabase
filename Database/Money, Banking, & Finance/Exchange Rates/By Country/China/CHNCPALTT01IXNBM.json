@@ -1,7 +1,7 @@
 {
   "id": "CHNCPALTT01IXNBM",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-06",
+  "realtime_end": "2022-11-06",
   "title": "Consumer Price Index: All Items: Total: Total for China (People's Republic Of)",
   "observation_start": "1993-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 14:57:10-05",
-  "popularity": 13,
-  "group_popularity": 62,
+  "popularity": 19,
+  "group_popularity": 64,
   "notes": "OECD descriptor ID: CPALTT01 OECD unit ID: IXNB OECD country ID: CHNAll OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }
