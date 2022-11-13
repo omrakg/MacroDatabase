@@ -703,8 +703,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000000000000001A",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-13",
+    "realtime_end": "2022-11-13",
     "title": "All Employees: Total Nonfarm in Puerto Rico",
     "observation_start": "1980-01-01",
     "observation_end": "2021-01-01",
@@ -716,7 +716,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 05:20:11-05",
     "popularity": 1,
-    "group_popularity": 4,
+    "group_popularity": 3,
     "path": "Database/U.S. Regional Data/States/Puerto Rico"
   },
   "Rhode Island": {

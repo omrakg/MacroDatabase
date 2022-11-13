@@ -2,8 +2,8 @@
   "Percent_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "PRUR",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Unemployment Rate in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2022-08-01",
@@ -14,8 +14,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-19 09:28:15-05",
-      "popularity": 10,
-      "group_popularity": 19,
+      "popularity": 12,
+      "group_popularity": 20,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Alabama": {
@@ -774,8 +774,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "PRURN",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Unemployment Rate in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2022-08-01",
@@ -786,8 +786,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-19 09:28:19-05",
-      "popularity": 11,
-      "group_popularity": 19,
+      "popularity": 8,
+      "group_popularity": 20,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Alabama": {
@@ -2089,8 +2089,8 @@
     },
     "Puerto Rico": {
       "id": "PRURN",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Unemployment Rate in Puerto Rico",
       "observation_start": "1976-01-01",
       "observation_end": "2022-08-01",
@@ -2101,8 +2101,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-19 09:28:19-05",
-      "popularity": 11,
-      "group_popularity": 19,
+      "popularity": 8,
+      "group_popularity": 20,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Rhode Island": {

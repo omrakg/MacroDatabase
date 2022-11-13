@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMS72000004000000001",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "All Employees: Trade, Transportation, and Utilities in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -366,8 +366,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Puerto Rico": {
       "id": "SMU72000004000000001",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "All Employees: Trade, Transportation, and Utilities in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-09-01",
@@ -928,8 +928,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000004000000001A",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "All Employees: Trade, Transportation, and Utilities in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
