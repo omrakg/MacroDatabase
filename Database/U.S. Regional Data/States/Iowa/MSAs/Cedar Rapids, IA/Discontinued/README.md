@@ -1,6 +1,2 @@
-| id                     | title                                                                                            | observation_start   | observation_end   |
-|------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP16300            | Total Per Capita Real Gross Domestic Product for Cedar Rapids, IA (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
-| SMU19163000500000002SA | Average Weekly Hours of All Employees: Total Private in Cedar Rapids, IA (MSA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
-| SMU19163000500000003SA | Average Hourly Earnings of All Employees: Total Private in Cedar Rapids, IA (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
-| SMU19163000500000011SA | Average Weekly Earnings of All Employees: Total Private in Cedar Rapids, IA (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

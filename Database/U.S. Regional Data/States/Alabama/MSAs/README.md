@@ -1,15 +1,15 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| Dothan, AL                 |               155 |
-| Gadsden, AL                |               135 |
-| Auburn-Opelika, AL         |               159 |
-| Daphne-Fairhope-Foley, AL  |                59 |
-| Montgomery, AL             |               170 |
+| Dothan, AL                 |                 0 |
+| Gadsden, AL                |                 0 |
+| Auburn-Opelika, AL         |                 0 |
+| Daphne-Fairhope-Foley, AL  |                 0 |
+| Montgomery, AL             |                 0 |
 | Columbus, GA-AL            |                 0 |
-| Birmingham-Hoover, AL      |               229 |
-| Anniston-Oxford, AL        |               135 |
-| Decatur, AL                |               168 |
-| Tuscaloosa, AL             |               155 |
-| Florence-Muscle Shoals, AL |               152 |
-| Mobile, AL                 |               167 |
-| Huntsville, AL             |               179 |
+| Birmingham-Hoover, AL      |                 0 |
+| Anniston-Oxford, AL        |                 0 |
+| Decatur, AL                |                 0 |
+| Tuscaloosa, AL             |                 0 |
+| Florence-Muscle Shoals, AL |                 0 |
+| Mobile, AL                 |                 0 |
+| Huntsville, AL             |                 0 |

@@ -7,5 +7,5 @@
 | Size of Loans                                    |                 0 |
 | 2 to 30 Days Repricing - Maturity Interval       |                 0 |
 | Daily Repricing - Maturity Interval              |                 0 |
-| Discontinued                                     |                 6 |
+| Discontinued                                     |                 0 |
 | Base Rate of Loans                               |                 0 |

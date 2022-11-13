@@ -1,6 +1,2 @@
-| id                     | title                                                                                                                | observation_start   | observation_end   |
-|------------------------|----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU25765240000000001SA | All Employees: Total Nonfarm in Peabody-Salem-Beverly, MA (NECTA Division) (DISCONTINUED)                            | 1990-01-01          | 2017-01-01        |
-| SMU25765240500000002SA | Average Weekly Hours of All Employees: Total Private in Peabody-Salem-Beverly, MA (NECTA Division) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
-| SMU25765240500000003SA | Average Hourly Earnings of All Employees: Total Private in Peabody-Salem-Beverly, MA (NECTA Division) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
-| SMU25765240500000011SA | Average Weekly Earnings of All Employees: Total Private in Peabody-Salem-Beverly, MA (NECTA Division) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

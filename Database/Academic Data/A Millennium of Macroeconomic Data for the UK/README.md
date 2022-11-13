@@ -1,9 +1,9 @@
 | Folder                           |   Files / Folders |
 |----------------------------------|-------------------|
-| Fiscal                           |                10 |
-| Financial Markets                |                40 |
+| Fiscal                           |                 0 |
+| Financial Markets                |                 0 |
 | National Accounts                |                 5 |
-| Trade                            |                 8 |
-| Wages and Prices                 |                18 |
-| Money and Credit                 |                23 |
-| Labour, Capital and Productivity |                15 |
+| Trade                            |                 0 |
+| Wages and Prices                 |                 0 |
+| Money and Credit                 |                 0 |
+| Labour, Capital and Productivity |                 0 |

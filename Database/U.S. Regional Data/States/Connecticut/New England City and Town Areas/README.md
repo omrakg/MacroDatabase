@@ -1,13 +1,13 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| Springfield, MA-CT                       |               124 |
+| Springfield, MA-CT                       |                 0 |
 | Torrington, CT                           |                 0 |
-| New Haven, CT                            |               107 |
-| Bridgeport-Stamford-Norwalk, CT          |               113 |
-| Danbury, CT                              |                59 |
-| Hartford-West Hartford-East Hartford, CT |               134 |
-| Norwich-New London, CT-RI                |                92 |
-| Waterbury, CT                            |                86 |
+| New Haven, CT                            |                 0 |
+| Bridgeport-Stamford-Norwalk, CT          |                 0 |
+| Danbury, CT                              |                 0 |
+| Hartford-West Hartford-East Hartford, CT |                 0 |
+| Norwich-New London, CT-RI                |                 0 |
+| Waterbury, CT                            |                 0 |
 | Danielson, CT                            |                 0 |
-| Worcester, MA-CT                         |                78 |
+| Worcester, MA-CT                         |                 0 |
 | Willimantic, CT                          |                 0 |

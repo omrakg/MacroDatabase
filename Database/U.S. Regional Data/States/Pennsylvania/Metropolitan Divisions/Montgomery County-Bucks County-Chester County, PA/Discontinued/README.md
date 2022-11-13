@@ -1,5 +1,2 @@
-| id                     | title                                                                                                                            | observation_start   | observation_end   |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU42338740500000002SA | Average Weekly Hours of All Employees: Total Private in Montgomery County-Bucks County-Chester County, PA (MD) (DISCONTINUED)    | 2011-01-01          | 2022-03-01        |
-| SMU42338740500000003SA | Average Hourly Earnings of All Employees: Total Private in Montgomery County-Bucks County-Chester County, PA (MD) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
-| SMU42338740500000011SA | Average Weekly Earnings of All Employees: Total Private in Montgomery County-Bucks County-Chester County, PA (MD) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

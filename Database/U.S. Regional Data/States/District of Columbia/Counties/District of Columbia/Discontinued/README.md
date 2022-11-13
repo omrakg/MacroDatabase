@@ -1,3 +1,2 @@
-| id      | title                                                                                                                                                                                                                      | observation_start   | observation_end   |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DCFFSSP | Federal Funds Sold and Securities Purchased Under Agreements to Resell in Domestic Offices of the Bank and of Its Edge and Agreement Subsidiaries, and in IBFs for Commercial Banks in District of Columbia (DISCONTINUED) | 1984-01-01          | 2001-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

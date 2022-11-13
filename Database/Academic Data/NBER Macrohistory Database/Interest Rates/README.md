@@ -1,8 +1,8 @@
 | id              | title                                                                                                                  | observation_start   | observation_end   |
 |-----------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ECBDFR          | ECB Deposit Facility Rate for Euro Area                                                                                | 1999-01-01          | 2022-11-04        |
-| ECBMLFR         | ECB Marginal Lending Facility Rate for Euro Area                                                                       | 1999-01-01          | 2022-11-04        |
-| ECBMRRFR        | ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                                                 | 1999-01-01          | 2022-11-04        |
+| ECBDFR          | ECB Deposit Facility Rate for Euro Area                                                                                | 1999-01-01          | 2022-11-11        |
+| ECBMLFR         | ECB Marginal Lending Facility Rate for Euro Area                                                                       | 1999-01-01          | 2022-11-11        |
+| ECBMRRFR        | ECB Main Refinancing Operations Rate: Fixed Rate Tenders for Euro Area                                                 | 1999-01-01          | 2022-11-11        |
 | INTDSRAUM193N   | Interest Rates, Discount Rate for Australia                                                                            | 1969-07-01          | 2013-04-01        |
 | INTDSRBRM193N   | Interest Rates, Discount Rate for Brazil                                                                               | 1996-10-01          | 2022-09-01        |
 | INTDSRCAM193N   | Interest Rates, Discount Rate for Canada                                                                               | 1992-12-01          | 2013-01-01        |
@@ -18,7 +18,7 @@
 | INTDSRIRM193N   | Interest Rates, Discount Rate for Islamic Republic of Iran                                                             | 1957-01-01          | 2004-09-01        |
 | INTDSRITM193N   | Interest Rates, Discount Rate for Italy                                                                                | 1964-01-01          | 1998-12-01        |
 | INTDSRJPM193N   | Interest Rates, Discount Rate for Japan                                                                                | 1953-01-01          | 2017-04-01        |
-| INTDSRKRM193N   | Interest Rates, Discount Rate for Republic of Korea                                                                    | 1964-01-01          | 2022-07-01        |
+| INTDSRKRM193N   | Interest Rates, Discount Rate for Republic of Korea                                                                    | 1964-01-01          | 2022-08-01        |
 | INTDSRMXM193N   | Interest Rates, Discount Rate for Mexico                                                                               | 2008-01-01          | 2013-04-01        |
 | INTDSRPLM193N   | Interest Rates, Discount Rate for Poland                                                                               | 1998-01-01          | 2013-04-01        |
 | INTDSRRUM193N   | Interest Rates, Discount Rate for Russian Federation                                                                   | 1995-01-01          | 2013-04-01        |
@@ -38,7 +38,7 @@
 | INTGSBINM193N   | Interest Rates, Government Securities, Government Bonds for India                                                      | 1960-01-01          | 2017-05-01        |
 | INTGSBITM193N   | Interest Rates, Government Securities, Government Bonds for Italy                                                      | 1980-01-01          | 2022-09-01        |
 | INTGSBJPM193N   | Interest Rates, Government Securities, Government Bonds for Japan                                                      | 1999-01-01          | 2017-05-01        |
-| INTGSBKRM193N   | Interest Rates, Government Securities, Government Bonds for Republic of Korea                                          | 1973-05-01          | 2022-07-01        |
+| INTGSBKRM193N   | Interest Rates, Government Securities, Government Bonds for Republic of Korea                                          | 1973-05-01          | 2022-08-01        |
 | INTGSBMXM193N   | Interest Rates, Government Securities, Government Bonds for Mexico                                                     | 2001-10-01          | 2022-07-01        |
 | INTGSBPLM193N   | Interest Rates, Government Securities, Government Bonds for Poland                                                     | 2001-01-01          | 2022-09-01        |
 | INTGSBRUM193N   | Interest Rates, Government Securities, Government Bonds for Russian Federation                                         | 2005-04-01          | 2011-03-01        |

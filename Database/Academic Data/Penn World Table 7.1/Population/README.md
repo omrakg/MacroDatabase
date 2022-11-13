@@ -3,8 +3,8 @@
 | B230RC0A052NBEA | Population                                                                                       | 1929-01-01          | 2021-01-01        |
 | B230RC0Q173SBEA | Population                                                                                       | 1947-01-01          | 2022-07-01        |
 | CNP16OV         | Population Level                                                                                 | 1948-01-01          | 2022-10-01        |
-| FHHWMC          | Family Households with Married Couples                                                           | 1940-01-01          | 2020-01-01        |
-| FMLWCUMC        | Total Families with Children under 18 Years Old with Married Couple                              | 1950-01-01          | 2020-01-01        |
+| FHHWMC          | Family Households with Married Couples                                                           | 1940-01-01          | 2021-01-01        |
+| FMLWCUMC        | Total Families with Children under 18 Years Old with Married Couple                              | 1950-01-01          | 2021-01-01        |
 | LNU00000001     | Population Level - Men                                                                           | 1948-01-01          | 2022-10-01        |
 | LNU00000002     | Population Level - Women                                                                         | 1948-01-01          | 2022-10-01        |
 | LNU00000003     | Population Level - White                                                                         | 1954-01-01          | 2022-10-01        |
@@ -43,18 +43,18 @@
 | LNU00074593     | Population - With No Disability, 16 Years and over                                               | 2008-06-01          | 2022-10-01        |
 | LNU00074597     | Population - With a Disability, 16 Years and over                                                | 2008-06-01          | 2022-10-01        |
 | LNU00077884     | Population Level - Veterans, World War II or Korean War or Vietnam Era, 18 Years and over        | 2008-09-01          | 2022-10-01        |
-| NFHHFH          | Nonfamily Households with Female Householder                                                     | 1940-01-01          | 2020-01-01        |
-| NFHHMH          | Nonfamily Households with Male Householder                                                       | 1940-01-01          | 2020-01-01        |
-| OFHHFH          | Family Households with Female Householder                                                        | 1940-01-01          | 2020-01-01        |
-| OFHHMH          | Family Households with Male Householder                                                          | 1940-01-01          | 2020-01-01        |
-| OPFWCUFO        | Total One Parent Families with Children under 18 Years Old with Father                           | 1950-01-01          | 2020-01-01        |
-| OPFWCUMO        | Total One Parent Families with Children under 18 Years Old with Mother                           | 1950-01-01          | 2020-01-01        |
+| NFHHFH          | Nonfamily Households with Female Householder                                                     | 1940-01-01          | 2021-01-01        |
+| NFHHMH          | Nonfamily Households with Male Householder                                                       | 1940-01-01          | 2021-01-01        |
+| OFHHFH          | Family Households with Female Householder                                                        | 1940-01-01          | 2021-01-01        |
+| OFHHMH          | Family Households with Male Householder                                                          | 1940-01-01          | 2021-01-01        |
+| OPFWCUFO        | Total One Parent Families with Children under 18 Years Old with Father                           | 1950-01-01          | 2021-01-01        |
+| OPFWCUMO        | Total One Parent Families with Children under 18 Years Old with Mother                           | 1950-01-01          | 2021-01-01        |
 | POP             | Total Population: All Ages including Armed Forces Overseas                                       | 1952-01-01          | 2022-12-01        |
 | POPH            | National Population                                                                              | 1900-01-01          | 1999-01-01        |
 | POPTHM          | Population                                                                                       | 1959-01-01          | 2022-09-01        |
-| TTLFHH          | Total Family Households                                                                          | 1940-01-01          | 2020-01-01        |
-| TTLFMCU         | Total Families with Children under 18 Years Old                                                  | 1950-01-01          | 2020-01-01        |
-| TTLHH           | Total Households                                                                                 | 1940-01-01          | 2020-01-01        |
+| TTLFHH          | Total Family Households                                                                          | 1940-01-01          | 2021-01-01        |
+| TTLFMCU         | Total Families with Children under 18 Years Old                                                  | 1950-01-01          | 2021-01-01        |
+| TTLHH           | Total Households                                                                                 | 1940-01-01          | 2021-01-01        |
 | TTLHHM156N      | Household Estimates                                                                              | 1955-04-01          | 2022-09-01        |
-| TTLNHH          | Total Nonfamily Households                                                                       | 1940-01-01          | 2020-01-01        |
-| TTLOPFWCU       | Total One Parent Families with Children under 18 Years Old                                       | 1950-01-01          | 2020-01-01        |
+| TTLNHH          | Total Nonfamily Households                                                                       | 1940-01-01          | 2021-01-01        |
+| TTLOPFWCU       | Total One Parent Families with Children under 18 Years Old                                       | 1950-01-01          | 2021-01-01        |

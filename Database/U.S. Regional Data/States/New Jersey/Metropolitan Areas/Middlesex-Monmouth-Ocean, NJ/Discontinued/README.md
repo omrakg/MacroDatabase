@@ -1,5 +1,2 @@
-| id                     | title                                                                                                  | observation_start   | observation_end   |
-|------------------------|--------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU34935650500000002SA | Average Weekly Hours of All Employees: Total Private in Middlesex-Monmouth-Ocean, NJ (DISCONTINUED)    | 2011-01-01          | 2022-03-01        |
-| SMU34935650500000003SA | Average Hourly Earnings of All Employees: Total Private in Middlesex-Monmouth-Ocean, NJ (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
-| SMU34935650500000011SA | Average Weekly Earnings of All Employees: Total Private in Middlesex-Monmouth-Ocean, NJ (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

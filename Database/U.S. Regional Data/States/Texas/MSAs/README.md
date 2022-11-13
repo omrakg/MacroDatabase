@@ -1,27 +1,27 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
-| Beaumont-Port Arthur, TX             |               171 |
-| McAllen-Edinburg-Mission, TX         |               222 |
-| College Station-Bryan, TX            |               162 |
-| San Antonio, TX                      |               312 |
-| San Angelo, TX                       |               142 |
-| Sherman-Denison, TX                  |               137 |
-| Brownsville-Harlingen, TX            |               217 |
-| Lubbock, TX                          |               162 |
-| Wichita Falls, TX                    |               162 |
-| Dallas-Fort Worth-Arlington, TX      |               245 |
-| Amarillo, TX                         |               165 |
-| Corpus Christi, TX                   |               180 |
-| Laredo, TX                           |               218 |
-| Houston-The Woodlands-Sugar Land, TX |               463 |
-| Victoria, TX                         |               139 |
-| Abilene, TX                          |               162 |
-| Odessa, TX                           |               166 |
-| Tyler, TX                            |               161 |
-| Longview, TX                         |               172 |
+| Beaumont-Port Arthur, TX             |                 0 |
+| McAllen-Edinburg-Mission, TX         |                 0 |
+| College Station-Bryan, TX            |                 0 |
+| San Antonio, TX                      |                 0 |
+| San Angelo, TX                       |                 0 |
+| Sherman-Denison, TX                  |                 0 |
+| Brownsville-Harlingen, TX            |                 0 |
+| Lubbock, TX                          |                 0 |
+| Wichita Falls, TX                    |                 0 |
+| Dallas-Fort Worth-Arlington, TX      |                 0 |
+| Amarillo, TX                         |                 0 |
+| Corpus Christi, TX                   |                 0 |
+| Laredo, TX                           |                 0 |
+| Houston-The Woodlands-Sugar Land, TX |                 0 |
+| Victoria, TX                         |                 0 |
+| Abilene, TX                          |                 0 |
+| Odessa, TX                           |                 0 |
+| Tyler, TX                            |                 0 |
+| Longview, TX                         |                 0 |
 | Texarkana, TX-AR                     |                 0 |
-| Midland, TX                          |               166 |
-| Waco, TX                             |               162 |
-| Killeen-Temple, TX                   |               168 |
-| El Paso, TX                          |               224 |
-| Austin-Round Rock-Georgetown, TX     |               305 |
+| Midland, TX                          |                 0 |
+| Waco, TX                             |                 0 |
+| Killeen-Temple, TX                   |                 0 |
+| El Paso, TX                          |                 0 |
+| Austin-Round Rock-Georgetown, TX     |                 0 |

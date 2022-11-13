@@ -1,41 +1,41 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Whitman County, WA      |               145 |
-| Garfield County, WA     |                87 |
-| Ferry County, WA        |                88 |
-| Clallam County, WA      |               147 |
-| Lewis County, WA        |               147 |
-| Skagit County, WA       |               147 |
-| Whatcom County, WA      |               146 |
-| Columbia County, WA     |                89 |
-| Klickitat County, WA    |                90 |
-| Kittitas County, WA     |                90 |
-| Wahkiakum County, WA    |                90 |
-| Chelan County, WA       |               147 |
-| Douglas County, WA      |                90 |
-| Okanogan County, WA     |                90 |
-| Kitsap County, WA       |               147 |
-| Skamania County, WA     |                90 |
-| Asotin County, WA       |                89 |
-| Grant County, WA        |               147 |
-| Yakima County, WA       |               146 |
-| Stevens County, WA      |                90 |
-| Pierce County, WA       |               147 |
-| Grays Harbor County, WA |               147 |
-| Adams County, WA        |                90 |
-| Lincoln County, WA      |                90 |
-| Thurston County, WA     |               147 |
-| Spokane County, WA      |               147 |
-| Franklin County, WA     |               147 |
-| San Juan County, WA     |                90 |
-| Snohomish County, WA    |               147 |
-| Mason County, WA        |               146 |
-| King County, WA         |               147 |
-| Walla Walla County, WA  |               145 |
-| Pacific County, WA      |                89 |
-| Cowlitz County, WA      |               147 |
-| Island County, WA       |               147 |
+| Whitman County, WA      |                 0 |
+| Garfield County, WA     |                 0 |
+| Ferry County, WA        |                 0 |
+| Clallam County, WA      |                 0 |
+| Lewis County, WA        |                 0 |
+| Skagit County, WA       |                 0 |
+| Whatcom County, WA      |                 0 |
+| Columbia County, WA     |                 0 |
+| Klickitat County, WA    |                 0 |
+| Kittitas County, WA     |                 0 |
+| Wahkiakum County, WA    |                 0 |
+| Chelan County, WA       |                 0 |
+| Douglas County, WA      |                 0 |
+| Okanogan County, WA     |                 0 |
+| Kitsap County, WA       |                 0 |
+| Skamania County, WA     |                 0 |
+| Asotin County, WA       |                 0 |
+| Grant County, WA        |                 0 |
+| Yakima County, WA       |                 0 |
+| Stevens County, WA      |                 0 |
+| Pierce County, WA       |                 0 |
+| Grays Harbor County, WA |                 0 |
+| Adams County, WA        |                 0 |
+| Lincoln County, WA      |                 0 |
+| Thurston County, WA     |                 0 |
+| Spokane County, WA      |                 0 |
+| Franklin County, WA     |                 0 |
+| San Juan County, WA     |                 0 |
+| Snohomish County, WA    |                 0 |
+| Mason County, WA        |                 0 |
+| King County, WA         |                 0 |
+| Walla Walla County, WA  |                 0 |
+| Pacific County, WA      |                 0 |
+| Cowlitz County, WA      |                 0 |
+| Island County, WA       |                 0 |
 | Benton County, WA       |                 0 |
-| Pend Oreille County, WA |                90 |
-| Jefferson County, WA    |                90 |
-| Clark County, WA        |               147 |
+| Pend Oreille County, WA |                 0 |
+| Jefferson County, WA    |                 0 |
+| Clark County, WA        |                 0 |

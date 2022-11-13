@@ -1,14 +1,2 @@
-| id                     | title                                                                                                                   | observation_start   | observation_end   |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU29928110500000002SA | Average Weekly Hours of All Employees: Total Private in Kansas City, MO (DISCONTINUED)                                  | 2007-01-01          | 2022-03-01        |
-| SMU29928110500000003SA | Average Hourly Earnings of All Employees: Total Private in Kansas City, MO (DISCONTINUED)                               | 2007-01-01          | 2022-03-01        |
-| SMU29928110500000011SA | Average Weekly Earnings of All Employees: Total Private in Kansas City, MO (DISCONTINUED)                               | 2007-01-01          | 2022-03-01        |
-| SMU29928114000000007SA | Average Weekly Hours of Production Employees: Trade, Transportation, and Utilities in Kansas City, MO (DISCONTINUED)    | 2003-01-01          | 2022-03-01        |
-| SMU29928114000000008SA | Average Hourly Earnings of Production Employees: Trade, Transportation, and Utilities in Kansas City, MO (DISCONTINUED) | 2003-01-01          | 2022-03-01        |
-| SMU29928114000000030SA | Average Weekly Earnings of Production Employees: Trade, Transportation, and Utilities in Kansas City, MO (DISCONTINUED) | 2003-01-01          | 2022-03-01        |
-| SMU29928114100000007SA | Average Weekly Hours of Production Employees: Wholesale Trade in Kansas City, MO (DISCONTINUED)                         | 2003-01-01          | 2022-03-01        |
-| SMU29928114100000008SA | Average Hourly Earnings of Production Employees: Wholesale Trade in Kansas City, MO (DISCONTINUED)                      | 2003-01-01          | 2022-03-01        |
-| SMU29928114100000030SA | Average Weekly Earnings of Production Employees: Wholesale Trade in Kansas City, MO (DISCONTINUED)                      | 2003-01-01          | 2022-03-01        |
-| SMU29928114200000007SA | Average Weekly Hours of Production Employees: Retail Trade in Kansas City, MO (DISCONTINUED)                            | 2003-01-01          | 2022-03-01        |
-| SMU29928114200000008SA | Average Hourly Earnings of Production Employees: Retail Trade in Kansas City, MO (DISCONTINUED)                         | 2003-01-01          | 2022-03-01        |
-| SMU29928114200000030SA | Average Weekly Earnings of Production Employees: Retail Trade in Kansas City, MO (DISCONTINUED)                         | 2003-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

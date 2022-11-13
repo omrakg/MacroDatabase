@@ -1,88 +1,88 @@
 | Folder                       |   Files / Folders |
 |------------------------------|-------------------|
-| Wilkin County, MN            |                89 |
-| Traverse County, MN          |                88 |
-| Clearwater County, MN        |                89 |
-| Roseau County, MN            |                90 |
-| Pine County, MN              |                90 |
-| Sibley County, MN            |                90 |
-| Anoka County, MN             |               147 |
-| Isanti County, MN            |                90 |
-| Polk County, MN              |                89 |
-| Winona County, MN            |               146 |
-| Becker County, MN            |                89 |
-| Murray County, MN            |                89 |
-| Mille Lacs County, MN        |                89 |
-| Carlton County, MN           |                90 |
-| Benton County, MN            |                90 |
-| Kanabec County, MN           |                89 |
-| Faribault County, MN         |                90 |
-| Blue Earth County, MN        |               146 |
-| Hubbard County, MN           |                90 |
-| Pennington County, MN        |                90 |
-| Mower County, MN             |                90 |
-| Houston County, MN           |                90 |
-| Todd County, MN              |                89 |
-| Rice County, MN              |               147 |
-| Carver County, MN            |               147 |
-| Scott County, MN             |               147 |
-| Wright County, MN            |               147 |
-| Red Lake County, MN          |                88 |
-| Mahnomen County, MN          |                88 |
-| Yellow Medicine County, MN   |                89 |
-| Kittson County, MN           |                88 |
-| Stevens County, MN           |                89 |
-| Lake County, MN              |                89 |
-| Hennepin County, MN          |               147 |
-| Swift County, MN             |                90 |
-| Olmsted County, MN           |               147 |
-| Waseca County, MN            |                90 |
-| St. Louis County, MN         |               147 |
-| Steele County, MN            |                90 |
-| Itasca County, MN            |                90 |
+| Wilkin County, MN            |                 0 |
+| Traverse County, MN          |                 0 |
+| Clearwater County, MN        |                 0 |
+| Roseau County, MN            |                 0 |
+| Pine County, MN              |                 0 |
+| Sibley County, MN            |                 0 |
+| Anoka County, MN             |                 0 |
+| Isanti County, MN            |                 0 |
+| Polk County, MN              |                 0 |
+| Winona County, MN            |                 0 |
+| Becker County, MN            |                 0 |
+| Murray County, MN            |                 0 |
+| Mille Lacs County, MN        |                 0 |
+| Carlton County, MN           |                 0 |
+| Benton County, MN            |                 0 |
+| Kanabec County, MN           |                 0 |
+| Faribault County, MN         |                 0 |
+| Blue Earth County, MN        |                 0 |
+| Hubbard County, MN           |                 0 |
+| Pennington County, MN        |                 0 |
+| Mower County, MN             |                 0 |
+| Houston County, MN           |                 0 |
+| Todd County, MN              |                 0 |
+| Rice County, MN              |                 0 |
+| Carver County, MN            |                 0 |
+| Scott County, MN             |                 0 |
+| Wright County, MN            |                 0 |
+| Red Lake County, MN          |                 0 |
+| Mahnomen County, MN          |                 0 |
+| Yellow Medicine County, MN   |                 0 |
+| Kittson County, MN           |                 0 |
+| Stevens County, MN           |                 0 |
+| Lake County, MN              |                 0 |
+| Hennepin County, MN          |                 0 |
+| Swift County, MN             |                 0 |
+| Olmsted County, MN           |                 0 |
+| Waseca County, MN            |                 0 |
+| St. Louis County, MN         |                 0 |
+| Steele County, MN            |                 0 |
+| Itasca County, MN            |                 0 |
 | Beltrami County, MN          |                 0 |
-| Cass County, MN              |                90 |
-| Lake of the Woods County, MN |                88 |
-| Cottonwood County, MN        |                89 |
-| Washington County, MN        |               147 |
-| Redwood County, MN           |                90 |
-| Nicollet County, MN          |                90 |
-| Kandiyohi County, MN         |                90 |
-| Norman County, MN            |                88 |
-| Chippewa County, MN          |                90 |
-| Freeborn County, MN          |                90 |
-| Sherburne County, MN         |               147 |
-| Le Sueur County, MN          |                89 |
-| Meeker County, MN            |                90 |
-| Rock County, MN              |                90 |
-| Renville County, MN          |                90 |
-| McLeod County, MN            |                90 |
-| Marshall County, MN          |                89 |
-| Morrison County, MN          |                90 |
-| Lincoln County, MN           |                90 |
-| Grant County, MN             |                89 |
-| Aitkin County, MN            |                90 |
-| Ramsey County, MN            |               147 |
-| Stearns County, MN           |               147 |
-| Fillmore County, MN          |                90 |
-| Nobles County, MN            |                89 |
-| Lac Qui Parle County, MN     |                88 |
-| Douglas County, MN           |                90 |
-| Koochiching County, MN       |                89 |
-| Jackson County, MN           |                89 |
-| Pipestone County, MN         |                90 |
-| Martin County, MN            |                90 |
-| Dakota County, MN            |               147 |
-| Otter Tail County, MN        |               146 |
-| Cook County, MN              |                90 |
-| Watonwan County, MN          |                89 |
-| Clay County, MN              |               146 |
-| Big Stone County, MN         |                88 |
-| Dodge County, MN             |                90 |
-| Wabasha County, MN           |                90 |
-| Lyon County, MN              |                90 |
-| Wadena County, MN            |                89 |
-| Pope County, MN              |                90 |
-| Crow Wing County, MN         |               146 |
-| Chisago County, MN           |               146 |
-| Goodhue County, MN           |               146 |
+| Cass County, MN              |                 0 |
+| Lake of the Woods County, MN |                 0 |
+| Cottonwood County, MN        |                 0 |
+| Washington County, MN        |                 0 |
+| Redwood County, MN           |                 0 |
+| Nicollet County, MN          |                 0 |
+| Kandiyohi County, MN         |                 0 |
+| Norman County, MN            |                 0 |
+| Chippewa County, MN          |                 0 |
+| Freeborn County, MN          |                 0 |
+| Sherburne County, MN         |                 0 |
+| Le Sueur County, MN          |                 0 |
+| Meeker County, MN            |                 0 |
+| Rock County, MN              |                 0 |
+| Renville County, MN          |                 0 |
+| McLeod County, MN            |                 0 |
+| Marshall County, MN          |                 0 |
+| Morrison County, MN          |                 0 |
+| Lincoln County, MN           |                 0 |
+| Grant County, MN             |                 0 |
+| Aitkin County, MN            |                 0 |
+| Ramsey County, MN            |                 0 |
+| Stearns County, MN           |                 0 |
+| Fillmore County, MN          |                 0 |
+| Nobles County, MN            |                 0 |
+| Lac Qui Parle County, MN     |                 0 |
+| Douglas County, MN           |                 0 |
+| Koochiching County, MN       |                 0 |
+| Jackson County, MN           |                 0 |
+| Pipestone County, MN         |                 0 |
+| Martin County, MN            |                 0 |
+| Dakota County, MN            |                 0 |
+| Otter Tail County, MN        |                 0 |
+| Cook County, MN              |                 0 |
+| Watonwan County, MN          |                 0 |
+| Clay County, MN              |                 0 |
+| Big Stone County, MN         |                 0 |
+| Dodge County, MN             |                 0 |
+| Wabasha County, MN           |                 0 |
+| Lyon County, MN              |                 0 |
+| Wadena County, MN            |                 0 |
+| Pope County, MN              |                 0 |
+| Crow Wing County, MN         |                 0 |
+| Chisago County, MN           |                 0 |
+| Goodhue County, MN           |                 0 |

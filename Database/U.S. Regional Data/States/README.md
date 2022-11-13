@@ -24,7 +24,7 @@
 | Rhode Island         |                 6 |
 | Tennessee            |                 5 |
 | Maine                |                 7 |
-| Virgin Islands       |               171 |
+| Virgin Islands       |                 0 |
 | Nebraska             |                 5 |
 | Wyoming              |                 5 |
 | New Jersey           |                 8 |

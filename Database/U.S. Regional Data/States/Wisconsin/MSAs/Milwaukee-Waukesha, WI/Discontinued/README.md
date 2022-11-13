@@ -1,22 +1,2 @@
-| id                     | title                                                                                                                                    | observation_start   | observation_end   |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA33340Q156N       | CredAbility Consumer Distress Index for Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                                           | 2005-01-01          | 2013-01-01        |
-| INTINCOMEMWK           | Net Interest Income for Commercial Banks with Assets under $5B in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSMWK                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRMWK                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| MWKAGRIDX              | Economic Conditions Index for Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| NIMMWK                 | Net Interest Margin for Commercial Banks with Assets under $5B in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| NIMWK                  | Net Income for Commercial Banks with Assets under $5B in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| PCRGMP33340            | Total Per Capita Real Gross Domestic Product for Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROAMWK                 | Return on Average Assets for Commercial Banks with Assets under $5B in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| SMU55333400500000002SA | Average Weekly Hours of All Employees: Total Private in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
-| SMU55333400500000003SA | Average Hourly Earnings of All Employees: Total Private in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
-| SMU55333400500000011SA | Average Weekly Earnings of All Employees: Total Private in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
-| SMU55333403000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                    | 2001-01-01          | 2022-03-01        |
-| SMU55333403000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                 | 2001-01-01          | 2022-03-01        |
-| SMU55333403000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)                 | 2001-01-01          | 2022-03-01        |
-| SMU55333403100000007SA | Average Weekly Hours of Production Employees: Manufacturing: Durable Goods in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)     | 2003-01-01          | 2018-12-01        |
-| SMU55333403100000008SA | Average Hourly Earnings of Production Employees: Manufacturing: Durable Goods in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)  | 2003-01-01          | 2018-12-01        |
-| SMU55333403100000030SA | Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)  | 2003-01-01          | 2018-12-01        |
-| TOTASSETMWK            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANMWK             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Milwaukee-Waukesha-West Allis, WI (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

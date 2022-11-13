@@ -1,73 +1,73 @@
 | Folder                                  |   Files / Folders |
 |-----------------------------------------|-------------------|
-| Rock County, WI                         |               147 |
-| Taylor County, WI                       |                90 |
-| Vilas County, WI                        |                90 |
-| Oconto County, WI                       |                90 |
-| Polk County, WI                         |                90 |
-| Fond Du Lac County, WI                  |               147 |
-| Marinette County, WI                    |                89 |
+| Rock County, WI                         |                 0 |
+| Taylor County, WI                       |                 0 |
+| Vilas County, WI                        |                 0 |
+| Oconto County, WI                       |                 0 |
+| Polk County, WI                         |                 0 |
+| Fond Du Lac County, WI                  |                 0 |
+| Marinette County, WI                    |                 0 |
 | Langlade County, WI                     |                 0 |
-| Dane County, WI                         |               147 |
-| Ashland County, WI                      |                90 |
-| Waukesha County, WI                     |               147 |
-| Crawford County, WI                     |                90 |
-| Washington County, WI                   |               147 |
-| Washburn County, WI                     |                89 |
-| Outagamie County, WI                    |               147 |
-| Kenosha County, WI                      |               147 |
-| Iron County, WI                         |                88 |
-| Marquette County, WI                    |                89 |
-| Brown County, WI                        |               147 |
-| Douglas County, WI                      |               146 |
-| Iowa County, WI                         |                90 |
-| Menominee County, WI                    |                87 |
-| Chippewa County, WI                     |               146 |
-| Calumet County, WI                      |               144 |
-| Waushara County, WI                     |                90 |
-| Florence County, WI                     |                89 |
-| Dodge County, WI                        |               147 |
-| Jackson County, WI                      |                89 |
-| Kewaunee County, WI                     |                90 |
-| Barron County, WI                       |                90 |
-| Richland County, WI                     |                89 |
-| Grant County, WI                        |               144 |
-| Rusk County, WI                         |                90 |
-| Pierce County, WI                       |                90 |
-| Winnebago County, WI                    |               147 |
-| Oneida County, WI                       |                90 |
-| Green County, WI                        |                90 |
-| Waupaca County, WI                      |                90 |
-| Green Lake County, WI                   |                90 |
-| Shawano County, WI                      |                90 |
-| Buffalo County, WI                      |                89 |
-| Manitowoc County, WI                    |               145 |
-| Milwaukee County, WI                    |               146 |
-| Forest County, WI                       |                90 |
-| Adams County, WI                        |                90 |
-| Burnett County, WI                      |                90 |
-| Price County, WI                        |                89 |
-| Racine County, WI                       |               147 |
-| Vernon County, WI                       |                89 |
-| Pepin County, WI                        |                89 |
-| Lincoln County, WI                      |                90 |
-| Sawyer County, WI                       |                90 |
-| Jefferson County, WI                    |               147 |
-| Door County, WI                         |                90 |
-| Clark County, WI                        |                90 |
-| Marathon County, WI                     |               146 |
-| La Crosse County, WI                    |               147 |
-| Columbia County, WI                     |               146 |
-| Monroe County, WI                       |                90 |
-| Sheboygan County, WI                    |               147 |
-| Bayfield County, WI                     |                90 |
-| St. Croix County, WI                    |               147 |
-| Eau Claire County, WI                   |               147 |
-| Wood County, WI                         |               147 |
-| Shawano County, WI (includes Menominee) |                 4 |
-| Walworth County, WI                     |               147 |
-| Trempealeau County, WI                  |                89 |
-| Lafayette County, WI                    |                90 |
-| Dunn County, WI                         |                90 |
-| Juneau County, WI                       |                89 |
-| Ozaukee County, WI                      |               147 |
+| Dane County, WI                         |                 0 |
+| Ashland County, WI                      |                 0 |
+| Waukesha County, WI                     |                 0 |
+| Crawford County, WI                     |                 0 |
+| Washington County, WI                   |                 0 |
+| Washburn County, WI                     |                 0 |
+| Outagamie County, WI                    |                 0 |
+| Kenosha County, WI                      |                 0 |
+| Iron County, WI                         |                 0 |
+| Marquette County, WI                    |                 0 |
+| Brown County, WI                        |                 0 |
+| Douglas County, WI                      |                 0 |
+| Iowa County, WI                         |                 0 |
+| Menominee County, WI                    |                 0 |
+| Chippewa County, WI                     |                 0 |
+| Calumet County, WI                      |                 0 |
+| Waushara County, WI                     |                 0 |
+| Florence County, WI                     |                 0 |
+| Dodge County, WI                        |                 0 |
+| Jackson County, WI                      |                 0 |
+| Kewaunee County, WI                     |                 0 |
+| Barron County, WI                       |                 0 |
+| Richland County, WI                     |                 0 |
+| Grant County, WI                        |                 0 |
+| Rusk County, WI                         |                 0 |
+| Pierce County, WI                       |                 0 |
+| Winnebago County, WI                    |                 0 |
+| Oneida County, WI                       |                 0 |
+| Green County, WI                        |                 0 |
+| Waupaca County, WI                      |                 0 |
+| Green Lake County, WI                   |                 0 |
+| Shawano County, WI                      |                 0 |
+| Buffalo County, WI                      |                 0 |
+| Manitowoc County, WI                    |                 0 |
+| Milwaukee County, WI                    |                 0 |
+| Forest County, WI                       |                 0 |
+| Adams County, WI                        |                 0 |
+| Burnett County, WI                      |                 0 |
+| Price County, WI                        |                 0 |
+| Racine County, WI                       |                 0 |
+| Vernon County, WI                       |                 0 |
+| Pepin County, WI                        |                 0 |
+| Lincoln County, WI                      |                 0 |
+| Sawyer County, WI                       |                 0 |
+| Jefferson County, WI                    |                 0 |
+| Door County, WI                         |                 0 |
+| Clark County, WI                        |                 0 |
+| Marathon County, WI                     |                 0 |
+| La Crosse County, WI                    |                 0 |
+| Columbia County, WI                     |                 0 |
+| Monroe County, WI                       |                 0 |
+| Sheboygan County, WI                    |                 0 |
+| Bayfield County, WI                     |                 0 |
+| St. Croix County, WI                    |                 0 |
+| Eau Claire County, WI                   |                 0 |
+| Wood County, WI                         |                 0 |
+| Shawano County, WI (includes Menominee) |                 0 |
+| Walworth County, WI                     |                 0 |
+| Trempealeau County, WI                  |                 0 |
+| Lafayette County, WI                    |                 0 |
+| Dunn County, WI                         |                 0 |
+| Juneau County, WI                       |                 0 |
+| Ozaukee County, WI                      |                 0 |

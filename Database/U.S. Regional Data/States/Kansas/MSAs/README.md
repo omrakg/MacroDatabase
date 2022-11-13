@@ -1,8 +1,8 @@
 | Folder             |   Files / Folders |
 |--------------------|-------------------|
-| Wichita, KS        |               207 |
-| St. Joseph, MO-KS  |               103 |
-| Topeka, KS         |               176 |
-| Kansas City, MO-KS |               190 |
-| Manhattan, KS      |                88 |
-| Lawrence, KS       |               104 |
+| Wichita, KS        |                 0 |
+| St. Joseph, MO-KS  |                 0 |
+| Topeka, KS         |                 0 |
+| Kansas City, MO-KS |                 0 |
+| Manhattan, KS      |                 0 |
+| Lawrence, KS       |                 0 |

@@ -1,5 +1,2 @@
-| id                     | title                                                                                                                      | observation_start   | observation_end   |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| SMU09734500500000002SA | Average Weekly Hours of All Employees: Total Private in Hartford-West Hartford-East Hartford, CT (NECTA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
-| SMU09734500500000003SA | Average Hourly Earnings of All Employees: Total Private in Hartford-West Hartford-East Hartford, CT (NECTA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
-| SMU09734500500000011SA | Average Weekly Earnings of All Employees: Total Private in Hartford-West Hartford-East Hartford, CT (NECTA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

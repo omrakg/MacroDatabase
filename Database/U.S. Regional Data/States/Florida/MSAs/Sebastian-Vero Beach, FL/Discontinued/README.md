@@ -1,8 +1,2 @@
-| id                     | title                                                                                                    | observation_start   | observation_end   |
-|------------------------|----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ENUC469430010          | Total Quarterly Wages in Vero Beach, FL (MSA) (DISCONTINUED)                                             | 1990-01-01          | 2012-10-01        |
-| ENUC469430010SA        | Total Quarterly Wages in Vero Beach, FL (MSA) (DISCONTINUED)                                             | 1990-01-01          | 2012-10-01        |
-| PCRGMP42680            | Total Per Capita Real Gross Domestic Product for Sebastian-Vero Beach, FL (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
-| SMU12426800500000002SA | Average Weekly Hours of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA) (DISCONTINUED)    | 2007-01-01          | 2022-03-01        |
-| SMU12426800500000003SA | Average Hourly Earnings of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
-| SMU12426800500000011SA | Average Weekly Earnings of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA) (DISCONTINUED) | 2007-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

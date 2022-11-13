@@ -1,6 +1,2 @@
-| id                     | title                                                                                                       | observation_start   | observation_end   |
-|------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP16540            | Total Per Capita Real Gross Domestic Product for Chambersburg-Waynesboro, PA (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
-| SMU42165400500000002SA | Average Weekly Hours of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA) (DISCONTINUED)    | 2011-01-01          | 2022-03-01        |
-| SMU42165400500000003SA | Average Hourly Earnings of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
-| SMU42165400500000011SA | Average Weekly Earnings of All Employees: Total Private in Chambersburg-Waynesboro, PA (MSA) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

@@ -1,6 +1,2 @@
-| id                     | title                                                                                                   | observation_start   | observation_end   |
-|------------------------|---------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| PCRGMP48060            | Total Per Capita Real Gross Domestic Product for Watertown-Fort Drum, NY (MSA) (DISCONTINUED)           | 2001-01-01          | 2017-01-01        |
-| SMU36480600500000002SA | Average Weekly Hours of All Employees: Total Private in Watertown-Fort Drum, NY (MSA) (DISCONTINUED)    | 2011-01-01          | 2022-03-01        |
-| SMU36480600500000003SA | Average Hourly Earnings of All Employees: Total Private in Watertown-Fort Drum, NY (MSA) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
-| SMU36480600500000011SA | Average Weekly Earnings of All Employees: Total Private in Watertown-Fort Drum, NY (MSA) (DISCONTINUED) | 2011-01-01          | 2022-03-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

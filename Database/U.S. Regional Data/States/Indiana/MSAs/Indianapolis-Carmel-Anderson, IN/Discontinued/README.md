@@ -1,22 +1,2 @@
-| id                     | title                                                                                                                                   | observation_start   | observation_end   |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CCDIOA26900Q156N       | CredAbility Consumer Distress Index for Indianapolis-Carmel, IN (MSA) (DISCONTINUED)                                                    | 2005-01-01          | 2013-01-01        |
-| INDAGRIDX              | Economic Conditions Index for Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                                                     | 1990-02-01          | 2019-12-01        |
-| INTINCOMEIND           | Net Interest Income for Commercial Banks with Assets under $5B in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| LLSIND                 | Allowance for Loan and Lease Losses for Commercial Banks with Assets under $5B in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED) | 1989-01-01          | 2020-07-01        |
-| LLSRIND                | Loan Loss Reserve to Total Loans for Commercial Banks with Assets under $5B in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
-| NIIND                  | Net Income for Commercial Banks with Assets under $5B in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                          | 1989-01-01          | 2020-07-01        |
-| NIMIND                 | Net Interest Margin for Commercial Banks with Assets under $5B in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                 | 1989-01-01          | 2020-07-01        |
-| PCRGMP26900            | Total Per Capita Real Gross Domestic Product for Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                                  | 2001-01-01          | 2017-01-01        |
-| ROAIND                 | Return on Average Assets for Commercial Banks with Assets under $5B in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)            | 1989-01-01          | 2020-07-01        |
-| SMU18269000500000002SA | Average Weekly Hours of All Employees: Total Private in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                           | 2007-01-01          | 2022-03-01        |
-| SMU18269000500000003SA | Average Hourly Earnings of All Employees: Total Private in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
-| SMU18269000500000011SA | Average Weekly Earnings of All Employees: Total Private in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                        | 2007-01-01          | 2022-03-01        |
-| SMU18269003000000007SA | Average Weekly Hours of Production Employees: Manufacturing in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                    | 2007-01-01          | 2022-03-01        |
-| SMU18269003000000008SA | Average Hourly Earnings of Production Employees: Manufacturing in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                 | 2007-01-01          | 2022-03-01        |
-| SMU18269003000000030SA | Average Weekly Earnings of Production Employees: Manufacturing in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                 | 2007-01-01          | 2022-03-01        |
-| SMU18269004200000007SA | Average Weekly Hours of Production Employees: Retail Trade in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                     | 2003-01-01          | 2022-03-01        |
-| SMU18269004200000008SA | Average Hourly Earnings of Production Employees: Retail Trade in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                  | 2003-01-01          | 2022-03-01        |
-| SMU18269004200000030SA | Average Weekly Earnings of Production Employees: Retail Trade in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)                  | 2003-01-01          | 2022-03-01        |
-| TOTASSETIND            | Quarterly Average of Total Assets for Commercial Banks with Assets under $5B in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)   | 1989-01-01          | 2020-07-01        |
-| TOTLOANIND             | Quarterly Average of Total Loans for Commercial Banks with Assets under $5B in Indianapolis-Carmel-Anderson, IN (MSA) (DISCONTINUED)    | 1989-01-01          | 2020-07-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|
