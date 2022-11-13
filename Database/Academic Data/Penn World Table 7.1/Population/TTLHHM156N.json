@@ -1,7 +1,7 @@
 {
   "id": "TTLHHM156N",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Household Estimates",
   "observation_start": "1955-04-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-02 09:31:03-05",
-  "popularity": 53,
-  "group_popularity": 53,
+  "popularity": 54,
+  "group_popularity": 54,
   "notes": "Data from 1982 are revised based on the 1980 Census. Data from 1993 are revised based on the 1990 Census. Data from 2002 are revised based on the 2000 Census.\n\nThe householder refers to the person (or one of the persons) in whose name the housing unit is owned or rented or, if there is no such person, any adult member, excluding roomers, boarders, or paid employees. If the house is jointly owned by a married couple, either the husband or the wife may be listed first, thereby becoming the reference person, or householder, to whom the relationship of the other household members is recorded. One person in each household is designated as the \"householder.\"\n\nThis data comes from the  Housing Vacancy Survey (HVS) and is weighted to housing units, rather than the population, in order to more accurately estimate the number of occupied and vacant housing units. As a result, estimates of the number of households from the Housing Vacancy Survey (HVS) do not match estimates of households from the Annual Social and Economic Supplement (ASEC).\n\nFor more information about the Housing Vacancies and Homeownership survey (HVS) of the Current Population Survey (CPS) see http://www.census.gov/housing/hvs/index.html"
 }

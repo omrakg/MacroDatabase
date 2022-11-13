@@ -1,7 +1,7 @@
 {
   "id": "A011RD3A086NBEA",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Gross private domestic investment: Fixed investment: Residential (implicit price deflator)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:49:45-05",
   "popularity": 1,
-  "group_popularity": 6,
+  "group_popularity": 4,
   "notes": "BEA Account Code: A011RD\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

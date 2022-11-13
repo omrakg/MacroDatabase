@@ -1,7 +1,7 @@
 {
   "id": "RCCCBPCTCLDEC",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Large Bank Consumer Credit Card Balances: Accounts with Credit Line Decrease",
   "observation_start": "2012-10-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:08-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "The share of total credit card accounts in the quarter that experienced a bank-initiated or borrower-requested credit line decrease. Note that the time series data for Credit Line Decrease begins in 2012Q4 because this was the first quarter when the data were of sufficient quality to begin reporting. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

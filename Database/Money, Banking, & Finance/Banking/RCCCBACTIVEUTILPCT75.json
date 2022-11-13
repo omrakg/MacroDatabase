@@ -1,7 +1,7 @@
 {
   "id": "RCCCBACTIVEUTILPCT75",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 75th Percentile",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:06-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The 75th percentile credit utilization rate among credit card accounts. The utilization rate represents the share of the available credit line that the borrower is utilizing. It is defined as the cycle ending balance divided by the current credit limit. Active credit card accounts are defined as credit card accounts that are open and have had debit, credit, or balance activity in the last 12 months. Therefore, some credit card accounts that are defined as active will still have zero utilization of the available credit line. Available credit lines of inactive accounts are not included. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

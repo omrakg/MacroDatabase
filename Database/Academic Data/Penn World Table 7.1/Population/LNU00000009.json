@@ -1,7 +1,7 @@
 {
   "id": "LNU00000009",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Population Level - Hispanic or Latino",
   "observation_start": "1973-03-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-04 07:44:50-05",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 13,
+  "group_popularity": 13,
   "notes": "Civilian noninstitutional population is defined as persons 16 years of age and older residing in the 50 states and the District of Columbia, who are not inmates of institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.\n\nThe series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU00000009"
 }

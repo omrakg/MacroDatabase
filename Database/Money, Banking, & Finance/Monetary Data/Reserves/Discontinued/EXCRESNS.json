@@ -1,7 +1,7 @@
 {
   "id": "EXCRESNS",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Excess Reserves of Depository Institutions (DISCONTINUED)",
   "observation_start": "1959-01-01",
   "observation_end": "2013-05-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-07-05 15:51:07-05",
-  "popularity": 38,
-  "group_popularity": 61,
+  "popularity": 37,
+  "group_popularity": 63,
   "notes": "Excess reserves are those deposits held by depository institutions at the Fed not used to satisfy statutory reserve requirements plus that vault cash held by the same institutions not used to satisfy statutory reserve requirements. Excess reserves equals total reserves less required reserves.\n\nAs stated by the source: The concept of Excess reserves, defined as total reserve balances less reserve balance requirements, no longer aligns with the remuneration structure following phase two of the simplification of reserves administration. https://federalregister.gov/a/2012-8562\nNevertheless, to get at the historical concept of Excess reserves using the new H.3 statistical release, take Total reserve balances maintained (https://fred.stlouisfed.org/series/RESBALNS) less Reserve balance requirements (https://fred.stlouisfed.org/series/RESBALREQ). Alternatively, one can view excess as the amount of balances maintained that satisfy the minimum requirements, which can be calculated by taking Total reserve balances maintained (https://fred.stlouisfed.org/series/RESBALNS) less Bottom of penalty-free band (https://fred.stlouisfed.org/series/RESBRQBPF)."
 }

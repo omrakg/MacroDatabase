@@ -1,7 +1,7 @@
 {
   "id": "LNU00000012",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Population Level - 16-19 Yrs.",
   "observation_start": "1948-01-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-04 07:44:38-05",
-  "popularity": 23,
-  "group_popularity": 23,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU00000012"
 }

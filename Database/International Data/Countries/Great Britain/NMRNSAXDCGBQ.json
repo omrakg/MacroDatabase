@@ -1,7 +1,7 @@
 {
   "id": "NMRNSAXDCGBQ",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Real Imports of Goods and Services for Great Britain",
   "observation_start": "1995-01-01",
   "observation_end": "2022-04-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-17 10:17:16-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

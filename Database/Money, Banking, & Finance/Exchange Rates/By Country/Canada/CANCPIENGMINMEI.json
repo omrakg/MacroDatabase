@@ -1,7 +1,7 @@
 {
   "id": "CANCPIENGMINMEI",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-13",
+  "realtime_end": "2022-11-13",
   "title": "Consumer Price Index: OECD Groups: Energy (Fuel, Electricity & Gasoline): Total for Canada",
   "observation_start": "1961-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-14 14:58:10-05",
-  "popularity": 18,
-  "group_popularity": 21,
+  "popularity": 16,
+  "group_popularity": 18,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }
