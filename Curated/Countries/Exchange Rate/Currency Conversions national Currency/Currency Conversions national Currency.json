@@ -2,8 +2,8 @@
   "Czech Koruna_Annual_Not Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CCUSSP01CZA650N",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Currency Conversions: US$ Exchange Rate: Spot, End of Period: USD:national Currency for the Czech Republic",
       "observation_start": "1991-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Czech Koruna_Monthly_Not Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CCUSSP01CZM650N",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Currency Conversions: US$ Exchange Rate: Spot, End of Period: USD:national Currency for the Czech Republic",
       "observation_start": "1991-01-01",
       "observation_end": "2022-07-01",
@@ -44,8 +44,8 @@
   "Czech Koruna_Quarterly_Not Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CCUSSP01CZQ650N",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Currency Conversions: US$ Exchange Rate: Spot, End of Period: USD:national Currency for the Czech Republic",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",

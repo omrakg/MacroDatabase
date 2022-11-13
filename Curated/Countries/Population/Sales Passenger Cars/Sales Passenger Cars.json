@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZESACRAISMEI",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Sales: Retail Trade: Car Registration: Passenger Cars for the Czech Republic",
       "observation_start": "2003-01-01",
       "observation_end": "2020-01-01",
@@ -21,8 +21,8 @@
     },
     "Chile": {
       "id": "CHLSACRQISMEI",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Chile",
       "observation_start": "1994-01-01",
       "observation_end": "2018-10-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZESACRMISMEI",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Sales: Retail Trade: Car Registration: Passenger Cars for the Czech Republic",
       "observation_start": "2003-01-01",
       "observation_end": "2018-12-01",
@@ -61,8 +61,8 @@
     },
     "Chile": {
       "id": "CHLSACRQISMEI",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Chile",
       "observation_start": "1994-01-01",
       "observation_end": "2018-10-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZESACRQISMEI",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Sales: Retail Trade: Car Registration: Passenger Cars for the Czech Republic",
       "observation_start": "2003-01-01",
       "observation_end": "2018-10-01",
@@ -101,8 +101,8 @@
     },
     "Chile": {
       "id": "CHLSACRQISMEI",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Chile",
       "observation_start": "1994-01-01",
       "observation_end": "2018-10-01",

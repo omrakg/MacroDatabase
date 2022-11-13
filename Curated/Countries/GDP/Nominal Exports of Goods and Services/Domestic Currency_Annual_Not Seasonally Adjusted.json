@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NXXDCSAA",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-13",
+    "realtime_end": "2022-11-13",
     "title": "Nominal Exports of Goods and Services for Saudi Arabia",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
@@ -17,28 +17,10 @@
     "group_popularity": 1,
     "path": "Database/International Data/Countries/Saudi Arabia"
   },
-  "Argentina": {
-    "id": "NXXDCARA",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
-    "title": "Nominal Exports of Goods and Services for Argentina",
-    "observation_start": "2004-01-01",
-    "observation_end": "2021-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Domestic Currency",
-    "units_short": "Domestic Currency",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-07-11 07:11:10-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/International Data/Countries/Argentina"
-  },
   "Great Britain": {
     "id": "NXXDCGBA",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-13",
+    "realtime_end": "2022-11-13",
     "title": "Nominal Exports of Goods and Services for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -50,7 +32,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-10-24 07:09:15-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 2,
     "path": "Database/International Data/Countries/Great Britain"
   }
 }

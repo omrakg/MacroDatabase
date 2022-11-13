@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "HOHWMN02TRA661N",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Turkey": {
       "id": "HOHWMN02TRQ661N",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-13",
+      "realtime_end": "2022-11-13",
       "title": "Weekly Hours Worked: Manufacturing for Turkey",
       "observation_start": "1977-01-01",
       "observation_end": "2022-04-01",

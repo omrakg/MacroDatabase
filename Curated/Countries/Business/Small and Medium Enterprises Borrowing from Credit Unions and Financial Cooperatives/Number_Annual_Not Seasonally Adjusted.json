@@ -1,8 +1,8 @@
 {
   "Latvia": {
     "id": "LVAFCRODUSPENUM",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-13",
+    "realtime_end": "2022-11-13",
     "title": "Use of Financial Services Borrowers: Small and Medium Enterprises Borrowing from Credit Unions and Financial Cooperatives for Latvia",
     "observation_start": "2014-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLFCRODUSPENUM",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-13",
+    "realtime_end": "2022-11-13",
     "title": "Use of Financial Services Borrowers: Small and Medium Enterprises Borrowing from Credit Unions and Financial Cooperatives for Chile",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -36,43 +36,5 @@
     "group_popularity": 0,
     "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
     "path": "Database/International Data/Countries/Chile"
-  },
-  "Colombia": {
-    "id": "COLFCRODUSPENUM",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
-    "title": "Use of Financial Services Borrowers: Small and Medium Enterprises Borrowing from Credit Unions and Financial Cooperatives for Colombia",
-    "observation_start": "2004-01-01",
-    "observation_end": "2021-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Number",
-    "units_short": "Number",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-07-14 19:48:00-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
-    "path": "Database/International Data/Countries/Colombia"
-  },
-  "Guinea": {
-    "id": "GINFCRODUSPENUM",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
-    "title": "Use of Financial Services Borrowers: Small and Medium Enterprises Borrowing from Credit Unions and Financial Cooperatives for Guinea",
-    "observation_start": "2004-01-01",
-    "observation_end": "2021-01-01",
-    "frequency": "Annual",
-    "frequency_short": "A",
-    "units": "Number",
-    "units_short": "Number",
-    "seasonal_adjustment": "Not Seasonally Adjusted",
-    "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-10-04 09:48:09-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "notes": "Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
-    "path": "Database/International Data/Countries/Guinea"
   }
 }
