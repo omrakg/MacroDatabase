@@ -1,7 +1,7 @@
 {
   "id": "CHECINSADSMEI",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Switzerland",
   "observation_start": "1980-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Swiss Franc",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-09-14 15:47:25-05",
+  "last_updated": "2022-11-14 15:03:09-06",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"

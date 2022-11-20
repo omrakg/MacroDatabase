@@ -1,17 +1,17 @@
 {
   "id": "LALEIH",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "All Employees: Leisure and Hospitality in Louisiana",
   "observation_start": "1990-01-01",
-  "observation_end": "2022-09-01",
+  "observation_end": "2022-10-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-10-22 02:23:13-05",
+  "last_updated": "2022-11-19 02:53:17-06",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

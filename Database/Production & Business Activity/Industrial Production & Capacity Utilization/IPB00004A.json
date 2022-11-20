@@ -1,7 +1,7 @@
 {
   "id": "IPB00004A",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Industrial Production: Manufacturing (SIC)",
   "observation_start": "1919-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-25 21:05:34-05",
   "popularity": 1,
-  "group_popularity": 34,
+  "group_popularity": 38,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nFor more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors\n\nSource Code: IP.B00004.A"
 }

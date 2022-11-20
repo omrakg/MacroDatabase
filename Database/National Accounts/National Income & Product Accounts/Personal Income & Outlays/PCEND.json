@@ -1,7 +1,7 @@
 {
   "id": "PCEND",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Personal Consumption Expenditures: Nondurable Goods",
   "observation_start": "1959-01-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-10-28 08:40:26-05",
-  "popularity": 49,
-  "group_popularity": 53,
+  "popularity": 48,
+  "group_popularity": 52,
   "notes": "BEA Account Code: DNDGRC\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

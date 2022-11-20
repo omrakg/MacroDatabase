@@ -1,7 +1,7 @@
 {
   "id": "JTU00SOQUR",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Quits: Total Nonfarm in South Census Region",
   "observation_start": "2000-12-01",
   "observation_end": "2022-09-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-01 09:05:35-05",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 2
 }

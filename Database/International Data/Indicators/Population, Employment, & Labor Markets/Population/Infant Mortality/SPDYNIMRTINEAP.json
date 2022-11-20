@@ -1,7 +1,7 @@
 {
   "id": "SPDYNIMRTINEAP",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Infant Mortality Rate for Developing Countries in East Asia and Pacific",
   "observation_start": "1990-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-20 14:14:07-05",
-  "popularity": 10,
-  "group_popularity": 10,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.\n\nNations that are included in this data series are listed at http://data.worldbank.org/about/country-and-lending-groups. A developing nation is defined as one which falls within the lower or middle income bracket.\n\nSource Indicator: SP.DYN.IMRT.IN"
 }

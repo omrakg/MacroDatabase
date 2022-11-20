@@ -1,18 +1,18 @@
 {
   "id": "LCEATT04BRM661N",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Labour Compensation: Earnings: All Activities: Real Monthly Earnings for Brazil",
   "observation_start": "2012-03-01",
-  "observation_end": "2022-07-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index 2015=100",
   "units_short": "Index 2015=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-14 15:38:52-05",
+  "last_updated": "2022-11-14 14:59:37-06",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 3,
   "notes": "OECD descriptor ID: LCEATT04\r\nOECD unit ID: IXOB\r\nOECD country ID: BRA\r\n\r\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\r\nCopyright, 2016, OECD. Reprinted with permission."
 }

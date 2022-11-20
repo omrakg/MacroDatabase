@@ -1,18 +1,18 @@
 {
   "id": "IPG3114NQ",
-  "realtime_start": "2022-10-09",
-  "realtime_end": "2022-10-09",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Industrial Production: Manufacturing: Non-Durable Goods: Fruit and Vegetable Preserving and Specialty Food (NAICS = 3114)",
   "observation_start": "1972-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-07-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Index 2017=100",
   "units_short": "Index 2017=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-15 08:21:20-05",
+  "last_updated": "2022-11-16 08:21:12-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "The industrial production (IP) index measures the real output of all relevant establishments located in the United States, regardless of their ownership, but not those located in U.S. territories.\n\nFor more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors\n\nNAICS: 3114\n\nSource Code: IP.G3114.N.Q"
 }

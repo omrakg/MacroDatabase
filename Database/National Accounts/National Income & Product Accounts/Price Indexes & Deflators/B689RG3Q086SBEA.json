@@ -1,7 +1,7 @@
 {
   "id": "B689RG3Q086SBEA",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Exports of goods: Capital goods, except automotive: Other (chain-type price index)",
   "observation_start": "1967-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-27 07:55:55-05",
   "popularity": 0,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: B689RG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

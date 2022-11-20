@@ -1,0 +1,17 @@
+{
+  "id": "MOPCPI",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Per Capita Personal Income in Missouri",
+  "observation_start": "1929-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-30 09:59:23-05",
+  "popularity": 5,
+  "group_popularity": 9
+}

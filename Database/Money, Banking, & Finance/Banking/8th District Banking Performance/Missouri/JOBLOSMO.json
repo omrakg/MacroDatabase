@@ -1,0 +1,17 @@
+{
+  "id": "JOBLOSMO",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Unemployed: Job Losers for Missouri",
+  "observation_start": "2003-10-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Persons, 4-Quarter Moving Average",
+  "units_short": "Persons, 4-Qtr. Moving Average",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-28 14:57:41-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

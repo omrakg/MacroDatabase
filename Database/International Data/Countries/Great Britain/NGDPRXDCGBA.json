@@ -1,7 +1,7 @@
 {
   "id": "NGDPRXDCGBA",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Real Gross Domestic Product for Great Britain",
   "observation_start": "1995-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-24 07:09:05-05",
-  "popularity": 5,
-  "group_popularity": 31
+  "popularity": 7,
+  "group_popularity": 34
 }

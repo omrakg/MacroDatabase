@@ -1,0 +1,18 @@
+{
+  "id": "A011RE1Q156NBEA",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Shares of gross domestic product: Gross private domestic investment: Fixed investment: Residential",
+  "observation_start": "1947-01-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-27 07:53:15-05",
+  "popularity": 29,
+  "group_popularity": 29,
+  "notes": "BEA Account Code: A011RE\n\nFor more information about this series, please see http://www.bea.gov/national/."
+}

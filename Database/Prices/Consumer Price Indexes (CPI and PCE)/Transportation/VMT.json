@@ -1,0 +1,18 @@
+{
+  "id": "VMT",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Vehicle Miles Traveled",
+  "observation_start": "2000-01-01",
+  "observation_end": "2022-08-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions",
+  "units_short": "Mil.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-09 09:01:08-06",
+  "popularity": 32,
+  "group_popularity": 63,
+  "notes": "This data is collected by the U.S. Department of Transportation, Federal Highways Administration, Traffic Volumes and Trends available here (http://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm)."
+}

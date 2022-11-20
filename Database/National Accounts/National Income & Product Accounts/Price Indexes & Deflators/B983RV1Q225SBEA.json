@@ -1,7 +1,7 @@
 {
   "id": "B983RV1Q225SBEA",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Gross Domestic Purchases Excluding Food and Energy (chain-type price index)",
   "observation_start": "1982-04-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-10-27 07:55:09-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 4,
   "notes": "BEA Account Code: B983RV\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

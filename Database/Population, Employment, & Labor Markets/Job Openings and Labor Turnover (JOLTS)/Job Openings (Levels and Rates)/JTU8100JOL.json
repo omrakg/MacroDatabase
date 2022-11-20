@@ -1,0 +1,17 @@
+{
+  "id": "JTU8100JOL",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Job Openings: Other Services",
+  "observation_start": "2000-12-01",
+  "observation_end": "2022-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Level in Thousands",
+  "units_short": "Level in Thous.",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-01 09:04:18-05",
+  "popularity": 5,
+  "group_popularity": 5
+}

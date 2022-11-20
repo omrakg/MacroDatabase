@@ -1,0 +1,17 @@
+{
+  "id": "ADPWES20T49ENERSA",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Nonfarm Private Employment in Small Establishments with 20 to 49 Employees",
+  "observation_start": "2010-01-02",
+  "observation_end": "2022-08-27",
+  "frequency": "Weekly",
+  "frequency_short": "W",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-11-02 10:30:43-05",
+  "popularity": 1,
+  "group_popularity": 2
+}

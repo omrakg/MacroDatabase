@@ -1,0 +1,18 @@
+{
+  "id": "DTCTLVENANM",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Average Amount Financed for New Car Loans at Finance Companies",
+  "observation_start": "2008-03-01",
+  "observation_end": "2022-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars",
+  "units_short": "$",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-08 14:02:06-05",
+  "popularity": 36,
+  "group_popularity": 37,
+  "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
+}

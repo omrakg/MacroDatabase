@@ -1,0 +1,18 @@
+{
+  "id": "GDI",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Gross Domestic Income",
+  "observation_start": "1947-01-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Billions of Dollars",
+  "units_short": "Bil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
+  "seasonal_adjustment_short": "SAAR",
+  "last_updated": "2022-09-29 07:46:21-05",
+  "popularity": 50,
+  "group_popularity": 51,
+  "notes": "BEA Account Code: A261RC\r\nGross domestic income  is an alternative way of measuring the nation's economy, by counting the incomes earned and costs incurred in production. In theory, GDI should equal gross domestic product, but the different source data yield different results. The difference between the two measures is known as the \"statistical discrepancy.\" BEA considers GDP more reliable because it's based on timelier, more expansive data."
+}

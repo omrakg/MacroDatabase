@@ -1,0 +1,18 @@
+{
+  "id": "VXAZNCLS",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "CBOE Equity VIX on Amazon",
+  "observation_start": "2010-06-01",
+  "observation_end": "2022-11-17",
+  "frequency": "Daily, Close",
+  "frequency_short": "D",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-18 08:36:05-06",
+  "popularity": 29,
+  "group_popularity": 29,
+  "notes": "Copyright, 2016, Chicago Board Options Exchange, Inc. Reprinted with permission."
+}

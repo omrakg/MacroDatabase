@@ -1,7 +1,7 @@
 {
   "id": "NA000349Q",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Personal Consumption Expenditures",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-27 07:52:07-05",
-  "popularity": 31,
+  "popularity": 34,
   "group_popularity": 84,
   "notes": "BEA Account Code: NA000349"
 }

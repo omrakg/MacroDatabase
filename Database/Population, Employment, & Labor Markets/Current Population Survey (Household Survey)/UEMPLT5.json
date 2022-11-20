@@ -1,18 +1,18 @@
 {
   "id": "UEMPLT5",
-  "realtime_start": "2022-10-30",
-  "realtime_end": "2022-10-30",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Number Unemployed for Less Than 5 Weeks",
   "observation_start": "1948-01-01",
-  "observation_end": "2022-09-01",
+  "observation_end": "2022-10-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Persons",
   "units_short": "Thous. of Persons",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-10-07 07:44:14-05",
-  "popularity": 25,
+  "last_updated": "2022-11-04 07:44:29-05",
+  "popularity": 27,
   "group_popularity": 28,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS13008396"
 }

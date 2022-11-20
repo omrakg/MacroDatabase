@@ -1,0 +1,18 @@
+{
+  "id": "BFSBF8QTOTALNSAMO",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Spliced Business Formations Within Eight Quarters: Total for All NAICS in Missouri",
+  "observation_start": "2004-07-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Number",
+  "units_short": "Number",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-10 11:03:40-06",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "This series combines (splices) BFBF8QTOTALNSAMO (https://fred.stlouisfed.org/series/BFBF8QTOTALNSAMO) and BFPBF8QTOTALNSAMO (https://fred.stlouisfed.org/series/BFPBF8QTOTALNSAMO) to provide the entire time series for the actual and projected business formations within eight quarters.\n\nSee the U.S. Census's FAQs (https://www.census.gov/econ/bfs/faqs.html) for more details."
+}

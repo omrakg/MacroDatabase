@@ -1,0 +1,18 @@
+{
+  "id": "WFRBSN09151",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Share of Pension Entitlements Held by the 90th to 99th Wealth Percentiles",
+  "observation_start": "1989-07-01",
+  "observation_end": "2022-01-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent of Aggregate",
+  "units_short": "% of Aggregate",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-06-22 14:12:21-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Distributional Financial Accounts (DFAs) integrate two data products produced by the Federal Reserve Board: the Financial Accounts of the United States, which provide quarterly data on aggregate balance sheets of major sectors of the U.S. economy, and the Survey of Consumer Finances (SCF), which provides comprehensive triennial microdata on the assets and liabilities of a representative sample of U.S. households.\nInformation on the data collection process can be found at the Board of Governors (https://www.federalreserve.gov/releases/efa/efa-distributional-financial-accounts.htm).\""
+}

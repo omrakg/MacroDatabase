@@ -1,7 +1,7 @@
 {
   "id": "MSPMW",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Median Sales Price of Houses Sold for the Midwest Census Region",
   "observation_start": "1963-01-01",
   "observation_end": "2022-07-01",

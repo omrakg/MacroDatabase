@@ -1,7 +1,7 @@
 {
   "id": "PCECTPI",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Personal Consumption Expenditures: Chain-type Price Index",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-27 07:52:04-05",
-  "popularity": 53,
-  "group_popularity": 80,
+  "popularity": 55,
+  "group_popularity": 79,
   "notes": "BEA Account Code: DPCERG\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

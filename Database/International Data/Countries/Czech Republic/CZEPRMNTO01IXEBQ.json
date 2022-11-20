@@ -1,7 +1,7 @@
 {
   "id": "CZEPRMNTO01IXEBQ",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Production: Manufacturing: Total manufacturing: Total manufacturing for the Czech Republic",
   "observation_start": "2000-01-01",
   "observation_end": "2022-04-01",
@@ -11,8 +11,8 @@
   "units_short": "Index Eurostat base",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-09-14 15:07:47-05",
+  "last_updated": "2022-11-14 14:41:21-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: PRMNTO01 OECD unit ID: IXEB OECD country ID: CZEAll OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

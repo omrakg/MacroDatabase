@@ -1,0 +1,18 @@
+{
+  "id": "IPUZNL061010000",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Real Labor Compensation for Private Nonfarm in Alabama",
+  "observation_start": "2008-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Percent Change from Year Ago",
+  "units_short": "% Chg. from Yr. Ago",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-07-07 09:39:40-05",
+  "popularity": 0,
+  "group_popularity": 1,
+  "notes": "Real labor compensation is defined as payments to labor to produce goods and services, including wages, benefits and other monetary or nonmonetary payments, adjusted for inflation."
+}

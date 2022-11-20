@@ -1,0 +1,18 @@
+{
+  "id": "MABMM301CHQ189N",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "M3 for Switzerland",
+  "observation_start": "1971-10-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "National Currency",
+  "units_short": "National Currency",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-14 14:23:12-06",
+  "popularity": 1,
+  "group_popularity": 18,
+  "notes": "OECD descriptor ID: MABMM301\nOECD unit ID: ST\nOECD country ID: CHE\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

@@ -1,7 +1,7 @@
 {
   "id": "CTNQGSP",
-  "realtime_start": "2022-11-06",
-  "realtime_end": "2022-11-06",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Gross Domestic Product: All Industry Total in Connecticut",
   "observation_start": "2005-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-09-30 09:17:07-05",
-  "popularity": 11,
-  "group_popularity": 28,
+  "popularity": 7,
+  "group_popularity": 20,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."
 }

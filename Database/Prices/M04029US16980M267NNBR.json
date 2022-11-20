@@ -1,7 +1,7 @@
 {
   "id": "M04029US16980M267NNBR",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Retail Price of Butter for Chicago, IL",
   "observation_start": "1911-01-01",
   "observation_end": "1943-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:07-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Source: Bls Bulletins, Nos. 105, 115, 125, 132, 136, 137, 140, 270, 300, 315, 334, 396, 418, 445, 464, And 495 And United States Bureau Of Labor, \"Retail Prices\" For 1913-1934 Data, Except December, 1931-December, 1932, Which Are From Special Monthly Mimeographed Reports Of U.S.B.L. Not Given Formerly In Bulletins For Economy'S Sake. 1935-1943 Data Are From \"Retail Prices--Principal Articles Of Food By Cities.\" 1911 And 1912 Data Were Computed By NBER By Averaging Quotations Of A Varying Number Of Firms. Between August, 1933, And June, 1936, The Bls Collected Several Prices Per Month. If One Of Them Applied To A Date Between The 12Th And The 18Th, It Was Used As Given. In The Cases Of Other Dates The Given Prices Were Averaged.\n\nThis NBER data series m04029 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04029"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "XTEXVA03NOA664N",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Exports: Value Goods Excluding Ships and Oil Platforms for Norway",
+  "observation_start": "1975-01-01",
+  "observation_end": "2021-01-01",
+  "frequency": "Annual",
+  "frequency_short": "A",
+  "units": "Norwegian Krone, monthly level",
+  "units_short": "Norwegian Krone, monthly level",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-09-14 15:43:18-05",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "OECD descriptor ID: XTEXVA03\nOECD unit ID: NCML\nOECD country ID: NOR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

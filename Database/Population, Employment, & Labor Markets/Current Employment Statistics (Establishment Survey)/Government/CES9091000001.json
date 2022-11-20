@@ -1,0 +1,18 @@
+{
+  "id": "CES9091000001",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "All Employees, Federal",
+  "observation_start": "1939-01-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Thousands of Persons",
+  "units_short": "Thous. of Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-11-04 07:44:22-05",
+  "popularity": 49,
+  "group_popularity": 49,
+  "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES9091000001"
+}

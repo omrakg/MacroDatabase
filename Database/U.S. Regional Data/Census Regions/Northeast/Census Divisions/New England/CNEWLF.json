@@ -1,0 +1,17 @@
+{
+  "id": "CNEWLF",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
+  "title": "Civilian Labor Force in New England Census Division",
+  "observation_start": "1976-01-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-11-18 12:15:17-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

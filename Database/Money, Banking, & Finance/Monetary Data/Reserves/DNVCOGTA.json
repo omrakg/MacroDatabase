@@ -1,7 +1,7 @@
 {
   "id": "DNVCOGTA",
-  "realtime_start": "2022-11-13",
-  "realtime_end": "2022-11-13",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "U.S. Mint Held Gold Deep Storage: Denver, CO",
   "observation_start": "2012-01-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-03 14:03:02-05",
-  "popularity": 16,
-  "group_popularity": 16,
+  "popularity": 15,
+  "group_popularity": 15,
   "notes": "The Status Report of U.S. Government Gold Reserve (https://fiscaldata.treasury.gov/datasets/status-report-government-gold-reserve/u-s-treasury-owned-gold) can be found on FiscalData and is available for download in multiple machine-readable formats with complete metadata.\n\nDeep Storage is the portion of the U.S. Government-owned gold bullion reserve which the Mint secures in sealed vaults that are examined annually by the Treasury Department's Office of the Inspector General and consists primarily of gold bars."
 }

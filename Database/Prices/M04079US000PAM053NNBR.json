@@ -1,7 +1,7 @@
 {
   "id": "M04079US000PAM053NNBR",
-  "realtime_start": "2022-07-10",
-  "realtime_end": "2022-07-10",
+  "realtime_start": "2022-11-20",
+  "realtime_end": "2022-11-20",
   "title": "Wholesale Price of Crude Petroleum, at Wells for Pennsylvania",
   "observation_start": "1890-01-01",
   "observation_end": "1941-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:52:17-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Prices Are Average Monthly Price Per Barrel At Wells, Pipeline Certificates January, 1890 To January, 1895; Pennsylvania Crude At Wells, February 1895-1935; Quotations From Stowell'S Petroleum Reporter For January, 1890-September, 1901, And From Reports By Miss Belle Hill Of The United States Geological Survey Of 1902; 1903 Average Monthly Quotation Oil City Derricks; For 1904-1916, 1St Of Each Month Quotation, Oil City Derrick. Source: Bls Bulletin, Nos. 39 (Pp.390-391), 45, 51, 57, 63, 69, 75, 81, 87,93, 99, 114, 149, 181, 200, 226, 269, 296, 335, 367, 415, 440, 473, 493, 521, 543, 572, And Monthly Bulletin Of Wholesale Prices.\n\nThis NBER data series m04079 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04079"
 }
