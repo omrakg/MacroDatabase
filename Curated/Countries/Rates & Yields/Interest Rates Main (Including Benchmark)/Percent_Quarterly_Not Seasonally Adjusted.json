@@ -1,20 +1,20 @@
 {
   "Chile": {
     "id": "IRLTLT01CLQ156N",
-    "realtime_start": "2022-11-13",
-    "realtime_end": "2022-11-13",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Chile",
     "observation_start": "2004-07-01",
-    "observation_end": "2022-04-01",
+    "observation_end": "2022-07-01",
     "frequency": "Quarterly",
     "frequency_short": "Q",
     "units": "Percent",
     "units_short": "%",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-09-14 14:42:04-05",
-    "popularity": 13,
-    "group_popularity": 17,
+    "last_updated": "2022-11-14 14:23:03-06",
+    "popularity": 14,
+    "group_popularity": 18,
     "notes": "OECD descriptor ID: IRLTLT01\nOECD unit ID: ST\nOECD country ID: CHL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Chile"
   }

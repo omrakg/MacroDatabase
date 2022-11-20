@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NGDPDIXSAA",
-    "realtime_start": "2022-11-13",
-    "realtime_end": "2022-11-13",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Gross Domestic Product Deflator for Saudi Arabia",
     "observation_start": "2010-01-01",
     "observation_end": "2021-01-01",
@@ -17,10 +17,28 @@
     "group_popularity": 1,
     "path": "Database/International Data/Countries/Saudi Arabia"
   },
+  "Argentina": {
+    "id": "NGDPDSAIXARQ",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
+    "title": "Gross Domestic Product Deflator for Argentina",
+    "observation_start": "2004-01-01",
+    "observation_end": "2022-04-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Index",
+    "units_short": "Index",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-10-11 15:00:13-05",
+    "popularity": 3,
+    "group_popularity": 3,
+    "path": "Database/International Data/Countries/Argentina"
+  },
   "Great Britain": {
     "id": "NGDPDSAIXGBQ",
-    "realtime_start": "2022-11-13",
-    "realtime_end": "2022-11-13",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Gross Domestic Product Deflator for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2022-04-01",
@@ -31,8 +49,8 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-10-17 10:17:03-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 3,
+    "group_popularity": 3,
     "path": "Database/International Data/Countries/Great Britain"
   }
 }

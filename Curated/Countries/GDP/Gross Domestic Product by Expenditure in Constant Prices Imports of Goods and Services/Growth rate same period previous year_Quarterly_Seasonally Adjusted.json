@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "NAEXKP07RUQ659S",
-    "realtime_start": "2022-11-13",
-    "realtime_end": "2022-11-13",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Gross Domestic Product by Expenditure in Constant Prices: Less: Imports of Goods and Services for the Russian Federation",
     "observation_start": "2004-01-01",
     "observation_end": "2021-07-01",
@@ -14,7 +14,7 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-09-14 14:47:38-05",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 2,
     "notes": "OECD descriptor ID: NAEXKP07\nOECD unit ID: GYSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Russian Federation"
   }

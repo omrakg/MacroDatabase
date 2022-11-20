@@ -2,8 +2,8 @@
   "Chilean Peso_Annual_Seasonally Adjusted": {
     "Chile": {
       "id": "CHLCINSADSMEI",
-      "realtime_start": "2022-11-13",
-      "realtime_end": "2022-11-13",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Czech Republic": {
       "id": "CZECINSQDSMEI",
-      "realtime_start": "2022-11-13",
-      "realtime_end": "2022-11-13",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -32,7 +32,7 @@
       "units_short": "Czech Koruna",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-09-14 15:09:02-05",
+      "last_updated": "2022-11-14 14:41:26-06",
       "popularity": 1,
       "group_popularity": 1,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
@@ -42,8 +42,8 @@
   "Chilean Peso_Quarterly_Seasonally Adjusted": {
     "Chile": {
       "id": "CHLCINSQDSMEI",
-      "realtime_start": "2022-11-13",
-      "realtime_end": "2022-11-13",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
     },
     "Czech Republic": {
       "id": "CZECINSQDSMEI",
-      "realtime_start": "2022-11-13",
-      "realtime_end": "2022-11-13",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -72,7 +72,7 @@
       "units_short": "Czech Koruna",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-09-14 15:09:02-05",
+      "last_updated": "2022-11-14 14:41:26-06",
       "popularity": 1,
       "group_popularity": 1,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
@@ -82,8 +82,8 @@
   "Czech Koruna_Annual_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZECINSADSMEI",
-      "realtime_start": "2022-11-13",
-      "realtime_end": "2022-11-13",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -101,8 +101,8 @@
     },
     "Chile": {
       "id": "CHLCINSQDSMEI",
-      "realtime_start": "2022-11-13",
-      "realtime_end": "2022-11-13",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -122,8 +122,8 @@
   "Czech Koruna_Quarterly_Seasonally Adjusted": {
     "Czech Republic": {
       "id": "CZECINSQDSMEI",
-      "realtime_start": "2022-11-13",
-      "realtime_end": "2022-11-13",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -133,7 +133,7 @@
       "units_short": "Czech Koruna",
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
-      "last_updated": "2022-09-14 15:09:02-05",
+      "last_updated": "2022-11-14 14:41:26-06",
       "popularity": 1,
       "group_popularity": 1,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
@@ -141,8 +141,8 @@
     },
     "Chile": {
       "id": "CHLCINSQDSMEI",
-      "realtime_start": "2022-11-13",
-      "realtime_end": "2022-11-13",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",

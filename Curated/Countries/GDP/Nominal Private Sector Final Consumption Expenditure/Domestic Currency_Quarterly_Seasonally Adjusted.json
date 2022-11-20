@@ -1,8 +1,8 @@
 {
   "Great Britain": {
     "id": "NCPSAXDCGBQ",
-    "realtime_start": "2022-11-13",
-    "realtime_end": "2022-11-13",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Nominal Private Sector Final Consumption Expenditure for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2022-04-01",
@@ -17,10 +17,28 @@
     "group_popularity": 1,
     "path": "Database/International Data/Countries/Great Britain"
   },
+  "Argentina": {
+    "id": "NCPXDCARA",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
+    "title": "Nominal Private Sector Final Consumption Expenditure for Argentina",
+    "observation_start": "2004-01-01",
+    "observation_end": "2021-01-01",
+    "frequency": "Annual",
+    "frequency_short": "A",
+    "units": "Domestic Currency",
+    "units_short": "Domestic Currency",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-07-11 07:10:26-05",
+    "popularity": 1,
+    "group_popularity": 1,
+    "path": "Database/International Data/Countries/Argentina"
+  },
   "Saudi Arabia": {
     "id": "NCPXDCSAA",
-    "realtime_start": "2022-11-13",
-    "realtime_end": "2022-11-13",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Nominal Private Sector Final Consumption Expenditure for Saudi Arabia",
     "observation_start": "2005-01-01",
     "observation_end": "2021-01-01",
