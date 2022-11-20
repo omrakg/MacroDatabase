@@ -1,2 +1,20 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id         | title                                                                                                                               | observation_start   | observation_end   |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| EAROTXDBNQ | Percent of Value of Loans Prime Based by Average Loan Size ($ thousands), Other, Domestic Banks (DISCONTINUED)                      | 1997-04-01          | 2017-04-01        |
+| EARPRXDBNQ | Percent of Value of Loans Prime Based by Average Loan Size ($ thousands), Prime, Domestic Banks (DISCONTINUED)                      | 1997-04-01          | 2017-04-01        |
+| EEROTXDBNQ | Weighted-Average Effective Loan Rate by Base Pricing Rate, Other, Domestic Banks (DISCONTINUED)                                     | 1997-04-01          | 2017-04-01        |
+| EERPRXDBNQ | Weighted-Average Effective Loan Rate by Base Pricing Rate, Prime, Domestic Banks (DISCONTINUED)                                     | 1997-04-01          | 2017-04-01        |
+| EIROTXDBNQ | Weighted-Average Maturity/Repricing Interval by Base Pricing Rate, Other, Domestic Banks (DISCONTINUED)                             | 1997-04-01          | 2017-04-01        |
+| EIRPRXDBNQ | Weighted-Average Maturity/Repricing Interval by Base Pricing Rate, Prime, Domestic Banks (DISCONTINUED)                             | 1997-04-01          | 2017-04-01        |
+| EPROTXDBNQ | Percent of Value of Loans Subject to Prepayment Penalty by Base Pricing Rate, Other, Domestic Banks (DISCONTINUED)                  | 1997-04-01          | 2017-04-01        |
+| EPRPRXDBNQ | Percent of Value of Loans Subject to Prepayment Penalty by Base Pricing Rate, Prime, Domestic Banks (DISCONTINUED)                  | 1997-04-01          | 2017-04-01        |
+| ERROTXDBNQ | Weighted-Average Risk Rating by Base Pricing Rate, Other, Domestic Banks (DISCONTINUED)                                             | 1997-04-01          | 2017-04-01        |
+| ERRPRXDBNQ | Weighted-Average Risk Rating by Base Pricing Rate, Prime, Domestic Banks (DISCONTINUED)                                             | 1997-04-01          | 2017-04-01        |
+| ESROTXDBNQ | Percent of Value of Loans Secured by Collateral by Base Pricing Rate, Other, Domestic Banks (DISCONTINUED)                          | 1997-04-01          | 2017-04-01        |
+| ESRPRXDBNQ | Percent of Value of Loans Secured by Collateral by Base Pricing Rate, Prime, Domestic Banks (DISCONTINUED)                          | 1997-04-01          | 2017-04-01        |
+| ETROTXDBNQ | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set by Base Pricing Rate, Other, Domestic Banks (DISCONTINUED) | 2003-04-01          | 2017-04-01        |
+| ETRPRXDBNQ | Commitment Status, Average Months Since Loan (Commitment) Terms Were Set by Base Pricing Rate, Prime, Domestic Banks (DISCONTINUED) | 2003-04-01          | 2017-04-01        |
+| EUROTXDBNQ | Commitment Status, Percent of Amount of Loans Made Under Commitment by Base Pricing Rate, Other, Domestic Banks (DISCONTINUED)      | 1997-04-01          | 2017-04-01        |
+| EURPRXDBNQ | Commitment Status, Percent of Amount of Loans Made Under Commitment by Base Pricing Rate, Prime, Domestic Banks (DISCONTINUED)      | 1997-04-01          | 2017-04-01        |
+| EVROTXDBNQ | Total Value of Loans by Base Pricing Rate, Other, Domestic Banks (DISCONTINUED)                                                     | 1997-04-01          | 2017-04-01        |
+| EVRPRXDBNQ | Total Value of Loans by Base Pricing Rate, Prime, Domestic Banks (DISCONTINUED)                                                     | 1997-04-01          | 2017-04-01        |

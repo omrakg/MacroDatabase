@@ -1,8 +1,8 @@
 | Folder                      |   Files / Folders |
 |-----------------------------|-------------------|
+| Kalawao County, HI          |                46 |
+| Maui + Kalawao Counties, HI |                12 |
+| Kauai County, HI            |               147 |
+| Maui County, HI             |               137 |
 | Honolulu County - city, HI  |                 0 |
-| Kalawao County, HI          |                 0 |
-| Maui County, HI             |                 0 |
-| Kauai County, HI            |                 0 |
-| Maui + Kalawao Counties, HI |                 0 |
-| Hawaii County, HI           |                 0 |
+| Hawaii County, HI           |               147 |

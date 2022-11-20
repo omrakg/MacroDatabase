@@ -1,4 +1,6 @@
-| id                 | title                                                                                           | observation_start   | observation_end   |
-|--------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CP1000EU27M086NEST | Harmonized Index of Consumer Prices: Education for European Union (27 countries) (DISCONTINUED) | 1996-01-01          | 2015-12-01        |
-| CP1000EZ17M086NEST | Harmonized Index of Consumer Prices: Education for Euro area (17 countries) (DISCONTINUED)      | 1996-01-01          | 2015-12-01        |
+| id               | title                                                                                                               | observation_start   | observation_end   |
+|------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| GCT1501US        | People 25 Years and Over Who Have Completed High School (Includes Equivalency) for the United States (DISCONTINUED) | 2006-01-01          | 2012-01-01        |
+| GCT1502US        | People 25 Years and Over Who Have Completed a Bachelor's Degree for the United States (DISCONTINUED)                | 2006-01-01          | 2012-01-01        |
+| GCT1503US        | People 25 Years and Over Who Have Completed an Advanced Degree for the United States (DISCONTINUED)                 | 2006-01-01          | 2012-01-01        |
+| HC01ESTVC1602270 | High School Graduate or Higher (5-year estimate) in Wade Hampton Census Area, AK (DISCONTINUED)                     | 2010-01-01          | 2014-01-01        |

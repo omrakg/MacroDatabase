@@ -1,10 +1,10 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
-| Pueblo, CO                 |                 0 |
-| Fort Collins, CO           |                 0 |
-| Greeley, CO                |                 0 |
-| Canon, CO                  |                 0 |
-| Denver-Aurora-Lakewood, CO |                 0 |
-| Grand Junction, CO         |                 0 |
-| Boulder, CO                |                 0 |
-| Colorado Springs, CO       |                 0 |
+| Boulder, CO                |               176 |
+| Grand Junction, CO         |               168 |
+| Canon, CO                  |                32 |
+| Pueblo, CO                 |               167 |
+| Colorado Springs, CO       |               211 |
+| Denver-Aurora-Lakewood, CO |               314 |
+| Greeley, CO                |               171 |
+| Fort Collins, CO           |               177 |

@@ -1,0 +1,3 @@
+| id              | title                                                                                                                                                                 | observation_start   | observation_end   |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BSCICP02ZAQ460N | Business Tendency Surveys for Manufacturing: Confidence Indicators: Composite Indicators: European Commission and National Indicators for South Africa (DISCONTINUED) | 1974-04-01          | 2014-10-01        |

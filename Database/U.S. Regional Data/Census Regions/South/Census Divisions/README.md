@@ -1,5 +1,5 @@
 | Folder             |   Files / Folders |
 |--------------------|-------------------|
-| West South Central |                 0 |
-| East South Central |                 0 |
-| South Atlantic     |                 0 |
+| South Atlantic     |                33 |
+| East South Central |                33 |
+| West South Central |                33 |
