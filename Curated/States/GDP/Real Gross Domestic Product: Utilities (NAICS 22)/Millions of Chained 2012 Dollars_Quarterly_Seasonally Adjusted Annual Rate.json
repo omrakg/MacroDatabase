@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIUTILRQGSP",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Hawaii",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALUTILRQGSP",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Alabama",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKUTILRQGSP",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Alaska",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZUTILRQGSP",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Arizona",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Colorado": {
     "id": "COUTILRQGSP",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Colorado",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -115,8 +115,8 @@
   },
   "Connecticut": {
     "id": "CTUTILRQGSP",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Connecticut",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -134,8 +134,8 @@
   },
   "Delaware": {
     "id": "DEUTILRQGSP",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Real Gross Domestic Product: Utilities (NAICS 22) in Delaware",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",

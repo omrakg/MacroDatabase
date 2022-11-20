@@ -1,18 +1,18 @@
 {
   "West Virginia": {
     "id": "SMU54000001000000008",
-    "realtime_start": "2022-11-06",
-    "realtime_end": "2022-11-06",
+    "realtime_start": "2022-11-20",
+    "realtime_end": "2022-11-20",
     "title": "Average Hourly Earnings of Production Employees: Mining and Logging in West Virginia",
     "observation_start": "2003-01-01",
-    "observation_end": "2022-09-01",
+    "observation_end": "2022-10-01",
     "frequency": "Monthly",
     "frequency_short": "M",
     "units": "Dollars per Hour",
     "units_short": "$ per Hour",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-10-22 02:10:08-05",
+    "last_updated": "2022-11-19 02:10:43-06",
     "popularity": 1,
     "group_popularity": 1,
     "path": "Database/U.S. Regional Data/States/West Virginia"

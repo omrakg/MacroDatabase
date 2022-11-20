@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000003232004601",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "All Employees: Non-Durable Goods: Petroleum and Coal Products Mfg, and Plastics & Rubber Products Mfg in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2016-12-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000003232004601A",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "All Employees: Non-Durable Goods: Petroleum and Coal Products Mfg, and Plastics & Rubber Products Mfg in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2015-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000003232004601SA",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "All Employees: Non-Durable Goods: Petroleum and Coal Products Mfg, and Plastics & Rubber Products Mfg in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2016-12-01",

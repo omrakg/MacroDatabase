@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Utah": {
       "id": "SMU49000003133001201",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "All Employees: Durable Goods: Primary Metal Mfg, and Fabricated Metal Product Mfg in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2016-12-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Utah": {
       "id": "SMU49000003133001201A",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "All Employees: Durable Goods: Primary Metal Mfg, and Fabricated Metal Product Mfg in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2015-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Utah": {
       "id": "SMU49000003133001201SA",
-      "realtime_start": "2022-11-06",
-      "realtime_end": "2022-11-06",
+      "realtime_start": "2022-11-20",
+      "realtime_end": "2022-11-20",
       "title": "All Employees: Durable Goods: Primary Metal Mfg, and Fabricated Metal Product Mfg in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2016-12-01",
