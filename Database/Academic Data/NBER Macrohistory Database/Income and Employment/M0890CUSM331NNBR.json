@@ -1,7 +1,7 @@
 {
   "id": "M0890CUSM331NNBR",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Index of Factory Employment- Tobacco Manufacturers for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1956-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:16:41-05",
-  "popularity": 4,
-  "group_popularity": 7,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Source: Bls Employment Hours And Earnings, Ls53-2844(2-53&5-55);June 1962. Federal Reserve Bulletin: Oct. 1938 (1919-33) Text Updated 23Oct96 - Drf\n\nThis NBER data series m08090c appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08090c"
 }

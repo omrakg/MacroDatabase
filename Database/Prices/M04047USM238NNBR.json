@@ -1,7 +1,7 @@
 {
   "id": "M04047USM238NNBR",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Retail Price of Bituminous Coal for United States",
   "observation_start": "1920-01-01",
   "observation_end": "1944-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:57:42-05",
-  "popularity": 17,
-  "group_popularity": 17,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "No Satisfactory Prices Obtained For August, 1922 On Account Of Strike. The Number Of Cities Varies. It Is 45 For The Period 1920- 1922; It Is 38 For 1923 To June, 1940; 37 Cities For September And October 1940; 36 Cities For November, 1940; 35 Cities From December, 1940 On. The Data For The Years 1942-1944 Were Collected By The Bls Through The Survey Of Current Business And Were Cross Checked With Bls\"Retail Prices By Cities\" (Mimeographed Release, Monthly). This Series Consists Of Retail Prices Of Bituminous Coal Used For Household Purposes. \"Since July, 1935, Retail Prices Of Coal Have Been Collected Quarterly And Will Be Shown For January, April, July, And October. This Series Will Continue The Monthly Reports Shown For June, 1920- July, 1935 Incl.\" Bls\"Retail Prices\" October, 1935, P. 15. (1936 On Bls Shows September Price.) In Computing Monthly Means Index For March, June, September, And December: For September, 1935, October Was Used, For December, 1935, January, 1936 Was Used, For March, 1936, April, 1936 Was Used, For June, 1936, July, 1936 Was Used. Source: Bls Bulletin Nos. 334, 396, 418, 445, 464, 495, And Monthly Issues Of \"Retail Prices\" Through 1941.\n\nThis NBER data series m04047 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04047"
 }

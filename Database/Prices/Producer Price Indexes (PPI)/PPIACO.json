@@ -1,7 +1,7 @@
 {
   "id": "PPIACO",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: All Commodities",
   "observation_start": "1913-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:52:01-06",
-  "popularity": 81,
-  "group_popularity": 81
+  "popularity": 79,
+  "group_popularity": 79
 }

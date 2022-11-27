@@ -1,7 +1,7 @@
 {
   "id": "M0436BUS35620M236NNBR",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Wholesale Price of Bananas for New York, NY",
   "observation_start": "1932-01-01",
   "observation_end": "1940-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:52:33-05",
-  "popularity": 1,
-  "group_popularity": 5,
+  "popularity": 2,
+  "group_popularity": 4,
   "notes": "Series Is Presented Here As Three Variables--(1)-- Original Data, 1913-1933 (2)--Original Data, 1932-1940 (3)--Original Data, 1935-1942. Prices Are For Honduras 9S. The July, 1932 Price For Jamaica 9S Was $1.925; For Honduras 9S It Was $2.275. Source: Bls Wholesale Price Bulletins\n\nThis NBER data series m04036b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04036b"
 }

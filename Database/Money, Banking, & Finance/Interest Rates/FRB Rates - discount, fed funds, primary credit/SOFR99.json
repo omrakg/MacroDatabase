@@ -1,17 +1,17 @@
 {
   "id": "SOFR99",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Secured Overnight Financing Rate: 99th Percentile",
   "observation_start": "2018-04-03",
-  "observation_end": "2022-11-17",
+  "observation_end": "2022-11-23",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-18 07:01:04-06",
-  "popularity": 27,
-  "group_popularity": 27
+  "last_updated": "2022-11-25 07:01:06-06",
+  "popularity": 24,
+  "group_popularity": 24
 }

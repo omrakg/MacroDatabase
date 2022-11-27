@@ -1,7 +1,7 @@
 {
   "id": "NVNGSP",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Gross Domestic Product: All Industry Total in Nevada",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-30 09:16:08-05",
-  "popularity": 16,
-  "group_popularity": 21
+  "popularity": 19,
+  "group_popularity": 23
 }

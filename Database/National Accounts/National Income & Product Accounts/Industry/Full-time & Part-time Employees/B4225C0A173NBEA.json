@@ -1,7 +1,7 @@
 {
   "id": "B4225C0A173NBEA",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Full-time and part-time employees: Domestic private industries: Manufacturing: Durable goods: Miscellaneous manufacturing industries",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-03-31 19:58:25-05",
   "popularity": 0,
-  "group_popularity": 4,
+  "group_popularity": 1,
   "notes": "BEA Account Code: B4225C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

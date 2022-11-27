@@ -1,7 +1,7 @@
 {
   "id": "COLF",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Civilian Labor Force in Colorado",
   "observation_start": "1976-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-18 12:17:15-06",
-  "popularity": 5,
-  "group_popularity": 6
+  "popularity": 4,
+  "group_popularity": 5
 }

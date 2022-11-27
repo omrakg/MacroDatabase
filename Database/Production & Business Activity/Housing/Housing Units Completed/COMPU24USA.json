@@ -1,7 +1,7 @@
 {
   "id": "COMPU24USA",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units",
   "observation_start": "1968-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-11-17 07:31:20-06",
-  "popularity": 14,
-  "group_popularity": 15
+  "popularity": 13,
+  "group_popularity": 14
 }

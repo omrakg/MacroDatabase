@@ -1,0 +1,18 @@
+{
+  "id": "EMFDINA066MNFRBNY",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Future Employment; Diffusion Index for FRB - New York District",
+  "observation_start": "2004-09-01",
+  "observation_end": "2022-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index",
+  "units_short": "Index",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-16 07:31:03-06",
+  "popularity": 9,
+  "group_popularity": 9,
+  "notes": "Future Employment reports the likely direction of employment for the service sector over the six months ahead for the state of New York, Northern New Jersey, and Fairfield County, Connecticut. For more information regarding the Business Leaders Survey release from the Federal Reserve Bank of New York visit: http://www.newyorkfed.org/survey/business_leaders/bls_overview.html."
+}

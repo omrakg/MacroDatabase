@@ -1,7 +1,7 @@
 {
   "id": "ILMANRGSP",
-  "realtime_start": "2022-08-14",
-  "realtime_end": "2022-08-14",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Real Gross Domestic Product: Manufacturing (NAICS 31-33) in Illinois",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -11,7 +11,7 @@
   "units_short": "Mil. of Chn. 2012 $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-03-31 10:36:23-05",
+  "last_updated": "2022-09-30 09:19:25-05",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "For more information about this release go to http://www.bea.gov/newsreleases/regional/gdp_state/qgsp_newsrelease.htm."

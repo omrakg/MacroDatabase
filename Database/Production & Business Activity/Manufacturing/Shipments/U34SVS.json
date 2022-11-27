@@ -1,18 +1,18 @@
 {
   "id": "U34SVS",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Manufacturers' Value of Shipments: Computers and Electronic Products",
   "observation_start": "1992-01-01",
-  "observation_end": "2022-09-01",
+  "observation_end": "2022-10-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-03 09:04:30-05",
+  "last_updated": "2022-11-23 07:31:15-06",
   "popularity": 2,
-  "group_popularity": 7,
+  "group_popularity": 5,
   "notes": "Estimates of Shipments for the semiconductor industry are no longer shown separately, but are included in Computers and Electronic Products industry and in all other applicable aggregate totals."
 }

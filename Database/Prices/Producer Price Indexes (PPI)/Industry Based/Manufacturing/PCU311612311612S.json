@@ -1,0 +1,17 @@
+{
+  "id": "PCU311612311612S",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Producer Price Index by Industry: Meat Processed from Carcasses: Secondary Products",
+  "observation_start": "1982-12-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1982=100",
+  "units_short": "Index Dec 1982=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-15 08:00:55-06",
+  "popularity": 0,
+  "group_popularity": 1
+}

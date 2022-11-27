@@ -1,7 +1,7 @@
 {
   "id": "U2RATENSA",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Unemployment Rate - Job Losers (U-2)",
   "observation_start": "1967-01-01",
   "observation_end": "2022-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-04 07:45:20-05",
   "popularity": 4,
-  "group_popularity": 48,
+  "group_popularity": 45,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04023621"
 }

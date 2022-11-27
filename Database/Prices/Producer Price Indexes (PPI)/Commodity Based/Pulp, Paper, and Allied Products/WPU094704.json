@@ -1,7 +1,7 @@
 {
   "id": "WPU094704",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Financial and Legal Printing (Lithographic)",
   "observation_start": "1982-06-01",
   "observation_end": "2017-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-11-14 15:31:03-06",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

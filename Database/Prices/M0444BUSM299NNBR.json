@@ -1,7 +1,7 @@
 {
   "id": "M0444BUSM299NNBR",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Wholesale Price of By-Product Coke for United States",
   "observation_start": "1921-01-01",
   "observation_end": "1939-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:06-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1913-1922 (2)--Original Data, 1921-1939. Prices Are Foundry Delivered, Newark, New Jersey. Prices Are Averages Of Quotations As Of One Day Each Week (Bls Letter, 4/17/40). Source: 1921 Data Sent Direct By Bls. 1922 And Following Is From Bls Bulletins And \"Wholesale Prices.\" First Bulletin In Which Data Appears Is No. 367.\n\nThis NBER data series m04144b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04144b"
 }

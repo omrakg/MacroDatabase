@@ -1,7 +1,7 @@
 {
   "id": "DRMGQ",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Hours of Wage and Salary Workers on Nonfarm Payrolls: Manufacturing: Durable Manufacturing",
   "observation_start": "1964-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-10-21 15:15:05-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "For more information, see https://www.bls.gov/lpc/hoursdatainfo.htm"
 }

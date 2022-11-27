@@ -1,0 +1,17 @@
+{
+  "id": "PCU3132303132303",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Producer Price Index by Industry: Nonwoven Fabric Mills: Fabricated Nonwoven Products",
+  "observation_start": "1986-01-01",
+  "observation_end": "2003-03-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jan 1986=100",
+  "units_short": "Index Jan 1986=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:46:48-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

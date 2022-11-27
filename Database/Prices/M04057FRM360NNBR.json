@@ -1,7 +1,7 @@
 {
   "id": "M04057FRM360NNBR",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Index of Wholesale Prices, All Commodities (20 Foods, 25 Raw Materials) for France",
   "observation_start": "1913-01-01",
   "observation_end": "1939-08-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:53-05",
   "popularity": 2,
-  "group_popularity": 5,
+  "group_popularity": 2,
   "notes": "The Quarterly Data Originally Appears On 1901-10=100 Base And Has Here (NBER) Been Converted To The July, 1914=100 Base (To Agree With The Monthly Series Given On The July, 1914 Base) By Dividing The Original Data By 113.2, The Value Of July, 1914 On The 1901-10 Base And Multiplying By 100. The Figure, 113.2, Is Given By De Bernonville In Journal De La Societe De Statistique De Paris, June 1924, P.244. It Will Be Noted That The Quarterly Data As Thus Converted Will Agree With The Quarterly Averages Computed From Monthly Data, Beginning In 1913. For A Description Of The Index, See Journal De Societe De Statistique De Paris, June, 1924, P.234, And The Sources Mentioned In \"Sources\" Above. Monthly Data Are For The End Of The Month. Quarterly Data Are Averages For The Quarter. Figures Are Unweighted Arithmetical Averages. Source: Statistique Generale De La France. Quarterly Data, 1902-1914 Are From Bulletin De La Statistique De La France, October, 1912, P.25 And January, 1919, P.109. Monthly Data, 1913-1931 Are From Indices Generaux Du Mouvement Economique En France De 1901 A 1931, Pp.120-123, 158. Data For 1932-1934 Are From Bulletin De La Statistique.\n\nThis NBER data series m04057 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04057"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU10170403",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity for Metals and Metal Products: Hot Rolled Steel Plates, Carbon (DISCONTINUED)",
   "observation_start": "2010-12-01",
   "observation_end": "2017-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-09-13 08:33:00-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 4,
+  "group_popularity": 4
 }

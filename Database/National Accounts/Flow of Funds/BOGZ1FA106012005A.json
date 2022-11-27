@@ -1,7 +1,7 @@
 {
   "id": "BOGZ1FA106012005A",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Nonfinancial Corporate Business; Disposable Income, Net; Net Saving (IMA), Transactions",
   "observation_start": "1946-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-06-09 11:57:38-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 3,
   "notes": "Source ID: FA106012005.A\n\nFor more information about the Flow of Funds tables, see the Financial Accounts Guide (https://www.federalreserve.gov/apps/fof/Default.aspx).\n\nWith each quarterly release, the source may make major data and structural revisions to the series and tables. These changes are available in the Release Highlights (https://www.federalreserve.gov/apps/fof/FOFHighlight.aspx).\n\nIn the Financial Accounts, the source identifies each series by a string of patterned letters and numbers. For a detailed description, including how this series is constructed, see the series analyzer (https://www.federalreserve.gov/apps/fof/SeriesAnalyzer.aspx?s=FA106012005&t=) provided by the source."
 }

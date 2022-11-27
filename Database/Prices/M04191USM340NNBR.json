@@ -1,7 +1,7 @@
 {
   "id": "M04191USM340NNBR",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Index of Hide Prices for United States",
   "observation_start": "1921-01-01",
   "observation_end": "1941-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:51:16-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "NBER Calculated This Index Based On Prices For Country Hides, Chicago Market, Extremes; Heavy Native Steers, Chicago, Packer Hides; Light Native Cows, Chicago, Packer. Source: Mack/NBER. Tanner'S Council\n\nThis NBER data series m04191 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04191"
 }

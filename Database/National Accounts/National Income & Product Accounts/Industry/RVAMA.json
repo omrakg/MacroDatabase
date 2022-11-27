@@ -1,7 +1,7 @@
 {
   "id": "RVAMA",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Real Value Added by Industry: Manufacturing",
   "observation_start": "2005-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-09-29 07:32:01-05",
-  "popularity": 18,
-  "group_popularity": 18,
+  "popularity": 23,
+  "group_popularity": 23,
   "notes": "Value added represents the sum of the costs-incurred and the incomes-earned in production, and consists of compensation of employees, taxes on production and imports, less subsidies, and gross operating surplus."
 }

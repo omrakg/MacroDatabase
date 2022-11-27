@@ -1,0 +1,17 @@
+{
+  "id": "PCU31161231161216",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Producer Price Index by Industry: Meat Processed from Carcasses: Boiled Ham, Barbecue Pork, and Other Cooked Pork, Except Canned Meats and Sausage, Made from Purchased Carcasses",
+  "observation_start": "2008-06-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2008=100",
+  "units_short": "Index Jun 2008=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-15 08:00:46-06",
+  "popularity": 3,
+  "group_popularity": 3
+}

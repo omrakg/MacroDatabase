@@ -1,7 +1,7 @@
 {
   "id": "WPU14120513",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Transportation Equipment: Carburetors, Pistons, Piston Rings, and Valves",
   "observation_start": "1982-09-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:51:54-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 4,
+  "group_popularity": 4
 }

@@ -1,7 +1,7 @@
 {
   "id": "N404RC1Q027SBEA",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Corporate profits with inventory valuation adjustments: Domestic industries: Nonfinancial: Manufacturing: Nondurable goods: Petroleum and coal products",
   "observation_start": "2001-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-09-29 14:23:13-05",
-  "popularity": 5,
+  "popularity": 4,
   "group_popularity": 5,
   "notes": "BEA Account Code: N404RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

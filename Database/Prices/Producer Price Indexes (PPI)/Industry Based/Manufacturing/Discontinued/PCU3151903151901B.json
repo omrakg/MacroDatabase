@@ -1,0 +1,17 @@
+{
+  "id": "PCU3151903151901B",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Producer Price Index by Industry: Other Apparel Knitting Mills: Women's, Girls', and Infants' Knit Shirts and Blouses, made in Knitting Mills (DISCONTINUED)",
+  "observation_start": "1997-12-01",
+  "observation_end": "2013-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1997=100",
+  "units_short": "Index Dec 1997=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2015-05-15 08:45:19-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

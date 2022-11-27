@@ -1,0 +1,17 @@
+{
+  "id": "PCU31522031522031",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Producer Price Index by Industry: Men's and Boys' Cut and Sew Apparel Manufacturing: Men's and Boys' Knit Dress and Sport Shirts, made from Purchased Fabrics (DISCONTINUED)",
+  "observation_start": "1983-06-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1983=100",
+  "units_short": "Index Jun 1983=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-11 09:07:22-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

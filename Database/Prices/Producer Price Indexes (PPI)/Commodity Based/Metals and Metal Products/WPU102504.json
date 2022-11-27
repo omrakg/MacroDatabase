@@ -1,7 +1,7 @@
 {
   "id": "WPU102504",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Nickel and Nickel-Base Alloy Mill Shapes",
   "observation_start": "1971-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:51:05-06",
-  "popularity": 40,
-  "group_popularity": 42
+  "popularity": 33,
+  "group_popularity": 34
 }

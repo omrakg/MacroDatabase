@@ -1,7 +1,7 @@
 {
   "id": "A061RC1",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Contributions for government social insurance, domestic",
   "observation_start": "1959-01-01",
   "observation_end": "2022-09-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-10-28 08:40:37-05",
   "popularity": 7,
-  "group_popularity": 10,
+  "group_popularity": 9,
   "notes": "BEA Account Code: A061RC\n"
 }

@@ -1,7 +1,7 @@
 {
   "id": "WPU11350243",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Precision Measuring Tools",
   "observation_start": "1983-06-01",
   "observation_end": "2021-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-14 08:01:22-06",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

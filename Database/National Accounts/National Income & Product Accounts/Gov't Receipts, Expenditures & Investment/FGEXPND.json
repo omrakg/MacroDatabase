@@ -1,7 +1,7 @@
 {
   "id": "FGEXPND",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Federal Government: Current Expenditures",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-10-27 07:52:01-05",
   "popularity": 63,
-  "group_popularity": 64,
+  "group_popularity": 63,
   "notes": "BEA Account Code: W013RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

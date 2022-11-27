@@ -1,7 +1,7 @@
 {
   "id": "LNS12005977",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Number At Work 1-34 Hours, Usually Work Part Time Noneconomic Reasons",
   "observation_start": "1955-05-01",
   "observation_end": "2022-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-04 07:44:55-05",
   "popularity": 5,
-  "group_popularity": 6,
+  "group_popularity": 5,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS12005977"
 }

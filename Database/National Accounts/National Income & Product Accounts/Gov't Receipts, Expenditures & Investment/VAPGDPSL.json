@@ -1,7 +1,7 @@
 {
   "id": "VAPGDPSL",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Value Added by Industry: Government: State and Local as a Percentage of GDP",
   "observation_start": "2005-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:31:07-05",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 11,
+  "group_popularity": 11,
   "notes": "Value added represents the sum of the costs-incurred and the incomes-earned in production, and consists of compensation of employees, taxes on production and imports, less subsidies, and gross operating surplus."
 }

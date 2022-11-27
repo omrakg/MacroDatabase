@@ -1,7 +1,7 @@
 {
   "id": "DDISCRT",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Discount Rate (DISCONTINUED)",
   "observation_start": "1955-01-03",
   "observation_end": "2003-01-08",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-06 10:06:28-05",
-  "popularity": 10,
-  "group_popularity": 16,
+  "popularity": 6,
+  "group_popularity": 12,
   "notes": "For more information, see http://www.federalreserve.gov/boarddocs/press/bcreg/2002/200210312/default.htm."
 }

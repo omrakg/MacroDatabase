@@ -1,7 +1,7 @@
 {
   "id": "M0460AUSM319NNBR",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Index of Prices Received by Farmers, All Groups for United States",
   "observation_start": "1910-01-01",
   "observation_end": "1967-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:48:27-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Prices Are Those Of The 15Th Of Every Month. Average Per Unit Production Payments Made On Butterfat, Milk, Beef Cattle, Sheep, And Lambs Are Included For Period October, 1943- June, 1946, Inclusive. In 1952, Revision Of Weights, Based On Average 1953-1957 Marketings And Prices, Was Used To Extend Index Back To, And Link It To The Earlier Index, In September, 1952 (See Agricultural Economics Research, Vol. Xi, Nos. 2 And 3, 1959). Source: This Series Is Described In A.G. Silverman, \"Monthly Index Numbers Of British Export And Import Prices, 1880-1913\" In Review Of Economic Statistics, Vol. Xii, 3, 1930.\n\nThis NBER data series m04060a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04060a"
 }

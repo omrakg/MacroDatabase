@@ -1,17 +1,17 @@
 {
   "id": "DRBLACBN",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Delinquency Rate on Business Loans, All Commercial Banks",
   "observation_start": "1987-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-07-01",
   "frequency": "Quarterly, End of Period",
   "frequency_short": "Q",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-22 13:18:17-05",
+  "last_updated": "2022-11-23 13:33:15-06",
   "popularity": 19,
-  "group_popularity": 57
+  "group_popularity": 55
 }

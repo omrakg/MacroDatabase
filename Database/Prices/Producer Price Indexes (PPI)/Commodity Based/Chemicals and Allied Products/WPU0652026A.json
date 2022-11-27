@@ -1,7 +1,7 @@
 {
   "id": "WPU0652026A",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Phosphoric Acid, 52-54 Percent APA, Superphosphates and Other Phosphate Fertilizer Materials",
   "observation_start": "2014-12-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:52:04-06",
-  "popularity": 53,
-  "group_popularity": 53
+  "popularity": 51,
+  "group_popularity": 51
 }

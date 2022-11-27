@@ -1,0 +1,18 @@
+{
+  "id": "WTB6MS",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "6-Month Treasury Bill Secondary Market Rate, Discount Basis",
+  "observation_start": "1958-12-12",
+  "observation_end": "2022-11-18",
+  "frequency": "Weekly, Ending Friday",
+  "frequency_short": "W",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-21 15:22:14-06",
+  "popularity": 15,
+  "group_popularity": 60,
+  "notes": "Averages of Business Days, Discount Basis"
+}

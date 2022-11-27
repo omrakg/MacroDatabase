@@ -1,7 +1,7 @@
 {
   "id": "PIEATI01DEM661N",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Prices Index: Economic Activities: Industrial Activities: Total for Germany",
   "observation_start": "1995-01-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-14 14:34:10-06",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 6,
+  "group_popularity": 9,
   "notes": "OECD descriptor ID: PIEATI01\nOECD unit ID: IXOB\nOECD country ID: DEU\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

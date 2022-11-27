@@ -1,0 +1,17 @@
+{
+  "id": "PCU31521031521021",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Producer Price Index by Industry: Cut and Sew Apparel Contractors: Contract Receipts for Women's, Girls', and Infants' Shirts and Blouses",
+  "observation_start": "2007-06-01",
+  "observation_end": "2019-05-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 2007=100",
+  "units_short": "Index Jun 2007=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2019-10-08 07:54:27-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

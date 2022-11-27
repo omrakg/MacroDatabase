@@ -1,0 +1,17 @@
+{
+  "id": "PCU31181231181214Y",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Producer Price Index by Industry: Commercial Bakeries: Other Variety Breads (Rye, Unleavened, Muffin, Bagel, Croissant) (DISCONTINUED)",
+  "observation_start": "2011-12-01",
+  "observation_end": "2017-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2011=100",
+  "units_short": "Index Dec 2011=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2018-01-11 09:07:30-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

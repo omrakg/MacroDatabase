@@ -1,7 +1,7 @@
 {
   "id": "AZNGSP",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Gross Domestic Product: All Industry Total in Arizona",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-30 09:16:04-05",
   "popularity": 25,
-  "group_popularity": 33
+  "group_popularity": 29
 }

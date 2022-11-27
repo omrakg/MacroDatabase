@@ -1,0 +1,18 @@
+{
+  "id": "XTEITT01CNQ156N",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "International Trade: Ratio: Exports to Imports: Total: Total for China (People's Republic Of)",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-07-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-14 14:40:54-06",
+  "popularity": 1,
+  "group_popularity": 28,
+  "notes": "OECD descriptor ID: XTEITT01\nOECD unit ID: ST\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
+}

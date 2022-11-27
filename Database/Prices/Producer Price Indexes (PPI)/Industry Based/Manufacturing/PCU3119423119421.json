@@ -1,0 +1,17 @@
+{
+  "id": "PCU3119423119421",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
+  "title": "Producer Price Index by Industry: Spice and Extract Manufacturing: Table Salt (Evaporated), Pepper (White and Black), and Other Spices",
+  "observation_start": "1985-06-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Jun 1985=100",
+  "units_short": "Index Jun 1985=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-15 07:56:04-06",
+  "popularity": 15,
+  "group_popularity": 15
+}

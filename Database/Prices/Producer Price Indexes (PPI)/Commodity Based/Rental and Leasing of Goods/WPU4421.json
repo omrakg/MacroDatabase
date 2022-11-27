@@ -1,7 +1,7 @@
 {
   "id": "WPU4421",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Rental and Leasing of Goods (Partial): Truck, Trailer, and RV Rental and Leasing",
   "observation_start": "2009-06-01",
   "observation_end": "2022-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:57:18-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

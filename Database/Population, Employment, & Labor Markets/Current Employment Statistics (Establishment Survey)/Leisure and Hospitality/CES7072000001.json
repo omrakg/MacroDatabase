@@ -1,7 +1,7 @@
 {
   "id": "CES7072000001",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "All Employees, Accommodation and Food Services",
   "observation_start": "1990-01-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-04 07:44:44-05",
-  "popularity": 11,
-  "group_popularity": 12,
+  "popularity": 14,
+  "group_popularity": 15,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES7072000001"
 }

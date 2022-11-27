@@ -1,7 +1,7 @@
 {
   "id": "CPIAUCNS",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
   "observation_start": "1913-01-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-10 07:38:04-06",
-  "popularity": 73,
-  "group_popularity": 96,
+  "popularity": 71,
+  "group_popularity": 95,
   "notes": "Handbook of Methods (https://www.bls.gov/opub/hom/pdf/cpihom.pdf)\nUnderstanding the CPI: Frequently Asked Questions (https://www.bls.gov/cpi/questions-and-answers.htm)"
 }

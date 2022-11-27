@@ -1,7 +1,7 @@
 {
   "id": "WPS081",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Lumber and Wood Products: Lumber",
   "observation_start": "1967-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-15 07:53:05-06",
-  "popularity": 45,
-  "group_popularity": 63
+  "popularity": 37,
+  "group_popularity": 60
 }

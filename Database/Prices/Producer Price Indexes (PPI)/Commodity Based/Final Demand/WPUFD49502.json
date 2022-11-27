@@ -1,7 +1,7 @@
 {
   "id": "WPUFD49502",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Final Demand: Personal Consumption Goods (Finished Consumer Goods)",
   "observation_start": "1947-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:51:49-06",
-  "popularity": 4,
-  "group_popularity": 18
+  "popularity": 8,
+  "group_popularity": 22
 }

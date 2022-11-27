@@ -1,7 +1,7 @@
 {
   "id": "PPIFID",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Producer Price Index by Commodity: Final Demand",
   "observation_start": "2009-11-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:50:22-06",
-  "popularity": 29,
-  "group_popularity": 62
+  "popularity": 26,
+  "group_popularity": 61
 }

@@ -1,7 +1,7 @@
 {
   "id": "A009RO1Q156NBEA",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-11-27",
+  "realtime_end": "2022-11-27",
   "title": "Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Structures",
   "observation_start": "1948-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-27 07:55:47-05",
   "popularity": 1,
-  "group_popularity": 17,
+  "group_popularity": 14,
   "notes": "BEA Account Code: A009RO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }
