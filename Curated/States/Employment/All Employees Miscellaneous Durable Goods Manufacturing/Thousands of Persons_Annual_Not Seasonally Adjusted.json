@@ -1,8 +1,8 @@
 {
   "Texas": {
     "id": "SMU48000003133900001A",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "All Employees: Durable Goods: Miscellaneous Durable Goods Manufacturing in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000003133900001A",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "All Employees: Durable Goods: Miscellaneous Durable Goods Manufacturing in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

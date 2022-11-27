@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004142440001",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Wholesale Trade: Grocery and Related Product Merchant Wholesalers in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000004142440001SA",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Wholesale Trade: Grocery and Related Product Merchant Wholesalers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -41,8 +41,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004142440001A",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Wholesale Trade: Grocery and Related Product Merchant Wholesalers in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",
@@ -59,8 +59,8 @@
     },
     "Texas": {
       "id": "SMU48000004142440001SA",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Wholesale Trade: Grocery and Related Product Merchant Wholesalers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -80,8 +80,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004142440001SA",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Wholesale Trade: Grocery and Related Product Merchant Wholesalers in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2022-10-01",
@@ -99,8 +99,8 @@
     },
     "Texas": {
       "id": "SMU48000004142440001SA",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Wholesale Trade: Grocery and Related Product Merchant Wholesalers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",

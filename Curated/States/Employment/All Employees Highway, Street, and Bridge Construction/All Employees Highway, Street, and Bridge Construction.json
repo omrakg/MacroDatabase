@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000002023730001",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Construction: Highway, Street, and Bridge Construction in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000002023730001A",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Construction: Highway, Street, and Bridge Construction in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -42,8 +42,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000002023730001SA",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "All Employees: Construction: Highway, Street, and Bridge Construction in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",

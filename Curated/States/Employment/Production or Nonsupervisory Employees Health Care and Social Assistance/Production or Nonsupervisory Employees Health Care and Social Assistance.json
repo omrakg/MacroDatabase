@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Vermont": {
       "id": "SMU50000006562000006",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Production or Nonsupervisory Employees: Education and Health Services: Health Care and Social Assistance in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Vermont": {
       "id": "SMU50000006562000006SA",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Production or Nonsupervisory Employees: Education and Health Services: Health Care and Social Assistance in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",

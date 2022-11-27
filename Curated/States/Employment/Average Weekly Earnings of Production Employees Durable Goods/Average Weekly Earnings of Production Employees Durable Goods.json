@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000003100000030",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000003100000030A",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2016-01-01",
@@ -135,8 +135,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000003100000030A",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",
@@ -153,8 +153,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000003100000030A",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2016-01-01",
@@ -287,8 +287,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000003100000030A",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Average Weekly Earnings of Production Employees: Manufacturing: Durable Goods in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2016-01-01",

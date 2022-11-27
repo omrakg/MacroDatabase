@@ -2,8 +2,8 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000001021000007",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Average Weekly Hours of Production Employees: Mining and Logging: Mining, Quarrying, and Oil and Gas Extraction in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",

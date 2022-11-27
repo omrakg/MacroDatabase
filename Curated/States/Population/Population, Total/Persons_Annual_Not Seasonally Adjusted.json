@@ -1,8 +1,8 @@
 {
   "Puerto Rico": {
     "id": "POPTOTPRA647NWDB",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Population, Total for Puerto Rico",
     "observation_start": "1960-01-01",
     "observation_end": "2021-01-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-07-05 14:20:28-05",
-    "popularity": 6,
-    "group_popularity": 7,
+    "popularity": 9,
+    "group_popularity": 9,
     "notes": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship--except for refugees not permanently settled in the country of asylum, who are generally considered part of the population of their country of origin. The values shown are midyear estimates.\n\nSource Code: SP.POP.TOTL",
     "path": "Database/U.S. Regional Data/States/Puerto Rico"
   },
