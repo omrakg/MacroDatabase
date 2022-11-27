@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "PLOGINUAA623NUPN",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Price Level of Government Consumption for Ukraine",
     "observation_start": "1993-01-01",
     "observation_end": "2010-01-01",
@@ -20,8 +20,8 @@
   },
   "Suriname": {
     "id": "PLOGINSRA623NUPN",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Price Level of Government Consumption for Suriname",
     "observation_start": "1970-01-01",
     "observation_end": "2010-01-01",

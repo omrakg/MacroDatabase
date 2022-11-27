@@ -2,8 +2,8 @@
   "Persons_Quarterly_Not Seasonally Adjusted": {
     "Latvia": {
       "id": "LVALFUN25TTSTQ",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Labour Force Survey - quarterly levels: Unemployed population: Aged 25-54: Total for Latvia",
       "observation_start": "1998-04-01",
       "observation_end": "2022-04-01",
@@ -23,8 +23,8 @@
   "Persons_Quarterly_Seasonally Adjusted": {
     "Latvia": {
       "id": "LVALFUN25TTSTSAQ",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Labour Force Survey - quarterly levels: Unemployed population: Aged 25-54: Total for Latvia",
       "observation_start": "2002-01-01",
       "observation_end": "2022-04-01",

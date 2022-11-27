@@ -2,8 +2,8 @@
   "Forint_Annual_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNGFCFADSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -40,8 +40,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
   "Forint_Quarterly_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -80,8 +80,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -99,8 +99,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -120,8 +120,8 @@
   "Iceland Krona_Annual_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLGFCFADSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -139,8 +139,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -158,8 +158,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -179,8 +179,8 @@
   "Iceland Krona_Quarterly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -198,8 +198,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -217,8 +217,8 @@
     },
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -238,8 +238,8 @@
   "New Israeli Sheqel_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGFCFADSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -257,8 +257,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -276,8 +276,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -297,8 +297,8 @@
   "New Israeli Sheqel_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -316,8 +316,8 @@
     },
     "Hungary": {
       "id": "HUNGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -335,8 +335,8 @@
     },
     "Iceland": {
       "id": "ISLGFCFQDSMEI",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Gross Fixed Capital Formation in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",

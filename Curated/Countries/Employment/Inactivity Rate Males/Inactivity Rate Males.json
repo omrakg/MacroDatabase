@@ -2,8 +2,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Colombia": {
       "id": "COLLRINTTMASTM",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Inactivity Rate: Aged 15 and over: Males for Colombia",
       "observation_start": "2007-01-01",
       "observation_end": "2022-09-01",
@@ -23,8 +23,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Colombia": {
       "id": "COLLRINTTMASTQ",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Inactivity Rate: Aged 15 and over: Males for Colombia",
       "observation_start": "2007-01-01",
       "observation_end": "2022-07-01",
@@ -44,8 +44,8 @@
   "Percent_Monthly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLLRINTTMASTSAM",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Inactivity Rate: Aged 15 and over: Males for Colombia",
       "observation_start": "2007-01-01",
       "observation_end": "2022-09-01",
@@ -65,8 +65,8 @@
   "Percent_Quarterly_Seasonally Adjusted": {
     "Colombia": {
       "id": "COLLRINTTMASTSAQ",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Inactivity Rate: Aged 15 and over: Males for Colombia",
       "observation_start": "2007-01-01",
       "observation_end": "2022-07-01",

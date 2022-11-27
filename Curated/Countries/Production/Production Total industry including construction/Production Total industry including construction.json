@@ -2,8 +2,8 @@
   "Growth rate previous period_Monthly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRIPRINTO02GPSAM",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Production: Industry: Total industry: Total industry including construction for Costa Rica",
       "observation_start": "1991-02-01",
       "observation_end": "2022-08-01",
@@ -14,8 +14,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-14 14:58:30-06",
-      "popularity": 3,
-      "group_popularity": 7,
+      "popularity": 1,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO02 OECD unit ID: GPSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     }
@@ -23,8 +23,8 @@
   "Growth rate previous period_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRIPRINTO02GPSAQ",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Production: Industry: Total industry: Total industry including construction for Costa Rica",
       "observation_start": "1991-04-01",
       "observation_end": "2022-04-01",
@@ -36,7 +36,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-14 14:41:27-06",
       "popularity": 1,
-      "group_popularity": 7,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO02 OECD unit ID: GPSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     }
@@ -44,8 +44,8 @@
   "Growth rate same period previous year_Monthly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRIPRINTO02GYSAM",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Production: Industry: Total industry: Total industry including construction for Costa Rica",
       "observation_start": "1992-01-01",
       "observation_end": "2022-08-01",
@@ -56,8 +56,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-14 14:58:30-06",
-      "popularity": 4,
-      "group_popularity": 7,
+      "popularity": 1,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO02 OECD unit ID: GYSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     }
@@ -65,8 +65,8 @@
   "Growth rate same period previous year_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRIPRINTO02GYSAQ",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Production: Industry: Total industry: Total industry including construction for Costa Rica",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -78,7 +78,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-14 15:14:46-06",
       "popularity": 0,
-      "group_popularity": 7,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO02 OECD unit ID: GYSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     }
@@ -86,8 +86,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRIPRINTO02IXOBSAM",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Production: Industry: Total industry: Total industry including construction for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-08-01",
@@ -98,8 +98,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-14 14:58:30-06",
-      "popularity": 5,
-      "group_popularity": 7,
+      "popularity": 1,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO02 OECD unit ID: IXOBSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     }
@@ -107,8 +107,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Costa Rica": {
       "id": "CRIPRINTO02IXOBSAQ",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Production: Industry: Total industry: Total industry including construction for Costa Rica",
       "observation_start": "1991-01-01",
       "observation_end": "2022-04-01",
@@ -120,7 +120,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-14 15:14:46-06",
       "popularity": 1,
-      "group_popularity": 7,
+      "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO02 OECD unit ID: IXOBSA OECD country ID: CRI All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Costa Rica"
     }

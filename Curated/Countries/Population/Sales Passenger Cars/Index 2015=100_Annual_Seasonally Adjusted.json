@@ -1,8 +1,8 @@
 {
   "Czech Republic": {
     "id": "CZESACRAISMEI",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Sales: Retail Trade: Car Registration: Passenger Cars for the Czech Republic",
     "observation_start": "2003-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLSACRQISMEI",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Chile",
     "observation_start": "1994-01-01",
     "observation_end": "2018-10-01",

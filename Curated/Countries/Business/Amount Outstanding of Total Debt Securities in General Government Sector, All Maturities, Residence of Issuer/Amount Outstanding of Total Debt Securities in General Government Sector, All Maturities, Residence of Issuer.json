@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "TDSAMRIAOGGSA",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Amount Outstanding of Total Debt Securities in General Government Sector, All Maturities, Residence of Issuer in Saudi Arabia",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "TDSAMRIAOGGAR",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Amount Outstanding of Total Debt Securities in General Government Sector, All Maturities, Residence of Issuer in Argentina",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Croatia": {
     "id": "TDSAMRIAOGGHR",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Amount Outstanding of Total Debt Securities in General Government Sector, All Maturities, Residence of Issuer in Croatia",
     "observation_start": "1995-10-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "TDSAMRIAOGGCY",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Amount Outstanding of Total Debt Securities in General Government Sector, All Maturities, Residence of Issuer in Cyprus",
     "observation_start": "2004-01-01",
     "observation_end": "2022-01-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "TDSAMRIAOGGMT",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Amount Outstanding of Total Debt Securities in General Government Sector, All Maturities, Residence of Issuer in Malta",
     "observation_start": "2004-01-01",
     "observation_end": "2022-01-01",

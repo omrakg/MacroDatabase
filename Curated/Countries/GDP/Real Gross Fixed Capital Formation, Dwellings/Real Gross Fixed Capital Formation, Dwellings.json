@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Argentina": {
       "id": "NFIDRNSAXDCARQ",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Real Gross Fixed Capital Formation, Dwellings for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2022-04-01",
@@ -22,8 +22,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Argentina": {
       "id": "NFIDRXDCARA",
-      "realtime_start": "2022-11-20",
-      "realtime_end": "2022-11-20",
+      "realtime_start": "2022-11-27",
+      "realtime_end": "2022-11-27",
       "title": "Real Gross Fixed Capital Formation, Dwellings for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",

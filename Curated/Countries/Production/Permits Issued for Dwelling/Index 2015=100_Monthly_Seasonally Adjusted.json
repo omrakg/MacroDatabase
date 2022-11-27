@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRPERMITMISMEI",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Permits Issued for Dwelling in Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Hungary": {
     "id": "HUNPERMITQISMEI",
-    "realtime_start": "2022-11-20",
-    "realtime_end": "2022-11-20",
+    "realtime_start": "2022-11-27",
+    "realtime_end": "2022-11-27",
     "title": "Permits Issued for Dwelling in Hungary",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
