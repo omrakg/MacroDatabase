@@ -7,10 +7,10 @@
 | AVELISPRI16940            | Housing Inventory: Average Listing Price in Cheyenne, WY (CBSA)                                               | 2016-07-01          | 2022-10-01        |
 | AVELISPRIMM16940          | Housing Inventory: Average Listing Price Month-Over-Month in Cheyenne, WY (CBSA)                              | 2017-07-01          | 2022-10-01        |
 | AVELISPRIYY16940          | Housing Inventory: Average Listing Price Year-Over-Year in Cheyenne, WY (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| CHEY956BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cheyenne, WY (MSA)            | 1988-01-01          | 2022-09-01        |
-| CHEY956BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cheyenne, WY (MSA)            | 1988-01-01          | 2022-09-01        |
-| CHEY956BPPRIV             | New Private Housing Units Authorized by Building Permits for Cheyenne, WY (MSA)                               | 1988-01-01          | 2022-09-01        |
-| CHEY956BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Cheyenne, WY (MSA)                               | 1988-01-01          | 2022-09-01        |
+| CHEY956BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cheyenne, WY (MSA)            | 1988-01-01          | 2022-10-01        |
+| CHEY956BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cheyenne, WY (MSA)            | 1988-01-01          | 2022-10-01        |
+| CHEY956BPPRIV             | New Private Housing Units Authorized by Building Permits for Cheyenne, WY (MSA)                               | 1988-01-01          | 2022-10-01        |
+| CHEY956BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Cheyenne, WY (MSA)                               | 1988-01-01          | 2022-10-01        |
 | CHEY956EDUH               | All Employees: Education and Health Services in Cheyenne, WY (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | CHEY956EDUHN              | All Employees: Education and Health Services in Cheyenne, WY (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | CHEY956FIRE               | All Employees: Financial Activities in Cheyenne, WY (MSA)                                                     | 1990-01-01          | 2022-10-01        |

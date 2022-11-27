@@ -66,10 +66,10 @@
 | PENLISCOU38940            | Housing Inventory: Pending Listing Count in Port St. Lucie, FL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
 | PENLISCOUMM38940          | Housing Inventory: Pending Listing Count Month-Over-Month in Port St. Lucie, FL (CBSA)                              | 2017-07-01          | 2022-10-01        |
 | PENLISCOUYY38940          | Housing Inventory: Pending Listing Count Year-Over-Year in Port St. Lucie, FL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PORT912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-09-01        |
-| PORT912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-09-01        |
-| PORT912BPPRIV             | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-09-01        |
-| PORT912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-09-01        |
+| PORT912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-10-01        |
+| PORT912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Port St. Lucie, FL (MSA)            | 1993-01-01          | 2022-10-01        |
+| PORT912BPPRIV             | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-10-01        |
+| PORT912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Port St. Lucie, FL (MSA)                               | 1993-01-01          | 2022-10-01        |
 | PORT912EDUH               | All Employees: Education and Health Services in Port St. Lucie, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | PORT912EDUHN              | All Employees: Education and Health Services in Port St. Lucie, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | PORT912FIRE               | All Employees: Financial Activities in Port St. Lucie, FL (MSA)                                                     | 1990-01-01          | 2022-10-01        |

@@ -108,10 +108,10 @@
 | SMU34472209093000001      | All Employees: Government: Local Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | SMU34472209093000001A     | All Employees: Local Government in Vineland-Bridgeton, NJ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
 | SMU34472209093000001SA    | All Employees: Government: Local Government in Vineland-Bridgeton, NJ (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| VINE234BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Vineland-Bridgeton, NJ (MSA)           | 1988-01-01          | 2022-09-01        |
-| VINE234BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Vineland-Bridgeton, NJ (MSA)           | 1988-01-01          | 2022-09-01        |
-| VINE234BPPRIV             | New Private Housing Structures Authorized by Building Permits for Vineland-Bridgeton, NJ (MSA)                         | 1988-01-01          | 2022-09-01        |
-| VINE234BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for Vineland-Bridgeton, NJ (MSA)                         | 1988-01-01          | 2022-09-01        |
+| VINE234BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Vineland-Bridgeton, NJ (MSA)           | 1988-01-01          | 2022-10-01        |
+| VINE234BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Vineland-Bridgeton, NJ (MSA)           | 1988-01-01          | 2022-10-01        |
+| VINE234BPPRIV             | New Private Housing Structures Authorized by Building Permits for Vineland-Bridgeton, NJ (MSA)                         | 1988-01-01          | 2022-10-01        |
+| VINE234BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for Vineland-Bridgeton, NJ (MSA)                         | 1988-01-01          | 2022-10-01        |
 | VINE234EDUH               | All Employees: Education and Health Services in Vineland-Bridgeton, NJ (MSA)                                           | 1990-01-01          | 2022-10-01        |
 | VINE234EDUHN              | All Employees: Education and Health Services in Vineland-Bridgeton, NJ (MSA)                                           | 1990-01-01          | 2022-10-01        |
 | VINE234FIRE               | All Employees: Financial Activities in Vineland-Bridgeton, NJ (MSA)                                                    | 1990-01-01          | 2022-10-01        |

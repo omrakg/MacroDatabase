@@ -20,10 +20,10 @@
 | ENUC230640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC230640510             | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC230640510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| FORT018BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-09-01        |
-| FORT018BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-09-01        |
-| FORT018BPPRIV             | New Private Housing Units Authorized by Building Permits for Fort Wayne, in (MSA)                               | 1988-01-01          | 2022-09-01        |
-| FORT018BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Fort Wayne, IN (MSA)                               | 1988-01-01          | 2022-09-01        |
+| FORT018BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-10-01        |
+| FORT018BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-10-01        |
+| FORT018BPPRIV             | New Private Housing Units Authorized by Building Permits for Fort Wayne, in (MSA)                               | 1988-01-01          | 2022-10-01        |
+| FORT018BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Fort Wayne, IN (MSA)                               | 1988-01-01          | 2022-10-01        |
 | FORT018EDUH               | All Employees: Education and Health Services in Fort Wayne, IN (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FORT018EDUHN              | All Employees: Education and Health Services in Fort Wayne, IN (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FORT018FIRE               | All Employees: Financial Activities in Fort Wayne, IN (MSA)                                                     | 1990-01-01          | 2022-10-01        |

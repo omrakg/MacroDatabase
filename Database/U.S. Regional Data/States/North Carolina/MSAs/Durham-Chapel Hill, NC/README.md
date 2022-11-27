@@ -1,10 +1,10 @@
 | id                     | title                                                                                                                               | observation_start   | observation_end   |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS20500Q         | All-Transactions House Price Index for Durham-Chapel Hill, NC (MSA)                                                                 | 1978-07-01          | 2022-04-01        |
-| DURH537BP1FH           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Durham-Chapel Hill, NC (MSA)                        | 2004-01-01          | 2022-09-01        |
-| DURH537BP1FHSA         | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Durham-Chapel Hill, NC (MSA)                        | 2004-01-01          | 2022-09-01        |
-| DURH537BPPRIV          | New Private Housing Structures Authorized by Building Permits for Durham-Chapel Hill, NC (MSA)                                      | 2004-01-01          | 2022-09-01        |
-| DURH537BPPRIVSA        | New Private Housing Structures Authorized by Building Permits for Durham-Chapel Hill, NC (MSA)                                      | 2004-01-01          | 2022-09-01        |
+| DURH537BP1FH           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Durham-Chapel Hill, NC (MSA)                        | 2004-01-01          | 2022-10-01        |
+| DURH537BP1FHSA         | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Durham-Chapel Hill, NC (MSA)                        | 2004-01-01          | 2022-10-01        |
+| DURH537BPPRIV          | New Private Housing Structures Authorized by Building Permits for Durham-Chapel Hill, NC (MSA)                                      | 2004-01-01          | 2022-10-01        |
+| DURH537BPPRIVSA        | New Private Housing Structures Authorized by Building Permits for Durham-Chapel Hill, NC (MSA)                                      | 2004-01-01          | 2022-10-01        |
 | DURH537EDUH            | All Employees: Education and Health Services in Durham-Chapel Hill, NC (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | DURH537EDUHN           | All Employees: Education and Health Services in Durham-Chapel Hill, NC (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | DURH537FIRE            | All Employees: Financial Activities in Durham-Chapel Hill, NC (MSA)                                                                 | 1990-01-01          | 2022-10-01        |

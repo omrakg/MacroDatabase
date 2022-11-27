@@ -1,7 +1,7 @@
 | id                  | title                                                                                              | observation_start   | observation_end   |
 |---------------------|----------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | AUSPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Australia              | 1960-01-01          | 2021-01-01        |
-| AUSPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Australia              | 1960-01-01          | 2022-07-01        |
+| AUSPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Australia              | 1960-01-01          | 2022-09-01        |
 | AUSPROCONAISMEI     | Production: Construction: Total Construction: Total for Australia                                  | 1975-01-01          | 2021-01-01        |
 | AUSPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Australia          | 1975-01-01          | 2021-01-01        |
 | AUSPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Australia          | 1974-07-01          | 2022-04-01        |
@@ -9,21 +9,21 @@
 | AUSSACRAISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Australia                                | 1994-01-01          | 2020-01-01        |
 | AUSSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Australia                                | 1994-01-01          | 2017-12-01        |
 | AUSSARTAISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Australia                                      | 1984-01-01          | 2021-01-01        |
-| AUSSARTMDSMEI       | Sales: Retail Trade: Total Retail Trade: Value for Australia                                       | 1982-04-01          | 2022-07-01        |
+| AUSSARTMDSMEI       | Sales: Retail Trade: Total Retail Trade: Value for Australia                                       | 1982-04-01          | 2022-09-01        |
 | AUTPROCONAISMEI     | Production: Construction: Total Construction: Total for Austria                                    | 1996-01-01          | 2021-01-01        |
-| AUTPROCONMISMEI     | Production: Construction: Total Construction: Total for Austria                                    | 1996-01-01          | 2022-06-01        |
+| AUTPROCONMISMEI     | Production: Construction: Total Construction: Total for Austria                                    | 1996-01-01          | 2022-08-01        |
 | AUTPROCONQISMEI     | Production: Construction: Total Construction: Total for Austria                                    | 1996-01-01          | 2022-04-01        |
 | AUTPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Austria            | 1960-01-01          | 2021-01-01        |
-| AUTPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Austria            | 1960-01-01          | 2022-06-01        |
+| AUTPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Austria            | 1960-01-01          | 2022-07-01        |
 | AUTPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Austria            | 1960-01-01          | 2022-04-01        |
 | AUTPROMANAISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Austria                    | 1960-01-01          | 2021-01-01        |
-| AUTPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Austria                    | 1960-01-01          | 2022-06-01        |
+| AUTPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Austria                    | 1960-01-01          | 2022-07-01        |
 | AUTPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Austria                    | 1960-01-01          | 2022-04-01        |
 | AUTSACRAISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Austria                                  | 1960-01-01          | 2021-01-01        |
 | AUTSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Austria                                  | 1960-01-01          | 2022-03-01        |
 | AUTSACRQISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Austria                                  | 1960-01-01          | 2022-01-01        |
 | AUTSARTAISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Austria                                        | 1973-01-01          | 2021-01-01        |
-| AUTSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Austria                                        | 1973-01-01          | 2022-07-01        |
+| AUTSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Austria                                        | 1973-01-01          | 2022-08-01        |
 | AUTSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Austria                                        | 1973-01-01          | 2022-04-01        |
 | BABANAICS11NSAUS    | Business Applications: Agriculture in the United States                                            | 2004-07-01          | 2022-10-01        |
 | BABANAICS11SAUS     | Business Applications: Agriculture in the United States                                            | 2004-07-01          | 2022-10-01        |
@@ -634,23 +634,23 @@
 | BAWBATOTALSAWV      | Business Applications with Planned Wages: Total for All NAICS in West Virginia                     | 2004-07-01          | 2022-10-01        |
 | BAWBATOTALSAWY      | Business Applications with Planned Wages: Total for All NAICS in Wyoming                           | 2004-07-01          | 2022-10-01        |
 | BELPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Belgium                | 1968-01-01          | 2021-01-01        |
-| BELPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Belgium                | 1968-01-01          | 2022-05-01        |
-| BELPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Belgium                | 1968-01-01          | 2022-01-01        |
+| BELPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Belgium                | 1968-01-01          | 2022-06-01        |
+| BELPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Belgium                | 1968-01-01          | 2022-04-01        |
 | BELPROCONAISMEI     | Production: Construction: Total Construction: Total for Belgium                                    | 1960-01-01          | 2021-01-01        |
-| BELPROCONMISMEI     | Production: Construction: Total Construction: Total for Belgium                                    | 2000-01-01          | 2022-06-01        |
+| BELPROCONMISMEI     | Production: Construction: Total Construction: Total for Belgium                                    | 2000-01-01          | 2022-08-01        |
 | BELPROCONQISMEI     | Production: Construction: Total Construction: Total for Belgium                                    | 2000-01-01          | 2022-04-01        |
 | BELPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Belgium            | 1960-01-01          | 2021-01-01        |
-| BELPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Belgium            | 1960-01-01          | 2022-06-01        |
+| BELPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Belgium            | 1960-01-01          | 2022-08-01        |
 | BELPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Belgium            | 1960-01-01          | 2022-04-01        |
 | BELPROMANAISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Belgium                    | 1960-01-01          | 2021-01-01        |
-| BELPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Belgium                    | 1960-01-01          | 2022-06-01        |
+| BELPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Belgium                    | 1960-01-01          | 2022-08-01        |
 | BELPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Belgium                    | 1960-01-01          | 2022-04-01        |
 | BELSACRAISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Belgium                                  | 1960-01-01          | 2020-01-01        |
-| BELSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Belgium                                  | 1960-01-01          | 2022-08-01        |
+| BELSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Belgium                                  | 1960-01-01          | 2022-09-01        |
 | BELSACRQISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Belgium                                  | 1960-01-01          | 2018-07-01        |
 | BELSARTAISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Belgium                                        | 1969-01-01          | 2021-01-01        |
-| BELSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Belgium                                        | 1969-01-01          | 2022-07-01        |
-| BELSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Belgium                                        | 1969-01-01          | 2022-04-01        |
+| BELSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Belgium                                        | 1969-01-01          | 2022-09-01        |
+| BELSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Belgium                                        | 1969-01-01          | 2022-07-01        |
 | BFBF4QNAICS11NSAUS  | Business Formations Within Four Quarters: Agriculture in the United States                         | 2004-07-01          | 2019-12-01        |
 | BFBF4QNAICS11SAUS   | Business Formations Within Four Quarters: Agriculture in the United States                         | 2004-07-01          | 2019-12-01        |
 | BFBF4QNAICS21NSAUS  | Business Formations Within Four Quarters: Mining in the United States                              | 2004-07-01          | 2019-12-01        |
@@ -836,8 +836,8 @@
 | BFBF8QNAICS81NSAUS  | Business Formations Within Eight Quarters: Other Services in the United States                     | 2004-07-01          | 2018-12-01        |
 | BFBF8QNAICS81SAUS   | Business Formations Within Eight Quarters: Other Services in the United States                     | 2004-07-01          | 2018-12-01        |
 | BRAPROCONAISMEI     | Production: Construction: Total Construction: Total for Brazil                                     | 1986-01-01          | 2021-01-01        |
-| BRAPROCONMISMEI     | Production: Construction: Total Construction: Total for Brazil                                     | 1986-01-01          | 2018-12-01        |
-| BRAPROCONQISMEI     | Production: Construction: Total Construction: Total for Brazil                                     | 1986-01-01          | 2018-10-01        |
+| BRAPROCONMISMEI     | Production: Construction: Total Construction: Total for Brazil                                     | 1986-01-01          | 2022-01-01        |
+| BRAPROCONQISMEI     | Production: Construction: Total Construction: Total for Brazil                                     | 1986-01-01          | 2021-10-01        |
 | BRAPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Brazil             | 1975-01-01          | 2021-01-01        |
 | BRAPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Brazil             | 1975-01-01          | 2022-05-01        |
 | BRAPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Brazil             | 1975-01-01          | 2022-01-01        |
@@ -848,16 +848,16 @@
 | BRASARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Brazil                                         | 2000-01-01          | 2022-04-01        |
 | BRASARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Brazil                                         | 2000-01-01          | 2022-01-01        |
 | CANPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Canada                 | 1960-01-01          | 2021-01-01        |
-| CANPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Canada                 | 1960-01-01          | 2022-07-01        |
+| CANPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Canada                 | 1960-01-01          | 2022-08-01        |
 | CANPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Canada                 | 1960-01-01          | 2022-04-01        |
 | CANPROCONAISMEI     | Production: Construction: Total Construction: Total for Canada                                     | 1961-01-01          | 2021-01-01        |
-| CANPROCONMISMEI     | Production: Construction: Total Construction: Total for Canada                                     | 1961-01-01          | 2022-06-01        |
+| CANPROCONMISMEI     | Production: Construction: Total Construction: Total for Canada                                     | 1961-01-01          | 2022-08-01        |
 | CANPROCONQISMEI     | Production: Construction: Total Construction: Total for Canada                                     | 1961-01-01          | 2022-04-01        |
 | CANPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Canada             | 1961-01-01          | 2021-01-01        |
-| CANPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Canada             | 1961-01-01          | 2022-06-01        |
+| CANPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Canada             | 1961-01-01          | 2022-08-01        |
 | CANPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Canada             | 1961-01-01          | 2022-04-01        |
 | CANPROMANAISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Canada                     | 1961-01-01          | 2021-01-01        |
-| CANPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Canada                     | 1961-01-01          | 2022-06-01        |
+| CANPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Canada                     | 1961-01-01          | 2022-08-01        |
 | CANPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Canada                     | 1961-01-01          | 2022-04-01        |
 | CANSACRAISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Canada                                   | 1960-01-01          | 2018-01-01        |
 | CANSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Canada                                   | 1960-01-01          | 2018-12-01        |
@@ -876,20 +876,20 @@
 | CHESACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Switzerland                              | 1960-01-01          | 2018-12-01        |
 | CHESACRQISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Switzerland                              | 1960-01-01          | 2018-07-01        |
 | CHESARTAISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Switzerland                                    | 1960-01-01          | 2021-01-01        |
-| CHESARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Switzerland                                    | 1960-01-01          | 2022-07-01        |
-| CHESARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Switzerland                                    | 1960-01-01          | 2022-04-01        |
+| CHESARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Switzerland                                    | 1960-01-01          | 2022-09-01        |
+| CHESARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Switzerland                                    | 1960-01-01          | 2022-07-01        |
 | CHLPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile                  | 1991-01-01          | 2021-01-01        |
-| CHLPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile                  | 1991-01-01          | 2022-07-01        |
-| CHLPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile                  | 1991-01-01          | 2022-04-01        |
+| CHLPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile                  | 1991-01-01          | 2022-09-01        |
+| CHLPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Chile                  | 1991-01-01          | 2022-07-01        |
 | CHLPROCONAISMEI     | Production: Construction: Total Construction: Total for Chile                                      | 1991-01-01          | 2021-01-01        |
-| CHLPROCONMISMEI     | Production: Construction: Total Construction: Total for Chile                                      | 1991-01-01          | 2022-07-01        |
-| CHLPROCONQISMEI     | Production: Construction: Total Construction: Total for Chile                                      | 1991-01-01          | 2022-04-01        |
+| CHLPROCONMISMEI     | Production: Construction: Total Construction: Total for Chile                                      | 1991-01-01          | 2022-09-01        |
+| CHLPROCONQISMEI     | Production: Construction: Total Construction: Total for Chile                                      | 1991-01-01          | 2022-07-01        |
 | CHLPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Chile              | 1991-01-01          | 2021-01-01        |
-| CHLPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Chile              | 1991-04-01          | 2022-07-01        |
-| CHLPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Chile              | 1991-04-01          | 2022-04-01        |
+| CHLPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Chile              | 1991-04-01          | 2022-09-01        |
+| CHLPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Chile              | 1991-04-01          | 2022-07-01        |
 | CHLPROMANAISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile                      | 1991-01-01          | 2021-01-01        |
-| CHLPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile                      | 1991-01-01          | 2022-07-01        |
-| CHLPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile                      | 1991-01-01          | 2022-04-01        |
+| CHLPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile                      | 1991-01-01          | 2022-09-01        |
+| CHLPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Chile                      | 1991-01-01          | 2022-07-01        |
 | CHLSACRAISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Chile                                    | 1994-01-01          | 2020-01-01        |
 | CHLSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Chile                                    | 1994-01-01          | 2018-12-01        |
 | CHLSACRQISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Chile                                    | 1994-01-01          | 2018-10-01        |
@@ -897,178 +897,178 @@
 | CHLSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Chile                                          | 2005-01-01          | 2018-12-01        |
 | CHLSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Chile                                          | 2005-01-01          | 2018-10-01        |
 | CZEPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for the Czech Republic     | 1999-01-01          | 2021-01-01        |
-| CZEPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for the Czech Republic     | 1999-01-01          | 2022-01-01        |
+| CZEPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for the Czech Republic     | 1999-01-01          | 2022-04-01        |
 | CZEPROCONAISMEI     | Production: Construction: Total Construction: Total for the Czech Republic                         | 1995-01-01          | 2021-01-01        |
-| CZEPROCONMISMEI     | Production: Construction: Total Construction: Total for the Czech Republic                         | 1995-01-01          | 2022-06-01        |
+| CZEPROCONMISMEI     | Production: Construction: Total Construction: Total for the Czech Republic                         | 1995-01-01          | 2022-08-01        |
 | CZEPROCONQISMEI     | Production: Construction: Total Construction: Total for the Czech Republic                         | 1995-01-01          | 2022-04-01        |
 | CZEPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for the Czech Republic | 1990-01-01          | 2021-01-01        |
-| CZEPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for the Czech Republic | 1990-01-01          | 2022-06-01        |
+| CZEPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for the Czech Republic | 1990-01-01          | 2022-08-01        |
 | CZEPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for the Czech Republic | 1990-01-01          | 2022-04-01        |
 | CZEPROMANAISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for the Czech Republic         | 1991-01-01          | 2021-01-01        |
-| CZEPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for the Czech Republic         | 1991-01-01          | 2022-06-01        |
+| CZEPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for the Czech Republic         | 1991-01-01          | 2022-08-01        |
 | CZEPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for the Czech Republic         | 1991-01-01          | 2022-04-01        |
 | CZESACRAISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for the Czech Republic                       | 2003-01-01          | 2020-01-01        |
 | CZESACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for the Czech Republic                       | 2003-01-01          | 2018-12-01        |
 | CZESACRQISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for the Czech Republic                       | 2003-01-01          | 2018-10-01        |
 | CZESARTAISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for the Czech Republic                             | 1996-01-01          | 2021-01-01        |
-| CZESARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for the Czech Republic                             | 1996-01-01          | 2022-06-01        |
+| CZESARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for the Czech Republic                             | 1996-01-01          | 2022-08-01        |
 | CZESARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for the Czech Republic                             | 1996-01-01          | 2022-04-01        |
 | DEUPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Germany                | 1994-01-01          | 2021-01-01        |
-| DEUPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Germany                | 1994-01-01          | 2022-06-01        |
+| DEUPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Germany                | 1994-01-01          | 2022-07-01        |
 | DEUPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Germany                | 1994-01-01          | 2022-04-01        |
 | DEUPROCONAISMEI     | Production: Construction: Total Construction: Total for Germany                                    | 1960-01-01          | 2021-01-01        |
-| DEUPROCONMISMEI     | Production: Construction: Total Construction: Total for Germany                                    | 1962-01-01          | 2022-06-01        |
+| DEUPROCONMISMEI     | Production: Construction: Total Construction: Total for Germany                                    | 1962-01-01          | 2022-08-01        |
 | DEUPROCONQISMEI     | Production: Construction: Total Construction: Total for Germany                                    | 1962-01-01          | 2022-04-01        |
 | DEUPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Germany            | 1960-01-01          | 2021-01-01        |
-| DEUPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Germany            | 1960-01-01          | 2022-06-01        |
+| DEUPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Germany            | 1960-01-01          | 2022-08-01        |
 | DEUPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Germany            | 1960-01-01          | 2022-04-01        |
 | DEUPROMANAISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Germany                    | 1960-01-01          | 2021-01-01        |
-| DEUPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Germany                    | 1960-01-01          | 2022-06-01        |
+| DEUPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Germany                    | 1960-01-01          | 2022-08-01        |
 | DEUPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Germany                    | 1960-01-01          | 2022-04-01        |
 | DEUSARTAISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Germany                                        | 1960-01-01          | 2021-01-01        |
-| DEUSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Germany                                        | 1960-01-01          | 2022-06-01        |
-| DEUSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Germany                                        | 1960-01-01          | 2022-04-01        |
+| DEUSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Germany                                        | 1960-01-01          | 2022-09-01        |
+| DEUSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Germany                                        | 1960-01-01          | 2022-07-01        |
 | DNKPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Denmark                | 1998-01-01          | 2021-01-01        |
-| DNKPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Denmark                | 1998-01-01          | 2022-01-01        |
+| DNKPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Denmark                | 1998-01-01          | 2022-04-01        |
 | DNKPROCONAISMEI     | Production: Construction: Total Construction: Total for Denmark                                    | 1995-01-01          | 2021-01-01        |
 | DNKPROCONQISMEI     | Production: Construction: Total Construction: Total for Denmark                                    | 1995-01-01          | 2022-04-01        |
 | DNKPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Denmark            | 1974-01-01          | 2021-01-01        |
-| DNKPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Denmark            | 1974-01-01          | 2022-06-01        |
+| DNKPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Denmark            | 1974-01-01          | 2022-08-01        |
 | DNKPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Denmark            | 1974-01-01          | 2022-04-01        |
 | DNKPROMANAISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Denmark                    | 1974-01-01          | 2021-01-01        |
-| DNKPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Denmark                    | 1974-01-01          | 2022-06-01        |
+| DNKPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Denmark                    | 1974-01-01          | 2022-08-01        |
 | DNKPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Denmark                    | 1974-01-01          | 2022-04-01        |
 | DNKSACRAISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Denmark                                  | 1960-01-01          | 2020-01-01        |
-| DNKSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Denmark                                  | 1960-01-01          | 2022-07-01        |
+| DNKSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Denmark                                  | 1960-01-01          | 2022-09-01        |
 | DNKSACRQISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Denmark                                  | 1960-01-01          | 2018-07-01        |
 | DNKSARTAISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Denmark                                        | 1968-01-01          | 2021-01-01        |
-| DNKSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Denmark                                        | 1968-01-01          | 2022-07-01        |
-| DNKSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Denmark                                        | 1968-01-01          | 2022-04-01        |
+| DNKSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Denmark                                        | 1968-01-01          | 2022-09-01        |
+| DNKSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Denmark                                        | 1968-01-01          | 2022-07-01        |
 | ESPPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Spain                  | 1995-01-01          | 2021-01-01        |
-| ESPPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Spain                  | 1995-01-01          | 2022-05-01        |
-| ESPPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Spain                  | 1995-01-01          | 2022-01-01        |
+| ESPPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Spain                  | 1995-01-01          | 2022-06-01        |
+| ESPPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Spain                  | 1995-01-01          | 2022-04-01        |
 | ESPPROCONAISMEI     | Production: Construction: Total Construction: Total for Spain                                      | 1988-01-01          | 2021-01-01        |
-| ESPPROCONMISMEI     | Production: Construction: Total Construction: Total for Spain                                      | 1988-01-01          | 2022-06-01        |
+| ESPPROCONMISMEI     | Production: Construction: Total Construction: Total for Spain                                      | 1988-01-01          | 2022-08-01        |
 | ESPPROCONQISMEI     | Production: Construction: Total Construction: Total for Spain                                      | 1988-01-01          | 2022-04-01        |
 | ESPPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Spain              | 1965-01-01          | 2021-01-01        |
-| ESPPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Spain              | 1965-01-01          | 2022-06-01        |
+| ESPPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Spain              | 1965-01-01          | 2022-08-01        |
 | ESPPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Spain              | 1965-01-01          | 2022-04-01        |
 | ESPPROMANAISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Spain                      | 1961-01-01          | 2021-01-01        |
-| ESPPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Spain                      | 1961-01-01          | 2022-06-01        |
+| ESPPROMANMISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Spain                      | 1961-01-01          | 2022-08-01        |
 | ESPPROMANQISMEI     | Production: Manufacturing: Total Manufacturing: Total Manufacturing for Spain                      | 1961-01-01          | 2022-04-01        |
 | ESPSACRAISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Spain                                    | 1960-01-01          | 2020-01-01        |
-| ESPSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Spain                                    | 1960-01-01          | 2022-08-01        |
+| ESPSACRMISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Spain                                    | 1960-01-01          | 2022-10-01        |
 | ESPSACRQISMEI       | Sales: Retail Trade: Car Registration: Passenger Cars for Spain                                    | 1960-01-01          | 2018-07-01        |
 | ESPSARTAISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Spain                                          | 1995-01-01          | 2021-01-01        |
-| ESPSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Spain                                          | 1995-01-01          | 2022-07-01        |
-| ESPSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Spain                                          | 1995-01-01          | 2022-04-01        |
+| ESPSARTMISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Spain                                          | 1995-01-01          | 2022-09-01        |
+| ESPSARTQISMEI       | Sales: Retail Trade: Total Retail Trade: Volume for Spain                                          | 1995-01-01          | 2022-07-01        |
 | FINPERMITAISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Finland                | 1960-01-01          | 2021-01-01        |
-| FINPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Finland                | 1960-01-01          | 2022-05-01        |
-| FINPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Finland                | 1960-01-01          | 2022-01-01        |
+| FINPERMITMISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Finland                | 1960-01-01          | 2022-06-01        |
+| FINPERMITQISMEI     | Orders: Construction: Permits Issued: Dwellings / Residential Buildings for Finland                | 1960-01-01          | 2022-04-01        |
 | FINPROCONAISMEI     | Production: Construction: Total Construction: Total for Finland                                    | 1995-01-01          | 2021-01-01        |
-| FINPROCONMISMEI     | Production: Construction: Total Construction: Total for Finland                                    | 1995-01-01          | 2022-06-01        |
+| FINPROCONMISMEI     | Production: Construction: Total Construction: Total for Finland                                    | 1995-01-01          | 2022-08-01        |
 | FINPROCONQISMEI     | Production: Construction: Total Construction: Total for Finland                                    | 1995-01-01          | 2022-04-01        |
 | FINPROINDAISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Finland            | 1960-01-01          | 2021-01-01        |
-| FINPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Finland            | 1960-01-01          | 2022-06-01        |
+| FINPROINDMISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Finland            | 1960-01-01          | 2022-08-01        |
 | FINPROINDQISMEI     | Production: Industry: Total Industry: Total Industry Excluding Construction for Finland            | 1960-01-01          | 2022-04-01        |
 | FINPROMANAISMEI     | Production in Total Manufacturing for Finland                                                      | 1960-01-01          | 2021-01-01        |
-| FINPROMANMISMEI     | Production in Total Manufacturing for Finland                                                      | 1964-01-01          | 2022-06-01        |
+| FINPROMANMISMEI     | Production in Total Manufacturing for Finland                                                      | 1964-01-01          | 2022-08-01        |
 | FINPROMANQISMEI     | Production in Total Manufacturing for Finland                                                      | 1964-01-01          | 2022-04-01        |
 | FINSACRAISMEI       | Passenger Car Registrations in Finland                                                             | 1960-01-01          | 2020-01-01        |
 | FINSACRMISMEI       | Passenger Car Registrations in Finland                                                             | 1960-01-01          | 2018-12-01        |
 | FINSACRQISMEI       | Passenger Car Registrations in Finland                                                             | 1960-01-01          | 2018-07-01        |
 | FINSARTAISMEI       | Total Retail Trade in Finland                                                                      | 1960-01-01          | 2021-01-01        |
-| FINSARTMISMEI       | Total Retail Trade in Finland                                                                      | 1960-01-01          | 2022-07-01        |
-| FINSARTQISMEI       | Total Retail Trade in Finland                                                                      | 1960-01-01          | 2022-04-01        |
+| FINSARTMISMEI       | Total Retail Trade in Finland                                                                      | 1960-01-01          | 2022-09-01        |
+| FINSARTQISMEI       | Total Retail Trade in Finland                                                                      | 1960-01-01          | 2022-07-01        |
 | FRAPERMITAISMEI     | Permits Issued for Dwelling in France                                                              | 1960-01-01          | 2021-01-01        |
-| FRAPERMITMISMEI     | Permits Issued for Dwelling in France                                                              | 1960-01-01          | 2022-07-01        |
-| FRAPERMITQISMEI     | Permits Issued for Dwelling in France                                                              | 1960-01-01          | 2022-04-01        |
+| FRAPERMITMISMEI     | Permits Issued for Dwelling in France                                                              | 1960-01-01          | 2022-09-01        |
+| FRAPERMITQISMEI     | Permits Issued for Dwelling in France                                                              | 1960-01-01          | 2022-07-01        |
 | FRAPROCONAISMEI     | Production of Total Construction in France                                                         | 1960-01-01          | 2021-01-01        |
-| FRAPROCONMISMEI     | Production of Total Construction in France                                                         | 1960-01-01          | 2022-06-01        |
+| FRAPROCONMISMEI     | Production of Total Construction in France                                                         | 1960-01-01          | 2022-08-01        |
 | FRAPROCONQISMEI     | Production of Total Construction in France                                                         | 1960-01-01          | 2022-04-01        |
 | FRAPROINDAISMEI     | Production of Total Industry in France                                                             | 1960-01-01          | 2021-01-01        |
-| FRAPROINDMISMEI     | Production of Total Industry in France                                                             | 1960-01-01          | 2022-06-01        |
+| FRAPROINDMISMEI     | Production of Total Industry in France                                                             | 1960-01-01          | 2022-08-01        |
 | FRAPROINDQISMEI     | Production of Total Industry in France                                                             | 1960-01-01          | 2022-04-01        |
 | FRAPROMANAISMEI     | Production in Total Manufacturing for France                                                       | 1960-01-01          | 2021-01-01        |
-| FRAPROMANMISMEI     | Production in Total Manufacturing for France                                                       | 1960-01-01          | 2022-06-01        |
+| FRAPROMANMISMEI     | Production in Total Manufacturing for France                                                       | 1960-01-01          | 2022-08-01        |
 | FRAPROMANQISMEI     | Production in Total Manufacturing for France                                                       | 1960-01-01          | 2022-04-01        |
 | FRASARTAISMEI       | Total Retail Trade in France                                                                       | 1975-01-01          | 2021-01-01        |
-| FRASARTMISMEI       | Total Retail Trade in France                                                                       | 1975-01-01          | 2022-07-01        |
-| FRASARTQISMEI       | Total Retail Trade in France                                                                       | 1975-01-01          | 2022-04-01        |
+| FRASARTMISMEI       | Total Retail Trade in France                                                                       | 1975-01-01          | 2022-09-01        |
+| FRASARTQISMEI       | Total Retail Trade in France                                                                       | 1975-01-01          | 2022-07-01        |
 | GBRPERMITAISMEI     | Permits Issued for Dwelling in United Kingdom                                                      | 1966-01-01          | 2019-01-01        |
 | GBRPERMITQISMEI     | Permits Issued for Dwelling in United Kingdom                                                      | 1966-01-01          | 2020-07-01        |
 | GBRPROCONAISMEI     | Production of Total Construction in United Kingdom                                                 | 2010-01-01          | 2021-01-01        |
-| GBRPROCONQISMEI     | Production of Total Construction in United Kingdom                                                 | 1960-01-01          | 2022-01-01        |
+| GBRPROCONQISMEI     | Production of Total Construction in United Kingdom                                                 | 1960-01-01          | 2022-04-01        |
 | GBRPROINDAISMEI     | Production of Total Industry in United Kingdom                                                     | 1968-01-01          | 2021-01-01        |
-| GBRPROINDMISMEI     | Production of Total Industry in the United Kingdom                                                 | 1968-01-01          | 2022-06-01        |
+| GBRPROINDMISMEI     | Production of Total Industry in the United Kingdom                                                 | 1968-01-01          | 2022-08-01        |
 | GBRPROINDQISMEI     | Production of Total Industry in the United Kingdom                                                 | 1968-01-01          | 2022-04-01        |
 | GBRPROMANAISMEI     | Production in Total Manufacturing for United Kingdom                                               | 1968-01-01          | 2021-01-01        |
-| GBRPROMANMISMEI     | Production in Total Manufacturing for United Kingdom                                               | 1968-01-01          | 2022-06-01        |
+| GBRPROMANMISMEI     | Production in Total Manufacturing for United Kingdom                                               | 1968-01-01          | 2022-08-01        |
 | GBRPROMANQISMEI     | Production in Total Manufacturing for United Kingdom                                               | 1968-01-01          | 2022-04-01        |
 | GBRSACRAISMEI       | Passenger Car Registrations in United Kingdom                                                      | 1960-01-01          | 2020-01-01        |
-| GBRSACRMISMEI       | Passenger Car Registrations in United Kingdom                                                      | 1960-01-01          | 2022-08-01        |
+| GBRSACRMISMEI       | Passenger Car Registrations in United Kingdom                                                      | 1960-01-01          | 2022-10-01        |
 | GBRSACRQISMEI       | Passenger Car Registrations in United Kingdom                                                      | 1960-01-01          | 2018-07-01        |
 | GBRSARTAISMEI       | Total Retail Trade in United Kingdom                                                               | 1960-01-01          | 2021-01-01        |
-| GBRSARTMISMEI       | Total Retail Trade in the United Kingdom                                                           | 1960-01-01          | 2022-07-01        |
-| GBRSARTQISMEI       | Total Retail Trade in the United Kingdom                                                           | 1960-01-01          | 2022-04-01        |
+| GBRSARTMISMEI       | Total Retail Trade in the United Kingdom                                                           | 1960-01-01          | 2022-09-01        |
+| GBRSARTQISMEI       | Total Retail Trade in the United Kingdom                                                           | 1960-01-01          | 2022-07-01        |
 | GRCPERMITAISMEI     | Permits Issued for Dwelling in Greece                                                              | 1995-01-01          | 2021-01-01        |
-| GRCPERMITMISMEI     | Permits Issued for Dwelling in Greece                                                              | 1995-01-01          | 2022-05-01        |
-| GRCPERMITQISMEI     | Permits Issued for Dwelling in Greece                                                              | 1995-01-01          | 2022-01-01        |
+| GRCPERMITMISMEI     | Permits Issued for Dwelling in Greece                                                              | 1995-01-01          | 2022-06-01        |
+| GRCPERMITQISMEI     | Permits Issued for Dwelling in Greece                                                              | 1995-01-01          | 2022-04-01        |
 | GRCPROCONAISMEI     | Production of Total Construction in Greece                                                         | 2000-01-01          | 2021-01-01        |
-| GRCPROCONQISMEI     | Production of Total Construction in Greece                                                         | 2000-01-01          | 2022-01-01        |
+| GRCPROCONQISMEI     | Production of Total Construction in Greece                                                         | 2000-01-01          | 2022-04-01        |
 | GRCPROINDAISMEI     | Production of Total Industry in Greece                                                             | 1962-01-01          | 2021-01-01        |
-| GRCPROINDMISMEI     | Production of Total Industry in Greece                                                             | 1962-01-01          | 2022-06-01        |
+| GRCPROINDMISMEI     | Production of Total Industry in Greece                                                             | 1962-01-01          | 2022-08-01        |
 | GRCPROINDQISMEI     | Production of Total Industry in Greece                                                             | 1962-01-01          | 2022-04-01        |
 | GRCPROMANAISMEI     | Production in Total Manufacturing for Greece                                                       | 1960-01-01          | 2021-01-01        |
-| GRCPROMANMISMEI     | Production in Total Manufacturing for Greece                                                       | 1960-01-01          | 2022-06-01        |
+| GRCPROMANMISMEI     | Production in Total Manufacturing for Greece                                                       | 1960-01-01          | 2022-08-01        |
 | GRCPROMANQISMEI     | Production in Total Manufacturing for Greece                                                       | 1960-01-01          | 2022-04-01        |
 | GRCSACRAISMEI       | Passenger Car Registrations in Greece                                                              | 1964-01-01          | 2020-01-01        |
 | GRCSACRMISMEI       | Passenger Car Registrations in Greece                                                              | 1964-01-01          | 2018-12-01        |
 | GRCSACRQISMEI       | Passenger Car Registrations in Greece                                                              | 1964-01-01          | 2018-07-01        |
 | GRCSARTAISMEI       | Total Retail Trade in Greece                                                                       | 1963-01-01          | 2021-01-01        |
-| GRCSARTMISMEI       | Total Retail Trade in Greece                                                                       | 1963-01-01          | 2022-06-01        |
+| GRCSARTMISMEI       | Total Retail Trade in Greece                                                                       | 1963-01-01          | 2022-08-01        |
 | GRCSARTQISMEI       | Total Retail Trade in Greece                                                                       | 1963-01-01          | 2022-04-01        |
 | HUNPERMITAISMEI     | Permits Issued for Dwelling in Hungary                                                             | 1998-01-01          | 2021-01-01        |
-| HUNPERMITMISMEI     | Permits Issued for Dwelling in Hungary                                                             | 1998-01-01          | 2022-06-01        |
+| HUNPERMITMISMEI     | Permits Issued for Dwelling in Hungary                                                             | 1998-01-01          | 2022-07-01        |
 | HUNPERMITQISMEI     | Permits Issued for Dwelling in Hungary                                                             | 1998-01-01          | 2022-04-01        |
 | HUNPROCONAISMEI     | Production of Total Construction in Hungary                                                        | 1995-01-01          | 2021-01-01        |
-| HUNPROCONMISMEI     | Production of Total Construction in Hungary                                                        | 1995-01-01          | 2022-06-01        |
+| HUNPROCONMISMEI     | Production of Total Construction in Hungary                                                        | 1995-01-01          | 2022-08-01        |
 | HUNPROCONQISMEI     | Production of Total Construction in Hungary                                                        | 1995-01-01          | 2022-04-01        |
 | HUNPROINDAISMEI     | Production of Total Industry in Hungary                                                            | 1985-01-01          | 2021-01-01        |
-| HUNPROINDMISMEI     | Production of Total Industry in Hungary                                                            | 1985-01-01          | 2022-06-01        |
+| HUNPROINDMISMEI     | Production of Total Industry in Hungary                                                            | 1985-01-01          | 2022-08-01        |
 | HUNPROINDQISMEI     | Production of Total Industry in Hungary                                                            | 1985-01-01          | 2022-04-01        |
 | HUNPROMANAISMEI     | Production in Total Manufacturing for Hungary                                                      | 1992-01-01          | 2021-01-01        |
-| HUNPROMANMISMEI     | Production in Total Manufacturing for Hungary                                                      | 1992-01-01          | 2022-06-01        |
+| HUNPROMANMISMEI     | Production in Total Manufacturing for Hungary                                                      | 1992-01-01          | 2022-08-01        |
 | HUNPROMANQISMEI     | Production in Total Manufacturing for Hungary                                                      | 1992-01-01          | 2022-04-01        |
 | HUNSACRAISMEI       | Passenger Car Registrations in Hungary                                                             | 2003-01-01          | 2020-01-01        |
 | HUNSACRMISMEI       | Passenger Car Registrations in Hungary                                                             | 2003-01-01          | 2019-12-01        |
 | HUNSACRQISMEI       | Passenger Car Registrations in Hungary                                                             | 2003-01-01          | 2019-10-01        |
 | HUNSARTAISMEI       | Total Retail Trade in Hungary                                                                      | 1992-01-01          | 2021-01-01        |
-| HUNSARTMISMEI       | Total Retail Trade in Hungary                                                                      | 1992-01-01          | 2022-07-01        |
+| HUNSARTMISMEI       | Total Retail Trade in Hungary                                                                      | 1992-01-01          | 2022-08-01        |
 | HUNSARTQISMEI       | Total Retail Trade in Hungary                                                                      | 1992-01-01          | 2022-04-01        |
-| IDNPROMANAISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2020-01-01        |
-| IDNPROMANMISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2018-12-01        |
-| IDNPROMANQISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2018-10-01        |
+| IDNPROMANAISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2021-01-01        |
+| IDNPROMANMISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2022-03-01        |
+| IDNPROMANQISMEI     | Production in Total Manufacturing for Indonesia                                                    | 1986-01-01          | 2022-01-01        |
 | IGREA               | Index of Global Real Economic Activity                                                             | 1968-01-01          | 2022-09-01        |
 | INDPROINDAISMEI     | Production of Total Industry in India                                                              | 1995-01-01          | 2021-01-01        |
-| INDPROINDMISMEI     | Production of Total Industry in India                                                              | 1994-04-01          | 2022-06-01        |
+| INDPROINDMISMEI     | Production of Total Industry in India                                                              | 1994-04-01          | 2022-08-01        |
 | INDPROINDQISMEI     | Production of Total Industry in India                                                              | 1994-04-01          | 2022-04-01        |
-| INDPROMANAISMEI     | Production in Total Manufacturing for India                                                        | 1995-01-01          | 2018-01-01        |
-| INDPROMANMISMEI     | Production in Total Manufacturing for India                                                        | 1994-04-01          | 2018-12-01        |
-| INDPROMANQISMEI     | Production in Total Manufacturing for India                                                        | 1994-04-01          | 2018-10-01        |
+| INDPROMANAISMEI     | Production in Total Manufacturing for India                                                        | 1995-01-01          | 2021-01-01        |
+| INDPROMANMISMEI     | Production in Total Manufacturing for India                                                        | 1994-04-01          | 2022-08-01        |
+| INDPROMANQISMEI     | Production in Total Manufacturing for India                                                        | 1994-04-01          | 2022-04-01        |
 | IRLPERMITAISMEI     | Permits Issued for Dwelling in Ireland                                                             | 1975-01-01          | 2021-01-01        |
-| IRLPERMITQISMEI     | Permits Issued for Dwelling in Ireland                                                             | 1992-01-01          | 2022-01-01        |
+| IRLPERMITQISMEI     | Permits Issued for Dwelling in Ireland                                                             | 1992-01-01          | 2022-04-01        |
 | IRLPROCONAISMEI     | Production of Total Construction in Ireland                                                        | 2000-01-01          | 2021-01-01        |
-| IRLPROCONQISMEI     | Production of Total Construction in Ireland                                                        | 2000-01-01          | 2022-01-01        |
+| IRLPROCONQISMEI     | Production of Total Construction in Ireland                                                        | 2000-01-01          | 2022-04-01        |
 | IRLPROINDAISMEI     | Production of Total Industry in Ireland                                                            | 1976-01-01          | 2021-01-01        |
-| IRLPROINDMISMEI     | Production of Total Industry in Ireland                                                            | 1975-07-01          | 2022-06-01        |
+| IRLPROINDMISMEI     | Production of Total Industry in Ireland                                                            | 1975-07-01          | 2022-08-01        |
 | IRLPROINDQISMEI     | Production of Total Industry in Ireland                                                            | 1975-07-01          | 2022-04-01        |
 | IRLPROMANAISMEI     | Production in Total Manufacturing for Ireland                                                      | 1976-01-01          | 2021-01-01        |
-| IRLPROMANMISMEI     | Production in Total Manufacturing for Ireland                                                      | 1975-07-01          | 2022-06-01        |
+| IRLPROMANMISMEI     | Production in Total Manufacturing for Ireland                                                      | 1975-07-01          | 2022-08-01        |
 | IRLPROMANQISMEI     | Production in Total Manufacturing for Ireland                                                      | 1975-07-01          | 2022-04-01        |
 | IRLSARTAISMEI       | Total Retail Trade in Ireland                                                                      | 1968-01-01          | 2021-01-01        |
-| IRLSARTMISMEI       | Total Retail Trade in Ireland                                                                      | 1968-01-01          | 2022-07-01        |
-| IRLSARTQISMEI       | Total Retail Trade in Ireland                                                                      | 1968-01-01          | 2022-04-01        |
+| IRLSARTMISMEI       | Total Retail Trade in Ireland                                                                      | 1968-01-01          | 2022-09-01        |
+| IRLSARTQISMEI       | Total Retail Trade in Ireland                                                                      | 1968-01-01          | 2022-07-01        |
 | ISLPROCONAISMEI     | Production of Total Construction in Iceland                                                        | 1998-01-01          | 2021-01-01        |
 | ISLPROCONMISMEI     | Production of Total Construction in Iceland                                                        | 1998-01-01          | 2017-12-01        |
 | ISLPROCONQISMEI     | Production of Total Construction in Iceland                                                        | 1998-01-01          | 2017-10-01        |
@@ -1079,98 +1079,98 @@
 | ISLSARTMISMEI       | Total Retail Trade in Iceland                                                                      | 1991-01-01          | 2017-12-01        |
 | ISLSARTQISMEI       | Total Retail Trade in Iceland                                                                      | 1991-01-01          | 2017-10-01        |
 | ISRPERMITAISMEI     | Permits Issued for Dwelling in Israel                                                              | 1995-01-01          | 2021-01-01        |
-| ISRPERMITMISMEI     | Permits Issued for Dwelling in Israel                                                              | 1995-01-01          | 2022-03-01        |
-| ISRPERMITQISMEI     | Permits Issued for Dwelling in Israel                                                              | 1995-01-01          | 2022-01-01        |
+| ISRPERMITMISMEI     | Permits Issued for Dwelling in Israel                                                              | 1995-01-01          | 2022-06-01        |
+| ISRPERMITQISMEI     | Permits Issued for Dwelling in Israel                                                              | 1995-01-01          | 2022-04-01        |
 | ISRPROCONAISMEI     | Production of Total Construction in Israel                                                         | 2000-01-01          | 2017-01-01        |
 | ISRPROCONQISMEI     | Production of Total Construction in Israel                                                         | 2000-01-01          | 2018-01-01        |
 | ISRPROINDAISMEI     | Production of Total Industry in Israel                                                             | 1990-01-01          | 2021-01-01        |
-| ISRPROINDMISMEI     | Production of Total Industry in Israel                                                             | 1990-01-01          | 2022-06-01        |
+| ISRPROINDMISMEI     | Production of Total Industry in Israel                                                             | 1990-01-01          | 2022-08-01        |
 | ISRPROINDQISMEI     | Production of Total Industry in Israel                                                             | 1990-01-01          | 2022-04-01        |
 | ISRPROMANAISMEI     | Production in Total Manufacturing for Israel                                                       | 1990-01-01          | 2021-01-01        |
-| ISRPROMANMISMEI     | Production in Total Manufacturing for Israel                                                       | 1990-01-01          | 2022-06-01        |
+| ISRPROMANMISMEI     | Production in Total Manufacturing for Israel                                                       | 1990-01-01          | 2022-08-01        |
 | ISRPROMANQISMEI     | Production in Total Manufacturing for Israel                                                       | 1990-01-01          | 2022-04-01        |
 | ISRSACRAISMEI       | Passenger Car Registrations in Israel                                                              | 2004-01-01          | 2020-01-01        |
-| ISRSACRMISMEI       | Passenger Car Registrations in Israel                                                              | 2004-01-01          | 2022-06-01        |
+| ISRSACRMISMEI       | Passenger Car Registrations in Israel                                                              | 2004-01-01          | 2022-08-01        |
 | ISRSACRQISMEI       | Passenger Car Registrations in Israel                                                              | 2004-01-01          | 2018-07-01        |
 | ISRSARTAISMEI       | Total Retail Trade in Israel                                                                       | 1995-01-01          | 2021-01-01        |
-| ISRSARTMISMEI       | Total Retail Trade in Israel                                                                       | 1995-01-01          | 2022-06-01        |
+| ISRSARTMISMEI       | Total Retail Trade in Israel                                                                       | 1995-01-01          | 2022-08-01        |
 | ISRSARTQISMEI       | Total Retail Trade in Israel                                                                       | 1995-01-01          | 2022-04-01        |
 | ITAPROCONAISMEI     | Production of Total Construction in Italy                                                          | 1995-01-01          | 2021-01-01        |
-| ITAPROCONQISMEI     | Production of Total Construction in Italy                                                          | 1995-01-01          | 2022-01-01        |
+| ITAPROCONQISMEI     | Production of Total Construction in Italy                                                          | 1995-01-01          | 2022-04-01        |
 | ITAPROINDAISMEI     | Production of Total Industry in Italy                                                              | 1960-01-01          | 2021-01-01        |
-| ITAPROINDMISMEI     | Production of Total Industry in Italy                                                              | 1960-01-01          | 2022-06-01        |
+| ITAPROINDMISMEI     | Production of Total Industry in Italy                                                              | 1960-01-01          | 2022-08-01        |
 | ITAPROINDQISMEI     | Production of Total Industry in Italy                                                              | 1960-01-01          | 2022-04-01        |
 | ITAPROMANAISMEI     | Production in Total Manufacturing for Italy                                                        | 1960-01-01          | 2021-01-01        |
-| ITAPROMANMISMEI     | Production in Total Manufacturing for Italy                                                        | 1990-01-01          | 2022-06-01        |
+| ITAPROMANMISMEI     | Production in Total Manufacturing for Italy                                                        | 1990-01-01          | 2022-08-01        |
 | ITAPROMANQISMEI     | Production in Total Manufacturing for Italy                                                        | 1990-01-01          | 2022-04-01        |
 | ITASARTAISMEI       | Total Retail Trade in Italy                                                                        | 1990-01-01          | 2021-01-01        |
-| ITASARTMISMEI       | Total Retail Trade in Italy                                                                        | 1990-01-01          | 2022-06-01        |
+| ITASARTMISMEI       | Total Retail Trade in Italy                                                                        | 1990-01-01          | 2022-08-01        |
 | JPNPROINDAISMEI     | Production of Total Industry in Japan                                                              | 1960-01-01          | 2021-01-01        |
-| JPNPROINDMISMEI     | Production of Total Industry in Japan                                                              | 1960-01-01          | 2022-06-01        |
+| JPNPROINDMISMEI     | Production of Total Industry in Japan                                                              | 1960-01-01          | 2022-08-01        |
 | JPNPROINDQISMEI     | Production of Total Industry in Japan                                                              | 1960-01-01          | 2022-04-01        |
 | JPNPROMANAISMEI     | Production in Total Manufacturing for Japan                                                        | 1960-01-01          | 2021-01-01        |
-| JPNPROMANMISMEI     | Production in Total Manufacturing for Japan                                                        | 1960-01-01          | 2022-06-01        |
+| JPNPROMANMISMEI     | Production in Total Manufacturing for Japan                                                        | 1960-01-01          | 2022-08-01        |
 | JPNPROMANQISMEI     | Production in Total Manufacturing for Japan                                                        | 1960-01-01          | 2022-04-01        |
 | JPNSACRAISMEI       | Passenger Car Registrations in Japan                                                               | 1969-01-01          | 2020-01-01        |
 | JPNSACRMISMEI       | Passenger Car Registrations in Japan                                                               | 1968-04-01          | 2018-12-01        |
 | JPNSACRQISMEI       | Passenger Car Registrations in Japan                                                               | 1968-04-01          | 2018-07-01        |
-| JPNSARTAISMEI       | Total Retail Trade in Japan                                                                        | 1970-01-01          | 2020-01-01        |
-| JPNSARTMISMEI       | Total Retail Trade in Japan                                                                        | 1970-01-01          | 2021-07-01        |
-| JPNSARTQISMEI       | Total Retail Trade in Japan                                                                        | 1970-01-01          | 2021-04-01        |
+| JPNSARTAISMEI       | Total Retail Trade in Japan                                                                        | 1960-01-01          | 2021-01-01        |
+| JPNSARTMISMEI       | Total Retail Trade in Japan                                                                        | 1960-01-01          | 2022-08-01        |
+| JPNSARTQISMEI       | Total Retail Trade in Japan                                                                        | 1960-01-01          | 2022-04-01        |
 | KORPERMITAISMEI     | Permits Issued for Dwelling in Korea                                                               | 1990-01-01          | 2021-01-01        |
 | KORPERMITMISMEI     | Permits Issued for Dwelling in Korea                                                               | 1990-01-01          | 2018-12-01        |
 | KORPERMITQISMEI     | Permits Issued for Dwelling in Korea                                                               | 1990-01-01          | 2018-10-01        |
 | KORPROINDAISMEI     | Production of Total Industry in Korea                                                              | 1980-01-01          | 2021-01-01        |
-| KORPROINDMISMEI     | Production of Total Industry in Korea                                                              | 1989-01-01          | 2022-07-01        |
-| KORPROINDQISMEI     | Production of Total Industry in Korea                                                              | 1989-01-01          | 2022-04-01        |
+| KORPROINDMISMEI     | Production of Total Industry in Korea                                                              | 1989-01-01          | 2022-09-01        |
+| KORPROINDQISMEI     | Production of Total Industry in Korea                                                              | 1989-01-01          | 2022-07-01        |
 | KORPROMANAISMEI     | Production in Total Manufacturing for Korea                                                        | 1980-01-01          | 2021-01-01        |
-| KORPROMANMISMEI     | Production in Total Manufacturing for Korea                                                        | 1990-01-01          | 2022-07-01        |
-| KORPROMANQISMEI     | Production in Total Manufacturing for Korea                                                        | 1990-01-01          | 2022-04-01        |
+| KORPROMANMISMEI     | Production in Total Manufacturing for Korea                                                        | 1990-01-01          | 2022-09-01        |
+| KORPROMANQISMEI     | Production in Total Manufacturing for Korea                                                        | 1990-01-01          | 2022-07-01        |
 | KORSACRAISMEI       | Passenger Car Registrations in Korea                                                               | 1993-01-01          | 2018-01-01        |
 | KORSACRMISMEI       | Passenger Car Registrations in Korea                                                               | 1993-01-01          | 2020-01-01        |
 | KORSACRQISMEI       | Passenger Car Registrations in Korea                                                               | 1993-01-01          | 2018-07-01        |
 | KORSARTAISMEI       | Total Retail Trade in Korea                                                                        | 1990-01-01          | 2021-01-01        |
-| KORSARTMISMEI       | Total Retail Trade in Korea                                                                        | 1990-01-01          | 2022-07-01        |
-| KORSARTQISMEI       | Total Retail Trade in Korea                                                                        | 1990-01-01          | 2022-04-01        |
+| KORSARTMISMEI       | Total Retail Trade in Korea                                                                        | 1990-01-01          | 2022-09-01        |
+| KORSARTQISMEI       | Total Retail Trade in Korea                                                                        | 1990-01-01          | 2022-07-01        |
 | LOCOSLORNZQ636S     | Leading Indicators OECD: Component Series: Sales: Original Series for New Zealand                  | 1992-07-01          | 2022-04-01        |
 | LUXPERMITAISMEI     | Permits Issued for Dwelling in Luxembourg                                                          | 1991-01-01          | 2021-01-01        |
 | LUXPERMITMISMEI     | Permits Issued for Dwelling in Luxembourg                                                          | 1991-01-01          | 2017-07-01        |
 | LUXPERMITQISMEI     | Permits Issued for Dwelling in Luxembourg                                                          | 1991-01-01          | 2017-04-01        |
 | LUXPROCONAISMEI     | Production of Total Construction in Luxembourg                                                     | 1960-01-01          | 2021-01-01        |
-| LUXPROCONMISMEI     | Production of Total Construction in Luxembourg                                                     | 1960-01-01          | 2022-06-01        |
+| LUXPROCONMISMEI     | Production of Total Construction in Luxembourg                                                     | 1960-01-01          | 2022-08-01        |
 | LUXPROCONQISMEI     | Production of Total Construction in Luxembourg                                                     | 1960-01-01          | 2022-04-01        |
 | LUXPROINDAISMEI     | Production of Total Industry in Luxembourg                                                         | 1960-01-01          | 2021-01-01        |
-| LUXPROINDMISMEI     | Production of Total Industry in Luxembourg                                                         | 1960-01-01          | 2022-06-01        |
+| LUXPROINDMISMEI     | Production of Total Industry in Luxembourg                                                         | 1960-01-01          | 2022-08-01        |
 | LUXPROINDQISMEI     | Production of Total Industry in Luxembourg                                                         | 1960-01-01          | 2022-04-01        |
 | LUXPROMANAISMEI     | Production in Total Manufacturing for Luxembourg                                                   | 1960-01-01          | 2021-01-01        |
-| LUXPROMANMISMEI     | Production in Total Manufacturing for Luxembourg                                                   | 1960-01-01          | 2022-06-01        |
+| LUXPROMANMISMEI     | Production in Total Manufacturing for Luxembourg                                                   | 1960-01-01          | 2022-08-01        |
 | LUXPROMANQISMEI     | Production in Total Manufacturing for Luxembourg                                                   | 1960-01-01          | 2022-04-01        |
 | LUXSACRAISMEI       | Passenger Car Registrations in Luxembourg                                                          | 1962-01-01          | 2020-01-01        |
 | LUXSACRMISMEI       | Passenger Car Registrations in Luxembourg                                                          | 1962-01-01          | 2018-12-01        |
 | LUXSACRQISMEI       | Passenger Car Registrations in Luxembourg                                                          | 1962-01-01          | 2018-07-01        |
 | LUXSARTAISMEI       | Total Retail Trade in Luxembourg                                                                   | 1995-01-01          | 2021-01-01        |
-| LUXSARTMISMEI       | Total Retail Trade in Luxembourg                                                                   | 1995-01-01          | 2022-07-01        |
-| LUXSARTQISMEI       | Total Retail Trade in Luxembourg                                                                   | 1995-01-01          | 2022-04-01        |
+| LUXSARTMISMEI       | Total Retail Trade in Luxembourg                                                                   | 1995-01-01          | 2022-09-01        |
+| LUXSARTQISMEI       | Total Retail Trade in Luxembourg                                                                   | 1995-01-01          | 2022-07-01        |
 | MEXPROCONAISMEI     | Production of Total Construction in Mexico                                                         | 1980-01-01          | 2021-01-01        |
-| MEXPROCONMISMEI     | Production of Total Construction in Mexico                                                         | 1980-01-01          | 2022-06-01        |
+| MEXPROCONMISMEI     | Production of Total Construction in Mexico                                                         | 1980-01-01          | 2022-08-01        |
 | MEXPROCONQISMEI     | Production of Total Construction in Mexico                                                         | 1980-01-01          | 2022-04-01        |
 | MEXPROMANAISMEI     | Production in Total Manufacturing for Mexico                                                       | 1980-01-01          | 2021-01-01        |
-| MEXPROMANMISMEI     | Production in Total Manufacturing for Mexico                                                       | 1980-01-01          | 2022-06-01        |
+| MEXPROMANMISMEI     | Production in Total Manufacturing for Mexico                                                       | 1980-01-01          | 2022-08-01        |
 | MEXPROMANQISMEI     | Production in Total Manufacturing for Mexico                                                       | 1980-01-01          | 2022-04-01        |
 | MEXSARTAISMEI       | Total Retail Trade in Mexico                                                                       | 1986-01-01          | 2021-01-01        |
-| MEXSARTMISMEI       | Total Retail Trade in Mexico                                                                       | 1986-01-01          | 2022-06-01        |
+| MEXSARTMISMEI       | Total Retail Trade in Mexico                                                                       | 1986-01-01          | 2022-08-01        |
 | MEXSARTQISMEI       | Total Retail Trade in Mexico                                                                       | 1986-01-01          | 2022-04-01        |
 | NLDPERMITAISMEI     | Permits Issued for Dwelling in Netherlands                                                         | 1995-01-01          | 2018-01-01        |
 | NLDPERMITMISMEI     | Permits Issued for Dwelling in Netherlands                                                         | 1995-01-01          | 2018-12-01        |
 | NLDPERMITQISMEI     | Permits Issued for Dwelling in Netherlands                                                         | 1995-01-01          | 2018-10-01        |
 | NLDPROCONAISMEI     | Production of Total Construction in Netherlands                                                    | 2000-01-01          | 2021-01-01        |
-| NLDPROCONMISMEI     | Production of Total Construction in Netherlands                                                    | 2000-01-01          | 2022-06-01        |
+| NLDPROCONMISMEI     | Production of Total Construction in Netherlands                                                    | 2000-01-01          | 2022-08-01        |
 | NLDPROCONQISMEI     | Production of Total Construction in Netherlands                                                    | 2000-01-01          | 2022-04-01        |
 | NLDPROINDAISMEI     | Production of Total Industry in Netherlands                                                        | 1960-01-01          | 2021-01-01        |
-| NLDPROINDMISMEI     | Production of Total Industry in Netherlands                                                        | 1960-01-01          | 2022-06-01        |
+| NLDPROINDMISMEI     | Production of Total Industry in Netherlands                                                        | 1960-01-01          | 2022-08-01        |
 | NLDPROINDQISMEI     | Production of Total Industry in Netherlands                                                        | 1960-01-01          | 2022-04-01        |
 | NLDPROMANAISMEI     | Production in Total Manufacturing for Netherlands                                                  | 1960-01-01          | 2021-01-01        |
-| NLDPROMANMISMEI     | Production in Total Manufacturing for Netherlands                                                  | 1960-01-01          | 2022-06-01        |
+| NLDPROMANMISMEI     | Production in Total Manufacturing for Netherlands                                                  | 1960-01-01          | 2022-08-01        |
 | NLDPROMANQISMEI     | Production in Total Manufacturing for Netherlands                                                  | 1960-01-01          | 2022-04-01        |
 | NLDSACRAISMEI       | Passenger Car Registrations in Netherlands                                                         | 1979-01-01          | 2020-01-01        |
 | NLDSACRMISMEI       | Passenger Car Registrations in Netherlands                                                         | 1979-01-01          | 2018-12-01        |
@@ -1179,37 +1179,37 @@
 | NLDSARTMISMEI       | Total Retail Trade in Netherlands                                                                  | 1960-04-01          | 2022-01-01        |
 | NLDSARTQISMEI       | Total Retail Trade in Netherlands                                                                  | 1960-04-01          | 2021-10-01        |
 | NORPERMITAISMEI     | Permits Issued for Dwelling in Norway                                                              | 1990-01-01          | 2021-01-01        |
-| NORPERMITMISMEI     | Permits Issued for Dwelling in Norway                                                              | 1990-01-01          | 2022-07-01        |
+| NORPERMITMISMEI     | Permits Issued for Dwelling in Norway                                                              | 1990-01-01          | 2022-08-01        |
 | NORPERMITQISMEI     | Permits Issued for Dwelling in Norway                                                              | 1990-01-01          | 2022-04-01        |
 | NORPROINDAISMEI     | Production of Total Industry in Norway                                                             | 1960-01-01          | 2021-01-01        |
-| NORPROINDMISMEI     | Production of Total Industry in Norway                                                             | 1960-01-01          | 2022-06-01        |
+| NORPROINDMISMEI     | Production of Total Industry in Norway                                                             | 1960-01-01          | 2022-08-01        |
 | NORPROINDQISMEI     | Production of Total Industry in Norway                                                             | 1960-01-01          | 2022-04-01        |
 | NORPROMANAISMEI     | Production in Total Manufacturing for Norway                                                       | 1960-01-01          | 2021-01-01        |
-| NORPROMANMISMEI     | Production in Total Manufacturing for Norway                                                       | 1960-01-01          | 2022-06-01        |
+| NORPROMANMISMEI     | Production in Total Manufacturing for Norway                                                       | 1960-01-01          | 2022-08-01        |
 | NORPROMANQISMEI     | Production in Total Manufacturing for Norway                                                       | 1960-01-01          | 2022-04-01        |
 | NORSACRAISMEI       | Passenger Car Registrations in Norway                                                              | 1960-01-01          | 2020-01-01        |
-| NORSACRMISMEI       | Passenger Car Registrations in Norway                                                              | 1960-01-01          | 2022-07-01        |
+| NORSACRMISMEI       | Passenger Car Registrations in Norway                                                              | 1960-01-01          | 2022-10-01        |
 | NORSACRQISMEI       | Passenger Car Registrations in Norway                                                              | 1960-01-01          | 2018-07-01        |
 | NORSARTAISMEI       | Total Retail Trade in Norway                                                                       | 1960-01-01          | 2021-01-01        |
-| NORSARTMISMEI       | Total Retail Trade in Norway                                                                       | 1960-01-01          | 2022-07-01        |
-| NORSARTQISMEI       | Total Retail Trade in Norway                                                                       | 1960-01-01          | 2022-04-01        |
+| NORSARTMISMEI       | Total Retail Trade in Norway                                                                       | 1960-01-01          | 2022-09-01        |
+| NORSARTQISMEI       | Total Retail Trade in Norway                                                                       | 1960-01-01          | 2022-07-01        |
 | NZLPERMITAISMEI     | Permits Issued for Dwelling in New Zealand                                                         | 1974-01-01          | 2021-01-01        |
-| NZLPERMITMISMEI     | Permits Issued for Dwelling in New Zealand                                                         | 1973-02-01          | 2022-06-01        |
+| NZLPERMITMISMEI     | Permits Issued for Dwelling in New Zealand                                                         | 1973-02-01          | 2022-08-01        |
 | NZLPERMITQISMEI     | Permits Issued for Dwelling in New Zealand                                                         | 1973-04-01          | 2022-04-01        |
 | NZLPROCONAISMEI     | Production of Total Construction in New Zealand                                                    | 1978-01-01          | 2021-01-01        |
-| NZLPROCONQISMEI     | Production of Total Construction in New Zealand                                                    | 1977-04-01          | 2022-01-01        |
+| NZLPROCONQISMEI     | Production of Total Construction in New Zealand                                                    | 1977-04-01          | 2022-04-01        |
 | NZLPROINDAISMEI     | Production of Total Industry in New Zealand                                                        | 1978-01-01          | 2021-01-01        |
-| NZLPROINDQISMEI     | Production of Total Industry in New Zealand                                                        | 1977-04-01          | 2022-01-01        |
+| NZLPROINDQISMEI     | Production of Total Industry in New Zealand                                                        | 1977-04-01          | 2022-04-01        |
 | NZLPROMANAISMEI     | Production in Total Manufacturing for New Zealand                                                  | 1978-01-01          | 2021-01-01        |
-| NZLPROMANQISMEI     | Production in Total Manufacturing for New Zealand                                                  | 1977-04-01          | 2022-01-01        |
+| NZLPROMANQISMEI     | Production in Total Manufacturing for New Zealand                                                  | 1977-04-01          | 2022-04-01        |
 | NZLSACRAISMEI       | Passenger Car Registrations in New Zealand                                                         | 1961-01-01          | 2020-01-01        |
 | NZLSACRMISMEI       | Passenger Car Registrations in New Zealand                                                         | 1961-01-01          | 2021-04-01        |
 | NZLSACRQISMEI       | Passenger Car Registrations in New Zealand                                                         | 1961-01-01          | 2018-07-01        |
-| NZLSARTQISMEI       | Total Retail Trade in New Zealand                                                                  | 1963-01-01          | 2022-01-01        |
+| NZLSARTQISMEI       | Total Retail Trade in New Zealand                                                                  | 1963-01-01          | 2022-04-01        |
 | ODMNTO01DEA661N     | Orders: Manufacturing: Total Orders: Volume for Germany                                            | 1960-01-01          | 2021-01-01        |
 | ODMNTO01DEA661S     | Orders: Manufacturing: Total Orders: Volume for Germany                                            | 1960-01-01          | 2021-01-01        |
-| ODMNTO01DEQ661N     | Orders: Manufacturing: Total Orders: Volume for Germany                                            | 1960-01-01          | 2022-04-01        |
-| ODMNTO01DEQ661S     | Orders: Manufacturing: Total Orders: Volume for Germany                                            | 1960-01-01          | 2022-04-01        |
+| ODMNTO01DEQ661N     | Orders: Manufacturing: Total Orders: Volume for Germany                                            | 1960-01-01          | 2022-07-01        |
+| ODMNTO01DEQ661S     | Orders: Manufacturing: Total Orders: Volume for Germany                                            | 1960-01-01          | 2022-07-01        |
 | ODMNTO01SEA661S     | Volume of Total Orders for Manufacturing for Sweden                                                | 1970-01-01          | 2021-01-01        |
 | ODMNTO01SEQ661S     | Volume of Total Orders for Manufacturing for Sweden                                                | 1970-01-01          | 2022-04-01        |
 | ODMNTO02ATA180S     | Value of Total Orders for Manufacturing for Austria                                                | 1973-01-01          | 2020-01-01        |
@@ -1246,62 +1246,62 @@
 | OPCNRE01CAM661N     | Total Cost of Residential Construction for Canada                                                  | 1981-01-01          | 2016-12-01        |
 | OPCNRE01CAQ661N     | Total Cost of Residential Construction for Canada                                                  | 1981-01-01          | 2016-10-01        |
 | OPCNRE01DEA661N     | Other Prices: Cost of Construction: Residential: Total for Germany                                 | 1960-01-01          | 2021-01-01        |
-| OPCNRE01DEQ661N     | Other Prices: Cost of Construction: Residential: Total for Germany                                 | 1960-01-01          | 2022-04-01        |
+| OPCNRE01DEQ661N     | Other Prices: Cost of Construction: Residential: Total for Germany                                 | 1960-01-01          | 2022-07-01        |
 | OPCNRE01DKA661N     | Other Prices: Cost of Construction: Residential: Total for Denmark                                 | 1960-01-01          | 2021-01-01        |
-| OPCNRE01DKQ661N     | Other Prices: Cost of Construction: Residential: Total for Denmark                                 | 1960-01-01          | 2022-01-01        |
-| OPCNRE01FRA661N     | Total Cost of Residential Construction for France                                                  | 1960-01-01          | 2019-01-01        |
-| OPCNRE01FRQ661N     | Total Cost of Residential Construction for France                                                  | 1960-01-01          | 2020-07-01        |
+| OPCNRE01DKQ661N     | Other Prices: Cost of Construction: Residential: Total for Denmark                                 | 1960-01-01          | 2022-04-01        |
+| OPCNRE01FRA661N     | Total Cost of Residential Construction for France                                                  | 1960-01-01          | 2021-01-01        |
+| OPCNRE01FRQ661N     | Total Cost of Residential Construction for France                                                  | 1960-01-01          | 2022-04-01        |
 | OPCNRE01GRA661N     | Total Cost of Residential Construction for Greece                                                  | 1974-01-01          | 2021-01-01        |
-| OPCNRE01GRM661N     | Total Cost of Residential Construction for Greece                                                  | 1974-01-01          | 2022-07-01        |
-| OPCNRE01GRQ661N     | Total Cost of Residential Construction for Greece                                                  | 1974-01-01          | 2022-04-01        |
+| OPCNRE01GRM661N     | Total Cost of Residential Construction for Greece                                                  | 1974-01-01          | 2022-09-01        |
+| OPCNRE01GRQ661N     | Total Cost of Residential Construction for Greece                                                  | 1974-01-01          | 2022-07-01        |
 | OPCNRE01ISA661N     | Total Cost of Residential Construction for Iceland                                                 | 1976-01-01          | 2021-01-01        |
-| OPCNRE01ISM661N     | Total Cost of Residential Construction for Iceland                                                 | 1960-02-01          | 2022-08-01        |
-| OPCNRE01ISQ661N     | Total Cost of Residential Construction for Iceland                                                 | 1976-01-01          | 2022-04-01        |
+| OPCNRE01ISM661N     | Total Cost of Residential Construction for Iceland                                                 | 1960-02-01          | 2022-10-01        |
+| OPCNRE01ISQ661N     | Total Cost of Residential Construction for Iceland                                                 | 1976-01-01          | 2022-07-01        |
 | OPCNRE01ITA661N     | Total Cost of Residential Construction for Italy                                                   | 1967-01-01          | 2021-01-01        |
-| OPCNRE01ITM661N     | Total Cost of Residential Construction for Italy                                                   | 1967-01-01          | 2022-07-01        |
-| OPCNRE01ITQ661N     | Total Cost of Residential Construction for Italy                                                   | 1967-01-01          | 2022-04-01        |
+| OPCNRE01ITM661N     | Total Cost of Residential Construction for Italy                                                   | 1967-01-01          | 2022-09-01        |
+| OPCNRE01ITQ661N     | Total Cost of Residential Construction for Italy                                                   | 1967-01-01          | 2022-07-01        |
 | OPCNRE01NOA661N     | Total Cost of Residential Construction for Norway                                                  | 1972-01-01          | 2021-01-01        |
-| OPCNRE01NOM661N     | Total Cost of Residential Construction for Norway                                                  | 1972-01-01          | 2022-07-01        |
-| OPCNRE01NOQ661N     | Total Cost of Residential Construction for Norway                                                  | 1972-01-01          | 2022-04-01        |
+| OPCNRE01NOM661N     | Total Cost of Residential Construction for Norway                                                  | 1972-01-01          | 2022-09-01        |
+| OPCNRE01NOQ661N     | Total Cost of Residential Construction for Norway                                                  | 1972-01-01          | 2022-07-01        |
 | OPCNRE01SEA661N     | Total Cost of Residential Construction for Sweden                                                  | 1968-01-01          | 2021-01-01        |
 | OPCNRE01SEM661N     | Total Cost of Residential Construction for Sweden                                                  | 1968-02-01          | 1994-08-01        |
-| OPCNRE01SEQ661N     | Total Cost of Residential Construction for Sweden                                                  | 1968-01-01          | 2022-01-01        |
+| OPCNRE01SEQ661N     | Total Cost of Residential Construction for Sweden                                                  | 1968-01-01          | 2022-04-01        |
 | POLPERMITAISMEI     | Permits Issued for Dwelling in Poland                                                              | 2000-01-01          | 2021-01-01        |
-| POLPERMITMISMEI     | Permits Issued for Dwelling in Poland                                                              | 2000-01-01          | 2022-07-01        |
+| POLPERMITMISMEI     | Permits Issued for Dwelling in Poland                                                              | 2000-01-01          | 2022-09-01        |
 | POLPERMITQISMEI     | Permits Issued for Dwelling in Poland                                                              | 2000-01-01          | 2018-07-01        |
 | POLPROCONAISMEI     | Production of Total Construction in Poland                                                         | 1985-01-01          | 2021-01-01        |
-| POLPROCONMISMEI     | Production of Total Construction in Poland                                                         | 1985-01-01          | 2022-07-01        |
-| POLPROCONQISMEI     | Production of Total Construction in Poland                                                         | 1985-01-01          | 2022-04-01        |
+| POLPROCONMISMEI     | Production of Total Construction in Poland                                                         | 1985-01-01          | 2022-09-01        |
+| POLPROCONQISMEI     | Production of Total Construction in Poland                                                         | 1985-01-01          | 2022-07-01        |
 | POLPROINDAISMEI     | Production of Total Industry in Poland                                                             | 1985-01-01          | 2021-01-01        |
-| POLPROINDMISMEI     | Production of Total Industry in Poland                                                             | 1985-01-01          | 2022-07-01        |
-| POLPROINDQISMEI     | Production of Total Industry in Poland                                                             | 1985-01-01          | 2022-04-01        |
+| POLPROINDMISMEI     | Production of Total Industry in Poland                                                             | 1985-01-01          | 2022-09-01        |
+| POLPROINDQISMEI     | Production of Total Industry in Poland                                                             | 1985-01-01          | 2022-07-01        |
 | POLPROMANAISMEI     | Production in Total Manufacturing for Poland                                                       | 1985-01-01          | 2021-01-01        |
-| POLPROMANMISMEI     | Production in Total Manufacturing for Poland                                                       | 1985-01-01          | 2022-07-01        |
-| POLPROMANQISMEI     | Production in Total Manufacturing for Poland                                                       | 1985-01-01          | 2022-04-01        |
+| POLPROMANMISMEI     | Production in Total Manufacturing for Poland                                                       | 1985-01-01          | 2022-09-01        |
+| POLPROMANQISMEI     | Production in Total Manufacturing for Poland                                                       | 1985-01-01          | 2022-07-01        |
 | POLSACRAISMEI       | Passenger Car Registrations in Poland                                                              | 2003-01-01          | 2020-01-01        |
 | POLSACRMISMEI       | Passenger Car Registrations in Poland                                                              | 2003-01-01          | 2018-12-01        |
 | POLSACRQISMEI       | Passenger Car Registrations in Poland                                                              | 2003-01-01          | 2018-10-01        |
 | POLSARTAISMEI       | Total Retail Trade in Poland                                                                       | 1991-01-01          | 2021-01-01        |
-| POLSARTMISMEI       | Total Retail Trade in Poland                                                                       | 1991-01-01          | 2022-07-01        |
-| POLSARTQISMEI       | Total Retail Trade in Poland                                                                       | 1991-01-01          | 2022-04-01        |
+| POLSARTMISMEI       | Total Retail Trade in Poland                                                                       | 1991-01-01          | 2022-09-01        |
+| POLSARTQISMEI       | Total Retail Trade in Poland                                                                       | 1991-01-01          | 2022-07-01        |
 | PRTPERMITAISMEI     | Permits Issued for Dwelling in Portugal                                                            | 1994-01-01          | 2021-01-01        |
-| PRTPERMITMISMEI     | Permits Issued for Dwelling in Portugal                                                            | 1994-01-01          | 2022-06-01        |
+| PRTPERMITMISMEI     | Permits Issued for Dwelling in Portugal                                                            | 1994-01-01          | 2022-08-01        |
 | PRTPERMITQISMEI     | Permits Issued for Dwelling in Portugal                                                            | 1994-01-01          | 2022-04-01        |
 | PRTPROCONAISMEI     | Production of Total Construction in Portugal                                                       | 2000-01-01          | 2021-01-01        |
-| PRTPROCONMISMEI     | Production of Total Construction in Portugal                                                       | 2000-01-01          | 2022-06-01        |
+| PRTPROCONMISMEI     | Production of Total Construction in Portugal                                                       | 2000-01-01          | 2022-08-01        |
 | PRTPROCONQISMEI     | Production of Total Construction in Portugal                                                       | 2000-01-01          | 2022-04-01        |
 | PRTPROINDAISMEI     | Production of Total Industry in Portugal                                                           | 1960-01-01          | 2021-01-01        |
-| PRTPROINDMISMEI     | Production of Total Industry in Portugal                                                           | 1960-01-01          | 2022-07-01        |
-| PRTPROINDQISMEI     | Production of Total Industry in Portugal                                                           | 1960-01-01          | 2022-04-01        |
+| PRTPROINDMISMEI     | Production of Total Industry in Portugal                                                           | 1960-01-01          | 2022-09-01        |
+| PRTPROINDQISMEI     | Production of Total Industry in Portugal                                                           | 1960-01-01          | 2022-07-01        |
 | PRTPROMANAISMEI     | Production in Total Manufacturing for Portugal                                                     | 1960-01-01          | 2021-01-01        |
-| PRTPROMANMISMEI     | Production in Total Manufacturing for Portugal                                                     | 1960-01-01          | 2022-07-01        |
-| PRTPROMANQISMEI     | Production in Total Manufacturing for Portugal                                                     | 1960-01-01          | 2022-04-01        |
+| PRTPROMANMISMEI     | Production in Total Manufacturing for Portugal                                                     | 1960-01-01          | 2022-09-01        |
+| PRTPROMANQISMEI     | Production in Total Manufacturing for Portugal                                                     | 1960-01-01          | 2022-07-01        |
 | PRTSACRAISMEI       | Passenger Car Registrations in Portugal                                                            | 1990-01-01          | 2020-01-01        |
 | PRTSACRMISMEI       | Passenger Car Registrations in Portugal                                                            | 1990-01-01          | 2018-12-01        |
 | PRTSACRQISMEI       | Passenger Car Registrations in Portugal                                                            | 1990-01-01          | 2018-10-01        |
 | PRTSARTAISMEI       | Total Retail Trade in Portugal                                                                     | 1990-01-01          | 2021-01-01        |
-| PRTSARTMISMEI       | Total Retail Trade in Portugal                                                                     | 1990-01-01          | 2022-07-01        |
-| PRTSARTQISMEI       | Total Retail Trade in Portugal                                                                     | 1990-01-01          | 2022-04-01        |
+| PRTSARTMISMEI       | Total Retail Trade in Portugal                                                                     | 1990-01-01          | 2022-09-01        |
+| PRTSARTQISMEI       | Total Retail Trade in Portugal                                                                     | 1990-01-01          | 2022-07-01        |
 | RUSPROCONAISMEI     | Production of Total Construction in Russian Federation                                             | 2004-01-01          | 2017-01-01        |
 | RUSPROCONQISMEI     | Production of Total Construction in Russian Federation                                             | 2004-01-01          | 2018-07-01        |
 | RUSPROINDAISMEI     | Production of Total Industry in Russian Federation                                                 | 1993-01-01          | 2021-01-01        |
@@ -1314,34 +1314,34 @@
 | RUSSARTMISMEI       | Total Retail Trade in Russian Federation                                                           | 1994-12-01          | 2018-12-01        |
 | RUSSARTQISMEI       | Total Retail Trade in Russian Federation                                                           | 1995-01-01          | 2018-10-01        |
 | SVKPROCONAISMEI     | Production of Total Construction in Slovak Republic                                                | 1992-01-01          | 2021-01-01        |
-| SVKPROCONMISMEI     | Production of Total Construction in Slovak Republic                                                | 1992-01-01          | 2022-06-01        |
+| SVKPROCONMISMEI     | Production of Total Construction in Slovak Republic                                                | 1992-01-01          | 2022-08-01        |
 | SVKPROCONQISMEI     | Production of Total Construction in Slovak Republic                                                | 1992-01-01          | 2022-04-01        |
 | SVKPROINDAISMEI     | Production of Total Industry in Slovak Republic                                                    | 1989-01-01          | 2021-01-01        |
-| SVKPROINDMISMEI     | Production of Total Industry in Slovak Republic                                                    | 1989-01-01          | 2022-06-01        |
+| SVKPROINDMISMEI     | Production of Total Industry in Slovak Republic                                                    | 1989-01-01          | 2022-08-01        |
 | SVKPROINDQISMEI     | Production of Total Industry in Slovak Republic                                                    | 1989-01-01          | 2022-04-01        |
 | SVKPROMANAISMEI     | Production in Total Manufacturing for Slovak Republic                                              | 1992-01-01          | 2021-01-01        |
-| SVKPROMANMISMEI     | Production in Total Manufacturing for Slovak Republic                                              | 1992-01-01          | 2022-06-01        |
+| SVKPROMANMISMEI     | Production in Total Manufacturing for Slovak Republic                                              | 1992-01-01          | 2022-08-01        |
 | SVKPROMANQISMEI     | Production in Total Manufacturing for Slovak Republic                                              | 1992-01-01          | 2022-04-01        |
 | SVKSACRAISMEI       | Passenger Car Registrations in Slovak Republic                                                     | 2003-01-01          | 2020-01-01        |
 | SVKSACRMISMEI       | Passenger Car Registrations in Slovak Republic                                                     | 2003-01-01          | 2018-12-01        |
 | SVKSACRQISMEI       | Passenger Car Registrations in Slovak Republic                                                     | 2003-01-01          | 2018-10-01        |
 | SVKSARTAISMEI       | Total Retail Trade in Slovak Republic                                                              | 1995-01-01          | 2021-01-01        |
-| SVKSARTMISMEI       | Total Retail Trade in Slovak Republic                                                              | 1995-01-01          | 2022-07-01        |
+| SVKSARTMISMEI       | Total Retail Trade in Slovak Republic                                                              | 1995-01-01          | 2022-08-01        |
 | SVKSARTQISMEI       | Total Retail Trade in Slovak Republic                                                              | 1995-01-01          | 2022-04-01        |
 | SVNPERMITAISMEI     | Permits Issued for Dwelling in Slovenia                                                            | 1999-01-01          | 2021-01-01        |
 | SVNPERMITQISMEI     | Permits Issued for Dwelling in Slovenia                                                            | 1999-01-01          | 2018-10-01        |
 | SVNPROCONAISMEI     | Production of Total Construction in Slovenia                                                       | 1998-01-01          | 2021-01-01        |
-| SVNPROCONMISMEI     | Production of Total Construction in Slovenia                                                       | 1998-01-01          | 2022-06-01        |
+| SVNPROCONMISMEI     | Production of Total Construction in Slovenia                                                       | 1998-01-01          | 2022-08-01        |
 | SVNPROCONQISMEI     | Production of Total Construction in Slovenia                                                       | 1998-01-01          | 2022-04-01        |
 | SVNPROINDAISMEI     | Production of Total Industry in Slovenia                                                           | 1992-01-01          | 2021-01-01        |
-| SVNPROINDMISMEI     | Production of Total Industry in Slovenia                                                           | 1992-01-01          | 2022-06-01        |
+| SVNPROINDMISMEI     | Production of Total Industry in Slovenia                                                           | 1992-01-01          | 2022-08-01        |
 | SVNPROINDQISMEI     | Production of Total Industry in Slovenia                                                           | 1992-01-01          | 2022-04-01        |
 | SVNPROMANAISMEI     | Production in Total Manufacturing for Slovenia                                                     | 1992-01-01          | 2021-01-01        |
-| SVNPROMANMISMEI     | Production in Total Manufacturing for Slovenia                                                     | 1992-01-01          | 2022-06-01        |
+| SVNPROMANMISMEI     | Production in Total Manufacturing for Slovenia                                                     | 1992-01-01          | 2022-08-01        |
 | SVNPROMANQISMEI     | Production in Total Manufacturing for Slovenia                                                     | 1992-01-01          | 2022-04-01        |
 | SVNSACRAISMEI       | Passenger Car Registrations in Slovenia                                                            | 1998-01-01          | 2020-01-01        |
-| SVNSACRMISMEI       | Passenger Car Registrations in Slovenia                                                            | 1998-01-01          | 2022-06-01        |
+| SVNSACRMISMEI       | Passenger Car Registrations in Slovenia                                                            | 1998-01-01          | 2022-08-01        |
 | SVNSACRQISMEI       | Passenger Car Registrations in Slovenia                                                            | 1998-01-01          | 2021-04-01        |
 | SVNSARTAISMEI       | Total Retail Trade in Slovenia                                                                     | 1998-01-01          | 2021-01-01        |
-| SVNSARTMISMEI       | Total Retail Trade in Slovenia                                                                     | 1998-01-01          | 2022-06-01        |
+| SVNSARTMISMEI       | Total Retail Trade in Slovenia                                                                     | 1998-01-01          | 2022-08-01        |
 | SVNSARTQISMEI       | Total Retail Trade in Slovenia                                                                     | 1998-01-01          | 2022-04-01        |

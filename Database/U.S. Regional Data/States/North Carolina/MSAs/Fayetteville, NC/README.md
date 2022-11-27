@@ -52,7 +52,7 @@
 | HORAMSA22180              | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
 | HORAYYMSA22180            | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
 | HOSCMSA22180              | Market Hotness: Hotness Score in Fayetteville, NC (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
-| IHLCHG22180               | Job Postings on Indeed in Fayetteville, NC (MSA)                                                                  | 2020-02-01          | 2022-11-11        |
+| IHLCHG22180               | Job Postings on Indeed in Fayetteville, NC (MSA)                                                                  | 2020-02-01          | 2022-11-18        |
 | IRPD22180                 | Implicit Regional Price Deflator for Fayetteville, NC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT372218000000003A     | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT372218000000004      | Unemployed Persons in Fayetteville, NC (MSA)                                                                      | 1990-01-01          | 2022-09-01        |

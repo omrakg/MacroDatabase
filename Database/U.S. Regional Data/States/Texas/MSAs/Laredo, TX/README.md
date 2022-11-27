@@ -25,10 +25,10 @@
 | HORAYYMSA29700            | Market Hotness: Hotness Rank in Laredo, TX (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
 | HOSCMSA29700              | Market Hotness: Hotness Score in Laredo, TX (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
 | IRPD29700                 | Implicit Regional Price Deflator for Laredo, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LARE748BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Laredo, TX (MSA)            | 1988-01-01          | 2022-09-01        |
-| LARE748BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Laredo, TX (MSA)            | 1988-01-01          | 2022-09-01        |
-| LARE748BPPRIV             | New Private Housing Units Authorized by Building Permits for Laredo, TX (MSA)                               | 1988-01-01          | 2022-09-01        |
-| LARE748BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Laredo, TX (MSA)                               | 1988-01-01          | 2022-09-01        |
+| LARE748BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Laredo, TX (MSA)            | 1988-01-01          | 2022-10-01        |
+| LARE748BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Laredo, TX (MSA)            | 1988-01-01          | 2022-10-01        |
+| LARE748BPPRIV             | New Private Housing Units Authorized by Building Permits for Laredo, TX (MSA)                               | 1988-01-01          | 2022-10-01        |
+| LARE748BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Laredo, TX (MSA)                               | 1988-01-01          | 2022-10-01        |
 | LARE748EDUH               | All Employees: Education and Health Services in Laredo, TX (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | LARE748EDUHN              | All Employees: Education and Health Services in Laredo, TX (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | LARE748FIRE               | All Employees: Financial Activities in Laredo, TX (MSA)                                                     | 1990-01-01          | 2022-10-01        |

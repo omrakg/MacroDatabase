@@ -1,5 +1,5 @@
 | Folder                                            |   Files / Folders |
 |---------------------------------------------------|-------------------|
-| Philadelphia, PA                                  |               106 |
+| Montgomery County-Bucks County-Chester County, PA |                 0 |
 | Newark, NJ-PA                                     |               208 |
-| Montgomery County-Bucks County-Chester County, PA |               138 |
+| Philadelphia, PA                                  |               106 |

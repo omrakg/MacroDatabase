@@ -2,4 +2,4 @@
 |----------------------|-------------------|
 | Sioux Falls, SD      |               158 |
 | Rapid City, SD       |               149 |
-| Sioux City, IA-NE-SD |                 0 |
+| Sioux City, IA-NE-SD |               141 |

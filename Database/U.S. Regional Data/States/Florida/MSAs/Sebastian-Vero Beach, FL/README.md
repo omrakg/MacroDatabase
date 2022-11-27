@@ -79,10 +79,10 @@
 | RPPGOOD42680              | Regional Price Parities: Goods for Sebastian-Vero Beach, FL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | RPPSERVEOTH42680          | Regional Price Parities: Services: Other for Sebastian-Vero Beach, FL (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | RPPSERVERENT42680         | Regional Price Parities: Services: Rents for Sebastian-Vero Beach, FL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SEBA612BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sebastian-Vero Beach, FL (MSA)            | 2004-01-01          | 2022-09-01        |
-| SEBA612BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sebastian-Vero Beach, FL (MSA)            | 2004-01-01          | 2022-09-01        |
-| SEBA612BPPRIV             | New Private Housing Units Authorized by Building Permits for Sebastian-Vero Beach, FL (MSA)                               | 2004-01-01          | 2022-09-01        |
-| SEBA612BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Sebastian-Vero Beach, FL (MSA)                               | 2004-01-01          | 2022-09-01        |
+| SEBA612BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sebastian-Vero Beach, FL (MSA)            | 2004-01-01          | 2022-10-01        |
+| SEBA612BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sebastian-Vero Beach, FL (MSA)            | 2004-01-01          | 2022-10-01        |
+| SEBA612BPPRIV             | New Private Housing Units Authorized by Building Permits for Sebastian-Vero Beach, FL (MSA)                               | 2004-01-01          | 2022-10-01        |
+| SEBA612BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Sebastian-Vero Beach, FL (MSA)                               | 2004-01-01          | 2022-10-01        |
 | SEBA612EDUH               | All Employees: Education and Health Services in Sebastian-Vero Beach, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | SEBA612EDUHN              | All Employees: Education and Health Services in Sebastian-Vero Beach, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | SEBA612FIRE               | All Employees: Financial Activities in Sebastian-Vero Beach, FL (MSA)                                                     | 1990-01-01          | 2022-10-01        |

@@ -48,8 +48,8 @@
 | BFSBF8QTOTALSATX          | Spliced Business Formations Within Eight Quarters: Total for All NAICS in Texas                                                          | 2004-07-01          | 2022-10-01        |
 | BR48000TXA647NCEN         | SNAP Benefits Recipients in Texas                                                                                                        | 1989-01-01          | 2019-01-01        |
 | BRTX48M647NCEN            | SNAP Benefits Recipients in Texas                                                                                                        | 1981-01-01          | 2020-06-01        |
-| BUSAPPWNSATX              | Business Applications for Texas                                                                                                          | 2006-01-07          | 2022-11-12        |
-| BUSAPPWNSATXYY            | Business Applications for Texas                                                                                                          | 2007-01-06          | 2022-11-12        |
+| BUSAPPWNSATX              | Business Applications for Texas                                                                                                          | 2006-01-07          | 2022-11-19        |
+| BUSAPPWNSATXYY            | Business Applications for Texas                                                                                                          | 2007-01-06          | 2022-11-19        |
 | CAPUDSAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUDUAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUISAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Increases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
@@ -58,8 +58,8 @@
 | CAPUNUAMFRBDAL            | Current Capacity Utilization; Percentage Reporting No Change for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUSAMFRBDAL             | Current Capacity Utilization; Diffusion Index for Texas                                                                                  | 2004-06-01          | 2022-05-01        |
 | CAPUUAMFRBDAL             | Current Capacity Utilization; Diffusion Index for Texas                                                                                  | 2004-06-01          | 2022-05-01        |
-| CBUSAPPWNSATX             | Business Applications from Corporations for Texas                                                                                        | 2006-01-07          | 2022-11-12        |
-| CBUSAPPWNSATXYY           | Business Applications from Corporations for Texas                                                                                        | 2007-01-06          | 2022-11-12        |
+| CBUSAPPWNSATX             | Business Applications from Corporations for Texas                                                                                        | 2006-01-07          | 2022-11-19        |
+| CBUSAPPWNSATXYY           | Business Applications from Corporations for Texas                                                                                        | 2007-01-06          | 2022-11-19        |
 | CEXPDSAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CEXPDUAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CEXPISAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Increases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
@@ -320,9 +320,9 @@
 | GRONUAMFRBDAL             | Current Growth Rate of Orders; Percentage Reporting No Change for Texas                                                                  | 2004-06-01          | 2022-05-01        |
 | GROSAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                                 | 2004-06-01          | 2022-05-01        |
 | GROUAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                                 | 2004-06-01          | 2022-05-01        |
-| HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                          | 2006-01-07          | 2022-11-12        |
-| HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                          | 2007-01-06          | 2022-11-12        |
-| IHLCHGUSTX                | Job Postings on Indeed in Texas                                                                                                          | 2020-02-01          | 2022-11-11        |
+| HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                          | 2006-01-07          | 2022-11-19        |
+| HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                          | 2007-01-06          | 2022-11-19        |
+| IHLCHGUSTX                | Job Postings on Indeed in Texas                                                                                                          | 2020-02-01          | 2022-11-18        |
 | IMPMANTX                  | Imports of Goods: Manufactured Commodities for Texas                                                                                     | 2008-01-01          | 2022-09-01        |
 | IMPNONTX                  | Imports of Goods: Non-Manufactured Commodities for Texas                                                                                 | 2008-01-01          | 2022-09-01        |
 | IMPTOTTX                  | Imports of Goods for Texas                                                                                                               | 2008-01-01          | 2022-09-01        |
@@ -511,7 +511,7 @@
 | QTAXT53QTAXCAT3TXNO       | State Tax Collections: T53 Severance Taxes for Texas                                                                                     | 1994-01-01          | 2022-04-01        |
 | QTAXT99QTAXCAT3TXNO       | State Tax Collections: T99 Taxes, Not Elsewhere Classified for Texas                                                                     | 1994-01-01          | 2011-10-01        |
 | QTAXTOTALQTAXCAT3TXNO     | State Tax Collections: Total Taxes for Texas                                                                                             | 1994-01-01          | 2022-04-01        |
-| RTWVDTX684NMFRBDAL        | Real Trade-Weighted Value of the dollar for Texas                                                                                        | 1988-01-01          | 2022-08-01        |
+| RTWVDTX684NMFRBDAL        | Real Trade-Weighted Value of the dollar for Texas                                                                                        | 1988-01-01          | 2022-09-01        |
 | SMS48000000000000026      | All Employees: Total Nonfarm in Texas                                                                                                    | 1990-04-01          | 2022-10-01        |
 | SMS48000000500000001      | All Employees: Total Private in Texas                                                                                                    | 1990-01-01          | 2022-10-01        |
 | SMS48000000500000026      | All Employees: Total Private in Texas                                                                                                    | 1990-04-01          | 2022-10-01        |

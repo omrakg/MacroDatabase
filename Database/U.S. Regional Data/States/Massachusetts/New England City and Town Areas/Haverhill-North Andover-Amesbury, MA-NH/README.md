@@ -1,6 +1,7 @@
 | id                     | title                                                                                                                  | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | SMS25736040000000001   | All Employees: Total Nonfarm in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)                            | 1990-01-01          | 2022-10-01        |
+| SMS25736040000000026   | All Employees: Total Nonfarm in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)                            | 1990-04-01          | 2022-10-01        |
 | SMU25736040000000001   | All Employees: Total Nonfarm in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)                            | 1990-01-01          | 2022-10-01        |
 | SMU25736040000000001A  | All Employees: Total Nonfarm in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)                            | 1990-01-01          | 2021-01-01        |
 | SMU25736040500000001   | All Employees: Total Private in Haverhill-Newburyport-Amesbury Town, MA-NH (NECTA Division)                            | 1990-01-01          | 2022-10-01        |

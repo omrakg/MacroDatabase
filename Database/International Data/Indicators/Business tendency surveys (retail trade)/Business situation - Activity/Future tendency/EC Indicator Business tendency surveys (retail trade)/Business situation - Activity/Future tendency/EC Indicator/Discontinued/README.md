@@ -1,5 +1,2 @@
-| id              | title                                                                                                                                                     | observation_start   | observation_end   |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BRBUCT02JPQ460S | Business Tendency Surveys for Retail Trade: Business Situation Activity: Present: European Commission Indicator for Japan (DISCONTINUED)                  | 1974-04-01          | 2013-10-01        |
-| BRBUCT02RUQ460S | Business Tendency Surveys for Retail Trade: Business Situation Activity: Present: European Commission Indicator for the Russian Federation (DISCONTINUED) | 1998-01-01          | 2013-10-01        |
-| BRBUCT02ZAQ460N | Business Tendency Surveys for Retail Trade: Business Situation Activity: Present: European Commission Indicator for South Africa (DISCONTINUED)           | 1990-01-01          | 2013-10-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

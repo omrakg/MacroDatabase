@@ -6,10 +6,10 @@
 | ADPWCDMTNERSA         | Nonfarm Private Employment in the Mountain Census Division                                                             | 2010-01-02          | 2022-08-27        |
 | CIU2010000000248I     | Employment Cost Index: Total compensation for Private industry workers in the Mountain Census Division                 | 2006-01-01          | 2022-07-01        |
 | CIU2020000000248I     | Employment Cost Index: Wages and salaries for Private industry workers in the Mountain Census Division                 | 2006-01-01          | 2022-07-01        |
-| CMTNBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Mountain Census Division           | 1988-01-01          | 2022-09-01        |
-| CMTNBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Mountain Census Division           | 1988-01-01          | 2022-09-01        |
-| CMTNBPPRIV            | New Private Housing Units Authorized by Building Permits for the Mountain Census Division                              | 1988-01-01          | 2022-09-01        |
-| CMTNBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the Mountain Census Division                              | 1988-01-01          | 2022-09-01        |
+| CMTNBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Mountain Census Division           | 1988-01-01          | 2022-10-01        |
+| CMTNBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the Mountain Census Division           | 1988-01-01          | 2022-10-01        |
+| CMTNBPPRIV            | New Private Housing Units Authorized by Building Permits for the Mountain Census Division                              | 1988-01-01          | 2022-10-01        |
+| CMTNBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the Mountain Census Division                              | 1988-01-01          | 2022-10-01        |
 | CMTNLF                | Civilian Labor Force in Mountain Census Division                                                                       | 1976-01-01          | 2022-10-01        |
 | CMTNLFN               | Civilian Labor Force in Mountain Census Division                                                                       | 1976-01-01          | 2022-10-01        |
 | CMTNPOP               | Resident Population in the Mountain Census Division                                                                    | 1900-01-01          | 2021-01-01        |

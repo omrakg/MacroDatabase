@@ -24,7 +24,7 @@
 | HORAMSA48620              | Market Hotness: Hotness Rank in Wichita, KS (CBSA)                                                                                               | 2017-08-01          | 2022-10-01        |
 | HORAYYMSA48620            | Market Hotness: Hotness Rank in Wichita, KS (CBSA)                                                                                               | 2018-08-01          | 2022-10-01        |
 | HOSCMSA48620              | Market Hotness: Hotness Score in Wichita, KS (CBSA)                                                                                              | 2017-08-01          | 2022-10-01        |
-| IHLCHG48620               | Job Postings on Indeed in Wichita, KS (MSA)                                                                                                      | 2020-02-01          | 2022-11-11        |
+| IHLCHG48620               | Job Postings on Indeed in Wichita, KS (MSA)                                                                                                      | 2020-02-01          | 2022-11-18        |
 | IRPD48620                 | Implicit Regional Price Deflator for Wichita, KS (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT204862000000003A     | Unemployment Rate in Wichita, KS (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT204862000000004      | Unemployed Persons in Wichita, KS (MSA)                                                                                                          | 1990-01-01          | 2022-09-01        |

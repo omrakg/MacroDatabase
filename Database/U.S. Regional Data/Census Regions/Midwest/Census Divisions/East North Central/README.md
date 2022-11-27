@@ -4,10 +4,10 @@
 | ADPMCDENCNERSA        | Nonfarm Private Employment in the East North Central Census Division                                                             | 2010-01-01          | 2022-10-01        |
 | ADPWCDENCNERNSA       | Nonfarm Private Employment in the East North Central Census Division                                                             | 2010-01-02          | 2022-08-27        |
 | ADPWCDENCNERSA        | Nonfarm Private Employment in the East North Central Census Division                                                             | 2010-01-02          | 2022-08-27        |
-| CENCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East North Central Census Division           | 1988-01-01          | 2022-09-01        |
-| CENCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East North Central Census Division           | 1988-01-01          | 2022-09-01        |
-| CENCBPPRIV            | New Private Housing Units Authorized by Building Permits for the East North Central Census Division                              | 1988-01-01          | 2022-09-01        |
-| CENCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the East North Central Census Division                              | 1988-01-01          | 2022-09-01        |
+| CENCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East North Central Census Division           | 1988-01-01          | 2022-10-01        |
+| CENCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East North Central Census Division           | 1988-01-01          | 2022-10-01        |
+| CENCBPPRIV            | New Private Housing Units Authorized by Building Permits for the East North Central Census Division                              | 1988-01-01          | 2022-10-01        |
+| CENCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the East North Central Census Division                              | 1988-01-01          | 2022-10-01        |
 | CENCLF                | Civilian Labor Force in East North Central Census Division                                                                       | 1976-01-01          | 2022-10-01        |
 | CENCLFN               | Civilian Labor Force in East North Central Census Division                                                                       | 1976-01-01          | 2022-10-01        |
 | CENCPOP               | Resident Population in the East North Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |

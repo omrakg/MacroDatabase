@@ -108,7 +108,7 @@
 | HORAMSA21340              | Market Hotness: Hotness Rank in El Paso, TX (CBSA)                                                                                               | 2017-08-01          | 2022-10-01        |
 | HORAYYMSA21340            | Market Hotness: Hotness Rank in El Paso, TX (CBSA)                                                                                               | 2018-08-01          | 2022-10-01        |
 | HOSCMSA21340              | Market Hotness: Hotness Score in El Paso, TX (CBSA)                                                                                              | 2017-08-01          | 2022-10-01        |
-| IHLCHG21340               | Job Postings on Indeed in El Paso, TX (MSA)                                                                                                      | 2020-02-01          | 2022-11-11        |
+| IHLCHG21340               | Job Postings on Indeed in El Paso, TX (MSA)                                                                                                      | 2020-02-01          | 2022-11-18        |
 | IRPD21340                 | Implicit Regional Price Deflator for El Paso, TX (MSA)                                                                                           | 2008-01-01          | 2020-01-01        |
 | LAUMT482134000000003A     | Unemployment Rate in El Paso, TX (MSA)                                                                                                           | 1990-01-01          | 2021-01-01        |
 | LAUMT482134000000004      | Unemployed Persons in El Paso, TX (MSA)                                                                                                          | 1990-01-01          | 2022-09-01        |

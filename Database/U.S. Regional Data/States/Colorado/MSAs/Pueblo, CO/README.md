@@ -71,10 +71,10 @@
 | PRIREDCOU39380            | Housing Inventory: Price Reduced Count in Pueblo, CO (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
 | PRIREDCOUMM39380          | Housing Inventory: Price Reduced Count Month-Over-Month in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-10-01        |
 | PRIREDCOUYY39380          | Housing Inventory: Price Reduced Count Year-Over-Year in Pueblo, CO (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| PUEB308BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Pueblo, CO (MSA)            | 1988-01-01          | 2022-09-01        |
-| PUEB308BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Pueblo, CO (MSA)            | 1988-01-01          | 2022-09-01        |
-| PUEB308BPPRIV             | New Private Housing Units Authorized by Building Permits for Pueblo, CO (MSA)                               | 1988-01-01          | 2022-09-01        |
-| PUEB308BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Pueblo, CO (MSA)                               | 1988-01-01          | 2022-09-01        |
+| PUEB308BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Pueblo, CO (MSA)            | 1988-01-01          | 2022-10-01        |
+| PUEB308BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Pueblo, CO (MSA)            | 1988-01-01          | 2022-10-01        |
+| PUEB308BPPRIV             | New Private Housing Units Authorized by Building Permits for Pueblo, CO (MSA)                               | 1988-01-01          | 2022-10-01        |
+| PUEB308BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Pueblo, CO (MSA)                               | 1988-01-01          | 2022-10-01        |
 | PUEB308EDUH               | All Employees: Education and Health Services in Pueblo, CO (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | PUEB308EDUHN              | All Employees: Education and Health Services in Pueblo, CO (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | PUEB308FIRE               | All Employees: Financial Activities in Pueblo, CO (MSA)                                                     | 1990-01-01          | 2022-10-01        |

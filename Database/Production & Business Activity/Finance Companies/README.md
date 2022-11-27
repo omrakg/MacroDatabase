@@ -25,8 +25,8 @@
 | DTBNVXDFBANA     | Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                            | 1990-07-01          | 2022-09-01        |
 | DTBNVXDFBANM     | Business Motor Vehicle Loans and Leases Securitized by Finance Companies, Flow                                            | 1990-07-01          | 2022-09-01        |
 | DTBOELNM         | Business Equipment Loans Owned by Finance Companies, Level                                                                | 1985-06-01          | 2022-09-01        |
-| DTBOELXDFBANA    | Business Equipment Loans Owned by Finance Companies, Flow                                                                 | 1985-07-01          | 2022-08-01        |
-| DTBOELXDFBANM    | Business Equipment Loans Owned by Finance Companies, Flow                                                                 | 1985-07-01          | 2022-08-01        |
+| DTBOELXDFBANA    | Business Equipment Loans Owned by Finance Companies, Flow                                                                 | 1985-07-01          | 2022-09-01        |
+| DTBOELXDFBANM    | Business Equipment Loans Owned by Finance Companies, Flow                                                                 | 1985-07-01          | 2022-09-01        |
 | DTBOENM          | Business Equipment Loans and Leases Owned by Finance Companies, Level                                                     | 1985-06-01          | 2022-09-01        |
 | DTBOERNM         | Business Equipment Leases Owned by Finance Companies, Level                                                               | 1985-06-01          | 2022-09-01        |
 | DTBOERXDFBANA    | Business Equipment Leases Owned by Finance Companies, Flow                                                                | 1985-07-01          | 2022-09-01        |
@@ -50,7 +50,7 @@
 | DTBOVXDFBANM     | Business Motor Vehicle Loans and Leases Owned by Finance Companies, Flow                                                  | 1980-07-01          | 2022-09-01        |
 | DTBTABAM         | Total Business Owned and Managed Receivables Outstanding Held by Finance Companies                                        | 1985-07-01          | 2022-09-01        |
 | DTBTELNM         | Business Equipment Loans Owned and Securitized by Finance Companies, Level                                                | 1992-06-01          | 2022-09-01        |
-| DTBTELXDFBANM    | Business Equipment Loans Owned and Securitized by Finance Companies, Flow                                                 | 1992-07-01          | 2022-08-01        |
+| DTBTELXDFBANM    | Business Equipment Loans Owned and Securitized by Finance Companies, Flow                                                 | 1992-07-01          | 2022-09-01        |
 | DTBTENM          | Business Equipment Owned and Securitized by Finance Companies, Level                                                      | 2006-01-01          | 2022-09-01        |
 | DTBTERNM         | Business Equipment Leases Owned and Securitized by Finance Companies, Level                                               | 1990-06-01          | 2022-09-01        |
 | DTBTERXDFBANM    | Business Equipment Leases Owned and Securitized by Finance Companies, Flow                                                | 1990-07-01          | 2022-09-01        |

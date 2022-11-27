@@ -4,10 +4,10 @@
 | ADPMCDESCNERSA        | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-01          | 2022-10-01        |
 | ADPWCDESCNERNSA       | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-02          | 2022-08-27        |
 | ADPWCDESCNERSA        | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-02          | 2022-08-27        |
-| CESCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-09-01        |
-| CESCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-09-01        |
-| CESCBPPRIV            | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-09-01        |
-| CESCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-09-01        |
+| CESCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-10-01        |
+| CESCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-10-01        |
+| CESCBPPRIV            | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-10-01        |
+| CESCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-10-01        |
 | CESCLF                | Civilian Labor Force in East South Central Census Division                                                                       | 1976-01-01          | 2022-10-01        |
 | CESCLFN               | Civilian Labor Force in East South Central Census Division                                                                       | 1976-01-01          | 2022-10-01        |
 | CESCPOP               | Resident Population in the East South Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |
