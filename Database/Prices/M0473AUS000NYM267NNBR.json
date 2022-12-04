@@ -1,7 +1,7 @@
 {
   "id": "M0473AUS000NYM267NNBR",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Wholesale Price of Beef Fresh, Native Sides for New York",
   "observation_start": "1890-01-01",
   "observation_end": "1916-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:33-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1890-1916; (2)--Original Data, 1913-1939.\" Prices Are The Average Of Highs And Lows On Tuesday Of Each Week In New York From The \"New York Journal Of Commerce And Commercial\", January 1890 - June 1900; And From \"The New York Daily Tribune\", July 1900 - December 1916. Source: Bls Bulletins, \"Wholesale Prices\"\n\nThis NBER data series m04173a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04173a"
 }

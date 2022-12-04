@@ -1,17 +1,17 @@
 {
   "id": "MAUINSA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Mexican Auto Imports",
   "observation_start": "1993-01-01",
-  "observation_end": "2022-08-01",
+  "observation_end": "2022-09-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-10-28 09:10:16-05",
-  "popularity": 7,
-  "group_popularity": 19
+  "last_updated": "2022-12-01 08:43:17-06",
+  "popularity": 9,
+  "group_popularity": 18
 }

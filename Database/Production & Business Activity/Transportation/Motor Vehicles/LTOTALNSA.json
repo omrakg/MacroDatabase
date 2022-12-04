@@ -1,7 +1,7 @@
 {
   "id": "LTOTALNSA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Light Weight Vehicle Sales",
   "observation_start": "1976-01-01",
   "observation_end": "2022-10-01",
@@ -11,7 +11,7 @@
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-04 13:18:13-05",
-  "popularity": 41,
-  "group_popularity": 41
+  "last_updated": "2022-12-01 08:43:10-06",
+  "popularity": 42,
+  "group_popularity": 42
 }

@@ -1,7 +1,7 @@
 {
   "id": "Y033RL1Q225SBEA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment",
   "observation_start": "1947-04-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "% Chg. from Preceding Period",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-10-27 07:52:40-05",
-  "popularity": 7,
-  "group_popularity": 29,
+  "last_updated": "2022-11-30 07:54:04-06",
+  "popularity": 3,
+  "group_popularity": 27,
   "notes": "BEA Account Code: Y033RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

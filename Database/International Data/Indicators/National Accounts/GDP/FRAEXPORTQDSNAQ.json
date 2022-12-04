@@ -1,7 +1,7 @@
 {
   "id": "FRAEXPORTQDSNAQ",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Exports of Goods and Services in France",
   "observation_start": "1980-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Chn. 2010 Euros",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-11-02 16:46:04-05",
-  "popularity": 11,
-  "group_popularity": 15,
+  "last_updated": "2022-12-01 07:02:06-06",
+  "popularity": 9,
+  "group_popularity": 13,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), OECD National Accounts Statistics, http://dx.doi.org/10.1787/na-data-en, (accessed on date)"
 }

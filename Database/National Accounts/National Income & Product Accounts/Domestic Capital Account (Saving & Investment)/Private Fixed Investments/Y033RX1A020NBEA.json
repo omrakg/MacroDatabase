@@ -1,7 +1,7 @@
 {
   "id": "Y033RX1A020NBEA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment",
   "observation_start": "1967-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 13:56:27-05",
   "popularity": 2,
-  "group_popularity": 29,
+  "group_popularity": 27,
   "notes": "BEA Account Code: Y033RX\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

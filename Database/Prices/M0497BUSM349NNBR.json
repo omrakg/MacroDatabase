@@ -1,7 +1,7 @@
 {
   "id": "M0497BUSM349NNBR",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Index of Wholesale Prices of Hides and Leather Products for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1956-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:51-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1890-1951 (2)--Original Data, 1947-1956. Source: Bls, \"Wholesale Price Index (1947-49=100), \" Indexes For Groups, Subgroups, And Product Classes Of Commodities, 1947-1951, Issued February, 1952, For 1947-1950; Monthly Release On Wholesale (Primary Market) Price Index, 1952 And Following, For 1951 And 1953; Bls Bulletin No. 1143, For 1952.\n\nThis NBER data series m04097b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04097b"
 }

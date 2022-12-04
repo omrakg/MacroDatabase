@@ -1,17 +1,17 @@
 {
   "id": "JTU5200QUR",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Quits: Finance and Insurance",
   "observation_start": "2000-12-01",
-  "observation_end": "2022-09-01",
+  "observation_end": "2022-10-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Rate",
   "units_short": "Rate",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-01 09:04:06-05",
-  "popularity": 8,
-  "group_popularity": 11
+  "last_updated": "2022-11-30 09:04:05-06",
+  "popularity": 10,
+  "group_popularity": 12
 }

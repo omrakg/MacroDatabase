@@ -1,7 +1,7 @@
 {
   "id": "ODCNPI02LUA489N",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Building Permits Issued for Construction for Luxembourg (DISCONTINUED)",
   "observation_start": "1966-01-01",
   "observation_end": "2012-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-07-23 19:27:08-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 4,
   "notes": "OECD descriptor ID: ODCNPI02\nOECD unit ID: ML\nOECD country ID: LUX\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

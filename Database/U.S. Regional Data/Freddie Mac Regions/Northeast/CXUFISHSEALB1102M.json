@@ -1,7 +1,7 @@
 {
   "id": "CXUFISHSEALB1102M",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Expenditures: Fish and Seafood by Region: Residence in the Northeast Census Region",
   "observation_start": "1984-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-09 11:36:50-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "For more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
 }

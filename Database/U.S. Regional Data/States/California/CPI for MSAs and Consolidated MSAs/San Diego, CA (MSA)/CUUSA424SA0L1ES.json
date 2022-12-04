@@ -1,7 +1,7 @@
 {
   "id": "CUUSA424SA0L1ES",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in San Diego-Carlsbad, CA (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2022-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-13 07:41:38-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 4
 }

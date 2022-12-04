@@ -1,7 +1,7 @@
 {
   "id": "A31SVS",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Manufacturers' Value of Shipments: Primary Metals",
   "observation_start": "1992-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-23 07:32:18-06",
-  "popularity": 4,
-  "group_popularity": 5
+  "popularity": 3,
+  "group_popularity": 3
 }

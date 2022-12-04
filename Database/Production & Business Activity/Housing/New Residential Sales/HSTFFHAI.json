@@ -1,7 +1,7 @@
 {
   "id": "HSTFFHAI",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Houses Sold by Type of Financing, FHA Insured",
   "observation_start": "1988-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-26 09:01:17-05",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 9,
+  "group_popularity": 9
 }

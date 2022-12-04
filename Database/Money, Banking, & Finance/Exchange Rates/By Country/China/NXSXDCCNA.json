@@ -1,7 +1,7 @@
 {
   "id": "NXSXDCCNA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Nominal Exports of Services for China",
   "observation_start": "1968-01-01",
   "observation_end": "2019-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-06-22 10:06:20-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

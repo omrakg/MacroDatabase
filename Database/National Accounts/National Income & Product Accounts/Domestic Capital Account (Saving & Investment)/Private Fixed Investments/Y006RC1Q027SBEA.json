@@ -1,7 +1,7 @@
 {
   "id": "Y006RC1Q027SBEA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Gross Private Domestic Investment: Fixed Investment: Nonresidential: Intellectual Property Products: Research and Development",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-10-27 07:52:14-05",
-  "popularity": 16,
-  "group_popularity": 16,
+  "last_updated": "2022-11-30 07:52:34-06",
+  "popularity": 19,
+  "group_popularity": 19,
   "notes": "BEA Account Code: Y006RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

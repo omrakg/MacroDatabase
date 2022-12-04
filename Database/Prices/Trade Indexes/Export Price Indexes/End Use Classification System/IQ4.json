@@ -1,7 +1,7 @@
 {
   "id": "IQ4",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Export Price Index (End Use): Consumer Goods, Excluding Automotives",
   "observation_start": "1983-09-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-16 07:36:11-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

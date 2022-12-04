@@ -1,7 +1,7 @@
 {
   "id": "CUUSA433SATCLTB",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in Denver-Aurora-Lakewood, CO (CBSA)",
   "observation_start": "2010-01-01",
   "observation_end": "2020-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-01-13 07:41:34-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

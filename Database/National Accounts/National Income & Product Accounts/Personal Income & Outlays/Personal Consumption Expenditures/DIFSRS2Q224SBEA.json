@@ -1,7 +1,7 @@
 {
   "id": "DIFSRS2Q224SBEA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Contributions to percent change in gross domestic purchases: Personal consumption expenditures: Household consumption expenditures: Financial services and insurance",
   "observation_start": "1947-04-01",
   "observation_end": "2022-07-01",
@@ -11,7 +11,7 @@
   "units_short": "Percentage Points at Annual Rate",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-10-27 07:54:48-05",
+  "last_updated": "2022-11-30 07:55:01-06",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: DIFSRS\n\nFor more information about this series, please see http://www.bea.gov/national/."

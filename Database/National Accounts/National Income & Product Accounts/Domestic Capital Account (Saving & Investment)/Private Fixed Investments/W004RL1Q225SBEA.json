@@ -1,7 +1,7 @@
 {
   "id": "W004RL1Q225SBEA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Real Private Fixed Investment: Nonresidential: Structures: Other Structures",
   "observation_start": "1958-04-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "% Chg. from Preceding Period",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-10-27 07:54:17-05",
+  "last_updated": "2022-11-30 07:54:35-06",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "BEA Account Code: W004RL\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

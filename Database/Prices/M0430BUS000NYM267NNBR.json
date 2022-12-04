@@ -1,7 +1,7 @@
 {
   "id": "M0430BUS000NYM267NNBR",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Wholesale Price of Granulated Sugar for New York",
   "observation_start": "1938-01-01",
   "observation_end": "1956-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:51:20-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1890-1941; (2)--Original Data, 1938-1956. Data Is \"Net Cash\" After The Deduction Of A 2% Discount And Excise Tax Of 0.535 Cents Per Pound. The Price Is The Average Of All Quo- Tations During The Month Divided By The Number Of Trading Days Per Month, Assuming A Five-Day Week And Deducting All Legal Holidays. Source: Statistical Sugar Trade Journal, Weekly, Willett & Gray, Inc., New York (See January Issue Of Each Year That Contains Annual Review)\n\nThis NBER data series m04030b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04030b"
 }

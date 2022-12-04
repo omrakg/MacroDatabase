@@ -1,7 +1,7 @@
 {
   "id": "A442RC1Q027SBEA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Net value added of corporate business: Compensation of employees",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-10-27 07:53:21-05",
-  "popularity": 4,
-  "group_popularity": 4,
+  "last_updated": "2022-11-30 07:54:02-06",
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "BEA Account Code: A442RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "SMS36356140000000026",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "All Employees: Total Nonfarm in New York-Jersey City-White Plains, NY-NJ (MD)",
   "observation_start": "1990-04-01",
   "observation_end": "2022-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-19 02:53:18-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

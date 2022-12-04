@@ -1,7 +1,7 @@
 {
   "id": "PCU311611311611Q",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Producer Price Index by Industry: Animal, Except Poultry, Slaughtering: Hides, Skins, and Pelts, Made in Slaughtering Plants",
   "observation_start": "1980-12-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 08:00:47-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 5,
+  "group_popularity": 5
 }

@@ -1,7 +1,7 @@
 {
   "id": "CUUR0000SEGA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Consumer Price Index for All Urban Consumers: Tobacco and Smoking Products in U.S. City Average",
   "observation_start": "1947-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-10 07:38:31-06",
-  "popularity": 17,
-  "group_popularity": 26
+  "popularity": 19,
+  "group_popularity": 30
 }

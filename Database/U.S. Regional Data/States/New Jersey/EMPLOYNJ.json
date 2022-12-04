@@ -1,7 +1,7 @@
 {
   "id": "EMPLOYNJ",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Employment Level for New Jersey",
   "observation_start": "2003-10-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-28 14:58:04-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 10,
+  "group_popularity": 10
 }

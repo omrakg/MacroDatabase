@@ -1,7 +1,7 @@
 {
   "id": "M0448BUSM336NNBR",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Index of Wholesale Prices for United States",
   "observation_start": "1890-01-01",
   "observation_end": "1914-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:58:16-05",
-  "popularity": 12,
-  "group_popularity": 20,
+  "popularity": 18,
+  "group_popularity": 24,
   "notes": "Series Is Presented Here As Three Variables-- (1)--Original Data, 1850-1894 (2)--Original Data, 1890-1914 (3)-- Original Data, 1913-1968. There Is No Explanation For The Drop In The Figure For July, 1906 (59.7). Source: Annual Averages Copied From Bls, Handbook Of Labor Statistics, 1947 Edition. Bls Bulletin No. 543, Pp. 3-11;\n\nThis NBER data series m04048b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04048b"
 }

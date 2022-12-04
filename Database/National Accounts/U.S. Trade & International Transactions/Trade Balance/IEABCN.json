@@ -1,7 +1,7 @@
 {
   "id": "IEABCN",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Balance on current account",
   "observation_start": "1999-01-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-22 08:47:11-05",
-  "popularity": 6,
-  "group_popularity": 54,
+  "popularity": 7,
+  "group_popularity": 53,
   "notes": "Calculated by subtracting the imports of goods and services and income payments (debits) from the exports of goods and services and income receipts (credits)"
 }

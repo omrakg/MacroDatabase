@@ -1,7 +1,7 @@
 {
   "id": "SMU51400604300000001",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Richmond, VA (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-19 02:11:56-06",
   "popularity": 1,
-  "group_popularity": 1
+  "group_popularity": 2
 }

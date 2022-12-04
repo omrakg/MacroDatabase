@@ -1,7 +1,7 @@
 {
   "id": "A133RC1Q027SBEA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Automobile output",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-10-27 07:53:24-05",
-  "popularity": 6,
+  "last_updated": "2022-11-30 07:53:45-06",
+  "popularity": 5,
   "group_popularity": 6,
   "notes": "BEA Account Code: A133RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

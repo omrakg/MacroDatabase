@@ -1,7 +1,7 @@
 {
   "id": "PUACCTX",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Pandemic Unemployment Assistance Continued Claims in Texas",
   "observation_start": "2020-03-28",
   "observation_end": "2022-10-22",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-14 07:33:06-06",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 16,
+  "group_popularity": 16,
   "notes": "Continued claims, also referred to as insured unemployment, is the number of people who have already filed an initial claim and who have experienced a week of unemployment and then filed a continued claim to claim benefits for that week of unemployment. Continued claims data are based on the week of unemployment, not the week when the initial claim was filed.\n\nThe Pandemic Unemployment Assistance (PUA) is a program that temporarily expanded unemployment insurance eligibility to self-employed workers, freelancers, independent contractors and part-time workers impacted by the coronavirus pandemic in 2020. This program was established by the Coronavirus Aid, Relief, and Economic Security (CARES) Act, which expanded states' ability to provide unemployment insurance to many workers affected by COVID-19, including people who aren't ordinarily eligible for unemployment benefits."
 }

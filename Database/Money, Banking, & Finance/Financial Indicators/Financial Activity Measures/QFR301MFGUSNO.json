@@ -1,7 +1,7 @@
 {
   "id": "QFR301MFGUSNO",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Quarterly Financial Report: U.S. Corporations: All Manufacturing: Short-Term Debt, Original Maturity of 1 Year or Less: Loans from Banks",
   "observation_start": "2000-10-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-07 09:06:05-05",
-  "popularity": 11,
-  "group_popularity": 11,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Further information related to the Quarterly Financial Report survey can be found at https://www.census.gov/econ/qfr/about.html\nMethodology details can be found at https://www.census.gov/econ/qfr/documents/QFR_Methodology.pdf"
 }

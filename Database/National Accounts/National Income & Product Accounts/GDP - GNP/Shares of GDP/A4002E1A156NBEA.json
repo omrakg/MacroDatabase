@@ -1,7 +1,7 @@
 {
   "id": "A4002E1A156NBEA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Shares of gross domestic income: Compensation of employees, paid",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 13:56:03-05",
-  "popularity": 22,
-  "group_popularity": 22,
+  "popularity": 19,
+  "group_popularity": 19,
   "notes": "BEA Account Code: A4002E\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "M0493CUSM267NNBR",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Wholesale Price of Newsprint Paper for United States",
   "observation_start": "1926-01-01",
   "observation_end": "1951-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:49:59-05",
-  "popularity": 1,
-  "group_popularity": 5,
+  "popularity": 3,
+  "group_popularity": 7,
   "notes": "Series Is Presented Here As Four Variables-- (1)--Original Data, 1890-1918 (2)--Original Data, 1914-1928 (3)-- Origianl Data, 1926-1951 (4)--Original Data, 1947-1958. \"Rolls, Contract, Destination, New York Basis. The Grade Of Paper Is Known As Grade 32 Or 32 Pound Weight Paper And Is By Far More Important Than All Other Grades Combined.\" Cents Per Pound Converted By NBER Form Published Figures Giving Price In Dollars Per Short Ton. Source: Survey Of Current Business (1931-1941 Checked With Bls Bulletins And Wholesale Prices And A Sample Check From Paper Trade Journal).\n\nThis NBER data series m04093c appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04093c"
 }

@@ -1,17 +1,17 @@
 {
   "id": "GFDEBTN",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Federal Debt: Total Public Debt",
   "observation_start": "1966-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-07-01",
   "frequency": "Quarterly, End of Period",
   "frequency_short": "Q",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-08-22 13:39:01-05",
+  "last_updated": "2022-12-02 18:27:01-06",
   "popularity": 79,
   "group_popularity": 79
 }

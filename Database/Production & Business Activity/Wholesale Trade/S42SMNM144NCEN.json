@@ -1,7 +1,7 @@
 {
   "id": "S42SMNM144NCEN",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Total Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices Sales",
   "observation_start": "1992-01-01",
   "observation_end": "2022-09-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-09 09:01:36-06",
-  "popularity": 4,
-  "group_popularity": 8
+  "popularity": 3,
+  "group_popularity": 6
 }

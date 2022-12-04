@@ -1,7 +1,7 @@
 {
   "id": "A01214FRA422NNBR",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Coal Production for France",
   "observation_start": "1870-01-01",
   "observation_end": "1918-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-15 15:49:16-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "Data For 1870-1871 Were Affected By The Franco-Prussian War; Data For 1871 Also Affected By The Cession Of Alsace-Lorraine To Germany. Data Exclude Lignite Production, But Include Anthracite. Source: Direction Des Mines, Statistique De L'Industrie Minerale, 1870-1872 And Later Issues.\n\nThis NBER data series a01214 appears on the NBER website in Chapter 1 at http://www.nber.org/databases/macrohistory/contents/chapter01.html.\n\nNBER Indicator: a01214"
 }

@@ -1,7 +1,7 @@
 {
   "id": "NRIPDC96",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Real Nonresidential Investment: Equipment and Software, 3 Decimal (DISCONTINUED)",
   "observation_start": "1995-01-01",
   "observation_end": "2013-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2013-06-26 08:07:01-05",
-  "popularity": 7,
-  "group_popularity": 7,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "A Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

@@ -1,17 +1,17 @@
 {
   "id": "ADPWINDFINNERNSA",
-  "realtime_start": "2022-11-27",
-  "realtime_end": "2022-11-27",
+  "realtime_start": "2022-12-04",
+  "realtime_end": "2022-12-04",
   "title": "Nonfarm Private Payroll Employment for Financial Activities",
   "observation_start": "2010-01-02",
-  "observation_end": "2022-08-27",
+  "observation_end": "2022-10-01",
   "frequency": "Weekly",
   "frequency_short": "W",
   "units": "Persons",
   "units_short": "Persons",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-02 07:26:13-05",
+  "last_updated": "2022-11-30 07:26:21-06",
   "popularity": 1,
   "group_popularity": 5
 }
