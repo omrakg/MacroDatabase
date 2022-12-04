@@ -1,12 +1,12 @@
 | id                        | title                                                                                           | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU31020            | Housing Inventory: Active Listing Count in Longview, WA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM31020          | Housing Inventory: Active Listing Count Month-Over-Month in Longview, WA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY31020          | Housing Inventory: Active Listing Count Year-Over-Year in Longview, WA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS31020Q            | All-Transactions House Price Index for Longview, WA (MSA)                                       | 1979-10-01          | 2022-04-01        |
-| AVELISPRI31020            | Housing Inventory: Average Listing Price in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM31020          | Housing Inventory: Average Listing Price Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY31020          | Housing Inventory: Average Listing Price Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU31020            | Housing Inventory: Active Listing Count in Longview, WA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM31020          | Housing Inventory: Active Listing Count Month-Over-Month in Longview, WA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY31020          | Housing Inventory: Active Listing Count Year-Over-Year in Longview, WA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS31020Q            | All-Transactions House Price Index for Longview, WA (MSA)                                       | 1979-10-01          | 2022-07-01        |
+| AVELISPRI31020            | Housing Inventory: Average Listing Price in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM31020          | Housing Inventory: Average Listing Price Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY31020          | Housing Inventory: Average Listing Price Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | ENUC310230010             | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC310230010SA           | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC310240010             | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -21,9 +21,9 @@
 | ENUC310240510SA           | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD31020                 | Implicit Regional Price Deflator for Longview, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT533102000000003A     | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT533102000000004      | Unemployed Persons in Longview, WA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT533102000000004      | Unemployed Persons in Longview, WA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT533102000000004A     | Unemployed Persons in Longview, WA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT533102000000005      | Employed Persons in Longview, WA (MSA)                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT533102000000005      | Employed Persons in Longview, WA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT533102000000005A     | Employed Persons in Longview, WA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT533102000000006A     | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LGKPOP                    | Resident Population in Longview, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
@@ -33,8 +33,8 @@
 | LONG053GOVTN              | All Employees: Government in Longview, WA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | LONG053LEIH               | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2022-10-01        |
 | LONG053LEIHN              | All Employees: Leisure and Hospitality in Longview, WA (MSA)                                    | 1990-01-01          | 2022-10-01        |
-| LONG053LF                 | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
-| LONG053LFN                | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| LONG053LF                 | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
+| LONG053LFN                | Civilian Labor Force in Longview, WA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | LONG053MFG                | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | LONG053MFGN               | All Employees: Manufacturing in Longview, WA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | LONG053NA                 | All Employees: Total Nonfarm in Longview, WA (MSA)                                              | 1990-01-01          | 2022-10-01        |
@@ -44,34 +44,34 @@
 | LONG053PCPI               | Per Capita Personal Income in Longview, WA (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | LONG053TRAD               | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2022-10-01        |
 | LONG053TRADN              | All Employees: Trade, Transportation, and Utilities in Longview, WA (MSA)                       | 1990-01-01          | 2022-10-01        |
-| LONG053UR                 | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| LONG053URN                | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| MEDDAYONMAR31020          | Housing Inventory: Median Days on Market in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM31020        | Housing Inventory: Median Days on Market Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY31020        | Housing Inventory: Median Days on Market Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI31020            | Housing Inventory: Median Listing Price in Longview, WA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM31020          | Housing Inventory: Median Listing Price Month-Over-Month in Longview, WA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE31020   | Housing Inventory: Median Listing Price per Square Feet in Longview, WA (CBSA)                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM31020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Longview, WA (CBSA) | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY31020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Longview, WA (CBSA)   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY31020          | Housing Inventory: Median Listing Price Year-Over-Year in Longview, WA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEE31020            | Housing Inventory: Median Home Size in Square Feet in Longview, WA (CBSA)                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM31020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Longview, WA (CBSA)      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY31020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Longview, WA (CBSA)        | 2017-07-01          | 2022-10-01        |
-| NEWLISCOU31020            | Housing Inventory: New Listing Count in Longview, WA (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM31020          | Housing Inventory: New Listing Count Month-Over-Month in Longview, WA (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY31020          | Housing Inventory: New Listing Count Year-Over-Year in Longview, WA (CBSA)                      | 2017-07-01          | 2022-10-01        |
+| LONG053UR                 | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| LONG053URN                | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| MEDDAYONMAR31020          | Housing Inventory: Median Days on Market in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM31020        | Housing Inventory: Median Days on Market Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY31020        | Housing Inventory: Median Days on Market Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI31020            | Housing Inventory: Median Listing Price in Longview, WA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM31020          | Housing Inventory: Median Listing Price Month-Over-Month in Longview, WA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE31020   | Housing Inventory: Median Listing Price per Square Feet in Longview, WA (CBSA)                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM31020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Longview, WA (CBSA) | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY31020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Longview, WA (CBSA)   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY31020          | Housing Inventory: Median Listing Price Year-Over-Year in Longview, WA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEE31020            | Housing Inventory: Median Home Size in Square Feet in Longview, WA (CBSA)                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM31020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Longview, WA (CBSA)      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY31020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Longview, WA (CBSA)        | 2017-07-01          | 2022-11-01        |
+| NEWLISCOU31020            | Housing Inventory: New Listing Count in Longview, WA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM31020          | Housing Inventory: New Listing Count Month-Over-Month in Longview, WA (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY31020          | Housing Inventory: New Listing Count Year-Over-Year in Longview, WA (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | NGMP31020                 | Total Gross Domestic Product for Longview, WA (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA131020          | U.S. Granted Utility Patents Originating in Longview, WA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU31020            | Housing Inventory: Pending Listing Count in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM31020          | Housing Inventory: Pending Listing Count Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY31020          | Housing Inventory: Pending Listing Count Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU31020            | Housing Inventory: Price Increased Count in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
+| PENLISCOU31020            | Housing Inventory: Pending Listing Count in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM31020          | Housing Inventory: Pending Listing Count Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY31020          | Housing Inventory: Pending Listing Count Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU31020            | Housing Inventory: Price Increased Count in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM31020          | Housing Inventory: Price Increased Count Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY31020          | Housing Inventory: Price Increased Count Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU31020            | Housing Inventory: Price Reduced Count in Longview, WA (CBSA)                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM31020          | Housing Inventory: Price Reduced Count Month-Over-Month in Longview, WA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY31020          | Housing Inventory: Price Reduced Count Year-Over-Year in Longview, WA (CBSA)                    | 2017-07-01          | 2022-10-01        |
+| PRIINCCOUYY31020          | Housing Inventory: Price Increased Count Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU31020            | Housing Inventory: Price Reduced Count in Longview, WA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM31020          | Housing Inventory: Price Reduced Count Month-Over-Month in Longview, WA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY31020          | Housing Inventory: Price Reduced Count Year-Over-Year in Longview, WA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP31020                 | Total Quantity Indexes for Real GDP for Longview, WA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP31020                 | Total Real Gross Domestic Product for Longview, WA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI31020                  | Real Personal Income for Longview, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

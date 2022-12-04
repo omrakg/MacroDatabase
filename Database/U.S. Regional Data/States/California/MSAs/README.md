@@ -10,7 +10,7 @@
 | San Diego-Chula Vista-Carlsbad, CA   |               392 |
 | Los Angeles-Long Beach-Anaheim, CA   |               332 |
 | Santa Maria-Santa Barbara, CA        |               175 |
-| El Centro, CA                        |               150 |
+| El Centro, CA                        |                 0 |
 | Merced, CA                           |               173 |
 | Santa Rosa-Petaluma, CA              |               221 |
 | Riverside-San Bernardino-Ontario, CA |               364 |
@@ -18,7 +18,7 @@
 | San Luis Obispo-Paso Robles, CA      |               191 |
 | Modesto, CA                          |               201 |
 | Sacramento-Roseville-Folsom, CA      |               325 |
-| San Francisco-Oakland-Berkeley, CA   |                 0 |
+| San Francisco-Oakland-Berkeley, CA   |               195 |
 | Yuba City, CA                        |               164 |
 | Vallejo, CA                          |               212 |
 | Salinas, CA                          |               196 |

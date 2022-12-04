@@ -10,7 +10,7 @@
 | Calumet County, WI                      |               144 |
 | Douglas County, WI                      |               146 |
 | La Crosse County, WI                    |               147 |
-| Sawyer County, WI                       |                90 |
+| Sawyer County, WI                       |                 0 |
 | Rock County, WI                         |               147 |
 | Chippewa County, WI                     |               146 |
 | Langlade County, WI                     |                90 |
@@ -36,7 +36,7 @@
 | Waukesha County, WI                     |               147 |
 | Kenosha County, WI                      |               147 |
 | Outagamie County, WI                    |               147 |
-| Shawano County, WI                      |                 0 |
+| Shawano County, WI                      |                90 |
 | Marquette County, WI                    |                89 |
 | Columbia County, WI                     |               146 |
 | Taylor County, WI                       |                90 |
@@ -70,4 +70,4 @@
 | Pierce County, WI                       |                90 |
 | Washburn County, WI                     |                89 |
 | Dunn County, WI                         |                90 |
-| Green County, WI                        |                90 |
+| Green County, WI                        |                 0 |

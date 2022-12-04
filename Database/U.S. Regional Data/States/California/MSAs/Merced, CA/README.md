@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU32900            | Housing Inventory: Active Listing Count in Merced, CA (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM32900          | Housing Inventory: Active Listing Count Month-Over-Month in Merced, CA (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY32900          | Housing Inventory: Active Listing Count Year-Over-Year in Merced, CA (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS32900Q            | All-Transactions House Price Index for Merced, CA (MSA)                                                     | 1979-01-01          | 2022-04-01        |
-| AVELISPRI32900            | Housing Inventory: Average Listing Price in Merced, CA (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM32900          | Housing Inventory: Average Listing Price Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY32900          | Housing Inventory: Average Listing Price Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA32900              | Market Hotness: Demand Score in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU32900            | Housing Inventory: Active Listing Count in Merced, CA (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM32900          | Housing Inventory: Active Listing Count Month-Over-Month in Merced, CA (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY32900          | Housing Inventory: Active Listing Count Year-Over-Year in Merced, CA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS32900Q            | All-Transactions House Price Index for Merced, CA (MSA)                                                     | 1979-01-01          | 2022-07-01        |
+| AVELISPRI32900            | Housing Inventory: Average Listing Price in Merced, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM32900          | Housing Inventory: Average Listing Price Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY32900          | Housing Inventory: Average Listing Price Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA32900              | Market Hotness: Demand Score in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC329030010             | Total Quarterly Wages in Merced, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC329030010SA           | Total Quarterly Wages in Merced, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC329040010             | Average Weekly Wages for Employees in Total Covered Establishments in Merced, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,42 +20,42 @@
 | ENUC329040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Merced, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC329040510             | Average Weekly Wages for Employees in Private Establishments in Merced, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC329040510SA           | Average Weekly Wages for Employees in Private Establishments in Merced, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA32900            | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA32900              | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA32900            | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA32900              | Market Hotness: Hotness Score in Merced, CA (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA32900            | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA32900              | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA32900            | Market Hotness: Hotness Rank in Merced, CA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA32900              | Market Hotness: Hotness Score in Merced, CA (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD32900                 | Implicit Regional Price Deflator for Merced, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT063290000000003A     | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT063290000000004      | Unemployed Persons in Merced, CA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT063290000000004      | Unemployed Persons in Merced, CA (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT063290000000004A     | Unemployed Persons in Merced, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT063290000000005      | Employed Persons in Merced, CA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT063290000000005      | Employed Persons in Merced, CA (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT063290000000005A     | Employed Persons in Merced, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT063290000000006A     | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA32900          | Market Hotness: Listing Views per Property in Merced, CA (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA32900        | Market Hotness: Listing Views per Property Versus the United States in Merced, CA (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA32900          | Market Hotness: Listing Views per Property in Merced, CA (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA32900        | Market Hotness: Median Days on Market in Merced, CA (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA32900          | Market Hotness: Median Days on Market in Merced, CA (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA32900        | Market Hotness: Median Days on Market in Merced, CA (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR32900          | Housing Inventory: Median Days on Market in Merced, CA (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM32900        | Housing Inventory: Median Days on Market Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY32900        | Housing Inventory: Median Days on Market Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI32900            | Housing Inventory: Median Listing Price in Merced, CA (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM32900          | Housing Inventory: Median Listing Price Month-Over-Month in Merced, CA (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE32900   | Housing Inventory: Median Listing Price per Square Feet in Merced, CA (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM32900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Merced, CA (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY32900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Merced, CA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY32900          | Housing Inventory: Median Listing Price Year-Over-Year in Merced, CA (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA32900          | Market Hotness: Median Days on Market in Merced, CA (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA32900          | Market Hotness: Median Days on Market Versus the United States in Merced, CA (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA32900          | Market Hotness: Median Days on Market Day in Merced, CA (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE32900            | Housing Inventory: Median Home Size in Square Feet in Merced, CA (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM32900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Merced, CA (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY32900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Merced, CA (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA32900          | Market Hotness: Median Listing Price in Merced, CA (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA32900            | Market Hotness: Median Listing Price in Merced, CA (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA32900        | Market Hotness: Median Listing Price Versus the United States in Merced, CA (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA32900          | Market Hotness: Median Listing Price in Merced, CA (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
+| LDPEPRMMMSA32900          | Market Hotness: Listing Views per Property in Merced, CA (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA32900        | Market Hotness: Listing Views per Property Versus the United States in Merced, CA (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA32900          | Market Hotness: Listing Views per Property in Merced, CA (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA32900        | Market Hotness: Median Days on Market in Merced, CA (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA32900          | Market Hotness: Median Days on Market in Merced, CA (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA32900        | Market Hotness: Median Days on Market in Merced, CA (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR32900          | Housing Inventory: Median Days on Market in Merced, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM32900        | Housing Inventory: Median Days on Market Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY32900        | Housing Inventory: Median Days on Market Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI32900            | Housing Inventory: Median Listing Price in Merced, CA (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM32900          | Housing Inventory: Median Listing Price Month-Over-Month in Merced, CA (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE32900   | Housing Inventory: Median Listing Price per Square Feet in Merced, CA (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM32900 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Merced, CA (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY32900 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Merced, CA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY32900          | Housing Inventory: Median Listing Price Year-Over-Year in Merced, CA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA32900          | Market Hotness: Median Days on Market in Merced, CA (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA32900          | Market Hotness: Median Days on Market Versus the United States in Merced, CA (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA32900          | Market Hotness: Median Days on Market Day in Merced, CA (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE32900            | Housing Inventory: Median Home Size in Square Feet in Merced, CA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM32900          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Merced, CA (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY32900          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Merced, CA (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA32900          | Market Hotness: Median Listing Price in Merced, CA (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA32900            | Market Hotness: Median Listing Price in Merced, CA (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA32900        | Market Hotness: Median Listing Price Versus the United States in Merced, CA (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA32900          | Market Hotness: Median Listing Price in Merced, CA (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
 | MERC906EDUH               | All Employees: Education and Health Services in Merced, CA (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | MERC906EDUHN              | All Employees: Education and Health Services in Merced, CA (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | MERC906FIRE               | All Employees: Financial Activities in Merced, CA (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -66,8 +66,8 @@
 | MERC906INFON              | All Employees: Information in Merced, CA (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | MERC906LEIH               | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | MERC906LEIHN              | All Employees: Leisure and Hospitality in Merced, CA (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| MERC906LF                 | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| MERC906LFN                | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| MERC906LF                 | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| MERC906LFN                | Civilian Labor Force in Merced, CA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | MERC906MFG                | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | MERC906MFGN               | All Employees: Manufacturing in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | MERC906NA                 | All Employees: Total Nonfarm in Merced, CA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -81,24 +81,24 @@
 | MERC906SRVON              | All Employees: Other Services in Merced, CA (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | MERC906TRAD               | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | MERC906TRADN              | All Employees: Trade, Transportation, and Utilities in Merced, CA (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| MERC906UR                 | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| MERC906URN                | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| MERC906UR                 | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| MERC906URN                | Unemployment Rate in Merced, CA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | MRCPOP                    | Resident Population in Merced, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| NEWLISCOU32900            | Housing Inventory: New Listing Count in Merced, CA (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM32900          | Housing Inventory: New Listing Count Month-Over-Month in Merced, CA (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY32900          | Housing Inventory: New Listing Count Year-Over-Year in Merced, CA (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| NEWLISCOU32900            | Housing Inventory: New Listing Count in Merced, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM32900          | Housing Inventory: New Listing Count Month-Over-Month in Merced, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY32900          | Housing Inventory: New Listing Count Year-Over-Year in Merced, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP32900                 | Total Gross Domestic Product for Merced, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA32900            | Market Hotness: Nielsen Household Rank in Merced, CA (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA32900            | Market Hotness: Nielsen Household Rank in Merced, CA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA132900          | U.S. Granted Utility Patents Originating in Merced, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU32900            | Housing Inventory: Pending Listing Count in Merced, CA (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM32900          | Housing Inventory: Pending Listing Count Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY32900          | Housing Inventory: Pending Listing Count Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU32900            | Housing Inventory: Price Increased Count in Merced, CA (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM32900          | Housing Inventory: Price Increased Count Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY32900          | Housing Inventory: Price Increased Count Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU32900            | Housing Inventory: Price Reduced Count in Merced, CA (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM32900          | Housing Inventory: Price Reduced Count Month-Over-Month in Merced, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY32900          | Housing Inventory: Price Reduced Count Year-Over-Year in Merced, CA (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU32900            | Housing Inventory: Pending Listing Count in Merced, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM32900          | Housing Inventory: Pending Listing Count Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY32900          | Housing Inventory: Pending Listing Count Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU32900            | Housing Inventory: Price Increased Count in Merced, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM32900          | Housing Inventory: Price Increased Count Month-Over-Month in Merced, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY32900          | Housing Inventory: Price Increased Count Year-Over-Year in Merced, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU32900            | Housing Inventory: Price Reduced Count in Merced, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM32900          | Housing Inventory: Price Reduced Count Month-Over-Month in Merced, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY32900          | Housing Inventory: Price Reduced Count Year-Over-Year in Merced, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP32900                 | Total Quantity Indexes for Real GDP for Merced, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP32900                 | Total Real Gross Domestic Product for Merced, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI32900                  | Real Personal Income for Merced, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -170,4 +170,4 @@
 | SMU06329009093200001      | All Employees: Government: Local Government Excluding Educational Services in Merced, CA (MSA)              | 1990-01-01          | 2022-10-01        |
 | SMU06329009093200001A     | All Employees: Local Government Excluding Educational Services in Merced, CA (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU06329009093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Merced, CA (MSA)              | 1990-01-01          | 2022-10-01        |
-| SUSCMSA32900              | Market Hotness: Supply Score in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA32900              | Market Hotness: Supply Score in Merced, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

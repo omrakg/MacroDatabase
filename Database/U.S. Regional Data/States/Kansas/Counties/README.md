@@ -7,7 +7,7 @@
 | Lane County, KS         |                89 |
 | Coffey County, KS       |                90 |
 | Ness County, KS         |                88 |
-| Decatur County, KS      |                86 |
+| Decatur County, KS      |                 0 |
 | Leavenworth County, KS  |               147 |
 | Thomas County, KS       |                90 |
 | Allen County, KS        |                90 |
@@ -45,7 +45,7 @@
 | Wabaunsee County, KS    |                89 |
 | Osborne County, KS      |                88 |
 | Hodgeman County, KS     |                89 |
-| Morris County, KS       |                 0 |
+| Morris County, KS       |                88 |
 | Stanton County, KS      |                88 |
 | Trego County, KS        |                88 |
 | Kiowa County, KS        |                89 |
@@ -67,7 +67,7 @@
 | Edwards County, KS      |                89 |
 | Lincoln County, KS      |                88 |
 | Sherman County, KS      |                89 |
-| Harper County, KS       |                88 |
+| Harper County, KS       |                 0 |
 | Linn County, KS         |                88 |
 | Morton County, KS       |                88 |
 | Rawlins County, KS      |                89 |

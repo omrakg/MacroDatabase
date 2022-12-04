@@ -1,12 +1,12 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU30860            | Housing Inventory: Active Listing Count in Logan, UT-ID (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM30860          | Housing Inventory: Active Listing Count Month-Over-Month in Logan, UT-ID (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY30860          | Housing Inventory: Active Listing Count Year-Over-Year in Logan, UT-ID (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS30860Q            | All-Transactions House Price Index for Logan, UT-ID (MSA)                                                     | 1986-10-01          | 2022-04-01        |
-| AVELISPRI30860            | Housing Inventory: Average Listing Price in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM30860          | Housing Inventory: Average Listing Price Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY30860          | Housing Inventory: Average Listing Price Year-Over-Year in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU30860            | Housing Inventory: Active Listing Count in Logan, UT-ID (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM30860          | Housing Inventory: Active Listing Count Month-Over-Month in Logan, UT-ID (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY30860          | Housing Inventory: Active Listing Count Year-Over-Year in Logan, UT-ID (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS30860Q            | All-Transactions House Price Index for Logan, UT-ID (MSA)                                                     | 1986-10-01          | 2022-07-01        |
+| AVELISPRI30860            | Housing Inventory: Average Listing Price in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM30860          | Housing Inventory: Average Listing Price Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY30860          | Housing Inventory: Average Listing Price Year-Over-Year in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | ENUC308630010             | Total Quarterly Wages in Logan, UT-ID (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC308630010SA           | Total Quarterly Wages in Logan, UT-ID (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC308640010             | Average Weekly Wages for Employees in Total Covered Establishments in Logan, UT-ID (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -21,9 +21,9 @@
 | ENUC308640510SA           | Average Weekly Wages for Employees in Private Establishments in Logan, UT-ID (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD30860                 | Implicit Regional Price Deflator for Logan, UT-ID (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT493086000000003A     | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT493086000000004      | Unemployed Persons in Logan, UT-ID (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT493086000000004      | Unemployed Persons in Logan, UT-ID (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT493086000000004A     | Unemployed Persons in Logan, UT-ID (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT493086000000005      | Employed Persons in Logan, UT-ID (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT493086000000005      | Employed Persons in Logan, UT-ID (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT493086000000005A     | Employed Persons in Logan, UT-ID (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT493086000000006A     | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LOGA849EDUH               | All Employees: Education and Health Services in Logan, UT-ID (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -36,8 +36,8 @@
 | LOGA849INFON              | All Employees: Information in Logan, UT-ID (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | LOGA849LEIH               | All Employees: Leisure and Hospitality in Logan, UT-ID (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | LOGA849LEIHN              | All Employees: Leisure and Hospitality in Logan, UT-ID (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| LOGA849LF                 | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| LOGA849LFN                | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| LOGA849LF                 | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| LOGA849LFN                | Civilian Labor Force in Logan, UT-ID (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | LOGA849MFG                | All Employees: Manufacturing in Logan, UT-ID (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | LOGA849MFGN               | All Employees: Manufacturing in Logan, UT-ID (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | LOGA849NA                 | All Employees: Total Nonfarm in Logan, UT-ID (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -51,35 +51,35 @@
 | LOGA849SRVON              | All Employees: Other Services in Logan, UT-ID (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | LOGA849TRAD               | All Employees: Trade, Transportation, and Utilities in Logan, UT-ID (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | LOGA849TRADN              | All Employees: Trade, Transportation, and Utilities in Logan, UT-ID (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| LOGA849UR                 | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| LOGA849URN                | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| LOGA849UR                 | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| LOGA849URN                | Unemployment Rate in Logan, UT-ID (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | LOGPOP                    | Resident Population in Logan, UT-ID (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| MEDDAYONMAR30860          | Housing Inventory: Median Days on Market in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM30860        | Housing Inventory: Median Days on Market Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY30860        | Housing Inventory: Median Days on Market Year-Over-Year in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI30860            | Housing Inventory: Median Listing Price in Logan, UT-ID (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM30860          | Housing Inventory: Median Listing Price Month-Over-Month in Logan, UT-ID (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE30860   | Housing Inventory: Median Listing Price per Square Feet in Logan, UT-ID (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM30860 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Logan, UT-ID (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY30860 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Logan, UT-ID (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY30860          | Housing Inventory: Median Listing Price Year-Over-Year in Logan, UT-ID (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEE30860            | Housing Inventory: Median Home Size in Square Feet in Logan, UT-ID (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM30860          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Logan, UT-ID (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY30860          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Logan, UT-ID (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| NEWLISCOU30860            | Housing Inventory: New Listing Count in Logan, UT-ID (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM30860          | Housing Inventory: New Listing Count Month-Over-Month in Logan, UT-ID (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY30860          | Housing Inventory: New Listing Count Year-Over-Year in Logan, UT-ID (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR30860          | Housing Inventory: Median Days on Market in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM30860        | Housing Inventory: Median Days on Market Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY30860        | Housing Inventory: Median Days on Market Year-Over-Year in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI30860            | Housing Inventory: Median Listing Price in Logan, UT-ID (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM30860          | Housing Inventory: Median Listing Price Month-Over-Month in Logan, UT-ID (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE30860   | Housing Inventory: Median Listing Price per Square Feet in Logan, UT-ID (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM30860 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Logan, UT-ID (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY30860 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Logan, UT-ID (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY30860          | Housing Inventory: Median Listing Price Year-Over-Year in Logan, UT-ID (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEE30860            | Housing Inventory: Median Home Size in Square Feet in Logan, UT-ID (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM30860          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Logan, UT-ID (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY30860          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Logan, UT-ID (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| NEWLISCOU30860            | Housing Inventory: New Listing Count in Logan, UT-ID (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM30860          | Housing Inventory: New Listing Count Month-Over-Month in Logan, UT-ID (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY30860          | Housing Inventory: New Listing Count Year-Over-Year in Logan, UT-ID (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP30860                 | Total Gross Domestic Product for Logan, UT-ID (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA130860          | U.S. Granted Utility Patents Originating in Logan, UT-ID (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU30860            | Housing Inventory: Pending Listing Count in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM30860          | Housing Inventory: Pending Listing Count Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY30860          | Housing Inventory: Pending Listing Count Year-Over-Year in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU30860            | Housing Inventory: Price Increased Count in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM30860          | Housing Inventory: Price Increased Count Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-10-01        |
+| PENLISCOU30860            | Housing Inventory: Pending Listing Count in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM30860          | Housing Inventory: Pending Listing Count Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY30860          | Housing Inventory: Pending Listing Count Year-Over-Year in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU30860            | Housing Inventory: Price Increased Count in Logan, UT-ID (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM30860          | Housing Inventory: Price Increased Count Month-Over-Month in Logan, UT-ID (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | PRIINCCOUYY30860          | Housing Inventory: Price Increased Count Year-Over-Year in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-09-01        |
-| PRIREDCOU30860            | Housing Inventory: Price Reduced Count in Logan, UT-ID (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM30860          | Housing Inventory: Price Reduced Count Month-Over-Month in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY30860          | Housing Inventory: Price Reduced Count Year-Over-Year in Logan, UT-ID (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PRIREDCOU30860            | Housing Inventory: Price Reduced Count in Logan, UT-ID (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM30860          | Housing Inventory: Price Reduced Count Month-Over-Month in Logan, UT-ID (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY30860          | Housing Inventory: Price Reduced Count Year-Over-Year in Logan, UT-ID (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP30860                 | Total Quantity Indexes for Real GDP for Logan, UT-ID (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP30860                 | Total Real Gross Domestic Product for Logan, UT-ID (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI30860                  | Real Personal Income for Logan, UT-ID (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                             | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU22180            | Housing Inventory: Active Listing Count in Fayetteville, NC (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM22180          | Housing Inventory: Active Listing Count Month-Over-Month in Fayetteville, NC (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY22180          | Housing Inventory: Active Listing Count Year-Over-Year in Fayetteville, NC (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS22180Q            | All-Transactions House Price Index for Fayetteville, NC (MSA)                                                     | 1986-10-01          | 2022-04-01        |
-| AVELISPRI22180            | Housing Inventory: Average Listing Price in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM22180          | Housing Inventory: Average Listing Price Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY22180          | Housing Inventory: Average Listing Price Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA22180              | Market Hotness: Demand Score in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU22180            | Housing Inventory: Active Listing Count in Fayetteville, NC (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM22180          | Housing Inventory: Active Listing Count Month-Over-Month in Fayetteville, NC (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY22180          | Housing Inventory: Active Listing Count Year-Over-Year in Fayetteville, NC (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS22180Q            | All-Transactions House Price Index for Fayetteville, NC (MSA)                                                     | 1986-10-01          | 2022-07-01        |
+| AVELISPRI22180            | Housing Inventory: Average Listing Price in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM22180          | Housing Inventory: Average Listing Price Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY22180          | Housing Inventory: Average Listing Price Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA22180              | Market Hotness: Demand Score in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC221830010             | Total Quarterly Wages in Fayetteville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC221830010SA           | Total Quarterly Wages in Fayetteville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC221840010             | Average Weekly Wages for Employees in Total Covered Establishments in Fayetteville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -30,8 +30,8 @@
 | FAYE137INFON              | All Employees: Information in Fayetteville, NC (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | FAYE137LEIH               | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | FAYE137LEIHN              | All Employees: Leisure and Hospitality in Fayetteville, NC (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| FAYE137LF                 | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| FAYE137LFN                | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| FAYE137LF                 | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| FAYE137LFN                | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | FAYE137MFG                | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | FAYE137MFGN               | All Employees: Manufacturing in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | FAYE137NA                 | All Employees: Total Nonfarm in Fayetteville, NC (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -45,61 +45,61 @@
 | FAYE137SRVON              | All Employees: Other Services in Fayetteville, NC (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | FAYE137TRAD               | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | FAYE137TRADN              | All Employees: Trade, Transportation, and Utilities in Fayetteville, NC (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| FAYE137UR                 | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| FAYE137URN                | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| FAYE137UR                 | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| FAYE137URN                | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | FAYPOP                    | Resident Population in Fayetteville, NC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA22180            | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA22180              | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA22180            | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA22180              | Market Hotness: Hotness Score in Fayetteville, NC (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
-| IHLCHG22180               | Job Postings on Indeed in Fayetteville, NC (MSA)                                                                  | 2020-02-01          | 2022-11-18        |
+| HORAMMMSA22180            | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA22180              | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA22180            | Market Hotness: Hotness Rank in Fayetteville, NC (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA22180              | Market Hotness: Hotness Score in Fayetteville, NC (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
+| IHLCHG22180               | Job Postings on Indeed in Fayetteville, NC (MSA)                                                                  | 2020-02-01          | 2022-11-25        |
 | IRPD22180                 | Implicit Regional Price Deflator for Fayetteville, NC (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT372218000000003A     | Unemployment Rate in Fayetteville, NC (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT372218000000004      | Unemployed Persons in Fayetteville, NC (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT372218000000004      | Unemployed Persons in Fayetteville, NC (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT372218000000004A     | Unemployed Persons in Fayetteville, NC (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT372218000000005      | Employed Persons in Fayetteville, NC (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT372218000000005      | Employed Persons in Fayetteville, NC (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT372218000000005A     | Employed Persons in Fayetteville, NC (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT372218000000006A     | Civilian Labor Force in Fayetteville, NC (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA22180          | Market Hotness: Listing Views per Property in Fayetteville, NC (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA22180        | Market Hotness: Listing Views per Property Versus the United States in Fayetteville, NC (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA22180          | Market Hotness: Listing Views per Property in Fayetteville, NC (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA22180        | Market Hotness: Median Days on Market in Fayetteville, NC (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA22180          | Market Hotness: Median Days on Market in Fayetteville, NC (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA22180        | Market Hotness: Median Days on Market in Fayetteville, NC (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR22180          | Housing Inventory: Median Days on Market in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM22180        | Housing Inventory: Median Days on Market Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY22180        | Housing Inventory: Median Days on Market Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI22180            | Housing Inventory: Median Listing Price in Fayetteville, NC (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM22180          | Housing Inventory: Median Listing Price Month-Over-Month in Fayetteville, NC (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE22180   | Housing Inventory: Median Listing Price per Square Feet in Fayetteville, NC (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM22180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Fayetteville, NC (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY22180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Fayetteville, NC (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY22180          | Housing Inventory: Median Listing Price Year-Over-Year in Fayetteville, NC (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA22180          | Market Hotness: Median Days on Market in Fayetteville, NC (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA22180          | Market Hotness: Median Days on Market Versus the United States in Fayetteville, NC (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA22180          | Market Hotness: Median Days on Market Day in Fayetteville, NC (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE22180            | Housing Inventory: Median Home Size in Square Feet in Fayetteville, NC (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM22180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Fayetteville, NC (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY22180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Fayetteville, NC (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA22180          | Market Hotness: Median Listing Price in Fayetteville, NC (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA22180            | Market Hotness: Median Listing Price in Fayetteville, NC (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA22180        | Market Hotness: Median Listing Price Versus the United States in Fayetteville, NC (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA22180          | Market Hotness: Median Listing Price in Fayetteville, NC (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU22180            | Housing Inventory: New Listing Count in Fayetteville, NC (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM22180          | Housing Inventory: New Listing Count Month-Over-Month in Fayetteville, NC (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY22180          | Housing Inventory: New Listing Count Year-Over-Year in Fayetteville, NC (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA22180          | Market Hotness: Listing Views per Property in Fayetteville, NC (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA22180        | Market Hotness: Listing Views per Property Versus the United States in Fayetteville, NC (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA22180          | Market Hotness: Listing Views per Property in Fayetteville, NC (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA22180        | Market Hotness: Median Days on Market in Fayetteville, NC (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA22180          | Market Hotness: Median Days on Market in Fayetteville, NC (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA22180        | Market Hotness: Median Days on Market in Fayetteville, NC (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR22180          | Housing Inventory: Median Days on Market in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM22180        | Housing Inventory: Median Days on Market Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY22180        | Housing Inventory: Median Days on Market Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI22180            | Housing Inventory: Median Listing Price in Fayetteville, NC (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM22180          | Housing Inventory: Median Listing Price Month-Over-Month in Fayetteville, NC (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE22180   | Housing Inventory: Median Listing Price per Square Feet in Fayetteville, NC (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM22180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Fayetteville, NC (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY22180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Fayetteville, NC (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY22180          | Housing Inventory: Median Listing Price Year-Over-Year in Fayetteville, NC (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA22180          | Market Hotness: Median Days on Market in Fayetteville, NC (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA22180          | Market Hotness: Median Days on Market Versus the United States in Fayetteville, NC (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA22180          | Market Hotness: Median Days on Market Day in Fayetteville, NC (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE22180            | Housing Inventory: Median Home Size in Square Feet in Fayetteville, NC (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM22180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Fayetteville, NC (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY22180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Fayetteville, NC (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA22180          | Market Hotness: Median Listing Price in Fayetteville, NC (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA22180            | Market Hotness: Median Listing Price in Fayetteville, NC (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA22180        | Market Hotness: Median Listing Price Versus the United States in Fayetteville, NC (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA22180          | Market Hotness: Median Listing Price in Fayetteville, NC (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU22180            | Housing Inventory: New Listing Count in Fayetteville, NC (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM22180          | Housing Inventory: New Listing Count Month-Over-Month in Fayetteville, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY22180          | Housing Inventory: New Listing Count Year-Over-Year in Fayetteville, NC (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP22180                 | Total Gross Domestic Product for Fayetteville, NC (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA22180            | Market Hotness: Nielsen Household Rank in Fayetteville, NC (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA22180            | Market Hotness: Nielsen Household Rank in Fayetteville, NC (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA122180          | U.S. Granted Utility Patents Originating in Fayetteville, NC (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU22180            | Housing Inventory: Pending Listing Count in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM22180          | Housing Inventory: Pending Listing Count Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY22180          | Housing Inventory: Pending Listing Count Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU22180            | Housing Inventory: Price Increased Count in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM22180          | Housing Inventory: Price Increased Count Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY22180          | Housing Inventory: Price Increased Count Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU22180            | Housing Inventory: Price Reduced Count in Fayetteville, NC (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM22180          | Housing Inventory: Price Reduced Count Month-Over-Month in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY22180          | Housing Inventory: Price Reduced Count Year-Over-Year in Fayetteville, NC (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU22180            | Housing Inventory: Pending Listing Count in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM22180          | Housing Inventory: Pending Listing Count Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY22180          | Housing Inventory: Pending Listing Count Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU22180            | Housing Inventory: Price Increased Count in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM22180          | Housing Inventory: Price Increased Count Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY22180          | Housing Inventory: Price Increased Count Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU22180            | Housing Inventory: Price Reduced Count in Fayetteville, NC (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM22180          | Housing Inventory: Price Reduced Count Month-Over-Month in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY22180          | Housing Inventory: Price Reduced Count Year-Over-Year in Fayetteville, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP22180                 | Total Quantity Indexes for Real GDP for Fayetteville, NC (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP22180                 | Total Real Gross Domestic Product for Fayetteville, NC (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI22180                  | Real Personal Income for Fayetteville, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -156,4 +156,4 @@
 | SMU37221809093000001      | All Employees: Government: Local Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-10-01        |
 | SMU37221809093000001A     | All Employees: Local Government in Fayetteville, NC (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU37221809093000001SA    | All Employees: Government: Local Government in Fayetteville, NC (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| SUSCMSA22180              | Market Hotness: Supply Score in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA22180              | Market Hotness: Supply Score in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

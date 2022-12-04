@@ -1,6 +1,6 @@
 | id                     | title                                                                                                    | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS23844Q         | All-Transactions House Price Index for Gary, IN (MSAD)                                                   | 1978-07-01          | 2022-04-01        |
+| ATNHPIUS23844Q         | All-Transactions House Price Index for Gary, IN (MSAD)                                                   | 1978-07-01          | 2022-07-01        |
 | SMS18238440000000001   | All Employees: Total Nonfarm in Gary, IN (MD)                                                            | 1990-01-01          | 2022-10-01        |
 | SMS18238440000000026   | All Employees: Total Nonfarm in Gary, IN (MD)                                                            | 1990-04-01          | 2022-10-01        |
 | SMU18238440000000001   | All Employees: Total Nonfarm in Gary, IN (MD)                                                            | 1990-01-01          | 2022-10-01        |

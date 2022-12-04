@@ -25,7 +25,7 @@
 | Delaware County, NY     |                90 |
 | Dutchess County, NY     |               147 |
 | Albany County, NY       |               147 |
-| Seneca County, NY       |                90 |
+| Seneca County, NY       |                 0 |
 | Tioga County, NY        |               146 |
 | Rockland County, NY     |               147 |
 | Livingston County, NY   |               146 |

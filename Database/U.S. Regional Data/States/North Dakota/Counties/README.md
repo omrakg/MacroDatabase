@@ -11,7 +11,7 @@
 | Emmons County, ND        |                88 |
 | Cass County, ND          |               147 |
 | Dunn County, ND          |                88 |
-| Divide County, ND        |                88 |
+| Divide County, ND        |                 0 |
 | Mercer County, ND        |                89 |
 | McIntosh County, ND      |                89 |
 | Stark County, ND         |                89 |
@@ -51,5 +51,5 @@
 | Traill County, ND        |                89 |
 | Billings County, ND      |                86 |
 | Golden Valley County, ND |                88 |
-| Rolette County, ND       |                 0 |
+| Rolette County, ND       |                88 |
 | Pierce County, ND        |                88 |

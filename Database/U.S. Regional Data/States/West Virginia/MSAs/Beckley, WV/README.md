@@ -1,6 +1,6 @@
 | id                     | title                                                                                        | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS13220Q         | All-Transactions House Price Index for Beckley, WV (MSA)                                     | 1997-01-01          | 2022-04-01        |
+| ATNHPIUS13220Q         | All-Transactions House Price Index for Beckley, WV (MSA)                                     | 1997-01-01          | 2022-07-01        |
 | BCKPOP                 | Resident Population in Beckley, WV (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | BECK954PCPI            | Per Capita Personal Income in Beckley, WV (MSA)                                              | 1969-01-01          | 2021-01-01        |
 | ENUC132230010          | Total Quarterly Wages in Beckley, WV (MSA)                                                   | 2013-01-01          | 2022-01-01        |
@@ -16,13 +16,13 @@
 | ENUC132240510          | Average Weekly Wages for Employees in Private Establishments in Beckley, WV (MSA)            | 2013-01-01          | 2022-01-01        |
 | ENUC132240510SA        | Average Weekly Wages for Employees in Private Establishments in Beckley, WV (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD13220              | Implicit Regional Price Deflator for Beckley, WV (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT541322000000003   | Unemployment Rate in Beckley, WV (MSA)                                                       | 1990-01-01          | 2022-09-01        |
+| LAUMT541322000000003   | Unemployment Rate in Beckley, WV (MSA)                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT541322000000003A  | Unemployment Rate in Beckley, WV (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT541322000000004   | Unemployed Persons in Beckley, WV (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT541322000000004   | Unemployed Persons in Beckley, WV (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT541322000000004A  | Unemployed Persons in Beckley, WV (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT541322000000005   | Employed Persons in Beckley, WV (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT541322000000005   | Employed Persons in Beckley, WV (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT541322000000005A  | Employed Persons in Beckley, WV (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT541322000000006   | Civilian Labor Force in Beckley, WV (MSA)                                                    | 1990-01-01          | 2022-09-01        |
+| LAUMT541322000000006   | Civilian Labor Force in Beckley, WV (MSA)                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT541322000000006A  | Civilian Labor Force in Beckley, WV (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP13220              | Total Gross Domestic Product for Beckley, WV (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP13220              | Total Quantity Indexes for Real GDP for Beckley, WV (MSA)                                    | 2001-01-01          | 2020-01-01        |

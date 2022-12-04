@@ -50,14 +50,14 @@
 | AODGUO             | Manufacturers' Unfilled Orders: All Other Durable Goods                                                           | 1992-01-01          | 2022-10-01        |
 | ATCGUO             | Manufacturers' Unfilled Orders: Capital Goods                                                                     | 1992-01-01          | 2022-10-01        |
 | ATGPUO             | Manufacturers' Unfilled Orders: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-09-01        |
-| FUFILDSAMFRBDAL    | Future Unfilled Orders; Percentage Reporting Decreases for Texas                                                  | 2004-06-01          | 2022-10-01        |
-| FUFILDUAMFRBDAL    | Future Unfilled Orders; Percentage Reporting Decreases for Texas                                                  | 2004-06-01          | 2022-10-01        |
-| FUFILISAMFRBDAL    | Future Unfilled Orders; Percentage Reporting Increases for Texas                                                  | 2004-06-01          | 2022-10-01        |
-| FUFILIUAMFRBDAL    | Future Unfilled Orders; Percentage Reporting Increases for Texas                                                  | 2004-06-01          | 2022-10-01        |
-| FUFILNSAMFRBDAL    | Future Unfilled Orders; Percentage Reporting No Change for Texas                                                  | 2004-06-01          | 2022-10-01        |
-| FUFILNUAMFRBDAL    | Future Unfilled Orders; Percentage Reporting No Change for Texas                                                  | 2004-06-01          | 2022-10-01        |
-| FUFILSAMFRBDAL     | Future Unfilled Orders; Diffusion Index for Texas                                                                 | 2004-06-01          | 2022-10-01        |
-| FUFILUAMFRBDAL     | Future Unfilled Orders; Diffusion Index for Texas                                                                 | 2004-06-01          | 2022-10-01        |
+| FUFILDSAMFRBDAL    | Future Unfilled Orders; Percentage Reporting Decreases for Texas                                                  | 2004-06-01          | 2022-11-01        |
+| FUFILDUAMFRBDAL    | Future Unfilled Orders; Percentage Reporting Decreases for Texas                                                  | 2004-06-01          | 2022-11-01        |
+| FUFILISAMFRBDAL    | Future Unfilled Orders; Percentage Reporting Increases for Texas                                                  | 2004-06-01          | 2022-11-01        |
+| FUFILIUAMFRBDAL    | Future Unfilled Orders; Percentage Reporting Increases for Texas                                                  | 2004-06-01          | 2022-11-01        |
+| FUFILNSAMFRBDAL    | Future Unfilled Orders; Percentage Reporting No Change for Texas                                                  | 2004-06-01          | 2022-11-01        |
+| FUFILNUAMFRBDAL    | Future Unfilled Orders; Percentage Reporting No Change for Texas                                                  | 2004-06-01          | 2022-11-01        |
+| FUFILSAMFRBDAL     | Future Unfilled Orders; Diffusion Index for Texas                                                                 | 2004-06-01          | 2022-11-01        |
+| FUFILUAMFRBDAL     | Future Unfilled Orders; Diffusion Index for Texas                                                                 | 2004-06-01          | 2022-11-01        |
 | U31AUO             | Manufacturers' Unfilled Orders: Iron and Steel Mills and Ferroalloy and Steel Product Manufacturing               | 1992-01-01          | 2022-09-01        |
 | U31CUO             | Manufacturers' Unfilled Orders: Ferrous Metal Foundries                                                           | 1992-01-01          | 2022-09-01        |
 | U31SUO             | Manufacturers' Unfilled Orders: Primary Metals                                                                    | 1992-01-01          | 2022-10-01        |
@@ -96,14 +96,14 @@
 | UDEFUO             | Manufacturers' Unfilled Orders: Defense Capital Goods                                                             | 1992-01-01          | 2022-10-01        |
 | UDXDUO             | Manufacturers' Unfilled Orders: Durable Goods Excluding Defense                                                   | 1992-01-01          | 2022-10-01        |
 | UDXTUO             | Manufacturers' Unfilled Orders: Durable Goods Excluding Transportation                                            | 1992-01-01          | 2022-10-01        |
-| UFILDSAMFRBDAL     | Current Unfilled Orders; Percentage Reporting Decreases for Texas                                                 | 2004-06-01          | 2022-10-01        |
-| UFILDUAMFRBDAL     | Current Unfilled Orders; Percentage Reporting Decreases for Texas                                                 | 2004-06-01          | 2022-10-01        |
-| UFILISAMFRBDAL     | Current Unfilled Orders; Percentage Reporting Increases for Texas                                                 | 2004-06-01          | 2022-10-01        |
-| UFILIUAMFRBDAL     | Current Unfilled Orders; Percentage Reporting Increases for Texas                                                 | 2004-06-01          | 2022-10-01        |
-| UFILNSAMFRBDAL     | Current Unfilled Orders; Percentage Reporting No Change for Texas                                                 | 2004-06-01          | 2022-10-01        |
-| UFILNUAMFRBDAL     | Current Unfilled Orders; Percentage Reporting No Change for Texas                                                 | 2004-06-01          | 2022-10-01        |
-| UFILSAMFRBDAL      | Current Unfilled Orders; Diffusion Index for Texas                                                                | 2004-06-01          | 2022-10-01        |
-| UFILUAMFRBDAL      | Current Unfilled Orders; Diffusion Index for Texas                                                                | 2004-06-01          | 2022-10-01        |
+| UFILDSAMFRBDAL     | Current Unfilled Orders; Percentage Reporting Decreases for Texas                                                 | 2004-06-01          | 2022-11-01        |
+| UFILDUAMFRBDAL     | Current Unfilled Orders; Percentage Reporting Decreases for Texas                                                 | 2004-06-01          | 2022-11-01        |
+| UFILISAMFRBDAL     | Current Unfilled Orders; Percentage Reporting Increases for Texas                                                 | 2004-06-01          | 2022-11-01        |
+| UFILIUAMFRBDAL     | Current Unfilled Orders; Percentage Reporting Increases for Texas                                                 | 2004-06-01          | 2022-11-01        |
+| UFILNSAMFRBDAL     | Current Unfilled Orders; Percentage Reporting No Change for Texas                                                 | 2004-06-01          | 2022-11-01        |
+| UFILNUAMFRBDAL     | Current Unfilled Orders; Percentage Reporting No Change for Texas                                                 | 2004-06-01          | 2022-11-01        |
+| UFILSAMFRBDAL      | Current Unfilled Orders; Diffusion Index for Texas                                                                | 2004-06-01          | 2022-11-01        |
+| UFILUAMFRBDAL      | Current Unfilled Orders; Diffusion Index for Texas                                                                | 2004-06-01          | 2022-11-01        |
 | UITIUO             | Manufacturers' Unfilled Orders: Information Technology Industries                                                 | 1992-01-01          | 2022-09-01        |
 | UMDMUO             | Manufacturers' Unfilled Orders: Durable Goods                                                                     | 1992-01-01          | 2022-10-01        |
 | UMTMUO             | Manufacturers' Unfilled Orders: Total Manufacturing                                                               | 1992-01-01          | 2022-09-01        |
@@ -113,38 +113,38 @@
 | UNAPUO             | Manufacturers' Unfilled Orders: Nondefense Aircraft and Parts                                                     | 1992-01-01          | 2022-10-01        |
 | UNDEUO             | Manufacturers' Unfilled Orders: Nondefense Capital Goods                                                          | 1992-01-01          | 2022-10-01        |
 | UNXAUO             | Manufacturers' Unfilled Orders: Nondefense Capital Goods Excluding Aircraft                                       | 1992-01-01          | 2022-10-01        |
-| UOCDFNA066MNFRBPHI | Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                             | 1968-05-01          | 2022-10-01        |
-| UOCDFSA066MSFRBPHI | Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                             | 1968-05-01          | 2022-10-01        |
+| UOCDFNA066MNFRBPHI | Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                             | 1968-05-01          | 2022-11-01        |
+| UOCDFSA066MSFRBPHI | Current Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                             | 1968-05-01          | 2022-11-01        |
 | UOCDINA066MNFRBNY  | Current Unfilled Orders; Diffusion Index for New York                                                             | 2001-07-01          | 2022-11-01        |
 | UOCDISA066MSFRBNY  | Current Unfilled Orders; Diffusion Index for New York                                                             | 2001-07-01          | 2022-11-01        |
 | UOCDNA156MNFRBNY   | Current Unfilled Orders; Percent Reporting Decreases for New York                                                 | 2001-07-01          | 2022-11-01        |
-| UOCDNA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-10-01        |
+| UOCDNA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-11-01        |
 | UOCDSA156MSFRBNY   | Current Unfilled Orders; Percent Reporting Decreases for New York                                                 | 2001-07-01          | 2022-11-01        |
-| UOCDSA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-10-01        |
+| UOCDSA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-11-01        |
 | UOCINA156MNFRBNY   | Current Unfilled Orders; Percent Reporting Increases for New York                                                 | 2001-07-01          | 2022-11-01        |
-| UOCINA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-10-01        |
+| UOCINA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-11-01        |
 | UOCISA156MSFRBNY   | Current Unfilled Orders; Percent Reporting Increases for New York                                                 | 2001-07-01          | 2022-11-01        |
-| UOCISA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-10-01        |
+| UOCISA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-11-01        |
 | UOCNNA156MNFRBNY   | Current Unfilled Orders; Percent Reporting No Change for New York                                                 | 2001-07-01          | 2022-11-01        |
-| UOCNNA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-10-01        |
+| UOCNNA156MNFRBPHI  | Current Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-11-01        |
 | UOCNSA156MSFRBNY   | Current Unfilled Orders; Percent Reporting No Change for New York                                                 | 2001-07-01          | 2022-11-01        |
-| UOCNSA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-10-01        |
+| UOCNSA156MSFRBPHI  | Current Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                 | 1968-05-01          | 2022-11-01        |
 | UODGUO             | Manufacturers' Unfilled Orders: All Other Durable Goods                                                           | 1992-01-01          | 2022-10-01        |
-| UOFDFNA066MNFRBPHI | Future Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                              | 1968-05-01          | 2022-10-01        |
-| UOFDFSA066MSFRBPHI | Future Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                              | 1968-05-01          | 2022-10-01        |
+| UOFDFNA066MNFRBPHI | Future Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                              | 1968-05-01          | 2022-11-01        |
+| UOFDFSA066MSFRBPHI | Future Unfilled Orders; Diffusion Index for Federal Reserve District 3: Philadelphia                              | 1968-05-01          | 2022-11-01        |
 | UOFDINA066MNFRBNY  | Future Unfilled Orders; Diffusion Index for New York                                                              | 2001-07-01          | 2022-11-01        |
 | UOFDISA066MSFRBNY  | Future Unfilled Orders; Diffusion Index for New York                                                              | 2001-07-01          | 2022-11-01        |
 | UOFDNA156MNFRBNY   | Future Unfilled Orders; Percent Expecting Decreases for New York                                                  | 2001-07-01          | 2022-11-01        |
-| UOFDNA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-10-01        |
+| UOFDNA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-11-01        |
 | UOFDSA156MSFRBNY   | Future Unfilled Orders; Percent Expecting Decreases for New York                                                  | 2001-07-01          | 2022-11-01        |
-| UOFDSA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-10-01        |
+| UOFDSA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-11-01        |
 | UOFINA156MNFRBNY   | Future Unfilled Orders; Percent Expecting Increases for New York                                                  | 2001-07-01          | 2022-11-01        |
-| UOFINA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-10-01        |
+| UOFINA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-11-01        |
 | UOFISA156MSFRBNY   | Future Unfilled Orders; Percent Expecting Increases for New York                                                  | 2001-07-01          | 2022-11-01        |
-| UOFISA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-10-01        |
+| UOFISA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-11-01        |
 | UOFNNA156MNFRBNY   | Future Unfilled Orders; Percent Expecting No Change for New York                                                  | 2001-07-01          | 2022-11-01        |
-| UOFNNA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-10-01        |
+| UOFNNA156MNFRBPHI  | Future Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-11-01        |
 | UOFNSA156MSFRBNY   | Future Unfilled Orders; Percent Expecting No Change for New York                                                  | 2001-07-01          | 2022-11-01        |
-| UOFNSA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-10-01        |
+| UOFNSA156MSFRBPHI  | Future Unfilled Orders; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                  | 1968-05-01          | 2022-11-01        |
 | UTCGUO             | Manufacturers' Unfilled Orders: Capital Goods                                                                     | 1992-01-01          | 2022-10-01        |
 | UTGPUO             | Manufacturers' Unfilled Orders: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-09-01        |

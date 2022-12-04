@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                      | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU29180            | Housing Inventory: Active Listing Count in Lafayette, LA (CBSA)                                                            | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM29180          | Housing Inventory: Active Listing Count Month-Over-Month in Lafayette, LA (CBSA)                                           | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY29180          | Housing Inventory: Active Listing Count Year-Over-Year in Lafayette, LA (CBSA)                                             | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS29180Q            | All-Transactions House Price Index for Lafayette, LA (MSA)                                                                 | 1980-07-01          | 2022-04-01        |
-| AVELISPRI29180            | Housing Inventory: Average Listing Price in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM29180          | Housing Inventory: Average Listing Price Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY29180          | Housing Inventory: Average Listing Price Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| DESCMSA29180              | Market Hotness: Demand Score in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU29180            | Housing Inventory: Active Listing Count in Lafayette, LA (CBSA)                                                            | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM29180          | Housing Inventory: Active Listing Count Month-Over-Month in Lafayette, LA (CBSA)                                           | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY29180          | Housing Inventory: Active Listing Count Year-Over-Year in Lafayette, LA (CBSA)                                             | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS29180Q            | All-Transactions House Price Index for Lafayette, LA (MSA)                                                                 | 1980-07-01          | 2022-07-01        |
+| AVELISPRI29180            | Housing Inventory: Average Listing Price in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM29180          | Housing Inventory: Average Listing Price Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY29180          | Housing Inventory: Average Listing Price Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| DESCMSA29180              | Market Hotness: Demand Score in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
 | ENUC291830010             | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
 | ENUC291830010SA           | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
 | ENUC291840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC291840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
 | ENUC291840510             | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
 | ENUC291840510SA           | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2017-09-01          | 2022-10-01        |
-| HORAMSA29180              | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2018-08-01          | 2022-10-01        |
-| HOSCMSA29180              | Market Hotness: Hotness Score in Lafayette, LA (CBSA)                                                                      | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2017-09-01          | 2022-11-01        |
+| HORAMSA29180              | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2018-08-01          | 2022-11-01        |
+| HOSCMSA29180              | Market Hotness: Hotness Score in Lafayette, LA (CBSA)                                                                      | 2017-08-01          | 2022-11-01        |
 | IRPD29180                 | Implicit Regional Price Deflator for Lafayette, LA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAFA122EDUH               | All Employees: Education and Health Services in Lafayette, LA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAFA122EDUHN              | All Employees: Education and Health Services in Lafayette, LA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -35,8 +35,8 @@
 | LAFA122INFON              | All Employees: Information in Lafayette, LA (MSA)                                                                          | 1990-01-01          | 2022-10-01        |
 | LAFA122LEIH               | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | LAFA122LEIHN              | All Employees: Leisure and Hospitality in Lafayette, LA (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| LAFA122LF                 | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
-| LAFA122LFN                | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
+| LAFA122LF                 | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-10-01        |
+| LAFA122LFN                | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2022-10-01        |
 | LAFA122MFG                | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAFA122MFGN               | All Employees: Manufacturing in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAFA122NA                 | All Employees: Total Nonfarm in Lafayette, LA (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
@@ -48,55 +48,55 @@
 | LAFA122SRVON              | All Employees: Other Services in Lafayette, LA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | LAFA122TRAD               | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | LAFA122TRADN              | All Employees: Trade, Transportation, and Utilities in Lafayette, LA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| LAFA122UR                 | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
-| LAFA122URN                | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
+| LAFA122UR                 | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-10-01        |
+| LAFA122URN                | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2022-10-01        |
 | LAUMT222918000000003A     | Unemployment Rate in Lafayette, LA (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT222918000000004      | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2022-09-01        |
+| LAUMT222918000000004      | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2022-10-01        |
 | LAUMT222918000000004A     | Unemployed Persons in Lafayette, LA (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT222918000000005      | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2022-09-01        |
+| LAUMT222918000000005      | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT222918000000005A     | Employed Persons in Lafayette, LA (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT222918000000006A     | Civilian Labor Force in Lafayette, LA (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA29180          | Market Hotness: Listing Views per Property in Lafayette, LA (CBSA)                                                         | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA29180        | Market Hotness: Listing Views per Property Versus the United States in Lafayette, LA (CBSA)                                | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA29180          | Market Hotness: Listing Views per Property in Lafayette, LA (CBSA)                                                         | 2018-08-01          | 2022-10-01        |
+| LDPEPRMMMSA29180          | Market Hotness: Listing Views per Property in Lafayette, LA (CBSA)                                                         | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA29180        | Market Hotness: Listing Views per Property Versus the United States in Lafayette, LA (CBSA)                                | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA29180          | Market Hotness: Listing Views per Property in Lafayette, LA (CBSA)                                                         | 2018-08-01          | 2022-11-01        |
 | LFTPOP                    | Resident Population in Lafayette, LA (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
-| MEDAONMAMMMSA29180        | Market Hotness: Median Days on Market in Lafayette, LA (CBSA)                                                              | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA29180          | Market Hotness: Median Days on Market in Lafayette, LA (CBSA)                                                              | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA29180        | Market Hotness: Median Days on Market in Lafayette, LA (CBSA)                                                              | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR29180          | Housing Inventory: Median Days on Market in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM29180        | Housing Inventory: Median Days on Market Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY29180        | Housing Inventory: Median Days on Market Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI29180            | Housing Inventory: Median Listing Price in Lafayette, LA (CBSA)                                                            | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM29180          | Housing Inventory: Median Listing Price Month-Over-Month in Lafayette, LA (CBSA)                                           | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE29180   | Housing Inventory: Median Listing Price per Square Feet in Lafayette, LA (CBSA)                                            | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM29180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lafayette, LA (CBSA)                           | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY29180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lafayette, LA (CBSA)                             | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY29180          | Housing Inventory: Median Listing Price Year-Over-Year in Lafayette, LA (CBSA)                                             | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA29180          | Market Hotness: Median Days on Market in Lafayette, LA (CBSA)                                                              | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA29180          | Market Hotness: Median Days on Market Versus the United States in Lafayette, LA (CBSA)                                     | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA29180          | Market Hotness: Median Days on Market Day in Lafayette, LA (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE29180            | Housing Inventory: Median Home Size in Square Feet in Lafayette, LA (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM29180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lafayette, LA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY29180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lafayette, LA (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA29180          | Market Hotness: Median Listing Price in Lafayette, LA (CBSA)                                                               | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA29180            | Market Hotness: Median Listing Price in Lafayette, LA (CBSA)                                                               | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA29180        | Market Hotness: Median Listing Price Versus the United States in Lafayette, LA (CBSA)                                      | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA29180          | Market Hotness: Median Listing Price in Lafayette, LA (CBSA)                                                               | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU29180            | Housing Inventory: New Listing Count in Lafayette, LA (CBSA)                                                               | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM29180          | Housing Inventory: New Listing Count Month-Over-Month in Lafayette, LA (CBSA)                                              | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY29180          | Housing Inventory: New Listing Count Year-Over-Year in Lafayette, LA (CBSA)                                                | 2017-07-01          | 2022-10-01        |
+| MEDAONMAMMMSA29180        | Market Hotness: Median Days on Market in Lafayette, LA (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA29180          | Market Hotness: Median Days on Market in Lafayette, LA (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA29180        | Market Hotness: Median Days on Market in Lafayette, LA (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR29180          | Housing Inventory: Median Days on Market in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM29180        | Housing Inventory: Median Days on Market Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY29180        | Housing Inventory: Median Days on Market Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI29180            | Housing Inventory: Median Listing Price in Lafayette, LA (CBSA)                                                            | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM29180          | Housing Inventory: Median Listing Price Month-Over-Month in Lafayette, LA (CBSA)                                           | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE29180   | Housing Inventory: Median Listing Price per Square Feet in Lafayette, LA (CBSA)                                            | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM29180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lafayette, LA (CBSA)                           | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY29180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lafayette, LA (CBSA)                             | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY29180          | Housing Inventory: Median Listing Price Year-Over-Year in Lafayette, LA (CBSA)                                             | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA29180          | Market Hotness: Median Days on Market in Lafayette, LA (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA29180          | Market Hotness: Median Days on Market Versus the United States in Lafayette, LA (CBSA)                                     | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA29180          | Market Hotness: Median Days on Market Day in Lafayette, LA (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE29180            | Housing Inventory: Median Home Size in Square Feet in Lafayette, LA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM29180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lafayette, LA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY29180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lafayette, LA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA29180          | Market Hotness: Median Listing Price in Lafayette, LA (CBSA)                                                               | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA29180            | Market Hotness: Median Listing Price in Lafayette, LA (CBSA)                                                               | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA29180        | Market Hotness: Median Listing Price Versus the United States in Lafayette, LA (CBSA)                                      | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA29180          | Market Hotness: Median Listing Price in Lafayette, LA (CBSA)                                                               | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU29180            | Housing Inventory: New Listing Count in Lafayette, LA (CBSA)                                                               | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM29180          | Housing Inventory: New Listing Count Month-Over-Month in Lafayette, LA (CBSA)                                              | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY29180          | Housing Inventory: New Listing Count Year-Over-Year in Lafayette, LA (CBSA)                                                | 2017-07-01          | 2022-11-01        |
 | NGMP29180                 | Total Gross Domestic Product for Lafayette, LA (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA29180            | Market Hotness: Nielsen Household Rank in Lafayette, LA (CBSA)                                                             | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA29180            | Market Hotness: Nielsen Household Rank in Lafayette, LA (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA129180          | U.S. Granted Utility Patents Originating in Lafayette, LA (MSA)                                                            | 2000-01-01          | 2015-01-01        |
-| PENLISCOU29180            | Housing Inventory: Pending Listing Count in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM29180          | Housing Inventory: Pending Listing Count Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY29180          | Housing Inventory: Pending Listing Count Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU29180            | Housing Inventory: Price Increased Count in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM29180          | Housing Inventory: Price Increased Count Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY29180          | Housing Inventory: Price Increased Count Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU29180            | Housing Inventory: Price Reduced Count in Lafayette, LA (CBSA)                                                             | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM29180          | Housing Inventory: Price Reduced Count Month-Over-Month in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY29180          | Housing Inventory: Price Reduced Count Year-Over-Year in Lafayette, LA (CBSA)                                              | 2017-07-01          | 2022-10-01        |
+| PENLISCOU29180            | Housing Inventory: Pending Listing Count in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM29180          | Housing Inventory: Pending Listing Count Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY29180          | Housing Inventory: Pending Listing Count Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU29180            | Housing Inventory: Price Increased Count in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM29180          | Housing Inventory: Price Increased Count Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY29180          | Housing Inventory: Price Increased Count Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU29180            | Housing Inventory: Price Reduced Count in Lafayette, LA (CBSA)                                                             | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM29180          | Housing Inventory: Price Reduced Count Month-Over-Month in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY29180          | Housing Inventory: Price Reduced Count Year-Over-Year in Lafayette, LA (CBSA)                                              | 2017-07-01          | 2022-11-01        |
 | QGMP29180                 | Total Quantity Indexes for Real GDP for Lafayette, LA (MSA)                                                                | 2001-01-01          | 2020-01-01        |
 | RGMP29180                 | Total Real Gross Domestic Product for Lafayette, LA (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
 | RPI29180                  | Real Personal Income for Lafayette, LA (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
@@ -183,4 +183,4 @@
 | SMU22291809093000001      | All Employees: Government: Local Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | SMU22291809093000001A     | All Employees: Local Government in Lafayette, LA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
 | SMU22291809093000001SA    | All Employees: Government: Local Government in Lafayette, LA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
-| SUSCMSA29180              | Market Hotness: Supply Score in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-10-01        |
+| SUSCMSA29180              | Market Hotness: Supply Score in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |

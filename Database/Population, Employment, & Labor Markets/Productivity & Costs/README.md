@@ -14,7 +14,7 @@
 | Administrative and Support and Waste Management and Remediation Services |                 0 |
 | Information                                                              |                 0 |
 | Mining                                                                   |               324 |
-| Nonfarm Business                                                         |              1002 |
+| Nonfarm Business                                                         |               990 |
 | Manufacturing                                                            |                 3 |
 | Government                                                               |                25 |
 | Management of Companies and Enterprises                                  |                26 |

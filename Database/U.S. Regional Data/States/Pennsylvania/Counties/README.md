@@ -25,7 +25,7 @@
 | Cumberland County, PA          |               147 |
 | Forest County, PA              |                88 |
 | Indiana County, PA             |               144 |
-| Armstrong County, PA           |                 0 |
+| Armstrong County, PA           |               144 |
 | Adams County, PA               |               147 |
 | York County, PA                |               147 |
 | Northumberland County, PA      |               146 |

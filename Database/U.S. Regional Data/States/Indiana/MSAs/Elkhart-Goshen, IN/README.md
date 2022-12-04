@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                 | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU21140            | Housing Inventory: Active Listing Count in Elkhart-Goshen, IN (CBSA)                                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM21140          | Housing Inventory: Active Listing Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY21140          | Housing Inventory: Active Listing Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                   | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS21140Q            | All-Transactions House Price Index for Elkhart-Goshen, IN (MSA)                                                       | 1984-01-01          | 2022-04-01        |
-| AVELISPRI21140            | Housing Inventory: Average Listing Price in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM21140          | Housing Inventory: Average Listing Price Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY21140          | Housing Inventory: Average Listing Price Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| DESCMSA21140              | Market Hotness: Demand Score in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU21140            | Housing Inventory: Active Listing Count in Elkhart-Goshen, IN (CBSA)                                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM21140          | Housing Inventory: Active Listing Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY21140          | Housing Inventory: Active Listing Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                   | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS21140Q            | All-Transactions House Price Index for Elkhart-Goshen, IN (MSA)                                                       | 1984-01-01          | 2022-07-01        |
+| AVELISPRI21140            | Housing Inventory: Average Listing Price in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM21140          | Housing Inventory: Average Listing Price Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY21140          | Housing Inventory: Average Listing Price Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| DESCMSA21140              | Market Hotness: Demand Score in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
 | ELKH118EDUH               | All Employees: Education and Health Services in Elkhart-Goshen, IN (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | ELKH118EDUHN              | All Employees: Education and Health Services in Elkhart-Goshen, IN (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | ELKH118FIRE               | All Employees: Financial Activities in Elkhart-Goshen, IN (MSA)                                                       | 1990-01-01          | 2022-10-01        |
@@ -18,8 +18,8 @@
 | ELKH118INFON              | All Employees: Information in Elkhart-Goshen, IN (MSA)                                                                | 1990-01-01          | 2022-10-01        |
 | ELKH118LEIH               | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2022-10-01        |
 | ELKH118LEIHN              | All Employees: Leisure and Hospitality in Elkhart-Goshen, IN (MSA)                                                    | 1990-01-01          | 2022-10-01        |
-| ELKH118LF                 | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
-| ELKH118LFN                | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| ELKH118LF                 | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
+| ELKH118LFN                | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | ELKH118MFG                | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | ELKH118MFGN               | All Employees: Manufacturing in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | ELKH118NA                 | All Employees: Total Nonfarm in Elkhart-Goshen, IN (MSA)                                                              | 1990-01-01          | 2022-10-01        |
@@ -33,8 +33,8 @@
 | ELKH118SRVON              | All Employees: Other Services in Elkhart-Goshen, IN (MSA)                                                             | 1990-01-01          | 2022-10-01        |
 | ELKH118TRAD               | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2022-10-01        |
 | ELKH118TRADN              | All Employees: Trade, Transportation, and Utilities in Elkhart-Goshen, IN (MSA)                                       | 1990-01-01          | 2022-10-01        |
-| ELKH118UR                 | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-09-01        |
-| ELKH118URN                | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-09-01        |
+| ELKH118UR                 | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-10-01        |
+| ELKH118URN                | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-10-01        |
 | ELKPOP                    | Resident Population in Elkhart-Goshen, IN (MSA)                                                                       | 2000-01-01          | 2021-01-01        |
 | ENUC211430010             | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC211430010SA           | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2022-01-01        |
@@ -48,57 +48,57 @@
 | ENUC211440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-01-01        |
 | ENUC211440510             | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2022-01-01        |
 | ENUC211440510SA           | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA21140            | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2017-09-01          | 2022-10-01        |
-| HORAMSA21140              | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA21140            | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2018-08-01          | 2022-10-01        |
-| HOSCMSA21140              | Market Hotness: Hotness Score in Elkhart-Goshen, IN (CBSA)                                                            | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA21140            | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2017-09-01          | 2022-11-01        |
+| HORAMSA21140              | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA21140            | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2018-08-01          | 2022-11-01        |
+| HOSCMSA21140              | Market Hotness: Hotness Score in Elkhart-Goshen, IN (CBSA)                                                            | 2017-08-01          | 2022-11-01        |
 | IRPD21140                 | Implicit Regional Price Deflator for Elkhart-Goshen, IN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT182114000000003A     | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT182114000000004      | Unemployed Persons in Elkhart-Goshen, IN (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT182114000000004      | Unemployed Persons in Elkhart-Goshen, IN (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT182114000000004A     | Unemployed Persons in Elkhart-Goshen, IN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT182114000000005      | Employed Persons in Elkhart-Goshen, IN (MSA)                                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT182114000000005      | Employed Persons in Elkhart-Goshen, IN (MSA)                                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT182114000000005A     | Employed Persons in Elkhart-Goshen, IN (MSA)                                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT182114000000006A     | Civilian Labor Force in Elkhart-Goshen, IN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA21140          | Market Hotness: Listing Views per Property in Elkhart-Goshen, IN (CBSA)                                               | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA21140        | Market Hotness: Listing Views per Property Versus the United States in Elkhart-Goshen, IN (CBSA)                      | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA21140          | Market Hotness: Listing Views per Property in Elkhart-Goshen, IN (CBSA)                                               | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA21140        | Market Hotness: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                    | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA21140          | Market Hotness: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                    | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA21140        | Market Hotness: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                    | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR21140          | Housing Inventory: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM21140        | Housing Inventory: Median Days on Market Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY21140        | Housing Inventory: Median Days on Market Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI21140            | Housing Inventory: Median Listing Price in Elkhart-Goshen, IN (CBSA)                                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM21140          | Housing Inventory: Median Listing Price Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE21140   | Housing Inventory: Median Listing Price per Square Feet in Elkhart-Goshen, IN (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM21140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Elkhart-Goshen, IN (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY21140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Elkhart-Goshen, IN (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY21140          | Housing Inventory: Median Listing Price Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                   | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA21140          | Market Hotness: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                    | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA21140          | Market Hotness: Median Days on Market Versus the United States in Elkhart-Goshen, IN (CBSA)                           | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA21140          | Market Hotness: Median Days on Market Day in Elkhart-Goshen, IN (CBSA)                                                | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE21140            | Housing Inventory: Median Home Size in Square Feet in Elkhart-Goshen, IN (CBSA)                                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM21140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Elkhart-Goshen, IN (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY21140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Elkhart-Goshen, IN (CBSA)                        | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA21140          | Market Hotness: Median Listing Price in Elkhart-Goshen, IN (CBSA)                                                     | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA21140            | Market Hotness: Median Listing Price in Elkhart-Goshen, IN (CBSA)                                                     | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA21140        | Market Hotness: Median Listing Price Versus the United States in Elkhart-Goshen, IN (CBSA)                            | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA21140          | Market Hotness: Median Listing Price in Elkhart-Goshen, IN (CBSA)                                                     | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU21140            | Housing Inventory: New Listing Count in Elkhart-Goshen, IN (CBSA)                                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM21140          | Housing Inventory: New Listing Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY21140          | Housing Inventory: New Listing Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                      | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA21140          | Market Hotness: Listing Views per Property in Elkhart-Goshen, IN (CBSA)                                               | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA21140        | Market Hotness: Listing Views per Property Versus the United States in Elkhart-Goshen, IN (CBSA)                      | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA21140          | Market Hotness: Listing Views per Property in Elkhart-Goshen, IN (CBSA)                                               | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA21140        | Market Hotness: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                    | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA21140          | Market Hotness: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                    | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA21140        | Market Hotness: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                    | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR21140          | Housing Inventory: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM21140        | Housing Inventory: Median Days on Market Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY21140        | Housing Inventory: Median Days on Market Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI21140            | Housing Inventory: Median Listing Price in Elkhart-Goshen, IN (CBSA)                                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM21140          | Housing Inventory: Median Listing Price Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE21140   | Housing Inventory: Median Listing Price per Square Feet in Elkhart-Goshen, IN (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM21140 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Elkhart-Goshen, IN (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY21140 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Elkhart-Goshen, IN (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY21140          | Housing Inventory: Median Listing Price Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                   | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA21140          | Market Hotness: Median Days on Market in Elkhart-Goshen, IN (CBSA)                                                    | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA21140          | Market Hotness: Median Days on Market Versus the United States in Elkhart-Goshen, IN (CBSA)                           | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA21140          | Market Hotness: Median Days on Market Day in Elkhart-Goshen, IN (CBSA)                                                | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE21140            | Housing Inventory: Median Home Size in Square Feet in Elkhart-Goshen, IN (CBSA)                                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM21140          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Elkhart-Goshen, IN (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY21140          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Elkhart-Goshen, IN (CBSA)                        | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA21140          | Market Hotness: Median Listing Price in Elkhart-Goshen, IN (CBSA)                                                     | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA21140            | Market Hotness: Median Listing Price in Elkhart-Goshen, IN (CBSA)                                                     | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA21140        | Market Hotness: Median Listing Price Versus the United States in Elkhart-Goshen, IN (CBSA)                            | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA21140          | Market Hotness: Median Listing Price in Elkhart-Goshen, IN (CBSA)                                                     | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU21140            | Housing Inventory: New Listing Count in Elkhart-Goshen, IN (CBSA)                                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM21140          | Housing Inventory: New Listing Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY21140          | Housing Inventory: New Listing Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                      | 2017-07-01          | 2022-11-01        |
 | NGMP21140                 | Total Gross Domestic Product for Elkhart-Goshen, IN (MSA)                                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA21140            | Market Hotness: Nielsen Household Rank in Elkhart-Goshen, IN (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA21140            | Market Hotness: Nielsen Household Rank in Elkhart-Goshen, IN (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA121140          | U.S. Granted Utility Patents Originating in Elkhart-Goshen, IN (MSA)                                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU21140            | Housing Inventory: Pending Listing Count in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM21140          | Housing Inventory: Pending Listing Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY21140          | Housing Inventory: Pending Listing Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU21140            | Housing Inventory: Price Increased Count in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
+| PENLISCOU21140            | Housing Inventory: Pending Listing Count in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM21140          | Housing Inventory: Pending Listing Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY21140          | Housing Inventory: Pending Listing Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU21140            | Housing Inventory: Price Increased Count in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM21140          | Housing Inventory: Price Increased Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY21140          | Housing Inventory: Price Increased Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-09-01        |
-| PRIREDCOU21140            | Housing Inventory: Price Reduced Count in Elkhart-Goshen, IN (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM21140          | Housing Inventory: Price Reduced Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY21140          | Housing Inventory: Price Reduced Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| PRIINCCOUYY21140          | Housing Inventory: Price Increased Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU21140            | Housing Inventory: Price Reduced Count in Elkhart-Goshen, IN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM21140          | Housing Inventory: Price Reduced Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY21140          | Housing Inventory: Price Reduced Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | QGMP21140                 | Total Quantity Indexes for Real GDP for Elkhart-Goshen, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RGMP21140                 | Total Real Gross Domestic Product for Elkhart-Goshen, IN (MSA)                                                        | 2001-01-01          | 2020-01-01        |
 | RPI21140                  | Real Personal Income for Elkhart-Goshen, IN (MSA)                                                                     | 2008-01-01          | 2020-01-01        |
@@ -169,4 +169,4 @@
 | SMU18211409093161101      | All Employees: Government: Local Government Educational Services in Elkhart-Goshen, IN (MSA)                          | 1990-01-01          | 2022-10-01        |
 | SMU18211409093161101A     | All Employees: Local Government Educational Services in Elkhart-Goshen, IN (MSA)                                      | 1990-01-01          | 2021-01-01        |
 | SMU18211409093161101SA    | All Employees: Government: Local Government Educational Services in Elkhart-Goshen, IN (MSA)                          | 1990-01-01          | 2022-10-01        |
-| SUSCMSA21140              | Market Hotness: Supply Score in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-10-01        |
+| SUSCMSA21140              | Market Hotness: Supply Score in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-11-01        |

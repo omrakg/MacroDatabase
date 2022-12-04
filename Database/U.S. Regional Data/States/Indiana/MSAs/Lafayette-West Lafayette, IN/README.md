@@ -1,6 +1,6 @@
 | id                     | title                                                                                                                         | observation_start   | observation_end   |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS29200Q         | All-Transactions House Price Index for Lafayette-West Lafayette, IN (MSA)                                                     | 1985-01-01          | 2022-04-01        |
+| ATNHPIUS29200Q         | All-Transactions House Price Index for Lafayette-West Lafayette, IN (MSA)                                                     | 1985-01-01          | 2022-07-01        |
 | ENUC292030010          | Total Quarterly Wages in Lafayette-West Lafayette, IN (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC292030010SA        | Total Quarterly Wages in Lafayette-West Lafayette, IN (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC292040010          | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, IN (MSA)                                     | 2013-01-01          | 2022-01-01        |
@@ -13,14 +13,14 @@
 | ENUC292040510SA        | Average Weekly Wages for Employees in Private Establishments in Lafayette, IN (MSA)                                           | 2013-01-01          | 2022-01-01        |
 | IRPD29200              | Implicit Regional Price Deflator for Lafayette-West Lafayette, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAFA118LF              | Civilian Labor Force in Lafayette-West Lafayette, IN (MSA)                                                                    | 2000-01-01          | 2014-12-01        |
-| LAFA118LFN             | Civilian Labor Force in Lafayette-West Lafayette, IN (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| LAFA118LFN             | Civilian Labor Force in Lafayette-West Lafayette, IN (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | LAFA118UR              | Unemployment Rate in Lafayette-West Lafayette, IN (MSA)                                                                       | 2000-01-01          | 2014-12-01        |
-| LAFA118URN             | Unemployment Rate in Lafayette-West Lafayette, IN (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| LAFA118URN             | Unemployment Rate in Lafayette-West Lafayette, IN (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | LAFPOP                 | Resident Population in Lafayette, IN (MSA)                                                                                    | 2000-01-01          | 2009-01-01        |
 | LAUMT182920000000003A  | Unemployment Rate in Lafayette-West Lafayette, IN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT182920000000004   | Unemployed Persons in Lafayette-West Lafayette, IN (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT182920000000004   | Unemployed Persons in Lafayette-West Lafayette, IN (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT182920000000004A  | Unemployed Persons in Lafayette-West Lafayette, IN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT182920000000005   | Employed Persons in Lafayette-West Lafayette, IN (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT182920000000005   | Employed Persons in Lafayette-West Lafayette, IN (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT182920000000005A  | Employed Persons in Lafayette-West Lafayette, IN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT182920000000006A  | Civilian Labor Force in Lafayette-West Lafayette, IN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LWLPOP                 | Resident Population in Lafayette-West Lafayette, IN (MSA)                                                                     | 2010-01-01          | 2021-01-01        |

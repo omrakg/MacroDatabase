@@ -7,7 +7,7 @@
 | Skagway-Hoonah-Angoon Census Area, AK           |                 7 |
 | Prince of Wales-Hyder Census Area, AK           |                83 |
 | Southeast Fairbanks Census Area, AK             |                86 |
-| Wade Hampton Census Area, AK                    |                 0 |
+| Wade Hampton Census Area, AK                    |                13 |
 | Haines Borough, AK                              |                87 |
 | Aleutians West Census Area, AK                  |                86 |
 | Petersburg Census Area, AK                      |                83 |
@@ -28,7 +28,7 @@
 | Nome Census Area, AK                            |                87 |
 | North Slope Borough, AK                         |                87 |
 | Ketchikan Gateway Borough, AK                   |                88 |
-| Kusilvak Census Area, AK                        |                52 |
+| Kusilvak Census Area, AK                        |                 0 |
 | Aleutians East Borough, AK                      |                86 |
 | Kodiak Island Borough, AK                       |                88 |
 | Skagway Municipality, AK                        |                83 |

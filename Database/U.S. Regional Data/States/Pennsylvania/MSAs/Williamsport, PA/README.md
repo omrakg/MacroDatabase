@@ -1,12 +1,12 @@
 | id                        | title                                                                                               | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU48700            | Housing Inventory: Active Listing Count in Williamsport, PA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM48700          | Housing Inventory: Active Listing Count Month-Over-Month in Williamsport, PA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY48700          | Housing Inventory: Active Listing Count Year-Over-Year in Williamsport, PA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS48700Q            | All-Transactions House Price Index for Williamsport, PA (MSA)                                       | 1990-01-01          | 2022-04-01        |
-| AVELISPRI48700            | Housing Inventory: Average Listing Price in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM48700          | Housing Inventory: Average Listing Price Month-Over-Month in Williamsport, PA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY48700          | Housing Inventory: Average Listing Price Year-Over-Year in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU48700            | Housing Inventory: Active Listing Count in Williamsport, PA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM48700          | Housing Inventory: Active Listing Count Month-Over-Month in Williamsport, PA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY48700          | Housing Inventory: Active Listing Count Year-Over-Year in Williamsport, PA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS48700Q            | All-Transactions House Price Index for Williamsport, PA (MSA)                                       | 1990-01-01          | 2022-07-01        |
+| AVELISPRI48700            | Housing Inventory: Average Listing Price in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM48700          | Housing Inventory: Average Listing Price Month-Over-Month in Williamsport, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY48700          | Housing Inventory: Average Listing Price Year-Over-Year in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | ENUC487030010             | Total Quarterly Wages in Williamsport, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC487030010SA           | Total Quarterly Wages in Williamsport, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC487040010             | Average Weekly Wages for Employees in Total Covered Establishments in Williamsport, PA (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -21,37 +21,37 @@
 | ENUC487040510SA           | Average Weekly Wages for Employees in Private Establishments in Williamsport, PA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD48700                 | Implicit Regional Price Deflator for Williamsport, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT424870000000003A     | Unemployment Rate in Williamsport, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT424870000000004      | Unemployed Persons in Williamsport, PA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT424870000000004      | Unemployed Persons in Williamsport, PA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT424870000000004A     | Unemployed Persons in Williamsport, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT424870000000005      | Employed Persons in Williamsport, PA (MSA)                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT424870000000005      | Employed Persons in Williamsport, PA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT424870000000005A     | Employed Persons in Williamsport, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT424870000000006A     | Civilian Labor Force in Williamsport, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR48700          | Housing Inventory: Median Days on Market in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM48700        | Housing Inventory: Median Days on Market Month-Over-Month in Williamsport, PA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY48700        | Housing Inventory: Median Days on Market Year-Over-Year in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI48700            | Housing Inventory: Median Listing Price in Williamsport, PA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM48700          | Housing Inventory: Median Listing Price Month-Over-Month in Williamsport, PA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE48700   | Housing Inventory: Median Listing Price per Square Feet in Williamsport, PA (CBSA)                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM48700 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Williamsport, PA (CBSA) | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY48700 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Williamsport, PA (CBSA)   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY48700          | Housing Inventory: Median Listing Price Year-Over-Year in Williamsport, PA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEE48700            | Housing Inventory: Median Home Size in Square Feet in Williamsport, PA (CBSA)                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM48700          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Williamsport, PA (CBSA)      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY48700          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Williamsport, PA (CBSA)        | 2017-07-01          | 2022-10-01        |
-| NEWLISCOU48700            | Housing Inventory: New Listing Count in Williamsport, PA (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM48700          | Housing Inventory: New Listing Count Month-Over-Month in Williamsport, PA (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY48700          | Housing Inventory: New Listing Count Year-Over-Year in Williamsport, PA (CBSA)                      | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR48700          | Housing Inventory: Median Days on Market in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM48700        | Housing Inventory: Median Days on Market Month-Over-Month in Williamsport, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY48700        | Housing Inventory: Median Days on Market Year-Over-Year in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI48700            | Housing Inventory: Median Listing Price in Williamsport, PA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM48700          | Housing Inventory: Median Listing Price Month-Over-Month in Williamsport, PA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE48700   | Housing Inventory: Median Listing Price per Square Feet in Williamsport, PA (CBSA)                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM48700 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Williamsport, PA (CBSA) | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY48700 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Williamsport, PA (CBSA)   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY48700          | Housing Inventory: Median Listing Price Year-Over-Year in Williamsport, PA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEE48700            | Housing Inventory: Median Home Size in Square Feet in Williamsport, PA (CBSA)                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM48700          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Williamsport, PA (CBSA)      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY48700          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Williamsport, PA (CBSA)        | 2017-07-01          | 2022-11-01        |
+| NEWLISCOU48700            | Housing Inventory: New Listing Count in Williamsport, PA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM48700          | Housing Inventory: New Listing Count Month-Over-Month in Williamsport, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY48700          | Housing Inventory: New Listing Count Year-Over-Year in Williamsport, PA (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | NGMP48700                 | Total Gross Domestic Product for Williamsport, PA (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA148700          | U.S. Granted Utility Patents Originating in Williamsport, PA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU48700            | Housing Inventory: Pending Listing Count in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM48700          | Housing Inventory: Pending Listing Count Month-Over-Month in Williamsport, PA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY48700          | Housing Inventory: Pending Listing Count Year-Over-Year in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU48700            | Housing Inventory: Price Increased Count in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
+| PENLISCOU48700            | Housing Inventory: Pending Listing Count in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM48700          | Housing Inventory: Pending Listing Count Month-Over-Month in Williamsport, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY48700          | Housing Inventory: Pending Listing Count Year-Over-Year in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU48700            | Housing Inventory: Price Increased Count in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM48700          | Housing Inventory: Price Increased Count Month-Over-Month in Williamsport, PA (CBSA)                | 2017-08-01          | 2020-10-01        |
 | PRIINCCOUYY48700          | Housing Inventory: Price Increased Count Year-Over-Year in Williamsport, PA (CBSA)                  | 2017-08-01          | 2021-09-01        |
-| PRIREDCOU48700            | Housing Inventory: Price Reduced Count in Williamsport, PA (CBSA)                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM48700          | Housing Inventory: Price Reduced Count Month-Over-Month in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY48700          | Housing Inventory: Price Reduced Count Year-Over-Year in Williamsport, PA (CBSA)                    | 2017-07-01          | 2022-10-01        |
+| PRIREDCOU48700            | Housing Inventory: Price Reduced Count in Williamsport, PA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM48700          | Housing Inventory: Price Reduced Count Month-Over-Month in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY48700          | Housing Inventory: Price Reduced Count Year-Over-Year in Williamsport, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP48700                 | Total Quantity Indexes for Real GDP for Williamsport, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP48700                 | Total Real Gross Domestic Product for Williamsport, PA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI48700                  | Real Personal Income for Williamsport, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -103,8 +103,8 @@
 | WILL742GOVTN              | All Employees: Government in Williamsport, PA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | WILL742LEIH               | All Employees: Leisure and Hospitality in Williamsport, PA (MSA)                                    | 1990-01-01          | 2022-10-01        |
 | WILL742LEIHN              | All Employees: Leisure and Hospitality in Williamsport, PA (MSA)                                    | 1990-01-01          | 2022-10-01        |
-| WILL742LF                 | Civilian Labor Force in Williamsport, PA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
-| WILL742LFN                | Civilian Labor Force in Williamsport, PA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| WILL742LF                 | Civilian Labor Force in Williamsport, PA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
+| WILL742LFN                | Civilian Labor Force in Williamsport, PA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | WILL742MFG                | All Employees: Manufacturing in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | WILL742MFGN               | All Employees: Manufacturing in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | WILL742NA                 | All Employees: Total Nonfarm in Williamsport, PA (MSA)                                              | 1990-01-01          | 2022-10-01        |
@@ -112,6 +112,6 @@
 | WILL742PCPI               | Per Capita Personal Income in Williamsport, PA (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | WILL742TRAD               | All Employees: Trade, Transportation, and Utilities in Williamsport, PA (MSA)                       | 1990-01-01          | 2022-10-01        |
 | WILL742TRADN              | All Employees: Trade, Transportation, and Utilities in Williamsport, PA (MSA)                       | 1990-01-01          | 2022-10-01        |
-| WILL742UR                 | Unemployment Rate in Williamsport, PA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| WILL742URN                | Unemployment Rate in Williamsport, PA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| WILL742UR                 | Unemployment Rate in Williamsport, PA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| WILL742URN                | Unemployment Rate in Williamsport, PA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | WSPPOP                    | Resident Population in Williamsport, PA (MSA)                                                       | 2000-01-01          | 2021-01-01        |

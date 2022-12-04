@@ -11,7 +11,7 @@
 | Kern County, CA                 |               147 |
 | San Francisco County - city, CA |                 0 |
 | San Joaquin County, CA          |               146 |
-| Contra Costa County, CA         |               147 |
+| Contra Costa County, CA         |                 0 |
 | Siskiyou County, CA             |                90 |
 | San Luis Obispo County, CA      |               146 |
 | Santa Clara County, CA          |               147 |
@@ -19,7 +19,7 @@
 | Alameda County, CA              |               147 |
 | Kings County, CA                |               147 |
 | Amador County, CA               |                90 |
-| Trinity County, CA              |                 0 |
+| Trinity County, CA              |                89 |
 | Lassen County, CA               |                90 |
 | Santa Cruz County, CA           |               147 |
 | San Bernardino County, CA       |               146 |

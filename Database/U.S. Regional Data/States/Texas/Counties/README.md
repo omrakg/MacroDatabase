@@ -47,7 +47,7 @@
 | Terrell County, TX       |                85 |
 | Real County, TX          |                88 |
 | Duval County, TX         |                88 |
-| Uvalde County, TX        |                90 |
+| Uvalde County, TX        |                 0 |
 | Frio County, TX          |                88 |
 | Lamb County, TX          |                89 |
 | Reagan County, TX        |                88 |
@@ -56,7 +56,7 @@
 | Upton County, TX         |                88 |
 | Concho County, TX        |                88 |
 | Garza County, TX         |                87 |
-| Tarrant County, TX       |                 0 |
+| Tarrant County, TX       |               147 |
 | Hansford County, TX      |                89 |
 | Comanche County, TX      |                89 |
 | Brown County, TX         |                90 |
@@ -107,7 +107,7 @@
 | Tom Green County, TX     |               147 |
 | Burleson County, TX      |                89 |
 | Hutchinson County, TX    |                90 |
-| Sterling County, TX      |                86 |
+| Sterling County, TX      |                 0 |
 | Coke County, TX          |                89 |
 | Burnet County, TX        |                90 |
 | Crosby County, TX        |                87 |
@@ -116,7 +116,7 @@
 | Aransas County, TX       |                90 |
 | Crockett County, TX      |                86 |
 | Motley County, TX        |                86 |
-| Cochran County, TX       |                 0 |
+| Cochran County, TX       |                87 |
 | Live Oak County, TX      |                89 |
 | Collingsworth County, TX |                88 |
 | San Augustine County, TX |                87 |
@@ -167,7 +167,7 @@
 | Castro County, TX        |                89 |
 | Washington County, TX    |                90 |
 | Clay County, TX          |                88 |
-| Gillespie County, TX     |                90 |
+| Gillespie County, TX     |                 0 |
 | Coryell County, TX       |               147 |
 | Medina County, TX        |                90 |
 | Jim Hogg County, TX      |                87 |
@@ -202,7 +202,7 @@
 | De Witt County, TX       |                89 |
 | Red River County, TX     |                88 |
 | Goliad County, TX        |                89 |
-| Fort Bend County, TX     |                 0 |
+| Fort Bend County, TX     |               147 |
 | Lubbock County, TX       |               147 |
 | Stephens County, TX      |                89 |
 | Dallam County, TX        |                89 |
@@ -252,4 +252,4 @@
 | Lynn County, TX          |                88 |
 | Hardeman County, TX      |                89 |
 | Jim Wells County, TX     |                90 |
-| Webb County, TX          |               147 |
+| Webb County, TX          |                 0 |

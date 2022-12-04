@@ -1,13 +1,13 @@
 | id                        | title                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU33660            | Housing Inventory: Active Listing Count in Mobile, AL (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM33660          | Housing Inventory: Active Listing Count Month-Over-Month in Mobile, AL (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY33660          | Housing Inventory: Active Listing Count Year-Over-Year in Mobile, AL (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS33660Q            | All-Transactions House Price Index for Mobile, AL (MSA)                                                     | 1984-01-01          | 2022-04-01        |
-| AVELISPRI33660            | Housing Inventory: Average Listing Price in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM33660          | Housing Inventory: Average Listing Price Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY33660          | Housing Inventory: Average Listing Price Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA33660              | Market Hotness: Demand Score in Mobile, AL (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU33660            | Housing Inventory: Active Listing Count in Mobile, AL (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM33660          | Housing Inventory: Active Listing Count Month-Over-Month in Mobile, AL (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY33660          | Housing Inventory: Active Listing Count Year-Over-Year in Mobile, AL (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS33660Q            | All-Transactions House Price Index for Mobile, AL (MSA)                                                     | 1984-01-01          | 2022-07-01        |
+| AVELISPRI33660            | Housing Inventory: Average Listing Price in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM33660          | Housing Inventory: Average Listing Price Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY33660          | Housing Inventory: Average Listing Price Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA33660              | Market Hotness: Demand Score in Mobile, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC336630010             | Total Quarterly Wages in Mobile, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC336630010SA           | Total Quarterly Wages in Mobile, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC336640010             | Average Weekly Wages for Employees in Total Covered Establishments in Mobile, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,42 +20,42 @@
 | ENUC336640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC336640510             | Average Weekly Wages for Employees in Private Establishments in Mobile, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC336640510SA           | Average Weekly Wages for Employees in Private Establishments in Mobile, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA33660            | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA33660              | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA33660            | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA33660              | Market Hotness: Hotness Score in Mobile, AL (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA33660            | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA33660              | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA33660            | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA33660              | Market Hotness: Hotness Score in Mobile, AL (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD33660                 | Implicit Regional Price Deflator for Mobile, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT013366000000003A     | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT013366000000004      | Unemployed Persons in Mobile, AL (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT013366000000004      | Unemployed Persons in Mobile, AL (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT013366000000004A     | Unemployed Persons in Mobile, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT013366000000005      | Employed Persons in Mobile, AL (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT013366000000005      | Employed Persons in Mobile, AL (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT013366000000005A     | Employed Persons in Mobile, AL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT013366000000006A     | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA33660          | Market Hotness: Listing Views per Property in Mobile, AL (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA33660        | Market Hotness: Listing Views per Property Versus the United States in Mobile, AL (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA33660          | Market Hotness: Listing Views per Property in Mobile, AL (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA33660        | Market Hotness: Median Days on Market in Mobile, AL (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA33660          | Market Hotness: Median Days on Market in Mobile, AL (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA33660        | Market Hotness: Median Days on Market in Mobile, AL (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR33660          | Housing Inventory: Median Days on Market in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM33660        | Housing Inventory: Median Days on Market Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY33660        | Housing Inventory: Median Days on Market Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI33660            | Housing Inventory: Median Listing Price in Mobile, AL (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM33660          | Housing Inventory: Median Listing Price Month-Over-Month in Mobile, AL (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE33660   | Housing Inventory: Median Listing Price per Square Feet in Mobile, AL (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM33660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mobile, AL (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY33660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mobile, AL (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY33660          | Housing Inventory: Median Listing Price Year-Over-Year in Mobile, AL (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA33660          | Market Hotness: Median Days on Market in Mobile, AL (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA33660          | Market Hotness: Median Days on Market Versus the United States in Mobile, AL (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA33660          | Market Hotness: Median Days on Market Day in Mobile, AL (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE33660            | Housing Inventory: Median Home Size in Square Feet in Mobile, AL (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM33660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mobile, AL (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY33660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mobile, AL (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA33660          | Market Hotness: Median Listing Price in Mobile, AL (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA33660            | Market Hotness: Median Listing Price in Mobile, AL (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA33660        | Market Hotness: Median Listing Price Versus the United States in Mobile, AL (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA33660          | Market Hotness: Median Listing Price in Mobile, AL (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
+| LDPEPRMMMSA33660          | Market Hotness: Listing Views per Property in Mobile, AL (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA33660        | Market Hotness: Listing Views per Property Versus the United States in Mobile, AL (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA33660          | Market Hotness: Listing Views per Property in Mobile, AL (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA33660        | Market Hotness: Median Days on Market in Mobile, AL (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA33660          | Market Hotness: Median Days on Market in Mobile, AL (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA33660        | Market Hotness: Median Days on Market in Mobile, AL (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR33660          | Housing Inventory: Median Days on Market in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM33660        | Housing Inventory: Median Days on Market Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY33660        | Housing Inventory: Median Days on Market Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI33660            | Housing Inventory: Median Listing Price in Mobile, AL (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM33660          | Housing Inventory: Median Listing Price Month-Over-Month in Mobile, AL (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE33660   | Housing Inventory: Median Listing Price per Square Feet in Mobile, AL (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM33660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Mobile, AL (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY33660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Mobile, AL (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY33660          | Housing Inventory: Median Listing Price Year-Over-Year in Mobile, AL (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA33660          | Market Hotness: Median Days on Market in Mobile, AL (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA33660          | Market Hotness: Median Days on Market Versus the United States in Mobile, AL (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA33660          | Market Hotness: Median Days on Market Day in Mobile, AL (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE33660            | Housing Inventory: Median Home Size in Square Feet in Mobile, AL (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM33660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Mobile, AL (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY33660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Mobile, AL (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA33660          | Market Hotness: Median Listing Price in Mobile, AL (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA33660            | Market Hotness: Median Listing Price in Mobile, AL (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA33660        | Market Hotness: Median Listing Price Versus the United States in Mobile, AL (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA33660          | Market Hotness: Median Listing Price in Mobile, AL (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
 | MOBI601EDUH               | All Employees: Education and Health Services in Mobile, AL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | MOBI601EDUHN              | All Employees: Education and Health Services in Mobile, AL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | MOBI601FIRE               | All Employees: Financial Activities in Mobile, AL (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -66,8 +66,8 @@
 | MOBI601INFON              | All Employees: Information in Mobile, AL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | MOBI601LEIH               | All Employees: Leisure and Hospitality in Mobile, AL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | MOBI601LEIHN              | All Employees: Leisure and Hospitality in Mobile, AL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| MOBI601LF                 | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| MOBI601LFN                | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| MOBI601LF                 | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| MOBI601LFN                | Civilian Labor Force in Mobile, AL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | MOBI601MFG                | All Employees: Manufacturing in Mobile, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | MOBI601MFGN               | All Employees: Manufacturing in Mobile, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | MOBI601NA                 | All Employees: Total Nonfarm in Mobile, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -81,24 +81,24 @@
 | MOBI601SRVON              | All Employees: Other Services in Mobile, AL (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | MOBI601TRAD               | All Employees: Trade, Transportation, and Utilities in Mobile, AL (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | MOBI601TRADN              | All Employees: Trade, Transportation, and Utilities in Mobile, AL (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| MOBI601UR                 | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| MOBI601URN                | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| MOBI601UR                 | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| MOBI601URN                | Unemployment Rate in Mobile, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | MOBPOP                    | Resident Population in Mobile, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| NEWLISCOU33660            | Housing Inventory: New Listing Count in Mobile, AL (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM33660          | Housing Inventory: New Listing Count Month-Over-Month in Mobile, AL (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY33660          | Housing Inventory: New Listing Count Year-Over-Year in Mobile, AL (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| NEWLISCOU33660            | Housing Inventory: New Listing Count in Mobile, AL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM33660          | Housing Inventory: New Listing Count Month-Over-Month in Mobile, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY33660          | Housing Inventory: New Listing Count Year-Over-Year in Mobile, AL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP33660                 | Total Gross Domestic Product for Mobile, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA33660            | Market Hotness: Nielsen Household Rank in Mobile, AL (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA33660            | Market Hotness: Nielsen Household Rank in Mobile, AL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA133660          | U.S. Granted Utility Patents Originating in Mobile, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU33660            | Housing Inventory: Pending Listing Count in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM33660          | Housing Inventory: Pending Listing Count Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY33660          | Housing Inventory: Pending Listing Count Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU33660            | Housing Inventory: Price Increased Count in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM33660          | Housing Inventory: Price Increased Count Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY33660          | Housing Inventory: Price Increased Count Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU33660            | Housing Inventory: Price Reduced Count in Mobile, AL (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM33660          | Housing Inventory: Price Reduced Count Month-Over-Month in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY33660          | Housing Inventory: Price Reduced Count Year-Over-Year in Mobile, AL (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU33660            | Housing Inventory: Pending Listing Count in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM33660          | Housing Inventory: Pending Listing Count Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY33660          | Housing Inventory: Pending Listing Count Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU33660            | Housing Inventory: Price Increased Count in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM33660          | Housing Inventory: Price Increased Count Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY33660          | Housing Inventory: Price Increased Count Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU33660            | Housing Inventory: Price Reduced Count in Mobile, AL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM33660          | Housing Inventory: Price Reduced Count Month-Over-Month in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY33660          | Housing Inventory: Price Reduced Count Year-Over-Year in Mobile, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP33660                 | Total Quantity Indexes for Real GDP for Mobile, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP33660                 | Total Real Gross Domestic Product for Mobile, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI33660                  | Real Personal Income for Mobile, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -164,4 +164,4 @@
 | SMU01336609093000001      | All Employees: Government: Local Government in Mobile, AL (MSA)                                             | 1990-01-01          | 2022-10-01        |
 | SMU01336609093000001A     | All Employees: Local Government in Mobile, AL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU01336609093000001SA    | All Employees: Government: Local Government in Mobile, AL (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| SUSCMSA33660              | Market Hotness: Supply Score in Mobile, AL (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA33660              | Market Hotness: Supply Score in Mobile, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

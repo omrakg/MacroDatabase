@@ -41,7 +41,7 @@
 | Tuscaloosa County, AL |               147 |
 | Perry County, AL      |                89 |
 | Choctaw County, AL    |                88 |
-| Lee County, AL        |               147 |
+| Lee County, AL        |                 0 |
 | Colbert County, AL    |               146 |
 | Randolph County, AL   |                90 |
 | Dale County, AL       |               146 |

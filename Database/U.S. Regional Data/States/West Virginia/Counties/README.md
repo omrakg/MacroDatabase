@@ -44,7 +44,7 @@
 | Taylor County, WV     |                89 |
 | Hampshire County, WV  |                90 |
 | Hancock County, WV    |                90 |
-| Ohio County, WV       |               144 |
+| Ohio County, WV       |                 0 |
 | Marshall County, WV   |                90 |
 | Gilmer County, WV     |                88 |
 | Hardy County, WV      |                89 |
@@ -53,4 +53,4 @@
 | Wayne County, WV      |                90 |
 | Tucker County, WV     |                89 |
 | Preston County, WV    |                88 |
-| Pendleton County, WV  |                 0 |
+| Pendleton County, WV  |                88 |

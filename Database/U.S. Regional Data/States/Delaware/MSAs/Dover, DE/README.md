@@ -1,13 +1,13 @@
 | id                        | title                                                                                              | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU20100            | Housing Inventory: Active Listing Count in Dover, DE (CBSA)                                        | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM20100          | Housing Inventory: Active Listing Count Month-Over-Month in Dover, DE (CBSA)                       | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY20100          | Housing Inventory: Active Listing Count Year-Over-Year in Dover, DE (CBSA)                         | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS20100Q            | All-Transactions House Price Index for Dover, DE (MSA)                                             | 1987-07-01          | 2022-04-01        |
-| AVELISPRI20100            | Housing Inventory: Average Listing Price in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM20100          | Housing Inventory: Average Listing Price Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY20100          | Housing Inventory: Average Listing Price Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-10-01        |
-| DESCMSA20100              | Market Hotness: Demand Score in Dover, DE (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU20100            | Housing Inventory: Active Listing Count in Dover, DE (CBSA)                                        | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM20100          | Housing Inventory: Active Listing Count Month-Over-Month in Dover, DE (CBSA)                       | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY20100          | Housing Inventory: Active Listing Count Year-Over-Year in Dover, DE (CBSA)                         | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS20100Q            | All-Transactions House Price Index for Dover, DE (MSA)                                             | 1987-07-01          | 2022-07-01        |
+| AVELISPRI20100            | Housing Inventory: Average Listing Price in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM20100          | Housing Inventory: Average Listing Price Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY20100          | Housing Inventory: Average Listing Price Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-11-01        |
+| DESCMSA20100              | Market Hotness: Demand Score in Dover, DE (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
 | DOVE110BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-10-01        |
 | DOVE110BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-10-01        |
 | DOVE110BPPRIV             | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-10-01        |
@@ -22,8 +22,8 @@
 | DOVE110INFON              | All Employees: Information in Dover, DE (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | DOVE110LEIH               | All Employees: Leisure and Hospitality in Dover, DE (MSA)                                          | 1990-01-01          | 2022-10-01        |
 | DOVE110LEIHN              | All Employees: Leisure and Hospitality in Dover, DE (MSA)                                          | 1990-01-01          | 2022-10-01        |
-| DOVE110LF                 | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2022-09-01        |
-| DOVE110LFN                | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2022-09-01        |
+| DOVE110LF                 | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2022-10-01        |
+| DOVE110LFN                | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | DOVE110MFG                | All Employees: Manufacturing in Dover, DE (MSA)                                                    | 1990-01-01          | 2022-10-01        |
 | DOVE110MFGN               | All Employees: Manufacturing in Dover, DE (MSA)                                                    | 1990-01-01          | 2022-10-01        |
 | DOVE110NA                 | All Employees: Total Nonfarm in Dover, DE (MSA)                                                    | 1990-01-01          | 2022-10-01        |
@@ -37,8 +37,8 @@
 | DOVE110SRVON              | All Employees: Other Services in Dover, DE (MSA)                                                   | 1990-01-01          | 2022-10-01        |
 | DOVE110TRAD               | All Employees: Trade, Transportation, and Utilities in Dover, DE (MSA)                             | 1990-01-01          | 2022-10-01        |
 | DOVE110TRADN              | All Employees: Trade, Transportation, and Utilities in Dover, DE (MSA)                             | 1990-01-01          | 2022-10-01        |
-| DOVE110UR                 | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-09-01        |
-| DOVE110URN                | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-09-01        |
+| DOVE110UR                 | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-10-01        |
+| DOVE110URN                | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-10-01        |
 | DVRPOP                    | Resident Population in Dover, DE (MSA)                                                             | 2000-01-01          | 2021-01-01        |
 | ENUC201030010             | Total Quarterly Wages in Dover, DE (MSA)                                                           | 1990-01-01          | 2022-01-01        |
 | ENUC201030010SA           | Total Quarterly Wages in Dover, DE (MSA)                                                           | 1990-01-01          | 2022-01-01        |
@@ -52,57 +52,57 @@
 | ENUC201040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dover, DE (MSA)           | 1990-01-01          | 2002-10-01        |
 | ENUC201040510             | Average Weekly Wages for Employees in Private Establishments in Dover, DE (MSA)                    | 1990-01-01          | 2002-10-01        |
 | ENUC201040510SA           | Average Weekly Wages for Employees in Private Establishments in Dover, DE (MSA)                    | 1990-01-01          | 2002-10-01        |
-| HORAMMMSA20100            | Market Hotness: Hotness Rank in Dover, DE (CBSA)                                                   | 2017-09-01          | 2022-10-01        |
-| HORAMSA20100              | Market Hotness: Hotness Rank in Dover, DE (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA20100            | Market Hotness: Hotness Rank in Dover, DE (CBSA)                                                   | 2018-08-01          | 2022-10-01        |
-| HOSCMSA20100              | Market Hotness: Hotness Score in Dover, DE (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA20100            | Market Hotness: Hotness Rank in Dover, DE (CBSA)                                                   | 2017-09-01          | 2022-11-01        |
+| HORAMSA20100              | Market Hotness: Hotness Rank in Dover, DE (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA20100            | Market Hotness: Hotness Rank in Dover, DE (CBSA)                                                   | 2018-08-01          | 2022-11-01        |
+| HOSCMSA20100              | Market Hotness: Hotness Score in Dover, DE (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
 | IRPD20100                 | Implicit Regional Price Deflator for Dover, DE (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | LAUMT102010000000003A     | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| LAUMT102010000000004      | Unemployed Persons in Dover, DE (MSA)                                                              | 1990-01-01          | 2022-09-01        |
+| LAUMT102010000000004      | Unemployed Persons in Dover, DE (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | LAUMT102010000000004A     | Unemployed Persons in Dover, DE (MSA)                                                              | 1990-01-01          | 2021-01-01        |
-| LAUMT102010000000005      | Employed Persons in Dover, DE (MSA)                                                                | 1990-01-01          | 2022-09-01        |
+| LAUMT102010000000005      | Employed Persons in Dover, DE (MSA)                                                                | 1990-01-01          | 2022-10-01        |
 | LAUMT102010000000005A     | Employed Persons in Dover, DE (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | LAUMT102010000000006A     | Civilian Labor Force in Dover, DE (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA20100          | Market Hotness: Listing Views per Property in Dover, DE (CBSA)                                     | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA20100        | Market Hotness: Listing Views per Property Versus the United States in Dover, DE (CBSA)            | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA20100          | Market Hotness: Listing Views per Property in Dover, DE (CBSA)                                     | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA20100        | Market Hotness: Median Days on Market in Dover, DE (CBSA)                                          | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA20100          | Market Hotness: Median Days on Market in Dover, DE (CBSA)                                          | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA20100        | Market Hotness: Median Days on Market in Dover, DE (CBSA)                                          | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR20100          | Housing Inventory: Median Days on Market in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM20100        | Housing Inventory: Median Days on Market Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY20100        | Housing Inventory: Median Days on Market Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI20100            | Housing Inventory: Median Listing Price in Dover, DE (CBSA)                                        | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM20100          | Housing Inventory: Median Listing Price Month-Over-Month in Dover, DE (CBSA)                       | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE20100   | Housing Inventory: Median Listing Price per Square Feet in Dover, DE (CBSA)                        | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM20100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Dover, DE (CBSA)       | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY20100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Dover, DE (CBSA)         | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY20100          | Housing Inventory: Median Listing Price Year-Over-Year in Dover, DE (CBSA)                         | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA20100          | Market Hotness: Median Days on Market in Dover, DE (CBSA)                                          | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA20100          | Market Hotness: Median Days on Market Versus the United States in Dover, DE (CBSA)                 | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA20100          | Market Hotness: Median Days on Market Day in Dover, DE (CBSA)                                      | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE20100            | Housing Inventory: Median Home Size in Square Feet in Dover, DE (CBSA)                             | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM20100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Dover, DE (CBSA)            | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY20100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Dover, DE (CBSA)              | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA20100          | Market Hotness: Median Listing Price in Dover, DE (CBSA)                                           | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA20100            | Market Hotness: Median Listing Price in Dover, DE (CBSA)                                           | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA20100        | Market Hotness: Median Listing Price Versus the United States in Dover, DE (CBSA)                  | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA20100          | Market Hotness: Median Listing Price in Dover, DE (CBSA)                                           | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU20100            | Housing Inventory: New Listing Count in Dover, DE (CBSA)                                           | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM20100          | Housing Inventory: New Listing Count Month-Over-Month in Dover, DE (CBSA)                          | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY20100          | Housing Inventory: New Listing Count Year-Over-Year in Dover, DE (CBSA)                            | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA20100          | Market Hotness: Listing Views per Property in Dover, DE (CBSA)                                     | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA20100        | Market Hotness: Listing Views per Property Versus the United States in Dover, DE (CBSA)            | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA20100          | Market Hotness: Listing Views per Property in Dover, DE (CBSA)                                     | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA20100        | Market Hotness: Median Days on Market in Dover, DE (CBSA)                                          | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA20100          | Market Hotness: Median Days on Market in Dover, DE (CBSA)                                          | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA20100        | Market Hotness: Median Days on Market in Dover, DE (CBSA)                                          | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR20100          | Housing Inventory: Median Days on Market in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM20100        | Housing Inventory: Median Days on Market Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY20100        | Housing Inventory: Median Days on Market Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI20100            | Housing Inventory: Median Listing Price in Dover, DE (CBSA)                                        | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM20100          | Housing Inventory: Median Listing Price Month-Over-Month in Dover, DE (CBSA)                       | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE20100   | Housing Inventory: Median Listing Price per Square Feet in Dover, DE (CBSA)                        | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM20100 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Dover, DE (CBSA)       | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY20100 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Dover, DE (CBSA)         | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY20100          | Housing Inventory: Median Listing Price Year-Over-Year in Dover, DE (CBSA)                         | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA20100          | Market Hotness: Median Days on Market in Dover, DE (CBSA)                                          | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA20100          | Market Hotness: Median Days on Market Versus the United States in Dover, DE (CBSA)                 | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA20100          | Market Hotness: Median Days on Market Day in Dover, DE (CBSA)                                      | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE20100            | Housing Inventory: Median Home Size in Square Feet in Dover, DE (CBSA)                             | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM20100          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Dover, DE (CBSA)            | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY20100          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Dover, DE (CBSA)              | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA20100          | Market Hotness: Median Listing Price in Dover, DE (CBSA)                                           | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA20100            | Market Hotness: Median Listing Price in Dover, DE (CBSA)                                           | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA20100        | Market Hotness: Median Listing Price Versus the United States in Dover, DE (CBSA)                  | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA20100          | Market Hotness: Median Listing Price in Dover, DE (CBSA)                                           | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU20100            | Housing Inventory: New Listing Count in Dover, DE (CBSA)                                           | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM20100          | Housing Inventory: New Listing Count Month-Over-Month in Dover, DE (CBSA)                          | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY20100          | Housing Inventory: New Listing Count Year-Over-Year in Dover, DE (CBSA)                            | 2017-07-01          | 2022-11-01        |
 | NGMP20100                 | Total Gross Domestic Product for Dover, DE (MSA)                                                   | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA20100            | Market Hotness: Nielsen Household Rank in Dover, DE (CBSA)                                         | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA20100            | Market Hotness: Nielsen Household Rank in Dover, DE (CBSA)                                         | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA120100          | U.S. Granted Utility Patents Originating in Dover, DE (MSA)                                        | 2000-01-01          | 2015-01-01        |
-| PENLISCOU20100            | Housing Inventory: Pending Listing Count in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM20100          | Housing Inventory: Pending Listing Count Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY20100          | Housing Inventory: Pending Listing Count Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU20100            | Housing Inventory: Price Increased Count in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM20100          | Housing Inventory: Price Increased Count Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY20100          | Housing Inventory: Price Increased Count Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU20100            | Housing Inventory: Price Reduced Count in Dover, DE (CBSA)                                         | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM20100          | Housing Inventory: Price Reduced Count Month-Over-Month in Dover, DE (CBSA)                        | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY20100          | Housing Inventory: Price Reduced Count Year-Over-Year in Dover, DE (CBSA)                          | 2017-07-01          | 2022-10-01        |
+| PENLISCOU20100            | Housing Inventory: Pending Listing Count in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM20100          | Housing Inventory: Pending Listing Count Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY20100          | Housing Inventory: Pending Listing Count Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU20100            | Housing Inventory: Price Increased Count in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM20100          | Housing Inventory: Price Increased Count Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY20100          | Housing Inventory: Price Increased Count Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU20100            | Housing Inventory: Price Reduced Count in Dover, DE (CBSA)                                         | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM20100          | Housing Inventory: Price Reduced Count Month-Over-Month in Dover, DE (CBSA)                        | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY20100          | Housing Inventory: Price Reduced Count Year-Over-Year in Dover, DE (CBSA)                          | 2017-07-01          | 2022-11-01        |
 | QGMP20100                 | Total Quantity Indexes for Real GDP for Dover, DE (MSA)                                            | 2001-01-01          | 2020-01-01        |
 | RGMP20100                 | Total Real Gross Domestic Product for Dover, DE (MSA)                                              | 2001-01-01          | 2020-01-01        |
 | RPI20100                  | Real Personal Income for Dover, DE (MSA)                                                           | 2008-01-01          | 2020-01-01        |
@@ -162,4 +162,4 @@
 | SMU10201009093161101      | All Employees: Government: Local Government Educational Services in Dover, DE (MSA)                | 1990-01-01          | 2022-10-01        |
 | SMU10201009093161101A     | All Employees: Local Government Educational Services in Dover, DE (MSA)                            | 1990-01-01          | 2021-01-01        |
 | SMU10201009093161101SA    | All Employees: Government: Local Government Educational Services in Dover, DE (MSA)                | 1990-01-01          | 2022-10-01        |
-| SUSCMSA20100              | Market Hotness: Supply Score in Dover, DE (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
+| SUSCMSA20100              | Market Hotness: Supply Score in Dover, DE (CBSA)                                                   | 2017-08-01          | 2022-11-01        |

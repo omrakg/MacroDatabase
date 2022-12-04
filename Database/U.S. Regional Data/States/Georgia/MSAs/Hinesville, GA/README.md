@@ -1,12 +1,12 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU25980            | Housing Inventory: Active Listing Count in Hinesville, GA (CBSA)                                             | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM25980          | Housing Inventory: Active Listing Count Month-Over-Month in Hinesville, GA (CBSA)                            | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY25980          | Housing Inventory: Active Listing Count Year-Over-Year in Hinesville, GA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS25980Q            | All-Transactions House Price Index for Hinesville, GA (MSA)                                                  | 2000-01-01          | 2022-04-01        |
-| AVELISPRI25980            | Housing Inventory: Average Listing Price in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM25980          | Housing Inventory: Average Listing Price Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY25980          | Housing Inventory: Average Listing Price Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU25980            | Housing Inventory: Active Listing Count in Hinesville, GA (CBSA)                                             | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM25980          | Housing Inventory: Active Listing Count Month-Over-Month in Hinesville, GA (CBSA)                            | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY25980          | Housing Inventory: Active Listing Count Year-Over-Year in Hinesville, GA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS25980Q            | All-Transactions House Price Index for Hinesville, GA (MSA)                                                  | 2000-01-01          | 2022-07-01        |
+| AVELISPRI25980            | Housing Inventory: Average Listing Price in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM25980          | Housing Inventory: Average Listing Price Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY25980          | Housing Inventory: Average Listing Price Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-11-01        |
 | ENUC259830010             | Total Quarterly Wages in Hinesville, GA (MSA)                                                                | 1990-01-01          | 2022-01-01        |
 | ENUC259830010SA           | Total Quarterly Wages in Hinesville, GA (MSA)                                                                | 1990-01-01          | 2022-01-01        |
 | ENUC259840010             | Average Weekly Wages for Employees in Total Covered Establishments in Hinesville-Fort Stewart, GA (MSA)      | 1990-01-01          | 2022-01-01        |
@@ -20,46 +20,46 @@
 | HFSPOP                    | Resident Population in Hinesville, GA (MSA)                                                                  | 2000-01-01          | 2021-01-01        |
 | HINE913GOVT               | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | HINE913GOVTN              | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| HINE913LF                 | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-09-01        |
-| HINE913LFN                | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-09-01        |
+| HINE913LF                 | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-10-01        |
+| HINE913LFN                | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2022-10-01        |
 | HINE913NA                 | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | HINE913NAN                | All Employees: Total Nonfarm in Hinesville, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | HINE913PCPI               | Per Capita Personal Income in Hinesville, GA (MSA)                                                           | 1969-01-01          | 2021-01-01        |
-| HINE913UR                 | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| HINE913URN                | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| HINE913UR                 | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| HINE913URN                | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | IRPD25980                 | Implicit Regional Price Deflator for Hinesville, GA (MSA)                                                    | 2008-01-01          | 2020-01-01        |
 | LAUMT132598000000003A     | Unemployment Rate in Hinesville, GA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LAUMT132598000000004      | Unemployed Persons in Hinesville, GA (MSA)                                                                   | 1990-01-01          | 2022-09-01        |
+| LAUMT132598000000004      | Unemployed Persons in Hinesville, GA (MSA)                                                                   | 1990-01-01          | 2022-10-01        |
 | LAUMT132598000000004A     | Unemployed Persons in Hinesville, GA (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT132598000000005      | Employed Persons in Hinesville, GA (MSA)                                                                     | 1990-01-01          | 2022-09-01        |
+| LAUMT132598000000005      | Employed Persons in Hinesville, GA (MSA)                                                                     | 1990-01-01          | 2022-10-01        |
 | LAUMT132598000000005A     | Employed Persons in Hinesville, GA (MSA)                                                                     | 1990-01-01          | 2021-01-01        |
 | LAUMT132598000000006A     | Civilian Labor Force in Hinesville, GA (MSA)                                                                 | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR25980          | Housing Inventory: Median Days on Market in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM25980        | Housing Inventory: Median Days on Market Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY25980        | Housing Inventory: Median Days on Market Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI25980            | Housing Inventory: Median Listing Price in Hinesville, GA (CBSA)                                             | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM25980          | Housing Inventory: Median Listing Price Month-Over-Month in Hinesville, GA (CBSA)                            | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE25980   | Housing Inventory: Median Listing Price per Square Feet in Hinesville, GA (CBSA)                             | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM25980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hinesville, GA (CBSA)            | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY25980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hinesville, GA (CBSA)              | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY25980          | Housing Inventory: Median Listing Price Year-Over-Year in Hinesville, GA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEE25980            | Housing Inventory: Median Home Size in Square Feet in Hinesville, GA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM25980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hinesville, GA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY25980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hinesville, GA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| NEWLISCOU25980            | Housing Inventory: New Listing Count in Hinesville, GA (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM25980          | Housing Inventory: New Listing Count Month-Over-Month in Hinesville, GA (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY25980          | Housing Inventory: New Listing Count Year-Over-Year in Hinesville, GA (CBSA)                                 | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR25980          | Housing Inventory: Median Days on Market in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM25980        | Housing Inventory: Median Days on Market Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY25980        | Housing Inventory: Median Days on Market Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI25980            | Housing Inventory: Median Listing Price in Hinesville, GA (CBSA)                                             | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM25980          | Housing Inventory: Median Listing Price Month-Over-Month in Hinesville, GA (CBSA)                            | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE25980   | Housing Inventory: Median Listing Price per Square Feet in Hinesville, GA (CBSA)                             | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM25980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hinesville, GA (CBSA)            | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY25980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hinesville, GA (CBSA)              | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY25980          | Housing Inventory: Median Listing Price Year-Over-Year in Hinesville, GA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEE25980            | Housing Inventory: Median Home Size in Square Feet in Hinesville, GA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM25980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hinesville, GA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY25980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hinesville, GA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| NEWLISCOU25980            | Housing Inventory: New Listing Count in Hinesville, GA (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM25980          | Housing Inventory: New Listing Count Month-Over-Month in Hinesville, GA (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY25980          | Housing Inventory: New Listing Count Year-Over-Year in Hinesville, GA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
 | NGMP25980                 | Total Gross Domestic Product for Hinesville, GA (MSA)                                                        | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA125980          | U.S. Granted Utility Patents Originating in Hinesville-Fort Stewart, GA (MSA)                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU25980            | Housing Inventory: Pending Listing Count in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM25980          | Housing Inventory: Pending Listing Count Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY25980          | Housing Inventory: Pending Listing Count Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU25980            | Housing Inventory: Price Increased Count in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM25980          | Housing Inventory: Price Increased Count Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY25980          | Housing Inventory: Price Increased Count Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU25980            | Housing Inventory: Price Reduced Count in Hinesville, GA (CBSA)                                              | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM25980          | Housing Inventory: Price Reduced Count Month-Over-Month in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY25980          | Housing Inventory: Price Reduced Count Year-Over-Year in Hinesville, GA (CBSA)                               | 2017-07-01          | 2022-10-01        |
+| PENLISCOU25980            | Housing Inventory: Pending Listing Count in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM25980          | Housing Inventory: Pending Listing Count Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY25980          | Housing Inventory: Pending Listing Count Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU25980            | Housing Inventory: Price Increased Count in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM25980          | Housing Inventory: Price Increased Count Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY25980          | Housing Inventory: Price Increased Count Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU25980            | Housing Inventory: Price Reduced Count in Hinesville, GA (CBSA)                                              | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM25980          | Housing Inventory: Price Reduced Count Month-Over-Month in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY25980          | Housing Inventory: Price Reduced Count Year-Over-Year in Hinesville, GA (CBSA)                               | 2017-07-01          | 2022-11-01        |
 | QGMP25980                 | Total Quantity Indexes for Real GDP for Hinesville, GA (MSA)                                                 | 2001-01-01          | 2020-01-01        |
 | RGMP25980                 | Total Real Gross Domestic Product for Hinesville, GA (MSA)                                                   | 2001-01-01          | 2020-01-01        |
 | RPI25980                  | Real Personal Income for Hinesville, GA (MSA)                                                                | 2008-01-01          | 2020-01-01        |

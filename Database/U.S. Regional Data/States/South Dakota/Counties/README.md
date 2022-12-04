@@ -43,7 +43,7 @@
 | Mellette County, SD      |                88 |
 | Perkins County, SD       |                89 |
 | Bennett County, SD       |                87 |
-| Campbell County, SD      |                 0 |
+| Campbell County, SD      |                88 |
 | Tripp County, SD         |                88 |
 | Dewey County, SD         |                89 |
 | Faulk County, SD         |                88 |

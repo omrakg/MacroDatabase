@@ -44,8 +44,8 @@
 | Cotton County, OK       |                88 |
 | Delaware County, OK     |                90 |
 | Creek County, OK        |               147 |
-| McIntosh County, OK     |                 0 |
-| Oklahoma County, OK     |               147 |
+| McIntosh County, OK     |                90 |
+| Oklahoma County, OK     |                 0 |
 | Osage County, OK        |               145 |
 | Pontotoc County, OK     |                90 |
 | Hughes County, OK       |                88 |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU31180            | Housing Inventory: Active Listing Count in Lubbock, TX (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM31180          | Housing Inventory: Active Listing Count Month-Over-Month in Lubbock, TX (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY31180          | Housing Inventory: Active Listing Count Year-Over-Year in Lubbock, TX (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS31180Q            | All-Transactions House Price Index for Lubbock, TX (MSA)                                                     | 1979-04-01          | 2022-04-01        |
-| AVELISPRI31180            | Housing Inventory: Average Listing Price in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM31180          | Housing Inventory: Average Listing Price Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY31180          | Housing Inventory: Average Listing Price Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA31180              | Market Hotness: Demand Score in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU31180            | Housing Inventory: Active Listing Count in Lubbock, TX (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM31180          | Housing Inventory: Active Listing Count Month-Over-Month in Lubbock, TX (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY31180          | Housing Inventory: Active Listing Count Year-Over-Year in Lubbock, TX (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS31180Q            | All-Transactions House Price Index for Lubbock, TX (MSA)                                                     | 1979-04-01          | 2022-07-01        |
+| AVELISPRI31180            | Housing Inventory: Average Listing Price in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM31180          | Housing Inventory: Average Listing Price Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY31180          | Housing Inventory: Average Listing Price Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA31180              | Market Hotness: Demand Score in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC311830010             | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC311830010SA           | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC311840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,21 +20,21 @@
 | ENUC311840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC311840510             | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC311840510SA           | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA31180              | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA31180              | Market Hotness: Hotness Score in Lubbock, TX (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA31180              | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA31180              | Market Hotness: Hotness Score in Lubbock, TX (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD31180                 | Implicit Regional Price Deflator for Lubbock, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT483118000000003A     | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT483118000000004      | Unemployed Persons in Lubbock, TX (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT483118000000004      | Unemployed Persons in Lubbock, TX (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT483118000000004A     | Unemployed Persons in Lubbock, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT483118000000005      | Employed Persons in Lubbock, TX (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT483118000000005      | Employed Persons in Lubbock, TX (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT483118000000005A     | Employed Persons in Lubbock, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT483118000000006A     | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LBKPOP                    | Resident Population in Lubbock, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| LDPEPRMMMSA31180          | Market Hotness: Listing Views per Property in Lubbock, TX (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA31180        | Market Hotness: Listing Views per Property Versus the United States in Lubbock, TX (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA31180          | Market Hotness: Listing Views per Property in Lubbock, TX (CBSA)                                             | 2018-08-01          | 2022-10-01        |
+| LDPEPRMMMSA31180          | Market Hotness: Listing Views per Property in Lubbock, TX (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA31180        | Market Hotness: Listing Views per Property Versus the United States in Lubbock, TX (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA31180          | Market Hotness: Listing Views per Property in Lubbock, TX (CBSA)                                             | 2018-08-01          | 2022-11-01        |
 | LUBB148EDUH               | All Employees: Education and Health Services in Lubbock, TX (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | LUBB148EDUHN              | All Employees: Education and Health Services in Lubbock, TX (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | LUBB148FIRE               | All Employees: Financial Activities in Lubbock, TX (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -45,8 +45,8 @@
 | LUBB148INFON              | All Employees: Information in Lubbock, TX (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | LUBB148LEIH               | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | LUBB148LEIHN              | All Employees: Leisure and Hospitality in Lubbock, TX (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| LUBB148LF                 | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| LUBB148LFN                | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| LUBB148LF                 | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| LUBB148LFN                | Civilian Labor Force in Lubbock, TX (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | LUBB148MFG                | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | LUBB148MFGN               | All Employees: Manufacturing in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | LUBB148NA                 | All Employees: Total Nonfarm in Lubbock, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -60,49 +60,49 @@
 | LUBB148SRVON              | All Employees: Other Services in Lubbock, TX (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | LUBB148TRAD               | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | LUBB148TRADN              | All Employees: Trade, Transportation, and Utilities in Lubbock, TX (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| LUBB148UR                 | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| LUBB148URN                | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| LUBB148UR                 | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| LUBB148URN                | Unemployment Rate in Lubbock, TX (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | LUBSA158MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-02-01          | 2022-09-01        |
 | LUBSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                             | 1990-02-01          | 2022-09-01        |
 | LUBSA175MFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1990-01-01          | 2022-09-01        |
 | LUBSA674AFRBDAL           | Total Nonfarm Payroll Employment for Lubbock, TX (MSA)                                                       | 1991-01-01          | 2021-01-01        |
-| MEDAONMAMMMSA31180        | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA31180          | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA31180        | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR31180          | Housing Inventory: Median Days on Market in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM31180        | Housing Inventory: Median Days on Market Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY31180        | Housing Inventory: Median Days on Market Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI31180            | Housing Inventory: Median Listing Price in Lubbock, TX (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM31180          | Housing Inventory: Median Listing Price Month-Over-Month in Lubbock, TX (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE31180   | Housing Inventory: Median Listing Price per Square Feet in Lubbock, TX (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM31180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lubbock, TX (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY31180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lubbock, TX (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY31180          | Housing Inventory: Median Listing Price Year-Over-Year in Lubbock, TX (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA31180          | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA31180          | Market Hotness: Median Days on Market Versus the United States in Lubbock, TX (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA31180          | Market Hotness: Median Days on Market Day in Lubbock, TX (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE31180            | Housing Inventory: Median Home Size in Square Feet in Lubbock, TX (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM31180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lubbock, TX (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY31180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lubbock, TX (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA31180          | Market Hotness: Median Listing Price in Lubbock, TX (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA31180            | Market Hotness: Median Listing Price in Lubbock, TX (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA31180        | Market Hotness: Median Listing Price Versus the United States in Lubbock, TX (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA31180          | Market Hotness: Median Listing Price in Lubbock, TX (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU31180            | Housing Inventory: New Listing Count in Lubbock, TX (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM31180          | Housing Inventory: New Listing Count Month-Over-Month in Lubbock, TX (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY31180          | Housing Inventory: New Listing Count Year-Over-Year in Lubbock, TX (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| MEDAONMAMMMSA31180        | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA31180          | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA31180        | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR31180          | Housing Inventory: Median Days on Market in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM31180        | Housing Inventory: Median Days on Market Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY31180        | Housing Inventory: Median Days on Market Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI31180            | Housing Inventory: Median Listing Price in Lubbock, TX (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM31180          | Housing Inventory: Median Listing Price Month-Over-Month in Lubbock, TX (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE31180   | Housing Inventory: Median Listing Price per Square Feet in Lubbock, TX (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM31180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Lubbock, TX (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY31180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Lubbock, TX (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY31180          | Housing Inventory: Median Listing Price Year-Over-Year in Lubbock, TX (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA31180          | Market Hotness: Median Days on Market in Lubbock, TX (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA31180          | Market Hotness: Median Days on Market Versus the United States in Lubbock, TX (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA31180          | Market Hotness: Median Days on Market Day in Lubbock, TX (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE31180            | Housing Inventory: Median Home Size in Square Feet in Lubbock, TX (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM31180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Lubbock, TX (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY31180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Lubbock, TX (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA31180          | Market Hotness: Median Listing Price in Lubbock, TX (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA31180            | Market Hotness: Median Listing Price in Lubbock, TX (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA31180        | Market Hotness: Median Listing Price Versus the United States in Lubbock, TX (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA31180          | Market Hotness: Median Listing Price in Lubbock, TX (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU31180            | Housing Inventory: New Listing Count in Lubbock, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM31180          | Housing Inventory: New Listing Count Month-Over-Month in Lubbock, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY31180          | Housing Inventory: New Listing Count Year-Over-Year in Lubbock, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP31180                 | Total Gross Domestic Product for Lubbock, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA31180            | Market Hotness: Nielsen Household Rank in Lubbock, TX (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA31180            | Market Hotness: Nielsen Household Rank in Lubbock, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA131180          | U.S. Granted Utility Patents Originating in Lubbock, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU31180            | Housing Inventory: Pending Listing Count in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM31180          | Housing Inventory: Pending Listing Count Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY31180          | Housing Inventory: Pending Listing Count Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU31180            | Housing Inventory: Price Increased Count in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM31180          | Housing Inventory: Price Increased Count Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY31180          | Housing Inventory: Price Increased Count Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU31180            | Housing Inventory: Price Reduced Count in Lubbock, TX (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM31180          | Housing Inventory: Price Reduced Count Month-Over-Month in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY31180          | Housing Inventory: Price Reduced Count Year-Over-Year in Lubbock, TX (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU31180            | Housing Inventory: Pending Listing Count in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM31180          | Housing Inventory: Pending Listing Count Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY31180          | Housing Inventory: Pending Listing Count Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU31180            | Housing Inventory: Price Increased Count in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM31180          | Housing Inventory: Price Increased Count Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY31180          | Housing Inventory: Price Increased Count Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU31180            | Housing Inventory: Price Reduced Count in Lubbock, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM31180          | Housing Inventory: Price Reduced Count Month-Over-Month in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY31180          | Housing Inventory: Price Reduced Count Year-Over-Year in Lubbock, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP31180                 | Total Quantity Indexes for Real GDP for Lubbock, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP31180                 | Total Real Gross Domestic Product for Lubbock, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI31180                  | Real Personal Income for Lubbock, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -159,4 +159,4 @@
 | SMU48311809093000001      | All Employees: Government: Local Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-10-01        |
 | SMU48311809093000001A     | All Employees: Local Government in Lubbock, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48311809093000001SA    | All Employees: Government: Local Government in Lubbock, TX (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| SUSCMSA31180              | Market Hotness: Supply Score in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA31180              | Market Hotness: Supply Score in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

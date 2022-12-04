@@ -1,6 +1,6 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Hampton County, SC      |                90 |
+| Hampton County, SC      |                 0 |
 | Union County, SC        |                89 |
 | Florence County, SC     |               147 |
 | Abbeville County, SC    |                90 |
@@ -27,7 +27,7 @@
 | Clarendon County, SC    |                90 |
 | Marion County, SC       |                89 |
 | Aiken County, SC        |               147 |
-| Berkeley County, SC     |                 0 |
+| Berkeley County, SC     |               147 |
 | Anderson County, SC     |               143 |
 | Sumter County, SC       |               147 |
 | Lexington County, SC    |               147 |

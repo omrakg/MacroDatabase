@@ -1,6 +1,6 @@
 | Folder                                  |   Files / Folders |
 |-----------------------------------------|-------------------|
-| Rochester, MN                           |                 0 |
+| Rochester, MN                           |               166 |
 | Mankato, MN                             |                90 |
 | St. Cloud, MN                           |               158 |
 | Minneapolis-St. Paul-Bloomington, MN-WI |                 0 |

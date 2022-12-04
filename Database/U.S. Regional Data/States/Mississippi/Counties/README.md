@@ -36,7 +36,7 @@
 | Benton County, MS          |                88 |
 | Kemper County, MS          |                87 |
 | Oktibbeha County, MS       |               146 |
-| Sharkey County, MS         |                88 |
+| Sharkey County, MS         |                 0 |
 | Grenada County, MS         |                90 |
 | Noxubee County, MS         |                87 |
 | Alcorn County, MS          |                89 |
@@ -67,7 +67,7 @@
 | Wayne County, MS           |                88 |
 | De Soto County, MS         |               147 |
 | Yazoo County, MS           |                88 |
-| Washington County, MS      |                 0 |
+| Washington County, MS      |                90 |
 | Newton County, MS          |                87 |
 | Claiborne County, MS       |                87 |
 | George County, MS          |                89 |

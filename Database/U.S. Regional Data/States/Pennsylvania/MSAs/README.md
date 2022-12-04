@@ -1,7 +1,7 @@
 | Folder                                      |   Files / Folders |
 |---------------------------------------------|-------------------|
 | Johnstown, PA                               |               152 |
-| Pittsburgh, PA                              |               288 |
+| Pittsburgh, PA                              |                 0 |
 | State College, PA                           |               140 |
 | York-Hanover, PA                            |               167 |
 | Erie, PA                                    |               167 |

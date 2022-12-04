@@ -1,12 +1,12 @@
 | id                        | title                                                                                                | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU49020            | Housing Inventory: Active Listing Count in Winchester, VA-WV (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM49020          | Housing Inventory: Active Listing Count Month-Over-Month in Winchester, VA-WV (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY49020          | Housing Inventory: Active Listing Count Year-Over-Year in Winchester, VA-WV (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS49020Q            | All-Transactions House Price Index for Winchester, VA-WV (MSA)                                       | 1989-07-01          | 2022-04-01        |
-| AVELISPRI49020            | Housing Inventory: Average Listing Price in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM49020          | Housing Inventory: Average Listing Price Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY49020          | Housing Inventory: Average Listing Price Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU49020            | Housing Inventory: Active Listing Count in Winchester, VA-WV (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM49020          | Housing Inventory: Active Listing Count Month-Over-Month in Winchester, VA-WV (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY49020          | Housing Inventory: Active Listing Count Year-Over-Year in Winchester, VA-WV (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS49020Q            | All-Transactions House Price Index for Winchester, VA-WV (MSA)                                       | 1989-07-01          | 2022-07-01        |
+| AVELISPRI49020            | Housing Inventory: Average Listing Price in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM49020          | Housing Inventory: Average Listing Price Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY49020          | Housing Inventory: Average Listing Price Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | ENUC490230010             | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC490230010SA           | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC490240010             | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -21,37 +21,37 @@
 | ENUC490240510SA           | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD49020                 | Implicit Regional Price Deflator for Winchester, VA-WV (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT514902000000003A     | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT514902000000004      | Unemployed Persons in Winchester, VA-WV (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT514902000000004      | Unemployed Persons in Winchester, VA-WV (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT514902000000004A     | Unemployed Persons in Winchester, VA-WV (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT514902000000005      | Employed Persons in Winchester, VA-WV (MSA)                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT514902000000005      | Employed Persons in Winchester, VA-WV (MSA)                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT514902000000005A     | Employed Persons in Winchester, VA-WV (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT514902000000006A     | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR49020          | Housing Inventory: Median Days on Market in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM49020        | Housing Inventory: Median Days on Market Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY49020        | Housing Inventory: Median Days on Market Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI49020            | Housing Inventory: Median Listing Price in Winchester, VA-WV (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM49020          | Housing Inventory: Median Listing Price Month-Over-Month in Winchester, VA-WV (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE49020   | Housing Inventory: Median Listing Price per Square Feet in Winchester, VA-WV (CBSA)                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM49020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Winchester, VA-WV (CBSA) | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY49020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Winchester, VA-WV (CBSA)   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY49020          | Housing Inventory: Median Listing Price Year-Over-Year in Winchester, VA-WV (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEE49020            | Housing Inventory: Median Home Size in Square Feet in Winchester, VA-WV (CBSA)                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM49020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Winchester, VA-WV (CBSA)      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY49020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Winchester, VA-WV (CBSA)        | 2017-07-01          | 2022-10-01        |
-| NEWLISCOU49020            | Housing Inventory: New Listing Count in Winchester, VA-WV (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM49020          | Housing Inventory: New Listing Count Month-Over-Month in Winchester, VA-WV (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY49020          | Housing Inventory: New Listing Count Year-Over-Year in Winchester, VA-WV (CBSA)                      | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR49020          | Housing Inventory: Median Days on Market in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM49020        | Housing Inventory: Median Days on Market Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY49020        | Housing Inventory: Median Days on Market Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI49020            | Housing Inventory: Median Listing Price in Winchester, VA-WV (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM49020          | Housing Inventory: Median Listing Price Month-Over-Month in Winchester, VA-WV (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE49020   | Housing Inventory: Median Listing Price per Square Feet in Winchester, VA-WV (CBSA)                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM49020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Winchester, VA-WV (CBSA) | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY49020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Winchester, VA-WV (CBSA)   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY49020          | Housing Inventory: Median Listing Price Year-Over-Year in Winchester, VA-WV (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEE49020            | Housing Inventory: Median Home Size in Square Feet in Winchester, VA-WV (CBSA)                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM49020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Winchester, VA-WV (CBSA)      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY49020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Winchester, VA-WV (CBSA)        | 2017-07-01          | 2022-11-01        |
+| NEWLISCOU49020            | Housing Inventory: New Listing Count in Winchester, VA-WV (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM49020          | Housing Inventory: New Listing Count Month-Over-Month in Winchester, VA-WV (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY49020          | Housing Inventory: New Listing Count Year-Over-Year in Winchester, VA-WV (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | NGMP49020                 | Total Gross Domestic Product for Winchester, VA-WV (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA149020          | U.S. Granted Utility Patents Originating in Winchester, VA-WV (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU49020            | Housing Inventory: Pending Listing Count in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM49020          | Housing Inventory: Pending Listing Count Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY49020          | Housing Inventory: Pending Listing Count Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU49020            | Housing Inventory: Price Increased Count in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM49020          | Housing Inventory: Price Increased Count Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY49020          | Housing Inventory: Price Increased Count Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU49020            | Housing Inventory: Price Reduced Count in Winchester, VA-WV (CBSA)                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM49020          | Housing Inventory: Price Reduced Count Month-Over-Month in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY49020          | Housing Inventory: Price Reduced Count Year-Over-Year in Winchester, VA-WV (CBSA)                    | 2017-07-01          | 2022-10-01        |
+| PENLISCOU49020            | Housing Inventory: Pending Listing Count in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM49020          | Housing Inventory: Pending Listing Count Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY49020          | Housing Inventory: Pending Listing Count Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU49020            | Housing Inventory: Price Increased Count in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM49020          | Housing Inventory: Price Increased Count Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY49020          | Housing Inventory: Price Increased Count Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU49020            | Housing Inventory: Price Reduced Count in Winchester, VA-WV (CBSA)                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM49020          | Housing Inventory: Price Reduced Count Month-Over-Month in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY49020          | Housing Inventory: Price Reduced Count Year-Over-Year in Winchester, VA-WV (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP49020                 | Total Quantity Indexes for Real GDP for Winchester, VA-WV (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP49020                 | Total Real Gross Domestic Product for Winchester, VA-WV (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI49020                  | Real Personal Income for Winchester, VA-WV (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -94,12 +94,12 @@
 | WCHPOP                    | Resident Population in Winchester, VA-WV (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | WINC051GOVT               | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | WINC051GOVTN              | All Employees: Government in Winchester, VA-WV (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| WINC051LF                 | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-09-01        |
-| WINC051LFN                | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| WINC051LF                 | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-10-01        |
+| WINC051LFN                | Civilian Labor Force in Winchester, VA-WV (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | WINC051NA                 | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | WINC051NAN                | All Employees: Total Nonfarm in Winchester, VA-WV (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | WINC051PCPI               | Per Capita Personal Income in Winchester, VA-WV (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | WINC051TRAD               | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2022-10-01        |
 | WINC051TRADN              | All Employees: Trade, Transportation, and Utilities in Winchester, VA-WV (MSA)                       | 1990-01-01          | 2022-10-01        |
-| WINC051UR                 | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| WINC051URN                | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| WINC051UR                 | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| WINC051URN                | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2022-10-01        |

@@ -22,7 +22,7 @@
 | Cedar County, MO          |                88 |
 | St. Louis City, MO        |               146 |
 | Dallas County, MO         |                90 |
-| St. Charles County, MO    |               147 |
+| St. Charles County, MO    |                 0 |
 | Gentry County, MO         |                88 |
 | Macon County, MO          |                90 |
 | Cass County, MO           |               147 |
@@ -38,7 +38,7 @@
 | Miller County, MO         |                90 |
 | Grundy County, MO         |                89 |
 | Vernon County, MO         |                90 |
-| Cooper County, MO         |                 0 |
+| Cooper County, MO         |                89 |
 | Dade County, MO           |                89 |
 | Jefferson County, MO      |               147 |
 | Chariton County, MO       |                88 |
@@ -82,7 +82,7 @@
 | Dent County, MO           |                89 |
 | Franklin County, MO       |               146 |
 | Montgomery County, MO     |                89 |
-| Ste. Genevieve County, MO |                89 |
+| Ste. Genevieve County, MO |                 0 |
 | Lawrence County, MO       |                90 |
 | Polk County, MO           |                90 |
 | Sullivan County, MO       |                89 |

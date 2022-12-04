@@ -14,7 +14,7 @@
 | Dixie County, FL        |                89 |
 | Alachua County, FL      |               147 |
 | Palm Beach County, FL   |               147 |
-| Lake County, FL         |               147 |
+| Lake County, FL         |                 0 |
 | Okeechobee County, FL   |                89 |
 | Clay County, FL         |               147 |
 | Gulf County, FL         |                90 |
@@ -46,7 +46,7 @@
 | Suwannee County, FL     |                90 |
 | Jackson County, FL      |                90 |
 | Indian River County, FL |               147 |
-| Okaloosa County, FL     |                 0 |
+| Okaloosa County, FL     |               147 |
 | Franklin County, FL     |                90 |
 | Sarasota County, FL     |               147 |
 | Columbia County, FL     |               146 |

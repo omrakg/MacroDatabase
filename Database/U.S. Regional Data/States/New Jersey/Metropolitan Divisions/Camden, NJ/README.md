@@ -1,6 +1,6 @@
 | id                     | title                                                                                                                                              | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS15804Q         | All-Transactions House Price Index for Camden, NJ (MSAD)                                                                                           | 1977-10-01          | 2022-04-01        |
+| ATNHPIUS15804Q         | All-Transactions House Price Index for Camden, NJ (MSAD)                                                                                           | 1977-10-01          | 2022-07-01        |
 | SMS34158040000000001   | All Employees: Total Nonfarm in Camden, NJ (MD)                                                                                                    | 1990-01-01          | 2022-10-01        |
 | SMS34158040000000026   | All Employees: Total Nonfarm in Camden, NJ (MD)                                                                                                    | 1990-04-01          | 2022-10-01        |
 | SMU34158040000000001   | All Employees: Total Nonfarm in Camden, NJ (MD)                                                                                                    | 1968-01-01          | 2022-10-01        |

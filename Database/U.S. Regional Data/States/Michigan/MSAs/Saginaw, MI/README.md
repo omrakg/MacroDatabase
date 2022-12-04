@@ -1,13 +1,13 @@
 | id                        | title                                                                                                               | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU40980            | Housing Inventory: Active Listing Count in Saginaw, MI (CBSA)                                                       | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM40980          | Housing Inventory: Active Listing Count Month-Over-Month in Saginaw, MI (CBSA)                                      | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY40980          | Housing Inventory: Active Listing Count Year-Over-Year in Saginaw, MI (CBSA)                                        | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS40980Q            | All-Transactions House Price Index for Saginaw, MI (MSA)                                                            | 1980-07-01          | 2022-04-01        |
-| AVELISPRI40980            | Housing Inventory: Average Listing Price in Saginaw, MI (CBSA)                                                      | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM40980          | Housing Inventory: Average Listing Price Month-Over-Month in Saginaw, MI (CBSA)                                     | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY40980          | Housing Inventory: Average Listing Price Year-Over-Year in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-10-01        |
-| DESCMSA40980              | Market Hotness: Demand Score in Saginaw, MI (CBSA)                                                                  | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU40980            | Housing Inventory: Active Listing Count in Saginaw, MI (CBSA)                                                       | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM40980          | Housing Inventory: Active Listing Count Month-Over-Month in Saginaw, MI (CBSA)                                      | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY40980          | Housing Inventory: Active Listing Count Year-Over-Year in Saginaw, MI (CBSA)                                        | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS40980Q            | All-Transactions House Price Index for Saginaw, MI (MSA)                                                            | 1980-07-01          | 2022-07-01        |
+| AVELISPRI40980            | Housing Inventory: Average Listing Price in Saginaw, MI (CBSA)                                                      | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM40980          | Housing Inventory: Average Listing Price Month-Over-Month in Saginaw, MI (CBSA)                                     | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY40980          | Housing Inventory: Average Listing Price Year-Over-Year in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-11-01        |
+| DESCMSA40980              | Market Hotness: Demand Score in Saginaw, MI (CBSA)                                                                  | 2017-08-01          | 2022-11-01        |
 | ENUC409830010             | Total Quarterly Wages in Saginaw, MI (MSA)                                                                          | 1990-01-01          | 2022-01-01        |
 | ENUC409830010SA           | Total Quarterly Wages in Saginaw, MI (MSA)                                                                          | 1990-01-01          | 2022-01-01        |
 | ENUC409840010             | Average Weekly Wages for Employees in Total Covered Establishments in Saginaw-Saginaw Township North, MI (MSA)      | 1990-01-01          | 2022-01-01        |
@@ -20,57 +20,57 @@
 | ENUC409840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Saginaw-Saginaw Township North, MI (MSA)   | 2001-01-01          | 2022-01-01        |
 | ENUC409840510             | Average Weekly Wages for Employees in Private Establishments in Saginaw-Saginaw Township North, MI (MSA)            | 1990-01-01          | 2022-01-01        |
 | ENUC409840510SA           | Average Weekly Wages for Employees in Private Establishments in Saginaw-Saginaw Township North, MI (MSA)            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA40980            | Market Hotness: Hotness Rank in Saginaw, MI (CBSA)                                                                  | 2017-09-01          | 2022-10-01        |
-| HORAMSA40980              | Market Hotness: Hotness Rank in Saginaw, MI (CBSA)                                                                  | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA40980            | Market Hotness: Hotness Rank in Saginaw, MI (CBSA)                                                                  | 2018-08-01          | 2022-10-01        |
-| HOSCMSA40980              | Market Hotness: Hotness Score in Saginaw, MI (CBSA)                                                                 | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA40980            | Market Hotness: Hotness Rank in Saginaw, MI (CBSA)                                                                  | 2017-09-01          | 2022-11-01        |
+| HORAMSA40980              | Market Hotness: Hotness Rank in Saginaw, MI (CBSA)                                                                  | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA40980            | Market Hotness: Hotness Rank in Saginaw, MI (CBSA)                                                                  | 2018-08-01          | 2022-11-01        |
+| HOSCMSA40980              | Market Hotness: Hotness Score in Saginaw, MI (CBSA)                                                                 | 2017-08-01          | 2022-11-01        |
 | IRPD40980                 | Implicit Regional Price Deflator for Saginaw, MI (MSA)                                                              | 2008-01-01          | 2020-01-01        |
 | LAUMT264098000000003A     | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2021-01-01        |
-| LAUMT264098000000004      | Unemployed Persons in Saginaw, MI (MSA)                                                                             | 1990-01-01          | 2022-09-01        |
+| LAUMT264098000000004      | Unemployed Persons in Saginaw, MI (MSA)                                                                             | 1990-01-01          | 2022-10-01        |
 | LAUMT264098000000004A     | Unemployed Persons in Saginaw, MI (MSA)                                                                             | 1990-01-01          | 2021-01-01        |
-| LAUMT264098000000005      | Employed Persons in Saginaw, MI (MSA)                                                                               | 1990-01-01          | 2022-09-01        |
+| LAUMT264098000000005      | Employed Persons in Saginaw, MI (MSA)                                                                               | 1990-01-01          | 2022-10-01        |
 | LAUMT264098000000005A     | Employed Persons in Saginaw, MI (MSA)                                                                               | 1990-01-01          | 2021-01-01        |
 | LAUMT264098000000006A     | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA40980          | Market Hotness: Listing Views per Property in Saginaw, MI (CBSA)                                                    | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA40980        | Market Hotness: Listing Views per Property Versus the United States in Saginaw, MI (CBSA)                           | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA40980          | Market Hotness: Listing Views per Property in Saginaw, MI (CBSA)                                                    | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA40980        | Market Hotness: Median Days on Market in Saginaw, MI (CBSA)                                                         | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA40980          | Market Hotness: Median Days on Market in Saginaw, MI (CBSA)                                                         | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA40980        | Market Hotness: Median Days on Market in Saginaw, MI (CBSA)                                                         | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR40980          | Housing Inventory: Median Days on Market in Saginaw, MI (CBSA)                                                      | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM40980        | Housing Inventory: Median Days on Market Month-Over-Month in Saginaw, MI (CBSA)                                     | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY40980        | Housing Inventory: Median Days on Market Year-Over-Year in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI40980            | Housing Inventory: Median Listing Price in Saginaw, MI (CBSA)                                                       | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM40980          | Housing Inventory: Median Listing Price Month-Over-Month in Saginaw, MI (CBSA)                                      | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE40980   | Housing Inventory: Median Listing Price per Square Feet in Saginaw, MI (CBSA)                                       | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM40980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Saginaw, MI (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY40980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Saginaw, MI (CBSA)                        | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY40980          | Housing Inventory: Median Listing Price Year-Over-Year in Saginaw, MI (CBSA)                                        | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA40980          | Market Hotness: Median Days on Market in Saginaw, MI (CBSA)                                                         | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA40980          | Market Hotness: Median Days on Market Versus the United States in Saginaw, MI (CBSA)                                | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA40980          | Market Hotness: Median Days on Market Day in Saginaw, MI (CBSA)                                                     | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE40980            | Housing Inventory: Median Home Size in Square Feet in Saginaw, MI (CBSA)                                            | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM40980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Saginaw, MI (CBSA)                           | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY40980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Saginaw, MI (CBSA)                             | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA40980          | Market Hotness: Median Listing Price in Saginaw, MI (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA40980            | Market Hotness: Median Listing Price in Saginaw, MI (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA40980        | Market Hotness: Median Listing Price Versus the United States in Saginaw, MI (CBSA)                                 | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA40980          | Market Hotness: Median Listing Price in Saginaw, MI (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU40980            | Housing Inventory: New Listing Count in Saginaw, MI (CBSA)                                                          | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM40980          | Housing Inventory: New Listing Count Month-Over-Month in Saginaw, MI (CBSA)                                         | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY40980          | Housing Inventory: New Listing Count Year-Over-Year in Saginaw, MI (CBSA)                                           | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA40980          | Market Hotness: Listing Views per Property in Saginaw, MI (CBSA)                                                    | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA40980        | Market Hotness: Listing Views per Property Versus the United States in Saginaw, MI (CBSA)                           | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA40980          | Market Hotness: Listing Views per Property in Saginaw, MI (CBSA)                                                    | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA40980        | Market Hotness: Median Days on Market in Saginaw, MI (CBSA)                                                         | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA40980          | Market Hotness: Median Days on Market in Saginaw, MI (CBSA)                                                         | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA40980        | Market Hotness: Median Days on Market in Saginaw, MI (CBSA)                                                         | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR40980          | Housing Inventory: Median Days on Market in Saginaw, MI (CBSA)                                                      | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM40980        | Housing Inventory: Median Days on Market Month-Over-Month in Saginaw, MI (CBSA)                                     | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY40980        | Housing Inventory: Median Days on Market Year-Over-Year in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI40980            | Housing Inventory: Median Listing Price in Saginaw, MI (CBSA)                                                       | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM40980          | Housing Inventory: Median Listing Price Month-Over-Month in Saginaw, MI (CBSA)                                      | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE40980   | Housing Inventory: Median Listing Price per Square Feet in Saginaw, MI (CBSA)                                       | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM40980 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Saginaw, MI (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY40980 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Saginaw, MI (CBSA)                        | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY40980          | Housing Inventory: Median Listing Price Year-Over-Year in Saginaw, MI (CBSA)                                        | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA40980          | Market Hotness: Median Days on Market in Saginaw, MI (CBSA)                                                         | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA40980          | Market Hotness: Median Days on Market Versus the United States in Saginaw, MI (CBSA)                                | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA40980          | Market Hotness: Median Days on Market Day in Saginaw, MI (CBSA)                                                     | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE40980            | Housing Inventory: Median Home Size in Square Feet in Saginaw, MI (CBSA)                                            | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM40980          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Saginaw, MI (CBSA)                           | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY40980          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Saginaw, MI (CBSA)                             | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA40980          | Market Hotness: Median Listing Price in Saginaw, MI (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA40980            | Market Hotness: Median Listing Price in Saginaw, MI (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA40980        | Market Hotness: Median Listing Price Versus the United States in Saginaw, MI (CBSA)                                 | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA40980          | Market Hotness: Median Listing Price in Saginaw, MI (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU40980            | Housing Inventory: New Listing Count in Saginaw, MI (CBSA)                                                          | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM40980          | Housing Inventory: New Listing Count Month-Over-Month in Saginaw, MI (CBSA)                                         | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY40980          | Housing Inventory: New Listing Count Year-Over-Year in Saginaw, MI (CBSA)                                           | 2017-07-01          | 2022-11-01        |
 | NGMP40980                 | Total Gross Domestic Product for Saginaw, MI (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA40980            | Market Hotness: Nielsen Household Rank in Saginaw, MI (CBSA)                                                        | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA40980            | Market Hotness: Nielsen Household Rank in Saginaw, MI (CBSA)                                                        | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA140980          | U.S. Granted Utility Patents Originating in Saginaw-Saginaw Township North, MI (MSA)                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU40980            | Housing Inventory: Pending Listing Count in Saginaw, MI (CBSA)                                                      | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM40980          | Housing Inventory: Pending Listing Count Month-Over-Month in Saginaw, MI (CBSA)                                     | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY40980          | Housing Inventory: Pending Listing Count Year-Over-Year in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU40980            | Housing Inventory: Price Increased Count in Saginaw, MI (CBSA)                                                      | 2016-07-01          | 2022-10-01        |
+| PENLISCOU40980            | Housing Inventory: Pending Listing Count in Saginaw, MI (CBSA)                                                      | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM40980          | Housing Inventory: Pending Listing Count Month-Over-Month in Saginaw, MI (CBSA)                                     | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY40980          | Housing Inventory: Pending Listing Count Year-Over-Year in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU40980            | Housing Inventory: Price Increased Count in Saginaw, MI (CBSA)                                                      | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM40980          | Housing Inventory: Price Increased Count Month-Over-Month in Saginaw, MI (CBSA)                                     | 2017-08-01          | 2022-09-01        |
-| PRIINCCOUYY40980          | Housing Inventory: Price Increased Count Year-Over-Year in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU40980            | Housing Inventory: Price Reduced Count in Saginaw, MI (CBSA)                                                        | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM40980          | Housing Inventory: Price Reduced Count Month-Over-Month in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY40980          | Housing Inventory: Price Reduced Count Year-Over-Year in Saginaw, MI (CBSA)                                         | 2017-07-01          | 2022-10-01        |
+| PRIINCCOUYY40980          | Housing Inventory: Price Increased Count Year-Over-Year in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU40980            | Housing Inventory: Price Reduced Count in Saginaw, MI (CBSA)                                                        | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM40980          | Housing Inventory: Price Reduced Count Month-Over-Month in Saginaw, MI (CBSA)                                       | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY40980          | Housing Inventory: Price Reduced Count Year-Over-Year in Saginaw, MI (CBSA)                                         | 2017-07-01          | 2022-11-01        |
 | QGMP40980                 | Total Quantity Indexes for Real GDP for Saginaw, MI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | RGMP40980                 | Total Real Gross Domestic Product for Saginaw, MI (MSA)                                                             | 2001-01-01          | 2020-01-01        |
 | RPI40980                  | Real Personal Income for Saginaw, MI (MSA)                                                                          | 2008-01-01          | 2020-01-01        |
@@ -89,8 +89,8 @@
 | SAGI926INFON              | All Employees: Information in Saginaw, MI (MSA)                                                                     | 1990-01-01          | 2022-10-01        |
 | SAGI926LEIH               | All Employees: Leisure and Hospitality in Saginaw, MI (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | SAGI926LEIHN              | All Employees: Leisure and Hospitality in Saginaw, MI (MSA)                                                         | 1990-01-01          | 2022-10-01        |
-| SAGI926LF                 | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2022-09-01        |
-| SAGI926LFN                | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2022-09-01        |
+| SAGI926LF                 | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2022-10-01        |
+| SAGI926LFN                | Civilian Labor Force in Saginaw, MI (MSA)                                                                           | 1990-01-01          | 2022-10-01        |
 | SAGI926MFG                | All Employees: Manufacturing in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2022-10-01        |
 | SAGI926MFGN               | All Employees: Manufacturing in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2022-10-01        |
 | SAGI926NA                 | All Employees: Total Nonfarm in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2022-10-01        |
@@ -104,8 +104,8 @@
 | SAGI926SRVON              | All Employees: Other Services in Saginaw, MI (MSA)                                                                  | 1990-01-01          | 2022-10-01        |
 | SAGI926TRAD               | All Employees: Trade, Transportation, and Utilities in Saginaw, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | SAGI926TRADN              | All Employees: Trade, Transportation, and Utilities in Saginaw, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SAGI926UR                 | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2022-09-01        |
-| SAGI926URN                | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2022-09-01        |
+| SAGI926UR                 | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2022-10-01        |
+| SAGI926URN                | Unemployment Rate in Saginaw, MI (MSA)                                                                              | 1990-01-01          | 2022-10-01        |
 | SAGPOP                    | Resident Population in Saginaw, MI (MSA)                                                                            | 2000-01-01          | 2021-01-01        |
 | SMS26409800000000026      | All Employees: Total Nonfarm in Saginaw, MI (MSA)                                                                   | 1990-04-01          | 2022-10-01        |
 | SMU26409800000000001A     | All Employees: Total Nonfarm in Saginaw, MI (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
@@ -161,4 +161,4 @@
 | SMU26409809093000001      | All Employees: Government: Local Government in Saginaw, MI (MSA)                                                    | 1990-01-01          | 2022-10-01        |
 | SMU26409809093000001A     | All Employees: Local Government in Saginaw, MI (MSA)                                                                | 1990-01-01          | 2021-01-01        |
 | SMU26409809093000001SA    | All Employees: Government: Local Government in Saginaw, MI (MSA)                                                    | 1990-01-01          | 2022-10-01        |
-| SUSCMSA40980              | Market Hotness: Supply Score in Saginaw, MI (CBSA)                                                                  | 2017-08-01          | 2022-10-01        |
+| SUSCMSA40980              | Market Hotness: Supply Score in Saginaw, MI (CBSA)                                                                  | 2017-08-01          | 2022-11-01        |

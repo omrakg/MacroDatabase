@@ -10,7 +10,7 @@
 | Henderson County, IL   |                88 |
 | Effingham County, IL   |                90 |
 | Brown County, IL       |                88 |
-| Montgomery County, IL  |                 0 |
+| Montgomery County, IL  |                90 |
 | Rock Island County, IL |               147 |
 | St. Clair County, IL   |               147 |
 | Christian County, IL   |                90 |
@@ -29,7 +29,7 @@
 | Randolph County, IL    |                90 |
 | Jersey County, IL      |                90 |
 | Moultrie County, IL    |                90 |
-| Macon County, IL       |               147 |
+| Macon County, IL       |                 0 |
 | Williamson County, IL  |               147 |
 | Jo Daviess County, IL  |                90 |
 | Monroe County, IL      |                89 |
@@ -70,7 +70,7 @@
 | Clark County, IL       |                90 |
 | Tazewell County, IL    |               147 |
 | Kendall County, IL     |               147 |
-| Iroquois County, IL    |                 0 |
+| Iroquois County, IL    |                89 |
 | Coles County, IL       |               144 |
 | Mason County, IL       |                90 |
 | Adams County, IL       |               147 |
@@ -89,7 +89,7 @@
 | Alexander County, IL   |                88 |
 | Pope County, IL        |                88 |
 | Stephenson County, IL  |               146 |
-| Schuyler County, IL    |                90 |
+| Schuyler County, IL    |                 0 |
 | Stark County, IL       |                90 |
 | Jasper County, IL      |                88 |
 | Carroll County, IL     |                90 |

@@ -9,12 +9,12 @@
 | Red Lake County, MN          |                88 |
 | Pennington County, MN        |                90 |
 | Swift County, MN             |                90 |
-| Isanti County, MN            |                 0 |
+| Isanti County, MN            |                90 |
 | Freeborn County, MN          |                90 |
 | Big Stone County, MN         |                88 |
 | Grant County, MN             |                89 |
-| Lake County, MN              |                 0 |
-| Mahnomen County, MN          |                 0 |
+| Lake County, MN              |                89 |
+| Mahnomen County, MN          |                88 |
 | Kandiyohi County, MN         |                90 |
 | Olmsted County, MN           |               147 |
 | Wabasha County, MN           |                90 |
@@ -27,7 +27,7 @@
 | Roseau County, MN            |                90 |
 | Sherburne County, MN         |               147 |
 | Norman County, MN            |                88 |
-| Jackson County, MN           |                 0 |
+| Jackson County, MN           |                89 |
 | Beltrami County, MN          |                90 |
 | Chisago County, MN           |               146 |
 | Crow Wing County, MN         |               146 |
@@ -47,7 +47,7 @@
 | Lac Qui Parle County, MN     |                88 |
 | Morrison County, MN          |                90 |
 | Wadena County, MN            |                89 |
-| Cook County, MN              |                90 |
+| Cook County, MN              |                 0 |
 | St. Louis County, MN         |               147 |
 | Traverse County, MN          |                88 |
 | Carver County, MN            |               147 |

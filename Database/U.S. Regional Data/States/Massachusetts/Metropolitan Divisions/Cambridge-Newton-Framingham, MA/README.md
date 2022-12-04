@@ -1,3 +1,3 @@
 | id             | title                                                                         | observation_start   | observation_end   |
 |----------------|-------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS15764Q | All-Transactions House Price Index for Cambridge-Newton-Framingham, MA (MSAD) | 1977-01-01          | 2022-04-01        |
+| ATNHPIUS15764Q | All-Transactions House Price Index for Cambridge-Newton-Framingham, MA (MSAD) | 1977-01-01          | 2022-07-01        |

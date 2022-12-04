@@ -1,13 +1,13 @@
 | id                        | title                                                                                                     | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU47380            | Housing Inventory: Active Listing Count in Waco, TX (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM47380          | Housing Inventory: Active Listing Count Month-Over-Month in Waco, TX (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY47380          | Housing Inventory: Active Listing Count Year-Over-Year in Waco, TX (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS47380Q            | All-Transactions House Price Index for Waco, TX (MSA)                                                     | 1986-04-01          | 2022-04-01        |
-| AVELISPRI47380            | Housing Inventory: Average Listing Price in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM47380          | Housing Inventory: Average Listing Price Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY47380          | Housing Inventory: Average Listing Price Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA47380              | Market Hotness: Demand Score in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU47380            | Housing Inventory: Active Listing Count in Waco, TX (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM47380          | Housing Inventory: Active Listing Count Month-Over-Month in Waco, TX (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY47380          | Housing Inventory: Active Listing Count Year-Over-Year in Waco, TX (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS47380Q            | All-Transactions House Price Index for Waco, TX (MSA)                                                     | 1986-04-01          | 2022-07-01        |
+| AVELISPRI47380            | Housing Inventory: Average Listing Price in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM47380          | Housing Inventory: Average Listing Price Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY47380          | Housing Inventory: Average Listing Price Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA47380              | Market Hotness: Demand Score in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC473830010             | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC473830010SA           | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC473840010             | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,57 +20,57 @@
 | ENUC473840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC473840510             | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC473840510SA           | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA47380            | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA47380              | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA47380            | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA47380              | Market Hotness: Hotness Score in Waco, TX (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA47380            | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA47380              | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA47380            | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA47380              | Market Hotness: Hotness Score in Waco, TX (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD47380                 | Implicit Regional Price Deflator for Waco, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484738000000003A     | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT484738000000004      | Unemployed Persons in Waco, TX (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT484738000000004      | Unemployed Persons in Waco, TX (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT484738000000004A     | Unemployed Persons in Waco, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT484738000000005      | Employed Persons in Waco, TX (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT484738000000005      | Employed Persons in Waco, TX (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT484738000000005A     | Employed Persons in Waco, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484738000000006A     | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA47380          | Market Hotness: Listing Views per Property in Waco, TX (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA47380        | Market Hotness: Listing Views per Property Versus the United States in Waco, TX (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA47380          | Market Hotness: Listing Views per Property in Waco, TX (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA47380        | Market Hotness: Median Days on Market in Waco, TX (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA47380          | Market Hotness: Median Days on Market in Waco, TX (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA47380        | Market Hotness: Median Days on Market in Waco, TX (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR47380          | Housing Inventory: Median Days on Market in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM47380        | Housing Inventory: Median Days on Market Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY47380        | Housing Inventory: Median Days on Market Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI47380            | Housing Inventory: Median Listing Price in Waco, TX (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM47380          | Housing Inventory: Median Listing Price Month-Over-Month in Waco, TX (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE47380   | Housing Inventory: Median Listing Price per Square Feet in Waco, TX (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM47380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Waco, TX (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY47380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Waco, TX (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY47380          | Housing Inventory: Median Listing Price Year-Over-Year in Waco, TX (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA47380          | Market Hotness: Median Days on Market in Waco, TX (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA47380          | Market Hotness: Median Days on Market Versus the United States in Waco, TX (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA47380          | Market Hotness: Median Days on Market Day in Waco, TX (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE47380            | Housing Inventory: Median Home Size in Square Feet in Waco, TX (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM47380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Waco, TX (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY47380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Waco, TX (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA47380          | Market Hotness: Median Listing Price in Waco, TX (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA47380            | Market Hotness: Median Listing Price in Waco, TX (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA47380        | Market Hotness: Median Listing Price Versus the United States in Waco, TX (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA47380          | Market Hotness: Median Listing Price in Waco, TX (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU47380            | Housing Inventory: New Listing Count in Waco, TX (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM47380          | Housing Inventory: New Listing Count Month-Over-Month in Waco, TX (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY47380          | Housing Inventory: New Listing Count Year-Over-Year in Waco, TX (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA47380          | Market Hotness: Listing Views per Property in Waco, TX (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA47380        | Market Hotness: Listing Views per Property Versus the United States in Waco, TX (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA47380          | Market Hotness: Listing Views per Property in Waco, TX (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA47380        | Market Hotness: Median Days on Market in Waco, TX (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA47380          | Market Hotness: Median Days on Market in Waco, TX (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA47380        | Market Hotness: Median Days on Market in Waco, TX (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR47380          | Housing Inventory: Median Days on Market in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM47380        | Housing Inventory: Median Days on Market Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY47380        | Housing Inventory: Median Days on Market Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI47380            | Housing Inventory: Median Listing Price in Waco, TX (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM47380          | Housing Inventory: Median Listing Price Month-Over-Month in Waco, TX (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE47380   | Housing Inventory: Median Listing Price per Square Feet in Waco, TX (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM47380 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Waco, TX (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY47380 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Waco, TX (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY47380          | Housing Inventory: Median Listing Price Year-Over-Year in Waco, TX (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA47380          | Market Hotness: Median Days on Market in Waco, TX (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA47380          | Market Hotness: Median Days on Market Versus the United States in Waco, TX (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA47380          | Market Hotness: Median Days on Market Day in Waco, TX (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE47380            | Housing Inventory: Median Home Size in Square Feet in Waco, TX (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM47380          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Waco, TX (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY47380          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Waco, TX (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA47380          | Market Hotness: Median Listing Price in Waco, TX (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA47380            | Market Hotness: Median Listing Price in Waco, TX (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA47380        | Market Hotness: Median Listing Price Versus the United States in Waco, TX (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA47380          | Market Hotness: Median Listing Price in Waco, TX (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU47380            | Housing Inventory: New Listing Count in Waco, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM47380          | Housing Inventory: New Listing Count Month-Over-Month in Waco, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY47380          | Housing Inventory: New Listing Count Year-Over-Year in Waco, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP47380                 | Total Gross Domestic Product for Waco, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA47380            | Market Hotness: Nielsen Household Rank in Waco, TX (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA47380            | Market Hotness: Nielsen Household Rank in Waco, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA147380          | U.S. Granted Utility Patents Originating in Waco, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU47380            | Housing Inventory: Pending Listing Count in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM47380          | Housing Inventory: Pending Listing Count Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY47380          | Housing Inventory: Pending Listing Count Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU47380            | Housing Inventory: Price Increased Count in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM47380          | Housing Inventory: Price Increased Count Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY47380          | Housing Inventory: Price Increased Count Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU47380            | Housing Inventory: Price Reduced Count in Waco, TX (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM47380          | Housing Inventory: Price Reduced Count Month-Over-Month in Waco, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY47380          | Housing Inventory: Price Reduced Count Year-Over-Year in Waco, TX (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU47380            | Housing Inventory: Pending Listing Count in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM47380          | Housing Inventory: Pending Listing Count Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY47380          | Housing Inventory: Pending Listing Count Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU47380            | Housing Inventory: Price Increased Count in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM47380          | Housing Inventory: Price Increased Count Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY47380          | Housing Inventory: Price Increased Count Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU47380            | Housing Inventory: Price Reduced Count in Waco, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM47380          | Housing Inventory: Price Reduced Count Month-Over-Month in Waco, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY47380          | Housing Inventory: Price Reduced Count Year-Over-Year in Waco, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP47380                 | Total Quantity Indexes for Real GDP for Waco, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP47380                 | Total Real Gross Domestic Product for Waco, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI47380                  | Real Personal Income for Waco, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -127,7 +127,7 @@
 | SMU48473809093000001      | All Employees: Government: Local Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-10-01        |
 | SMU48473809093000001A     | All Employees: Local Government in Waco, TX (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU48473809093000001SA    | All Employees: Government: Local Government in Waco, TX (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| SUSCMSA47380              | Market Hotness: Supply Score in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA47380              | Market Hotness: Supply Score in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | WACO348EDUH               | All Employees: Education and Health Services in Waco, TX (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | WACO348EDUHN              | All Employees: Education and Health Services in Waco, TX (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | WACO348FIRE               | All Employees: Financial Activities in Waco, TX (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -138,8 +138,8 @@
 | WACO348INFON              | All Employees: Information in Waco, TX (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | WACO348LEIH               | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | WACO348LEIHN              | All Employees: Leisure and Hospitality in Waco, TX (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| WACO348LF                 | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| WACO348LFN                | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| WACO348LF                 | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| WACO348LFN                | Civilian Labor Force in Waco, TX (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | WACO348MFG                | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | WACO348MFGN               | All Employees: Manufacturing in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | WACO348NA                 | All Employees: Total Nonfarm in Waco, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -153,8 +153,8 @@
 | WACO348SRVON              | All Employees: Other Services in Waco, TX (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | WACO348TRAD               | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | WACO348TRADN              | All Employees: Trade, Transportation, and Utilities in Waco, TX (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| WACO348UR                 | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| WACO348URN                | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| WACO348UR                 | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| WACO348URN                | Unemployment Rate in Waco, TX (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | WACPOP                    | Resident Population in Waco, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | WACSA158MFRBDAL           | Total Nonfarm Payroll Employment for Waco, TX (MSA)                                                       | 1990-02-01          | 2022-09-01        |
 | WACSA175MCFRBDAL          | Change in Total Nonfarm Payroll Employment for Waco, TX (MSA)                                             | 1990-02-01          | 2022-09-01        |

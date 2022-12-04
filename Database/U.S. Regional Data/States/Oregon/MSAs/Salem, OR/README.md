@@ -1,13 +1,13 @@
 | id                        | title                                                                                                      | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU41420            | Housing Inventory: Active Listing Count in Salem, OR (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM41420          | Housing Inventory: Active Listing Count Month-Over-Month in Salem, OR (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY41420          | Housing Inventory: Active Listing Count Year-Over-Year in Salem, OR (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS41420Q            | All-Transactions House Price Index for Salem, OR (MSA)                                                     | 1978-04-01          | 2022-04-01        |
-| AVELISPRI41420            | Housing Inventory: Average Listing Price in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM41420          | Housing Inventory: Average Listing Price Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY41420          | Housing Inventory: Average Listing Price Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA41420              | Market Hotness: Demand Score in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU41420            | Housing Inventory: Active Listing Count in Salem, OR (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM41420          | Housing Inventory: Active Listing Count Month-Over-Month in Salem, OR (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY41420          | Housing Inventory: Active Listing Count Year-Over-Year in Salem, OR (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS41420Q            | All-Transactions House Price Index for Salem, OR (MSA)                                                     | 1978-04-01          | 2022-07-01        |
+| AVELISPRI41420            | Housing Inventory: Average Listing Price in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM41420          | Housing Inventory: Average Listing Price Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY41420          | Housing Inventory: Average Listing Price Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA41420              | Market Hotness: Demand Score in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC414230010             | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC414230010SA           | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC414240010             | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,57 +20,57 @@
 | ENUC414240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC414240510             | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC414240510SA           | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA41420              | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA41420              | Market Hotness: Hotness Score in Salem, OR (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA41420              | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA41420              | Market Hotness: Hotness Score in Salem, OR (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD41420                 | Implicit Regional Price Deflator for Salem, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT414142000000003A     | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT414142000000004      | Unemployed Persons in Salem, OR (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT414142000000004      | Unemployed Persons in Salem, OR (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT414142000000004A     | Unemployed Persons in Salem, OR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT414142000000005      | Employed Persons in Salem, OR (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT414142000000005      | Employed Persons in Salem, OR (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT414142000000005A     | Employed Persons in Salem, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT414142000000006A     | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA41420          | Market Hotness: Listing Views per Property in Salem, OR (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA41420        | Market Hotness: Listing Views per Property Versus the United States in Salem, OR (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA41420          | Market Hotness: Listing Views per Property in Salem, OR (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA41420        | Market Hotness: Median Days on Market in Salem, OR (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA41420          | Market Hotness: Median Days on Market in Salem, OR (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA41420        | Market Hotness: Median Days on Market in Salem, OR (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR41420          | Housing Inventory: Median Days on Market in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM41420        | Housing Inventory: Median Days on Market Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY41420        | Housing Inventory: Median Days on Market Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI41420            | Housing Inventory: Median Listing Price in Salem, OR (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM41420          | Housing Inventory: Median Listing Price Month-Over-Month in Salem, OR (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE41420   | Housing Inventory: Median Listing Price per Square Feet in Salem, OR (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM41420 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Salem, OR (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY41420 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Salem, OR (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY41420          | Housing Inventory: Median Listing Price Year-Over-Year in Salem, OR (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA41420          | Market Hotness: Median Days on Market in Salem, OR (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA41420          | Market Hotness: Median Days on Market Versus the United States in Salem, OR (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA41420          | Market Hotness: Median Days on Market Day in Salem, OR (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE41420            | Housing Inventory: Median Home Size in Square Feet in Salem, OR (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM41420          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Salem, OR (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY41420          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Salem, OR (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA41420          | Market Hotness: Median Listing Price in Salem, OR (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA41420            | Market Hotness: Median Listing Price in Salem, OR (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA41420        | Market Hotness: Median Listing Price Versus the United States in Salem, OR (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA41420          | Market Hotness: Median Listing Price in Salem, OR (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU41420            | Housing Inventory: New Listing Count in Salem, OR (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM41420          | Housing Inventory: New Listing Count Month-Over-Month in Salem, OR (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY41420          | Housing Inventory: New Listing Count Year-Over-Year in Salem, OR (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA41420          | Market Hotness: Listing Views per Property in Salem, OR (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA41420        | Market Hotness: Listing Views per Property Versus the United States in Salem, OR (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA41420          | Market Hotness: Listing Views per Property in Salem, OR (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA41420        | Market Hotness: Median Days on Market in Salem, OR (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA41420          | Market Hotness: Median Days on Market in Salem, OR (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA41420        | Market Hotness: Median Days on Market in Salem, OR (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR41420          | Housing Inventory: Median Days on Market in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM41420        | Housing Inventory: Median Days on Market Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY41420        | Housing Inventory: Median Days on Market Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI41420            | Housing Inventory: Median Listing Price in Salem, OR (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM41420          | Housing Inventory: Median Listing Price Month-Over-Month in Salem, OR (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE41420   | Housing Inventory: Median Listing Price per Square Feet in Salem, OR (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM41420 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Salem, OR (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY41420 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Salem, OR (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY41420          | Housing Inventory: Median Listing Price Year-Over-Year in Salem, OR (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA41420          | Market Hotness: Median Days on Market in Salem, OR (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA41420          | Market Hotness: Median Days on Market Versus the United States in Salem, OR (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA41420          | Market Hotness: Median Days on Market Day in Salem, OR (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE41420            | Housing Inventory: Median Home Size in Square Feet in Salem, OR (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM41420          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Salem, OR (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY41420          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Salem, OR (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA41420          | Market Hotness: Median Listing Price in Salem, OR (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA41420            | Market Hotness: Median Listing Price in Salem, OR (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA41420        | Market Hotness: Median Listing Price Versus the United States in Salem, OR (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA41420          | Market Hotness: Median Listing Price in Salem, OR (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU41420            | Housing Inventory: New Listing Count in Salem, OR (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM41420          | Housing Inventory: New Listing Count Month-Over-Month in Salem, OR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY41420          | Housing Inventory: New Listing Count Year-Over-Year in Salem, OR (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP41420                 | Total Gross Domestic Product for Salem, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA41420            | Market Hotness: Nielsen Household Rank in Salem, OR (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA41420            | Market Hotness: Nielsen Household Rank in Salem, OR (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA141420          | U.S. Granted Utility Patents Originating in Salem, OR (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU41420            | Housing Inventory: Pending Listing Count in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM41420          | Housing Inventory: Pending Listing Count Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY41420          | Housing Inventory: Pending Listing Count Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU41420            | Housing Inventory: Price Increased Count in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM41420          | Housing Inventory: Price Increased Count Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY41420          | Housing Inventory: Price Increased Count Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU41420            | Housing Inventory: Price Reduced Count in Salem, OR (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM41420          | Housing Inventory: Price Reduced Count Month-Over-Month in Salem, OR (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY41420          | Housing Inventory: Price Reduced Count Year-Over-Year in Salem, OR (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU41420            | Housing Inventory: Pending Listing Count in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM41420          | Housing Inventory: Pending Listing Count Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY41420          | Housing Inventory: Pending Listing Count Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU41420            | Housing Inventory: Price Increased Count in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM41420          | Housing Inventory: Price Increased Count Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY41420          | Housing Inventory: Price Increased Count Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU41420            | Housing Inventory: Price Reduced Count in Salem, OR (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM41420          | Housing Inventory: Price Reduced Count Month-Over-Month in Salem, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY41420          | Housing Inventory: Price Reduced Count Year-Over-Year in Salem, OR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP41420                 | Total Quantity Indexes for Real GDP for Salem, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP41420                 | Total Real Gross Domestic Product for Salem, OR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI41420                  | Real Personal Income for Salem, OR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -89,8 +89,8 @@
 | SALE441INFON              | All Employees: Information in Salem, OR (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | SALE441LEIH               | All Employees: Leisure and Hospitality in Salem, OR (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | SALE441LEIHN              | All Employees: Leisure and Hospitality in Salem, OR (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| SALE441LF                 | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| SALE441LFN                | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| SALE441LF                 | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| SALE441LFN                | Civilian Labor Force in Salem, OR (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | SALE441MFG                | All Employees: Manufacturing in Salem, OR (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | SALE441MFGN               | All Employees: Manufacturing in Salem, OR (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | SALE441NA                 | All Employees: Total Nonfarm in Salem, OR (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -102,8 +102,8 @@
 | SALE441SRVON              | All Employees: Other Services in Salem, OR (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | SALE441TRAD               | All Employees: Trade, Transportation, and Utilities in Salem, OR (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | SALE441TRADN              | All Employees: Trade, Transportation, and Utilities in Salem, OR (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| SALE441UR                 | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| SALE441URN                | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| SALE441UR                 | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| SALE441URN                | Unemployment Rate in Salem, OR (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | SALPOP                    | Resident Population in Salem, OR (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | SMS41414200000000026      | All Employees: Total Nonfarm in Salem, OR (MSA)                                                            | 1990-04-01          | 2022-10-01        |
 | SMU41414200000000001A     | All Employees: Total Nonfarm in Salem, OR (MSA)                                                            | 1960-01-01          | 2021-01-01        |
@@ -194,4 +194,4 @@
 | SMU41414209093200001      | All Employees: Government: Local Government Excluding Educational Services in Salem, OR (MSA)              | 2001-01-01          | 2022-10-01        |
 | SMU41414209093200001A     | All Employees: Local Government Excluding Educational Services in Salem, OR (MSA)                          | 2001-01-01          | 2021-01-01        |
 | SMU41414209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Salem, OR (MSA)              | 2001-01-01          | 2022-10-01        |
-| SUSCMSA41420              | Market Hotness: Supply Score in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA41420              | Market Hotness: Supply Score in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

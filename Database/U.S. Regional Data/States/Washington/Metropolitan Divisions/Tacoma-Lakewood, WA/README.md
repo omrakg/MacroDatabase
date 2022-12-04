@@ -1,6 +1,6 @@
 | id                     | title                                                                                                                                                   | observation_start   | observation_end   |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS45104Q         | All-Transactions House Price Index for Tacoma-Lakewood, WA (MSAD)                                                                                       | 1977-04-01          | 2022-04-01        |
+| ATNHPIUS45104Q         | All-Transactions House Price Index for Tacoma-Lakewood, WA (MSAD)                                                                                       | 1977-04-01          | 2022-07-01        |
 | SMS53451040000000001   | All Employees: Total Nonfarm in Tacoma-Lakewood, WA (MD)                                                                                                | 1990-01-01          | 2022-10-01        |
 | SMS53451040000000026   | All Employees: Total Nonfarm in Tacoma-Lakewood, WA (MD)                                                                                                | 1990-04-01          | 2022-10-01        |
 | SMU53451040000000001   | All Employees: Total Nonfarm in Tacoma-Lakewood, WA (MD)                                                                                                | 1950-01-01          | 2022-10-01        |

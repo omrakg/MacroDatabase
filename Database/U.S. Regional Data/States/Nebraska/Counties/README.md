@@ -28,7 +28,7 @@
 | Douglas County, NE      |               147 |
 | Boone County, NE        |                87 |
 | Saunders County, NE     |                90 |
-| Valley County, NE       |                88 |
+| Valley County, NE       |                 0 |
 | Dixon County, NE        |                87 |
 | Madison County, NE      |                89 |
 | Loup County, NE         |                83 |
@@ -38,7 +38,7 @@
 | Dawes County, NE        |                88 |
 | Sherman County, NE      |                88 |
 | Buffalo County, NE      |               146 |
-| Fillmore County, NE     |                 0 |
+| Fillmore County, NE     |                90 |
 | Otoe County, NE         |                90 |
 | Hamilton County, NE     |                89 |
 | Burt County, NE         |                90 |
@@ -88,7 +88,7 @@
 | Holt County, NE         |                90 |
 | Sarpy County, NE        |               147 |
 | Arthur County, NE       |                82 |
-| Cherry County, NE       |                88 |
+| Cherry County, NE       |                 0 |
 | Banner County, NE       |                82 |
 | Brown County, NE        |                88 |
 | York County, NE         |                90 |

@@ -45,11 +45,11 @@
 | Miller County, AR       |                89 |
 | Van Buren County, AR    |                89 |
 | Logan County, AR        |                89 |
-| Lincoln County, AR      |                 0 |
+| Lincoln County, AR      |                87 |
 | Prairie County, AR      |                89 |
 | Garland County, AR      |               147 |
 | Fulton County, AR       |                89 |
-| Jefferson County, AR    |               147 |
+| Jefferson County, AR    |                 0 |
 | Pike County, AR         |                87 |
 | Lee County, AR          |                88 |
 | Sebastian County, AR    |               147 |

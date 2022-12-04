@@ -1,12 +1,12 @@
 | id                        | title                                                                                            | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU27780            | Housing Inventory: Active Listing Count in Johnstown, PA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM27780          | Housing Inventory: Active Listing Count Month-Over-Month in Johnstown, PA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY27780          | Housing Inventory: Active Listing Count Year-Over-Year in Johnstown, PA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS27780Q            | All-Transactions House Price Index for Johnstown, PA (MSA)                                       | 1995-04-01          | 2022-04-01        |
-| AVELISPRI27780            | Housing Inventory: Average Listing Price in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM27780          | Housing Inventory: Average Listing Price Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY27780          | Housing Inventory: Average Listing Price Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU27780            | Housing Inventory: Active Listing Count in Johnstown, PA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM27780          | Housing Inventory: Active Listing Count Month-Over-Month in Johnstown, PA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY27780          | Housing Inventory: Active Listing Count Year-Over-Year in Johnstown, PA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS27780Q            | All-Transactions House Price Index for Johnstown, PA (MSA)                                       | 1995-04-01          | 2022-07-01        |
+| AVELISPRI27780            | Housing Inventory: Average Listing Price in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM27780          | Housing Inventory: Average Listing Price Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY27780          | Housing Inventory: Average Listing Price Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA27780              | Market Hotness: Demand Score in Johnstown, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | ENUC277830010             | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC277830010SA           | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
@@ -32,8 +32,8 @@
 | JOHN742GOVTN              | All Employees: Government in Johnstown, PA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | JOHN742LEIH               | All Employees: Leisure and Hospitality in Johnstown, PA (MSA)                                    | 1990-01-01          | 2022-10-01        |
 | JOHN742LEIHN              | All Employees: Leisure and Hospitality in Johnstown, PA (MSA)                                    | 1990-01-01          | 2022-10-01        |
-| JOHN742LF                 | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
-| JOHN742LFN                | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| JOHN742LF                 | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
+| JOHN742LFN                | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | JOHN742MFG                | All Employees: Manufacturing in Johnstown, PA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | JOHN742MFGN               | All Employees: Manufacturing in Johnstown, PA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | JOHN742NA                 | All Employees: Total Nonfarm in Johnstown, PA (MSA)                                              | 1990-01-01          | 2022-10-01        |
@@ -43,12 +43,12 @@
 | JOHN742PCPI               | Per Capita Personal Income in Johnstown, PA (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | JOHN742TRAD               | All Employees: Trade, Transportation, and Utilities in Johnstown, PA (MSA)                       | 1990-01-01          | 2022-10-01        |
 | JOHN742TRADN              | All Employees: Trade, Transportation, and Utilities in Johnstown, PA (MSA)                       | 1990-01-01          | 2022-10-01        |
-| JOHN742UR                 | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| JOHN742URN                | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| JOHN742UR                 | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| JOHN742URN                | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | LAUMT422778000000003A     | Unemployment Rate in Johnstown, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT422778000000004      | Unemployed Persons in Johnstown, PA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT422778000000004      | Unemployed Persons in Johnstown, PA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT422778000000004A     | Unemployed Persons in Johnstown, PA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT422778000000005      | Employed Persons in Johnstown, PA (MSA)                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT422778000000005      | Employed Persons in Johnstown, PA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT422778000000005A     | Employed Persons in Johnstown, PA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT422778000000006A     | Civilian Labor Force in Johnstown, PA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA27780          | Market Hotness: Listing Views per Property in Johnstown, PA (CBSA)                               | 2018-08-01          | 2022-08-01        |
@@ -57,40 +57,40 @@
 | MEDAONMAMMMSA27780        | Market Hotness: Median Days on Market in Johnstown, PA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
 | MEDAONMAMSA27780          | Market Hotness: Median Days on Market in Johnstown, PA (CBSA)                                    | 2017-08-01          | 2022-08-01        |
 | MEDAONMAYYMSA27780        | Market Hotness: Median Days on Market in Johnstown, PA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR27780          | Housing Inventory: Median Days on Market in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM27780        | Housing Inventory: Median Days on Market Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY27780        | Housing Inventory: Median Days on Market Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI27780            | Housing Inventory: Median Listing Price in Johnstown, PA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM27780          | Housing Inventory: Median Listing Price Month-Over-Month in Johnstown, PA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE27780   | Housing Inventory: Median Listing Price per Square Feet in Johnstown, PA (CBSA)                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM27780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Johnstown, PA (CBSA) | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY27780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Johnstown, PA (CBSA)   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY27780          | Housing Inventory: Median Listing Price Year-Over-Year in Johnstown, PA (CBSA)                   | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR27780          | Housing Inventory: Median Days on Market in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM27780        | Housing Inventory: Median Days on Market Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY27780        | Housing Inventory: Median Days on Market Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI27780            | Housing Inventory: Median Listing Price in Johnstown, PA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM27780          | Housing Inventory: Median Listing Price Month-Over-Month in Johnstown, PA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE27780   | Housing Inventory: Median Listing Price per Square Feet in Johnstown, PA (CBSA)                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM27780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Johnstown, PA (CBSA) | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY27780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Johnstown, PA (CBSA)   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY27780          | Housing Inventory: Median Listing Price Year-Over-Year in Johnstown, PA (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | MEDOMMDAMSA27780          | Market Hotness: Median Days on Market in Johnstown, PA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
 | MEDOVSUSMSA27780          | Market Hotness: Median Days on Market Versus the United States in Johnstown, PA (CBSA)           | 2017-08-01          | 2022-08-01        |
 | MEDOYYDAMSA27780          | Market Hotness: Median Days on Market Day in Johnstown, PA (CBSA)                                | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE27780            | Housing Inventory: Median Home Size in Square Feet in Johnstown, PA (CBSA)                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM27780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Johnstown, PA (CBSA)      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY27780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Johnstown, PA (CBSA)        | 2017-07-01          | 2022-10-01        |
+| MEDSQUFEE27780            | Housing Inventory: Median Home Size in Square Feet in Johnstown, PA (CBSA)                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM27780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Johnstown, PA (CBSA)      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY27780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Johnstown, PA (CBSA)        | 2017-07-01          | 2022-11-01        |
 | MELIPRMMMSA27780          | Market Hotness: Median Listing Price in Johnstown, PA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
 | MELIPRMSA27780            | Market Hotness: Median Listing Price in Johnstown, PA (CBSA)                                     | 2017-08-01          | 2022-08-01        |
 | MELIPRVSUSMSA27780        | Market Hotness: Median Listing Price Versus the United States in Johnstown, PA (CBSA)            | 2017-08-01          | 2022-08-01        |
 | MELIPRYYMSA27780          | Market Hotness: Median Listing Price in Johnstown, PA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU27780            | Housing Inventory: New Listing Count in Johnstown, PA (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM27780          | Housing Inventory: New Listing Count Month-Over-Month in Johnstown, PA (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY27780          | Housing Inventory: New Listing Count Year-Over-Year in Johnstown, PA (CBSA)                      | 2017-07-01          | 2022-10-01        |
+| NEWLISCOU27780            | Housing Inventory: New Listing Count in Johnstown, PA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM27780          | Housing Inventory: New Listing Count Month-Over-Month in Johnstown, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY27780          | Housing Inventory: New Listing Count Year-Over-Year in Johnstown, PA (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | NGMP27780                 | Total Gross Domestic Product for Johnstown, PA (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA27780            | Market Hotness: Nielsen Household Rank in Johnstown, PA (CBSA)                                   | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA127780          | U.S. Granted Utility Patents Originating in Johnstown, PA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU27780            | Housing Inventory: Pending Listing Count in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM27780          | Housing Inventory: Pending Listing Count Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY27780          | Housing Inventory: Pending Listing Count Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU27780            | Housing Inventory: Price Increased Count in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
+| PENLISCOU27780            | Housing Inventory: Pending Listing Count in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM27780          | Housing Inventory: Pending Listing Count Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY27780          | Housing Inventory: Pending Listing Count Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU27780            | Housing Inventory: Price Increased Count in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM27780          | Housing Inventory: Price Increased Count Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2021-05-01        |
 | PRIINCCOUYY27780          | Housing Inventory: Price Increased Count Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-09-01          | 2022-04-01        |
-| PRIREDCOU27780            | Housing Inventory: Price Reduced Count in Johnstown, PA (CBSA)                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM27780          | Housing Inventory: Price Reduced Count Month-Over-Month in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY27780          | Housing Inventory: Price Reduced Count Year-Over-Year in Johnstown, PA (CBSA)                    | 2017-07-01          | 2022-10-01        |
+| PRIREDCOU27780            | Housing Inventory: Price Reduced Count in Johnstown, PA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM27780          | Housing Inventory: Price Reduced Count Month-Over-Month in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY27780          | Housing Inventory: Price Reduced Count Year-Over-Year in Johnstown, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP27780                 | Total Quantity Indexes for Real GDP for Johnstown, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP27780                 | Total Real Gross Domestic Product for Johnstown, PA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI27780                  | Real Personal Income for Johnstown, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

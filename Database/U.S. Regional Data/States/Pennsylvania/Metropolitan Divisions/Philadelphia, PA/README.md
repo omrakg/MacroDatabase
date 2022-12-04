@@ -1,6 +1,6 @@
 | id                     | title                                                                                                                                                | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS37964Q         | All-Transactions House Price Index for Philadelphia, PA (MSAD)                                                                                       | 1976-10-01          | 2022-04-01        |
+| ATNHPIUS37964Q         | All-Transactions House Price Index for Philadelphia, PA (MSAD)                                                                                       | 1976-10-01          | 2022-07-01        |
 | SMS42379640000000001   | All Employees: Total Nonfarm in Philadelphia, PA (MD)                                                                                                | 1990-01-01          | 2022-10-01        |
 | SMU42379640000000001   | All Employees: Total Nonfarm in Philadelphia, PA (MD)                                                                                                | 1990-01-01          | 2022-10-01        |
 | SMU42379640000000001A  | All Employees: Total Nonfarm in Philadelphia, PA (MD)                                                                                                | 1990-01-01          | 2021-01-01        |

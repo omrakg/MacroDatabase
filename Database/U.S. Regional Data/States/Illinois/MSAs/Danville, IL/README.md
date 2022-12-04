@@ -1,12 +1,12 @@
 | id                        | title                                                                                                         | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU19180            | Housing Inventory: Active Listing Count in Danville, IL (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM19180          | Housing Inventory: Active Listing Count Month-Over-Month in Danville, IL (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY19180          | Housing Inventory: Active Listing Count Year-Over-Year in Danville, IL (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS19180Q            | All-Transactions House Price Index for Danville, IL (MSA)                                                     | 1992-01-01          | 2022-04-01        |
-| AVELISPRI19180            | Housing Inventory: Average Listing Price in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM19180          | Housing Inventory: Average Listing Price Month-Over-Month in Danville, IL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY19180          | Housing Inventory: Average Listing Price Year-Over-Year in Danville, IL (CBSA)                                | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU19180            | Housing Inventory: Active Listing Count in Danville, IL (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM19180          | Housing Inventory: Active Listing Count Month-Over-Month in Danville, IL (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY19180          | Housing Inventory: Active Listing Count Year-Over-Year in Danville, IL (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS19180Q            | All-Transactions House Price Index for Danville, IL (MSA)                                                     | 1992-01-01          | 2022-07-01        |
+| AVELISPRI19180            | Housing Inventory: Average Listing Price in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM19180          | Housing Inventory: Average Listing Price Month-Over-Month in Danville, IL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY19180          | Housing Inventory: Average Listing Price Year-Over-Year in Danville, IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DANV117EDUH               | All Employees: Education and Health Services in Danville, IL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | DANV117EDUHN              | All Employees: Education and Health Services in Danville, IL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | DANV117FIRE               | All Employees: Financial Activities in Danville, IL (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -17,8 +17,8 @@
 | DANV117INFON              | All Employees: Information in Danville, IL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | DANV117LEIH               | All Employees: Leisure and Hospitality in Danville, IL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | DANV117LEIHN              | All Employees: Leisure and Hospitality in Danville, IL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| DANV117LF                 | Civilian Labor Force in Danville, IL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| DANV117LFN                | Civilian Labor Force in Danville, IL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| DANV117LF                 | Civilian Labor Force in Danville, IL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| DANV117LFN                | Civilian Labor Force in Danville, IL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | DANV117MFG                | All Employees: Manufacturing in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | DANV117MFGN               | All Employees: Manufacturing in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | DANV117NA                 | All Employees: Total Nonfarm in Danville, IL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -32,8 +32,8 @@
 | DANV117SRVON              | All Employees: Other Services in Danville, IL (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | DANV117TRAD               | All Employees: Trade, Transportation, and Utilities in Danville, IL (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | DANV117TRADN              | All Employees: Trade, Transportation, and Utilities in Danville, IL (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| DANV117UR                 | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| DANV117URN                | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| DANV117UR                 | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| DANV117URN                | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DNEPOP                    | Resident Population in Danville, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ENUC191830010             | Total Quarterly Wages in Danville, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC191830010SA           | Total Quarterly Wages in Danville, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
@@ -45,37 +45,37 @@
 | ENUC191840510SA           | Average Weekly Wages for Employees in Private Establishments in Danville, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD19180                 | Implicit Regional Price Deflator for Danville, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT171918000000003A     | Unemployment Rate in Danville, IL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT171918000000004      | Unemployed Persons in Danville, IL (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT171918000000004      | Unemployed Persons in Danville, IL (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT171918000000004A     | Unemployed Persons in Danville, IL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT171918000000005      | Employed Persons in Danville, IL (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT171918000000005      | Employed Persons in Danville, IL (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT171918000000005A     | Employed Persons in Danville, IL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT171918000000006A     | Civilian Labor Force in Danville, IL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR19180          | Housing Inventory: Median Days on Market in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM19180        | Housing Inventory: Median Days on Market Month-Over-Month in Danville, IL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY19180        | Housing Inventory: Median Days on Market Year-Over-Year in Danville, IL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI19180            | Housing Inventory: Median Listing Price in Danville, IL (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM19180          | Housing Inventory: Median Listing Price Month-Over-Month in Danville, IL (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE19180   | Housing Inventory: Median Listing Price per Square Feet in Danville, IL (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM19180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Danville, IL (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY19180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Danville, IL (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY19180          | Housing Inventory: Median Listing Price Year-Over-Year in Danville, IL (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEE19180            | Housing Inventory: Median Home Size in Square Feet in Danville, IL (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM19180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Danville, IL (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY19180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Danville, IL (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| NEWLISCOU19180            | Housing Inventory: New Listing Count in Danville, IL (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM19180          | Housing Inventory: New Listing Count Month-Over-Month in Danville, IL (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY19180          | Housing Inventory: New Listing Count Year-Over-Year in Danville, IL (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR19180          | Housing Inventory: Median Days on Market in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM19180        | Housing Inventory: Median Days on Market Month-Over-Month in Danville, IL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY19180        | Housing Inventory: Median Days on Market Year-Over-Year in Danville, IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI19180            | Housing Inventory: Median Listing Price in Danville, IL (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM19180          | Housing Inventory: Median Listing Price Month-Over-Month in Danville, IL (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE19180   | Housing Inventory: Median Listing Price per Square Feet in Danville, IL (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM19180 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Danville, IL (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY19180 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Danville, IL (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY19180          | Housing Inventory: Median Listing Price Year-Over-Year in Danville, IL (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEE19180            | Housing Inventory: Median Home Size in Square Feet in Danville, IL (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM19180          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Danville, IL (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY19180          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Danville, IL (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| NEWLISCOU19180            | Housing Inventory: New Listing Count in Danville, IL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM19180          | Housing Inventory: New Listing Count Month-Over-Month in Danville, IL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY19180          | Housing Inventory: New Listing Count Year-Over-Year in Danville, IL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP19180                 | Total Gross Domestic Product for Danville, IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA119180          | U.S. Granted Utility Patents Originating in Danville, IL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU19180            | Housing Inventory: Pending Listing Count in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM19180          | Housing Inventory: Pending Listing Count Month-Over-Month in Danville, IL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY19180          | Housing Inventory: Pending Listing Count Year-Over-Year in Danville, IL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU19180            | Housing Inventory: Price Increased Count in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
+| PENLISCOU19180            | Housing Inventory: Pending Listing Count in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM19180          | Housing Inventory: Pending Listing Count Month-Over-Month in Danville, IL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY19180          | Housing Inventory: Pending Listing Count Year-Over-Year in Danville, IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU19180            | Housing Inventory: Price Increased Count in Danville, IL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM19180          | Housing Inventory: Price Increased Count Month-Over-Month in Danville, IL (CBSA)                              | 2017-07-01          | 2020-10-01        |
 | PRIINCCOUYY19180          | Housing Inventory: Price Increased Count Year-Over-Year in Danville, IL (CBSA)                                | 2017-07-01          | 2021-09-01        |
-| PRIREDCOU19180            | Housing Inventory: Price Reduced Count in Danville, IL (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM19180          | Housing Inventory: Price Reduced Count Month-Over-Month in Danville, IL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY19180          | Housing Inventory: Price Reduced Count Year-Over-Year in Danville, IL (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PRIREDCOU19180            | Housing Inventory: Price Reduced Count in Danville, IL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM19180          | Housing Inventory: Price Reduced Count Month-Over-Month in Danville, IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY19180          | Housing Inventory: Price Reduced Count Year-Over-Year in Danville, IL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP19180                 | Total Quantity Indexes for Real GDP for Danville, IL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP19180                 | Total Real Gross Domestic Product for Danville, IL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI19180                  | Real Personal Income for Danville, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |

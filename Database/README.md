@@ -3,7 +3,7 @@
 | International Data                      | Geography                                                       | 218     |
 |                                         | Institutions                                                    | 4,837   |
 |                                         | Indicators                                                      | 21,942  |
-|                                         | Countries                                                       | 54,968  |
+|                                         | Countries                                                       | 54,916  |
 | Money, Banking, & Finance               | _Money, Banking, & Finance_Incl_Discontinued.json               | 0       |
 |                                         | Foreign Exchange Intervention                                   | 24      |
 |                                         | Exchange Rates                                                  | 12,537  |
@@ -14,7 +14,7 @@
 |                                         | ECBASSETSW.json                                                 | 0       |
 |                                         | JPNASSETS.json                                                  | 0       |
 |                                         | _Money, Banking, & Finance.json                                 | 0       |
-|                                         | Banking                                                         | 2,680   |
+|                                         | Banking                                                         | 2,579   |
 |                                         | Interest Rates                                                  | 1,221   |
 | National Accounts                       | TUVBCABP6USD.json                                               | 0       |
 |                                         | Federal Government Debt                                         | 44      |
@@ -30,8 +30,8 @@
 |                                         | RGDPMPUKA.json                                                  | 0       |
 |                                         | U.S. Trade & International Transactions                         | 373     |
 |                                         | RGDPFCUKQ.json                                                  | 0       |
-|                                         | National Income & Product Accounts                              | 9,829   |
-|                                         | Flow of Funds                                                   | 2,136   |
+|                                         | National Income & Product Accounts                              | 9,915   |
+|                                         | Flow of Funds                                                   | 2,142   |
 |                                         | RGDPFCUKA.json                                                  | 0       |
 |                                         | TVIMPUKQ.json                                                   | 0       |
 |                                         | RGCGASUKQ.json                                                  | 0       |
@@ -68,9 +68,9 @@
 |                                         | Job Openings and Labor Turnover (JOLTS)                         | 467     |
 |                                         | Income Distribution                                             | 160     |
 |                                         | NROU.json                                                       | 0       |
-|                                         | Productivity & Costs                                            | 2,841   |
+|                                         | Productivity & Costs                                            | 2,842   |
 | Academic Data                           | _Academic Data.json                                             | 0       |
-|                                         | Penn World Table 7.1                                            | 5,794   |
+|                                         | Penn World Table 7.1                                            | 5,412   |
 |                                         | Recession Probabilities                                         | 10      |
 |                                         | Daily Federal Funds Rate, 1928-54                               | 6       |
 |                                         | New England Textile Industry, 1815-1860                         | 28      |
@@ -87,12 +87,12 @@
 |                                         | NBER Macrohistory Database                                      | 2,268   |
 |                                         | Economic Policy Uncertainty                                     | 671     |
 |                                         | Sticky Wages and Comovement                                     | 12      |
-| U.S. Regional Data                      | Census Regions                                                  | 467     |
+| U.S. Regional Data                      | Census Regions                                                  | 410     |
 |                                         | BEA Regions                                                     | 2,448   |
 |                                         | Freddie Mac Regions                                             | 1,222   |
-|                                         | States                                                          | 409,931 |
+|                                         | States                                                          | 411,604 |
 |                                         | BLS Regions                                                     | 204     |
-|                                         | Federal Reserve Districts                                       | 827     |
+|                                         | Federal Reserve Districts                                       | 1,036   |
 | Production & Business Activity          | BFBF8QNAICS23SAUS.json                                          | 0       |
 |                                         | DNKSARTQISMEI.json                                              | 0       |
 |                                         | BELPROINDMISMEI.json                                            | 0       |
@@ -1111,7 +1111,7 @@
 |                                         | BAHBATOTALNSASC.json                                            | 0       |
 |                                         | POLSACRQISMEI.json                                              | 0       |
 |                                         | BABATOTALNSAIA.json                                             | 0       |
-|                                         | Manufacturing                                                   | 477     |
+|                                         | Manufacturing                                                   | 823     |
 |                                         | BFBF8QNAICS22NSAUS.json                                         | 0       |
 |                                         | BFBF8QNAICS21SAUS.json                                          | 0       |
 |                                         | SVKSACRMISMEI.json                                              | 0       |
@@ -1727,7 +1727,7 @@
 |                                         | M0439BUS000WAM289NNBR.json                                      | 0       |
 |                                         | M04G4AUS35620M288NNBR.json                                      | 0       |
 |                                         | EXPINF19YR.json                                                 | 0       |
-|                                         | Consumer Price Indexes (CPI and PCE)                            | 409     |
+|                                         | Consumer Price Indexes (CPI and PCE)                            | 362     |
 |                                         | Trade Indexes                                                   | 714     |
 |                                         | M0412BGBM524NNBR.json                                           | 0       |
 |                                         | M04197USM345NNBR.json                                           | 0       |
@@ -1814,7 +1814,7 @@
 |                                         | EXPINF24YR.json                                                 | 0       |
 |                                         | M0413ADE00DUSM372NNBR.json                                      | 0       |
 |                                         | M0486AUSM271NNBR.json                                           | 0       |
-|                                         | Producer Price Indexes (PPI)                                    | 9,339   |
+|                                         | Producer Price Indexes (PPI)                                    | 9,317   |
 |                                         | M0465AUSM336NNBR.json                                           | 0       |
 |                                         | M0430BUS000NYM267NNBR.json                                      | 0       |
 |                                         | M04199USM350NNBR.json                                           | 0       |

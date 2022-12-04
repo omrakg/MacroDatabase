@@ -6,7 +6,7 @@
 | Sevier County, TN     |               147 |
 | Hawkins County, TN    |               145 |
 | Rhea County, TN       |                90 |
-| Overton County, TN    |                90 |
+| Overton County, TN    |                 0 |
 | Macon County, TN      |                89 |
 | Unicoi County, TN     |                90 |
 | Cheatham County, TN   |                90 |
@@ -39,7 +39,7 @@
 | Lawrence County, TN   |                89 |
 | McMinn County, TN     |               146 |
 | Hickman County, TN    |                90 |
-| Henderson County, TN  |                 0 |
+| Henderson County, TN  |                89 |
 | Rutherford County, TN |               147 |
 | Morgan County, TN     |                89 |
 | Hamblen County, TN    |               146 |
@@ -66,7 +66,7 @@
 | Campbell County, TN   |                90 |
 | Warren County, TN     |                90 |
 | Trousdale County, TN  |                90 |
-| Cocke County, TN      |                90 |
+| Cocke County, TN      |                 0 |
 | Lake County, TN       |                87 |
 | Montgomery County, TN |               147 |
 | Grainger County, TN   |                88 |

@@ -53,7 +53,7 @@
 | Oldham County, KY       |               147 |
 | Powell County, KY       |                90 |
 | Trimble County, KY      |                88 |
-| McLean County, KY       |                 0 |
+| McLean County, KY       |                90 |
 | Montgomery County, KY   |                90 |
 | Boyd County, KY         |               146 |
 | Hancock County, KY      |                90 |
@@ -81,7 +81,7 @@
 | Madison County, KY      |               147 |
 | Morgan County, KY       |                88 |
 | McCreary County, KY     |                89 |
-| Hardin County, KY       |               147 |
+| Hardin County, KY       |                 0 |
 | Livingston County, KY   |                88 |
 | Magoffin County, KY     |                87 |
 | Clay County, KY         |                88 |
@@ -113,7 +113,7 @@
 | Webster County, KY      |                90 |
 | Edmonson County, KY     |                88 |
 | Nelson County, KY       |                90 |
-| Lawrence County, KY     |                 0 |
+| Lawrence County, KY     |                88 |
 | Estill County, KY       |                89 |
 | Gallatin County, KY     |                87 |
 | Henry County, KY        |                90 |

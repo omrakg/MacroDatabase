@@ -5,7 +5,7 @@
 | Marion County, OH     |               147 |
 | Fayette County, OH    |                90 |
 | Jefferson County, OH  |               147 |
-| Clermont County, OH   |               147 |
+| Clermont County, OH   |                 0 |
 | Shelby County, OH     |                90 |
 | Preble County, OH     |                90 |
 | Erie County, OH       |               147 |
@@ -32,7 +32,7 @@
 | Montgomery County, OH |               147 |
 | Fairfield County, OH  |               147 |
 | Coshocton County, OH  |                90 |
-| Logan County, OH      |                 0 |
+| Logan County, OH      |                90 |
 | Clinton County, OH    |                90 |
 | Pike County, OH       |                90 |
 | Putnam County, OH     |                90 |
@@ -65,7 +65,7 @@
 | Sandusky County, OH   |               145 |
 | Seneca County, OH     |               144 |
 | Noble County, OH      |                90 |
-| Medina County, OH     |               147 |
+| Medina County, OH     |                 0 |
 | Trumbull County, OH   |               147 |
 | Wood County, OH       |               147 |
 | Scioto County, OH     |               147 |

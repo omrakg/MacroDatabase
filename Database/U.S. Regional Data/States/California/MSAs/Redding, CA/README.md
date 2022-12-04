@@ -1,13 +1,13 @@
 | id                        | title                                                                                                        | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU39820            | Housing Inventory: Active Listing Count in Redding, CA (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM39820          | Housing Inventory: Active Listing Count Month-Over-Month in Redding, CA (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY39820          | Housing Inventory: Active Listing Count Year-Over-Year in Redding, CA (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS39820Q            | All-Transactions House Price Index for Redding, CA (MSA)                                                     | 1980-01-01          | 2022-04-01        |
-| AVELISPRI39820            | Housing Inventory: Average Listing Price in Redding, CA (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM39820          | Housing Inventory: Average Listing Price Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY39820          | Housing Inventory: Average Listing Price Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA39820              | Market Hotness: Demand Score in Redding, CA (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU39820            | Housing Inventory: Active Listing Count in Redding, CA (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM39820          | Housing Inventory: Active Listing Count Month-Over-Month in Redding, CA (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY39820          | Housing Inventory: Active Listing Count Year-Over-Year in Redding, CA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS39820Q            | All-Transactions House Price Index for Redding, CA (MSA)                                                     | 1980-01-01          | 2022-07-01        |
+| AVELISPRI39820            | Housing Inventory: Average Listing Price in Redding, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM39820          | Housing Inventory: Average Listing Price Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY39820          | Housing Inventory: Average Listing Price Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA39820              | Market Hotness: Demand Score in Redding, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC398230010             | Total Quarterly Wages in Redding, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC398230010SA           | Total Quarterly Wages in Redding, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC398240010             | Average Weekly Wages for Employees in Total Covered Establishments in Redding, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -20,57 +20,57 @@
 | ENUC398240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Redding, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
 | ENUC398240510             | Average Weekly Wages for Employees in Private Establishments in Redding, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC398240510SA           | Average Weekly Wages for Employees in Private Establishments in Redding, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA39820            | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA39820              | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA39820            | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA39820              | Market Hotness: Hotness Score in Redding, CA (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA39820            | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA39820              | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA39820            | Market Hotness: Hotness Rank in Redding, CA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA39820              | Market Hotness: Hotness Score in Redding, CA (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD39820                 | Implicit Regional Price Deflator for Redding, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT063982000000003A     | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT063982000000004      | Unemployed Persons in Redding, CA (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT063982000000004      | Unemployed Persons in Redding, CA (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT063982000000004A     | Unemployed Persons in Redding, CA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT063982000000005      | Employed Persons in Redding, CA (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT063982000000005      | Employed Persons in Redding, CA (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT063982000000005A     | Employed Persons in Redding, CA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT063982000000006A     | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA39820          | Market Hotness: Listing Views per Property in Redding, CA (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA39820        | Market Hotness: Listing Views per Property Versus the United States in Redding, CA (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA39820          | Market Hotness: Listing Views per Property in Redding, CA (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA39820        | Market Hotness: Median Days on Market in Redding, CA (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA39820          | Market Hotness: Median Days on Market in Redding, CA (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA39820        | Market Hotness: Median Days on Market in Redding, CA (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR39820          | Housing Inventory: Median Days on Market in Redding, CA (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM39820        | Housing Inventory: Median Days on Market Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY39820        | Housing Inventory: Median Days on Market Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI39820            | Housing Inventory: Median Listing Price in Redding, CA (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM39820          | Housing Inventory: Median Listing Price Month-Over-Month in Redding, CA (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE39820   | Housing Inventory: Median Listing Price per Square Feet in Redding, CA (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM39820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Redding, CA (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY39820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Redding, CA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY39820          | Housing Inventory: Median Listing Price Year-Over-Year in Redding, CA (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA39820          | Market Hotness: Median Days on Market in Redding, CA (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA39820          | Market Hotness: Median Days on Market Versus the United States in Redding, CA (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA39820          | Market Hotness: Median Days on Market Day in Redding, CA (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE39820            | Housing Inventory: Median Home Size in Square Feet in Redding, CA (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM39820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Redding, CA (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY39820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Redding, CA (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA39820          | Market Hotness: Median Listing Price in Redding, CA (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA39820            | Market Hotness: Median Listing Price in Redding, CA (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA39820        | Market Hotness: Median Listing Price Versus the United States in Redding, CA (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA39820          | Market Hotness: Median Listing Price in Redding, CA (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU39820            | Housing Inventory: New Listing Count in Redding, CA (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM39820          | Housing Inventory: New Listing Count Month-Over-Month in Redding, CA (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY39820          | Housing Inventory: New Listing Count Year-Over-Year in Redding, CA (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA39820          | Market Hotness: Listing Views per Property in Redding, CA (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA39820        | Market Hotness: Listing Views per Property Versus the United States in Redding, CA (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA39820          | Market Hotness: Listing Views per Property in Redding, CA (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA39820        | Market Hotness: Median Days on Market in Redding, CA (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA39820          | Market Hotness: Median Days on Market in Redding, CA (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA39820        | Market Hotness: Median Days on Market in Redding, CA (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR39820          | Housing Inventory: Median Days on Market in Redding, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM39820        | Housing Inventory: Median Days on Market Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY39820        | Housing Inventory: Median Days on Market Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI39820            | Housing Inventory: Median Listing Price in Redding, CA (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM39820          | Housing Inventory: Median Listing Price Month-Over-Month in Redding, CA (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE39820   | Housing Inventory: Median Listing Price per Square Feet in Redding, CA (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM39820 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Redding, CA (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY39820 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Redding, CA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY39820          | Housing Inventory: Median Listing Price Year-Over-Year in Redding, CA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA39820          | Market Hotness: Median Days on Market in Redding, CA (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA39820          | Market Hotness: Median Days on Market Versus the United States in Redding, CA (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA39820          | Market Hotness: Median Days on Market Day in Redding, CA (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE39820            | Housing Inventory: Median Home Size in Square Feet in Redding, CA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM39820          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Redding, CA (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY39820          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Redding, CA (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA39820          | Market Hotness: Median Listing Price in Redding, CA (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA39820            | Market Hotness: Median Listing Price in Redding, CA (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA39820        | Market Hotness: Median Listing Price Versus the United States in Redding, CA (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA39820          | Market Hotness: Median Listing Price in Redding, CA (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU39820            | Housing Inventory: New Listing Count in Redding, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM39820          | Housing Inventory: New Listing Count Month-Over-Month in Redding, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY39820          | Housing Inventory: New Listing Count Year-Over-Year in Redding, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP39820                 | Total Gross Domestic Product for Redding, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA39820            | Market Hotness: Nielsen Household Rank in Redding, CA (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA39820            | Market Hotness: Nielsen Household Rank in Redding, CA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA139820          | U.S. Granted Utility Patents Originating in Redding, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU39820            | Housing Inventory: Pending Listing Count in Redding, CA (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM39820          | Housing Inventory: Pending Listing Count Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY39820          | Housing Inventory: Pending Listing Count Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU39820            | Housing Inventory: Price Increased Count in Redding, CA (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM39820          | Housing Inventory: Price Increased Count Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY39820          | Housing Inventory: Price Increased Count Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU39820            | Housing Inventory: Price Reduced Count in Redding, CA (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM39820          | Housing Inventory: Price Reduced Count Month-Over-Month in Redding, CA (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY39820          | Housing Inventory: Price Reduced Count Year-Over-Year in Redding, CA (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU39820            | Housing Inventory: Pending Listing Count in Redding, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM39820          | Housing Inventory: Pending Listing Count Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY39820          | Housing Inventory: Pending Listing Count Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU39820            | Housing Inventory: Price Increased Count in Redding, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM39820          | Housing Inventory: Price Increased Count Month-Over-Month in Redding, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY39820          | Housing Inventory: Price Increased Count Year-Over-Year in Redding, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU39820            | Housing Inventory: Price Reduced Count in Redding, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM39820          | Housing Inventory: Price Reduced Count Month-Over-Month in Redding, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY39820          | Housing Inventory: Price Reduced Count Year-Over-Year in Redding, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP39820                 | Total Quantity Indexes for Real GDP for Redding, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RDDPOP                    | Resident Population in Redding, CA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | REDD806EDUH               | All Employees: Education and Health Services in Redding, CA (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -83,8 +83,8 @@
 | REDD806INFON              | All Employees: Information in Redding, CA (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | REDD806LEIH               | All Employees: Leisure and Hospitality in Redding, CA (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | REDD806LEIHN              | All Employees: Leisure and Hospitality in Redding, CA (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| REDD806LF                 | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| REDD806LFN                | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| REDD806LF                 | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| REDD806LFN                | Civilian Labor Force in Redding, CA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | REDD806MFG                | All Employees: Manufacturing in Redding, CA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | REDD806MFGN               | All Employees: Manufacturing in Redding, CA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | REDD806NA                 | All Employees: Total Nonfarm in Redding, CA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -98,8 +98,8 @@
 | REDD806SRVON              | All Employees: Other Services in Redding, CA (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | REDD806TRAD               | All Employees: Trade, Transportation, and Utilities in Redding, CA (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | REDD806TRADN              | All Employees: Trade, Transportation, and Utilities in Redding, CA (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| REDD806UR                 | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| REDD806URN                | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| REDD806UR                 | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| REDD806URN                | Unemployment Rate in Redding, CA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | RGMP39820                 | Total Real Gross Domestic Product for Redding, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI39820                  | Real Personal Income for Redding, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC39820                | Real Per Capita Personal Income for Redding, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
@@ -164,4 +164,4 @@
 | SMU06398209093200001      | All Employees: Government: Local Government Excluding Educational Services in Redding, CA (MSA)              | 1990-01-01          | 2022-10-01        |
 | SMU06398209093200001A     | All Employees: Local Government Excluding Educational Services in Redding, CA (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU06398209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Redding, CA (MSA)              | 1990-01-01          | 2022-10-01        |
-| SUSCMSA39820              | Market Hotness: Supply Score in Redding, CA (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA39820              | Market Hotness: Supply Score in Redding, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

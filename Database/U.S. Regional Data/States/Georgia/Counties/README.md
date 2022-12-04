@@ -19,7 +19,7 @@
 | Clayton County, GA       |               147 |
 | Butts County, GA         |                90 |
 | Marion County, GA        |                88 |
-| Rabun County, GA         |                 0 |
+| Rabun County, GA         |                90 |
 | Carroll County, GA       |               147 |
 | Crawford County, GA      |                89 |
 | Stewart County, GA       |                87 |
@@ -52,7 +52,7 @@
 | Early County, GA         |                88 |
 | Paulding County, GA      |               147 |
 | Walton County, GA        |               147 |
-| Cobb County, GA          |               147 |
+| Cobb County, GA          |                 0 |
 | Lanier County, GA        |                88 |
 | Stephens County, GA      |                90 |
 | Murray County, GA        |                90 |
@@ -79,7 +79,7 @@
 | Irwin County, GA         |                90 |
 | Chatham County, GA       |               147 |
 | Lincoln County, GA       |                89 |
-| Bacon County, GA         |                 0 |
+| Bacon County, GA         |                88 |
 | Montgomery County, GA    |                87 |
 | Wayne County, GA         |                89 |
 | Brantley County, GA      |                88 |
@@ -112,7 +112,7 @@
 | Pickens County, GA       |                90 |
 | Effingham County, GA     |               145 |
 | Jackson County, GA       |               146 |
-| Houston County, GA       |               147 |
+| Houston County, GA       |                 0 |
 | Coweta County, GA        |               146 |
 | Chattahoochee County, GA |                88 |
 | Jasper County, GA        |                90 |
@@ -139,7 +139,7 @@
 | Douglas County, GA       |               147 |
 | Thomas County, GA        |                90 |
 | Newton County, GA        |               147 |
-| Lumpkin County, GA       |                 0 |
+| Lumpkin County, GA       |                90 |
 | Jefferson County, GA     |                89 |
 | Bartow County, GA        |               147 |
 | Grady County, GA         |                90 |

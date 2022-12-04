@@ -1,12 +1,12 @@
 | id                        | title                                                                                         | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU10500            | Housing Inventory: Active Listing Count in Albany, GA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM10500          | Housing Inventory: Active Listing Count Month-Over-Month in Albany, GA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY10500          | Housing Inventory: Active Listing Count Year-Over-Year in Albany, GA (CBSA)                   | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU10500            | Housing Inventory: Active Listing Count in Albany, GA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM10500          | Housing Inventory: Active Listing Count Month-Over-Month in Albany, GA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY10500          | Housing Inventory: Active Listing Count Year-Over-Year in Albany, GA (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | ALBA513GOVT               | All Employees: Government in Albany, GA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | ALBA513GOVTN              | All Employees: Government in Albany, GA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| ALBA513LF                 | Civilian Labor Force in Albany, GA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
-| ALBA513LFN                | Civilian Labor Force in Albany, GA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| ALBA513LF                 | Civilian Labor Force in Albany, GA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
+| ALBA513LFN                | Civilian Labor Force in Albany, GA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | ALBA513MFG                | All Employees: Manufacturing in Albany, GA (MSA)                                              | 1990-01-01          | 2018-12-01        |
 | ALBA513MFGN               | All Employees: Manufacturing in Albany, GA (MSA)                                              | 1990-01-01          | 2018-12-01        |
 | ALBA513NA                 | All Employees: Total Nonfarm in Albany, GA (MSA)                                              | 1990-01-01          | 2022-10-01        |
@@ -14,13 +14,13 @@
 | ALBA513PCPI               | Per Capita Personal Income in Albany, GA (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | ALBA513TRAD               | All Employees: Trade, Transportation, and Utilities in Albany, GA (MSA)                       | 1990-01-01          | 2022-10-01        |
 | ALBA513TRADN              | All Employees: Trade, Transportation, and Utilities in Albany, GA (MSA)                       | 1990-01-01          | 2022-10-01        |
-| ALBA513UR                 | Unemployment Rate in Albany, GA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| ALBA513URN                | Unemployment Rate in Albany, GA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| ALBA513UR                 | Unemployment Rate in Albany, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| ALBA513URN                | Unemployment Rate in Albany, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | ALGPOP                    | Resident Population in Albany, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| ATNHPIUS10500Q            | All-Transactions House Price Index for Albany, GA (MSA)                                       | 1986-01-01          | 2022-04-01        |
-| AVELISPRI10500            | Housing Inventory: Average Listing Price in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM10500          | Housing Inventory: Average Listing Price Month-Over-Month in Albany, GA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY10500          | Housing Inventory: Average Listing Price Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
+| ATNHPIUS10500Q            | All-Transactions House Price Index for Albany, GA (MSA)                                       | 1986-01-01          | 2022-07-01        |
+| AVELISPRI10500            | Housing Inventory: Average Listing Price in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM10500          | Housing Inventory: Average Listing Price Month-Over-Month in Albany, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY10500          | Housing Inventory: Average Listing Price Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA10500              | Market Hotness: Demand Score in Albany, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | ENUC105030010             | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC105030010SA           | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
@@ -40,9 +40,9 @@
 | HOSCMSA10500              | Market Hotness: Hotness Score in Albany, GA (CBSA)                                            | 2017-08-01          | 2022-08-01        |
 | IRPD10500                 | Implicit Regional Price Deflator for Albany, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT131050000000003A     | Unemployment Rate in Albany, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT131050000000004      | Unemployed Persons in Albany, GA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT131050000000004      | Unemployed Persons in Albany, GA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT131050000000004A     | Unemployed Persons in Albany, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT131050000000005      | Employed Persons in Albany, GA (MSA)                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT131050000000005      | Employed Persons in Albany, GA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT131050000000005A     | Employed Persons in Albany, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT131050000000006A     | Civilian Labor Force in Albany, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
 | LDPEPRMMMSA10500          | Market Hotness: Listing Views per Property in Albany, GA (CBSA)                               | 2018-08-01          | 2022-08-01        |
@@ -51,40 +51,40 @@
 | MEDAONMAMMMSA10500        | Market Hotness: Median Days on Market in Albany, GA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
 | MEDAONMAMSA10500          | Market Hotness: Median Days on Market in Albany, GA (CBSA)                                    | 2017-08-01          | 2022-08-01        |
 | MEDAONMAYYMSA10500        | Market Hotness: Median Days on Market in Albany, GA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
-| MEDDAYONMAR10500          | Housing Inventory: Median Days on Market in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM10500        | Housing Inventory: Median Days on Market Month-Over-Month in Albany, GA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY10500        | Housing Inventory: Median Days on Market Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI10500            | Housing Inventory: Median Listing Price in Albany, GA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM10500          | Housing Inventory: Median Listing Price Month-Over-Month in Albany, GA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE10500   | Housing Inventory: Median Listing Price per Square Feet in Albany, GA (CBSA)                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM10500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Albany, GA (CBSA) | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY10500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Albany, GA (CBSA)   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY10500          | Housing Inventory: Median Listing Price Year-Over-Year in Albany, GA (CBSA)                   | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR10500          | Housing Inventory: Median Days on Market in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM10500        | Housing Inventory: Median Days on Market Month-Over-Month in Albany, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY10500        | Housing Inventory: Median Days on Market Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI10500            | Housing Inventory: Median Listing Price in Albany, GA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM10500          | Housing Inventory: Median Listing Price Month-Over-Month in Albany, GA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE10500   | Housing Inventory: Median Listing Price per Square Feet in Albany, GA (CBSA)                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM10500 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Albany, GA (CBSA) | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY10500 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Albany, GA (CBSA)   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY10500          | Housing Inventory: Median Listing Price Year-Over-Year in Albany, GA (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | MEDOMMDAMSA10500          | Market Hotness: Median Days on Market in Albany, GA (CBSA)                                    | 2018-08-01          | 2022-08-01        |
 | MEDOVSUSMSA10500          | Market Hotness: Median Days on Market Versus the United States in Albany, GA (CBSA)           | 2017-08-01          | 2022-08-01        |
 | MEDOYYDAMSA10500          | Market Hotness: Median Days on Market Day in Albany, GA (CBSA)                                | 2018-08-01          | 2022-08-01        |
-| MEDSQUFEE10500            | Housing Inventory: Median Home Size in Square Feet in Albany, GA (CBSA)                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM10500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Albany, GA (CBSA)      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY10500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Albany, GA (CBSA)        | 2017-07-01          | 2022-10-01        |
+| MEDSQUFEE10500            | Housing Inventory: Median Home Size in Square Feet in Albany, GA (CBSA)                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM10500          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Albany, GA (CBSA)      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY10500          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Albany, GA (CBSA)        | 2017-07-01          | 2022-11-01        |
 | MELIPRMMMSA10500          | Market Hotness: Median Listing Price in Albany, GA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
 | MELIPRMSA10500            | Market Hotness: Median Listing Price in Albany, GA (CBSA)                                     | 2017-08-01          | 2022-08-01        |
 | MELIPRVSUSMSA10500        | Market Hotness: Median Listing Price Versus the United States in Albany, GA (CBSA)            | 2017-08-01          | 2022-08-01        |
 | MELIPRYYMSA10500          | Market Hotness: Median Listing Price in Albany, GA (CBSA)                                     | 2018-08-01          | 2022-08-01        |
-| NEWLISCOU10500            | Housing Inventory: New Listing Count in Albany, GA (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM10500          | Housing Inventory: New Listing Count Month-Over-Month in Albany, GA (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY10500          | Housing Inventory: New Listing Count Year-Over-Year in Albany, GA (CBSA)                      | 2017-07-01          | 2022-10-01        |
+| NEWLISCOU10500            | Housing Inventory: New Listing Count in Albany, GA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM10500          | Housing Inventory: New Listing Count Month-Over-Month in Albany, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY10500          | Housing Inventory: New Listing Count Year-Over-Year in Albany, GA (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | NGMP10500                 | Total Gross Domestic Product for Albany, GA (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | NIHHRAMSA10500            | Market Hotness: Nielsen Household Rank in Albany, GA (CBSA)                                   | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA110500          | U.S. Granted Utility Patents Originating in Albany, GA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU10500            | Housing Inventory: Pending Listing Count in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM10500          | Housing Inventory: Pending Listing Count Month-Over-Month in Albany, GA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY10500          | Housing Inventory: Pending Listing Count Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU10500            | Housing Inventory: Price Increased Count in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
+| PENLISCOU10500            | Housing Inventory: Pending Listing Count in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM10500          | Housing Inventory: Pending Listing Count Month-Over-Month in Albany, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY10500          | Housing Inventory: Pending Listing Count Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU10500            | Housing Inventory: Price Increased Count in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM10500          | Housing Inventory: Price Increased Count Month-Over-Month in Albany, GA (CBSA)                | 2017-09-01          | 2022-10-01        |
 | PRIINCCOUYY10500          | Housing Inventory: Price Increased Count Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-08-01        |
-| PRIREDCOU10500            | Housing Inventory: Price Reduced Count in Albany, GA (CBSA)                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM10500          | Housing Inventory: Price Reduced Count Month-Over-Month in Albany, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY10500          | Housing Inventory: Price Reduced Count Year-Over-Year in Albany, GA (CBSA)                    | 2017-07-01          | 2022-10-01        |
+| PRIREDCOU10500            | Housing Inventory: Price Reduced Count in Albany, GA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM10500          | Housing Inventory: Price Reduced Count Month-Over-Month in Albany, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY10500          | Housing Inventory: Price Reduced Count Year-Over-Year in Albany, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP10500                 | Total Quantity Indexes for Real GDP for Albany, GA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP10500                 | Total Real Gross Domestic Product for Albany, GA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI10500                  | Real Personal Income for Albany, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

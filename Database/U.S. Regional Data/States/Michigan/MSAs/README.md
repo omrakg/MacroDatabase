@@ -9,7 +9,7 @@
 | Jackson, MI                 |               157 |
 | Monroe, MI                  |               146 |
 | Detroit-Warren-Dearborn, MI |               319 |
-| Lansing-East Lansing, MI    |                 0 |
+| Lansing-East Lansing, MI    |               183 |
 | Saginaw, MI                 |               164 |
 | Bay City, MI                |               123 |
 | Flint, MI                   |               176 |

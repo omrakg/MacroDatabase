@@ -1,6 +1,6 @@
 | id                     | title                                                                                                          | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS42034Q         | All-Transactions House Price Index for San Rafael, CA (MSAD)                                                   | 1976-07-01          | 2022-04-01        |
+| ATNHPIUS42034Q         | All-Transactions House Price Index for San Rafael, CA (MSAD)                                                   | 1976-07-01          | 2022-07-01        |
 | SMU06420340000000001   | All Employees: Total Nonfarm in San Rafael, CA (MD)                                                            | 1990-01-01          | 2022-10-01        |
 | SMU06420340000000001A  | All Employees: Total Nonfarm in San Rafael, CA (MD)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU06420340000000001SA | All Employees: Total Nonfarm in San Rafael, CA (MD)                                                            | 1990-01-01          | 2022-10-01        |

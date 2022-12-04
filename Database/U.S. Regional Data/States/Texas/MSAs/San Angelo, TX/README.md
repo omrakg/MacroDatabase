@@ -1,12 +1,12 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU41660            | Housing Inventory: Active Listing Count in San Angelo, TX (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM41660          | Housing Inventory: Active Listing Count Month-Over-Month in San Angelo, TX (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY41660          | Housing Inventory: Active Listing Count Year-Over-Year in San Angelo, TX (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS41660Q            | All-Transactions House Price Index for San Angelo, TX (MSA)                                                     | 1984-10-01          | 2022-04-01        |
-| AVELISPRI41660            | Housing Inventory: Average Listing Price in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM41660          | Housing Inventory: Average Listing Price Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY41660          | Housing Inventory: Average Listing Price Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU41660            | Housing Inventory: Active Listing Count in San Angelo, TX (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM41660          | Housing Inventory: Active Listing Count Month-Over-Month in San Angelo, TX (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY41660          | Housing Inventory: Active Listing Count Year-Over-Year in San Angelo, TX (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS41660Q            | All-Transactions House Price Index for San Angelo, TX (MSA)                                                     | 1984-10-01          | 2022-07-01        |
+| AVELISPRI41660            | Housing Inventory: Average Listing Price in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM41660          | Housing Inventory: Average Listing Price Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY41660          | Housing Inventory: Average Listing Price Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | ENUC416630010             | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC416630010SA           | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC416640010             | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -21,37 +21,37 @@
 | ENUC416640510SA           | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
 | IRPD41660                 | Implicit Regional Price Deflator for San Angelo, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484166000000003A     | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT484166000000004      | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT484166000000004      | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT484166000000004A     | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT484166000000005      | Employed Persons in San Angelo, TX (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT484166000000005      | Employed Persons in San Angelo, TX (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT484166000000005A     | Employed Persons in San Angelo, TX (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT484166000000006A     | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR41660          | Housing Inventory: Median Days on Market in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM41660        | Housing Inventory: Median Days on Market Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY41660        | Housing Inventory: Median Days on Market Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI41660            | Housing Inventory: Median Listing Price in San Angelo, TX (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM41660          | Housing Inventory: Median Listing Price Month-Over-Month in San Angelo, TX (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE41660   | Housing Inventory: Median Listing Price per Square Feet in San Angelo, TX (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM41660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in San Angelo, TX (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY41660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in San Angelo, TX (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY41660          | Housing Inventory: Median Listing Price Year-Over-Year in San Angelo, TX (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEE41660            | Housing Inventory: Median Home Size in Square Feet in San Angelo, TX (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM41660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in San Angelo, TX (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY41660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in San Angelo, TX (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| NEWLISCOU41660            | Housing Inventory: New Listing Count in San Angelo, TX (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM41660          | Housing Inventory: New Listing Count Month-Over-Month in San Angelo, TX (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY41660          | Housing Inventory: New Listing Count Year-Over-Year in San Angelo, TX (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR41660          | Housing Inventory: Median Days on Market in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM41660        | Housing Inventory: Median Days on Market Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY41660        | Housing Inventory: Median Days on Market Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI41660            | Housing Inventory: Median Listing Price in San Angelo, TX (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM41660          | Housing Inventory: Median Listing Price Month-Over-Month in San Angelo, TX (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE41660   | Housing Inventory: Median Listing Price per Square Feet in San Angelo, TX (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM41660 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in San Angelo, TX (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY41660 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in San Angelo, TX (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY41660          | Housing Inventory: Median Listing Price Year-Over-Year in San Angelo, TX (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEE41660            | Housing Inventory: Median Home Size in Square Feet in San Angelo, TX (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM41660          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in San Angelo, TX (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY41660          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in San Angelo, TX (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| NEWLISCOU41660            | Housing Inventory: New Listing Count in San Angelo, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM41660          | Housing Inventory: New Listing Count Month-Over-Month in San Angelo, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY41660          | Housing Inventory: New Listing Count Year-Over-Year in San Angelo, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP41660                 | Total Gross Domestic Product for San Angelo, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA141660          | U.S. Granted Utility Patents Originating in San Angelo, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU41660            | Housing Inventory: Pending Listing Count in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM41660          | Housing Inventory: Pending Listing Count Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY41660          | Housing Inventory: Pending Listing Count Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU41660            | Housing Inventory: Price Increased Count in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-10-01        |
+| PENLISCOU41660            | Housing Inventory: Pending Listing Count in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM41660          | Housing Inventory: Pending Listing Count Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY41660          | Housing Inventory: Pending Listing Count Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU41660            | Housing Inventory: Price Increased Count in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM41660          | Housing Inventory: Price Increased Count Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-10-01        |
 | PRIINCCOUYY41660          | Housing Inventory: Price Increased Count Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU41660            | Housing Inventory: Price Reduced Count in San Angelo, TX (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM41660          | Housing Inventory: Price Reduced Count Month-Over-Month in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY41660          | Housing Inventory: Price Reduced Count Year-Over-Year in San Angelo, TX (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PRIREDCOU41660            | Housing Inventory: Price Reduced Count in San Angelo, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM41660          | Housing Inventory: Price Reduced Count Month-Over-Month in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY41660          | Housing Inventory: Price Reduced Count Year-Over-Year in San Angelo, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP41660                 | Total Quantity Indexes for Real GDP for San Angelo, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP41660                 | Total Real Gross Domestic Product for San Angelo, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI41660                  | Real Personal Income for San Angelo, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -74,8 +74,8 @@
 | SANA648INFON              | All Employees: Information in San Angelo, TX (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | SANA648LEIH               | All Employees: Leisure and Hospitality in San Angelo, TX (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | SANA648LEIHN              | All Employees: Leisure and Hospitality in San Angelo, TX (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| SANA648LF                 | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| SANA648LFN                | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| SANA648LF                 | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| SANA648LFN                | Civilian Labor Force in San Angelo, TX (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | SANA648MFG                | All Employees: Manufacturing in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | SANA648MFGN               | All Employees: Manufacturing in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | SANA648NA                 | All Employees: Total Nonfarm in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -89,8 +89,8 @@
 | SANA648SRVON              | All Employees: Other Services in San Angelo, TX (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | SANA648TRAD               | All Employees: Trade, Transportation, and Utilities in San Angelo, TX (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | SANA648TRADN              | All Employees: Trade, Transportation, and Utilities in San Angelo, TX (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| SANA648UR                 | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| SANA648URN                | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| SANA648UR                 | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| SANA648URN                | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | SMS48416600000000026      | All Employees: Total Nonfarm in San Angelo, TX (MSA)                                                            | 1990-04-01          | 2022-10-01        |
 | SMU48416600000000001A     | All Employees: Total Nonfarm in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU48416600500000001      | All Employees: Total Private in San Angelo, TX (MSA)                                                            | 1990-01-01          | 2022-10-01        |

@@ -23,7 +23,7 @@
 | Allen Parish, LA                |                90 |
 | Vermilion Parish, LA            |               146 |
 | Catahoula Parish, LA            |                89 |
-| St. John the Baptist Parish, LA |                 0 |
+| St. John the Baptist Parish, LA |                90 |
 | St. Bernard Parish, LA          |                90 |
 | Caldwell Parish, LA             |                88 |
 | West Feliciana Parish, LA       |                89 |
@@ -56,7 +56,7 @@
 | Calcasieu Parish, LA            |               147 |
 | De Soto Parish, LA              |                90 |
 | Jackson Parish, LA              |                90 |
-| Terrebonne Parish, LA           |               147 |
+| Terrebonne Parish, LA           |                 0 |
 | Acadia Parish, LA               |               146 |
 | Franklin Parish, LA             |                89 |
 | Evangeline Parish, LA           |                90 |

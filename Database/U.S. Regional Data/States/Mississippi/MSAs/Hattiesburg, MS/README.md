@@ -1,13 +1,13 @@
 | id                        | title                                                                                              | observation_start   | observation_end   |
 |---------------------------|----------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU25620            | Housing Inventory: Active Listing Count in Hattiesburg, MS (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM25620          | Housing Inventory: Active Listing Count Month-Over-Month in Hattiesburg, MS (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY25620          | Housing Inventory: Active Listing Count Year-Over-Year in Hattiesburg, MS (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS25620Q            | All-Transactions House Price Index for Hattiesburg, MS (MSA)                                       | 1987-01-01          | 2022-04-01        |
-| AVELISPRI25620            | Housing Inventory: Average Listing Price in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM25620          | Housing Inventory: Average Listing Price Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY25620          | Housing Inventory: Average Listing Price Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| DESCMSA25620              | Market Hotness: Demand Score in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU25620            | Housing Inventory: Active Listing Count in Hattiesburg, MS (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM25620          | Housing Inventory: Active Listing Count Month-Over-Month in Hattiesburg, MS (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY25620          | Housing Inventory: Active Listing Count Year-Over-Year in Hattiesburg, MS (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS25620Q            | All-Transactions House Price Index for Hattiesburg, MS (MSA)                                       | 1987-01-01          | 2022-07-01        |
+| AVELISPRI25620            | Housing Inventory: Average Listing Price in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM25620          | Housing Inventory: Average Listing Price Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY25620          | Housing Inventory: Average Listing Price Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| DESCMSA25620              | Market Hotness: Demand Score in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | ENUC256230010             | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC256230010SA           | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC256240010             | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -25,8 +25,8 @@
 | HATT628GOVTN              | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | HATT628LEIH               | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2022-10-01        |
 | HATT628LEIHN              | All Employees: Leisure and Hospitality in Hattiesburg, MS (MSA)                                    | 1990-01-01          | 2022-10-01        |
-| HATT628LF                 | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-09-01        |
-| HATT628LFN                | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| HATT628LF                 | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-10-01        |
+| HATT628LFN                | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | HATT628MFG                | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | HATT628MFGN               | All Employees: Manufacturing in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | HATT628NA                 | All Employees: Total Nonfarm in Hattiesburg, MS (MSA)                                              | 1990-01-01          | 2022-10-01        |
@@ -34,59 +34,59 @@
 | HATT628PCPI               | Per Capita Personal Income in Hattiesburg, MS (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | HATT628TRAD               | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2022-10-01        |
 | HATT628TRADN              | All Employees: Trade, Transportation, and Utilities in Hattiesburg, MS (MSA)                       | 1990-01-01          | 2022-10-01        |
-| HATT628UR                 | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| HATT628URN                | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| HORAMMMSA25620            | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| HORAMSA25620              | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA25620            | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| HOSCMSA25620              | Market Hotness: Hotness Score in Hattiesburg, MS (CBSA)                                            | 2017-08-01          | 2022-10-01        |
+| HATT628UR                 | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| HATT628URN                | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| HORAMMMSA25620            | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| HORAMSA25620              | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA25620            | Market Hotness: Hotness Rank in Hattiesburg, MS (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| HOSCMSA25620              | Market Hotness: Hotness Score in Hattiesburg, MS (CBSA)                                            | 2017-08-01          | 2022-11-01        |
 | IRPD25620                 | Implicit Regional Price Deflator for Hattiesburg, MS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT282562000000003A     | Unemployment Rate in Hattiesburg, MS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT282562000000004      | Unemployed Persons in Hattiesburg, MS (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT282562000000004      | Unemployed Persons in Hattiesburg, MS (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT282562000000004A     | Unemployed Persons in Hattiesburg, MS (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT282562000000005      | Employed Persons in Hattiesburg, MS (MSA)                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT282562000000005      | Employed Persons in Hattiesburg, MS (MSA)                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT282562000000005A     | Employed Persons in Hattiesburg, MS (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT282562000000006A     | Civilian Labor Force in Hattiesburg, MS (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA25620          | Market Hotness: Listing Views per Property in Hattiesburg, MS (CBSA)                               | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA25620        | Market Hotness: Listing Views per Property Versus the United States in Hattiesburg, MS (CBSA)      | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA25620          | Market Hotness: Listing Views per Property in Hattiesburg, MS (CBSA)                               | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA25620        | Market Hotness: Median Days on Market in Hattiesburg, MS (CBSA)                                    | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA25620          | Market Hotness: Median Days on Market in Hattiesburg, MS (CBSA)                                    | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA25620        | Market Hotness: Median Days on Market in Hattiesburg, MS (CBSA)                                    | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR25620          | Housing Inventory: Median Days on Market in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM25620        | Housing Inventory: Median Days on Market Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY25620        | Housing Inventory: Median Days on Market Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI25620            | Housing Inventory: Median Listing Price in Hattiesburg, MS (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM25620          | Housing Inventory: Median Listing Price Month-Over-Month in Hattiesburg, MS (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE25620   | Housing Inventory: Median Listing Price per Square Feet in Hattiesburg, MS (CBSA)                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM25620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hattiesburg, MS (CBSA) | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY25620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hattiesburg, MS (CBSA)   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY25620          | Housing Inventory: Median Listing Price Year-Over-Year in Hattiesburg, MS (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA25620          | Market Hotness: Median Days on Market in Hattiesburg, MS (CBSA)                                    | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA25620          | Market Hotness: Median Days on Market Versus the United States in Hattiesburg, MS (CBSA)           | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA25620          | Market Hotness: Median Days on Market Day in Hattiesburg, MS (CBSA)                                | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE25620            | Housing Inventory: Median Home Size in Square Feet in Hattiesburg, MS (CBSA)                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM25620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hattiesburg, MS (CBSA)      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY25620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hattiesburg, MS (CBSA)        | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA25620          | Market Hotness: Median Listing Price in Hattiesburg, MS (CBSA)                                     | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA25620            | Market Hotness: Median Listing Price in Hattiesburg, MS (CBSA)                                     | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA25620        | Market Hotness: Median Listing Price Versus the United States in Hattiesburg, MS (CBSA)            | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA25620          | Market Hotness: Median Listing Price in Hattiesburg, MS (CBSA)                                     | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU25620            | Housing Inventory: New Listing Count in Hattiesburg, MS (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM25620          | Housing Inventory: New Listing Count Month-Over-Month in Hattiesburg, MS (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY25620          | Housing Inventory: New Listing Count Year-Over-Year in Hattiesburg, MS (CBSA)                      | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA25620          | Market Hotness: Listing Views per Property in Hattiesburg, MS (CBSA)                               | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA25620        | Market Hotness: Listing Views per Property Versus the United States in Hattiesburg, MS (CBSA)      | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA25620          | Market Hotness: Listing Views per Property in Hattiesburg, MS (CBSA)                               | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA25620        | Market Hotness: Median Days on Market in Hattiesburg, MS (CBSA)                                    | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA25620          | Market Hotness: Median Days on Market in Hattiesburg, MS (CBSA)                                    | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA25620        | Market Hotness: Median Days on Market in Hattiesburg, MS (CBSA)                                    | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR25620          | Housing Inventory: Median Days on Market in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM25620        | Housing Inventory: Median Days on Market Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY25620        | Housing Inventory: Median Days on Market Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI25620            | Housing Inventory: Median Listing Price in Hattiesburg, MS (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM25620          | Housing Inventory: Median Listing Price Month-Over-Month in Hattiesburg, MS (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE25620   | Housing Inventory: Median Listing Price per Square Feet in Hattiesburg, MS (CBSA)                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM25620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Hattiesburg, MS (CBSA) | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY25620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Hattiesburg, MS (CBSA)   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY25620          | Housing Inventory: Median Listing Price Year-Over-Year in Hattiesburg, MS (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA25620          | Market Hotness: Median Days on Market in Hattiesburg, MS (CBSA)                                    | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA25620          | Market Hotness: Median Days on Market Versus the United States in Hattiesburg, MS (CBSA)           | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA25620          | Market Hotness: Median Days on Market Day in Hattiesburg, MS (CBSA)                                | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE25620            | Housing Inventory: Median Home Size in Square Feet in Hattiesburg, MS (CBSA)                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM25620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Hattiesburg, MS (CBSA)      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY25620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Hattiesburg, MS (CBSA)        | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA25620          | Market Hotness: Median Listing Price in Hattiesburg, MS (CBSA)                                     | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA25620            | Market Hotness: Median Listing Price in Hattiesburg, MS (CBSA)                                     | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA25620        | Market Hotness: Median Listing Price Versus the United States in Hattiesburg, MS (CBSA)            | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA25620          | Market Hotness: Median Listing Price in Hattiesburg, MS (CBSA)                                     | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU25620            | Housing Inventory: New Listing Count in Hattiesburg, MS (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM25620          | Housing Inventory: New Listing Count Month-Over-Month in Hattiesburg, MS (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY25620          | Housing Inventory: New Listing Count Year-Over-Year in Hattiesburg, MS (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | NGMP25620                 | Total Gross Domestic Product for Hattiesburg, MS (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA25620            | Market Hotness: Nielsen Household Rank in Hattiesburg, MS (CBSA)                                   | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA25620            | Market Hotness: Nielsen Household Rank in Hattiesburg, MS (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA125620          | U.S. Granted Utility Patents Originating in Hattiesburg, MS (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU25620            | Housing Inventory: Pending Listing Count in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM25620          | Housing Inventory: Pending Listing Count Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY25620          | Housing Inventory: Pending Listing Count Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU25620            | Housing Inventory: Price Increased Count in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-10-01        |
+| PENLISCOU25620            | Housing Inventory: Pending Listing Count in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM25620          | Housing Inventory: Pending Listing Count Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY25620          | Housing Inventory: Pending Listing Count Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU25620            | Housing Inventory: Price Increased Count in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM25620          | Housing Inventory: Price Increased Count Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-08-01          | 2022-09-01        |
-| PRIINCCOUYY25620          | Housing Inventory: Price Increased Count Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-08-01          | 2022-10-01        |
-| PRIREDCOU25620            | Housing Inventory: Price Reduced Count in Hattiesburg, MS (CBSA)                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM25620          | Housing Inventory: Price Reduced Count Month-Over-Month in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY25620          | Housing Inventory: Price Reduced Count Year-Over-Year in Hattiesburg, MS (CBSA)                    | 2017-07-01          | 2022-10-01        |
+| PRIINCCOUYY25620          | Housing Inventory: Price Increased Count Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-08-01          | 2022-11-01        |
+| PRIREDCOU25620            | Housing Inventory: Price Reduced Count in Hattiesburg, MS (CBSA)                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM25620          | Housing Inventory: Price Reduced Count Month-Over-Month in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY25620          | Housing Inventory: Price Reduced Count Year-Over-Year in Hattiesburg, MS (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP25620                 | Total Quantity Indexes for Real GDP for Hattiesburg, MS (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP25620                 | Total Real Gross Domestic Product for Hattiesburg, MS (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI25620                  | Real Personal Income for Hattiesburg, MS (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -134,4 +134,4 @@
 | SMU28256209093161101      | All Employees: Government: Local Government Educational Services in Hattiesburg, MS (MSA)          | 2001-01-01          | 2022-10-01        |
 | SMU28256209093161101A     | All Employees: Local Government Educational Services in Hattiesburg, MS (MSA)                      | 2001-01-01          | 2021-01-01        |
 | SMU28256209093161101SA    | All Employees: Government: Local Government Educational Services in Hattiesburg, MS (MSA)          | 2001-01-01          | 2022-10-01        |
-| SUSCMSA25620              | Market Hotness: Supply Score in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-10-01        |
+| SUSCMSA25620              | Market Hotness: Supply Score in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-11-01        |

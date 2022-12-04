@@ -1,6 +1,6 @@
 | id                     | title                                                                                                                     | observation_start   | observation_end   |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS25940Q         | All-Transactions House Price Index for Hilton Head Island-Bluffton, SC (MSA)                                              | 1987-01-01          | 2022-04-01        |
+| ATNHPIUS25940Q         | All-Transactions House Price Index for Hilton Head Island-Bluffton, SC (MSA)                                              | 1987-01-01          | 2022-07-01        |
 | ENUC259430010          | Total Quarterly Wages in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC259430010SA        | Total Quarterly Wages in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC259440010          | Average Weekly Wages for Employees in Total Covered Establishments in Hilton Head Island-Bluffton-Beaufort, SC (MSA)      | 2013-01-01          | 2022-01-01        |
@@ -16,13 +16,13 @@
 | HHBB945PCPI            | Per Capita Personal Income in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                              | 1969-01-01          | 2021-01-01        |
 | HHIPOP                 | Resident Population in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | IRPD25940              | Implicit Regional Price Deflator for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT452594000000003   | Unemployment Rate in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                       | 1990-01-01          | 2022-09-01        |
+| LAUMT452594000000003   | Unemployment Rate in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT452594000000003A  | Unemployment Rate in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT452594000000004   | Unemployed Persons in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT452594000000004   | Unemployed Persons in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT452594000000004A  | Unemployed Persons in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT452594000000005   | Employed Persons in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT452594000000005   | Employed Persons in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT452594000000005A  | Employed Persons in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT452594000000006   | Civilian Labor Force in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                    | 1990-01-01          | 2022-09-01        |
+| LAUMT452594000000006   | Civilian Labor Force in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT452594000000006A  | Civilian Labor Force in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP25940              | Total Gross Domestic Product for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP25940              | Total Quantity Indexes for Real GDP for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                    | 2001-01-01          | 2020-01-01        |

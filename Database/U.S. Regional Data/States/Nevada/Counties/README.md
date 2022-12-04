@@ -4,7 +4,7 @@
 | Clark County, NV      |               146 |
 | Nye County, NV        |                89 |
 | Mineral County, NV    |                88 |
-| Humboldt County, NV   |                 0 |
+| Humboldt County, NV   |                90 |
 | Carson City, NV       |                 0 |
 | Douglas County, NV    |               146 |
 | Pershing County, NV   |                89 |

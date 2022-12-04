@@ -18,7 +18,7 @@
 | Bremer County, IA        |                90 |
 | Cherokee County, IA      |                90 |
 | Howard County, IA        |                90 |
-| Jackson County, IA       |                 0 |
+| Jackson County, IA       |                89 |
 | Crawford County, IA      |                90 |
 | Decatur County, IA       |                88 |
 | Wayne County, IA         |                89 |
@@ -51,7 +51,7 @@
 | Johnson County, IA       |               147 |
 | Lyon County, IA          |                90 |
 | Emmet County, IA         |                90 |
-| Van Buren County, IA     |                89 |
+| Van Buren County, IA     |                 0 |
 | Winneshiek County, IA    |                90 |
 | Jones County, IA         |                90 |
 | Ida County, IA           |                89 |
@@ -78,7 +78,7 @@
 | Pocahontas County, IA    |                89 |
 | Polk County, IA          |               147 |
 | Monona County, IA        |                90 |
-| Warren County, IA        |                 0 |
+| Warren County, IA        |               146 |
 | Scott County, IA         |               147 |
 | Keokuk County, IA        |                89 |
 | Lucas County, IA         |                89 |

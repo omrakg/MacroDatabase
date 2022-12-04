@@ -13,7 +13,7 @@
 | Mercer County, NJ     |               147 |
 | Camden County, NJ     |               147 |
 | Monmouth County, NJ   |               147 |
-| Passaic County, NJ    |                 0 |
+| Passaic County, NJ    |               143 |
 | Bergen County, NJ     |               143 |
 | Middlesex County, NJ  |               143 |
 | Warren County, NJ     |               143 |

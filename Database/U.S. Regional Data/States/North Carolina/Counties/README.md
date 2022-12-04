@@ -16,7 +16,7 @@
 | Stokes County, NC       |               145 |
 | Bertie County, NC       |                89 |
 | Macon County, NC        |                90 |
-| McDowell County, NC     |                90 |
+| McDowell County, NC     |                 0 |
 | Granville County, NC    |               145 |
 | Dare County, NC         |                89 |
 | Alleghany County, NC    |                89 |
@@ -63,7 +63,7 @@
 | Chowan County, NC       |                90 |
 | Wilson County, NC       |               147 |
 | Edgecombe County, NC    |               146 |
-| Bladen County, NC       |                 0 |
+| Bladen County, NC       |                90 |
 | Avery County, NC        |                90 |
 | Sampson County, NC      |                90 |
 | Anson County, NC        |                88 |
@@ -76,7 +76,7 @@
 | Yancey County, NC       |                90 |
 | Stanly County, NC       |               146 |
 | Columbus County, NC     |                90 |
-| Union County, NC        |               147 |
+| Union County, NC        |                 0 |
 | Haywood County, NC      |               146 |
 | Mecklenburg County, NC  |               146 |
 | Burke County, NC        |               147 |

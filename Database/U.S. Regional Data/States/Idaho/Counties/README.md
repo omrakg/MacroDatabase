@@ -43,4 +43,4 @@
 | Bear Lake County, ID  |                89 |
 | Butte County, ID      |                88 |
 | Payette County, ID    |                89 |
-| Gooding County, ID    |                 0 |
+| Gooding County, ID    |                90 |

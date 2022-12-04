@@ -22,8 +22,8 @@
 | El Paso County, CO           |               147 |
 | Denver County, CO            |               146 |
 | Kiowa County, CO             |                88 |
-| Larimer County, CO           |                 0 |
-| Mesa County, CO              |               146 |
+| Larimer County, CO           |               147 |
+| Mesa County, CO              |                 0 |
 | Otero County, CO             |                90 |
 | Lincoln County, CO           |                87 |
 | Adams County, CO             |               147 |

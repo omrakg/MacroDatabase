@@ -1,25 +1,25 @@
 | id                        | title                                                                                             | observation_start   | observation_end   |
 |---------------------------|---------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU10780            | Housing Inventory: Active Listing Count in Alexandria, LA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM10780          | Housing Inventory: Active Listing Count Month-Over-Month in Alexandria, LA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY10780          | Housing Inventory: Active Listing Count Year-Over-Year in Alexandria, LA (CBSA)                   | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU10780            | Housing Inventory: Active Listing Count in Alexandria, LA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM10780          | Housing Inventory: Active Listing Count Month-Over-Month in Alexandria, LA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY10780          | Housing Inventory: Active Listing Count Year-Over-Year in Alexandria, LA (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | ALEX722GOVT               | All Employees: Government in Alexandria, LA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | ALEX722GOVTN              | All Employees: Government in Alexandria, LA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| ALEX722LF                 | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
-| ALEX722LFN                | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| ALEX722LF                 | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
+| ALEX722LFN                | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | ALEX722NA                 | All Employees: Total Nonfarm in Alexandria, LA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | ALEX722NAN                | All Employees: Total Nonfarm in Alexandria, LA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | ALEX722PCPI               | Per Capita Personal Income in Alexandria, LA (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | ALEX722TRAD               | All Employees: Trade, Transportation, and Utilities in Alexandria, LA (MSA)                       | 1990-01-01          | 2022-10-01        |
 | ALEX722TRADN              | All Employees: Trade, Transportation, and Utilities in Alexandria, LA (MSA)                       | 1990-01-01          | 2022-10-01        |
-| ALEX722UR                 | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| ALEX722URN                | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| ALEX722UR                 | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| ALEX722URN                | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | ALXPOP                    | Resident Population in Alexandria, LA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| ATNHPIUS10780Q            | All-Transactions House Price Index for Alexandria, LA (MSA)                                       | 1986-04-01          | 2022-04-01        |
-| AVELISPRI10780            | Housing Inventory: Average Listing Price in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM10780          | Housing Inventory: Average Listing Price Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY10780          | Housing Inventory: Average Listing Price Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| DESCMSA10780              | Market Hotness: Demand Score in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-10-01        |
+| ATNHPIUS10780Q            | All-Transactions House Price Index for Alexandria, LA (MSA)                                       | 1986-04-01          | 2022-07-01        |
+| AVELISPRI10780            | Housing Inventory: Average Listing Price in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM10780          | Housing Inventory: Average Listing Price Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY10780          | Housing Inventory: Average Listing Price Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| DESCMSA10780              | Market Hotness: Demand Score in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | ENUC107830010             | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC107830010SA           | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC107840010             | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2022-01-01        |
@@ -32,57 +32,57 @@
 | ENUC107840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-01-01        |
 | ENUC107840510             | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2022-01-01        |
 | ENUC107840510SA           | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA10780            | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| HORAMSA10780              | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA10780            | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| HOSCMSA10780              | Market Hotness: Hotness Score in Alexandria, LA (CBSA)                                            | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA10780            | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| HORAMSA10780              | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA10780            | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| HOSCMSA10780              | Market Hotness: Hotness Score in Alexandria, LA (CBSA)                                            | 2017-08-01          | 2022-11-01        |
 | IRPD10780                 | Implicit Regional Price Deflator for Alexandria, LA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT221078000000003A     | Unemployment Rate in Alexandria, LA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT221078000000004      | Unemployed Persons in Alexandria, LA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT221078000000004      | Unemployed Persons in Alexandria, LA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT221078000000004A     | Unemployed Persons in Alexandria, LA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT221078000000005      | Employed Persons in Alexandria, LA (MSA)                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT221078000000005      | Employed Persons in Alexandria, LA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT221078000000005A     | Employed Persons in Alexandria, LA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT221078000000006A     | Civilian Labor Force in Alexandria, LA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA10780          | Market Hotness: Listing Views per Property in Alexandria, LA (CBSA)                               | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA10780        | Market Hotness: Listing Views per Property Versus the United States in Alexandria, LA (CBSA)      | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA10780          | Market Hotness: Listing Views per Property in Alexandria, LA (CBSA)                               | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA10780        | Market Hotness: Median Days on Market in Alexandria, LA (CBSA)                                    | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA10780          | Market Hotness: Median Days on Market in Alexandria, LA (CBSA)                                    | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA10780        | Market Hotness: Median Days on Market in Alexandria, LA (CBSA)                                    | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR10780          | Housing Inventory: Median Days on Market in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM10780        | Housing Inventory: Median Days on Market Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY10780        | Housing Inventory: Median Days on Market Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI10780            | Housing Inventory: Median Listing Price in Alexandria, LA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM10780          | Housing Inventory: Median Listing Price Month-Over-Month in Alexandria, LA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE10780   | Housing Inventory: Median Listing Price per Square Feet in Alexandria, LA (CBSA)                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM10780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Alexandria, LA (CBSA) | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY10780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Alexandria, LA (CBSA)   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY10780          | Housing Inventory: Median Listing Price Year-Over-Year in Alexandria, LA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA10780          | Market Hotness: Median Days on Market in Alexandria, LA (CBSA)                                    | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA10780          | Market Hotness: Median Days on Market Versus the United States in Alexandria, LA (CBSA)           | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA10780          | Market Hotness: Median Days on Market Day in Alexandria, LA (CBSA)                                | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE10780            | Housing Inventory: Median Home Size in Square Feet in Alexandria, LA (CBSA)                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM10780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Alexandria, LA (CBSA)      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY10780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Alexandria, LA (CBSA)        | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA10780          | Market Hotness: Median Listing Price in Alexandria, LA (CBSA)                                     | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA10780            | Market Hotness: Median Listing Price in Alexandria, LA (CBSA)                                     | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA10780        | Market Hotness: Median Listing Price Versus the United States in Alexandria, LA (CBSA)            | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA10780          | Market Hotness: Median Listing Price in Alexandria, LA (CBSA)                                     | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU10780            | Housing Inventory: New Listing Count in Alexandria, LA (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM10780          | Housing Inventory: New Listing Count Month-Over-Month in Alexandria, LA (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY10780          | Housing Inventory: New Listing Count Year-Over-Year in Alexandria, LA (CBSA)                      | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA10780          | Market Hotness: Listing Views per Property in Alexandria, LA (CBSA)                               | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA10780        | Market Hotness: Listing Views per Property Versus the United States in Alexandria, LA (CBSA)      | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA10780          | Market Hotness: Listing Views per Property in Alexandria, LA (CBSA)                               | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA10780        | Market Hotness: Median Days on Market in Alexandria, LA (CBSA)                                    | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA10780          | Market Hotness: Median Days on Market in Alexandria, LA (CBSA)                                    | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA10780        | Market Hotness: Median Days on Market in Alexandria, LA (CBSA)                                    | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR10780          | Housing Inventory: Median Days on Market in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM10780        | Housing Inventory: Median Days on Market Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY10780        | Housing Inventory: Median Days on Market Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI10780            | Housing Inventory: Median Listing Price in Alexandria, LA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM10780          | Housing Inventory: Median Listing Price Month-Over-Month in Alexandria, LA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE10780   | Housing Inventory: Median Listing Price per Square Feet in Alexandria, LA (CBSA)                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM10780 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Alexandria, LA (CBSA) | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY10780 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Alexandria, LA (CBSA)   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY10780          | Housing Inventory: Median Listing Price Year-Over-Year in Alexandria, LA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA10780          | Market Hotness: Median Days on Market in Alexandria, LA (CBSA)                                    | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA10780          | Market Hotness: Median Days on Market Versus the United States in Alexandria, LA (CBSA)           | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA10780          | Market Hotness: Median Days on Market Day in Alexandria, LA (CBSA)                                | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE10780            | Housing Inventory: Median Home Size in Square Feet in Alexandria, LA (CBSA)                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM10780          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Alexandria, LA (CBSA)      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY10780          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Alexandria, LA (CBSA)        | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA10780          | Market Hotness: Median Listing Price in Alexandria, LA (CBSA)                                     | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA10780            | Market Hotness: Median Listing Price in Alexandria, LA (CBSA)                                     | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA10780        | Market Hotness: Median Listing Price Versus the United States in Alexandria, LA (CBSA)            | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA10780          | Market Hotness: Median Listing Price in Alexandria, LA (CBSA)                                     | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU10780            | Housing Inventory: New Listing Count in Alexandria, LA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM10780          | Housing Inventory: New Listing Count Month-Over-Month in Alexandria, LA (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY10780          | Housing Inventory: New Listing Count Year-Over-Year in Alexandria, LA (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | NGMP10780                 | Total Gross Domestic Product for Alexandria, LA (MSA)                                             | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA10780            | Market Hotness: Nielsen Household Rank in Alexandria, LA (CBSA)                                   | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA10780            | Market Hotness: Nielsen Household Rank in Alexandria, LA (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA110780          | U.S. Granted Utility Patents Originating in Alexandria, LA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU10780            | Housing Inventory: Pending Listing Count in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM10780          | Housing Inventory: Pending Listing Count Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY10780          | Housing Inventory: Pending Listing Count Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU10780            | Housing Inventory: Price Increased Count in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
+| PENLISCOU10780            | Housing Inventory: Pending Listing Count in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM10780          | Housing Inventory: Pending Listing Count Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY10780          | Housing Inventory: Pending Listing Count Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU10780            | Housing Inventory: Price Increased Count in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM10780          | Housing Inventory: Price Increased Count Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-10-01        |
 | PRIINCCOUYY10780          | Housing Inventory: Price Increased Count Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU10780            | Housing Inventory: Price Reduced Count in Alexandria, LA (CBSA)                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM10780          | Housing Inventory: Price Reduced Count Month-Over-Month in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY10780          | Housing Inventory: Price Reduced Count Year-Over-Year in Alexandria, LA (CBSA)                    | 2017-07-01          | 2022-10-01        |
+| PRIREDCOU10780            | Housing Inventory: Price Reduced Count in Alexandria, LA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM10780          | Housing Inventory: Price Reduced Count Month-Over-Month in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY10780          | Housing Inventory: Price Reduced Count Year-Over-Year in Alexandria, LA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP10780                 | Total Quantity Indexes for Real GDP for Alexandria, LA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP10780                 | Total Real Gross Domestic Product for Alexandria, LA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI10780                  | Real Personal Income for Alexandria, LA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
@@ -128,4 +128,4 @@
 | SMU22107809093000001      | All Employees: Government: Local Government in Alexandria, LA (MSA)                               | 1990-01-01          | 2022-10-01        |
 | SMU22107809093000001A     | All Employees: Local Government in Alexandria, LA (MSA)                                           | 1990-01-01          | 2021-01-01        |
 | SMU22107809093000001SA    | All Employees: Government: Local Government in Alexandria, LA (MSA)                               | 1990-01-01          | 2022-10-01        |
-| SUSCMSA10780              | Market Hotness: Supply Score in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-10-01        |
+| SUSCMSA10780              | Market Hotness: Supply Score in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-11-01        |

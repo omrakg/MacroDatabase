@@ -86,78 +86,78 @@
 | AODGVS             | Manufacturers' Value of Shipments: All Other Durable Goods                                                           | 1992-01-01          | 2022-10-01        |
 | ATCGVS             | Manufacturers' Value of Shipments: Capital Goods                                                                     | 1992-01-01          | 2022-10-01        |
 | ATGPVS             | Manufacturers' Value of Shipments: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-09-01        |
-| DTCDFNA066MNFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-10-01        |
-| DTCDFSA066MSFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-10-01        |
-| DTCDNA156MNFRBPHI  | Current Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-10-01        |
-| DTCDSA156MSFRBPHI  | Current Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-10-01        |
-| DTCINA156MNFRBPHI  | Current Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-10-01        |
-| DTCISA156MSFRBPHI  | Current Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-10-01        |
-| DTCNNA156MNFRBPHI  | Current Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-10-01        |
-| DTCNSA156MSFRBPHI  | Current Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-10-01        |
-| DTFDFNA066MNFRBPHI | Future Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                   | 1968-05-01          | 2022-10-01        |
-| DTFDFSA066MSFRBPHI | Future Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                   | 1968-05-01          | 2022-10-01        |
-| DTFDNA156MNFRBPHI  | Future Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-10-01        |
-| DTFDSA156MSFRBPHI  | Future Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-10-01        |
-| DTFINA156MNFRBPHI  | Future Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-10-01        |
-| DTFISA156MSFRBPHI  | Future Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-10-01        |
-| DTFNNA156MNFRBPHI  | Future Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-10-01        |
-| DTFNSA156MSFRBPHI  | Future Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-10-01        |
-| DTMDSAMFRBDAL      | Current Delivery Time; Percentage Reporting Decreases for Texas                                                      | 2004-06-01          | 2022-10-01        |
-| DTMDUAMFRBDAL      | Current Delivery Time; Percentage Reporting Decreases for Texas                                                      | 2004-06-01          | 2022-10-01        |
-| DTMISAMFRBDAL      | Current Delivery Time; Percentage Reporting Increases for Texas                                                      | 2004-06-01          | 2022-10-01        |
-| DTMIUAMFRBDAL      | Current Delivery Time; Percentage Reporting Increases for Texas                                                      | 2004-06-01          | 2022-10-01        |
-| DTMNSAMFRBDAL      | Current Delivery Time; Percentage Reporting No Change for Texas                                                      | 2004-06-01          | 2022-10-01        |
-| DTMNUAMFRBDAL      | Current Delivery Time; Percentage Reporting No Change for Texas                                                      | 2004-06-01          | 2022-10-01        |
-| DTMSAMFRBDAL       | Current Delivery Time; Diffusion Index for Texas                                                                     | 2004-06-01          | 2022-10-01        |
-| DTMUAMFRBDAL       | Current Delivery Time; Diffusion Index for Texas                                                                     | 2004-06-01          | 2022-10-01        |
-| FDTMDSAMFRBDAL     | Future Delivery Time; Percentage Reporting Decreases for Texas                                                       | 2004-06-01          | 2022-10-01        |
-| FDTMDUAMFRBDAL     | Future Delivery Time; Percentage Reporting Decreases for Texas                                                       | 2004-06-01          | 2022-10-01        |
-| FDTMISAMFRBDAL     | Future Delivery Time; Percentage Reporting Increases for Texas                                                       | 2004-06-01          | 2022-10-01        |
-| FDTMIUAMFRBDAL     | Future Delivery Time; Percentage Reporting Increases for Texas                                                       | 2004-06-01          | 2022-10-01        |
-| FDTMNSAMFRBDAL     | Future Delivery Time; Percentage Reporting No Change for Texas                                                       | 2004-06-01          | 2022-10-01        |
-| FDTMNUAMFRBDAL     | Future Delivery Time; Percentage Reporting No Change for Texas                                                       | 2004-06-01          | 2022-10-01        |
-| FDTMSAMFRBDAL      | Future Delivery Time; Diffusion Index for Texas                                                                      | 2004-06-01          | 2022-10-01        |
-| FDTMUAMFRBDAL      | Future Delivery Time; Diffusion Index for Texas                                                                      | 2004-06-01          | 2022-10-01        |
-| FVSHPDSAMFRBDAL    | Future Shipments; Percentage Reporting Decreases for Texas                                                           | 2004-06-01          | 2022-10-01        |
-| FVSHPDUAMFRBDAL    | Future Shipments; Percentage Reporting Decreases for Texas                                                           | 2004-06-01          | 2022-10-01        |
-| FVSHPISAMFRBDAL    | Future Shipments; Percentage Reporting Increases for Texas                                                           | 2004-06-01          | 2022-10-01        |
-| FVSHPIUAMFRBDAL    | Future Shipments; Percentage Reporting Increases for Texas                                                           | 2004-06-01          | 2022-10-01        |
-| FVSHPNSAMFRBDAL    | Future Shipments; Percentage Reporting No Change for Texas                                                           | 2004-06-01          | 2022-10-01        |
-| FVSHPNUAMFRBDAL    | Future Shipments; Percentage Reporting No Change for Texas                                                           | 2004-06-01          | 2022-10-01        |
-| FVSHPSAMFRBDAL     | Future Shipments; Diffusion Index for Texas                                                                          | 2004-06-01          | 2022-10-01        |
-| FVSHPUAMFRBDAL     | Future Shipments; Diffusion Index for Texas                                                                          | 2004-06-01          | 2022-10-01        |
-| SHCDFNA066MNFRBPHI | Current Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                      | 1968-05-01          | 2022-10-01        |
-| SHCDFSA066MSFRBPHI | Current Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                      | 1968-05-01          | 2022-10-01        |
+| DTCDFNA066MNFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-11-01        |
+| DTCDFSA066MSFRBPHI | Current Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                  | 1968-05-01          | 2022-11-01        |
+| DTCDNA156MNFRBPHI  | Current Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-11-01        |
+| DTCDSA156MSFRBPHI  | Current Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-11-01        |
+| DTCINA156MNFRBPHI  | Current Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-11-01        |
+| DTCISA156MSFRBPHI  | Current Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-11-01        |
+| DTCNNA156MNFRBPHI  | Current Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-11-01        |
+| DTCNSA156MSFRBPHI  | Current Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                      | 1968-05-01          | 2022-11-01        |
+| DTFDFNA066MNFRBPHI | Future Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                   | 1968-05-01          | 2022-11-01        |
+| DTFDFSA066MSFRBPHI | Future Delivery Time; Diffusion Index for Federal Reserve District 3: Philadelphia                                   | 1968-05-01          | 2022-11-01        |
+| DTFDNA156MNFRBPHI  | Future Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-11-01        |
+| DTFDSA156MSFRBPHI  | Future Delivery Time; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-11-01        |
+| DTFINA156MNFRBPHI  | Future Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-11-01        |
+| DTFISA156MSFRBPHI  | Future Delivery Time; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-11-01        |
+| DTFNNA156MNFRBPHI  | Future Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-11-01        |
+| DTFNSA156MSFRBPHI  | Future Delivery Time; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                       | 1968-05-01          | 2022-11-01        |
+| DTMDSAMFRBDAL      | Current Delivery Time; Percentage Reporting Decreases for Texas                                                      | 2004-06-01          | 2022-11-01        |
+| DTMDUAMFRBDAL      | Current Delivery Time; Percentage Reporting Decreases for Texas                                                      | 2004-06-01          | 2022-11-01        |
+| DTMISAMFRBDAL      | Current Delivery Time; Percentage Reporting Increases for Texas                                                      | 2004-06-01          | 2022-11-01        |
+| DTMIUAMFRBDAL      | Current Delivery Time; Percentage Reporting Increases for Texas                                                      | 2004-06-01          | 2022-11-01        |
+| DTMNSAMFRBDAL      | Current Delivery Time; Percentage Reporting No Change for Texas                                                      | 2004-06-01          | 2022-11-01        |
+| DTMNUAMFRBDAL      | Current Delivery Time; Percentage Reporting No Change for Texas                                                      | 2004-06-01          | 2022-11-01        |
+| DTMSAMFRBDAL       | Current Delivery Time; Diffusion Index for Texas                                                                     | 2004-06-01          | 2022-11-01        |
+| DTMUAMFRBDAL       | Current Delivery Time; Diffusion Index for Texas                                                                     | 2004-06-01          | 2022-11-01        |
+| FDTMDSAMFRBDAL     | Future Delivery Time; Percentage Reporting Decreases for Texas                                                       | 2004-06-01          | 2022-11-01        |
+| FDTMDUAMFRBDAL     | Future Delivery Time; Percentage Reporting Decreases for Texas                                                       | 2004-06-01          | 2022-11-01        |
+| FDTMISAMFRBDAL     | Future Delivery Time; Percentage Reporting Increases for Texas                                                       | 2004-06-01          | 2022-11-01        |
+| FDTMIUAMFRBDAL     | Future Delivery Time; Percentage Reporting Increases for Texas                                                       | 2004-06-01          | 2022-11-01        |
+| FDTMNSAMFRBDAL     | Future Delivery Time; Percentage Reporting No Change for Texas                                                       | 2004-06-01          | 2022-11-01        |
+| FDTMNUAMFRBDAL     | Future Delivery Time; Percentage Reporting No Change for Texas                                                       | 2004-06-01          | 2022-11-01        |
+| FDTMSAMFRBDAL      | Future Delivery Time; Diffusion Index for Texas                                                                      | 2004-06-01          | 2022-11-01        |
+| FDTMUAMFRBDAL      | Future Delivery Time; Diffusion Index for Texas                                                                      | 2004-06-01          | 2022-11-01        |
+| FVSHPDSAMFRBDAL    | Future Shipments; Percentage Reporting Decreases for Texas                                                           | 2004-06-01          | 2022-11-01        |
+| FVSHPDUAMFRBDAL    | Future Shipments; Percentage Reporting Decreases for Texas                                                           | 2004-06-01          | 2022-11-01        |
+| FVSHPISAMFRBDAL    | Future Shipments; Percentage Reporting Increases for Texas                                                           | 2004-06-01          | 2022-11-01        |
+| FVSHPIUAMFRBDAL    | Future Shipments; Percentage Reporting Increases for Texas                                                           | 2004-06-01          | 2022-11-01        |
+| FVSHPNSAMFRBDAL    | Future Shipments; Percentage Reporting No Change for Texas                                                           | 2004-06-01          | 2022-11-01        |
+| FVSHPNUAMFRBDAL    | Future Shipments; Percentage Reporting No Change for Texas                                                           | 2004-06-01          | 2022-11-01        |
+| FVSHPSAMFRBDAL     | Future Shipments; Diffusion Index for Texas                                                                          | 2004-06-01          | 2022-11-01        |
+| FVSHPUAMFRBDAL     | Future Shipments; Diffusion Index for Texas                                                                          | 2004-06-01          | 2022-11-01        |
+| SHCDFNA066MNFRBPHI | Current Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                      | 1968-05-01          | 2022-11-01        |
+| SHCDFSA066MSFRBPHI | Current Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                      | 1968-05-01          | 2022-11-01        |
 | SHCDINA066MNFRBNY  | Current Shipments; Diffusion Index for New York                                                                      | 2001-07-01          | 2022-11-01        |
 | SHCDISA066MSFRBNY  | Current Shipments; Diffusion Index for New York                                                                      | 2001-07-01          | 2022-11-01        |
 | SHCDNA156MNFRBNY   | Current Shipments; Percent Reporting Decreases for New York                                                          | 2001-07-01          | 2022-11-01        |
-| SHCDNA156MNFRBPHI  | Current Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-10-01        |
+| SHCDNA156MNFRBPHI  | Current Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-11-01        |
 | SHCDSA156MSFRBNY   | Current Shipments; Percent Reporting Decreases for New York                                                          | 2001-07-01          | 2022-11-01        |
-| SHCDSA156MSFRBPHI  | Current Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-10-01        |
+| SHCDSA156MSFRBPHI  | Current Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-11-01        |
 | SHCINA156MNFRBNY   | Current Shipments; Percent Reporting Increases for New York                                                          | 2001-07-01          | 2022-11-01        |
-| SHCINA156MNFRBPHI  | Current Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-10-01        |
+| SHCINA156MNFRBPHI  | Current Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-11-01        |
 | SHCISA156MSFRBNY   | Current Shipments; Percent Reporting Increases for New York                                                          | 2001-07-01          | 2022-11-01        |
-| SHCISA156MSFRBPHI  | Current Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-10-01        |
+| SHCISA156MSFRBPHI  | Current Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-11-01        |
 | SHCNNA156MNFRBNY   | Current Shipments; Percent Reporting No Change for New York                                                          | 2001-07-01          | 2022-11-01        |
-| SHCNNA156MNFRBPHI  | Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-10-01        |
+| SHCNNA156MNFRBPHI  | Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-11-01        |
 | SHCNSA156MSFRBNY   | Current Shipments; Percent Reporting No Change for New York                                                          | 2001-07-01          | 2022-11-01        |
-| SHCNSA156MSFRBPHI  | Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-10-01        |
-| SHFDFNA066MNFRBPHI | Future Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                       | 1968-05-01          | 2022-10-01        |
-| SHFDFSA066MSFRBPHI | Future Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                       | 1968-05-01          | 2022-10-01        |
+| SHCNSA156MSFRBPHI  | Current Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                          | 1968-05-01          | 2022-11-01        |
+| SHFDFNA066MNFRBPHI | Future Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                       | 1968-05-01          | 2022-11-01        |
+| SHFDFSA066MSFRBPHI | Future Shipments; Diffusion Index for Federal Reserve District 3: Philadelphia                                       | 1968-05-01          | 2022-11-01        |
 | SHFDINA066MNFRBNY  | Future Shipments; Diffusion Index for New York                                                                       | 2001-07-01          | 2022-11-01        |
 | SHFDISA066MSFRBNY  | Future Shipments; Diffusion Index for New York                                                                       | 2001-07-01          | 2022-11-01        |
 | SHFDNA156MNFRBNY   | Future Shipments; Percent Expecting Decreases for New York                                                           | 2001-07-01          | 2022-11-01        |
-| SHFDNA156MNFRBPHI  | Future Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-10-01        |
+| SHFDNA156MNFRBPHI  | Future Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-11-01        |
 | SHFDSA156MSFRBNY   | Future Shipments; Percent Expecting Decreases for New York                                                           | 2001-07-01          | 2022-11-01        |
-| SHFDSA156MSFRBPHI  | Future Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-10-01        |
+| SHFDSA156MSFRBPHI  | Future Shipments; Percent Reporting Decreases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-11-01        |
 | SHFINA156MNFRBNY   | Future Shipments; Percent Expecting Increases for New York                                                           | 2001-07-01          | 2022-11-01        |
-| SHFINA156MNFRBPHI  | Future Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-10-01        |
+| SHFINA156MNFRBPHI  | Future Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-11-01        |
 | SHFISA156MSFRBNY   | Future Shipments; Percent Expecting Increases for New York                                                           | 2001-07-01          | 2022-11-01        |
-| SHFISA156MSFRBPHI  | Future Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-10-01        |
+| SHFISA156MSFRBPHI  | Future Shipments; Percent Reporting Increases for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-11-01        |
 | SHFNNA156MNFRBNY   | Future Shipments; Percent Expecting No Change for New York                                                           | 2001-07-01          | 2022-11-01        |
-| SHFNNA156MNFRBPHI  | Future Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-10-01        |
+| SHFNNA156MNFRBPHI  | Future Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-11-01        |
 | SHFNSA156MSFRBNY   | Future Shipments; Percent Expecting No Change for New York                                                           | 2001-07-01          | 2022-11-01        |
-| SHFNSA156MSFRBPHI  | Future Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-10-01        |
+| SHFNSA156MSFRBPHI  | Future Shipments; Percent Reporting No Change for Federal Reserve District 3: Philadelphia                           | 1968-05-01          | 2022-11-01        |
 | U11AVS             | Manufacturers' Value of Shipments: Grain and Oilseed Milling                                                         | 1992-01-01          | 2022-09-01        |
 | U11BVS             | Manufacturers' Value of Shipments: Dairy Product Manufacturing                                                       | 1992-01-01          | 2022-09-01        |
 | U11CVS             | Manufacturers' Value of Shipments: Meat, Poultry, and Seafood Product Processing                                     | 1992-01-01          | 2022-09-01        |
@@ -244,11 +244,11 @@
 | UODGVS             | Manufacturers' Value of Shipments: All Other Durable Goods                                                           | 1992-01-01          | 2022-10-01        |
 | UTCGVS             | Manufacturers' Value of Shipments: Capital Goods                                                                     | 1992-01-01          | 2022-10-01        |
 | UTGPVS             | Manufacturers' Value of Shipments: Turbines, Generators, and Other Power Transmission Equipment                      | 1992-01-01          | 2022-09-01        |
-| VSHPDSAMFRBDAL     | Current Shipments; Percentage Reporting Decreases for Texas                                                          | 2004-06-01          | 2022-10-01        |
-| VSHPDUAMFRBDAL     | Current Shipments; Percentage Reporting Decreases for Texas                                                          | 2004-06-01          | 2022-10-01        |
-| VSHPISAMFRBDAL     | Current Shipments; Percentage Reporting Increases for Texas                                                          | 2004-06-01          | 2022-10-01        |
-| VSHPIUAMFRBDAL     | Current Shipments; Percentage Reporting Increases for Texas                                                          | 2004-06-01          | 2022-10-01        |
-| VSHPNSAMFRBDAL     | Current Shipments; Percentage Reporting No Change for Texas                                                          | 2004-06-01          | 2022-10-01        |
-| VSHPNUAMFRBDAL     | Current Shipments; Percentage Reporting No Change for Texas                                                          | 2004-06-01          | 2022-10-01        |
-| VSHPSAMFRBDAL      | Current Shipments; Diffusion Index for Texas                                                                         | 2004-06-01          | 2022-10-01        |
-| VSHPUAMFRBDAL      | Current Shipments; Diffusion Index for Texas                                                                         | 2004-06-01          | 2022-10-01        |
+| VSHPDSAMFRBDAL     | Current Shipments; Percentage Reporting Decreases for Texas                                                          | 2004-06-01          | 2022-11-01        |
+| VSHPDUAMFRBDAL     | Current Shipments; Percentage Reporting Decreases for Texas                                                          | 2004-06-01          | 2022-11-01        |
+| VSHPISAMFRBDAL     | Current Shipments; Percentage Reporting Increases for Texas                                                          | 2004-06-01          | 2022-11-01        |
+| VSHPIUAMFRBDAL     | Current Shipments; Percentage Reporting Increases for Texas                                                          | 2004-06-01          | 2022-11-01        |
+| VSHPNSAMFRBDAL     | Current Shipments; Percentage Reporting No Change for Texas                                                          | 2004-06-01          | 2022-11-01        |
+| VSHPNUAMFRBDAL     | Current Shipments; Percentage Reporting No Change for Texas                                                          | 2004-06-01          | 2022-11-01        |
+| VSHPSAMFRBDAL      | Current Shipments; Diffusion Index for Texas                                                                         | 2004-06-01          | 2022-11-01        |
+| VSHPUAMFRBDAL      | Current Shipments; Diffusion Index for Texas                                                                         | 2004-06-01          | 2022-11-01        |

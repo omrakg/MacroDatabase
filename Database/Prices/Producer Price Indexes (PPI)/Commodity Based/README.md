@@ -26,7 +26,7 @@
 | Accommodation Services                                             |                12 |
 | Rubber and Plastic Products                                        |                94 |
 | Cleaning and Building Maintenance Services                         |                 7 |
-| Contract Work on Textile Products, Apparel, and Leather            |                26 |
+| Contract Work on Textile Products, Apparel, and Leather            |                 0 |
 | Insurance and Annuities                                            |                35 |
 | Metals and Metal Products                                          |               374 |
 | Farm Products                                                      |               191 |

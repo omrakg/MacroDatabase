@@ -5,7 +5,7 @@
 | Wheeling, WV-OH                   |               127 |
 | Lima, OH                          |               131 |
 | Toledo, OH                        |               195 |
-| Mansfield, OH                     |                 0 |
+| Mansfield, OH                     |               135 |
 | Akron, OH                         |               198 |
 | Springfield, OH                   |               162 |
 | Dayton-Kettering, OH              |               193 |

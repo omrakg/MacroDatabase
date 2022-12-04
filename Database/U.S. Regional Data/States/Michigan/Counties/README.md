@@ -5,7 +5,7 @@
 | Gratiot County, MI        |                90 |
 | Leelanau County, MI       |                90 |
 | Houghton County, MI       |                90 |
-| Cheboygan County, MI      |                90 |
+| Cheboygan County, MI      |                 0 |
 | Mecosta County, MI        |                90 |
 | Isabella County, MI       |               146 |
 | Alcona County, MI         |                90 |
@@ -33,7 +33,7 @@
 | Gogebic County, MI        |                89 |
 | St. Joseph County, MI     |               146 |
 | Dickinson County, MI      |                90 |
-| Jackson County, MI        |                 0 |
+| Jackson County, MI        |               146 |
 | Otsego County, MI         |                89 |
 | Menominee County, MI      |                90 |
 | Bay County, MI            |               147 |
@@ -76,7 +76,7 @@
 | Crawford County, MI       |                90 |
 | Ontonagon County, MI      |                89 |
 | Branch County, MI         |                90 |
-| Charlevoix County, MI     |                90 |
+| Charlevoix County, MI     |                 0 |
 | Schoolcraft County, MI    |                90 |
 | Allegan County, MI        |               147 |
 | Chippewa County, MI       |                90 |

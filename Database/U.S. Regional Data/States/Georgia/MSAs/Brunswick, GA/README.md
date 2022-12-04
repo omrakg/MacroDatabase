@@ -1,23 +1,23 @@
 | id                        | title                                                                                            | observation_start   | observation_end   |
 |---------------------------|--------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU15260            | Housing Inventory: Active Listing Count in Brunswick, GA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM15260          | Housing Inventory: Active Listing Count Month-Over-Month in Brunswick, GA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY15260          | Housing Inventory: Active Listing Count Year-Over-Year in Brunswick, GA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS15260Q            | All-Transactions House Price Index for Brunswick, GA (MSA)                                       | 1986-04-01          | 2022-04-01        |
-| AVELISPRI15260            | Housing Inventory: Average Listing Price in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM15260          | Housing Inventory: Average Listing Price Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY15260          | Housing Inventory: Average Listing Price Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU15260            | Housing Inventory: Active Listing Count in Brunswick, GA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM15260          | Housing Inventory: Active Listing Count Month-Over-Month in Brunswick, GA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY15260          | Housing Inventory: Active Listing Count Year-Over-Year in Brunswick, GA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS15260Q            | All-Transactions House Price Index for Brunswick, GA (MSA)                                       | 1986-04-01          | 2022-07-01        |
+| AVELISPRI15260            | Housing Inventory: Average Listing Price in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM15260          | Housing Inventory: Average Listing Price Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY15260          | Housing Inventory: Average Listing Price Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | BRUN213GOVT               | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | BRUN213GOVTN              | All Employees: Government in Brunswick, GA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| BRUN213LF                 | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
-| BRUN213LFN                | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| BRUN213LF                 | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
+| BRUN213LFN                | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | BRUN213NA                 | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | BRUN213NAN                | All Employees: Total Nonfarm in Brunswick, GA (MSA)                                              | 1990-01-01          | 2022-10-01        |
 | BRUN213PCPI               | Per Capita Personal Income in Brunswick, GA (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | BRUN213TRAD               | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2022-10-01        |
 | BRUN213TRADN              | All Employees: Trade, Transportation, and Utilities in Brunswick, GA (MSA)                       | 1990-01-01          | 2022-10-01        |
-| BRUN213UR                 | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
-| BRUN213URN                | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-09-01        |
+| BRUN213UR                 | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
+| BRUN213URN                | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | BRUPOP                    | Resident Population in Brunswick, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | ENUC152630010             | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
 | ENUC152630010SA           | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
@@ -33,37 +33,37 @@
 | ENUC152640510SA           | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2022-01-01        |
 | IRPD15260                 | Implicit Regional Price Deflator for Brunswick, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT131526000000003A     | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| LAUMT131526000000004      | Unemployed Persons in Brunswick, GA (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT131526000000004      | Unemployed Persons in Brunswick, GA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT131526000000004A     | Unemployed Persons in Brunswick, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT131526000000005      | Employed Persons in Brunswick, GA (MSA)                                                          | 1990-01-01          | 2022-09-01        |
+| LAUMT131526000000005      | Employed Persons in Brunswick, GA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
 | LAUMT131526000000005A     | Employed Persons in Brunswick, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
 | LAUMT131526000000006A     | Civilian Labor Force in Brunswick, GA (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| MEDDAYONMAR15260          | Housing Inventory: Median Days on Market in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM15260        | Housing Inventory: Median Days on Market Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY15260        | Housing Inventory: Median Days on Market Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI15260            | Housing Inventory: Median Listing Price in Brunswick, GA (CBSA)                                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM15260          | Housing Inventory: Median Listing Price Month-Over-Month in Brunswick, GA (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE15260   | Housing Inventory: Median Listing Price per Square Feet in Brunswick, GA (CBSA)                  | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM15260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Brunswick, GA (CBSA) | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY15260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Brunswick, GA (CBSA)   | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY15260          | Housing Inventory: Median Listing Price Year-Over-Year in Brunswick, GA (CBSA)                   | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEE15260            | Housing Inventory: Median Home Size in Square Feet in Brunswick, GA (CBSA)                       | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM15260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Brunswick, GA (CBSA)      | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY15260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Brunswick, GA (CBSA)        | 2017-07-01          | 2022-10-01        |
-| NEWLISCOU15260            | Housing Inventory: New Listing Count in Brunswick, GA (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM15260          | Housing Inventory: New Listing Count Month-Over-Month in Brunswick, GA (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY15260          | Housing Inventory: New Listing Count Year-Over-Year in Brunswick, GA (CBSA)                      | 2017-07-01          | 2022-10-01        |
+| MEDDAYONMAR15260          | Housing Inventory: Median Days on Market in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM15260        | Housing Inventory: Median Days on Market Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY15260        | Housing Inventory: Median Days on Market Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI15260            | Housing Inventory: Median Listing Price in Brunswick, GA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM15260          | Housing Inventory: Median Listing Price Month-Over-Month in Brunswick, GA (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE15260   | Housing Inventory: Median Listing Price per Square Feet in Brunswick, GA (CBSA)                  | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM15260 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Brunswick, GA (CBSA) | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY15260 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Brunswick, GA (CBSA)   | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY15260          | Housing Inventory: Median Listing Price Year-Over-Year in Brunswick, GA (CBSA)                   | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEE15260            | Housing Inventory: Median Home Size in Square Feet in Brunswick, GA (CBSA)                       | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM15260          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Brunswick, GA (CBSA)      | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY15260          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Brunswick, GA (CBSA)        | 2017-07-01          | 2022-11-01        |
+| NEWLISCOU15260            | Housing Inventory: New Listing Count in Brunswick, GA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM15260          | Housing Inventory: New Listing Count Month-Over-Month in Brunswick, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY15260          | Housing Inventory: New Listing Count Year-Over-Year in Brunswick, GA (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | NGMP15260                 | Total Gross Domestic Product for Brunswick, GA (MSA)                                             | 2001-01-01          | 2020-01-01        |
 | PATENTCBSA115260          | U.S. Granted Utility Patents Originating in Brunswick, GA (MSA)                                  | 2000-01-01          | 2015-01-01        |
-| PENLISCOU15260            | Housing Inventory: Pending Listing Count in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM15260          | Housing Inventory: Pending Listing Count Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY15260          | Housing Inventory: Pending Listing Count Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU15260            | Housing Inventory: Price Increased Count in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM15260          | Housing Inventory: Price Increased Count Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY15260          | Housing Inventory: Price Increased Count Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU15260            | Housing Inventory: Price Reduced Count in Brunswick, GA (CBSA)                                   | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM15260          | Housing Inventory: Price Reduced Count Month-Over-Month in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY15260          | Housing Inventory: Price Reduced Count Year-Over-Year in Brunswick, GA (CBSA)                    | 2017-07-01          | 2022-10-01        |
+| PENLISCOU15260            | Housing Inventory: Pending Listing Count in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM15260          | Housing Inventory: Pending Listing Count Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY15260          | Housing Inventory: Pending Listing Count Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU15260            | Housing Inventory: Price Increased Count in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM15260          | Housing Inventory: Price Increased Count Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY15260          | Housing Inventory: Price Increased Count Year-Over-Year in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU15260            | Housing Inventory: Price Reduced Count in Brunswick, GA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM15260          | Housing Inventory: Price Reduced Count Month-Over-Month in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY15260          | Housing Inventory: Price Reduced Count Year-Over-Year in Brunswick, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP15260                 | Total Quantity Indexes for Real GDP for Brunswick, GA (MSA)                                      | 2001-01-01          | 2020-01-01        |
 | RGMP15260                 | Total Real Gross Domestic Product for Brunswick, GA (MSA)                                        | 2001-01-01          | 2020-01-01        |
 | RPI15260                  | Real Personal Income for Brunswick, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

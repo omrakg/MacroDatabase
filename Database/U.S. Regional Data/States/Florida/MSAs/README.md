@@ -5,7 +5,7 @@
 | Ocala, FL                               |               162 |
 | Naples-Marco Island, FL                 |               162 |
 | Punta Gorda, FL                         |               162 |
-| Port St. Lucie, FL                      |               162 |
+| Port St. Lucie, FL                      |                 0 |
 | Palm Bay-Melbourne-Titusville, FL       |               181 |
 | The Villages, FL                        |                59 |
 | Miami-Fort Lauderdale-Pompano Beach, FL |               199 |

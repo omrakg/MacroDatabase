@@ -15,6 +15,6 @@
 | Nashua, NH-MA                           |                 0 |
 | Haverhill-North Andover-Amesbury, MA-NH |                60 |
 | Boston-Cambridge-Quincy, MA-NH          |                 2 |
-| New Bedford, MA                         |                 0 |
+| New Bedford, MA                         |                83 |
 | Lowell-Billerica-Chelmsford, MA-NH      |                 8 |
 | Brockton-Bridgewater-Easton, MA         |                 0 |

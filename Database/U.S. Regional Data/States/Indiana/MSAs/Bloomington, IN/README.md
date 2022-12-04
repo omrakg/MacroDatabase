@@ -1,12 +1,12 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU14020            | Housing Inventory: Active Listing Count in Bloomington, IN (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM14020          | Housing Inventory: Active Listing Count Month-Over-Month in Bloomington, IN (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY14020          | Housing Inventory: Active Listing Count Year-Over-Year in Bloomington, IN (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS14020Q            | All-Transactions House Price Index for Bloomington, IN (MSA)                                                     | 1986-07-01          | 2022-04-01        |
-| AVELISPRI14020            | Housing Inventory: Average Listing Price in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM14020          | Housing Inventory: Average Listing Price Month-Over-Month in Bloomington, IN (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY14020          | Housing Inventory: Average Listing Price Year-Over-Year in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
+| ACTLISCOU14020            | Housing Inventory: Active Listing Count in Bloomington, IN (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM14020          | Housing Inventory: Active Listing Count Month-Over-Month in Bloomington, IN (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY14020          | Housing Inventory: Active Listing Count Year-Over-Year in Bloomington, IN (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS14020Q            | All-Transactions House Price Index for Bloomington, IN (MSA)                                                     | 1986-07-01          | 2022-07-01        |
+| AVELISPRI14020            | Housing Inventory: Average Listing Price in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM14020          | Housing Inventory: Average Listing Price Month-Over-Month in Bloomington, IN (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY14020          | Housing Inventory: Average Listing Price Year-Over-Year in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | BLMPOP                    | Resident Population in Bloomington, IN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | BLOO018EDUH               | All Employees: Education and Health Services in Bloomington, IN (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | BLOO018EDUHN              | All Employees: Education and Health Services in Bloomington, IN (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -18,8 +18,8 @@
 | BLOO018INFON              | All Employees: Information in Bloomington, IN (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | BLOO018LEIH               | All Employees: Leisure and Hospitality in Bloomington, IN (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | BLOO018LEIHN              | All Employees: Leisure and Hospitality in Bloomington, IN (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| BLOO018LF                 | Civilian Labor Force in Bloomington, IN (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| BLOO018LFN                | Civilian Labor Force in Bloomington, IN (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| BLOO018LF                 | Civilian Labor Force in Bloomington, IN (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| BLOO018LFN                | Civilian Labor Force in Bloomington, IN (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | BLOO018MFG                | All Employees: Manufacturing in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | BLOO018MFGN               | All Employees: Manufacturing in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | BLOO018NA                 | All Employees: Total Nonfarm in Bloomington, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -33,9 +33,9 @@
 | BLOO018SRVON              | All Employees: Other Services in Bloomington, IN (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | BLOO018TRAD               | All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | BLOO018TRADN              | All Employees: Trade, Transportation, and Utilities in Bloomington, IN (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| BLOO018UR                 | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| BLOO018URN                | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| DESCMSA14020              | Market Hotness: Demand Score in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| BLOO018UR                 | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| BLOO018URN                | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| DESCMSA14020              | Market Hotness: Demand Score in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC140230010             | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC140230010SA           | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC140240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -44,58 +44,58 @@
 | ENUC140240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
 | ENUC140240510             | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC140240510SA           | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA14020            | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA14020              | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA14020            | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA14020              | Market Hotness: Hotness Score in Bloomington, IN (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA14020            | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA14020              | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA14020            | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA14020              | Market Hotness: Hotness Score in Bloomington, IN (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD14010                 | Implicit Regional Price Deflator for Bloomington, IL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD14020                 | Implicit Regional Price Deflator for Bloomington, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT181402000000003A     | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT181402000000004      | Unemployed Persons in Bloomington, IN (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT181402000000004      | Unemployed Persons in Bloomington, IN (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT181402000000004A     | Unemployed Persons in Bloomington, IN (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT181402000000005      | Employed Persons in Bloomington, IN (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT181402000000005      | Employed Persons in Bloomington, IN (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT181402000000005A     | Employed Persons in Bloomington, IN (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT181402000000006A     | Civilian Labor Force in Bloomington, IN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA14020          | Market Hotness: Listing Views per Property in Bloomington, IN (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA14020        | Market Hotness: Listing Views per Property Versus the United States in Bloomington, IN (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA14020          | Market Hotness: Listing Views per Property in Bloomington, IN (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA14020        | Market Hotness: Median Days on Market in Bloomington, IN (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA14020          | Market Hotness: Median Days on Market in Bloomington, IN (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA14020        | Market Hotness: Median Days on Market in Bloomington, IN (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR14020          | Housing Inventory: Median Days on Market in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM14020        | Housing Inventory: Median Days on Market Month-Over-Month in Bloomington, IN (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY14020        | Housing Inventory: Median Days on Market Year-Over-Year in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI14020            | Housing Inventory: Median Listing Price in Bloomington, IN (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM14020          | Housing Inventory: Median Listing Price Month-Over-Month in Bloomington, IN (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE14020   | Housing Inventory: Median Listing Price per Square Feet in Bloomington, IN (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM14020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bloomington, IN (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY14020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bloomington, IN (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY14020          | Housing Inventory: Median Listing Price Year-Over-Year in Bloomington, IN (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA14020          | Market Hotness: Median Days on Market in Bloomington, IN (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA14020          | Market Hotness: Median Days on Market Versus the United States in Bloomington, IN (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA14020          | Market Hotness: Median Days on Market Day in Bloomington, IN (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE14020            | Housing Inventory: Median Home Size in Square Feet in Bloomington, IN (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM14020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bloomington, IN (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY14020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bloomington, IN (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA14020          | Market Hotness: Median Listing Price in Bloomington, IN (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA14020            | Market Hotness: Median Listing Price in Bloomington, IN (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA14020        | Market Hotness: Median Listing Price Versus the United States in Bloomington, IN (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA14020          | Market Hotness: Median Listing Price in Bloomington, IN (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU14020            | Housing Inventory: New Listing Count in Bloomington, IN (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM14020          | Housing Inventory: New Listing Count Month-Over-Month in Bloomington, IN (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY14020          | Housing Inventory: New Listing Count Year-Over-Year in Bloomington, IN (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA14020          | Market Hotness: Listing Views per Property in Bloomington, IN (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA14020        | Market Hotness: Listing Views per Property Versus the United States in Bloomington, IN (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA14020          | Market Hotness: Listing Views per Property in Bloomington, IN (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA14020        | Market Hotness: Median Days on Market in Bloomington, IN (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA14020          | Market Hotness: Median Days on Market in Bloomington, IN (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA14020        | Market Hotness: Median Days on Market in Bloomington, IN (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR14020          | Housing Inventory: Median Days on Market in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM14020        | Housing Inventory: Median Days on Market Month-Over-Month in Bloomington, IN (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY14020        | Housing Inventory: Median Days on Market Year-Over-Year in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI14020            | Housing Inventory: Median Listing Price in Bloomington, IN (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM14020          | Housing Inventory: Median Listing Price Month-Over-Month in Bloomington, IN (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE14020   | Housing Inventory: Median Listing Price per Square Feet in Bloomington, IN (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM14020 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Bloomington, IN (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY14020 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Bloomington, IN (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY14020          | Housing Inventory: Median Listing Price Year-Over-Year in Bloomington, IN (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA14020          | Market Hotness: Median Days on Market in Bloomington, IN (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA14020          | Market Hotness: Median Days on Market Versus the United States in Bloomington, IN (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA14020          | Market Hotness: Median Days on Market Day in Bloomington, IN (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE14020            | Housing Inventory: Median Home Size in Square Feet in Bloomington, IN (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM14020          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Bloomington, IN (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY14020          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Bloomington, IN (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA14020          | Market Hotness: Median Listing Price in Bloomington, IN (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA14020            | Market Hotness: Median Listing Price in Bloomington, IN (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA14020        | Market Hotness: Median Listing Price Versus the United States in Bloomington, IN (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA14020          | Market Hotness: Median Listing Price in Bloomington, IN (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU14020            | Housing Inventory: New Listing Count in Bloomington, IN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM14020          | Housing Inventory: New Listing Count Month-Over-Month in Bloomington, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY14020          | Housing Inventory: New Listing Count Year-Over-Year in Bloomington, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP14020                 | Total Gross Domestic Product for Bloomington, IN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA14020            | Market Hotness: Nielsen Household Rank in Bloomington, IN (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA14020            | Market Hotness: Nielsen Household Rank in Bloomington, IN (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA114020          | U.S. Granted Utility Patents Originating in Bloomington, IN (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU14020            | Housing Inventory: Pending Listing Count in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM14020          | Housing Inventory: Pending Listing Count Month-Over-Month in Bloomington, IN (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY14020          | Housing Inventory: Pending Listing Count Year-Over-Year in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU14020            | Housing Inventory: Price Increased Count in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-10-01        |
+| PENLISCOU14020            | Housing Inventory: Pending Listing Count in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM14020          | Housing Inventory: Pending Listing Count Month-Over-Month in Bloomington, IN (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY14020          | Housing Inventory: Pending Listing Count Year-Over-Year in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU14020            | Housing Inventory: Price Increased Count in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PRIINCCOUMM14020          | Housing Inventory: Price Increased Count Month-Over-Month in Bloomington, IN (CBSA)                              | 2017-07-01          | 2022-09-01        |
 | PRIINCCOUYY14020          | Housing Inventory: Price Increased Count Year-Over-Year in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU14020            | Housing Inventory: Price Reduced Count in Bloomington, IN (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM14020          | Housing Inventory: Price Reduced Count Month-Over-Month in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY14020          | Housing Inventory: Price Reduced Count Year-Over-Year in Bloomington, IN (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PRIREDCOU14020            | Housing Inventory: Price Reduced Count in Bloomington, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM14020          | Housing Inventory: Price Reduced Count Month-Over-Month in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY14020          | Housing Inventory: Price Reduced Count Year-Over-Year in Bloomington, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP14020                 | Total Quantity Indexes for Real GDP for Bloomington, IN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP14020                 | Total Real Gross Domestic Product for Bloomington, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI14010                  | Real Personal Income for Bloomington, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -168,4 +168,4 @@
 | SMU18140209093200001      | All Employees: Government: Local Government Excluding Educational Services in Bloomington, IN (MSA)              | 1990-01-01          | 2022-10-01        |
 | SMU18140209093200001A     | All Employees: Local Government Excluding Educational Services in Bloomington, IN (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU18140209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Bloomington, IN (MSA)              | 1990-01-01          | 2022-10-01        |
-| SUSCMSA14020              | Market Hotness: Supply Score in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA14020              | Market Hotness: Supply Score in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

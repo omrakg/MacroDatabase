@@ -1,13 +1,13 @@
 | id                        | title                                                                                                           | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU20740            | Housing Inventory: Active Listing Count in Eau Claire, WI (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM20740          | Housing Inventory: Active Listing Count Month-Over-Month in Eau Claire, WI (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY20740          | Housing Inventory: Active Listing Count Year-Over-Year in Eau Claire, WI (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS20740Q            | All-Transactions House Price Index for Eau Claire, WI (MSA)                                                     | 1983-04-01          | 2022-04-01        |
-| AVELISPRI20740            | Housing Inventory: Average Listing Price in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM20740          | Housing Inventory: Average Listing Price Month-Over-Month in Eau Claire, WI (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY20740          | Housing Inventory: Average Listing Price Year-Over-Year in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA20740              | Market Hotness: Demand Score in Eau Claire, WI (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU20740            | Housing Inventory: Active Listing Count in Eau Claire, WI (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM20740          | Housing Inventory: Active Listing Count Month-Over-Month in Eau Claire, WI (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY20740          | Housing Inventory: Active Listing Count Year-Over-Year in Eau Claire, WI (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS20740Q            | All-Transactions House Price Index for Eau Claire, WI (MSA)                                                     | 1983-04-01          | 2022-07-01        |
+| AVELISPRI20740            | Housing Inventory: Average Listing Price in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM20740          | Housing Inventory: Average Listing Price Month-Over-Month in Eau Claire, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY20740          | Housing Inventory: Average Listing Price Year-Over-Year in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA20740              | Market Hotness: Demand Score in Eau Claire, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | EAUC755EDUH               | All Employees: Education and Health Services in Eau Claire, WI (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | EAUC755EDUHN              | All Employees: Education and Health Services in Eau Claire, WI (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | EAUC755FIRE               | All Employees: Financial Activities in Eau Claire, WI (MSA)                                                     | 2002-01-01          | 2022-10-01        |
@@ -18,8 +18,8 @@
 | EAUC755INFON              | All Employees: Information in Eau Claire, WI (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | EAUC755LEIH               | All Employees: Leisure and Hospitality in Eau Claire, WI (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | EAUC755LEIHN              | All Employees: Leisure and Hospitality in Eau Claire, WI (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| EAUC755LF                 | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| EAUC755LFN                | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| EAUC755LF                 | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| EAUC755LFN                | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | EAUC755MFG                | All Employees: Manufacturing in Eau Claire, WI (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | EAUC755MFGN               | All Employees: Manufacturing in Eau Claire, WI (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | EAUC755NA                 | All Employees: Total Nonfarm in Eau Claire, WI (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -33,8 +33,8 @@
 | EAUC755SRVON              | All Employees: Other Services in Eau Claire, WI (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | EAUC755TRAD               | All Employees: Trade, Transportation, and Utilities in Eau Claire, WI (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | EAUC755TRADN              | All Employees: Trade, Transportation, and Utilities in Eau Claire, WI (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| EAUC755UR                 | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| EAUC755URN                | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| EAUC755UR                 | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| EAUC755URN                | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | ENUC207430010             | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC207430010SA           | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC207440010             | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -48,57 +48,57 @@
 | ENUC207440510             | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
 | ENUC207440510SA           | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
 | EVCPOP                    | Resident Population in Eau Claire, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA20740            | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA20740              | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA20740            | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA20740              | Market Hotness: Hotness Score in Eau Claire, WI (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA20740            | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA20740              | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA20740            | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA20740              | Market Hotness: Hotness Score in Eau Claire, WI (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD20740                 | Implicit Regional Price Deflator for Eau Claire, WI (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT552074000000003A     | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT552074000000004      | Unemployed Persons in Eau Claire, WI (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT552074000000004      | Unemployed Persons in Eau Claire, WI (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT552074000000004A     | Unemployed Persons in Eau Claire, WI (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT552074000000005      | Employed Persons in Eau Claire, WI (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT552074000000005      | Employed Persons in Eau Claire, WI (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT552074000000005A     | Employed Persons in Eau Claire, WI (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT552074000000006A     | Civilian Labor Force in Eau Claire, WI (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA20740          | Market Hotness: Listing Views per Property in Eau Claire, WI (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA20740        | Market Hotness: Listing Views per Property Versus the United States in Eau Claire, WI (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA20740          | Market Hotness: Listing Views per Property in Eau Claire, WI (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA20740        | Market Hotness: Median Days on Market in Eau Claire, WI (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA20740          | Market Hotness: Median Days on Market in Eau Claire, WI (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA20740        | Market Hotness: Median Days on Market in Eau Claire, WI (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR20740          | Housing Inventory: Median Days on Market in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM20740        | Housing Inventory: Median Days on Market Month-Over-Month in Eau Claire, WI (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY20740        | Housing Inventory: Median Days on Market Year-Over-Year in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI20740            | Housing Inventory: Median Listing Price in Eau Claire, WI (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM20740          | Housing Inventory: Median Listing Price Month-Over-Month in Eau Claire, WI (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE20740   | Housing Inventory: Median Listing Price per Square Feet in Eau Claire, WI (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM20740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Eau Claire, WI (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY20740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Eau Claire, WI (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY20740          | Housing Inventory: Median Listing Price Year-Over-Year in Eau Claire, WI (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA20740          | Market Hotness: Median Days on Market in Eau Claire, WI (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA20740          | Market Hotness: Median Days on Market Versus the United States in Eau Claire, WI (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA20740          | Market Hotness: Median Days on Market Day in Eau Claire, WI (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE20740            | Housing Inventory: Median Home Size in Square Feet in Eau Claire, WI (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM20740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Eau Claire, WI (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY20740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Eau Claire, WI (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA20740          | Market Hotness: Median Listing Price in Eau Claire, WI (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA20740            | Market Hotness: Median Listing Price in Eau Claire, WI (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA20740        | Market Hotness: Median Listing Price Versus the United States in Eau Claire, WI (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA20740          | Market Hotness: Median Listing Price in Eau Claire, WI (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU20740            | Housing Inventory: New Listing Count in Eau Claire, WI (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM20740          | Housing Inventory: New Listing Count Month-Over-Month in Eau Claire, WI (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY20740          | Housing Inventory: New Listing Count Year-Over-Year in Eau Claire, WI (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA20740          | Market Hotness: Listing Views per Property in Eau Claire, WI (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA20740        | Market Hotness: Listing Views per Property Versus the United States in Eau Claire, WI (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA20740          | Market Hotness: Listing Views per Property in Eau Claire, WI (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA20740        | Market Hotness: Median Days on Market in Eau Claire, WI (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA20740          | Market Hotness: Median Days on Market in Eau Claire, WI (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA20740        | Market Hotness: Median Days on Market in Eau Claire, WI (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR20740          | Housing Inventory: Median Days on Market in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM20740        | Housing Inventory: Median Days on Market Month-Over-Month in Eau Claire, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY20740        | Housing Inventory: Median Days on Market Year-Over-Year in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI20740            | Housing Inventory: Median Listing Price in Eau Claire, WI (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM20740          | Housing Inventory: Median Listing Price Month-Over-Month in Eau Claire, WI (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE20740   | Housing Inventory: Median Listing Price per Square Feet in Eau Claire, WI (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM20740 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Eau Claire, WI (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY20740 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Eau Claire, WI (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY20740          | Housing Inventory: Median Listing Price Year-Over-Year in Eau Claire, WI (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA20740          | Market Hotness: Median Days on Market in Eau Claire, WI (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA20740          | Market Hotness: Median Days on Market Versus the United States in Eau Claire, WI (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA20740          | Market Hotness: Median Days on Market Day in Eau Claire, WI (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE20740            | Housing Inventory: Median Home Size in Square Feet in Eau Claire, WI (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM20740          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Eau Claire, WI (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY20740          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Eau Claire, WI (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA20740          | Market Hotness: Median Listing Price in Eau Claire, WI (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA20740            | Market Hotness: Median Listing Price in Eau Claire, WI (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA20740        | Market Hotness: Median Listing Price Versus the United States in Eau Claire, WI (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA20740          | Market Hotness: Median Listing Price in Eau Claire, WI (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU20740            | Housing Inventory: New Listing Count in Eau Claire, WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM20740          | Housing Inventory: New Listing Count Month-Over-Month in Eau Claire, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY20740          | Housing Inventory: New Listing Count Year-Over-Year in Eau Claire, WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP20740                 | Total Gross Domestic Product for Eau Claire, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA20740            | Market Hotness: Nielsen Household Rank in Eau Claire, WI (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA20740            | Market Hotness: Nielsen Household Rank in Eau Claire, WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA120740          | U.S. Granted Utility Patents Originating in Eau Claire, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU20740            | Housing Inventory: Pending Listing Count in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM20740          | Housing Inventory: Pending Listing Count Month-Over-Month in Eau Claire, WI (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY20740          | Housing Inventory: Pending Listing Count Year-Over-Year in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU20740            | Housing Inventory: Price Increased Count in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM20740          | Housing Inventory: Price Increased Count Month-Over-Month in Eau Claire, WI (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY20740          | Housing Inventory: Price Increased Count Year-Over-Year in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU20740            | Housing Inventory: Price Reduced Count in Eau Claire, WI (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM20740          | Housing Inventory: Price Reduced Count Month-Over-Month in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY20740          | Housing Inventory: Price Reduced Count Year-Over-Year in Eau Claire, WI (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU20740            | Housing Inventory: Pending Listing Count in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM20740          | Housing Inventory: Pending Listing Count Month-Over-Month in Eau Claire, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY20740          | Housing Inventory: Pending Listing Count Year-Over-Year in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU20740            | Housing Inventory: Price Increased Count in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM20740          | Housing Inventory: Price Increased Count Month-Over-Month in Eau Claire, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY20740          | Housing Inventory: Price Increased Count Year-Over-Year in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU20740            | Housing Inventory: Price Reduced Count in Eau Claire, WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM20740          | Housing Inventory: Price Reduced Count Month-Over-Month in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY20740          | Housing Inventory: Price Reduced Count Year-Over-Year in Eau Claire, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP20740                 | Total Quantity Indexes for Real GDP for Eau Claire, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP20740                 | Total Real Gross Domestic Product for Eau Claire, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI20740                  | Real Personal Income for Eau Claire, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -155,4 +155,4 @@
 | SMU55207409093000001      | All Employees: Government: Local Government in Eau Claire, WI (MSA)                                             | 2001-01-01          | 2022-10-01        |
 | SMU55207409093000001A     | All Employees: Local Government in Eau Claire, WI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
 | SMU55207409093000001SA    | All Employees: Government: Local Government in Eau Claire, WI (MSA)                                             | 2001-01-01          | 2022-10-01        |
-| SUSCMSA20740              | Market Hotness: Supply Score in Eau Claire, WI (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA20740              | Market Hotness: Supply Score in Eau Claire, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

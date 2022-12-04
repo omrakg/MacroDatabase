@@ -1,13 +1,13 @@
 | id                        | title                                                                                                            | observation_start   | observation_end   |
 |---------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU23540            | Housing Inventory: Active Listing Count in Gainesville, FL (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM23540          | Housing Inventory: Active Listing Count Month-Over-Month in Gainesville, FL (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY23540          | Housing Inventory: Active Listing Count Year-Over-Year in Gainesville, FL (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS23540Q            | All-Transactions House Price Index for Gainesville, FL (MSA)                                                     | 1984-04-01          | 2022-04-01        |
-| AVELISPRI23540            | Housing Inventory: Average Listing Price in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM23540          | Housing Inventory: Average Listing Price Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY23540          | Housing Inventory: Average Listing Price Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| DESCMSA23540              | Market Hotness: Demand Score in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU23540            | Housing Inventory: Active Listing Count in Gainesville, FL (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM23540          | Housing Inventory: Active Listing Count Month-Over-Month in Gainesville, FL (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY23540          | Housing Inventory: Active Listing Count Year-Over-Year in Gainesville, FL (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS23540Q            | All-Transactions House Price Index for Gainesville, FL (MSA)                                                     | 1984-04-01          | 2022-07-01        |
+| AVELISPRI23540            | Housing Inventory: Average Listing Price in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM23540          | Housing Inventory: Average Listing Price Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY23540          | Housing Inventory: Average Listing Price Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| DESCMSA23540              | Market Hotness: Demand Score in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | ENUC235430010             | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC235430010SA           | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
 | ENUC235440010             | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
@@ -30,8 +30,8 @@
 | GAIN512INFON              | All Employees: Information in Gainesville, FL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | GAIN512LEIH               | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
 | GAIN512LEIHN              | All Employees: Leisure and Hospitality in Gainesville, FL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| GAIN512LF                 | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
-| GAIN512LFN                | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| GAIN512LF                 | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
+| GAIN512LFN                | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | GAIN512MFG                | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | GAIN512MFGN               | All Employees: Manufacturing in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | GAIN512NA                 | All Employees: Total Nonfarm in Gainesville, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -45,61 +45,61 @@
 | GAIN512SRVON              | All Employees: Other Services in Gainesville, FL (MSA)                                                           | 1990-01-01          | 2022-10-01        |
 | GAIN512TRAD               | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | GAIN512TRADN              | All Employees: Trade, Transportation, and Utilities in Gainesville, FL (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| GAIN512UR                 | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
-| GAIN512URN                | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| GAIN512UR                 | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
+| GAIN512URN                | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | GVLPOP                    | Resident Population in Gainesville, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| HORAMMMSA23540            | Market Hotness: Hotness Rank in Gainesville, FL (CBSA)                                                           | 2017-09-01          | 2022-10-01        |
-| HORAMSA23540              | Market Hotness: Hotness Rank in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA23540            | Market Hotness: Hotness Rank in Gainesville, FL (CBSA)                                                           | 2018-08-01          | 2022-10-01        |
-| HOSCMSA23540              | Market Hotness: Hotness Score in Gainesville, FL (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA23540            | Market Hotness: Hotness Rank in Gainesville, FL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
+| HORAMSA23540              | Market Hotness: Hotness Rank in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA23540            | Market Hotness: Hotness Rank in Gainesville, FL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
+| HOSCMSA23540              | Market Hotness: Hotness Score in Gainesville, FL (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD23540                 | Implicit Regional Price Deflator for Gainesville, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | IRPD23580                 | Implicit Regional Price Deflator for Gainesville, GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT122354000000003A     | Unemployment Rate in Gainesville, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT122354000000004      | Unemployed Persons in Gainesville, FL (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT122354000000004      | Unemployed Persons in Gainesville, FL (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT122354000000004A     | Unemployed Persons in Gainesville, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT122354000000005      | Employed Persons in Gainesville, FL (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT122354000000005      | Employed Persons in Gainesville, FL (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT122354000000005A     | Employed Persons in Gainesville, FL (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT122354000000006A     | Civilian Labor Force in Gainesville, FL (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA23540          | Market Hotness: Listing Views per Property in Gainesville, FL (CBSA)                                             | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA23540        | Market Hotness: Listing Views per Property Versus the United States in Gainesville, FL (CBSA)                    | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA23540          | Market Hotness: Listing Views per Property in Gainesville, FL (CBSA)                                             | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA23540        | Market Hotness: Median Days on Market in Gainesville, FL (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA23540          | Market Hotness: Median Days on Market in Gainesville, FL (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA23540        | Market Hotness: Median Days on Market in Gainesville, FL (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR23540          | Housing Inventory: Median Days on Market in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM23540        | Housing Inventory: Median Days on Market Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY23540        | Housing Inventory: Median Days on Market Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI23540            | Housing Inventory: Median Listing Price in Gainesville, FL (CBSA)                                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM23540          | Housing Inventory: Median Listing Price Month-Over-Month in Gainesville, FL (CBSA)                               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE23540   | Housing Inventory: Median Listing Price per Square Feet in Gainesville, FL (CBSA)                                | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM23540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Gainesville, FL (CBSA)               | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY23540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Gainesville, FL (CBSA)                 | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY23540          | Housing Inventory: Median Listing Price Year-Over-Year in Gainesville, FL (CBSA)                                 | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA23540          | Market Hotness: Median Days on Market in Gainesville, FL (CBSA)                                                  | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA23540          | Market Hotness: Median Days on Market Versus the United States in Gainesville, FL (CBSA)                         | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA23540          | Market Hotness: Median Days on Market Day in Gainesville, FL (CBSA)                                              | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE23540            | Housing Inventory: Median Home Size in Square Feet in Gainesville, FL (CBSA)                                     | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM23540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Gainesville, FL (CBSA)                    | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY23540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Gainesville, FL (CBSA)                      | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA23540          | Market Hotness: Median Listing Price in Gainesville, FL (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA23540            | Market Hotness: Median Listing Price in Gainesville, FL (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA23540        | Market Hotness: Median Listing Price Versus the United States in Gainesville, FL (CBSA)                          | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA23540          | Market Hotness: Median Listing Price in Gainesville, FL (CBSA)                                                   | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU23540            | Housing Inventory: New Listing Count in Gainesville, FL (CBSA)                                                   | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM23540          | Housing Inventory: New Listing Count Month-Over-Month in Gainesville, FL (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY23540          | Housing Inventory: New Listing Count Year-Over-Year in Gainesville, FL (CBSA)                                    | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA23540          | Market Hotness: Listing Views per Property in Gainesville, FL (CBSA)                                             | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA23540        | Market Hotness: Listing Views per Property Versus the United States in Gainesville, FL (CBSA)                    | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA23540          | Market Hotness: Listing Views per Property in Gainesville, FL (CBSA)                                             | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA23540        | Market Hotness: Median Days on Market in Gainesville, FL (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA23540          | Market Hotness: Median Days on Market in Gainesville, FL (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA23540        | Market Hotness: Median Days on Market in Gainesville, FL (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR23540          | Housing Inventory: Median Days on Market in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM23540        | Housing Inventory: Median Days on Market Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY23540        | Housing Inventory: Median Days on Market Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI23540            | Housing Inventory: Median Listing Price in Gainesville, FL (CBSA)                                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM23540          | Housing Inventory: Median Listing Price Month-Over-Month in Gainesville, FL (CBSA)                               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE23540   | Housing Inventory: Median Listing Price per Square Feet in Gainesville, FL (CBSA)                                | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM23540 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Gainesville, FL (CBSA)               | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY23540 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Gainesville, FL (CBSA)                 | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY23540          | Housing Inventory: Median Listing Price Year-Over-Year in Gainesville, FL (CBSA)                                 | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA23540          | Market Hotness: Median Days on Market in Gainesville, FL (CBSA)                                                  | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA23540          | Market Hotness: Median Days on Market Versus the United States in Gainesville, FL (CBSA)                         | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA23540          | Market Hotness: Median Days on Market Day in Gainesville, FL (CBSA)                                              | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE23540            | Housing Inventory: Median Home Size in Square Feet in Gainesville, FL (CBSA)                                     | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM23540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Gainesville, FL (CBSA)                    | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY23540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Gainesville, FL (CBSA)                      | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA23540          | Market Hotness: Median Listing Price in Gainesville, FL (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA23540            | Market Hotness: Median Listing Price in Gainesville, FL (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA23540        | Market Hotness: Median Listing Price Versus the United States in Gainesville, FL (CBSA)                          | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA23540          | Market Hotness: Median Listing Price in Gainesville, FL (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU23540            | Housing Inventory: New Listing Count in Gainesville, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM23540          | Housing Inventory: New Listing Count Month-Over-Month in Gainesville, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY23540          | Housing Inventory: New Listing Count Year-Over-Year in Gainesville, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NGMP23540                 | Total Gross Domestic Product for Gainesville, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA23540            | Market Hotness: Nielsen Household Rank in Gainesville, FL (CBSA)                                                 | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA23540            | Market Hotness: Nielsen Household Rank in Gainesville, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA123540          | U.S. Granted Utility Patents Originating in Gainesville, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
-| PENLISCOU23540            | Housing Inventory: Pending Listing Count in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PENLISCOUMM23540          | Housing Inventory: Pending Listing Count Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY23540          | Housing Inventory: Pending Listing Count Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIINCCOU23540            | Housing Inventory: Price Increased Count in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM23540          | Housing Inventory: Price Increased Count Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY23540          | Housing Inventory: Price Increased Count Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU23540            | Housing Inventory: Price Reduced Count in Gainesville, FL (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM23540          | Housing Inventory: Price Reduced Count Month-Over-Month in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY23540          | Housing Inventory: Price Reduced Count Year-Over-Year in Gainesville, FL (CBSA)                                  | 2017-07-01          | 2022-10-01        |
+| PENLISCOU23540            | Housing Inventory: Pending Listing Count in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PENLISCOUMM23540          | Housing Inventory: Pending Listing Count Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY23540          | Housing Inventory: Pending Listing Count Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIINCCOU23540            | Housing Inventory: Price Increased Count in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM23540          | Housing Inventory: Price Increased Count Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY23540          | Housing Inventory: Price Increased Count Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU23540            | Housing Inventory: Price Reduced Count in Gainesville, FL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM23540          | Housing Inventory: Price Reduced Count Month-Over-Month in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY23540          | Housing Inventory: Price Reduced Count Year-Over-Year in Gainesville, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP23540                 | Total Quantity Indexes for Real GDP for Gainesville, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
 | RGMP23540                 | Total Real Gross Domestic Product for Gainesville, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
 | RPI23540                  | Real Personal Income for Gainesville, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
@@ -162,4 +162,4 @@
 | SMU12235409093000001      | All Employees: Government: Local Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-10-01        |
 | SMU12235409093000001A     | All Employees: Local Government in Gainesville, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | SMU12235409093000001SA    | All Employees: Government: Local Government in Gainesville, FL (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| SUSCMSA23540              | Market Hotness: Supply Score in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-10-01        |
+| SUSCMSA23540              | Market Hotness: Supply Score in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

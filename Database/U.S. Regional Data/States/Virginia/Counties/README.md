@@ -4,7 +4,7 @@
 | Campbell County + Lynchburg City, VA                |                12 |
 | Williamsburg City, VA                               |                79 |
 | Nottoway County, VA                                 |                90 |
-| Portsmouth City, VA                                 |                 0 |
+| Portsmouth City, VA                                 |               146 |
 | Northumberland County, VA                           |                90 |
 | Winchester City, VA                                 |                79 |
 | Bedford County, VA                                  |               147 |
@@ -59,7 +59,7 @@
 | Northampton County, VA                              |                90 |
 | Mecklenburg County, VA                              |                90 |
 | York County, VA                                     |               137 |
-| Fairfax, Fairfax City + Falls Church County, VA     |                10 |
+| Fairfax, Fairfax City + Falls Church County, VA     |                 0 |
 | Powhatan County, VA                                 |                90 |
 | Albemarle County, VA                                |               137 |
 | Campbell County, VA                                 |               136 |
@@ -70,7 +70,7 @@
 | Appomattox County, VA                               |                89 |
 | Roanoke County + Salem City, VA                     |                12 |
 | Bland County, VA                                    |                89 |
-| Prince Edward County, VA                            |                 0 |
+| Prince Edward County, VA                            |                90 |
 | Accomack County, VA                                 |                90 |
 | Henry County, VA                                    |               136 |
 | Stafford County, VA                                 |               147 |
@@ -119,7 +119,7 @@
 | Richmond City, VA                                   |               146 |
 | Bath County, VA                                     |                89 |
 | Scott County, VA                                    |                88 |
-| Frederick County + Winchester City, VA              |                12 |
+| Frederick County + Winchester City, VA              |                 0 |
 | Rockingham County, VA                               |               137 |
 | Page County, VA                                     |                90 |
 | Washington County, VA                               |               136 |
@@ -130,7 +130,7 @@
 | Westmoreland County, VA                             |                90 |
 | Isle of Wight County, VA                            |                90 |
 | Pittsylvania County, VA                             |               136 |
-| Southampton County, VA                              |                 0 |
+| Southampton County, VA                              |                80 |
 | Montgomery County + Radford City, VA                |                12 |
 | Cumberland County, VA                               |                90 |
 | James City County, VA                               |               137 |

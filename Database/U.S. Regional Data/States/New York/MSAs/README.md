@@ -1,7 +1,7 @@
 | Folder                                |   Files / Folders |
 |---------------------------------------|-------------------|
 | Poughkeepsie-Newburgh-Middletown, NY  |                 9 |
-| Watertown-Fort Drum, NY               |                 0 |
+| Watertown-Fort Drum, NY               |                86 |
 | Rochester, NY                         |               234 |
 | Kingston, NY                          |               161 |
 | Utica-Rome, NY                        |               164 |

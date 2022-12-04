@@ -1,6 +1,6 @@
 | id                     | title                                                                                                                                                 | observation_start   | observation_end   |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS35084Q         | All-Transactions House Price Index for Newark, NJ-PA (MSAD)                                                                                           | 1976-07-01          | 2022-04-01        |
+| ATNHPIUS35084Q         | All-Transactions House Price Index for Newark, NJ-PA (MSAD)                                                                                           | 1976-07-01          | 2022-07-01        |
 | SMS34350840000000001   | All Employees: Total Nonfarm in Newark, NJ-PA (MD)                                                                                                    | 1990-01-01          | 2022-10-01        |
 | SMS34350840000000026   | All Employees: Total Nonfarm in Newark, NJ-PA (MD)                                                                                                    | 1990-04-01          | 2022-10-01        |
 | SMU34350840000000001   | All Employees: Total Nonfarm in Newark, NJ-PA (MD)                                                                                                    | 1990-01-01          | 2022-10-01        |

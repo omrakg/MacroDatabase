@@ -8,7 +8,7 @@
 | Dawson County, MT          |                89 |
 | Madison County, MT         |                90 |
 | Carter County, MT          |                86 |
-| Gallatin County, MT        |               147 |
+| Gallatin County, MT        |                 0 |
 | Broadwater County, MT      |                89 |
 | Richland County, MT        |                89 |
 | Ravalli County, MT         |                90 |
@@ -39,7 +39,7 @@
 | Powder River County, MT    |                86 |
 | Missoula County, MT        |               147 |
 | Golden Valley County, MT   |                87 |
-| Treasure County, MT        |                 0 |
+| Treasure County, MT        |                85 |
 | Glacier County, MT         |                90 |
 | Meagher County, MT         |                87 |
 | Yellowstone County, MT     |               147 |

@@ -78,7 +78,7 @@
 | QESR628BIS | Real Residential Property Prices for Spain                          | 1971-01-01          | 2022-04-01        |
 | QFIN368BIS | Residential Property Prices for Finland                             | 1971-01-01          | 2022-04-01        |
 | QFIN628BIS | Residential Property Prices for Finland                             | 1970-01-01          | 2022-04-01        |
-| QFIR368BIS | Real Residential Property Prices for Finland                        | 1971-01-01          | 2022-01-01        |
+| QFIR368BIS | Real Residential Property Prices for Finland                        | 1971-01-01          | 2022-04-01        |
 | QFIR628BIS | Real Residential Property Prices for Finland                        | 1970-01-01          | 2022-04-01        |
 | QFRN368BIS | Residential Property Prices for France                              | 1971-01-01          | 2022-04-01        |
 | QFRN628BIS | Residential Property Prices for France                              | 1970-01-01          | 2022-04-01        |

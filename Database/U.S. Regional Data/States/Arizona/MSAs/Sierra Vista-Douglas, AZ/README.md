@@ -1,6 +1,6 @@
 | id                     | title                                                                                                     | observation_start   | observation_end   |
 |------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ATNHPIUS43420Q         | All-Transactions House Price Index for Sierra Vista-Douglas, AZ (MSA)                                     | 1992-04-01          | 2022-04-01        |
+| ATNHPIUS43420Q         | All-Transactions House Price Index for Sierra Vista-Douglas, AZ (MSA)                                     | 1992-04-01          | 2022-07-01        |
 | ENUC434230010          | Total Quarterly Wages in Sierra Vista-Douglas, AZ (MSA)                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC434230010SA        | Total Quarterly Wages in Sierra Vista-Douglas, AZ (MSA)                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC434240010          | Average Weekly Wages for Employees in Total Covered Establishments in Sierra Vista-Douglas, AZ (MSA)      | 2013-01-01          | 2022-01-01        |
@@ -14,13 +14,13 @@
 | ENUC434240510          | Average Weekly Wages for Employees in Private Establishments in Sierra Vista-Douglas, AZ (MSA)            | 2013-01-01          | 2022-01-01        |
 | ENUC434240510SA        | Average Weekly Wages for Employees in Private Establishments in Sierra Vista-Douglas, AZ (MSA)            | 2013-01-01          | 2022-01-01        |
 | IRPD43420              | Implicit Regional Price Deflator for Sierra Vista-Douglas, AZ (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT044342000000003   | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2022-09-01        |
+| LAUMT044342000000003   | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT044342000000003A  | Unemployment Rate in Sierra Vista-Douglas, AZ (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT044342000000004   | Unemployed Persons in Sierra Vista-Douglas, AZ (MSA)                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT044342000000004   | Unemployed Persons in Sierra Vista-Douglas, AZ (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT044342000000004A  | Unemployed Persons in Sierra Vista-Douglas, AZ (MSA)                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT044342000000005   | Employed Persons in Sierra Vista-Douglas, AZ (MSA)                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT044342000000005   | Employed Persons in Sierra Vista-Douglas, AZ (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT044342000000005A  | Employed Persons in Sierra Vista-Douglas, AZ (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT044342000000006   | Civilian Labor Force in Sierra Vista-Douglas, AZ (MSA)                                                    | 1990-01-01          | 2022-09-01        |
+| LAUMT044342000000006   | Civilian Labor Force in Sierra Vista-Douglas, AZ (MSA)                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT044342000000006A  | Civilian Labor Force in Sierra Vista-Douglas, AZ (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP43420              | Total Gross Domestic Product for Sierra Vista-Douglas, AZ (MSA)                                           | 2001-01-01          | 2020-01-01        |
 | QGMP43420              | Total Quantity Indexes for Real GDP for Sierra Vista-Douglas, AZ (MSA)                                    | 2001-01-01          | 2020-01-01        |

@@ -1,13 +1,13 @@
 | id                        | title                                                                                                                       | observation_start   | observation_end   |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ACTLISCOU26620            | Housing Inventory: Active Listing Count in Huntsville, AL (CBSA)                                                            | 2016-07-01          | 2022-10-01        |
-| ACTLISCOUMM26620          | Housing Inventory: Active Listing Count Month-Over-Month in Huntsville, AL (CBSA)                                           | 2017-07-01          | 2022-10-01        |
-| ACTLISCOUYY26620          | Housing Inventory: Active Listing Count Year-Over-Year in Huntsville, AL (CBSA)                                             | 2017-07-01          | 2022-10-01        |
-| ATNHPIUS26620Q            | All-Transactions House Price Index for Huntsville, AL (MSA)                                                                 | 1984-10-01          | 2022-04-01        |
-| AVELISPRI26620            | Housing Inventory: Average Listing Price in Huntsville, AL (CBSA)                                                           | 2016-07-01          | 2022-10-01        |
-| AVELISPRIMM26620          | Housing Inventory: Average Listing Price Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-10-01        |
-| AVELISPRIYY26620          | Housing Inventory: Average Listing Price Year-Over-Year in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| DESCMSA26620              | Market Hotness: Demand Score in Huntsville, AL (CBSA)                                                                       | 2017-08-01          | 2022-10-01        |
+| ACTLISCOU26620            | Housing Inventory: Active Listing Count in Huntsville, AL (CBSA)                                                            | 2016-07-01          | 2022-11-01        |
+| ACTLISCOUMM26620          | Housing Inventory: Active Listing Count Month-Over-Month in Huntsville, AL (CBSA)                                           | 2017-07-01          | 2022-11-01        |
+| ACTLISCOUYY26620          | Housing Inventory: Active Listing Count Year-Over-Year in Huntsville, AL (CBSA)                                             | 2017-07-01          | 2022-11-01        |
+| ATNHPIUS26620Q            | All-Transactions House Price Index for Huntsville, AL (MSA)                                                                 | 1984-10-01          | 2022-07-01        |
+| AVELISPRI26620            | Housing Inventory: Average Listing Price in Huntsville, AL (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
+| AVELISPRIMM26620          | Housing Inventory: Average Listing Price Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-11-01        |
+| AVELISPRIYY26620          | Housing Inventory: Average Listing Price Year-Over-Year in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| DESCMSA26620              | Market Hotness: Demand Score in Huntsville, AL (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
 | ENUC266230010             | Total Quarterly Wages in Huntsville, AL (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
 | ENUC266230010SA           | Total Quarterly Wages in Huntsville, AL (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
 | ENUC266240010             | Average Weekly Wages for Employees in Total Covered Establishments in Huntsville, AL (MSA)                                  | 1990-01-01          | 2022-01-01        |
@@ -20,10 +20,10 @@
 | ENUC266240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Huntsville, AL (MSA)                               | 1990-01-01          | 2022-01-01        |
 | ENUC266240510             | Average Weekly Wages for Employees in Private Establishments in Huntsville, AL (MSA)                                        | 1990-01-01          | 2022-01-01        |
 | ENUC266240510SA           | Average Weekly Wages for Employees in Private Establishments in Huntsville, AL (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| HORAMMMSA26620            | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2017-09-01          | 2022-10-01        |
-| HORAMSA26620              | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2017-08-01          | 2022-10-01        |
-| HORAYYMSA26620            | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2018-08-01          | 2022-10-01        |
-| HOSCMSA26620              | Market Hotness: Hotness Score in Huntsville, AL (CBSA)                                                                      | 2017-08-01          | 2022-10-01        |
+| HORAMMMSA26620            | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2017-09-01          | 2022-11-01        |
+| HORAMSA26620              | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
+| HORAYYMSA26620            | Market Hotness: Hotness Rank in Huntsville, AL (CBSA)                                                                       | 2018-08-01          | 2022-11-01        |
+| HOSCMSA26620              | Market Hotness: Hotness Score in Huntsville, AL (CBSA)                                                                      | 2017-08-01          | 2022-11-01        |
 | HUNPOP                    | Resident Population in Huntsville, AL (MSA)                                                                                 | 2000-01-01          | 2021-01-01        |
 | HUNT601EDUH               | All Employees: Education and Health Services in Huntsville, AL (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | HUNT601EDUHN              | All Employees: Education and Health Services in Huntsville, AL (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -35,8 +35,8 @@
 | HUNT601INFON              | All Employees: Information in Huntsville, AL (MSA)                                                                          | 1990-01-01          | 2022-10-01        |
 | HUNT601LEIH               | All Employees: Leisure and Hospitality in Huntsville, AL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
 | HUNT601LEIHN              | All Employees: Leisure and Hospitality in Huntsville, AL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| HUNT601LF                 | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
-| HUNT601LFN                | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2022-09-01        |
+| HUNT601LF                 | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2022-10-01        |
+| HUNT601LFN                | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2022-10-01        |
 | HUNT601MFG                | All Employees: Manufacturing in Huntsville, AL (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | HUNT601MFGN               | All Employees: Manufacturing in Huntsville, AL (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | HUNT601NA                 | All Employees: Total Nonfarm in Huntsville, AL (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
@@ -50,55 +50,55 @@
 | HUNT601SRVON              | All Employees: Other Services in Huntsville, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | HUNT601TRAD               | All Employees: Trade, Transportation, and Utilities in Huntsville, AL (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | HUNT601TRADN              | All Employees: Trade, Transportation, and Utilities in Huntsville, AL (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| HUNT601UR                 | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
-| HUNT601URN                | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2022-09-01        |
+| HUNT601UR                 | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2022-10-01        |
+| HUNT601URN                | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2022-10-01        |
 | IRPD26620                 | Implicit Regional Price Deflator for Huntsville, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT012662000000003A     | Unemployment Rate in Huntsville, AL (MSA)                                                                                   | 1990-01-01          | 2021-01-01        |
-| LAUMT012662000000004      | Unemployed Persons in Huntsville, AL (MSA)                                                                                  | 1990-01-01          | 2022-09-01        |
+| LAUMT012662000000004      | Unemployed Persons in Huntsville, AL (MSA)                                                                                  | 1990-01-01          | 2022-10-01        |
 | LAUMT012662000000004A     | Unemployed Persons in Huntsville, AL (MSA)                                                                                  | 1990-01-01          | 2021-01-01        |
-| LAUMT012662000000005      | Employed Persons in Huntsville, AL (MSA)                                                                                    | 1990-01-01          | 2022-09-01        |
+| LAUMT012662000000005      | Employed Persons in Huntsville, AL (MSA)                                                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT012662000000005A     | Employed Persons in Huntsville, AL (MSA)                                                                                    | 1990-01-01          | 2021-01-01        |
 | LAUMT012662000000006A     | Civilian Labor Force in Huntsville, AL (MSA)                                                                                | 1990-01-01          | 2021-01-01        |
-| LDPEPRMMMSA26620          | Market Hotness: Listing Views per Property in Huntsville, AL (CBSA)                                                         | 2017-09-01          | 2022-10-01        |
-| LDPEPRVSUSMSA26620        | Market Hotness: Listing Views per Property Versus the United States in Huntsville, AL (CBSA)                                | 2017-08-01          | 2022-10-01        |
-| LDPEPRYYMSA26620          | Market Hotness: Listing Views per Property in Huntsville, AL (CBSA)                                                         | 2018-08-01          | 2022-10-01        |
-| MEDAONMAMMMSA26620        | Market Hotness: Median Days on Market in Huntsville, AL (CBSA)                                                              | 2017-08-01          | 2022-10-01        |
-| MEDAONMAMSA26620          | Market Hotness: Median Days on Market in Huntsville, AL (CBSA)                                                              | 2017-08-01          | 2022-10-01        |
-| MEDAONMAYYMSA26620        | Market Hotness: Median Days on Market in Huntsville, AL (CBSA)                                                              | 2017-08-01          | 2022-10-01        |
-| MEDDAYONMAR26620          | Housing Inventory: Median Days on Market in Huntsville, AL (CBSA)                                                           | 2016-07-01          | 2022-10-01        |
-| MEDDAYONMARMM26620        | Housing Inventory: Median Days on Market Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-10-01        |
-| MEDDAYONMARYY26620        | Housing Inventory: Median Days on Market Year-Over-Year in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| MEDLISPRI26620            | Housing Inventory: Median Listing Price in Huntsville, AL (CBSA)                                                            | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIMM26620          | Housing Inventory: Median Listing Price Month-Over-Month in Huntsville, AL (CBSA)                                           | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEE26620   | Housing Inventory: Median Listing Price per Square Feet in Huntsville, AL (CBSA)                                            | 2016-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEMM26620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Huntsville, AL (CBSA)                           | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIPERSQUFEEYY26620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Huntsville, AL (CBSA)                             | 2017-07-01          | 2022-10-01        |
-| MEDLISPRIYY26620          | Housing Inventory: Median Listing Price Year-Over-Year in Huntsville, AL (CBSA)                                             | 2017-07-01          | 2022-10-01        |
-| MEDOMMDAMSA26620          | Market Hotness: Median Days on Market in Huntsville, AL (CBSA)                                                              | 2017-08-01          | 2022-10-01        |
-| MEDOVSUSMSA26620          | Market Hotness: Median Days on Market Versus the United States in Huntsville, AL (CBSA)                                     | 2017-08-01          | 2022-10-01        |
-| MEDOYYDAMSA26620          | Market Hotness: Median Days on Market Day in Huntsville, AL (CBSA)                                                          | 2017-08-01          | 2022-10-01        |
-| MEDSQUFEE26620            | Housing Inventory: Median Home Size in Square Feet in Huntsville, AL (CBSA)                                                 | 2016-07-01          | 2022-10-01        |
-| MEDSQUFEEMM26620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Huntsville, AL (CBSA)                                | 2017-07-01          | 2022-10-01        |
-| MEDSQUFEEYY26620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Huntsville, AL (CBSA)                                  | 2017-07-01          | 2022-10-01        |
-| MELIPRMMMSA26620          | Market Hotness: Median Listing Price in Huntsville, AL (CBSA)                                                               | 2017-08-01          | 2022-10-01        |
-| MELIPRMSA26620            | Market Hotness: Median Listing Price in Huntsville, AL (CBSA)                                                               | 2017-08-01          | 2022-10-01        |
-| MELIPRVSUSMSA26620        | Market Hotness: Median Listing Price Versus the United States in Huntsville, AL (CBSA)                                      | 2017-08-01          | 2022-10-01        |
-| MELIPRYYMSA26620          | Market Hotness: Median Listing Price in Huntsville, AL (CBSA)                                                               | 2017-08-01          | 2022-10-01        |
-| NEWLISCOU26620            | Housing Inventory: New Listing Count in Huntsville, AL (CBSA)                                                               | 2016-07-01          | 2022-10-01        |
-| NEWLISCOUMM26620          | Housing Inventory: New Listing Count Month-Over-Month in Huntsville, AL (CBSA)                                              | 2017-07-01          | 2022-10-01        |
-| NEWLISCOUYY26620          | Housing Inventory: New Listing Count Year-Over-Year in Huntsville, AL (CBSA)                                                | 2017-07-01          | 2022-10-01        |
+| LDPEPRMMMSA26620          | Market Hotness: Listing Views per Property in Huntsville, AL (CBSA)                                                         | 2017-09-01          | 2022-11-01        |
+| LDPEPRVSUSMSA26620        | Market Hotness: Listing Views per Property Versus the United States in Huntsville, AL (CBSA)                                | 2017-08-01          | 2022-11-01        |
+| LDPEPRYYMSA26620          | Market Hotness: Listing Views per Property in Huntsville, AL (CBSA)                                                         | 2018-08-01          | 2022-11-01        |
+| MEDAONMAMMMSA26620        | Market Hotness: Median Days on Market in Huntsville, AL (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
+| MEDAONMAMSA26620          | Market Hotness: Median Days on Market in Huntsville, AL (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
+| MEDAONMAYYMSA26620        | Market Hotness: Median Days on Market in Huntsville, AL (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
+| MEDDAYONMAR26620          | Housing Inventory: Median Days on Market in Huntsville, AL (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
+| MEDDAYONMARMM26620        | Housing Inventory: Median Days on Market Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-11-01        |
+| MEDDAYONMARYY26620        | Housing Inventory: Median Days on Market Year-Over-Year in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| MEDLISPRI26620            | Housing Inventory: Median Listing Price in Huntsville, AL (CBSA)                                                            | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIMM26620          | Housing Inventory: Median Listing Price Month-Over-Month in Huntsville, AL (CBSA)                                           | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEE26620   | Housing Inventory: Median Listing Price per Square Feet in Huntsville, AL (CBSA)                                            | 2016-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEMM26620 | Housing Inventory: Median Listing Price per Square Feet Month-Over-Month in Huntsville, AL (CBSA)                           | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIPERSQUFEEYY26620 | Housing Inventory: Median Listing Price per Square Feet Year-Over-Year in Huntsville, AL (CBSA)                             | 2017-07-01          | 2022-11-01        |
+| MEDLISPRIYY26620          | Housing Inventory: Median Listing Price Year-Over-Year in Huntsville, AL (CBSA)                                             | 2017-07-01          | 2022-11-01        |
+| MEDOMMDAMSA26620          | Market Hotness: Median Days on Market in Huntsville, AL (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
+| MEDOVSUSMSA26620          | Market Hotness: Median Days on Market Versus the United States in Huntsville, AL (CBSA)                                     | 2017-08-01          | 2022-11-01        |
+| MEDOYYDAMSA26620          | Market Hotness: Median Days on Market Day in Huntsville, AL (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
+| MEDSQUFEE26620            | Housing Inventory: Median Home Size in Square Feet in Huntsville, AL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
+| MEDSQUFEEMM26620          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Huntsville, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
+| MEDSQUFEEYY26620          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Huntsville, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
+| MELIPRMMMSA26620          | Market Hotness: Median Listing Price in Huntsville, AL (CBSA)                                                               | 2017-08-01          | 2022-11-01        |
+| MELIPRMSA26620            | Market Hotness: Median Listing Price in Huntsville, AL (CBSA)                                                               | 2017-08-01          | 2022-11-01        |
+| MELIPRVSUSMSA26620        | Market Hotness: Median Listing Price Versus the United States in Huntsville, AL (CBSA)                                      | 2017-08-01          | 2022-11-01        |
+| MELIPRYYMSA26620          | Market Hotness: Median Listing Price in Huntsville, AL (CBSA)                                                               | 2017-08-01          | 2022-11-01        |
+| NEWLISCOU26620            | Housing Inventory: New Listing Count in Huntsville, AL (CBSA)                                                               | 2016-07-01          | 2022-11-01        |
+| NEWLISCOUMM26620          | Housing Inventory: New Listing Count Month-Over-Month in Huntsville, AL (CBSA)                                              | 2017-07-01          | 2022-11-01        |
+| NEWLISCOUYY26620          | Housing Inventory: New Listing Count Year-Over-Year in Huntsville, AL (CBSA)                                                | 2017-07-01          | 2022-11-01        |
 | NGMP26620                 | Total Gross Domestic Product for Huntsville, AL (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
-| NIHHRAMSA26620            | Market Hotness: Nielsen Household Rank in Huntsville, AL (CBSA)                                                             | 2017-08-01          | 2022-10-01        |
+| NIHHRAMSA26620            | Market Hotness: Nielsen Household Rank in Huntsville, AL (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA126620          | U.S. Granted Utility Patents Originating in Huntsville, AL (MSA)                                                            | 2000-01-01          | 2015-01-01        |
-| PENLISCOU26620            | Housing Inventory: Pending Listing Count in Huntsville, AL (CBSA)                                                           | 2017-01-01          | 2022-10-01        |
-| PENLISCOUMM26620          | Housing Inventory: Pending Listing Count Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-10-01        |
-| PENLISCOUYY26620          | Housing Inventory: Pending Listing Count Year-Over-Year in Huntsville, AL (CBSA)                                            | 2018-01-01          | 2022-10-01        |
-| PRIINCCOU26620            | Housing Inventory: Price Increased Count in Huntsville, AL (CBSA)                                                           | 2016-07-01          | 2022-10-01        |
-| PRIINCCOUMM26620          | Housing Inventory: Price Increased Count Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-10-01        |
-| PRIINCCOUYY26620          | Housing Inventory: Price Increased Count Year-Over-Year in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| PRIREDCOU26620            | Housing Inventory: Price Reduced Count in Huntsville, AL (CBSA)                                                             | 2016-07-01          | 2022-10-01        |
-| PRIREDCOUMM26620          | Housing Inventory: Price Reduced Count Month-Over-Month in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-10-01        |
-| PRIREDCOUYY26620          | Housing Inventory: Price Reduced Count Year-Over-Year in Huntsville, AL (CBSA)                                              | 2017-07-01          | 2022-10-01        |
+| PENLISCOU26620            | Housing Inventory: Pending Listing Count in Huntsville, AL (CBSA)                                                           | 2017-01-01          | 2022-11-01        |
+| PENLISCOUMM26620          | Housing Inventory: Pending Listing Count Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-11-01        |
+| PENLISCOUYY26620          | Housing Inventory: Pending Listing Count Year-Over-Year in Huntsville, AL (CBSA)                                            | 2018-01-01          | 2022-11-01        |
+| PRIINCCOU26620            | Housing Inventory: Price Increased Count in Huntsville, AL (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
+| PRIINCCOUMM26620          | Housing Inventory: Price Increased Count Month-Over-Month in Huntsville, AL (CBSA)                                          | 2017-07-01          | 2022-11-01        |
+| PRIINCCOUYY26620          | Housing Inventory: Price Increased Count Year-Over-Year in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| PRIREDCOU26620            | Housing Inventory: Price Reduced Count in Huntsville, AL (CBSA)                                                             | 2016-07-01          | 2022-11-01        |
+| PRIREDCOUMM26620          | Housing Inventory: Price Reduced Count Month-Over-Month in Huntsville, AL (CBSA)                                            | 2017-07-01          | 2022-11-01        |
+| PRIREDCOUYY26620          | Housing Inventory: Price Reduced Count Year-Over-Year in Huntsville, AL (CBSA)                                              | 2017-07-01          | 2022-11-01        |
 | QGMP26620                 | Total Quantity Indexes for Real GDP for Huntsville, AL (MSA)                                                                | 2001-01-01          | 2020-01-01        |
 | RGMP26620                 | Total Real Gross Domestic Product for Huntsville, AL (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
 | RPI26620                  | Real Personal Income for Huntsville, AL (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
@@ -176,4 +176,4 @@
 | SMU01266209093000001      | All Employees: Government: Local Government in Huntsville, AL (MSA)                                                         | 2001-01-01          | 2022-10-01        |
 | SMU01266209093000001A     | All Employees: Local Government in Huntsville, AL (MSA)                                                                     | 2001-01-01          | 2021-01-01        |
 | SMU01266209093000001SA    | All Employees: Government: Local Government in Huntsville, AL (MSA)                                                         | 2001-01-01          | 2022-10-01        |
-| SUSCMSA26620              | Market Hotness: Supply Score in Huntsville, AL (CBSA)                                                                       | 2017-08-01          | 2022-10-01        |
+| SUSCMSA26620              | Market Hotness: Supply Score in Huntsville, AL (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |

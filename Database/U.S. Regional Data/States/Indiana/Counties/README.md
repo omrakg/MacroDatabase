@@ -39,7 +39,7 @@
 | Elkhart County, IN     |               147 |
 | Huntington County, IN  |                90 |
 | Kosciusko County, IN   |               147 |
-| Rush County, IN        |                90 |
+| Rush County, IN        |                 0 |
 | Porter County, IN      |               147 |
 | Posey County, IN       |                90 |
 | Montgomery County, IN  |                90 |
@@ -58,7 +58,7 @@
 | Tipton County, IN      |                90 |
 | Dearborn County, IN    |               144 |
 | Miami County, IN       |                90 |
-| Howard County, IN      |                 0 |
+| Howard County, IN      |               147 |
 | Marshall County, IN    |                90 |
 | Delaware County, IN    |               147 |
 | De Kalb County, IN     |                90 |

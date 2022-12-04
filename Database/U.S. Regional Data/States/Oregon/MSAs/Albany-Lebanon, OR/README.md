@@ -2,7 +2,7 @@
 |------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ABBPOP                 | Resident Population in Albany, OR (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | ALBA941PCPI            | Per Capita Personal Income in Albany, OR (MSA)                                                              | 1969-01-01          | 2021-01-01        |
-| ATNHPIUS10540Q         | All-Transactions House Price Index for Albany-Lebanon, OR (MSA)                                             | 1987-01-01          | 2022-04-01        |
+| ATNHPIUS10540Q         | All-Transactions House Price Index for Albany-Lebanon, OR (MSA)                                             | 1987-01-01          | 2022-07-01        |
 | ENUC105430010          | Total Quarterly Wages in Albany, OR (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC105430010SA        | Total Quarterly Wages in Albany, OR (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
 | ENUC105440010          | Average Weekly Wages for Employees in Total Covered Establishments in Albany, OR (MSA)                      | 2013-01-01          | 2022-01-01        |
@@ -16,13 +16,13 @@
 | ENUC105440510          | Average Weekly Wages for Employees in Private Establishments in Albany, OR (MSA)                            | 2013-01-01          | 2022-01-01        |
 | ENUC105440510SA        | Average Weekly Wages for Employees in Private Establishments in Albany, OR (MSA)                            | 2013-01-01          | 2022-01-01        |
 | IRPD10540              | Implicit Regional Price Deflator for Albany, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| LAUMT411054000000003   | Unemployment Rate in Albany, OR (MSA)                                                                       | 1990-01-01          | 2022-09-01        |
+| LAUMT411054000000003   | Unemployment Rate in Albany, OR (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT411054000000003A  | Unemployment Rate in Albany, OR (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
-| LAUMT411054000000004   | Unemployed Persons in Albany, OR (MSA)                                                                      | 1990-01-01          | 2022-09-01        |
+| LAUMT411054000000004   | Unemployed Persons in Albany, OR (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT411054000000004A  | Unemployed Persons in Albany, OR (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
-| LAUMT411054000000005   | Employed Persons in Albany, OR (MSA)                                                                        | 1990-01-01          | 2022-09-01        |
+| LAUMT411054000000005   | Employed Persons in Albany, OR (MSA)                                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT411054000000005A  | Employed Persons in Albany, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
-| LAUMT411054000000006   | Civilian Labor Force in Albany, OR (MSA)                                                                    | 1990-01-01          | 2022-09-01        |
+| LAUMT411054000000006   | Civilian Labor Force in Albany, OR (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT411054000000006A  | Civilian Labor Force in Albany, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | NGMP10540              | Total Gross Domestic Product for Albany, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
 | QGMP10540              | Total Quantity Indexes for Real GDP for Albany, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |

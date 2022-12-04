@@ -7,7 +7,7 @@
 | San Angelo, TX                       |               142 |
 | Houston-The Woodlands-Sugar Land, TX |               463 |
 | Laredo, TX                           |               218 |
-| Tyler, TX                            |                 0 |
+| Tyler, TX                            |               161 |
 | San Antonio, TX                      |               312 |
 | Odessa, TX                           |               166 |
 | Texarkana, TX-AR                     |               165 |
