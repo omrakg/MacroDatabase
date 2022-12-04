@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Utah": {
       "id": "SMU49000005553100001",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Financial Activities: Real Estate in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000005553100001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Financial Activities: Real Estate in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -41,8 +41,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Utah": {
       "id": "SMU49000005553100001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Financial Activities: Real Estate in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -60,8 +60,8 @@
     },
     "Texas": {
       "id": "SMU48000005553100001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Financial Activities: Real Estate in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",

@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Virginia": {
       "id": "SMU51000003100000006",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -58,8 +58,8 @@
     },
     "Utah": {
       "id": "SMU49000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -77,8 +77,8 @@
     },
     "Vermont": {
       "id": "SMU50000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -98,8 +98,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Virginia": {
       "id": "SMU51000003100000006A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",
@@ -116,8 +116,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",
@@ -135,8 +135,8 @@
     },
     "Texas": {
       "id": "SMU48000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -154,8 +154,8 @@
     },
     "Utah": {
       "id": "SMU49000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -173,8 +173,8 @@
     },
     "Vermont": {
       "id": "SMU50000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -194,8 +194,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Virginia": {
       "id": "SMU51000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Virginia",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -213,8 +213,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Puerto Rico",
       "observation_start": "2001-01-01",
       "observation_end": "2017-12-01",
@@ -232,8 +232,8 @@
     },
     "Texas": {
       "id": "SMU48000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -251,8 +251,8 @@
     },
     "Utah": {
       "id": "SMU49000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -270,8 +270,8 @@
     },
     "Vermont": {
       "id": "SMU50000003100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Manufacturing: Durable Goods in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",

@@ -1,8 +1,8 @@
 {
   "Virginia": {
     "id": "SMU51000003200000006",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Virginia",
     "observation_start": "2001-01-01",
     "observation_end": "2022-10-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000003200000006SA",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Puerto Rico",
     "observation_start": "2001-01-01",
     "observation_end": "2017-12-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000003200000006SA",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Production or Nonsupervisory Employees: Manufacturing: Non-Durable Goods in Texas",
     "observation_start": "2001-01-01",
     "observation_end": "2022-10-01",

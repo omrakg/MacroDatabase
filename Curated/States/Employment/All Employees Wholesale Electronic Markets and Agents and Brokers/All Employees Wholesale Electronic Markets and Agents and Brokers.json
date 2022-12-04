@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004142500001",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000004142500001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -60,8 +60,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004142500001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -97,8 +97,8 @@
     },
     "Texas": {
       "id": "SMU48000004142500001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -118,8 +118,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004142500001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -156,8 +156,8 @@
     },
     "Texas": {
       "id": "SMU48000004142500001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",

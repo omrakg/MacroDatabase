@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004100000006",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -39,8 +39,8 @@
     },
     "Utah": {
       "id": "SMU49000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -58,8 +58,8 @@
     },
     "Vermont": {
       "id": "SMU50000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -79,8 +79,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004100000006A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",
@@ -97,8 +97,8 @@
     },
     "Texas": {
       "id": "SMU48000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -116,8 +116,8 @@
     },
     "Utah": {
       "id": "SMU49000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -135,8 +135,8 @@
     },
     "Vermont": {
       "id": "SMU50000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -156,8 +156,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Washington",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -175,8 +175,8 @@
     },
     "Texas": {
       "id": "SMU48000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -194,8 +194,8 @@
     },
     "Utah": {
       "id": "SMU49000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Utah",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -213,8 +213,8 @@
     },
     "Vermont": {
       "id": "SMU50000004100000006SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production or Nonsupervisory Employees: Wholesale Trade in Vermont",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",

@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMS56000000500000001",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -21,8 +21,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -34,7 +34,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:10-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Tennessee": {
@@ -57,8 +57,8 @@
     },
     "Texas": {
       "id": "SMU48000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -75,8 +75,8 @@
     },
     "Utah": {
       "id": "SMU49000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -93,8 +93,8 @@
     },
     "Vermont": {
       "id": "SMU50000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -111,8 +111,8 @@
     },
     "Virginia": {
       "id": "SMU51000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -129,8 +129,8 @@
     },
     "Washington": {
       "id": "SMU53000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -147,8 +147,8 @@
     },
     "West Virginia": {
       "id": "SMU54000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -165,8 +165,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -185,8 +185,8 @@
   "3-Month Average Change, Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMS56000000500000026",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Wyoming",
       "observation_start": "1990-04-01",
       "observation_end": "2022-10-01",
@@ -203,8 +203,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -216,7 +216,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:10-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Tennessee": {
@@ -239,8 +239,8 @@
     },
     "Texas": {
       "id": "SMU48000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -257,8 +257,8 @@
     },
     "Utah": {
       "id": "SMU49000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -275,8 +275,8 @@
     },
     "Vermont": {
       "id": "SMU50000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -293,8 +293,8 @@
     },
     "Virginia": {
       "id": "SMU51000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -311,8 +311,8 @@
     },
     "Washington": {
       "id": "SMU53000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -329,8 +329,8 @@
     },
     "West Virginia": {
       "id": "SMU54000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -347,8 +347,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -367,8 +367,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000000500000001",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -385,8 +385,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -398,7 +398,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:10-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Tennessee": {
@@ -421,8 +421,8 @@
     },
     "Texas": {
       "id": "SMU48000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -439,8 +439,8 @@
     },
     "Utah": {
       "id": "SMU49000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -457,8 +457,8 @@
     },
     "Vermont": {
       "id": "SMU50000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -475,8 +475,8 @@
     },
     "Virginia": {
       "id": "SMU51000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -493,8 +493,8 @@
     },
     "Washington": {
       "id": "SMU53000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -511,8 +511,8 @@
     },
     "West Virginia": {
       "id": "SMU54000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -529,8 +529,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -549,8 +549,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -567,8 +567,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -580,7 +580,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-03-15 05:20:10-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/Puerto Rico"
     },
     "Tennessee": {
@@ -603,8 +603,8 @@
     },
     "Texas": {
       "id": "SMU48000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -621,8 +621,8 @@
     },
     "Utah": {
       "id": "SMU49000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -639,8 +639,8 @@
     },
     "Vermont": {
       "id": "SMU50000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -657,8 +657,8 @@
     },
     "Virginia": {
       "id": "SMU51000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -675,8 +675,8 @@
     },
     "Washington": {
       "id": "SMU53000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -693,8 +693,8 @@
     },
     "West Virginia": {
       "id": "SMU54000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in West Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -711,8 +711,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000000500000001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Total Private in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",

@@ -1,8 +1,8 @@
 {
   "West Virginia": {
     "id": "SMU54000003200000007A",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Average Weekly Hours of Production Employees: Manufacturing: Non-Durable Goods in West Virginia",
     "observation_start": "2003-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000003200000007A",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Average Weekly Hours of Production Employees: Manufacturing: Non-Durable Goods in Puerto Rico",
     "observation_start": "2001-01-01",
     "observation_end": "2016-01-01",

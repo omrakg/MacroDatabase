@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000001021000001",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Mining and Logging: Mining, Quarrying, and Oil and Gas Extraction in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
     },
     "Texas": {
       "id": "SMU48000001021000001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Mining and Logging: Mining, Quarrying, and Oil and Gas Extraction in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -41,8 +41,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000001021000001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Mining and Logging: Mining, Quarrying, and Oil and Gas Extraction in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -60,8 +60,8 @@
     },
     "Texas": {
       "id": "SMU48000001021000001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Mining and Logging: Mining, Quarrying, and Oil and Gas Extraction in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",

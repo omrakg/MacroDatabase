@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWHOLEQQGSP",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Chain-Type Quantity Index for Real GDP: Wholesale Trade (NAICS 42) in Hawaii",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWHOLEQQGSP",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Chain-Type Quantity Index for Real GDP: Wholesale Trade (NAICS 42) in Alabama",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWHOLEQQGSP",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Chain-Type Quantity Index for Real GDP: Wholesale Trade (NAICS 42) in Alaska",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWHOLEQQGSP",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Chain-Type Quantity Index for Real GDP: Wholesale Trade (NAICS 42) in Arizona",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Arkansas": {
     "id": "ARWHOLEQQGSP",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Chain-Type Quantity Index for Real GDP: Wholesale Trade (NAICS 42) in Arkansas",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEWHOLEQQGSP",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Chain-Type Quantity Index for Real GDP: Wholesale Trade (NAICS 42) in Delaware",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",

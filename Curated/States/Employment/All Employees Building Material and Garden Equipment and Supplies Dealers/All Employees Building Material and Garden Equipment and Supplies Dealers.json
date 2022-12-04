@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004244400001",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -58,8 +58,8 @@
     },
     "Texas": {
       "id": "SMU48000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -77,8 +77,8 @@
     },
     "Washington": {
       "id": "SMU53000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -98,8 +98,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004244400001A",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -116,8 +116,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -154,8 +154,8 @@
     },
     "Texas": {
       "id": "SMU48000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -173,8 +173,8 @@
     },
     "Washington": {
       "id": "SMU53000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -194,8 +194,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -213,8 +213,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -251,8 +251,8 @@
     },
     "Texas": {
       "id": "SMU48000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -270,8 +270,8 @@
     },
     "Washington": {
       "id": "SMU53000004244400001SA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "All Employees: Retail Trade: Building Material and Garden Equipment and Supplies Dealers in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
