@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRLORSGPTDSTSAM",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for Israel",
     "observation_start": "1995-02-01",
     "observation_end": "2022-05-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLLORSGPTDSTSAM",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for Chile",
     "observation_start": "1995-02-01",
     "observation_end": "2021-11-01",
@@ -39,8 +39,8 @@
   },
   "Czech Republic": {
     "id": "CZELORSGPTDSTSAM",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for the Czech Republic",
     "observation_start": "1995-02-01",
     "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
   },
   "Estonia": {
     "id": "ESTLORSGPTDSTSAM",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for Estonia",
     "observation_start": "1995-02-01",
     "observation_end": "2022-05-01",
@@ -77,8 +77,8 @@
   },
   "Hungary": {
     "id": "HUNLORSGPTDSTSAM",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for Hungary",
     "observation_start": "1995-02-01",
     "observation_end": "2022-05-01",

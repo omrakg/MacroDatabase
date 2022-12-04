@@ -1,8 +1,8 @@
 {
   "Hungary": {
     "id": "HUNCINSQDSMEI",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Change in Stocks in Hungary",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
   },
   "Iceland": {
     "id": "ISLCINSQDSMEI",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Change in Stocks in Iceland",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -39,8 +39,8 @@
   },
   "Russian Federation": {
     "id": "RUSCINSQDSMEI",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Change in Stocks in Russian Federation",
     "observation_start": "2003-01-01",
     "observation_end": "2021-07-01",

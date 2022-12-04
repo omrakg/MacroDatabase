@@ -2,8 +2,8 @@
   "Percent_Annual_Not Seasonally Adjusted": {
     "Luxembourg": {
       "id": "IRLOHO02LUA156N",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
       "observation_start": "1987-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Luxembourg": {
       "id": "IRLOHO02LUM156N",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
       "observation_start": "1987-01-01",
       "observation_end": "2022-08-01",
@@ -44,8 +44,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Luxembourg": {
       "id": "IRLOHO02LUQ156N",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Other Long Term Rates and Yields: Mortgage Rates for Luxembourg",
       "observation_start": "1987-01-01",
       "observation_end": "2022-04-01",

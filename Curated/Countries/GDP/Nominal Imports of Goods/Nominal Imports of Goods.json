@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NMGNSAXDCSAQ",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Nominal Imports of Goods for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-10-01",
@@ -22,8 +22,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NMGXDCSAA",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Nominal Imports of Goods for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",

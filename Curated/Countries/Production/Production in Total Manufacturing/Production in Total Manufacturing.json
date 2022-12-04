@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPROMANAISMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production in Total Manufacturing for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "ISLPROMANQISMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production in Total Manufacturing for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-10-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPROMANMISMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production in Total Manufacturing for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-08-01",
@@ -61,8 +61,8 @@
     },
     "Iceland": {
       "id": "ISLPROMANQISMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production in Total Manufacturing for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-10-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPROMANQISMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production in Total Manufacturing for Israel",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -101,8 +101,8 @@
     },
     "Iceland": {
       "id": "ISLPROMANQISMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Production in Total Manufacturing for Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-10-01",

@@ -2,8 +2,8 @@
   "Percent_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LRUNTTTTRUA156N",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Unemployment Rate: Aged 15 and Over: All Persons for the Russian Federation",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -14,8 +14,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:42:10-05",
-      "popularity": 1,
-      "group_popularity": 5,
+      "popularity": 2,
+      "group_popularity": 7,
       "notes": "OECD descriptor ID: LRUNTTTT\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -23,8 +23,8 @@
   "Percent_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LRUNTTTTRUA156S",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Unemployment Rate: Aged 15 and Over: All Persons for the Russian Federation",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -36,7 +36,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:42:10-05",
       "popularity": 1,
-      "group_popularity": 5,
+      "group_popularity": 7,
       "notes": "OECD descriptor ID: LRUNTTTT\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -44,8 +44,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LRUNTTTTRUM156N",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Unemployment Rate: Aged 15 and Over: All Persons for the Russian Federation",
       "observation_start": "2009-08-01",
       "observation_end": "2022-01-01",
@@ -56,8 +56,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-05-05 16:38:21-05",
-      "popularity": 3,
-      "group_popularity": 5,
+      "popularity": 6,
+      "group_popularity": 7,
       "notes": "OECD descriptor ID: LRUNTTTT\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -65,8 +65,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LRUNTTTTRUQ156N",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Unemployment Rate: Aged 15 and Over: All Persons for the Russian Federation",
       "observation_start": "2009-10-01",
       "observation_end": "2021-10-01",
@@ -77,8 +77,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 14:47:52-05",
-      "popularity": 2,
-      "group_popularity": 5,
+      "popularity": 1,
+      "group_popularity": 7,
       "notes": "OECD descriptor ID: LRUNTTTT\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }
@@ -86,8 +86,8 @@
   "Percent_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "LRUNTTTTRUQ156S",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Unemployment Rate: Aged 15 and Over: All Persons for the Russian Federation",
       "observation_start": "2009-10-01",
       "observation_end": "2021-10-01",
@@ -99,7 +99,7 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 14:47:52-05",
       "popularity": 1,
-      "group_popularity": 5,
+      "group_popularity": 7,
       "notes": "OECD descriptor ID: LRUNTTTT\nOECD unit ID: STSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
     }

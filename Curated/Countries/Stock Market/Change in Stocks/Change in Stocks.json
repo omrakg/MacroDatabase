@@ -2,8 +2,8 @@
   "Forint_Annual_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNCINSADSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -40,8 +40,8 @@
     },
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -61,8 +61,8 @@
   "Forint_Quarterly_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -80,8 +80,8 @@
     },
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -99,8 +99,8 @@
     },
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -120,8 +120,8 @@
   "Iceland Krona_Annual_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLCINSADSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -139,8 +139,8 @@
     },
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -158,8 +158,8 @@
     },
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -179,8 +179,8 @@
   "Iceland Krona_Quarterly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -198,8 +198,8 @@
     },
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -217,8 +217,8 @@
     },
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -238,8 +238,8 @@
   "Russian Ruble_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "RUSCINSADSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2020-01-01",
@@ -257,8 +257,8 @@
     },
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -276,8 +276,8 @@
     },
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",
@@ -297,8 +297,8 @@
   "Russian Ruble_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "RUSCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Russian Federation",
       "observation_start": "2003-01-01",
       "observation_end": "2021-07-01",
@@ -316,8 +316,8 @@
     },
     "Hungary": {
       "id": "HUNCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -335,8 +335,8 @@
     },
     "Iceland": {
       "id": "ISLCINSQDSMEI",
-      "realtime_start": "2022-11-27",
-      "realtime_end": "2022-11-27",
+      "realtime_start": "2022-12-04",
+      "realtime_end": "2022-12-04",
       "title": "Change in Stocks in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-01-01",

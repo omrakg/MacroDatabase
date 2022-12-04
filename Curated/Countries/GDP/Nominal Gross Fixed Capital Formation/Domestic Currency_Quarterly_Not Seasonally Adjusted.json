@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "NFINSAXDCSAQ",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Nominal Gross Fixed Capital Formation for Saudi Arabia",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-09-19 07:10:07-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 1,
+    "group_popularity": 1,
     "path": "Database/International Data/Countries/Saudi Arabia"
   },
   "Argentina": {
     "id": "NFIXDCARA",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Nominal Gross Fixed Capital Formation for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Great Britain": {
     "id": "NFIXDCGBA",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Nominal Gross Fixed Capital Formation for Great Britain",
     "observation_start": "1995-01-01",
     "observation_end": "2021-01-01",
@@ -50,7 +50,7 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-10-31 07:09:03-05",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 1,
     "path": "Database/International Data/Countries/Great Britain"
   }
 }

@@ -1,8 +1,8 @@
 {
   "Czech Republic": {
     "id": "CZEGDPDEFAISMEI",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for the Czech Republic",
     "observation_start": "1996-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLGDPDEFQISMEI",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for Chile",
     "observation_start": "2013-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Colombia": {
     "id": "COLNAGIGP01IXOBSAQ",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for Colombia",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Costa Rica": {
     "id": "CRINAGIGP01IXOBSAQ",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for Costa Rica",
     "observation_start": "1991-01-01",
     "observation_end": "2022-07-01",

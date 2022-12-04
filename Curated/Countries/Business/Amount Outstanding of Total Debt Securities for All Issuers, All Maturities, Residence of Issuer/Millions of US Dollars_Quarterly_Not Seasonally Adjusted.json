@@ -1,8 +1,8 @@
 {
   "Saudi Arabia": {
     "id": "TDSAMRIAOAISA",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Saudi Arabia",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "TDSAMRIAOAIAR",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Argentina",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -32,15 +32,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-09-19 11:03:26-05",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "This series appears in Table 18.\nSource Code: Q:AR:3P:1:1:1:A:A:TO1:A:A:A:A:A:I\n\nNationality refers to the ultimate obligor, as opposed to the immediate borrower on a residence basis, and is linked to the consolidation of assets and liabilities for related entities. Information on a nationality basis is useful to analyse potential support that might be available from the parent company and to understand links between borrowers in different countries and sectors.\nFor example, the debts of a Cayman Islands subsidiary of a Brazilian bank may be guaranteed by the parent bank. Consistent with the approach taken in the international banking statistics, the BIS bases the nationality of an issuer on the residency of its controlling parent, regardless of any intermediate owners. (December 2012, BIS Quarterly Review, https://www.bis.org/publ/qtrpdf/r_qt1212h.pdf)\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions.",
     "path": "Database/International Data/Countries/Argentina"
   },
   "Croatia": {
     "id": "TDSAMRIAOAIHR",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Croatia",
     "observation_start": "1995-10-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "Cyprus": {
     "id": "TDSAMRIAOAICY",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Cyprus",
     "observation_start": "2004-01-01",
     "observation_end": "2022-01-01",
@@ -77,8 +77,8 @@
   },
   "Malta": {
     "id": "TDSAMRIAOAIMT",
-    "realtime_start": "2022-11-27",
-    "realtime_end": "2022-11-27",
+    "realtime_start": "2022-12-04",
+    "realtime_end": "2022-12-04",
     "title": "Amount Outstanding of Total Debt Securities for All Issuers, All Maturities, Residence of Issuer in Malta",
     "observation_start": "2004-01-01",
     "observation_end": "2022-01-01",
