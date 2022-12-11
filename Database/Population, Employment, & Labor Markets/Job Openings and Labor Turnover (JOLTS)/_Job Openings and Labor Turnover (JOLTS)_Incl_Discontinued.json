@@ -1,8 +1,8 @@
 {
   "JTS1000OSL": {
     "id": "JTS1000OSL",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Other Separations: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-10-01",
@@ -14,13 +14,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-30 09:05:15-06",
     "popularity": 13,
-    "group_popularity": 14,
+    "group_popularity": 17,
     "path": "Database/Population, Employment, & Labor Markets/Job Openings and Labor Turnover (JOLTS)"
   },
   "JTS1000OSR": {
     "id": "JTS1000OSR",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Other Separations: Total Private",
     "observation_start": "2000-12-01",
     "observation_end": "2022-10-01",
@@ -32,13 +32,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-30 09:05:31-06",
     "popularity": 3,
-    "group_popularity": 14,
+    "group_popularity": 17,
     "path": "Database/Population, Employment, & Labor Markets/Job Openings and Labor Turnover (JOLTS)"
   },
   "JTS9000OSL": {
     "id": "JTS9000OSL",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Other Separations: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-10-01",
@@ -50,13 +50,13 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-30 09:05:49-06",
     "popularity": 1,
-    "group_popularity": 11,
+    "group_popularity": 7,
     "path": "Database/Population, Employment, & Labor Markets/Job Openings and Labor Turnover (JOLTS)"
   },
   "JTS9000OSR": {
     "id": "JTS9000OSR",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Other Separations: Government",
     "observation_start": "2000-12-01",
     "observation_end": "2022-10-01",
@@ -67,14 +67,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-30 09:05:22-06",
-    "popularity": 7,
-    "group_popularity": 11,
+    "popularity": 6,
+    "group_popularity": 7,
     "path": "Database/Population, Employment, & Labor Markets/Job Openings and Labor Turnover (JOLTS)"
   },
   "JTSOSL": {
     "id": "JTSOSL",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Other Separations: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-10-01",
@@ -85,14 +85,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-30 09:05:09-06",
-    "popularity": 31,
-    "group_popularity": 34,
+    "popularity": 27,
+    "group_popularity": 29,
     "path": "Database/Population, Employment, & Labor Markets/Job Openings and Labor Turnover (JOLTS)"
   },
   "JTSOSR": {
     "id": "JTSOSR",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Other Separations: Total Nonfarm",
     "observation_start": "2000-12-01",
     "observation_end": "2022-10-01",
@@ -103,8 +103,8 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-30 09:05:17-06",
-    "popularity": 6,
-    "group_popularity": 34,
+    "popularity": 7,
+    "group_popularity": 29,
     "path": "Database/Population, Employment, & Labor Markets/Job Openings and Labor Turnover (JOLTS)"
   }
 }
