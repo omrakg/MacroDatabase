@@ -1,7 +1,7 @@
 {
   "id": "H41RESPPALDBNWW",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Assets: Liquidity and Credit Facilities: Loans: Money Market Mutual Fund Liquidity Facility: Wednesday Level (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2022-04-20",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-04-21 15:35:24-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 8,
+  "group_popularity": 8
 }

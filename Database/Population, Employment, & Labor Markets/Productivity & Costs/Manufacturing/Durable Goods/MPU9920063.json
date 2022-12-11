@@ -1,7 +1,7 @@
 {
   "id": "MPU9920063",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Durable Manufacturing Sector: Labor Productivity",
   "observation_start": "1988-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-22 15:53:04-06",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "The efficiency at which labor hours are utilized in producing output of goods and services, measured as output per hour of labor. \n\n For more information, please go to https://www.bls.gov/mfp/\n\n Source Indicator: MPU9920063"
 }

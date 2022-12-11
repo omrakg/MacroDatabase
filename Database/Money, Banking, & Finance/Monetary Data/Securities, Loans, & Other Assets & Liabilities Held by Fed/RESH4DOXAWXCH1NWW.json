@@ -1,17 +1,17 @@
 {
   "id": "RESH4DOXAWXCH1NWW",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Memorandum Items: Securities Lent to Dealers: Overnight Facility: Change in Week Average from Previous Week Average",
   "observation_start": "2002-12-18",
-  "observation_end": "2022-11-30",
+  "observation_end": "2022-12-07",
   "frequency": "Weekly, Ending Wednesday",
   "frequency_short": "W",
   "units": "Millions of U.S. Dollars",
   "units_short": "Mil. of U.S. $",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-12-01 15:35:35-06",
+  "last_updated": "2022-12-08 15:35:31-06",
   "popularity": 1,
   "group_popularity": 1
 }

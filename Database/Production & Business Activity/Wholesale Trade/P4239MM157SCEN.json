@@ -1,17 +1,17 @@
 {
   "id": "P4239MM157SCEN",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Miscellaneous Durable Goods Sales",
   "observation_start": "1992-02-01",
-  "observation_end": "2022-09-01",
+  "observation_end": "2022-10-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-11-09 09:01:52-06",
+  "last_updated": "2022-12-09 15:07:31-06",
   "popularity": 1,
   "group_popularity": 1
 }

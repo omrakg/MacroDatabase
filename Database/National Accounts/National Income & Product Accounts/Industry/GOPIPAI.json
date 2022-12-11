@@ -1,7 +1,7 @@
 {
   "id": "GOPIPAI",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Gross Output by Industry: All Industries (Chain-Type Price Index)",
   "observation_start": "2005-04-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-09-29 07:31:10-05",
-  "popularity": 5,
-  "group_popularity": 6,
+  "popularity": 6,
+  "group_popularity": 7,
   "notes": "Gross output is a measure of an industry's sales or receipts, which can include sales to final users in the economy (GDP) or sales to other industries (intermediate inputs)."
 }

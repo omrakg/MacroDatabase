@@ -1,7 +1,7 @@
 {
   "id": "WAIAL",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Assets: Preferred Interests in AIA Aurora LLC and ALICO Holdings LLC (DISCONTINUED)",
   "observation_start": "2002-12-18",
   "observation_end": "2011-01-12",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2011-07-14 10:32:15-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "AIA Aurora LLC and ALICO Holdings LLC are two limited liability companies created to directly or indirectly hold all of the outstanding common stock of American International Assurance Company Ltd. (AIA) and American Life insurance Company (ALICO), two life insurance subsidiaries of AIG. AIG will retain control of AIA Aurora LLC and ALICO Holdings LLC, and the FRBNY will have certain consent, disposition, and conversion rights with respect to its preferred interests. As a result of the closing of the AIG recapitalization plan on January 14, 2011, the FRBNY has been paid in full for its preferred interests in AIA Aurora LLC and ALICO Holdings LLC."
 }

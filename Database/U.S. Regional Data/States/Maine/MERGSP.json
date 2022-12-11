@@ -1,7 +1,7 @@
 {
   "id": "MERGSP",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Real Gross Domestic Product: All Industry Total in Maine",
   "observation_start": "1997-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-30 09:14:14-05",
-  "popularity": 3,
-  "group_popularity": 8
+  "popularity": 4,
+  "group_popularity": 10
 }

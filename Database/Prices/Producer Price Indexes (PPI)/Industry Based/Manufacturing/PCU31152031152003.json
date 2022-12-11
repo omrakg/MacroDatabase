@@ -1,17 +1,17 @@
 {
   "id": "PCU31152031152003",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Producer Price Index by Industry: Ice Cream and Frozen Dessert Manufacturing: Ice Cream, Including Custards (Excluding Lowfat and Nonfat), Novelty Forms",
   "observation_start": "1992-06-01",
-  "observation_end": "2022-10-01",
+  "observation_end": "2022-11-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Jun 1992=100",
   "units_short": "Index Jun 1992=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-15 07:56:05-06",
-  "popularity": 9,
-  "group_popularity": 9
+  "last_updated": "2022-12-09 07:55:29-06",
+  "popularity": 15,
+  "group_popularity": 15
 }

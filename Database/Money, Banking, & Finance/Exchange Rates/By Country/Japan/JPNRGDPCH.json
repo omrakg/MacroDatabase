@@ -1,7 +1,7 @@
 {
   "id": "JPNRGDPCH",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Real Consumption of Households for Japan",
   "observation_start": "1994-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of Chn. 2015 Yen",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-11-14 17:56:05-06",
-  "popularity": 15,
-  "group_popularity": 15,
+  "last_updated": "2022-12-07 17:56:04-06",
+  "popularity": 13,
+  "group_popularity": 13,
   "notes": "Copyright, 2016, Cabinet Office of Japan."
 }

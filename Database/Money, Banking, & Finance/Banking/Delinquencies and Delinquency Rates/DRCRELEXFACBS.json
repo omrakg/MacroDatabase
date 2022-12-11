@@ -1,7 +1,7 @@
 {
   "id": "DRCRELEXFACBS",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks",
   "observation_start": "1991-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-23 13:33:07-06",
-  "popularity": 53,
-  "group_popularity": 53
+  "popularity": 52,
+  "group_popularity": 52
 }

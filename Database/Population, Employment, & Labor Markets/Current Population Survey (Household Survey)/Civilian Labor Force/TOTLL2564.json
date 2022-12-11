@@ -1,7 +1,7 @@
 {
   "id": "TOTLL2564",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Civilian Labor Force - 25 to 64 years",
   "observation_start": "2000-01-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-02 09:34:02-06",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "The civilian labor force is the sum of employed and unemployed persons.\n\nThe series comes from the 'Current Population Survey (Household Survey)'."
 }

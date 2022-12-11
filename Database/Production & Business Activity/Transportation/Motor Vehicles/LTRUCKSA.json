@@ -1,17 +1,17 @@
 {
   "id": "LTRUCKSA",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Motor Vehicle Retail Sales: Light Weight Trucks",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-10-01",
+  "observation_end": "2022-11-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Millions of Units",
   "units_short": "Mil. of Units",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-12-01 08:43:12-06",
-  "popularity": 32,
-  "group_popularity": 36
+  "last_updated": "2022-12-05 11:09:11-06",
+  "popularity": 29,
+  "group_popularity": 33
 }

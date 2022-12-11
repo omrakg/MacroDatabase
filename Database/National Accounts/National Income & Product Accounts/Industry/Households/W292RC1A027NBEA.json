@@ -1,7 +1,7 @@
 {
   "id": "W292RC1A027NBEA",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Monetary interest paid: Households",
   "observation_start": "1946-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 13:55:06-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 6,
+  "group_popularity": 6,
   "notes": "BEA Account Code: W292RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

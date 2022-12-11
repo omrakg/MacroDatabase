@@ -1,7 +1,7 @@
 {
   "id": "B432RC1Q027SBEA",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Federal government consumption expenditures: Defense consumption expenditures: Gross output of general government: Value added: Consumption of general government fixed capital",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-11-30 07:55:25-06",
-  "popularity": 9,
-  "group_popularity": 9,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "BEA Account Code: B432RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

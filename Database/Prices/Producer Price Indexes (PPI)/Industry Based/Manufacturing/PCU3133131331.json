@@ -1,17 +1,17 @@
 {
   "id": "PCU3133131331",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Producer Price Index by Industry: Textile and Fabric Finishing Mills",
   "observation_start": "2003-12-01",
-  "observation_end": "2022-10-01",
+  "observation_end": "2022-11-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Dec 2003=100",
   "units_short": "Index Dec 2003=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-15 07:56:05-06",
-  "popularity": 15,
-  "group_popularity": 17
+  "last_updated": "2022-12-09 07:55:22-06",
+  "popularity": 19,
+  "group_popularity": 21
 }

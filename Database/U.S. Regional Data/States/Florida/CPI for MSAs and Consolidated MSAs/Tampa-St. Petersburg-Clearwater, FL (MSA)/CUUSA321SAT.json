@@ -1,7 +1,7 @@
 {
   "id": "CUUSA321SAT",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Consumer Price Index for All Urban Consumers: Transportation in Tampa-St. Petersburg-Clearwater, FL (CBSA)",
   "observation_start": "1987-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-12 07:39:01-06",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

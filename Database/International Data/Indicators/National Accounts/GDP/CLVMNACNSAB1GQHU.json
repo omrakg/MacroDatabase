@@ -1,18 +1,18 @@
 {
   "id": "CLVMNACNSAB1GQHU",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Real Gross Domestic Product for Hungary",
   "observation_start": "1995-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-07-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Millions of Chained 2010 National Currency",
   "units_short": "Mil. of Chn. 2010 National Currency",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-10-19 04:02:30-05",
+  "last_updated": "2022-12-07 04:02:11-06",
   "popularity": 1,
-  "group_popularity": 23,
+  "group_popularity": 25,
   "notes": "Eurostat unit ID: CLV10_MNAC\nEurostat item ID = B1GQ\nEurostat country ID: HU\n\nCopyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright"
 }

@@ -1,7 +1,7 @@
 {
   "id": "CIS1020000000000I",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Employment Cost Index: Wages and salaries for All Civilian workers in All industries and occupations",
   "observation_start": "2001-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-28 07:51:04-05",
-  "popularity": 31,
-  "group_popularity": 32,
+  "popularity": 34,
+  "group_popularity": 35,
   "notes": "See Footnote C onhttps://www.bls.gov/ect/cimapnote.htm"
 }

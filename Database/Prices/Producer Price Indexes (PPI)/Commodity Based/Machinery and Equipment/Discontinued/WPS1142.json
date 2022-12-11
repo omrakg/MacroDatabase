@@ -1,7 +1,7 @@
 {
   "id": "WPS1142",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Elevators, Escalators, and Other Lifts (DISCONTINUED)",
   "observation_start": "1975-01-01",
   "observation_end": "1980-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2015-05-14 10:43:34-05",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 1,
+  "group_popularity": 1
 }

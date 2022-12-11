@@ -1,0 +1,17 @@
+{
+  "id": "ADPWCDMTNERNSA",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
+  "title": "Nonfarm Private Employment in the Mountain Census Division",
+  "observation_start": "2010-01-02",
+  "observation_end": "2022-10-01",
+  "frequency": "Weekly",
+  "frequency_short": "W",
+  "units": "Persons",
+  "units_short": "Persons",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-11-30 07:26:16-06",
+  "popularity": 1,
+  "group_popularity": 1
+}

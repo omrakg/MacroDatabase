@@ -1,7 +1,7 @@
 {
   "id": "M0468BUSM349NNBR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Index of Wholesale Prices of Building Materials for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1962-05-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:55:20-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1890-1951 (2)--Original Data, 1947-1962. These Data From 01/1947-12/1951 Represent The Revised Sample And The 1947-49 Weighting Pattern. The Table Also Shows Figures For The Period Beginning 1926,\"Based On The Month-To-Month Movement Of The Former Index.\" This Series Is One Of A Group Of\"Special\" Indexes. Beginning With 1958, The Series Is Called\"Index Of Construction Materials\" (See Bls Bulletin No. 1257, P.18). Source: Bls \"Revised Wholesale Price Index, Building Materials\" (1947-49=100), Mimeographed Table Of May 7, 1952, For 1947-1951; Monthly Wholesale Price Index Thereafter. See Also Bls Bulletin Nos. 1214, 1235, 1257, And 1295 For Summary Tables 1954-6, 1957, 1958, And 1959.\n\nThis NBER data series m04068b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04068b"
 }

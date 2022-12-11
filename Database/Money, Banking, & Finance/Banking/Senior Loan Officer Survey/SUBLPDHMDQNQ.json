@@ -1,7 +1,7 @@
 {
   "id": "SUBLPDHMDQNQ",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Net Percentage of Domestic Banks Reporting Stronger Demand for Qualified Mortgage Non-Jumbo, Non-GSE-Eligible Mortgage Loans",
   "observation_start": "2015-01-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-07 13:18:16-06",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices release, online at http://www.federalreserve.gov/boarddocs/SnLoanSurvey/."
 }

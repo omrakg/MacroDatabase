@@ -1,17 +1,17 @@
 {
   "id": "WPU5541",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Producer Price Index by Commodity: Repair and Maintenance Services (Partial): Aircraft Repair and Maintenance",
   "observation_start": "2009-04-01",
-  "observation_end": "2022-10-01",
+  "observation_end": "2022-11-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Index Apr 2009=100",
   "units_short": "Index Apr 2009=100",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-15 07:57:06-06",
+  "last_updated": "2022-12-09 07:56:46-06",
   "popularity": 1,
-  "group_popularity": 13
+  "group_popularity": 17
 }

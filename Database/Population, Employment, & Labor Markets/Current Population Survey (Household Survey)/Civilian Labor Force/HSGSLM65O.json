@@ -1,7 +1,7 @@
 {
   "id": "HSGSLM65O",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Civilian Labor Force - High School Graduates, No College, 65 years and over, Men",
   "observation_start": "2000-01-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-02 09:35:38-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "The civilian labor force is the sum of employed and unemployed persons.\n\nThe series comes from the 'Current Population Survey (Household Survey)'."
 }

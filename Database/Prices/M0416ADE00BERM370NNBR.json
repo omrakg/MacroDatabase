@@ -1,7 +1,7 @@
 {
   "id": "M0416ADE00BERM370NNBR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Wholesale Price of Copper for Berlin, Germany",
   "observation_start": "1879-01-01",
   "observation_end": "1905-12-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:47:21-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1879-1905; (2)-- Original Data, 1904-1935. Data Refers To The Following Types Of Copper -- 1879-1905: Mansfeld Copper, Berlin; 1904-1914: Electrolyte I, American, Berlin; 1919-1935: Electrolyte, Wirehare, Berlin. Source: 1879-1891:\"Monatshefte Zur Statistik Des Deutschen Reich\", Except 06/1887-02/1888: Otto Schmitz, \"Beruegnung Der Warenpreise\"; 1892-1919, 1924- 1934:\"Vierteljahishefte Zur Statistik\"; 1920-1923, 1935:\"Wirtschaft Und Statistik.\"\n\nThis NBER data series m04016a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04016a"
 }

@@ -1,7 +1,7 @@
 {
   "id": "U3UNEM3UT",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Total Unemployed, as a Percent of the Civilian Labor Force for Utah",
   "observation_start": "2003-10-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-28 14:56:49-05",
-  "popularity": 2,
-  "group_popularity": 2,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "U-3 unemployment rate, as defined by the Bureau of Labor Statistics (BLS)"
 }

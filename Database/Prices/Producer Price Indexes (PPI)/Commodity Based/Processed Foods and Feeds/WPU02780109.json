@@ -1,7 +1,7 @@
 {
   "id": "WPU02780109",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Margarine, Butter Blends, and Butter Substitutes",
   "observation_start": "1947-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:52:32-06",
-  "popularity": 9,
-  "group_popularity": 9
+  "popularity": 12,
+  "group_popularity": 12
 }

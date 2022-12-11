@@ -1,0 +1,17 @@
+{
+  "id": "COLU018UR",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
+  "title": "Unemployment Rate in Columbus, IN (MSA)",
+  "observation_start": "1990-01-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Smoothed Seasonally Adjusted",
+  "seasonal_adjustment_short": "SSA",
+  "last_updated": "2022-12-01 13:31:20-06",
+  "popularity": 1,
+  "group_popularity": 2
+}

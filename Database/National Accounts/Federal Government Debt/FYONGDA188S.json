@@ -1,7 +1,7 @@
 {
   "id": "FYONGDA188S",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Federal Net Outlays as Percent of Gross Domestic Product",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-21 10:46:06-05",
-  "popularity": 62,
-  "group_popularity": 62,
+  "popularity": 60,
+  "group_popularity": 60,
   "notes": "Federal Net Outlays as Percent of Gross Domestic Product (FYONGDA188S) (https://fred.stlouisfed.org/series/FYONGDA188S) was first constructed by the Federal Reserve Bank of St. Louis in January 2013. It is calculated using Federal Net Outlays (FYONET) (https://fred.stlouisfed.org/series/FYONET) and Gross Domestic Product (GDPA) (https://fred.stlouisfed.org/series/GDPA):\nFYONGDA188S = ((FYONET/1000)/GDPA)*100\nFYONET/1000 transforms FYONET from millions of dollars to billions of dollars."
 }

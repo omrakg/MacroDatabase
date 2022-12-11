@@ -1,7 +1,7 @@
 {
   "id": "IP48",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Import Price Index (Harmonized System): Paper and Paperboard; Articles of Paper Pulp, of Paper or of Paperboard; Articles of Paper Pulp, Paper or Paperboard",
   "observation_start": "1992-12-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-16 07:40:14-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "For more information, please see the Import/Export Price Indexes web site at https://www.bls.gov/mxp/"
 }

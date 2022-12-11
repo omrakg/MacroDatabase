@@ -1,7 +1,7 @@
 {
   "id": "OB000338Q",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Real Private Residential Investment",
   "observation_start": "2003-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-30 07:54:36-06",
   "popularity": 1,
-  "group_popularity": 4,
+  "group_popularity": 1,
   "notes": "BEA Account Code: OB000338"
 }

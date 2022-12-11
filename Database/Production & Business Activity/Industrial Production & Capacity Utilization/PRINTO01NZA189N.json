@@ -1,7 +1,7 @@
 {
   "id": "PRINTO01NZA189N",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Total Industry Production Excluding Construction for New Zealand",
   "observation_start": "1978-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-14 15:02:20-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: QL\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

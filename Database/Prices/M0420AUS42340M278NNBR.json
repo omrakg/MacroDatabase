@@ -1,7 +1,7 @@
 {
   "id": "M0420AUS42340M278NNBR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Wholesale Price of Gum Rosin, Grade H for Savannah, GA",
   "observation_start": "1901-01-01",
   "observation_end": "1951-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:54:49-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1901-1951 (2)-- Original Data,\" 1948-1958. No Activity August-October, 1914. Data Were Computed By NBER By Taking The Average Of The Closing Quotations For The Two Saturdays Nearest The End Of The Month. When The Last Day Of The Month Is A Saturday, The Average Of That Saturday, The Preceeding Saturday, And The Following Saturday Was Taken. For The Period January, 1901-March, 1903 No Friday Or Saturday Prices Are Available. The Averages Shown Were Computed From Closing Prices Quoted On Certain Dates Corresponding To The Friday Dates Of The Crop Year 1903-1904. There Are No Quotations For 11/1920-02/1921. The Last Figures To Appear Are 11/6/20=11.60 And 11/13/20=11.00. The Next Figure To Appear Was 4.25 On 3/19/21. Survey Of Current Business Gives 11.25 For 11/1920, 11.00 For 12/1920, 11.00 For 01/1921, 11.00 For 02/1921, And 6.80 For 03/1921. These Were Continuing The Last Given Quotation (Of 11/13/20) And Evidently Included The Figure 11.00 In Its March, 1921 Average. (NBER Note) On July 5, 1940, The Sale Of Rosin On The 100 Pound Net Weight Basis Went Into Effect, Replacing The Old System Of Sales Of Units Of 280 Pounds Gross Weight Or 230 Pounds Net Weight. A Conversion Factor (Survey Of Current Business, 1942 Supplement, P.217) Of 2.324 Has Been Used For Continuing The Series. In March, 1946, The Savannah Naval Stores Review Was Taken Over By A Publisher In Jacksonville, Florida And Was Later On Moved To New Orleans, Louisiana. The Word Savannah Was Dropped From The Title And The Publication Was Called Naval Stores Review. There Were No More Regular Quotations At The Savannah Cotton And Naval Stores Exchange After September, 1951. The Exchange Was At That Time Involved In An Anti-Trust Action Which, According To The Issue Of October 6, 1951, Was Settled By A Consent Decree Under Which The Rules And Regulations Of The Exchange Were To Be Changed And Sales Were To Be Reported To The United States Department Of Agiculture. It Was Also Established That Members Could Not Be Buyers And Sellers At The Same Time. There Is Evidence Suggesting That Prices For Some Time Had Not Accurately Represented Market Conditions And Trading But Had Been Established On The Basis Of Only A Part Of The Sales. The Review Of April 5, 1952 Speaks Of\"Stale Quotations.\" Tabulation Of The Savannah Naval Stores Market Was Dropped From The Review After The Issue Of December 27, 1952. Source: Savannah Naval Stores Review And Journal Of Trade\n\nThis NBER data series m04120a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04120a"
 }

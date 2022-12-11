@@ -1,7 +1,7 @@
 {
   "id": "NC000350Q",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Personal Consumption Expenditures: Services",
   "observation_start": "2002-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-30 07:53:57-06",
-  "popularity": 5,
-  "group_popularity": 57,
+  "popularity": 4,
+  "group_popularity": 58,
   "notes": "BEA Account Code: NC000350"
 }

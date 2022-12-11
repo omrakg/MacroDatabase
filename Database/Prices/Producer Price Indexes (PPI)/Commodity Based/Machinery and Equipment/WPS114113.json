@@ -1,7 +1,7 @@
 {
   "id": "WPS114113",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Domestic Water Systems",
   "observation_start": "2010-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-15 07:53:21-06",
-  "popularity": 4,
-  "group_popularity": 7
+  "popularity": 3,
+  "group_popularity": 6
 }

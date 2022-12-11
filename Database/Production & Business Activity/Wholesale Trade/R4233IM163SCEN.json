@@ -1,17 +1,17 @@
 {
   "id": "R4233IM163SCEN",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Materials Inventories/Sales Ratio",
   "observation_start": "1992-01-01",
-  "observation_end": "2022-09-01",
+  "observation_end": "2022-10-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Ratio",
   "units_short": "Ratio",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-11-09 09:02:01-06",
+  "last_updated": "2022-12-09 15:07:03-06",
   "popularity": 5,
   "group_popularity": 6
 }

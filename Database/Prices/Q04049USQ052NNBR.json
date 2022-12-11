@@ -1,7 +1,7 @@
 {
   "id": "Q04049USQ052NNBR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Index of Wholesale Prices for United States",
   "observation_start": "1892-01-01",
   "observation_end": "1901-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:46:30-05",
   "popularity": 1,
-  "group_popularity": 24,
+  "group_popularity": 25,
   "notes": "This Series Is Concluded With The February, 1938 Issue Of Dun'S Review; November, 1937 Is The Last Available Datum (See January, 1938 Issue, P.33). Quarterly Figures Are First Of Quarter Data. Source: Bradstreet'S, January 15, 1910 (P.42); January, 15, 1916 (P.40); May, 5, 1923, (P.297); June 4, 1927 (P.377) And Succeeding Series. Dun And Bradstreet'S Monthly Review For April, 1933-December, 1936; Dun'S Review For 1937.\n\nThis NBER data series q04049 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: q04049"
 }

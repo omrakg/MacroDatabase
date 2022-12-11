@@ -1,7 +1,7 @@
 {
   "id": "PCU31135131135172",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Producer Price Index by Industry: Chocolate and Confectionery Manufacturing from Cacao: Sweetened/Unsweetened Chocolate/Cocoa Powder, Cacao Beans",
   "observation_start": "2011-12-01",
   "observation_end": "2018-12-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2019-05-09 07:54:57-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "M0425BUSM281NNBR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Wholesale Price of Evaporated Milk for United States",
   "observation_start": "1920-01-01",
   "observation_end": "1941-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:56:27-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Data Refers To \"Unsweetened Milk, Average Selling Price At Distributing Points.\" Price Refers To Cases Of Forty-Eight 14 1/2 Ounce Cans. 1920-1930 Figures Were Originally Published As Cases Of 16 Ounce Cans And Therefore Were Converted By NBER For Comparability (Conversion Factor Is .90625). Source: 1920 - January 1934: Bureau Of Agricultural Economics, \"Summary Of Dairy Situation Statistics\", Supplement To \"The Dairy Situation\", April 1934, P.70; February 1934 - 1941: Bae, \"Dairy And Poultry Market Statistics\", Annual Summaries\n\nThis NBER data series m04125b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04125b"
 }

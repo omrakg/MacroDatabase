@@ -1,7 +1,7 @@
 {
   "id": "DTEDRC1A027NBEA",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Personal consumption expenditures: Education services",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 13:59:45-05",
-  "popularity": 13,
-  "group_popularity": 13,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "BEA Account Code: DTEDRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

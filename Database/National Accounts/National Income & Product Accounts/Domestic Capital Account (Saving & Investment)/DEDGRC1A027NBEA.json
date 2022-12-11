@@ -1,7 +1,7 @@
 {
   "id": "DEDGRC1A027NBEA",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Gross output of nonprofit institutions serving households: Education",
   "observation_start": "1959-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:48:52-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "BEA Account Code: DEDGRC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,18 +1,18 @@
 {
   "id": "PRS88003172",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Nonfinancial Corporations Sector: Labor Share for Employees",
   "observation_start": "1947-04-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-07-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Percent Change at Annual Rate",
   "units_short": "% Chg. at Annual Rate",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-11-03 07:36:36-05",
+  "last_updated": "2022-12-07 07:36:31-06",
   "popularity": 1,
-  "group_popularity": 5,
+  "group_popularity": 7,
   "notes": "Labor's share in current dollar output in a given sector is simply the ratio of labor compensation paid in that sector to current dollar output:\n\nFor more information, please go to https://www.bls.gov/news.release/pdf/prod2.pdf\n\nSource Indicator PRS88003172"
 }

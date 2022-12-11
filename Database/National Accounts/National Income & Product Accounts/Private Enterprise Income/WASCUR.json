@@ -1,7 +1,7 @@
 {
   "id": "WASCUR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Compensation of Employees: Wages and Salary Accruals",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-11-30 07:53:37-06",
-  "popularity": 23,
-  "group_popularity": 23,
+  "popularity": 22,
+  "group_popularity": 22,
   "notes": "BEA Account Code: A034RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

@@ -1,7 +1,7 @@
 {
   "id": "B3475C1A027NBEA",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Current receipts from the rest of the world: Income receipts on assets: Reinvested earnings on U.S. direct investment abroad",
   "observation_start": "1948-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:49:14-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 3,
   "notes": "BEA Account Code: B3475C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,18 +1,18 @@
 {
   "id": "CRELCBW027SBOG",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Real Estate Loans: Commercial Real Estate Loans, Large Domestically Chartered Commercial Banks",
   "observation_start": "1996-10-02",
-  "observation_end": "2022-11-23",
+  "observation_end": "2022-11-30",
   "frequency": "Weekly, Ending Wednesday",
   "frequency_short": "W",
   "units": "Billions of U.S. Dollars",
   "units_short": "Bil. of U.S. $",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-12-02 15:36:53-06",
+  "last_updated": "2022-12-09 15:37:19-06",
   "popularity": 3,
-  "group_popularity": 6,
+  "group_popularity": 4,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's H.8 release, online at http://www.federalreserve.gov/releases/h8/."
 }

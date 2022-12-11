@@ -1,7 +1,7 @@
 {
   "id": "A072RC1A156NBEA",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Personal saving as a percentage of disposable personal income",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:47:01-05",
-  "popularity": 10,
-  "group_popularity": 55,
+  "popularity": 9,
+  "group_popularity": 54,
   "notes": "BEA Account Code: A072RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

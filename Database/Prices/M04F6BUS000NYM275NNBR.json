@@ -1,7 +1,7 @@
 {
   "id": "M04F6BUS000NYM275NNBR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Wholesale Price of Lard, Department of Agriculture for New York",
   "observation_start": "1938-01-01",
   "observation_end": "1956-06-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:50:19-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1911-1944; (2)--Original Data, 1938-1956. Data Is For Refined Prime Steam Lard In 1-16 Pound Cartons, Except For 1938-39 Which Represents Lard In Hardwood Tubs. Source: 1938-1954: Usda, \"Livestock Market News Statistics And Related Data\", 1948 (Published 08/1949); 1951 (Published 11/1952); 1954 (Published 06/1955); 1955-1956: Monthly Averages Of Weekly Gradations Compiled From Usda, Agricultural Marketing Service, Livestock Division, \"Market News\"\n\nThis NBER data series m04026b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04026b"
 }

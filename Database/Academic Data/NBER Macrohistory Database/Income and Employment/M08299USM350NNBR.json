@@ -1,7 +1,7 @@
 {
   "id": "M08299USM350NNBR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Index of Wage and Salary Cost Per Unit of Output, Manufacturing for United States",
   "observation_start": "1946-01-01",
   "observation_end": "1962-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-17 14:24:23-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Source: The Data Were Computed By NBER With Office Of Business Economics Series For Wage And Salary Disbursements In Manufacturing (Component Of Personal Income) Divided By (Index Of Production Of Manufactures Of The Federal Reserve System).\n\nThis NBER data series m08299 appears on the NBER website in Chapter 8 at http://www.nber.org/databases/macrohistory/contents/chapter08.html.\n\nNBER Indicator: m08299"
 }

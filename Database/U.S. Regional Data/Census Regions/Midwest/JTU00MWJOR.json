@@ -1,7 +1,7 @@
 {
   "id": "JTU00MWJOR",
-  "realtime_start": "2022-12-04",
-  "realtime_end": "2022-12-04",
+  "realtime_start": "2022-12-11",
+  "realtime_end": "2022-12-11",
   "title": "Job Openings: Total Nonfarm in Midwest Census Region",
   "observation_start": "2000-12-01",
   "observation_end": "2022-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-30 09:05:51-06",
   "popularity": 1,
-  "group_popularity": 6
+  "group_popularity": 7
 }
