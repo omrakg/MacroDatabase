@@ -8,18 +8,18 @@
 | AVELISPRIMM27900          | Housing Inventory: Average Listing Price Month-Over-Month in Joplin, MO (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY27900          | Housing Inventory: Average Listing Price Year-Over-Year in Joplin, MO (CBSA)                        | 2017-07-01          | 2022-11-01        |
 | DESCMSA27900              | Market Hotness: Demand Score in Joplin, MO (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
-| ENUC279030010             | Total Quarterly Wages in Joplin, MO (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ENUC279030010SA           | Total Quarterly Wages in Joplin, MO (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ENUC279040010             | Average Weekly Wages for Employees in Total Covered Establishments in Joplin, MO (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC279040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Joplin, MO (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC279040110             | Average Weekly Wages for Employees in Federal Government Establishments in Joplin, MO (MSA)         | 1990-01-01          | 2022-01-01        |
-| ENUC279040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Joplin, MO (MSA)         | 1990-01-01          | 2022-01-01        |
-| ENUC279040210             | Average Weekly Wages for Employees in State Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC279040210SA           | Average Weekly Wages for Employees in State Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC279040310             | Average Weekly Wages for Employees in Local Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC279040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC279040510             | Average Weekly Wages for Employees in Private Establishments in Joplin, MO (MSA)                    | 1990-01-01          | 2022-01-01        |
-| ENUC279040510SA           | Average Weekly Wages for Employees in Private Establishments in Joplin, MO (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC279030010             | Total Quarterly Wages in Joplin, MO (MSA)                                                           | 1990-01-01          | 2022-04-01        |
+| ENUC279030010SA           | Total Quarterly Wages in Joplin, MO (MSA)                                                           | 1990-01-01          | 2022-04-01        |
+| ENUC279040010             | Average Weekly Wages for Employees in Total Covered Establishments in Joplin, MO (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC279040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Joplin, MO (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC279040110             | Average Weekly Wages for Employees in Federal Government Establishments in Joplin, MO (MSA)         | 1990-01-01          | 2022-04-01        |
+| ENUC279040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Joplin, MO (MSA)         | 1990-01-01          | 2022-04-01        |
+| ENUC279040210             | Average Weekly Wages for Employees in State Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC279040210SA           | Average Weekly Wages for Employees in State Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC279040310             | Average Weekly Wages for Employees in Local Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC279040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Joplin, MO (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC279040510             | Average Weekly Wages for Employees in Private Establishments in Joplin, MO (MSA)                    | 1990-01-01          | 2022-04-01        |
+| ENUC279040510SA           | Average Weekly Wages for Employees in Private Establishments in Joplin, MO (MSA)                    | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA27900            | Market Hotness: Hotness Rank in Joplin, MO (CBSA)                                                   | 2017-09-01          | 2022-11-01        |
 | HORAMSA27900              | Market Hotness: Hotness Rank in Joplin, MO (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA27900            | Market Hotness: Hotness Rank in Joplin, MO (CBSA)                                                   | 2018-08-01          | 2022-11-01        |
@@ -75,7 +75,7 @@
 | NEWLISCOU27900            | Housing Inventory: New Listing Count in Joplin, MO (CBSA)                                           | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM27900          | Housing Inventory: New Listing Count Month-Over-Month in Joplin, MO (CBSA)                          | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY27900          | Housing Inventory: New Listing Count Year-Over-Year in Joplin, MO (CBSA)                            | 2017-07-01          | 2022-11-01        |
-| NGMP27900                 | Total Gross Domestic Product for Joplin, MO (MSA)                                                   | 2001-01-01          | 2020-01-01        |
+| NGMP27900                 | Total Gross Domestic Product for Joplin, MO (MSA)                                                   | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA27900            | Market Hotness: Nielsen Household Rank in Joplin, MO (CBSA)                                         | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA127900          | U.S. Granted Utility Patents Originating in Joplin, MO (MSA)                                        | 2000-01-01          | 2015-01-01        |
 | PENLISCOU27900            | Housing Inventory: Pending Listing Count in Joplin, MO (CBSA)                                       | 2016-07-01          | 2022-11-01        |
@@ -87,8 +87,8 @@
 | PRIREDCOU27900            | Housing Inventory: Price Reduced Count in Joplin, MO (CBSA)                                         | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM27900          | Housing Inventory: Price Reduced Count Month-Over-Month in Joplin, MO (CBSA)                        | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY27900          | Housing Inventory: Price Reduced Count Year-Over-Year in Joplin, MO (CBSA)                          | 2017-07-01          | 2022-11-01        |
-| QGMP27900                 | Total Quantity Indexes for Real GDP for Joplin, MO (MSA)                                            | 2001-01-01          | 2020-01-01        |
-| RGMP27900                 | Total Real Gross Domestic Product for Joplin, MO (MSA)                                              | 2001-01-01          | 2020-01-01        |
+| QGMP27900                 | Total Quantity Indexes for Real GDP for Joplin, MO (MSA)                                            | 2001-01-01          | 2021-01-01        |
+| RGMP27900                 | Total Real Gross Domestic Product for Joplin, MO (MSA)                                              | 2001-01-01          | 2021-01-01        |
 | RPI27900                  | Real Personal Income for Joplin, MO (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | RPIPC27900                | Real Per Capita Personal Income for Joplin, MO (MSA)                                                | 2008-01-01          | 2020-01-01        |
 | RPPALL27900               | Regional Price Parities: All Items for Joplin, MO (MSA)                                             | 2008-01-01          | 2020-01-01        |

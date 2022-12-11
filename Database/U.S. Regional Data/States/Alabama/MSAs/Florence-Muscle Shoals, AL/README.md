@@ -8,18 +8,18 @@
 | AVELISPRIMM22520          | Housing Inventory: Average Listing Price Month-Over-Month in Florence-Muscle Shoals, AL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY22520          | Housing Inventory: Average Listing Price Year-Over-Year in Florence-Muscle Shoals, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA22520              | Market Hotness: Demand Score in Florence-Muscle Shoals, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC225230010             | Total Quarterly Wages in Florence-Muscle Shoals, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC225230010SA           | Total Quarterly Wages in Florence-Muscle Shoals, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC225240010             | Average Weekly Wages for Employees in Total Covered Establishments in Florence-Muscle Shoals, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC225240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Florence-Muscle Shoals, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC225240110             | Average Weekly Wages for Employees in Federal Government Establishments in Florence-Muscle Shoals, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC225240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Florence-Muscle Shoals, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC225240210             | Average Weekly Wages for Employees in State Government Establishments in Florence-Muscle Shoals, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC225240210SA           | Average Weekly Wages for Employees in State Government Establishments in Florence-Muscle Shoals, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC225240310             | Average Weekly Wages for Employees in Local Government Establishments in Florence-Muscle Shoals, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC225240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Florence-Muscle Shoals, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC225240510             | Average Weekly Wages for Employees in Private Establishments in Florence-Muscle Shoals, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC225240510SA           | Average Weekly Wages for Employees in Private Establishments in Florence-Muscle Shoals, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC225230010             | Total Quarterly Wages in Florence-Muscle Shoals, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC225230010SA           | Total Quarterly Wages in Florence-Muscle Shoals, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC225240010             | Average Weekly Wages for Employees in Total Covered Establishments in Florence-Muscle Shoals, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC225240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Florence-Muscle Shoals, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC225240110             | Average Weekly Wages for Employees in Federal Government Establishments in Florence-Muscle Shoals, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC225240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Florence-Muscle Shoals, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC225240210             | Average Weekly Wages for Employees in State Government Establishments in Florence-Muscle Shoals, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC225240210SA           | Average Weekly Wages for Employees in State Government Establishments in Florence-Muscle Shoals, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC225240310             | Average Weekly Wages for Employees in Local Government Establishments in Florence-Muscle Shoals, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC225240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Florence-Muscle Shoals, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC225240510             | Average Weekly Wages for Employees in Private Establishments in Florence-Muscle Shoals, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC225240510SA           | Average Weekly Wages for Employees in Private Establishments in Florence-Muscle Shoals, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | FLOPOP                    | Resident Population in Florence-Muscle Shoals, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | FLOR501EDUH               | All Employees: Education and Health Services in Florence-Muscle Shoals, AL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FLOR501EDUHN              | All Employees: Education and Health Services in Florence-Muscle Shoals, AL (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU22520            | Housing Inventory: New Listing Count in Florence-Muscle Shoals, AL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM22520          | Housing Inventory: New Listing Count Month-Over-Month in Florence-Muscle Shoals, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY22520          | Housing Inventory: New Listing Count Year-Over-Year in Florence-Muscle Shoals, AL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP22520                 | Total Gross Domestic Product for Florence-Muscle Shoals, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP22520                 | Total Gross Domestic Product for Florence-Muscle Shoals, AL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA22520            | Market Hotness: Nielsen Household Rank in Florence-Muscle Shoals, AL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA122520          | U.S. Granted Utility Patents Originating in Florence-Muscle Shoals, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU22520            | Housing Inventory: Pending Listing Count in Florence-Muscle Shoals, AL (CBSA)                                               | 2016-08-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU22520            | Housing Inventory: Price Reduced Count in Florence-Muscle Shoals, AL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM22520          | Housing Inventory: Price Reduced Count Month-Over-Month in Florence-Muscle Shoals, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY22520          | Housing Inventory: Price Reduced Count Year-Over-Year in Florence-Muscle Shoals, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP22520                 | Total Quantity Indexes for Real GDP for Florence-Muscle Shoals, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP22520                 | Total Real Gross Domestic Product for Florence-Muscle Shoals, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP22520                 | Total Quantity Indexes for Real GDP for Florence-Muscle Shoals, AL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP22520                 | Total Real Gross Domestic Product for Florence-Muscle Shoals, AL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI22520                  | Real Personal Income for Florence-Muscle Shoals, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC22520                | Real Per Capita Personal Income for Florence-Muscle Shoals, AL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL22520               | Regional Price Parities: All Items for Florence-Muscle Shoals, AL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

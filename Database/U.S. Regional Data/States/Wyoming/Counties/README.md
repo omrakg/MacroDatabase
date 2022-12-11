@@ -7,7 +7,7 @@
 | Sweetwater County, WY  |                90 |
 | Converse County, WY    |                89 |
 | Lincoln County, WY     |                90 |
-| Laramie County, WY     |                 0 |
+| Laramie County, WY     |               147 |
 | Johnson County, WY     |                90 |
 | Sublette County, WY    |                89 |
 | Goshen County, WY      |                90 |
@@ -19,7 +19,7 @@
 | Weston County, WY      |                89 |
 | Platte County, WY      |                89 |
 | Hot Springs County, WY |                89 |
-| Park County, WY        |                90 |
+| Park County, WY        |                 0 |
 | Fremont County, WY     |                90 |
 | Uinta County, WY       |                90 |
 | Campbell County, WY    |                90 |

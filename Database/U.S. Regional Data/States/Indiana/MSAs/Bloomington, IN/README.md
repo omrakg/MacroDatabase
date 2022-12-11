@@ -36,14 +36,14 @@
 | BLOO018UR                 | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | BLOO018URN                | Unemployment Rate in Bloomington, IN (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA14020              | Market Hotness: Demand Score in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC140230010             | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC140230010SA           | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC140240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC140240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC140240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC140240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC140240510             | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC140240510SA           | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC140230010             | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC140230010SA           | Total Quarterly Wages in Bloomington, IN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC140240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC140240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bloomington, IN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC140240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC140240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bloomington, IN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC140240510             | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC140240510SA           | Average Weekly Wages for Employees in Private Establishments in Bloomington, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA14020            | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA14020              | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA14020            | Market Hotness: Hotness Rank in Bloomington, IN (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -84,7 +84,7 @@
 | NEWLISCOU14020            | Housing Inventory: New Listing Count in Bloomington, IN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM14020          | Housing Inventory: New Listing Count Month-Over-Month in Bloomington, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY14020          | Housing Inventory: New Listing Count Year-Over-Year in Bloomington, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP14020                 | Total Gross Domestic Product for Bloomington, IN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP14020                 | Total Gross Domestic Product for Bloomington, IN (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA14020            | Market Hotness: Nielsen Household Rank in Bloomington, IN (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA114020          | U.S. Granted Utility Patents Originating in Bloomington, IN (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU14020            | Housing Inventory: Pending Listing Count in Bloomington, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -96,8 +96,8 @@
 | PRIREDCOU14020            | Housing Inventory: Price Reduced Count in Bloomington, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM14020          | Housing Inventory: Price Reduced Count Month-Over-Month in Bloomington, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY14020          | Housing Inventory: Price Reduced Count Year-Over-Year in Bloomington, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP14020                 | Total Quantity Indexes for Real GDP for Bloomington, IN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP14020                 | Total Real Gross Domestic Product for Bloomington, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP14020                 | Total Quantity Indexes for Real GDP for Bloomington, IN (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP14020                 | Total Real Gross Domestic Product for Bloomington, IN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI14010                  | Real Personal Income for Bloomington, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPI14020                  | Real Personal Income for Bloomington, IN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC14010                | Real Per Capita Personal Income for Bloomington, IL (MSA)                                                        | 2008-01-01          | 2020-01-01        |

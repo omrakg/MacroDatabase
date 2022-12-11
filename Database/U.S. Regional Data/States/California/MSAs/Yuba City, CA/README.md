@@ -8,18 +8,18 @@
 | AVELISPRIMM49700          | Housing Inventory: Average Listing Price Month-Over-Month in Yuba City, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY49700          | Housing Inventory: Average Listing Price Year-Over-Year in Yuba City, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA49700              | Market Hotness: Demand Score in Yuba City, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC497030010             | Total Quarterly Wages in Yuba City, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC497030010SA           | Total Quarterly Wages in Yuba City, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC497040010             | Average Weekly Wages for Employees in Total Covered Establishments in Yuba City, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC497040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yuba City, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC497040110             | Average Weekly Wages for Employees in Federal Government Establishments in Yuba City, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC497040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yuba City, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC497040210             | Average Weekly Wages for Employees in State Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC497040210SA           | Average Weekly Wages for Employees in State Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC497040310             | Average Weekly Wages for Employees in Local Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC497040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC497040510             | Average Weekly Wages for Employees in Private Establishments in Yuba City, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC497040510SA           | Average Weekly Wages for Employees in Private Establishments in Yuba City, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC497030010             | Total Quarterly Wages in Yuba City, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC497030010SA           | Total Quarterly Wages in Yuba City, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC497040010             | Average Weekly Wages for Employees in Total Covered Establishments in Yuba City, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC497040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yuba City, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC497040110             | Average Weekly Wages for Employees in Federal Government Establishments in Yuba City, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC497040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yuba City, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC497040210             | Average Weekly Wages for Employees in State Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC497040210SA           | Average Weekly Wages for Employees in State Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC497040310             | Average Weekly Wages for Employees in Local Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC497040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yuba City, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC497040510             | Average Weekly Wages for Employees in Private Establishments in Yuba City, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC497040510SA           | Average Weekly Wages for Employees in Private Establishments in Yuba City, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA49700            | Market Hotness: Hotness Rank in Yuba City, CA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA49700              | Market Hotness: Hotness Rank in Yuba City, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA49700            | Market Hotness: Hotness Rank in Yuba City, CA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU49700            | Housing Inventory: New Listing Count in Yuba City, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM49700          | Housing Inventory: New Listing Count Month-Over-Month in Yuba City, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY49700          | Housing Inventory: New Listing Count Year-Over-Year in Yuba City, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP49700                 | Total Gross Domestic Product for Yuba City, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP49700                 | Total Gross Domestic Product for Yuba City, CA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA49700            | Market Hotness: Nielsen Household Rank in Yuba City, CA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA149700          | U.S. Granted Utility Patents Originating in Yuba City, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU49700            | Housing Inventory: Pending Listing Count in Yuba City, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU49700            | Housing Inventory: Price Reduced Count in Yuba City, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM49700          | Housing Inventory: Price Reduced Count Month-Over-Month in Yuba City, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY49700          | Housing Inventory: Price Reduced Count Year-Over-Year in Yuba City, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP49700                 | Total Quantity Indexes for Real GDP for Yuba City, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP49700                 | Total Real Gross Domestic Product for Yuba City, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP49700                 | Total Quantity Indexes for Real GDP for Yuba City, CA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP49700                 | Total Real Gross Domestic Product for Yuba City, CA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI49700                  | Real Personal Income for Yuba City, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC49700                | Real Per Capita Personal Income for Yuba City, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL49700               | Regional Price Parities: All Items for Yuba City, CA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

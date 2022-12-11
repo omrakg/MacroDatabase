@@ -7,7 +7,7 @@
 | Guam                                                 |                11 |
 | Chad                                                 |               218 |
 | Bolivia, Plurinational State of                      |               239 |
-| Lesotho                                              |                 0 |
+| Lesotho                                              |               197 |
 | Saint Kitts and Nevis                                |               207 |
 | Rwanda                                               |               300 |
 | Liechtenstein                                        |               102 |
@@ -67,7 +67,7 @@
 | Martinique                                           |                89 |
 | South Africa                                         |                 0 |
 | Fiji                                                 |               245 |
-| Kosovo                                               |                 0 |
+| Kosovo                                               |               140 |
 | India                                                |                 0 |
 | Equatorial Guinea                                    |               200 |
 | Gabon                                                |               239 |
@@ -91,7 +91,7 @@
 | Trinidad and Tobago                                  |               230 |
 | Saint Martin, Collectivity of                        |                 6 |
 | Montenegro                                           |               181 |
-| Brunei Darussalam                                    |               234 |
+| Brunei Darussalam                                    |                 0 |
 | Sint Maarten (Dutch part)                            |               111 |
 | Ireland                                              |                 0 |
 | Belarus                                              |               202 |
@@ -127,7 +127,7 @@
 | Guinea                                               |               334 |
 | Libyan Arab Jamahiriya                               |               225 |
 | Bosnia and Herzegovina                               |               226 |
-| Mongolia                                             |                 0 |
+| Mongolia                                             |               196 |
 | Uruguay                                              |               243 |
 | Svalbard and Jan Mayen                               |                43 |
 | Republic of the Gambia                               |               205 |
@@ -151,22 +151,22 @@
 | San Marino                                           |               148 |
 | Honduras                                             |               238 |
 | Curaçao                                              |               116 |
-| Panama                                               |               225 |
+| Panama                                               |                 0 |
 | Guatemala                                            |               237 |
 | Myanmar                                              |               287 |
 | Qatar                                                |               259 |
 | Reunion                                              |                78 |
 | Mauritius                                            |               271 |
-| Somalia                                              |                80 |
+| Somalia                                              |                 0 |
 | Nicaragua                                            |               235 |
 | Montserrat                                           |                81 |
 | Czech Republic                                       |               797 |
 | Grenada                                              |               192 |
-| Azerbaijan                                           |               230 |
+| Azerbaijan                                           |                 0 |
 | Jersey                                               |                 0 |
 | Greece                                               |                 0 |
 | Virgin Islands, U.S.                                 |               144 |
-| Haiti                                                |               213 |
+| Haiti                                                |                 0 |
 | Wallis and Futuna                                    |                33 |
 | Namibia                                              |               272 |
 | Colombia                                             |               919 |
@@ -187,7 +187,7 @@
 | Burundi                                              |               282 |
 | Central African Republic                             |               185 |
 | Belize                                               |               216 |
-| Holy See (Vatican City State)                        |                 0 |
+| Holy See (Vatican City State)                        |                58 |
 | Andorra                                              |                80 |
 | Djibouti                                             |               188 |
 | Singapore                                            |                 0 |
@@ -214,7 +214,7 @@
 | Aland Islands                                        |                 0 |
 | Turkmenistan                                         |               142 |
 | United Kingdom                                       |                 0 |
-| Caribbean Netherlands                                |                16 |
+| Caribbean Netherlands                                |                 0 |
 | Sri Lanka                                            |                 0 |
 | Bangladesh                                           |               360 |
 | Australia                                            |                 0 |

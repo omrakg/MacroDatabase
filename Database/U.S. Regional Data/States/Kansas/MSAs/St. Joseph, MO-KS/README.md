@@ -7,16 +7,16 @@
 | AVELISPRI41140            | Housing Inventory: Average Listing Price in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM41140          | Housing Inventory: Average Listing Price Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY41140          | Housing Inventory: Average Listing Price Year-Over-Year in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC411430010             | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC411430010SA           | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC411440010             | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC411440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC411440110             | Average Weekly Wages for Employees in Federal Government Establishments in St. Joseph, MO-KS (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC411440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in St. Joseph, MO-KS (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC411440210             | Average Weekly Wages for Employees in State Government Establishments in St. Joseph, MO-KS (MSA)     | 2001-01-01          | 2022-01-01        |
-| ENUC411440310             | Average Weekly Wages for Employees in Local Government Establishments in St. Joseph, MO-KS (MSA)     | 2001-01-01          | 2022-01-01        |
-| ENUC411440510             | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC411440510SA           | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC411430010             | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC411430010SA           | Total Quarterly Wages in St. Joseph, MO-KS (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC411440010             | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC411440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in St. Joseph, MO-KS (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC411440110             | Average Weekly Wages for Employees in Federal Government Establishments in St. Joseph, MO-KS (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC411440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in St. Joseph, MO-KS (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC411440210             | Average Weekly Wages for Employees in State Government Establishments in St. Joseph, MO-KS (MSA)     | 2001-01-01          | 2022-04-01        |
+| ENUC411440310             | Average Weekly Wages for Employees in Local Government Establishments in St. Joseph, MO-KS (MSA)     | 2001-01-01          | 2022-04-01        |
+| ENUC411440510             | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC411440510SA           | Average Weekly Wages for Employees in Private Establishments in St. Joseph, MO-KS (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD41140                 | Implicit Regional Price Deflator for St. Joseph, MO-KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT294114000000003A     | Unemployment Rate in St. Joseph, MO-KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT294114000000004      | Unemployed Persons in St. Joseph, MO-KS (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -39,7 +39,7 @@
 | NEWLISCOU41140            | Housing Inventory: New Listing Count in St. Joseph, MO-KS (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM41140          | Housing Inventory: New Listing Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY41140          | Housing Inventory: New Listing Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP41140                 | Total Gross Domestic Product for St. Joseph, MO-KS (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP41140                 | Total Gross Domestic Product for St. Joseph, MO-KS (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA141140          | U.S. Granted Utility Patents Originating in St. Joseph, MO-KS (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU41140            | Housing Inventory: Pending Listing Count in St. Joseph, MO-KS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM41140          | Housing Inventory: Pending Listing Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -50,8 +50,8 @@
 | PRIREDCOU41140            | Housing Inventory: Price Reduced Count in St. Joseph, MO-KS (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM41140          | Housing Inventory: Price Reduced Count Month-Over-Month in St. Joseph, MO-KS (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY41140          | Housing Inventory: Price Reduced Count Year-Over-Year in St. Joseph, MO-KS (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP41140                 | Total Quantity Indexes for Real GDP for St. Joseph, MO-KS (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP41140                 | Total Real Gross Domestic Product for St. Joseph, MO-KS (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP41140                 | Total Quantity Indexes for Real GDP for St. Joseph, MO-KS (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP41140                 | Total Real Gross Domestic Product for St. Joseph, MO-KS (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI41140                  | Real Personal Income for St. Joseph, MO-KS (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC41140                | Real Per Capita Personal Income for St. Joseph, MO-KS (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL41140               | Regional Price Parities: All Items for St. Joseph, MO-KS (MSA)                                       | 2008-01-01          | 2020-01-01        |

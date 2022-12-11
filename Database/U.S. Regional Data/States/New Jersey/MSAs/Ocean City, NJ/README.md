@@ -7,18 +7,18 @@
 | AVELISPRI36140            | Housing Inventory: Average Listing Price in Ocean City, NJ (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM36140          | Housing Inventory: Average Listing Price Month-Over-Month in Ocean City, NJ (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY36140          | Housing Inventory: Average Listing Price Year-Over-Year in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-11-01        |
-| ENUC361430010             | Total Quarterly Wages in Ocean City, NJ (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC361430010SA           | Total Quarterly Wages in Ocean City, NJ (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC361440010             | Average Weekly Wages for Employees in Total Covered Establishments in Ocean City, NJ (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC361440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ocean City, NJ (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC361440110             | Average Weekly Wages for Employees in Federal Government Establishments in Ocean City, NJ (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC361440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ocean City, NJ (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC361440210             | Average Weekly Wages for Employees in State Government Establishments in Ocean City, NJ (MSA)        | 1995-01-01          | 2022-01-01        |
-| ENUC361440210SA           | Average Weekly Wages for Employees in State Government Establishments in Ocean City, NJ (MSA)        | 1995-01-01          | 2022-01-01        |
-| ENUC361440310             | Average Weekly Wages for Employees in Local Government Establishments in Ocean City, NJ (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC361440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Ocean City, NJ (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC361440510             | Average Weekly Wages for Employees in Private Establishments in Ocean City, NJ (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC361440510SA           | Average Weekly Wages for Employees in Private Establishments in Ocean City, NJ (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC361430010             | Total Quarterly Wages in Ocean City, NJ (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC361430010SA           | Total Quarterly Wages in Ocean City, NJ (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC361440010             | Average Weekly Wages for Employees in Total Covered Establishments in Ocean City, NJ (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC361440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ocean City, NJ (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC361440110             | Average Weekly Wages for Employees in Federal Government Establishments in Ocean City, NJ (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC361440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ocean City, NJ (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC361440210             | Average Weekly Wages for Employees in State Government Establishments in Ocean City, NJ (MSA)        | 1995-01-01          | 2022-04-01        |
+| ENUC361440210SA           | Average Weekly Wages for Employees in State Government Establishments in Ocean City, NJ (MSA)        | 1995-01-01          | 2022-04-01        |
+| ENUC361440310             | Average Weekly Wages for Employees in Local Government Establishments in Ocean City, NJ (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC361440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Ocean City, NJ (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC361440510             | Average Weekly Wages for Employees in Private Establishments in Ocean City, NJ (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC361440510SA           | Average Weekly Wages for Employees in Private Establishments in Ocean City, NJ (MSA)                 | 1990-01-01          | 2022-04-01        |
 | IRPD36140                 | Implicit Regional Price Deflator for Ocean City, NJ (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT343614000000003A     | Unemployment Rate in Ocean City, NJ (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT343614000000004      | Unemployed Persons in Ocean City, NJ (MSA)                                                           | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU36140            | Housing Inventory: New Listing Count in Ocean City, NJ (CBSA)                                        | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM36140          | Housing Inventory: New Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY36140          | Housing Inventory: New Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                         | 2017-07-01          | 2022-11-01        |
-| NGMP36140                 | Total Gross Domestic Product for Ocean City, NJ (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| NGMP36140                 | Total Gross Domestic Product for Ocean City, NJ (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | OCEA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-10-01        |
 | OCEA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-10-01        |
 | OCEA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-10-01        |
@@ -72,8 +72,8 @@
 | PRIREDCOU36140            | Housing Inventory: Price Reduced Count in Ocean City, NJ (CBSA)                                      | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM36140          | Housing Inventory: Price Reduced Count Month-Over-Month in Ocean City, NJ (CBSA)                     | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY36140          | Housing Inventory: Price Reduced Count Year-Over-Year in Ocean City, NJ (CBSA)                       | 2017-07-01          | 2022-11-01        |
-| QGMP36140                 | Total Quantity Indexes for Real GDP for Ocean City, NJ (MSA)                                         | 2001-01-01          | 2020-01-01        |
-| RGMP36140                 | Total Real Gross Domestic Product for Ocean City, NJ (MSA)                                           | 2001-01-01          | 2020-01-01        |
+| QGMP36140                 | Total Quantity Indexes for Real GDP for Ocean City, NJ (MSA)                                         | 2001-01-01          | 2021-01-01        |
+| RGMP36140                 | Total Real Gross Domestic Product for Ocean City, NJ (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RPI36140                  | Real Personal Income for Ocean City, NJ (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPIPC36140                | Real Per Capita Personal Income for Ocean City, NJ (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPALL36140               | Regional Price Parities: All Items for Ocean City, NJ (MSA)                                          | 2008-01-01          | 2020-01-01        |

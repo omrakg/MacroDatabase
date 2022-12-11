@@ -8,18 +8,18 @@
 | AVELISPRIMM28740          | Housing Inventory: Average Listing Price Month-Over-Month in Kingston, NY (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY28740          | Housing Inventory: Average Listing Price Year-Over-Year in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA28740              | Market Hotness: Demand Score in Kingston, NY (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC287430010             | Total Quarterly Wages in Kingston, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC287430010SA           | Total Quarterly Wages in Kingston, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC287440010             | Average Weekly Wages for Employees in Total Covered Establishments in Kingston, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC287440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kingston, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC287440110             | Average Weekly Wages for Employees in Federal Government Establishments in Kingston, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC287440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kingston, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC287440210             | Average Weekly Wages for Employees in State Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC287440210SA           | Average Weekly Wages for Employees in State Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC287440310             | Average Weekly Wages for Employees in Local Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC287440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC287440510             | Average Weekly Wages for Employees in Private Establishments in Kingston, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC287440510SA           | Average Weekly Wages for Employees in Private Establishments in Kingston, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC287430010             | Total Quarterly Wages in Kingston, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC287430010SA           | Total Quarterly Wages in Kingston, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC287440010             | Average Weekly Wages for Employees in Total Covered Establishments in Kingston, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC287440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kingston, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC287440110             | Average Weekly Wages for Employees in Federal Government Establishments in Kingston, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC287440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kingston, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC287440210             | Average Weekly Wages for Employees in State Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC287440210SA           | Average Weekly Wages for Employees in State Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC287440310             | Average Weekly Wages for Employees in Local Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC287440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kingston, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC287440510             | Average Weekly Wages for Employees in Private Establishments in Kingston, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC287440510SA           | Average Weekly Wages for Employees in Private Establishments in Kingston, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA28740            | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA28740              | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA28740            | Market Hotness: Hotness Rank in Kingston, NY (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU28740            | Housing Inventory: New Listing Count in Kingston, NY (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM28740          | Housing Inventory: New Listing Count Month-Over-Month in Kingston, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY28740          | Housing Inventory: New Listing Count Year-Over-Year in Kingston, NY (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP28740                 | Total Gross Domestic Product for Kingston, NY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP28740                 | Total Gross Domestic Product for Kingston, NY (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA28740            | Market Hotness: Nielsen Household Rank in Kingston, NY (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA128740          | U.S. Granted Utility Patents Originating in Kingston, NY (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU28740            | Housing Inventory: Pending Listing Count in Kingston, NY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU28740            | Housing Inventory: Price Reduced Count in Kingston, NY (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM28740          | Housing Inventory: Price Reduced Count Month-Over-Month in Kingston, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY28740          | Housing Inventory: Price Reduced Count Year-Over-Year in Kingston, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP28740                 | Total Quantity Indexes for Real GDP for Kingston, NY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP28740                 | Total Real Gross Domestic Product for Kingston, NY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP28740                 | Total Quantity Indexes for Real GDP for Kingston, NY (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP28740                 | Total Real Gross Domestic Product for Kingston, NY (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI28740                  | Real Personal Income for Kingston, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC28740                | Real Per Capita Personal Income for Kingston, NY (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL28740               | Regional Price Parities: All Items for Kingston, NY (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM39380          | Housing Inventory: Average Listing Price Month-Over-Month in Pueblo, CO (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY39380          | Housing Inventory: Average Listing Price Year-Over-Year in Pueblo, CO (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA39380              | Market Hotness: Demand Score in Pueblo, CO (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC393830010             | Total Quarterly Wages in Pueblo, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC393830010SA           | Total Quarterly Wages in Pueblo, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC393840010             | Average Weekly Wages for Employees in Total Covered Establishments in Pueblo, CO (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC393840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pueblo, CO (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC393840110             | Average Weekly Wages for Employees in Federal Government Establishments in Pueblo, CO (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC393840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pueblo, CO (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC393840210             | Average Weekly Wages for Employees in State Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC393840210SA           | Average Weekly Wages for Employees in State Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC393840310             | Average Weekly Wages for Employees in Local Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC393840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC393840510             | Average Weekly Wages for Employees in Private Establishments in Pueblo, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC393840510SA           | Average Weekly Wages for Employees in Private Establishments in Pueblo, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC393830010             | Total Quarterly Wages in Pueblo, CO (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC393830010SA           | Total Quarterly Wages in Pueblo, CO (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC393840010             | Average Weekly Wages for Employees in Total Covered Establishments in Pueblo, CO (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC393840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pueblo, CO (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC393840110             | Average Weekly Wages for Employees in Federal Government Establishments in Pueblo, CO (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC393840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pueblo, CO (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC393840210             | Average Weekly Wages for Employees in State Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC393840210SA           | Average Weekly Wages for Employees in State Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC393840310             | Average Weekly Wages for Employees in Local Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC393840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pueblo, CO (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC393840510             | Average Weekly Wages for Employees in Private Establishments in Pueblo, CO (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC393840510SA           | Average Weekly Wages for Employees in Private Establishments in Pueblo, CO (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA39380            | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA39380              | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA39380            | Market Hotness: Hotness Rank in Pueblo, CO (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU39380            | Housing Inventory: New Listing Count in Pueblo, CO (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM39380          | Housing Inventory: New Listing Count Month-Over-Month in Pueblo, CO (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY39380          | Housing Inventory: New Listing Count Year-Over-Year in Pueblo, CO (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP39380                 | Total Gross Domestic Product for Pueblo, CO (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP39380                 | Total Gross Domestic Product for Pueblo, CO (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA39380            | Market Hotness: Nielsen Household Rank in Pueblo, CO (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA139380          | U.S. Granted Utility Patents Originating in Pueblo, CO (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU39380            | Housing Inventory: Pending Listing Count in Pueblo, CO (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PUEB308UR                 | Unemployment Rate in Pueblo, CO (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | PUEB308URN                | Unemployment Rate in Pueblo, CO (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | PUEPOP                    | Resident Population in Pueblo, CO (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| QGMP39380                 | Total Quantity Indexes for Real GDP for Pueblo, CO (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP39380                 | Total Real Gross Domestic Product for Pueblo, CO (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP39380                 | Total Quantity Indexes for Real GDP for Pueblo, CO (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP39380                 | Total Real Gross Domestic Product for Pueblo, CO (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI39380                  | Real Personal Income for Pueblo, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC39380                | Real Per Capita Personal Income for Pueblo, CO (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL39380               | Regional Price Parities: All Items for Pueblo, CO (MSA)                                                     | 2008-01-01          | 2020-01-01        |

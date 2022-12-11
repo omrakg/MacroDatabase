@@ -8,18 +8,18 @@
 | AVELISPRIMM47380          | Housing Inventory: Average Listing Price Month-Over-Month in Waco, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY47380          | Housing Inventory: Average Listing Price Year-Over-Year in Waco, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA47380              | Market Hotness: Demand Score in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC473830010             | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC473830010SA           | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC473840010             | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC473840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC473840110             | Average Weekly Wages for Employees in Federal Government Establishments in Waco, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC473840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Waco, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC473840210             | Average Weekly Wages for Employees in State Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC473840210SA           | Average Weekly Wages for Employees in State Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC473840310             | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC473840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC473840510             | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC473840510SA           | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC473830010             | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC473830010SA           | Total Quarterly Wages in Waco, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC473840010             | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC473840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Waco, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC473840110             | Average Weekly Wages for Employees in Federal Government Establishments in Waco, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC473840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Waco, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC473840210             | Average Weekly Wages for Employees in State Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC473840210SA           | Average Weekly Wages for Employees in State Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC473840310             | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC473840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Waco, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC473840510             | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC473840510SA           | Average Weekly Wages for Employees in Private Establishments in Waco, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA47380            | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA47380              | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA47380            | Market Hotness: Hotness Rank in Waco, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU47380            | Housing Inventory: New Listing Count in Waco, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM47380          | Housing Inventory: New Listing Count Month-Over-Month in Waco, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY47380          | Housing Inventory: New Listing Count Year-Over-Year in Waco, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP47380                 | Total Gross Domestic Product for Waco, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP47380                 | Total Gross Domestic Product for Waco, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA47380            | Market Hotness: Nielsen Household Rank in Waco, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA147380          | U.S. Granted Utility Patents Originating in Waco, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU47380            | Housing Inventory: Pending Listing Count in Waco, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU47380            | Housing Inventory: Price Reduced Count in Waco, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM47380          | Housing Inventory: Price Reduced Count Month-Over-Month in Waco, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY47380          | Housing Inventory: Price Reduced Count Year-Over-Year in Waco, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP47380                 | Total Quantity Indexes for Real GDP for Waco, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP47380                 | Total Real Gross Domestic Product for Waco, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP47380                 | Total Quantity Indexes for Real GDP for Waco, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP47380                 | Total Real Gross Domestic Product for Waco, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI47380                  | Real Personal Income for Waco, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC47380                | Real Per Capita Personal Income for Waco, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL47380               | Regional Price Parities: All Items for Waco, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -5,5 +5,5 @@
 | Trade                            |                 8 |
 | Fiscal                           |                10 |
 | National Accounts                |                28 |
-| Wages and Prices                 |                18 |
+| Wages and Prices                 |                 0 |
 | Financial Markets                |                40 |

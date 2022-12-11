@@ -19,7 +19,7 @@
 | Limestone County, AL  |               147 |
 | Madison County, AL    |               147 |
 | Conecuh County, AL    |                88 |
-| Montgomery County, AL |               147 |
+| Montgomery County, AL |                 0 |
 | Escambia County, AL   |                89 |
 | St. Clair County, AL  |               147 |
 | Covington County, AL  |                89 |
@@ -41,7 +41,7 @@
 | Tuscaloosa County, AL |               147 |
 | Perry County, AL      |                89 |
 | Choctaw County, AL    |                88 |
-| Lee County, AL        |                 0 |
+| Lee County, AL        |               147 |
 | Colbert County, AL    |               146 |
 | Randolph County, AL   |                90 |
 | Dale County, AL       |               146 |

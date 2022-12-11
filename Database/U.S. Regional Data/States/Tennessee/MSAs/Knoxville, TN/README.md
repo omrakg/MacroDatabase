@@ -8,16 +8,16 @@
 | AVELISPRIMM28940          | Housing Inventory: Average Listing Price Month-Over-Month in Knoxville, TN (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY28940          | Housing Inventory: Average Listing Price Year-Over-Year in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA28940              | Market Hotness: Demand Score in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC289430010             | Total Quarterly Wages in Knoxville, TN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC289430010SA           | Total Quarterly Wages in Knoxville, TN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC289440010             | Average Weekly Wages for Employees in Total Covered Establishments in Knoxville, TN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC289440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Knoxville, TN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC289440110             | Average Weekly Wages for Employees in Federal Government Establishments in Knoxville, TN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC289440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Knoxville, TN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC289440210             | Average Weekly Wages for Employees in State Government Establishments in Knoxville, TN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC289440310             | Average Weekly Wages for Employees in Local Government Establishments in Knoxville, TN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC289440510             | Average Weekly Wages for Employees in Private Establishments in Knoxville, TN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC289440510SA           | Average Weekly Wages for Employees in Private Establishments in Knoxville, TN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC289430010             | Total Quarterly Wages in Knoxville, TN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC289430010SA           | Total Quarterly Wages in Knoxville, TN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC289440010             | Average Weekly Wages for Employees in Total Covered Establishments in Knoxville, TN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC289440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Knoxville, TN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC289440110             | Average Weekly Wages for Employees in Federal Government Establishments in Knoxville, TN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC289440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Knoxville, TN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC289440210             | Average Weekly Wages for Employees in State Government Establishments in Knoxville, TN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC289440310             | Average Weekly Wages for Employees in Local Government Establishments in Knoxville, TN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC289440510             | Average Weekly Wages for Employees in Private Establishments in Knoxville, TN (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC289440510SA           | Average Weekly Wages for Employees in Private Establishments in Knoxville, TN (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA28940            | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA28940              | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA28940            | Market Hotness: Hotness Rank in Knoxville, TN (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -86,7 +86,7 @@
 | NEWLISCOU28940            | Housing Inventory: New Listing Count in Knoxville, TN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM28940          | Housing Inventory: New Listing Count Month-Over-Month in Knoxville, TN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY28940          | Housing Inventory: New Listing Count Year-Over-Year in Knoxville, TN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP28940                 | Total Gross Domestic Product for Knoxville, TN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP28940                 | Total Gross Domestic Product for Knoxville, TN (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA28940            | Market Hotness: Nielsen Household Rank in Knoxville, TN (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA128940          | U.S. Granted Utility Patents Originating in Knoxville, TN (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU28940            | Housing Inventory: Pending Listing Count in Knoxville, TN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -98,8 +98,8 @@
 | PRIREDCOU28940            | Housing Inventory: Price Reduced Count in Knoxville, TN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM28940          | Housing Inventory: Price Reduced Count Month-Over-Month in Knoxville, TN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY28940          | Housing Inventory: Price Reduced Count Year-Over-Year in Knoxville, TN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP28940                 | Total Quantity Indexes for Real GDP for Knoxville, TN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP28940                 | Total Real Gross Domestic Product for Knoxville, TN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP28940                 | Total Quantity Indexes for Real GDP for Knoxville, TN (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP28940                 | Total Real Gross Domestic Product for Knoxville, TN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI28940                  | Real Personal Income for Knoxville, TN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC28940                | Real Per Capita Personal Income for Knoxville, TN (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL28940               | Regional Price Parities: All Items for Knoxville, TN (MSA)                                                     | 2008-01-01          | 2020-01-01        |

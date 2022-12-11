@@ -15,7 +15,7 @@
 | Baxter County, AR       |               144 |
 | Johnson County, AR      |                89 |
 | Cross County, AR        |                90 |
-| Howard County, AR       |                89 |
+| Howard County, AR       |                 0 |
 | Franklin County, AR     |                90 |
 | Mississippi County, AR  |                89 |
 | Stone County, AR        |                89 |
@@ -49,7 +49,7 @@
 | Prairie County, AR      |                89 |
 | Garland County, AR      |               147 |
 | Fulton County, AR       |                89 |
-| Jefferson County, AR    |                 0 |
+| Jefferson County, AR    |               147 |
 | Pike County, AR         |                87 |
 | Lee County, AR          |                88 |
 | Sebastian County, AR    |               147 |

@@ -10,8 +10,8 @@
 | Alpine County, CA               |                86 |
 | Kern County, CA                 |               147 |
 | San Francisco County - city, CA |                 0 |
-| San Joaquin County, CA          |               146 |
-| Contra Costa County, CA         |                 0 |
+| San Joaquin County, CA          |                 0 |
+| Contra Costa County, CA         |               147 |
 | Siskiyou County, CA             |                90 |
 | San Luis Obispo County, CA      |               146 |
 | Santa Clara County, CA          |               147 |

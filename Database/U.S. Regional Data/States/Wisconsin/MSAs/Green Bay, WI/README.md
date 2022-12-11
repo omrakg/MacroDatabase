@@ -8,18 +8,18 @@
 | AVELISPRIMM24580          | Housing Inventory: Average Listing Price Month-Over-Month in Green Bay, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY24580          | Housing Inventory: Average Listing Price Year-Over-Year in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA24580              | Market Hotness: Demand Score in Green Bay, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC245830010             | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC245830010SA           | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC245840010             | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC245840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC245840110             | Average Weekly Wages for Employees in Federal Government Establishments in Green Bay, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC245840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Green Bay, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC245840210             | Average Weekly Wages for Employees in State Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC245840210SA           | Average Weekly Wages for Employees in State Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC245840310             | Average Weekly Wages for Employees in Local Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC245840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC245840510             | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC245840510SA           | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC245830010             | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC245830010SA           | Total Quarterly Wages in Green Bay, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC245840010             | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC245840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Green Bay, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC245840110             | Average Weekly Wages for Employees in Federal Government Establishments in Green Bay, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC245840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Green Bay, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC245840210             | Average Weekly Wages for Employees in State Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC245840210SA           | Average Weekly Wages for Employees in State Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC245840310             | Average Weekly Wages for Employees in Local Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC245840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Green Bay, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC245840510             | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC245840510SA           | Average Weekly Wages for Employees in Private Establishments in Green Bay, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
 | GNBPOP                    | Resident Population in Green Bay, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | GREE555EDUH               | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | GREE555EDUHN              | All Employees: Education and Health Services in Green Bay, WI (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU24580            | Housing Inventory: New Listing Count in Green Bay, WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM24580          | Housing Inventory: New Listing Count Month-Over-Month in Green Bay, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY24580          | Housing Inventory: New Listing Count Year-Over-Year in Green Bay, WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP24580                 | Total Gross Domestic Product for Green Bay, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP24580                 | Total Gross Domestic Product for Green Bay, WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA24580            | Market Hotness: Nielsen Household Rank in Green Bay, WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA124580          | U.S. Granted Utility Patents Originating in Green Bay, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU24580            | Housing Inventory: Pending Listing Count in Green Bay, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU24580            | Housing Inventory: Price Reduced Count in Green Bay, WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM24580          | Housing Inventory: Price Reduced Count Month-Over-Month in Green Bay, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY24580          | Housing Inventory: Price Reduced Count Year-Over-Year in Green Bay, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP24580                 | Total Quantity Indexes for Real GDP for Green Bay, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP24580                 | Total Real Gross Domestic Product for Green Bay, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP24580                 | Total Quantity Indexes for Real GDP for Green Bay, WI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP24580                 | Total Real Gross Domestic Product for Green Bay, WI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI24580                  | Real Personal Income for Green Bay, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC24580                | Real Per Capita Personal Income for Green Bay, WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL24580               | Regional Price Parities: All Items for Green Bay, WI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

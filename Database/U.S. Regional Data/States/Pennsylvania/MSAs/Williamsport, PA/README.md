@@ -7,18 +7,18 @@
 | AVELISPRI48700            | Housing Inventory: Average Listing Price in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM48700          | Housing Inventory: Average Listing Price Month-Over-Month in Williamsport, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY48700          | Housing Inventory: Average Listing Price Year-Over-Year in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC487030010             | Total Quarterly Wages in Williamsport, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC487030010SA           | Total Quarterly Wages in Williamsport, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC487040010             | Average Weekly Wages for Employees in Total Covered Establishments in Williamsport, PA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC487040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Williamsport, PA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC487040110             | Average Weekly Wages for Employees in Federal Government Establishments in Williamsport, PA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC487040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Williamsport, PA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC487040210             | Average Weekly Wages for Employees in State Government Establishments in Williamsport, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC487040210SA           | Average Weekly Wages for Employees in State Government Establishments in Williamsport, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC487040310             | Average Weekly Wages for Employees in Local Government Establishments in Williamsport, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC487040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Williamsport, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC487040510             | Average Weekly Wages for Employees in Private Establishments in Williamsport, PA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC487040510SA           | Average Weekly Wages for Employees in Private Establishments in Williamsport, PA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC487030010             | Total Quarterly Wages in Williamsport, PA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC487030010SA           | Total Quarterly Wages in Williamsport, PA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC487040010             | Average Weekly Wages for Employees in Total Covered Establishments in Williamsport, PA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC487040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Williamsport, PA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC487040110             | Average Weekly Wages for Employees in Federal Government Establishments in Williamsport, PA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC487040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Williamsport, PA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC487040210             | Average Weekly Wages for Employees in State Government Establishments in Williamsport, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC487040210SA           | Average Weekly Wages for Employees in State Government Establishments in Williamsport, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC487040310             | Average Weekly Wages for Employees in Local Government Establishments in Williamsport, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC487040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Williamsport, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC487040510             | Average Weekly Wages for Employees in Private Establishments in Williamsport, PA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC487040510SA           | Average Weekly Wages for Employees in Private Establishments in Williamsport, PA (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD48700                 | Implicit Regional Price Deflator for Williamsport, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT424870000000003A     | Unemployment Rate in Williamsport, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT424870000000004      | Unemployed Persons in Williamsport, PA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU48700            | Housing Inventory: New Listing Count in Williamsport, PA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM48700          | Housing Inventory: New Listing Count Month-Over-Month in Williamsport, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY48700          | Housing Inventory: New Listing Count Year-Over-Year in Williamsport, PA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP48700                 | Total Gross Domestic Product for Williamsport, PA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP48700                 | Total Gross Domestic Product for Williamsport, PA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA148700          | U.S. Granted Utility Patents Originating in Williamsport, PA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU48700            | Housing Inventory: Pending Listing Count in Williamsport, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM48700          | Housing Inventory: Pending Listing Count Month-Over-Month in Williamsport, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -52,8 +52,8 @@
 | PRIREDCOU48700            | Housing Inventory: Price Reduced Count in Williamsport, PA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM48700          | Housing Inventory: Price Reduced Count Month-Over-Month in Williamsport, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY48700          | Housing Inventory: Price Reduced Count Year-Over-Year in Williamsport, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP48700                 | Total Quantity Indexes for Real GDP for Williamsport, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP48700                 | Total Real Gross Domestic Product for Williamsport, PA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP48700                 | Total Quantity Indexes for Real GDP for Williamsport, PA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP48700                 | Total Real Gross Domestic Product for Williamsport, PA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI48700                  | Real Personal Income for Williamsport, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC48700                | Real Per Capita Personal Income for Williamsport, PA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL48700               | Regional Price Parities: All Items for Williamsport, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |

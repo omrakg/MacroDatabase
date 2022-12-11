@@ -8,18 +8,18 @@
 | AVELISPRIMM29420          | Housing Inventory: Average Listing Price Month-Over-Month in Lake Havasu City-Kingman, AZ (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY29420          | Housing Inventory: Average Listing Price Year-Over-Year in Lake Havasu City-Kingman, AZ (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA29420              | Market Hotness: Demand Score in Lake Havasu City-Kingman, AZ (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC294230010             | Total Quarterly Wages in Lake Havasu City-Kingman, AZ (MSA)                                                     | 2013-01-01          | 2022-01-01        |
-| ENUC294230010SA           | Total Quarterly Wages in Lake Havasu City-Kingman, AZ (MSA)                                                     | 2013-01-01          | 2022-01-01        |
-| ENUC294240010             | Average Weekly Wages for Employees in Total Covered Establishments in Lake Havasu City-Kingman, AZ (MSA)        | 2013-01-01          | 2022-01-01        |
-| ENUC294240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lake Havasu City-Kingman, AZ (MSA)        | 2013-01-01          | 2022-01-01        |
-| ENUC294240110             | Average Weekly Wages for Employees in Federal Government Establishments in Lake Havasu City-Kingman, AZ (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC294240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lake Havasu City-Kingman, AZ (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC294240210             | Average Weekly Wages for Employees in State Government Establishments in Lake Havasu City-Kingman, AZ (MSA)     | 2013-01-01          | 2022-01-01        |
-| ENUC294240210SA           | Average Weekly Wages for Employees in State Government Establishments in Lake Havasu City-Kingman, AZ (MSA)     | 2013-01-01          | 2022-01-01        |
-| ENUC294240310             | Average Weekly Wages for Employees in Local Government Establishments in Lake Havasu City-Kingman, AZ (MSA)     | 2013-01-01          | 2022-01-01        |
-| ENUC294240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lake Havasu City-Kingman, AZ (MSA)     | 2013-01-01          | 2022-01-01        |
-| ENUC294240510             | Average Weekly Wages for Employees in Private Establishments in Lake Havasu City-Kingman, AZ (MSA)              | 2013-01-01          | 2022-01-01        |
-| ENUC294240510SA           | Average Weekly Wages for Employees in Private Establishments in Lake Havasu City-Kingman, AZ (MSA)              | 2013-01-01          | 2022-01-01        |
+| ENUC294230010             | Total Quarterly Wages in Lake Havasu City-Kingman, AZ (MSA)                                                     | 2013-01-01          | 2022-04-01        |
+| ENUC294230010SA           | Total Quarterly Wages in Lake Havasu City-Kingman, AZ (MSA)                                                     | 2013-01-01          | 2022-04-01        |
+| ENUC294240010             | Average Weekly Wages for Employees in Total Covered Establishments in Lake Havasu City-Kingman, AZ (MSA)        | 2013-01-01          | 2022-04-01        |
+| ENUC294240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lake Havasu City-Kingman, AZ (MSA)        | 2013-01-01          | 2022-04-01        |
+| ENUC294240110             | Average Weekly Wages for Employees in Federal Government Establishments in Lake Havasu City-Kingman, AZ (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC294240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lake Havasu City-Kingman, AZ (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC294240210             | Average Weekly Wages for Employees in State Government Establishments in Lake Havasu City-Kingman, AZ (MSA)     | 2013-01-01          | 2022-04-01        |
+| ENUC294240210SA           | Average Weekly Wages for Employees in State Government Establishments in Lake Havasu City-Kingman, AZ (MSA)     | 2013-01-01          | 2022-04-01        |
+| ENUC294240310             | Average Weekly Wages for Employees in Local Government Establishments in Lake Havasu City-Kingman, AZ (MSA)     | 2013-01-01          | 2022-04-01        |
+| ENUC294240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lake Havasu City-Kingman, AZ (MSA)     | 2013-01-01          | 2022-04-01        |
+| ENUC294240510             | Average Weekly Wages for Employees in Private Establishments in Lake Havasu City-Kingman, AZ (MSA)              | 2013-01-01          | 2022-04-01        |
+| ENUC294240510SA           | Average Weekly Wages for Employees in Private Establishments in Lake Havasu City-Kingman, AZ (MSA)              | 2013-01-01          | 2022-04-01        |
 | HORAMMMSA29420            | Market Hotness: Hotness Rank in Lake Havasu City-Kingman, AZ (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA29420              | Market Hotness: Hotness Rank in Lake Havasu City-Kingman, AZ (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA29420            | Market Hotness: Hotness Rank in Lake Havasu City-Kingman, AZ (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -63,7 +63,7 @@
 | NEWLISCOU29420            | Housing Inventory: New Listing Count in Lake Havasu City-Kingman, AZ (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM29420          | Housing Inventory: New Listing Count Month-Over-Month in Lake Havasu City-Kingman, AZ (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY29420          | Housing Inventory: New Listing Count Year-Over-Year in Lake Havasu City-Kingman, AZ (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP29420                 | Total Gross Domestic Product for Lake Havasu City-Kingman, AZ (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP29420                 | Total Gross Domestic Product for Lake Havasu City-Kingman, AZ (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA29420            | Market Hotness: Nielsen Household Rank in Lake Havasu City-Kingman, AZ (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA129420          | U.S. Granted Utility Patents Originating in Lake Havasu City-Kingman, AZ (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU29420            | Housing Inventory: Pending Listing Count in Lake Havasu City-Kingman, AZ (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -75,8 +75,8 @@
 | PRIREDCOU29420            | Housing Inventory: Price Reduced Count in Lake Havasu City-Kingman, AZ (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM29420          | Housing Inventory: Price Reduced Count Month-Over-Month in Lake Havasu City-Kingman, AZ (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY29420          | Housing Inventory: Price Reduced Count Year-Over-Year in Lake Havasu City-Kingman, AZ (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP29420                 | Total Quantity Indexes for Real GDP for Lake Havasu City-Kingman, AZ (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP29420                 | Total Real Gross Domestic Product for Lake Havasu City-Kingman, AZ (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP29420                 | Total Quantity Indexes for Real GDP for Lake Havasu City-Kingman, AZ (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP29420                 | Total Real Gross Domestic Product for Lake Havasu City-Kingman, AZ (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI29420                  | Real Personal Income for Lake Havasu City-Kingman, AZ (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC29420                | Real Per Capita Personal Income for Lake Havasu City-Kingman, AZ (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL29420               | Regional Price Parities: All Items for Lake Havasu City-Kingman, AZ (MSA)                                       | 2008-01-01          | 2020-01-01        |

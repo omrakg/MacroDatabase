@@ -8,18 +8,18 @@
 | AVELISPRIMM42540          | Housing Inventory: Average Listing Price Month-Over-Month in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY42540          | Housing Inventory: Average Listing Price Year-Over-Year in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA42540              | Market Hotness: Demand Score in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC425430010             | Total Quarterly Wages in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC425430010SA           | Total Quarterly Wages in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC425440010             | Average Weekly Wages for Employees in Total Covered Establishments in Scranton--Wilkes-Barre, PA (MSA)                                | 1990-01-01          | 2022-01-01        |
-| ENUC425440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Scranton--Wilkes-Barre, PA (MSA)                                | 1990-01-01          | 2022-01-01        |
-| ENUC425440110             | Average Weekly Wages for Employees in Federal Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                           | 1990-01-01          | 2022-01-01        |
-| ENUC425440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                           | 1990-01-01          | 2022-01-01        |
-| ENUC425440210             | Average Weekly Wages for Employees in State Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC425440210SA           | Average Weekly Wages for Employees in State Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC425440310             | Average Weekly Wages for Employees in Local Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC425440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC425440510             | Average Weekly Wages for Employees in Private Establishments in Scranton--Wilkes-Barre, PA (MSA)                                      | 1990-01-01          | 2022-01-01        |
-| ENUC425440510SA           | Average Weekly Wages for Employees in Private Establishments in Scranton--Wilkes-Barre, PA (MSA)                                      | 1990-01-01          | 2022-01-01        |
+| ENUC425430010             | Total Quarterly Wages in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC425430010SA           | Total Quarterly Wages in Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC425440010             | Average Weekly Wages for Employees in Total Covered Establishments in Scranton--Wilkes-Barre, PA (MSA)                                | 1990-01-01          | 2022-04-01        |
+| ENUC425440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Scranton--Wilkes-Barre, PA (MSA)                                | 1990-01-01          | 2022-04-01        |
+| ENUC425440110             | Average Weekly Wages for Employees in Federal Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                           | 1990-01-01          | 2022-04-01        |
+| ENUC425440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                           | 1990-01-01          | 2022-04-01        |
+| ENUC425440210             | Average Weekly Wages for Employees in State Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC425440210SA           | Average Weekly Wages for Employees in State Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC425440310             | Average Weekly Wages for Employees in Local Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC425440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Scranton--Wilkes-Barre, PA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC425440510             | Average Weekly Wages for Employees in Private Establishments in Scranton--Wilkes-Barre, PA (MSA)                                      | 1990-01-01          | 2022-04-01        |
+| ENUC425440510SA           | Average Weekly Wages for Employees in Private Establishments in Scranton--Wilkes-Barre, PA (MSA)                                      | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA42540            | Market Hotness: Hotness Rank in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA42540              | Market Hotness: Hotness Rank in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA42540            | Market Hotness: Hotness Rank in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -60,7 +60,7 @@
 | NEWLISCOU42540            | Housing Inventory: New Listing Count in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM42540          | Housing Inventory: New Listing Count Month-Over-Month in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY42540          | Housing Inventory: New Listing Count Year-Over-Year in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP42540                 | Total Gross Domestic Product for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP42540                 | Total Gross Domestic Product for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA42540            | Market Hotness: Nielsen Household Rank in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA142540          | U.S. Granted Utility Patents Originating in Scranton--Wilkes-Barre, PA (MSA)                                                          | 2000-01-01          | 2015-01-01        |
 | PENLISCOU42540            | Housing Inventory: Pending Listing Count in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -72,8 +72,8 @@
 | PRIREDCOU42540            | Housing Inventory: Price Reduced Count in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM42540          | Housing Inventory: Price Reduced Count Month-Over-Month in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY42540          | Housing Inventory: Price Reduced Count Year-Over-Year in Scranton--Wilkes-Barre--Hazleton, PA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP42540                 | Total Quantity Indexes for Real GDP for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP42540                 | Total Real Gross Domestic Product for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP42540                 | Total Quantity Indexes for Real GDP for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP42540                 | Total Real Gross Domestic Product for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI42540                  | Real Personal Income for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC42540                | Real Per Capita Personal Income for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL42540               | Regional Price Parities: All Items for Scranton--Wilkes-Barre--Hazleton, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

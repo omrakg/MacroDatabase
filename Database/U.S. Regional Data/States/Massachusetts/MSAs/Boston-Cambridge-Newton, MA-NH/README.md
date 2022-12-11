@@ -12,18 +12,18 @@
 | BOST625BPPRIV             | New Private Housing Structures Authorized by Building Permits for Boston-Cambridge-Newton, MA-NH (MSA)               | 1988-01-01          | 2022-10-01        |
 | BOST625BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for Boston-Cambridge-Newton, MA-NH (MSA)               | 1988-01-01          | 2022-10-01        |
 | DESCMSA14460              | Market Hotness: Demand Score in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-08-01          | 2022-11-01        |
-| ENUC144630010             | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC144630010SA           | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC144640010             | Average Weekly Wages for Employees in Total Covered Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC144640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC144640110             | Average Weekly Wages for Employees in Federal Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC144640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC144640210             | Average Weekly Wages for Employees in State Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC144640210SA           | Average Weekly Wages for Employees in State Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC144640310             | Average Weekly Wages for Employees in Local Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC144640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC144640510             | Average Weekly Wages for Employees in Private Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC144640510SA           | Average Weekly Wages for Employees in Private Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC144630010             | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC144630010SA           | Total Quarterly Wages in Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC144640010             | Average Weekly Wages for Employees in Total Covered Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC144640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC144640110             | Average Weekly Wages for Employees in Federal Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC144640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC144640210             | Average Weekly Wages for Employees in State Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC144640210SA           | Average Weekly Wages for Employees in State Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC144640310             | Average Weekly Wages for Employees in Local Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC144640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC144640510             | Average Weekly Wages for Employees in Private Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC144640510SA           | Average Weekly Wages for Employees in Private Establishments in Boston-Cambridge-Quincy, MA-NH (MSA)                 | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA14460            | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-09-01          | 2022-11-01        |
 | HORAMSA14460              | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA14460            | Market Hotness: Hotness Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                                | 2018-08-01          | 2022-11-01        |
@@ -58,7 +58,7 @@
 | NEWLISCOU14460            | Housing Inventory: New Listing Count in Boston-Cambridge-Newton, MA-NH (CBSA)                                        | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM14460          | Housing Inventory: New Listing Count Month-Over-Month in Boston-Cambridge-Newton, MA-NH (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY14460          | Housing Inventory: New Listing Count Year-Over-Year in Boston-Cambridge-Newton, MA-NH (CBSA)                         | 2017-07-01          | 2022-11-01        |
-| NGMP14460                 | Total Gross Domestic Product for Boston-Cambridge-Newton, MA-NH (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| NGMP14460                 | Total Gross Domestic Product for Boston-Cambridge-Newton, MA-NH (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA14460            | Market Hotness: Nielsen Household Rank in Boston-Cambridge-Newton, MA-NH (CBSA)                                      | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA114460          | U.S. Granted Utility Patents Originating in Boston-Cambridge-Quincy, MA-NH (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU14460            | Housing Inventory: Pending Listing Count in Boston-Cambridge-Newton, MA-NH (CBSA)                                    | 2016-07-01          | 2022-11-01        |
@@ -70,8 +70,8 @@
 | PRIREDCOU14460            | Housing Inventory: Price Reduced Count in Boston-Cambridge-Newton, MA-NH (CBSA)                                      | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM14460          | Housing Inventory: Price Reduced Count Month-Over-Month in Boston-Cambridge-Newton, MA-NH (CBSA)                     | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY14460          | Housing Inventory: Price Reduced Count Year-Over-Year in Boston-Cambridge-Newton, MA-NH (CBSA)                       | 2017-07-01          | 2022-11-01        |
-| QGMP14460                 | Total Quantity Indexes for Real GDP for Boston-Cambridge-Newton, MA-NH (MSA)                                         | 2001-01-01          | 2020-01-01        |
-| RGMP14460                 | Total Real Gross Domestic Product for Boston-Cambridge-Newton, MA-NH (MSA)                                           | 2001-01-01          | 2020-01-01        |
+| QGMP14460                 | Total Quantity Indexes for Real GDP for Boston-Cambridge-Newton, MA-NH (MSA)                                         | 2001-01-01          | 2021-01-01        |
+| RGMP14460                 | Total Real Gross Domestic Product for Boston-Cambridge-Newton, MA-NH (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RPI14460                  | Real Personal Income for Boston-Cambridge-Newton, MA-NH (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPIPC14460                | Real Per Capita Personal Income for Boston-Cambridge-Newton, MA-NH (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPALL14460               | Regional Price Parities: All Items for Boston-Cambridge-Newton, MA-NH (MSA)                                          | 2008-01-01          | 2020-01-01        |

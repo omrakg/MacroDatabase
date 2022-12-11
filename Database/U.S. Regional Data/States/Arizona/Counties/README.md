@@ -11,6 +11,6 @@
 | Yavapai County, AZ    |               147 |
 | Santa Cruz County, AZ |                90 |
 | Mohave County, AZ     |               147 |
-| Cochise County, AZ    |               147 |
+| Cochise County, AZ    |                 0 |
 | Greenlee County, AZ   |                89 |
 | Graham County, AZ     |                90 |

@@ -7,14 +7,14 @@
 | AVELISPRI25500            | Housing Inventory: Average Listing Price in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM25500          | Housing Inventory: Average Listing Price Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY25500          | Housing Inventory: Average Listing Price Year-Over-Year in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-11-01        |
-| ENUC255030010             | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC255030010SA           | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC255040010             | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC255040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC255040110             | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC255040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC255040510             | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC255040510SA           | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC255030010             | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC255030010SA           | Total Quarterly Wages in Harrisonburg, VA (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC255040010             | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC255040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Harrisonburg, VA (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC255040110             | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC255040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Harrisonburg, VA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC255040510             | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC255040510SA           | Average Weekly Wages for Employees in Private Establishments in Harrisonburg, VA (MSA)                 | 1990-01-01          | 2022-04-01        |
 | HARR551BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-10-01        |
 | HARR551BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Harrisonburg, VA (MSA) | 2004-01-01          | 2022-10-01        |
 | HARR551BPPRIV             | New Private Housing Units Authorized by Building Permits for Harrisonburg, VA (MSA)                    | 2004-01-01          | 2022-10-01        |
@@ -53,7 +53,7 @@
 | NEWLISCOU25500            | Housing Inventory: New Listing Count in Harrisonburg, VA (CBSA)                                        | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM25500          | Housing Inventory: New Listing Count Month-Over-Month in Harrisonburg, VA (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY25500          | Housing Inventory: New Listing Count Year-Over-Year in Harrisonburg, VA (CBSA)                         | 2017-07-01          | 2022-11-01        |
-| NGMP25500                 | Total Gross Domestic Product for Harrisonburg, VA (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| NGMP25500                 | Total Gross Domestic Product for Harrisonburg, VA (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA125500          | U.S. Granted Utility Patents Originating in Harrisonburg, VA (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU25500            | Housing Inventory: Pending Listing Count in Harrisonburg, VA (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM25500          | Housing Inventory: Pending Listing Count Month-Over-Month in Harrisonburg, VA (CBSA)                   | 2017-07-01          | 2022-11-01        |
@@ -64,8 +64,8 @@
 | PRIREDCOU25500            | Housing Inventory: Price Reduced Count in Harrisonburg, VA (CBSA)                                      | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM25500          | Housing Inventory: Price Reduced Count Month-Over-Month in Harrisonburg, VA (CBSA)                     | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY25500          | Housing Inventory: Price Reduced Count Year-Over-Year in Harrisonburg, VA (CBSA)                       | 2017-07-01          | 2022-11-01        |
-| QGMP25500                 | Total Quantity Indexes for Real GDP for Harrisonburg, VA (MSA)                                         | 2001-01-01          | 2020-01-01        |
-| RGMP25500                 | Total Real Gross Domestic Product for Harrisonburg, VA (MSA)                                           | 2001-01-01          | 2020-01-01        |
+| QGMP25500                 | Total Quantity Indexes for Real GDP for Harrisonburg, VA (MSA)                                         | 2001-01-01          | 2021-01-01        |
+| RGMP25500                 | Total Real Gross Domestic Product for Harrisonburg, VA (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RPI25500                  | Real Personal Income for Harrisonburg, VA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPIPC25500                | Real Per Capita Personal Income for Harrisonburg, VA (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPALL25500               | Regional Price Parities: All Items for Harrisonburg, VA (MSA)                                          | 2008-01-01          | 2020-01-01        |

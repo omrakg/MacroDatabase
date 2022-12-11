@@ -8,18 +8,18 @@
 | AVELISPRIMM22180          | Housing Inventory: Average Listing Price Month-Over-Month in Fayetteville, NC (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY22180          | Housing Inventory: Average Listing Price Year-Over-Year in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA22180              | Market Hotness: Demand Score in Fayetteville, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC221830010             | Total Quarterly Wages in Fayetteville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC221830010SA           | Total Quarterly Wages in Fayetteville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC221840010             | Average Weekly Wages for Employees in Total Covered Establishments in Fayetteville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC221840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fayetteville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC221840110             | Average Weekly Wages for Employees in Federal Government Establishments in Fayetteville, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC221840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fayetteville, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC221840210             | Average Weekly Wages for Employees in State Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC221840210SA           | Average Weekly Wages for Employees in State Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC221840310             | Average Weekly Wages for Employees in Local Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC221840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC221840510             | Average Weekly Wages for Employees in Private Establishments in Fayetteville, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC221840510SA           | Average Weekly Wages for Employees in Private Establishments in Fayetteville, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC221830010             | Total Quarterly Wages in Fayetteville, NC (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC221830010SA           | Total Quarterly Wages in Fayetteville, NC (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC221840010             | Average Weekly Wages for Employees in Total Covered Establishments in Fayetteville, NC (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC221840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fayetteville, NC (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC221840110             | Average Weekly Wages for Employees in Federal Government Establishments in Fayetteville, NC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC221840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fayetteville, NC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC221840210             | Average Weekly Wages for Employees in State Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC221840210SA           | Average Weekly Wages for Employees in State Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC221840310             | Average Weekly Wages for Employees in Local Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC221840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fayetteville, NC (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC221840510             | Average Weekly Wages for Employees in Private Establishments in Fayetteville, NC (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC221840510SA           | Average Weekly Wages for Employees in Private Establishments in Fayetteville, NC (MSA)                            | 1990-01-01          | 2022-04-01        |
 | FAYE137EDUH               | All Employees: Education and Health Services in Fayetteville, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FAYE137EDUHN              | All Employees: Education and Health Services in Fayetteville, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FAYE137FIRE               | All Employees: Financial Activities in Fayetteville, NC (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -88,7 +88,7 @@
 | NEWLISCOU22180            | Housing Inventory: New Listing Count in Fayetteville, NC (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM22180          | Housing Inventory: New Listing Count Month-Over-Month in Fayetteville, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY22180          | Housing Inventory: New Listing Count Year-Over-Year in Fayetteville, NC (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP22180                 | Total Gross Domestic Product for Fayetteville, NC (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP22180                 | Total Gross Domestic Product for Fayetteville, NC (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA22180            | Market Hotness: Nielsen Household Rank in Fayetteville, NC (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA122180          | U.S. Granted Utility Patents Originating in Fayetteville, NC (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU22180            | Housing Inventory: Pending Listing Count in Fayetteville, NC (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -100,8 +100,8 @@
 | PRIREDCOU22180            | Housing Inventory: Price Reduced Count in Fayetteville, NC (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM22180          | Housing Inventory: Price Reduced Count Month-Over-Month in Fayetteville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY22180          | Housing Inventory: Price Reduced Count Year-Over-Year in Fayetteville, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP22180                 | Total Quantity Indexes for Real GDP for Fayetteville, NC (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP22180                 | Total Real Gross Domestic Product for Fayetteville, NC (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP22180                 | Total Quantity Indexes for Real GDP for Fayetteville, NC (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP22180                 | Total Real Gross Domestic Product for Fayetteville, NC (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI22180                  | Real Personal Income for Fayetteville, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC22180                | Real Per Capita Personal Income for Fayetteville, NC (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL22180               | Regional Price Parities: All Items for Fayetteville, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |

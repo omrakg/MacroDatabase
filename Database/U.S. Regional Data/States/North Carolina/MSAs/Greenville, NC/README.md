@@ -8,18 +8,18 @@
 | AVELISPRIMM24780          | Housing Inventory: Average Listing Price Month-Over-Month in Greenville, NC (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY24780          | Housing Inventory: Average Listing Price Year-Over-Year in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA24780              | Market Hotness: Demand Score in Greenville, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC247830010             | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC247830010SA           | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC247840010             | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC247840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC247840110             | Average Weekly Wages for Employees in Federal Government Establishments in Greenville, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC247840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Greenville, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC247840210             | Average Weekly Wages for Employees in State Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC247840210SA           | Average Weekly Wages for Employees in State Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC247840310             | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC247840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC247840510             | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC247840510SA           | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC247830010             | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC247830010SA           | Total Quarterly Wages in Greenville, NC (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC247840010             | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC247840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Greenville, NC (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC247840110             | Average Weekly Wages for Employees in Federal Government Establishments in Greenville, NC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC247840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Greenville, NC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC247840210             | Average Weekly Wages for Employees in State Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC247840210SA           | Average Weekly Wages for Employees in State Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC247840310             | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC247840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greenville, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC247840510             | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC247840510SA           | Average Weekly Wages for Employees in Private Establishments in Greenville, NC (MSA)                            | 1990-01-01          | 2022-04-01        |
 | GREE737EDUH               | All Employees: Education and Health Services in Greenville, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | GREE737EDUHN              | All Employees: Education and Health Services in Greenville, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | GREE737FIRE               | All Employees: Financial Activities in Greenville, NC (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU24780            | Housing Inventory: New Listing Count in Greenville, NC (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM24780          | Housing Inventory: New Listing Count Month-Over-Month in Greenville, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY24780          | Housing Inventory: New Listing Count Year-Over-Year in Greenville, NC (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP24780                 | Total Gross Domestic Product for Greenville, NC (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP24780                 | Total Gross Domestic Product for Greenville, NC (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA24780            | Market Hotness: Nielsen Household Rank in Greenville, NC (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA124780          | U.S. Granted Utility Patents Originating in Greenville, NC (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU24780            | Housing Inventory: Pending Listing Count in Greenville, NC (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU24780            | Housing Inventory: Price Reduced Count in Greenville, NC (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM24780          | Housing Inventory: Price Reduced Count Month-Over-Month in Greenville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY24780          | Housing Inventory: Price Reduced Count Year-Over-Year in Greenville, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP24780                 | Total Quantity Indexes for Real GDP for Greenville, NC (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP24780                 | Total Real Gross Domestic Product for Greenville, NC (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP24780                 | Total Quantity Indexes for Real GDP for Greenville, NC (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP24780                 | Total Real Gross Domestic Product for Greenville, NC (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI24780                  | Real Personal Income for Greenville, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC24780                | Real Per Capita Personal Income for Greenville, NC (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL24780               | Regional Price Parities: All Items for Greenville, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |

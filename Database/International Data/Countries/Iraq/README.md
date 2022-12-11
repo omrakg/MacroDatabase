@@ -51,7 +51,7 @@
 | DEIRQA052SCEN        | Value of Exports to Iraq from Delaware                                                                                                    | 2008-01-01          | 2016-01-01        |
 | DEIRQA475SCEN        | Number of Identified Exporters to Iraq from Delaware                                                                                      | 2004-01-01          | 2017-01-01        |
 | DENTHHA475SCEN       | Number of Identified Exporters to Iraq Saudi Arabia Neutral Zone from Delaware                                                            | 1992-01-01          | 1992-01-01        |
-| EXP5050              | U.S. Exports of Goods by F.A.S. Basis to Iraq                                                                                             | 1992-01-01          | 2022-09-01        |
+| EXP5050              | U.S. Exports of Goods by F.A.S. Basis to Iraq                                                                                             | 1992-01-01          | 2022-10-01        |
 | FLIRQA052SCEN        | Value of Exports to Iraq from Florida                                                                                                     | 2003-01-01          | 2017-01-01        |
 | FLIRQA475SCEN        | Number of Identified Exporters to Iraq from Florida                                                                                       | 1997-01-01          | 2017-01-01        |
 | FPCPITOTLZGIRQ       | Inflation, consumer prices for Iraq                                                                                                       | 1960-01-01          | 2021-01-01        |
@@ -64,18 +64,18 @@
 | ICBUSEASEXQIRQ       | Ease of doing business index for Iraq                                                                                                     | 2019-01-01          | 2019-01-01        |
 | IDIRQA052SCEN        | Value of Exports to Iraq from Idaho                                                                                                       | 2004-01-01          | 2016-01-01        |
 | IDIRQA475SCEN        | Number of Identified Exporters to Iraq from Idaho                                                                                         | 2003-01-01          | 2017-01-01        |
-| IDS1MNIAOAIIQ        | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Iraq                    | 2006-01-01          | 2022-04-01        |
-| IDS1YMAORIAIIQ       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Iraq                      | 2006-01-01          | 2022-04-01        |
-| IDS1YMAORIGGIQ       | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Iraq        | 2006-01-01          | 2022-04-01        |
-| IDSAMRIAOIQ          | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Iraq                          | 2006-01-01          | 2022-04-01        |
+| IDS1MNIAOAIIQ        | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Iraq                    | 2006-01-01          | 2022-07-01        |
+| IDS1YMAORIAIIQ       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Iraq                      | 2006-01-01          | 2022-07-01        |
+| IDS1YMAORIGGIQ       | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Iraq        | 2006-01-01          | 2022-07-01        |
+| IDSAMRIAOIQ          | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Iraq                          | 2006-01-01          | 2022-07-01        |
 | IDSAMRINIIQ          | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Iraq                                  | 2006-01-01          | 2022-01-01        |
-| IDSGAMNIAOIQ         | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Iraq                       | 2006-01-01          | 2022-04-01        |
+| IDSGAMNIAOIQ         | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Iraq                       | 2006-01-01          | 2022-07-01        |
 | IDSGAMNINIIQ         | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Iraq                                | 2006-01-01          | 2022-01-01        |
-| IDSGAMRIAOIQ         | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Iraq | 2006-01-01          | 2022-04-01        |
+| IDSGAMRIAOIQ         | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Iraq | 2006-01-01          | 2022-07-01        |
 | IDSGAMRINIIQ         | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Iraq         | 2006-01-01          | 2022-01-01        |
 | ILIRQA052SCEN        | Value of Exports to Iraq from Illinois                                                                                                    | 2002-01-01          | 2017-01-01        |
 | ILIRQA475SCEN        | Number of Identified Exporters to Iraq from Illinois                                                                                      | 2002-01-01          | 2017-01-01        |
-| IMP5050              | U.S. Imports of Goods by Customs Basis from Iraq                                                                                          | 1992-01-01          | 2022-09-01        |
+| IMP5050              | U.S. Imports of Goods by Customs Basis from Iraq                                                                                          | 1992-01-01          | 2022-10-01        |
 | INIRQA052SCEN        | Value of Exports to Iraq from Indiana                                                                                                     | 2004-01-01          | 2017-01-01        |
 | INIRQA475SCEN        | Number of Identified Exporters to Iraq from Indiana                                                                                       | 2003-01-01          | 2017-01-01        |
 | IRQBCAGDPGDPPT       | Current Account Balance for Iraq                                                                                                          | 2004-01-01          | 2023-01-01        |

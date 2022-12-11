@@ -8,18 +8,18 @@
 | AVELISPRIMM18880          | Housing Inventory: Average Listing Price Month-Over-Month in Crestview-Fort Walton Beach-Destin, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY18880          | Housing Inventory: Average Listing Price Year-Over-Year in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA18880              | Market Hotness: Demand Score in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC188830010             | Total Quarterly Wages in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC188830010SA           | Total Quarterly Wages in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC188840010             | Average Weekly Wages for Employees in Total Covered Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC188840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC188840110             | Average Weekly Wages for Employees in Federal Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC188840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC188840210             | Average Weekly Wages for Employees in State Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC188840210SA           | Average Weekly Wages for Employees in State Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC188840310             | Average Weekly Wages for Employees in Local Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC188840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC188840510             | Average Weekly Wages for Employees in Private Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                            | 2013-01-01          | 2022-01-01        |
-| ENUC188840510SA           | Average Weekly Wages for Employees in Private Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                            | 2013-01-01          | 2022-01-01        |
+| ENUC188830010             | Total Quarterly Wages in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC188830010SA           | Total Quarterly Wages in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC188840010             | Average Weekly Wages for Employees in Total Covered Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC188840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC188840110             | Average Weekly Wages for Employees in Federal Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC188840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC188840210             | Average Weekly Wages for Employees in State Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC188840210SA           | Average Weekly Wages for Employees in State Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC188840310             | Average Weekly Wages for Employees in Local Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC188840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC188840510             | Average Weekly Wages for Employees in Private Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                            | 2013-01-01          | 2022-04-01        |
+| ENUC188840510SA           | Average Weekly Wages for Employees in Private Establishments in Crestview-Fort Walton Beach-Destin, FL (MSA)                            | 2013-01-01          | 2022-04-01        |
 | FORPOP                    | Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)                                                                     | 2000-01-01          | 2009-01-01        |
 | FORT012EDUH               | All Employees: Education and Health Services in Crestview-Fort Walton Beach-Destin, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FORT012EDUHN              | All Employees: Education and Health Services in Crestview-Fort Walton Beach-Destin, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -88,7 +88,7 @@
 | NEWLISCOU18880            | Housing Inventory: New Listing Count in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM18880          | Housing Inventory: New Listing Count Month-Over-Month in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY18880          | Housing Inventory: New Listing Count Year-Over-Year in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP18880                 | Total Gross Domestic Product for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP18880                 | Total Gross Domestic Product for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA18880            | Market Hotness: Nielsen Household Rank in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA118880          | U.S. Granted Utility Patents Originating in Crestview-Fort Walton Beach-Destin, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU18880            | Housing Inventory: Pending Listing Count in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                               | 2016-10-01          | 2022-11-01        |
@@ -100,8 +100,8 @@
 | PRIREDCOU18880            | Housing Inventory: Price Reduced Count in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM18880          | Housing Inventory: Price Reduced Count Month-Over-Month in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY18880          | Housing Inventory: Price Reduced Count Year-Over-Year in Crestview-Fort Walton Beach-Destin, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP18880                 | Total Quantity Indexes for Real GDP for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP18880                 | Total Real Gross Domestic Product for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP18880                 | Total Quantity Indexes for Real GDP for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP18880                 | Total Real Gross Domestic Product for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI18880                  | Real Personal Income for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC18880                | Real Per Capita Personal Income for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL18880               | Regional Price Parities: All Items for Crestview-Fort Walton Beach-Destin, FL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

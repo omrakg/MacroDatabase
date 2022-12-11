@@ -36,18 +36,18 @@
 | AVELISPRIMM11540          | Housing Inventory: Average Listing Price Month-Over-Month in Appleton, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY11540          | Housing Inventory: Average Listing Price Year-Over-Year in Appleton, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA11540              | Market Hotness: Demand Score in Appleton, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC115430010             | Total Quarterly Wages in Appleton, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC115430010SA           | Total Quarterly Wages in Appleton, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC115440010             | Average Weekly Wages for Employees in Total Covered Establishments in Appleton, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC115440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Appleton, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC115440110             | Average Weekly Wages for Employees in Federal Government Establishments in Appleton, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC115440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Appleton, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC115440210             | Average Weekly Wages for Employees in State Government Establishments in Appleton, WI (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC115440210SA           | Average Weekly Wages for Employees in State Government Establishments in Appleton, WI (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC115440310             | Average Weekly Wages for Employees in Local Government Establishments in Appleton, WI (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC115440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Appleton, WI (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC115440510             | Average Weekly Wages for Employees in Private Establishments in Appleton, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC115440510SA           | Average Weekly Wages for Employees in Private Establishments in Appleton, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC115430010             | Total Quarterly Wages in Appleton, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC115430010SA           | Total Quarterly Wages in Appleton, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC115440010             | Average Weekly Wages for Employees in Total Covered Establishments in Appleton, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC115440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Appleton, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC115440110             | Average Weekly Wages for Employees in Federal Government Establishments in Appleton, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC115440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Appleton, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC115440210             | Average Weekly Wages for Employees in State Government Establishments in Appleton, WI (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC115440210SA           | Average Weekly Wages for Employees in State Government Establishments in Appleton, WI (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC115440310             | Average Weekly Wages for Employees in Local Government Establishments in Appleton, WI (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC115440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Appleton, WI (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC115440510             | Average Weekly Wages for Employees in Private Establishments in Appleton, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC115440510SA           | Average Weekly Wages for Employees in Private Establishments in Appleton, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA11540            | Market Hotness: Hotness Rank in Appleton, WI (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA11540              | Market Hotness: Hotness Rank in Appleton, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA11540            | Market Hotness: Hotness Rank in Appleton, WI (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU11540            | Housing Inventory: New Listing Count in Appleton, WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM11540          | Housing Inventory: New Listing Count Month-Over-Month in Appleton, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY11540          | Housing Inventory: New Listing Count Year-Over-Year in Appleton, WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP11540                 | Total Gross Domestic Product for Appleton, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP11540                 | Total Gross Domestic Product for Appleton, WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA11540            | Market Hotness: Nielsen Household Rank in Appleton, WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA111540          | U.S. Granted Utility Patents Originating in Appleton, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU11540            | Housing Inventory: Pending Listing Count in Appleton, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU11540            | Housing Inventory: Price Reduced Count in Appleton, WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM11540          | Housing Inventory: Price Reduced Count Month-Over-Month in Appleton, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY11540          | Housing Inventory: Price Reduced Count Year-Over-Year in Appleton, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP11540                 | Total Quantity Indexes for Real GDP for Appleton, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP11540                 | Total Real Gross Domestic Product for Appleton, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP11540                 | Total Quantity Indexes for Real GDP for Appleton, WI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP11540                 | Total Real Gross Domestic Product for Appleton, WI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI11540                  | Real Personal Income for Appleton, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC11540                | Real Per Capita Personal Income for Appleton, WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL11540               | Regional Price Parities: All Items for Appleton, WI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

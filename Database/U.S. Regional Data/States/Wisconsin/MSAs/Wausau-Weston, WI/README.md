@@ -8,18 +8,18 @@
 | AVELISPRIMM48140          | Housing Inventory: Average Listing Price Month-Over-Month in Wausau, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY48140          | Housing Inventory: Average Listing Price Year-Over-Year in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA48140              | Market Hotness: Demand Score in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC481430010             | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC481430010SA           | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC481440010             | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC481440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC481440110             | Average Weekly Wages for Employees in Federal Government Establishments in Wausau, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC481440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wausau, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC481440210             | Average Weekly Wages for Employees in State Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC481440210SA           | Average Weekly Wages for Employees in State Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC481440310             | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC481440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC481440510             | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC481440510SA           | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC481430010             | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC481430010SA           | Total Quarterly Wages in Wausau, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC481440010             | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC481440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wausau, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC481440110             | Average Weekly Wages for Employees in Federal Government Establishments in Wausau, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC481440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wausau, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC481440210             | Average Weekly Wages for Employees in State Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC481440210SA           | Average Weekly Wages for Employees in State Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC481440310             | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC481440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wausau, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC481440510             | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC481440510SA           | Average Weekly Wages for Employees in Private Establishments in Wausau, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA48140            | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA48140              | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA48140            | Market Hotness: Hotness Rank in Wausau, WI (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU48140            | Housing Inventory: New Listing Count in Wausau, WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM48140          | Housing Inventory: New Listing Count Month-Over-Month in Wausau, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY48140          | Housing Inventory: New Listing Count Year-Over-Year in Wausau, WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP48140                 | Total Gross Domestic Product for Wausau, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP48140                 | Total Gross Domestic Product for Wausau, WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA48140            | Market Hotness: Nielsen Household Rank in Wausau, WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA148140          | U.S. Granted Utility Patents Originating in Wausau, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU48140            | Housing Inventory: Pending Listing Count in Wausau, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU48140            | Housing Inventory: Price Reduced Count in Wausau, WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM48140          | Housing Inventory: Price Reduced Count Month-Over-Month in Wausau, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY48140          | Housing Inventory: Price Reduced Count Year-Over-Year in Wausau, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP48140                 | Total Quantity Indexes for Real GDP for Wausau, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP48140                 | Total Real Gross Domestic Product for Wausau, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP48140                 | Total Quantity Indexes for Real GDP for Wausau, WI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP48140                 | Total Real Gross Domestic Product for Wausau, WI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI48140                  | Real Personal Income for Wausau, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC48140                | Real Per Capita Personal Income for Wausau, WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL48140               | Regional Price Parities: All Items for Wausau, WI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

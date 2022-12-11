@@ -36,18 +36,18 @@
 | CLHUR                     | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | CLHURN                    | Unemployment Rate in Clarksville, TN-KY (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA17300              | Market Hotness: Demand Score in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC173030010             | Total Quarterly Wages in Clarksville, TN-KY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC173030010SA           | Total Quarterly Wages in Clarksville, TN-KY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC173040010             | Average Weekly Wages for Employees in Total Covered Establishments in Clarksville, TN-KY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC173040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Clarksville, TN-KY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC173040110             | Average Weekly Wages for Employees in Federal Government Establishments in Clarksville, TN-KY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC173040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Clarksville, TN-KY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC173040210             | Average Weekly Wages for Employees in State Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC173040210SA           | Average Weekly Wages for Employees in State Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC173040310             | Average Weekly Wages for Employees in Local Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC173040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC173040510             | Average Weekly Wages for Employees in Private Establishments in Clarksville, TN-KY (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC173040510SA           | Average Weekly Wages for Employees in Private Establishments in Clarksville, TN-KY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC173030010             | Total Quarterly Wages in Clarksville, TN-KY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC173030010SA           | Total Quarterly Wages in Clarksville, TN-KY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC173040010             | Average Weekly Wages for Employees in Total Covered Establishments in Clarksville, TN-KY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC173040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Clarksville, TN-KY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC173040110             | Average Weekly Wages for Employees in Federal Government Establishments in Clarksville, TN-KY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC173040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Clarksville, TN-KY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC173040210             | Average Weekly Wages for Employees in State Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC173040210SA           | Average Weekly Wages for Employees in State Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC173040310             | Average Weekly Wages for Employees in Local Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC173040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Clarksville, TN-KY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC173040510             | Average Weekly Wages for Employees in Private Establishments in Clarksville, TN-KY (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC173040510SA           | Average Weekly Wages for Employees in Private Establishments in Clarksville, TN-KY (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA17300            | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA17300              | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA17300            | Market Hotness: Hotness Rank in Clarksville, TN-KY (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU17300            | Housing Inventory: New Listing Count in Clarksville, TN-KY (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM17300          | Housing Inventory: New Listing Count Month-Over-Month in Clarksville, TN-KY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY17300          | Housing Inventory: New Listing Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP17300                 | Total Gross Domestic Product for Clarksville, TN-KY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP17300                 | Total Gross Domestic Product for Clarksville, TN-KY (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA17300            | Market Hotness: Nielsen Household Rank in Clarksville, TN-KY (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA117300          | U.S. Granted Utility Patents Originating in Clarksville, TN-KY (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU17300            | Housing Inventory: Pending Listing Count in Clarksville, TN-KY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU17300            | Housing Inventory: Price Reduced Count in Clarksville, TN-KY (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM17300          | Housing Inventory: Price Reduced Count Month-Over-Month in Clarksville, TN-KY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY17300          | Housing Inventory: Price Reduced Count Year-Over-Year in Clarksville, TN-KY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP17300                 | Total Quantity Indexes for Real GDP for Clarksville, TN-KY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP17300                 | Total Real Gross Domestic Product for Clarksville, TN-KY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP17300                 | Total Quantity Indexes for Real GDP for Clarksville, TN-KY (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP17300                 | Total Real Gross Domestic Product for Clarksville, TN-KY (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI17300                  | Real Personal Income for Clarksville, TN-KY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC17300                | Real Per Capita Personal Income for Clarksville, TN-KY (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL17300               | Regional Price Parities: All Items for Clarksville, TN-KY (MSA)                                                     | 2008-01-01          | 2020-01-01        |

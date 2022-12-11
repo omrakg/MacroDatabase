@@ -80,7 +80,7 @@
 | DEBTTLTNA188A       | Central government debt, total (% of GDP) for Tunisia                                                                                        | 1990-01-01          | 2012-01-01        |
 | DETUNA052SCEN       | Value of Exports to Tunisia from Delaware                                                                                                    | 2003-01-01          | 2017-01-01        |
 | DETUNA475SCEN       | Number of Identified Exporters to Tunisia from Delaware                                                                                      | 2002-01-01          | 2017-01-01        |
-| EXP7230             | U.S. Exports of Goods by F.A.S. Basis to Tunisia                                                                                             | 1992-01-01          | 2022-09-01        |
+| EXP7230             | U.S. Exports of Goods by F.A.S. Basis to Tunisia                                                                                             | 1992-01-01          | 2022-10-01        |
 | FLTUNA052SCEN       | Value of Exports to Tunisia from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLTUNA475SCEN       | Number of Identified Exporters to Tunisia from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGTUN      | Inflation, consumer prices for Tunisia                                                                                                       | 1984-01-01          | 2021-01-01        |
@@ -90,19 +90,19 @@
 | IATUNA052SCEN       | Value of Exports to Tunisia from Iowa                                                                                                        | 1992-01-01          | 2017-01-01        |
 | IATUNA475SCEN       | Number of Identified Exporters to Tunisia from Iowa                                                                                          | 1992-01-01          | 2017-01-01        |
 | ICBUSEASEXQTUN      | Ease of doing business index for Tunisia                                                                                                     | 2019-01-01          | 2019-01-01        |
-| IDS1MNIAOAITN       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Tunisia                    | 1976-04-01          | 2022-04-01        |
-| IDS1YMAORIAITN      | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Tunisia                      | 1976-04-01          | 2022-04-01        |
-| IDS1YMAORIGGTN      | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Tunisia        | 1988-10-01          | 2022-04-01        |
-| IDSAMRIAOTN         | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Tunisia                          | 1976-04-01          | 2022-04-01        |
+| IDS1MNIAOAITN       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Tunisia                    | 1976-04-01          | 2022-07-01        |
+| IDS1YMAORIAITN      | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Tunisia                      | 1976-04-01          | 2022-07-01        |
+| IDS1YMAORIGGTN      | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Tunisia        | 1988-10-01          | 2022-07-01        |
+| IDSAMRIAOTN         | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Tunisia                          | 1976-04-01          | 2022-07-01        |
 | IDSAMRINITN         | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Tunisia                                  | 1976-04-01          | 2022-04-01        |
-| IDSGAMNIAOTN        | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Tunisia                       | 1976-04-01          | 2022-04-01        |
+| IDSGAMNIAOTN        | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Tunisia                       | 1976-04-01          | 2022-07-01        |
 | IDSGAMNINITN        | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Tunisia                                | 1976-04-01          | 2022-04-01        |
-| IDSGAMRIAOTN        | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Tunisia | 1988-10-01          | 2022-04-01        |
+| IDSGAMRIAOTN        | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Tunisia | 1988-10-01          | 2022-07-01        |
 | IDSGAMRINITN        | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Tunisia         | 1988-10-01          | 2021-07-01        |
 | IDTUNA475SCEN       | Number of Identified Exporters to Tunisia from Idaho                                                                                         | 2006-01-01          | 2016-01-01        |
 | ILTUNA052SCEN       | Value of Exports to Tunisia from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILTUNA475SCEN       | Number of Identified Exporters to Tunisia from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP7230             | U.S. Imports of Goods by Customs Basis from Tunisia                                                                                          | 1992-01-01          | 2022-09-01        |
+| IMP7230             | U.S. Imports of Goods by Customs Basis from Tunisia                                                                                          | 1992-01-01          | 2022-10-01        |
 | INTUNA052SCEN       | Value of Exports to Tunisia from Indiana                                                                                                     | 1997-01-01          | 2016-01-01        |
 | INTUNA475SCEN       | Number of Identified Exporters to Tunisia from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2TUN      | Internet users for Tunisia                                                                                                                   | 1990-01-01          | 2020-01-01        |

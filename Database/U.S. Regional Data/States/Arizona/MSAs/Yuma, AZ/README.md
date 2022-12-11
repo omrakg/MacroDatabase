@@ -8,18 +8,18 @@
 | AVELISPRIMM49740          | Housing Inventory: Average Listing Price Month-Over-Month in Yuma, AZ (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY49740          | Housing Inventory: Average Listing Price Year-Over-Year in Yuma, AZ (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA49740              | Market Hotness: Demand Score in Yuma, AZ (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC497430010             | Total Quarterly Wages in Yuma, AZ (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC497430010SA           | Total Quarterly Wages in Yuma, AZ (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC497440010             | Average Weekly Wages for Employees in Total Covered Establishments in Yuma, AZ (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC497440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yuma, AZ (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC497440110             | Average Weekly Wages for Employees in Federal Government Establishments in Yuma, AZ (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC497440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yuma, AZ (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC497440210             | Average Weekly Wages for Employees in State Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC497440210SA           | Average Weekly Wages for Employees in State Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC497440310             | Average Weekly Wages for Employees in Local Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC497440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC497440510             | Average Weekly Wages for Employees in Private Establishments in Yuma, AZ (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC497440510SA           | Average Weekly Wages for Employees in Private Establishments in Yuma, AZ (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC497430010             | Total Quarterly Wages in Yuma, AZ (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC497430010SA           | Total Quarterly Wages in Yuma, AZ (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC497440010             | Average Weekly Wages for Employees in Total Covered Establishments in Yuma, AZ (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC497440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yuma, AZ (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC497440110             | Average Weekly Wages for Employees in Federal Government Establishments in Yuma, AZ (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC497440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yuma, AZ (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC497440210             | Average Weekly Wages for Employees in State Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC497440210SA           | Average Weekly Wages for Employees in State Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC497440310             | Average Weekly Wages for Employees in Local Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC497440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yuma, AZ (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC497440510             | Average Weekly Wages for Employees in Private Establishments in Yuma, AZ (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC497440510SA           | Average Weekly Wages for Employees in Private Establishments in Yuma, AZ (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA49740            | Market Hotness: Hotness Rank in Yuma, AZ (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA49740              | Market Hotness: Hotness Rank in Yuma, AZ (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA49740            | Market Hotness: Hotness Rank in Yuma, AZ (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU49740            | Housing Inventory: New Listing Count in Yuma, AZ (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM49740          | Housing Inventory: New Listing Count Month-Over-Month in Yuma, AZ (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY49740          | Housing Inventory: New Listing Count Year-Over-Year in Yuma, AZ (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP49740                 | Total Gross Domestic Product for Yuma, AZ (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP49740                 | Total Gross Domestic Product for Yuma, AZ (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA49740            | Market Hotness: Nielsen Household Rank in Yuma, AZ (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA149740          | U.S. Granted Utility Patents Originating in Yuma, AZ (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU49740            | Housing Inventory: Pending Listing Count in Yuma, AZ (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU49740            | Housing Inventory: Price Reduced Count in Yuma, AZ (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM49740          | Housing Inventory: Price Reduced Count Month-Over-Month in Yuma, AZ (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY49740          | Housing Inventory: Price Reduced Count Year-Over-Year in Yuma, AZ (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP49740                 | Total Quantity Indexes for Real GDP for Yuma, AZ (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP49740                 | Total Real Gross Domestic Product for Yuma, AZ (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP49740                 | Total Quantity Indexes for Real GDP for Yuma, AZ (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP49740                 | Total Real Gross Domestic Product for Yuma, AZ (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI49740                  | Real Personal Income for Yuma, AZ (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC49740                | Real Per Capita Personal Income for Yuma, AZ (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL49740               | Regional Price Parities: All Items for Yuma, AZ (MSA)                                       | 2008-01-01          | 2020-01-01        |

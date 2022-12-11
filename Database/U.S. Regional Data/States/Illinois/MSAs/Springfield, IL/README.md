@@ -8,18 +8,18 @@
 | AVELISPRIMM44100          | Housing Inventory: Average Listing Price Month-Over-Month in Springfield, IL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY44100          | Housing Inventory: Average Listing Price Year-Over-Year in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA44100              | Market Hotness: Demand Score in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC441030010             | Total Quarterly Wages in Springfield, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC441030010SA           | Total Quarterly Wages in Springfield, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC441040010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, IL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC441040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, IL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC441040110             | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, IL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC441040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, IL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC441040210             | Average Weekly Wages for Employees in State Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC441040210SA           | Average Weekly Wages for Employees in State Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC441040310             | Average Weekly Wages for Employees in Local Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC441040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC441040510             | Average Weekly Wages for Employees in Private Establishments in Springfield, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC441040510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC441030010             | Total Quarterly Wages in Springfield, IL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC441030010SA           | Total Quarterly Wages in Springfield, IL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC441040010             | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, IL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC441040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Springfield, IL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC441040110             | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, IL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC441040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Springfield, IL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC441040210             | Average Weekly Wages for Employees in State Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC441040210SA           | Average Weekly Wages for Employees in State Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC441040310             | Average Weekly Wages for Employees in Local Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC441040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Springfield, IL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC441040510             | Average Weekly Wages for Employees in Private Establishments in Springfield, IL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC441040510SA           | Average Weekly Wages for Employees in Private Establishments in Springfield, IL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA44100            | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA44100              | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA44100            | Market Hotness: Hotness Rank in Springfield, IL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU44100            | Housing Inventory: New Listing Count in Springfield, IL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM44100          | Housing Inventory: New Listing Count Month-Over-Month in Springfield, IL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY44100          | Housing Inventory: New Listing Count Year-Over-Year in Springfield, IL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP44100                 | Total Gross Domestic Product for Springfield, IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP44100                 | Total Gross Domestic Product for Springfield, IL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA44100            | Market Hotness: Nielsen Household Rank in Springfield, IL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA144100          | U.S. Granted Utility Patents Originating in Springfield, IL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU44100            | Housing Inventory: Pending Listing Count in Springfield, IL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU44100            | Housing Inventory: Price Reduced Count in Springfield, IL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM44100          | Housing Inventory: Price Reduced Count Month-Over-Month in Springfield, IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY44100          | Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, IL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP44100                 | Total Quantity Indexes for Real GDP for Springfield, IL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP44100                 | Total Real Gross Domestic Product for Springfield, IL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP44100                 | Total Quantity Indexes for Real GDP for Springfield, IL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP44100                 | Total Real Gross Domestic Product for Springfield, IL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI44100                  | Real Personal Income for Springfield, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC44100                | Real Per Capita Personal Income for Springfield, IL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL44100               | Regional Price Parities: All Items for Springfield, IL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

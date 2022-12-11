@@ -1,18 +1,18 @@
 | id                     | title                                                                                        | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS33220Q         | All-Transactions House Price Index for Midland, MI (MSA)                                     | 1986-04-01          | 2022-07-01        |
-| ENUC332230010          | Total Quarterly Wages in Midland, MI (MSA)                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC332230010SA        | Total Quarterly Wages in Midland, MI (MSA)                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC332240010          | Average Weekly Wages for Employees in Total Covered Establishments in Midland, MI (MSA)      | 2013-01-01          | 2022-01-01        |
-| ENUC332240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Midland, MI (MSA)      | 2013-01-01          | 2022-01-01        |
-| ENUC332240110          | Average Weekly Wages for Employees in Federal Government Establishments in Midland, MI (MSA) | 2013-01-01          | 2022-01-01        |
-| ENUC332240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Midland, MI (MSA) | 2013-01-01          | 2022-01-01        |
-| ENUC332240210          | Average Weekly Wages for Employees in State Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC332240210SA        | Average Weekly Wages for Employees in State Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC332240310          | Average Weekly Wages for Employees in Local Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC332240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC332240510          | Average Weekly Wages for Employees in Private Establishments in Midland, MI (MSA)            | 2013-01-01          | 2022-01-01        |
-| ENUC332240510SA        | Average Weekly Wages for Employees in Private Establishments in Midland, MI (MSA)            | 2013-01-01          | 2022-01-01        |
+| ENUC332230010          | Total Quarterly Wages in Midland, MI (MSA)                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC332230010SA        | Total Quarterly Wages in Midland, MI (MSA)                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC332240010          | Average Weekly Wages for Employees in Total Covered Establishments in Midland, MI (MSA)      | 2013-01-01          | 2022-04-01        |
+| ENUC332240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Midland, MI (MSA)      | 2013-01-01          | 2022-04-01        |
+| ENUC332240110          | Average Weekly Wages for Employees in Federal Government Establishments in Midland, MI (MSA) | 2013-01-01          | 2022-04-01        |
+| ENUC332240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Midland, MI (MSA) | 2013-01-01          | 2022-04-01        |
+| ENUC332240210          | Average Weekly Wages for Employees in State Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC332240210SA        | Average Weekly Wages for Employees in State Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC332240310          | Average Weekly Wages for Employees in Local Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC332240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC332240510          | Average Weekly Wages for Employees in Private Establishments in Midland, MI (MSA)            | 2013-01-01          | 2022-04-01        |
+| ENUC332240510SA        | Average Weekly Wages for Employees in Private Establishments in Midland, MI (MSA)            | 2013-01-01          | 2022-04-01        |
 | IRPD33220              | Implicit Regional Price Deflator for Midland, MI (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT263322000000003   | Unemployment Rate in Midland, MI (MSA)                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT263322000000003A  | Unemployment Rate in Midland, MI (MSA)                                                       | 1990-01-01          | 2021-01-01        |
@@ -24,9 +24,9 @@
 | LAUMT263322000000006A  | Civilian Labor Force in Midland, MI (MSA)                                                    | 1990-01-01          | 2021-01-01        |
 | MIDL926PCPI            | Per Capita Personal Income in Midland, MI (MSA)                                              | 1969-01-01          | 2021-01-01        |
 | MIDPOP                 | Resident Population in Midland, MI (MSA)                                                     | 2010-01-01          | 2021-01-01        |
-| NGMP33220              | Total Gross Domestic Product for Midland, MI (MSA)                                           | 2001-01-01          | 2020-01-01        |
-| QGMP33220              | Total Quantity Indexes for Real GDP for Midland, MI (MSA)                                    | 2001-01-01          | 2020-01-01        |
-| RGMP33220              | Total Real Gross Domestic Product for Midland, MI (MSA)                                      | 2001-01-01          | 2020-01-01        |
+| NGMP33220              | Total Gross Domestic Product for Midland, MI (MSA)                                           | 2001-01-01          | 2021-01-01        |
+| QGMP33220              | Total Quantity Indexes for Real GDP for Midland, MI (MSA)                                    | 2001-01-01          | 2021-01-01        |
+| RGMP33220              | Total Real Gross Domestic Product for Midland, MI (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RPI33220               | Real Personal Income for Midland, MI (MSA)                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC33220             | Real Per Capita Personal Income for Midland, MI (MSA)                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL33220            | Regional Price Parities: All Items for Midland, MI (MSA)                                     | 2008-01-01          | 2020-01-01        |

@@ -40,18 +40,18 @@
 | DELT612UR                 | Unemployment Rate in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DELT612URN                | Unemployment Rate in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA19660              | Market Hotness: Demand Score in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC196630010             | Total Quarterly Wages in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC196630010SA           | Total Quarterly Wages in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC196640010             | Average Weekly Wages for Employees in Total Covered Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC196640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC196640110             | Average Weekly Wages for Employees in Federal Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC196640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC196640210             | Average Weekly Wages for Employees in State Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC196640210SA           | Average Weekly Wages for Employees in State Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC196640310             | Average Weekly Wages for Employees in Local Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC196640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC196640510             | Average Weekly Wages for Employees in Private Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC196640510SA           | Average Weekly Wages for Employees in Private Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC196630010             | Total Quarterly Wages in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC196630010SA           | Total Quarterly Wages in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC196640010             | Average Weekly Wages for Employees in Total Covered Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC196640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC196640110             | Average Weekly Wages for Employees in Federal Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC196640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC196640210             | Average Weekly Wages for Employees in State Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC196640210SA           | Average Weekly Wages for Employees in State Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC196640310             | Average Weekly Wages for Employees in Local Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC196640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC196640510             | Average Weekly Wages for Employees in Private Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC196640510SA           | Average Weekly Wages for Employees in Private Establishments in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA19660            | Market Hotness: Hotness Rank in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA19660              | Market Hotness: Hotness Rank in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA19660            | Market Hotness: Hotness Rank in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -92,7 +92,7 @@
 | NEWLISCOU19660            | Housing Inventory: New Listing Count in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM19660          | Housing Inventory: New Listing Count Month-Over-Month in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY19660          | Housing Inventory: New Listing Count Year-Over-Year in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP19660                 | Total Gross Domestic Product for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP19660                 | Total Gross Domestic Product for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA19660            | Market Hotness: Nielsen Household Rank in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA119660          | U.S. Granted Utility Patents Originating in Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU19660            | Housing Inventory: Pending Listing Count in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -104,8 +104,8 @@
 | PRIREDCOU19660            | Housing Inventory: Price Reduced Count in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM19660          | Housing Inventory: Price Reduced Count Month-Over-Month in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY19660          | Housing Inventory: Price Reduced Count Year-Over-Year in Deltona-Daytona Beach-Ormond Beach, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP19660                 | Total Quantity Indexes for Real GDP for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP19660                 | Total Real Gross Domestic Product for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP19660                 | Total Quantity Indexes for Real GDP for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP19660                 | Total Real Gross Domestic Product for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI19660                  | Real Personal Income for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC19660                | Real Per Capita Personal Income for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL19660               | Regional Price Parities: All Items for Deltona-Daytona Beach-Ormond Beach, FL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

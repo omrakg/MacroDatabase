@@ -73,7 +73,7 @@
 | DEBTTLOMA188A        | Central government debt, total (% of GDP) for Oman                                                                                        | 1990-01-01          | 2013-01-01        |
 | DEOMNA052SCEN        | Value of Exports to Oman from Delaware                                                                                                    | 1997-01-01          | 2017-01-01        |
 | DEOMNA475SCEN        | Number of Identified Exporters to Oman from Delaware                                                                                      | 1992-01-01          | 2017-01-01        |
-| EXP5230              | U.S. Exports of Goods by F.A.S. Basis to Oman                                                                                             | 1992-01-01          | 2022-09-01        |
+| EXP5230              | U.S. Exports of Goods by F.A.S. Basis to Oman                                                                                             | 1992-01-01          | 2022-10-01        |
 | FLOMNA052SCEN        | Value of Exports to Oman from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FLOMNA475SCEN        | Number of Identified Exporters to Oman from Florida                                                                                       | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGOMN       | Inflation, consumer prices for Oman                                                                                                       | 2001-01-01          | 2021-01-01        |
@@ -85,18 +85,18 @@
 | ICBUSEASEXQOMN       | Ease of doing business index for Oman                                                                                                     | 2019-01-01          | 2019-01-01        |
 | IDOMNA052SCEN        | Value of Exports to Oman from Idaho                                                                                                       | 1992-01-01          | 2017-01-01        |
 | IDOMNA475SCEN        | Number of Identified Exporters to Oman from Idaho                                                                                         | 1992-01-01          | 2017-01-01        |
-| IDS1MNIAOAIOM        | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Oman                    | 1973-10-01          | 2022-04-01        |
-| IDS1YMAORIAIOM       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Oman                      | 1973-10-01          | 2022-04-01        |
-| IDS1YMAORIGGOM       | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Oman        | 1973-10-01          | 2022-04-01        |
-| IDSAMRIAOOM          | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Oman                          | 1973-10-01          | 2022-04-01        |
-| IDSAMRINIOM          | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Oman                                  | 1973-10-01          | 2022-04-01        |
-| IDSGAMNIAOOM         | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Oman                       | 1973-10-01          | 2022-04-01        |
-| IDSGAMNINIOM         | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Oman                                | 1973-10-01          | 2022-04-01        |
-| IDSGAMRIAOOM         | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Oman | 1973-10-01          | 2022-04-01        |
-| IDSGAMRINIOM         | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Oman         | 1973-10-01          | 2022-04-01        |
+| IDS1MNIAOAIOM        | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Oman                    | 1973-10-01          | 2022-07-01        |
+| IDS1YMAORIAIOM       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Oman                      | 1973-10-01          | 2022-07-01        |
+| IDS1YMAORIGGOM       | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Oman        | 1973-10-01          | 2022-07-01        |
+| IDSAMRIAOOM          | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Oman                          | 1973-10-01          | 2022-07-01        |
+| IDSAMRINIOM          | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Oman                                  | 1973-10-01          | 2022-07-01        |
+| IDSGAMNIAOOM         | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Oman                       | 1973-10-01          | 2022-07-01        |
+| IDSGAMNINIOM         | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Oman                                | 1973-10-01          | 2022-07-01        |
+| IDSGAMRIAOOM         | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Oman | 1973-10-01          | 2022-07-01        |
+| IDSGAMRINIOM         | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Oman         | 1973-10-01          | 2022-07-01        |
 | ILOMNA052SCEN        | Value of Exports to Oman from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
 | ILOMNA475SCEN        | Number of Identified Exporters to Oman from Illinois                                                                                      | 1992-01-01          | 2017-01-01        |
-| IMP5230              | U.S. Imports of Goods by Customs Basis from Oman                                                                                          | 1992-01-01          | 2022-09-01        |
+| IMP5230              | U.S. Imports of Goods by Customs Basis from Oman                                                                                          | 1992-01-01          | 2022-10-01        |
 | INOMNA052SCEN        | Value of Exports to Oman from Indiana                                                                                                     | 1992-01-01          | 2017-01-01        |
 | INOMNA475SCEN        | Number of Identified Exporters to Oman from Indiana                                                                                       | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2OMN       | Internet users for Oman                                                                                                                   | 1990-01-01          | 2020-01-01        |

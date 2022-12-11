@@ -8,18 +8,18 @@
 | AVELISPRIMM29180          | Housing Inventory: Average Listing Price Month-Over-Month in Lafayette, LA (CBSA)                                          | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY29180          | Housing Inventory: Average Listing Price Year-Over-Year in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
 | DESCMSA29180              | Market Hotness: Demand Score in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
-| ENUC291830010             | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC291830010SA           | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC291840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| ENUC291840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| ENUC291840110             | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC291840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC291840210             | Average Weekly Wages for Employees in State Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC291840210SA           | Average Weekly Wages for Employees in State Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC291840310             | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC291840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC291840510             | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ENUC291840510SA           | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| ENUC291830010             | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC291830010SA           | Total Quarterly Wages in Lafayette, LA (MSA)                                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC291840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2022-04-01        |
+| ENUC291840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, LA (MSA)                                  | 1990-01-01          | 2022-04-01        |
+| ENUC291840110             | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC291840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, LA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC291840210             | Average Weekly Wages for Employees in State Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC291840210SA           | Average Weekly Wages for Employees in State Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC291840310             | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC291840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, LA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC291840510             | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2022-04-01        |
+| ENUC291840510SA           | Average Weekly Wages for Employees in Private Establishments in Lafayette, LA (MSA)                                        | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2017-09-01          | 2022-11-01        |
 | HORAMSA29180              | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA29180            | Market Hotness: Hotness Rank in Lafayette, LA (CBSA)                                                                       | 2018-08-01          | 2022-11-01        |
@@ -85,7 +85,7 @@
 | NEWLISCOU29180            | Housing Inventory: New Listing Count in Lafayette, LA (CBSA)                                                               | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM29180          | Housing Inventory: New Listing Count Month-Over-Month in Lafayette, LA (CBSA)                                              | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY29180          | Housing Inventory: New Listing Count Year-Over-Year in Lafayette, LA (CBSA)                                                | 2017-07-01          | 2022-11-01        |
-| NGMP29180                 | Total Gross Domestic Product for Lafayette, LA (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
+| NGMP29180                 | Total Gross Domestic Product for Lafayette, LA (MSA)                                                                       | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA29180            | Market Hotness: Nielsen Household Rank in Lafayette, LA (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA129180          | U.S. Granted Utility Patents Originating in Lafayette, LA (MSA)                                                            | 2000-01-01          | 2015-01-01        |
 | PENLISCOU29180            | Housing Inventory: Pending Listing Count in Lafayette, LA (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
@@ -97,8 +97,8 @@
 | PRIREDCOU29180            | Housing Inventory: Price Reduced Count in Lafayette, LA (CBSA)                                                             | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM29180          | Housing Inventory: Price Reduced Count Month-Over-Month in Lafayette, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY29180          | Housing Inventory: Price Reduced Count Year-Over-Year in Lafayette, LA (CBSA)                                              | 2017-07-01          | 2022-11-01        |
-| QGMP29180                 | Total Quantity Indexes for Real GDP for Lafayette, LA (MSA)                                                                | 2001-01-01          | 2020-01-01        |
-| RGMP29180                 | Total Real Gross Domestic Product for Lafayette, LA (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
+| QGMP29180                 | Total Quantity Indexes for Real GDP for Lafayette, LA (MSA)                                                                | 2001-01-01          | 2021-01-01        |
+| RGMP29180                 | Total Real Gross Domestic Product for Lafayette, LA (MSA)                                                                  | 2001-01-01          | 2021-01-01        |
 | RPI29180                  | Real Personal Income for Lafayette, LA (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
 | RPIPC29180                | Real Per Capita Personal Income for Lafayette, LA (MSA)                                                                    | 2008-01-01          | 2020-01-01        |
 | RPPALL29180               | Regional Price Parities: All Items for Lafayette, LA (MSA)                                                                 | 2008-01-01          | 2020-01-01        |

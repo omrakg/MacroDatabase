@@ -8,7 +8,7 @@
 | Dawson County, MT          |                89 |
 | Madison County, MT         |                90 |
 | Carter County, MT          |                86 |
-| Gallatin County, MT        |                 0 |
+| Gallatin County, MT        |               147 |
 | Broadwater County, MT      |                89 |
 | Richland County, MT        |                89 |
 | Ravalli County, MT         |                90 |
@@ -31,7 +31,7 @@
 | Big Horn County, MT        |                88 |
 | Musselshell County, MT     |                89 |
 | Hill County, MT            |                89 |
-| Rosebud County, MT         |                88 |
+| Rosebud County, MT         |                 0 |
 | Toole County, MT           |                90 |
 | Teton County, MT           |                89 |
 | Stillwater County, MT      |                90 |

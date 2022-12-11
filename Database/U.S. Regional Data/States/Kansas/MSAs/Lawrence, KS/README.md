@@ -7,14 +7,14 @@
 | AVELISPRI29940            | Housing Inventory: Average Listing Price in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM29940          | Housing Inventory: Average Listing Price Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY29940          | Housing Inventory: Average Listing Price Year-Over-Year in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC299430010             | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC299430010SA           | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC299440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC299440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC299440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lawrence, KS (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC299440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lawrence, KS (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC299440510             | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC299440510SA           | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC299430010             | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC299430010SA           | Total Quarterly Wages in Lawrence, KS (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC299440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC299440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lawrence, KS (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC299440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lawrence, KS (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC299440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lawrence, KS (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC299440510             | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC299440510SA           | Average Weekly Wages for Employees in Private Establishments in Lawrence, KS (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD29940                 | Implicit Regional Price Deflator for Lawrence, KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT202994000000003A     | Unemployment Rate in Lawrence, KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT202994000000004      | Unemployed Persons in Lawrence, KS (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -55,7 +55,7 @@
 | NEWLISCOU29940            | Housing Inventory: New Listing Count in Lawrence, KS (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM29940          | Housing Inventory: New Listing Count Month-Over-Month in Lawrence, KS (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY29940          | Housing Inventory: New Listing Count Year-Over-Year in Lawrence, KS (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP29940                 | Total Gross Domestic Product for Lawrence, KS (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP29940                 | Total Gross Domestic Product for Lawrence, KS (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA129940          | U.S. Granted Utility Patents Originating in Lawrence, KS (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU29940            | Housing Inventory: Pending Listing Count in Lawrence, KS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM29940          | Housing Inventory: Pending Listing Count Month-Over-Month in Lawrence, KS (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -66,8 +66,8 @@
 | PRIREDCOU29940            | Housing Inventory: Price Reduced Count in Lawrence, KS (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM29940          | Housing Inventory: Price Reduced Count Month-Over-Month in Lawrence, KS (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY29940          | Housing Inventory: Price Reduced Count Year-Over-Year in Lawrence, KS (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP29940                 | Total Quantity Indexes for Real GDP for Lawrence, KS (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP29940                 | Total Real Gross Domestic Product for Lawrence, KS (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP29940                 | Total Quantity Indexes for Real GDP for Lawrence, KS (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP29940                 | Total Real Gross Domestic Product for Lawrence, KS (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI29940                  | Real Personal Income for Lawrence, KS (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC29940                | Real Per Capita Personal Income for Lawrence, KS (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL29940               | Regional Price Parities: All Items for Lawrence, KS (MSA)                                       | 2008-01-01          | 2020-01-01        |

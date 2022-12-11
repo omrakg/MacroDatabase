@@ -47,11 +47,11 @@
 | Delaware County, IA      |                90 |
 | Allamakee County, IA     |                90 |
 | Marshall County, IA      |                90 |
-| Adair County, IA         |                90 |
+| Adair County, IA         |                 0 |
 | Johnson County, IA       |               147 |
 | Lyon County, IA          |                90 |
 | Emmet County, IA         |                90 |
-| Van Buren County, IA     |                 0 |
+| Van Buren County, IA     |                89 |
 | Winneshiek County, IA    |                90 |
 | Jones County, IA         |                90 |
 | Ida County, IA           |                89 |

@@ -8,18 +8,18 @@
 | AVELISPRIMM48540          | Housing Inventory: Average Listing Price Month-Over-Month in Wheeling, WV-OH (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY48540          | Housing Inventory: Average Listing Price Year-Over-Year in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA48540              | Market Hotness: Demand Score in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC485430010             | Total Quarterly Wages in Wheeling, WV-OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC485430010SA           | Total Quarterly Wages in Wheeling, WV-OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC485440010             | Average Weekly Wages for Employees in Total Covered Establishments in Wheeling, WV-OH (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC485440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wheeling, WV-OH (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC485440110             | Average Weekly Wages for Employees in Federal Government Establishments in Wheeling, WV-OH (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC485440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wheeling, WV-OH (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC485440210             | Average Weekly Wages for Employees in State Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC485440210SA           | Average Weekly Wages for Employees in State Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC485440310             | Average Weekly Wages for Employees in Local Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC485440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC485440510             | Average Weekly Wages for Employees in Private Establishments in Wheeling, WV-OH (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC485440510SA           | Average Weekly Wages for Employees in Private Establishments in Wheeling, WV-OH (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC485430010             | Total Quarterly Wages in Wheeling, WV-OH (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC485430010SA           | Total Quarterly Wages in Wheeling, WV-OH (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC485440010             | Average Weekly Wages for Employees in Total Covered Establishments in Wheeling, WV-OH (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC485440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Wheeling, WV-OH (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC485440110             | Average Weekly Wages for Employees in Federal Government Establishments in Wheeling, WV-OH (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC485440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Wheeling, WV-OH (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC485440210             | Average Weekly Wages for Employees in State Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC485440210SA           | Average Weekly Wages for Employees in State Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC485440310             | Average Weekly Wages for Employees in Local Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC485440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Wheeling, WV-OH (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC485440510             | Average Weekly Wages for Employees in Private Establishments in Wheeling, WV-OH (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC485440510SA           | Average Weekly Wages for Employees in Private Establishments in Wheeling, WV-OH (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA48540            | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA48540              | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA48540            | Market Hotness: Hotness Rank in Wheeling, WV-OH (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU48540            | Housing Inventory: New Listing Count in Wheeling, WV-OH (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM48540          | Housing Inventory: New Listing Count Month-Over-Month in Wheeling, WV-OH (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY48540          | Housing Inventory: New Listing Count Year-Over-Year in Wheeling, WV-OH (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP48540                 | Total Gross Domestic Product for Wheeling, WV-OH (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP48540                 | Total Gross Domestic Product for Wheeling, WV-OH (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA48540            | Market Hotness: Nielsen Household Rank in Wheeling, WV-OH (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA148540          | U.S. Granted Utility Patents Originating in Wheeling, WV-OH (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU48540            | Housing Inventory: Pending Listing Count in Wheeling, WV-OH (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -70,8 +70,8 @@
 | PRIREDCOU48540            | Housing Inventory: Price Reduced Count in Wheeling, WV-OH (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM48540          | Housing Inventory: Price Reduced Count Month-Over-Month in Wheeling, WV-OH (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY48540          | Housing Inventory: Price Reduced Count Year-Over-Year in Wheeling, WV-OH (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP48540                 | Total Quantity Indexes for Real GDP for Wheeling, WV-OH (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP48540                 | Total Real Gross Domestic Product for Wheeling, WV-OH (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP48540                 | Total Quantity Indexes for Real GDP for Wheeling, WV-OH (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP48540                 | Total Real Gross Domestic Product for Wheeling, WV-OH (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI48540                  | Real Personal Income for Wheeling, WV-OH (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC48540                | Real Per Capita Personal Income for Wheeling, WV-OH (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL48540               | Regional Price Parities: All Items for Wheeling, WV-OH (MSA)                                       | 2008-01-01          | 2020-01-01        |

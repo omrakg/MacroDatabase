@@ -7,7 +7,7 @@
 | Erie County, NY         |               147 |
 | Saratoga County, NY     |               147 |
 | Franklin County, NY     |               146 |
-| Orange County, NY       |               146 |
+| Orange County, NY       |                 0 |
 | Fulton County, NY       |               146 |
 | Madison County, NY      |               147 |
 | Yates County, NY        |                90 |
@@ -25,7 +25,7 @@
 | Delaware County, NY     |                90 |
 | Dutchess County, NY     |               147 |
 | Albany County, NY       |               147 |
-| Seneca County, NY       |                 0 |
+| Seneca County, NY       |                90 |
 | Tioga County, NY        |               146 |
 | Rockland County, NY     |               147 |
 | Livingston County, NY   |               146 |

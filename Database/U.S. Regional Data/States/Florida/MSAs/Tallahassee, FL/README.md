@@ -8,18 +8,18 @@
 | AVELISPRIMM45220          | Housing Inventory: Average Listing Price Month-Over-Month in Tallahassee, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY45220          | Housing Inventory: Average Listing Price Year-Over-Year in Tallahassee, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA45220              | Market Hotness: Demand Score in Tallahassee, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC452230010             | Total Quarterly Wages in Tallahassee, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC452230010SA           | Total Quarterly Wages in Tallahassee, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC452240010             | Average Weekly Wages for Employees in Total Covered Establishments in Tallahassee, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC452240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Tallahassee, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC452240110             | Average Weekly Wages for Employees in Federal Government Establishments in Tallahassee, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC452240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Tallahassee, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC452240210             | Average Weekly Wages for Employees in State Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC452240210SA           | Average Weekly Wages for Employees in State Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC452240310             | Average Weekly Wages for Employees in Local Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC452240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC452240510             | Average Weekly Wages for Employees in Private Establishments in Tallahassee, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC452240510SA           | Average Weekly Wages for Employees in Private Establishments in Tallahassee, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC452230010             | Total Quarterly Wages in Tallahassee, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC452230010SA           | Total Quarterly Wages in Tallahassee, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC452240010             | Average Weekly Wages for Employees in Total Covered Establishments in Tallahassee, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC452240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Tallahassee, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC452240110             | Average Weekly Wages for Employees in Federal Government Establishments in Tallahassee, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC452240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Tallahassee, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC452240210             | Average Weekly Wages for Employees in State Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC452240210SA           | Average Weekly Wages for Employees in State Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC452240310             | Average Weekly Wages for Employees in Local Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC452240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tallahassee, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC452240510             | Average Weekly Wages for Employees in Private Establishments in Tallahassee, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC452240510SA           | Average Weekly Wages for Employees in Private Establishments in Tallahassee, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA45220            | Market Hotness: Hotness Rank in Tallahassee, FL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA45220              | Market Hotness: Hotness Rank in Tallahassee, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA45220            | Market Hotness: Hotness Rank in Tallahassee, FL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU45220            | Housing Inventory: New Listing Count in Tallahassee, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM45220          | Housing Inventory: New Listing Count Month-Over-Month in Tallahassee, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY45220          | Housing Inventory: New Listing Count Year-Over-Year in Tallahassee, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP45220                 | Total Gross Domestic Product for Tallahassee, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP45220                 | Total Gross Domestic Product for Tallahassee, FL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA45220            | Market Hotness: Nielsen Household Rank in Tallahassee, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA145220          | U.S. Granted Utility Patents Originating in Tallahassee, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU45220            | Housing Inventory: Pending Listing Count in Tallahassee, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU45220            | Housing Inventory: Price Reduced Count in Tallahassee, FL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM45220          | Housing Inventory: Price Reduced Count Month-Over-Month in Tallahassee, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY45220          | Housing Inventory: Price Reduced Count Year-Over-Year in Tallahassee, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP45220                 | Total Quantity Indexes for Real GDP for Tallahassee, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP45220                 | Total Real Gross Domestic Product for Tallahassee, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP45220                 | Total Quantity Indexes for Real GDP for Tallahassee, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP45220                 | Total Real Gross Domestic Product for Tallahassee, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI45220                  | Real Personal Income for Tallahassee, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC45220                | Real Per Capita Personal Income for Tallahassee, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL45220               | Regional Price Parities: All Items for Tallahassee, FL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

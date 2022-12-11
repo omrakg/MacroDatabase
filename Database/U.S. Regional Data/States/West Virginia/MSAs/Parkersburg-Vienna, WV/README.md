@@ -7,16 +7,16 @@
 | AVELISPRI37620            | Housing Inventory: Average Listing Price in Parkersburg-Vienna, WV (CBSA)                                           | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM37620          | Housing Inventory: Average Listing Price Month-Over-Month in Parkersburg-Vienna, WV (CBSA)                          | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY37620          | Housing Inventory: Average Listing Price Year-Over-Year in Parkersburg-Vienna, WV (CBSA)                            | 2017-07-01          | 2022-11-01        |
-| ENUC376230010             | Total Quarterly Wages in Parkersburg-Vienna, WV (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC376230010SA           | Total Quarterly Wages in Parkersburg-Vienna, WV (MSA)                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC376240010             | Average Weekly Wages for Employees in Total Covered Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC376240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC376240110             | Average Weekly Wages for Employees in Federal Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA) | 1990-01-01          | 2022-01-01        |
-| ENUC376240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA) | 1990-01-01          | 2022-01-01        |
-| ENUC376240210             | Average Weekly Wages for Employees in State Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)   | 2001-01-01          | 2021-01-01        |
-| ENUC376240210SA           | Average Weekly Wages for Employees in State Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)   | 2001-01-01          | 2021-01-01        |
-| ENUC376240510             | Average Weekly Wages for Employees in Private Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)            | 1990-01-01          | 2022-01-01        |
-| ENUC376240510SA           | Average Weekly Wages for Employees in Private Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)            | 1990-01-01          | 2022-01-01        |
+| ENUC376230010             | Total Quarterly Wages in Parkersburg-Vienna, WV (MSA)                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC376230010SA           | Total Quarterly Wages in Parkersburg-Vienna, WV (MSA)                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC376240010             | Average Weekly Wages for Employees in Total Covered Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC376240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC376240110             | Average Weekly Wages for Employees in Federal Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA) | 1990-01-01          | 2022-04-01        |
+| ENUC376240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA) | 1990-01-01          | 2022-04-01        |
+| ENUC376240210             | Average Weekly Wages for Employees in State Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)   | 2001-01-01          | 2022-04-01        |
+| ENUC376240210SA           | Average Weekly Wages for Employees in State Government Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)   | 2001-01-01          | 2022-04-01        |
+| ENUC376240510             | Average Weekly Wages for Employees in Private Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)            | 1990-01-01          | 2022-04-01        |
+| ENUC376240510SA           | Average Weekly Wages for Employees in Private Establishments in Parkersburg-Marietta-Vienna, WV-OH (MSA)            | 1990-01-01          | 2022-04-01        |
 | IRPD37620                 | Implicit Regional Price Deflator for Parkersburg-Vienna, WV (MSA)                                                   | 2008-01-01          | 2020-01-01        |
 | LAUMT543762000000003A     | Unemployment Rate in Parkersburg-Vienna, WV (MSA)                                                                   | 1990-01-01          | 2021-01-01        |
 | LAUMT543762000000004      | Unemployed Persons in Parkersburg-Vienna, WV (MSA)                                                                  | 1990-01-01          | 2022-10-01        |
@@ -39,7 +39,7 @@
 | NEWLISCOU37620            | Housing Inventory: New Listing Count in Parkersburg-Vienna, WV (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM37620          | Housing Inventory: New Listing Count Month-Over-Month in Parkersburg-Vienna, WV (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY37620          | Housing Inventory: New Listing Count Year-Over-Year in Parkersburg-Vienna, WV (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| NGMP37620                 | Total Gross Domestic Product for Parkersburg-Vienna, WV (MSA)                                                       | 2001-01-01          | 2020-01-01        |
+| NGMP37620                 | Total Gross Domestic Product for Parkersburg-Vienna, WV (MSA)                                                       | 2001-01-01          | 2021-01-01        |
 | PARK654EDUH               | All Employees: Education and Health Services in Parkersburg-Vienna, WV (MSA)                                        | 2006-01-01          | 2022-10-01        |
 | PARK654EDUHN              | All Employees: Education and Health Services in Parkersburg-Vienna, WV (MSA)                                        | 2006-01-01          | 2022-10-01        |
 | PARK654GOVT               | All Employees: Government in Parkersburg-Vienna, WV (MSA)                                                           | 1990-01-01          | 2022-10-01        |
@@ -63,8 +63,8 @@
 | PRIREDCOU37620            | Housing Inventory: Price Reduced Count in Parkersburg-Vienna, WV (CBSA)                                             | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM37620          | Housing Inventory: Price Reduced Count Month-Over-Month in Parkersburg-Vienna, WV (CBSA)                            | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY37620          | Housing Inventory: Price Reduced Count Year-Over-Year in Parkersburg-Vienna, WV (CBSA)                              | 2017-07-01          | 2022-11-01        |
-| QGMP37620                 | Total Quantity Indexes for Real GDP for Parkersburg-Vienna, WV (MSA)                                                | 2001-01-01          | 2020-01-01        |
-| RGMP37620                 | Total Real Gross Domestic Product for Parkersburg-Vienna, WV (MSA)                                                  | 2001-01-01          | 2020-01-01        |
+| QGMP37620                 | Total Quantity Indexes for Real GDP for Parkersburg-Vienna, WV (MSA)                                                | 2001-01-01          | 2021-01-01        |
+| RGMP37620                 | Total Real Gross Domestic Product for Parkersburg-Vienna, WV (MSA)                                                  | 2001-01-01          | 2021-01-01        |
 | RPI37620                  | Real Personal Income for Parkersburg-Vienna, WV (MSA)                                                               | 2008-01-01          | 2020-01-01        |
 | RPIPC37620                | Real Per Capita Personal Income for Parkersburg-Vienna, WV (MSA)                                                    | 2008-01-01          | 2020-01-01        |
 | RPPALL37620               | Regional Price Parities: All Items for Parkersburg-Vienna, WV (MSA)                                                 | 2008-01-01          | 2020-01-01        |

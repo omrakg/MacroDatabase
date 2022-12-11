@@ -8,18 +8,18 @@
 | AVELISPRIMM36500          | Housing Inventory: Average Listing Price Month-Over-Month in Olympia-Tumwater, WA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY36500          | Housing Inventory: Average Listing Price Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA36500              | Market Hotness: Demand Score in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC365030010             | Total Quarterly Wages in Olympia-Tumwater, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC365030010SA           | Total Quarterly Wages in Olympia-Tumwater, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC365040010             | Average Weekly Wages for Employees in Total Covered Establishments in Olympia, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC365040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Olympia, WA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC365040110             | Average Weekly Wages for Employees in Federal Government Establishments in Olympia, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ENUC365040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Olympia, WA (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ENUC365040210             | Average Weekly Wages for Employees in State Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC365040210SA           | Average Weekly Wages for Employees in State Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC365040310             | Average Weekly Wages for Employees in Local Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC365040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC365040510             | Average Weekly Wages for Employees in Private Establishments in Olympia, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
-| ENUC365040510SA           | Average Weekly Wages for Employees in Private Establishments in Olympia, WA (MSA)                                     | 1990-01-01          | 2022-01-01        |
+| ENUC365030010             | Total Quarterly Wages in Olympia-Tumwater, WA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC365030010SA           | Total Quarterly Wages in Olympia-Tumwater, WA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC365040010             | Average Weekly Wages for Employees in Total Covered Establishments in Olympia, WA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC365040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Olympia, WA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC365040110             | Average Weekly Wages for Employees in Federal Government Establishments in Olympia, WA (MSA)                          | 1990-01-01          | 2022-04-01        |
+| ENUC365040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Olympia, WA (MSA)                          | 1990-01-01          | 2022-04-01        |
+| ENUC365040210             | Average Weekly Wages for Employees in State Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC365040210SA           | Average Weekly Wages for Employees in State Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC365040310             | Average Weekly Wages for Employees in Local Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC365040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Olympia, WA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC365040510             | Average Weekly Wages for Employees in Private Establishments in Olympia, WA (MSA)                                     | 1990-01-01          | 2022-04-01        |
+| ENUC365040510SA           | Average Weekly Wages for Employees in Private Establishments in Olympia, WA (MSA)                                     | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA36500            | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA36500              | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA36500            | Market Hotness: Hotness Rank in Olympia-Tumwater, WA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU36500            | Housing Inventory: New Listing Count in Olympia-Tumwater, WA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM36500          | Housing Inventory: New Listing Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY36500          | Housing Inventory: New Listing Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP36500                 | Total Gross Domestic Product for Olympia-Tumwater, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP36500                 | Total Gross Domestic Product for Olympia-Tumwater, WA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA36500            | Market Hotness: Nielsen Household Rank in Olympia-Tumwater, WA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | OLYM553FIREN              | All Employees: Financial Activities in Olympia-Tumwater, WA (MSA)                                                     | 1990-01-01          | 2022-10-01        |
 | OLYM553GOVT               | All Employees: Government in Olympia-Tumwater, WA (MSA)                                                               | 1990-01-01          | 2022-10-01        |
@@ -92,8 +92,8 @@
 | PRIREDCOU36500            | Housing Inventory: Price Reduced Count in Olympia-Tumwater, WA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM36500          | Housing Inventory: Price Reduced Count Month-Over-Month in Olympia-Tumwater, WA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY36500          | Housing Inventory: Price Reduced Count Year-Over-Year in Olympia-Tumwater, WA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP36500                 | Total Quantity Indexes for Real GDP for Olympia-Tumwater, WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP36500                 | Total Real Gross Domestic Product for Olympia-Tumwater, WA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP36500                 | Total Quantity Indexes for Real GDP for Olympia-Tumwater, WA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP36500                 | Total Real Gross Domestic Product for Olympia-Tumwater, WA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI36500                  | Real Personal Income for Olympia-Tumwater, WA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC36500                | Real Per Capita Personal Income for Olympia-Tumwater, WA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL36500               | Regional Price Parities: All Items for Olympia-Tumwater, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

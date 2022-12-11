@@ -8,18 +8,18 @@
 | AVELISPRIMM24540          | Housing Inventory: Average Listing Price Month-Over-Month in Greeley, CO (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY24540          | Housing Inventory: Average Listing Price Year-Over-Year in Greeley, CO (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA24540              | Market Hotness: Demand Score in Greeley, CO (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC245430010             | Total Quarterly Wages in Greeley, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC245430010SA           | Total Quarterly Wages in Greeley, CO (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC245440010             | Average Weekly Wages for Employees in Total Covered Establishments in Greeley, CO (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC245440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Greeley, CO (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC245440110             | Average Weekly Wages for Employees in Federal Government Establishments in Greeley, CO (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC245440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Greeley, CO (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC245440210             | Average Weekly Wages for Employees in State Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC245440210SA           | Average Weekly Wages for Employees in State Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC245440310             | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC245440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC245440510             | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC245440510SA           | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC245430010             | Total Quarterly Wages in Greeley, CO (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC245430010SA           | Total Quarterly Wages in Greeley, CO (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC245440010             | Average Weekly Wages for Employees in Total Covered Establishments in Greeley, CO (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC245440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Greeley, CO (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC245440110             | Average Weekly Wages for Employees in Federal Government Establishments in Greeley, CO (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC245440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Greeley, CO (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC245440210             | Average Weekly Wages for Employees in State Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC245440210SA           | Average Weekly Wages for Employees in State Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC245440310             | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC245440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Greeley, CO (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC245440510             | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC245440510SA           | Average Weekly Wages for Employees in Private Establishments in Greeley, CO (MSA)                            | 1990-01-01          | 2022-04-01        |
 | GREE508BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-10-01        |
 | GREE508BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Greeley, CO (MSA)            | 1988-01-01          | 2022-10-01        |
 | GREE508BPPRIV             | New Private Housing Units Authorized by Building Permits for Greeley, CO (MSA)                               | 1988-01-01          | 2022-10-01        |
@@ -91,7 +91,7 @@
 | NEWLISCOU24540            | Housing Inventory: New Listing Count in Greeley, CO (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM24540          | Housing Inventory: New Listing Count Month-Over-Month in Greeley, CO (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY24540          | Housing Inventory: New Listing Count Year-Over-Year in Greeley, CO (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP24540                 | Total Gross Domestic Product for Greeley, CO (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP24540                 | Total Gross Domestic Product for Greeley, CO (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA24540            | Market Hotness: Nielsen Household Rank in Greeley, CO (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA124540          | U.S. Granted Utility Patents Originating in Greeley, CO (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU24540            | Housing Inventory: Pending Listing Count in Greeley, CO (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PRIREDCOU24540            | Housing Inventory: Price Reduced Count in Greeley, CO (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM24540          | Housing Inventory: Price Reduced Count Month-Over-Month in Greeley, CO (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY24540          | Housing Inventory: Price Reduced Count Year-Over-Year in Greeley, CO (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP24540                 | Total Quantity Indexes for Real GDP for Greeley, CO (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP24540                 | Total Real Gross Domestic Product for Greeley, CO (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP24540                 | Total Quantity Indexes for Real GDP for Greeley, CO (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP24540                 | Total Real Gross Domestic Product for Greeley, CO (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI24540                  | Real Personal Income for Greeley, CO (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC24540                | Real Per Capita Personal Income for Greeley, CO (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL24540               | Regional Price Parities: All Items for Greeley, CO (MSA)                                                     | 2008-01-01          | 2020-01-01        |

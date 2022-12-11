@@ -8,18 +8,18 @@
 | AVELISPRIMM47300          | Housing Inventory: Average Listing Price Month-Over-Month in Visalia-Porterville, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY47300          | Housing Inventory: Average Listing Price Year-Over-Year in Visalia-Porterville, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA47300              | Market Hotness: Demand Score in Visalia-Porterville, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC473030010             | Total Quarterly Wages in Visalia-Porterville, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC473030010SA           | Total Quarterly Wages in Visalia-Porterville, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC473040010             | Average Weekly Wages for Employees in Total Covered Establishments in Visalia-Porterville, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC473040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Visalia-Porterville, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC473040110             | Average Weekly Wages for Employees in Federal Government Establishments in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC473040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC473040210             | Average Weekly Wages for Employees in State Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC473040210SA           | Average Weekly Wages for Employees in State Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC473040310             | Average Weekly Wages for Employees in Local Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC473040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC473040510             | Average Weekly Wages for Employees in Private Establishments in Visalia-Porterville, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC473040510SA           | Average Weekly Wages for Employees in Private Establishments in Visalia-Porterville, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC473030010             | Total Quarterly Wages in Visalia-Porterville, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC473030010SA           | Total Quarterly Wages in Visalia-Porterville, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC473040010             | Average Weekly Wages for Employees in Total Covered Establishments in Visalia-Porterville, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC473040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Visalia-Porterville, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC473040110             | Average Weekly Wages for Employees in Federal Government Establishments in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC473040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Visalia-Porterville, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC473040210             | Average Weekly Wages for Employees in State Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC473040210SA           | Average Weekly Wages for Employees in State Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC473040310             | Average Weekly Wages for Employees in Local Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC473040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Visalia-Porterville, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC473040510             | Average Weekly Wages for Employees in Private Establishments in Visalia-Porterville, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC473040510SA           | Average Weekly Wages for Employees in Private Establishments in Visalia-Porterville, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA47300            | Market Hotness: Hotness Rank in Visalia-Porterville, CA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA47300              | Market Hotness: Hotness Rank in Visalia-Porterville, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA47300            | Market Hotness: Hotness Rank in Visalia-Porterville, CA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU47300            | Housing Inventory: New Listing Count in Visalia-Porterville, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM47300          | Housing Inventory: New Listing Count Month-Over-Month in Visalia-Porterville, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY47300          | Housing Inventory: New Listing Count Year-Over-Year in Visalia-Porterville, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP47300                 | Total Gross Domestic Product for Visalia-Porterville, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP47300                 | Total Gross Domestic Product for Visalia-Porterville, CA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA47300            | Market Hotness: Nielsen Household Rank in Visalia-Porterville, CA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA147300          | U.S. Granted Utility Patents Originating in Visalia-Porterville, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU47300            | Housing Inventory: Pending Listing Count in Visalia-Porterville, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU47300            | Housing Inventory: Price Reduced Count in Visalia-Porterville, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM47300          | Housing Inventory: Price Reduced Count Month-Over-Month in Visalia-Porterville, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY47300          | Housing Inventory: Price Reduced Count Year-Over-Year in Visalia-Porterville, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP47300                 | Total Quantity Indexes for Real GDP for Visalia-Porterville, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP47300                 | Total Real Gross Domestic Product for Visalia-Porterville, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP47300                 | Total Quantity Indexes for Real GDP for Visalia-Porterville, CA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP47300                 | Total Real Gross Domestic Product for Visalia-Porterville, CA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI47300                  | Real Personal Income for Visalia-Porterville, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC47300                | Real Per Capita Personal Income for Visalia-Porterville, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL47300               | Regional Price Parities: All Items for Visalia-Porterville, CA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

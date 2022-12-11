@@ -8,18 +8,18 @@
 | AVELISPRIMM49620          | Housing Inventory: Average Listing Price Month-Over-Month in York-Hanover, PA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY49620          | Housing Inventory: Average Listing Price Year-Over-Year in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA49620              | Market Hotness: Demand Score in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC496230010             | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC496230010SA           | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC496240010             | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC496240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC496240110             | Average Weekly Wages for Employees in Federal Government Establishments in York-Hanover, PA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC496240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in York-Hanover, PA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC496240210             | Average Weekly Wages for Employees in State Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC496240210SA           | Average Weekly Wages for Employees in State Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC496240310             | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC496240310SA           | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC496240510             | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC496240510SA           | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC496230010             | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC496230010SA           | Total Quarterly Wages in York-Hanover, PA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC496240010             | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC496240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in York-Hanover, PA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC496240110             | Average Weekly Wages for Employees in Federal Government Establishments in York-Hanover, PA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC496240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in York-Hanover, PA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC496240210             | Average Weekly Wages for Employees in State Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC496240210SA           | Average Weekly Wages for Employees in State Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC496240310             | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC496240310SA           | Average Weekly Wages for Employees in Local Government Establishments in York-Hanover, PA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC496240510             | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC496240510SA           | Average Weekly Wages for Employees in Private Establishments in York-Hanover, PA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA49620            | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA49620              | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA49620            | Market Hotness: Hotness Rank in York-Hanover, PA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU49620            | Housing Inventory: New Listing Count in York-Hanover, PA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM49620          | Housing Inventory: New Listing Count Month-Over-Month in York-Hanover, PA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY49620          | Housing Inventory: New Listing Count Year-Over-Year in York-Hanover, PA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP49620                 | Total Gross Domestic Product for York-Hanover, PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP49620                 | Total Gross Domestic Product for York-Hanover, PA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA49620            | Market Hotness: Nielsen Household Rank in York-Hanover, PA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA149620          | U.S. Granted Utility Patents Originating in York-Hanover, PA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU49620            | Housing Inventory: Pending Listing Count in York-Hanover, PA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU49620            | Housing Inventory: Price Reduced Count in York-Hanover, PA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM49620          | Housing Inventory: Price Reduced Count Month-Over-Month in York-Hanover, PA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY49620          | Housing Inventory: Price Reduced Count Year-Over-Year in York-Hanover, PA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP49620                 | Total Quantity Indexes for Real GDP for York-Hanover, PA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP49620                 | Total Real Gross Domestic Product for York-Hanover, PA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP49620                 | Total Quantity Indexes for Real GDP for York-Hanover, PA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP49620                 | Total Real Gross Domestic Product for York-Hanover, PA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI49620                  | Real Personal Income for York-Hanover, PA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC49620                | Real Per Capita Personal Income for York-Hanover, PA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL49620               | Regional Price Parities: All Items for York-Hanover, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

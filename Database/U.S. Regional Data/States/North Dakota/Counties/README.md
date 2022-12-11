@@ -11,8 +11,8 @@
 | Emmons County, ND        |                88 |
 | Cass County, ND          |               147 |
 | Dunn County, ND          |                88 |
-| Divide County, ND        |                 0 |
-| Mercer County, ND        |                89 |
+| Divide County, ND        |                88 |
+| Mercer County, ND        |                 0 |
 | McIntosh County, ND      |                89 |
 | Stark County, ND         |                89 |
 | Nelson County, ND        |                87 |

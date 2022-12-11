@@ -13,9 +13,9 @@
 | NAFTALORSGPORIXOBSAM | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Original series for NAFTA   | 1960-01-01          | 2022-05-01        |
 | NAFTALORSGPRTSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Ratio to trend for NAFTA    | 1960-01-01          | 2022-05-01        |
 | NAFTALORSGPTDSTSAM   | Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Trend for NAFTA             | 1960-01-01          | 2022-05-01        |
-| NAFTAREC             | OECD based Recession Indicators for NAFTA Area from the Period following the Peak through the Trough | 1947-03-01          | 2022-02-01        |
-| NAFTARECD            | OECD based Recession Indicators for NAFTA Area from the Period following the Peak through the Trough | 1947-03-01          | 2022-02-28        |
-| NAFTARECDM           | OECD based Recession Indicators for NAFTA Area from the Peak through the Trough                      | 1947-03-01          | 2022-02-28        |
-| NAFTARECDP           | OECD based Recession Indicators for NAFTA Area from the Peak through the Period preceding the Trough | 1947-03-01          | 2022-02-28        |
-| NAFTARECM            | OECD based Recession Indicators for NAFTA Area from the Peak through the Trough                      | 1947-03-01          | 2022-02-01        |
-| NAFTARECP            | OECD based Recession Indicators for NAFTA Area from the Peak through the Period preceding the Trough | 1947-03-01          | 2022-02-01        |
+| NAFTAREC             | OECD based Recession Indicators for NAFTA Area from the Period following the Peak through the Trough | 1947-03-01          | 2022-08-01        |
+| NAFTARECD            | OECD based Recession Indicators for NAFTA Area from the Period following the Peak through the Trough | 1947-03-01          | 2022-08-31        |
+| NAFTARECDM           | OECD based Recession Indicators for NAFTA Area from the Peak through the Trough                      | 1947-03-01          | 2022-08-31        |
+| NAFTARECDP           | OECD based Recession Indicators for NAFTA Area from the Peak through the Period preceding the Trough | 1947-03-01          | 2022-08-31        |
+| NAFTARECM            | OECD based Recession Indicators for NAFTA Area from the Peak through the Trough                      | 1947-03-01          | 2022-08-01        |
+| NAFTARECP            | OECD based Recession Indicators for NAFTA Area from the Peak through the Period preceding the Trough | 1947-03-01          | 2022-08-01        |

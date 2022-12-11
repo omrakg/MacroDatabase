@@ -1,16 +1,16 @@
 | id                     | title                                                                                                                         | observation_start   | observation_end   |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS29200Q         | All-Transactions House Price Index for Lafayette-West Lafayette, IN (MSA)                                                     | 1985-01-01          | 2022-07-01        |
-| ENUC292030010          | Total Quarterly Wages in Lafayette-West Lafayette, IN (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC292030010SA        | Total Quarterly Wages in Lafayette-West Lafayette, IN (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC292040010          | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, IN (MSA)                                     | 2013-01-01          | 2022-01-01        |
-| ENUC292040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, IN (MSA)                                     | 2013-01-01          | 2022-01-01        |
-| ENUC292040110          | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, IN (MSA)                                | 2013-01-01          | 2022-01-01        |
-| ENUC292040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, IN (MSA)                                | 2013-01-01          | 2022-01-01        |
-| ENUC292040210          | Average Weekly Wages for Employees in State Government Establishments in Lafayette, IN (MSA)                                  | 2013-01-01          | 2019-01-01        |
-| ENUC292040310          | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, IN (MSA)                                  | 2013-01-01          | 2019-01-01        |
-| ENUC292040510          | Average Weekly Wages for Employees in Private Establishments in Lafayette, IN (MSA)                                           | 2013-01-01          | 2022-01-01        |
-| ENUC292040510SA        | Average Weekly Wages for Employees in Private Establishments in Lafayette, IN (MSA)                                           | 2013-01-01          | 2022-01-01        |
+| ENUC292030010          | Total Quarterly Wages in Lafayette-West Lafayette, IN (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC292030010SA        | Total Quarterly Wages in Lafayette-West Lafayette, IN (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC292040010          | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, IN (MSA)                                     | 2013-01-01          | 2022-04-01        |
+| ENUC292040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Lafayette, IN (MSA)                                     | 2013-01-01          | 2022-04-01        |
+| ENUC292040110          | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, IN (MSA)                                | 2013-01-01          | 2022-04-01        |
+| ENUC292040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Lafayette, IN (MSA)                                | 2013-01-01          | 2022-04-01        |
+| ENUC292040210          | Average Weekly Wages for Employees in State Government Establishments in Lafayette, IN (MSA)                                  | 2013-01-01          | 2022-04-01        |
+| ENUC292040310          | Average Weekly Wages for Employees in Local Government Establishments in Lafayette, IN (MSA)                                  | 2013-01-01          | 2022-04-01        |
+| ENUC292040510          | Average Weekly Wages for Employees in Private Establishments in Lafayette, IN (MSA)                                           | 2013-01-01          | 2022-04-01        |
+| ENUC292040510SA        | Average Weekly Wages for Employees in Private Establishments in Lafayette, IN (MSA)                                           | 2013-01-01          | 2022-04-01        |
 | IRPD29200              | Implicit Regional Price Deflator for Lafayette-West Lafayette, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAFA118LF              | Civilian Labor Force in Lafayette-West Lafayette, IN (MSA)                                                                    | 2000-01-01          | 2014-12-01        |
 | LAFA118LFN             | Civilian Labor Force in Lafayette-West Lafayette, IN (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
@@ -25,10 +25,10 @@
 | LAUMT182920000000006A  | Civilian Labor Force in Lafayette-West Lafayette, IN (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
 | LWLPOP                 | Resident Population in Lafayette-West Lafayette, IN (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | LWTL918PCPI            | Per Capita Personal Income in Lafayette-West Lafayette, IN (MSA)                                                              | 1969-01-01          | 2021-01-01        |
-| NGMP29200              | Total Gross Domestic Product for Lafayette-West Lafayette, IN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP29200              | Total Gross Domestic Product for Lafayette-West Lafayette, IN (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA129140       | U.S. Granted Utility Patents Originating in Lafayette, IN (MSA)                                                               | 2000-01-01          | 2015-01-01        |
-| QGMP29200              | Total Quantity Indexes for Real GDP for Lafayette-West Lafayette, IN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP29200              | Total Real Gross Domestic Product for Lafayette-West Lafayette, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP29200              | Total Quantity Indexes for Real GDP for Lafayette-West Lafayette, IN (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP29200              | Total Real Gross Domestic Product for Lafayette-West Lafayette, IN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI29200               | Real Personal Income for Lafayette-West Lafayette, IN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC29200             | Real Per Capita Personal Income for Lafayette-West Lafayette, IN (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL29200            | Regional Price Parities: All Items for Lafayette-West Lafayette, IN (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -15,10 +15,10 @@
 | Information                          |                 0 |
 | Goods-Producing                      |                29 |
 | Durable Goods                        |                 0 |
-| Professional and Business Services   |                26 |
+| Professional and Business Services   |                 0 |
 | Manufacturing                        |                 0 |
 | Government                           |                 0 |
 | Other Services                       |                35 |
-| Private Service-Providing            |                29 |
+| Private Service-Providing            |                 0 |
 | Service-Providing                    |                 3 |
 | Transportation and Warehousing       |                 0 |

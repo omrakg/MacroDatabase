@@ -8,18 +8,18 @@
 | AVELISPRIMM46340          | Housing Inventory: Average Listing Price Month-Over-Month in Tyler, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY46340          | Housing Inventory: Average Listing Price Year-Over-Year in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA46340              | Market Hotness: Demand Score in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC463430010             | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC463430010SA           | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC463440010             | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC463440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC463440110             | Average Weekly Wages for Employees in Federal Government Establishments in Tyler, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC463440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Tyler, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC463440210             | Average Weekly Wages for Employees in State Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC463440210SA           | Average Weekly Wages for Employees in State Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC463440310             | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC463440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC463440510             | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC463440510SA           | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC463430010             | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC463430010SA           | Total Quarterly Wages in Tyler, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC463440010             | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC463440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Tyler, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC463440110             | Average Weekly Wages for Employees in Federal Government Establishments in Tyler, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC463440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Tyler, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC463440210             | Average Weekly Wages for Employees in State Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC463440210SA           | Average Weekly Wages for Employees in State Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC463440310             | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC463440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Tyler, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC463440510             | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC463440510SA           | Average Weekly Wages for Employees in Private Establishments in Tyler, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA46340            | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA46340              | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA46340            | Market Hotness: Hotness Rank in Tyler, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU46340            | Housing Inventory: New Listing Count in Tyler, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM46340          | Housing Inventory: New Listing Count Month-Over-Month in Tyler, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY46340          | Housing Inventory: New Listing Count Year-Over-Year in Tyler, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP46340                 | Total Gross Domestic Product for Tyler, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP46340                 | Total Gross Domestic Product for Tyler, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA46340            | Market Hotness: Nielsen Household Rank in Tyler, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA146340          | U.S. Granted Utility Patents Originating in Tyler, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU46340            | Housing Inventory: Pending Listing Count in Tyler, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU46340            | Housing Inventory: Price Reduced Count in Tyler, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM46340          | Housing Inventory: Price Reduced Count Month-Over-Month in Tyler, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY46340          | Housing Inventory: Price Reduced Count Year-Over-Year in Tyler, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP46340                 | Total Quantity Indexes for Real GDP for Tyler, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP46340                 | Total Real Gross Domestic Product for Tyler, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP46340                 | Total Quantity Indexes for Real GDP for Tyler, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP46340                 | Total Real Gross Domestic Product for Tyler, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI46340                  | Real Personal Income for Tyler, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC46340                | Real Per Capita Personal Income for Tyler, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL46340               | Regional Price Parities: All Items for Tyler, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

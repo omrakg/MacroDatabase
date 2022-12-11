@@ -8,18 +8,18 @@
 | AVELISPRIMM23540          | Housing Inventory: Average Listing Price Month-Over-Month in Gainesville, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY23540          | Housing Inventory: Average Listing Price Year-Over-Year in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA23540              | Market Hotness: Demand Score in Gainesville, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC235430010             | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC235430010SA           | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC235440010             | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC235440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC235440110             | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC235440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC235440210             | Average Weekly Wages for Employees in State Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC235440210SA           | Average Weekly Wages for Employees in State Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC235440310             | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC235440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC235440510             | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC235440510SA           | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC235430010             | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC235430010SA           | Total Quarterly Wages in Gainesville, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC235440010             | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC235440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gainesville, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC235440110             | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC235440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gainesville, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC235440210             | Average Weekly Wages for Employees in State Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC235440210SA           | Average Weekly Wages for Employees in State Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC235440310             | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC235440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gainesville, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC235440510             | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC235440510SA           | Average Weekly Wages for Employees in Private Establishments in Gainesville, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | GAIN512EDUH               | All Employees: Education and Health Services in Gainesville, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | GAIN512EDUHN              | All Employees: Education and Health Services in Gainesville, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | GAIN512FIRE               | All Employees: Financial Activities in Gainesville, FL (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -88,7 +88,7 @@
 | NEWLISCOU23540            | Housing Inventory: New Listing Count in Gainesville, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM23540          | Housing Inventory: New Listing Count Month-Over-Month in Gainesville, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY23540          | Housing Inventory: New Listing Count Year-Over-Year in Gainesville, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP23540                 | Total Gross Domestic Product for Gainesville, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP23540                 | Total Gross Domestic Product for Gainesville, FL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA23540            | Market Hotness: Nielsen Household Rank in Gainesville, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA123540          | U.S. Granted Utility Patents Originating in Gainesville, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU23540            | Housing Inventory: Pending Listing Count in Gainesville, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -100,8 +100,8 @@
 | PRIREDCOU23540            | Housing Inventory: Price Reduced Count in Gainesville, FL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM23540          | Housing Inventory: Price Reduced Count Month-Over-Month in Gainesville, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY23540          | Housing Inventory: Price Reduced Count Year-Over-Year in Gainesville, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP23540                 | Total Quantity Indexes for Real GDP for Gainesville, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP23540                 | Total Real Gross Domestic Product for Gainesville, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP23540                 | Total Quantity Indexes for Real GDP for Gainesville, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP23540                 | Total Real Gross Domestic Product for Gainesville, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI23540                  | Real Personal Income for Gainesville, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPI23580                  | Real Personal Income for Gainesville, GA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC23540                | Real Per Capita Personal Income for Gainesville, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |

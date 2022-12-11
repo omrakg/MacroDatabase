@@ -9,18 +9,18 @@
 | AVELISPRIYY14860          | Housing Inventory: Average Listing Price Year-Over-Year in Bridgeport-Stamford-Norwalk, CT (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | BRGPOP                    | Resident Population in Bridgeport-Stamford-Norwalk, CT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA14860              | Market Hotness: Demand Score in Bridgeport-Stamford-Norwalk, CT (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC148630010             | Total Quarterly Wages in Bridgeport-Stamford-Norwalk, CT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC148630010SA           | Total Quarterly Wages in Bridgeport-Stamford-Norwalk, CT (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC148640010             | Average Weekly Wages for Employees in Total Covered Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC148640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC148640110             | Average Weekly Wages for Employees in Federal Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC148640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC148640210             | Average Weekly Wages for Employees in State Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC148640210SA           | Average Weekly Wages for Employees in State Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC148640310             | Average Weekly Wages for Employees in Local Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC148640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC148640510             | Average Weekly Wages for Employees in Private Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC148640510SA           | Average Weekly Wages for Employees in Private Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC148630010             | Total Quarterly Wages in Bridgeport-Stamford-Norwalk, CT (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC148630010SA           | Total Quarterly Wages in Bridgeport-Stamford-Norwalk, CT (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC148640010             | Average Weekly Wages for Employees in Total Covered Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC148640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC148640110             | Average Weekly Wages for Employees in Federal Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC148640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC148640210             | Average Weekly Wages for Employees in State Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC148640210SA           | Average Weekly Wages for Employees in State Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC148640310             | Average Weekly Wages for Employees in Local Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC148640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC148640510             | Average Weekly Wages for Employees in Private Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC148640510SA           | Average Weekly Wages for Employees in Private Establishments in Bridgeport-Stamford-Norwalk, CT (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA14860            | Market Hotness: Hotness Rank in Bridgeport-Stamford-Norwalk, CT (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA14860              | Market Hotness: Hotness Rank in Bridgeport-Stamford-Norwalk, CT (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA14860            | Market Hotness: Hotness Rank in Bridgeport-Stamford-Norwalk, CT (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -55,7 +55,7 @@
 | NEWLISCOU14860            | Housing Inventory: New Listing Count in Bridgeport-Stamford-Norwalk, CT (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM14860          | Housing Inventory: New Listing Count Month-Over-Month in Bridgeport-Stamford-Norwalk, CT (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY14860          | Housing Inventory: New Listing Count Year-Over-Year in Bridgeport-Stamford-Norwalk, CT (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP14860                 | Total Gross Domestic Product for Bridgeport-Stamford-Norwalk, CT (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP14860                 | Total Gross Domestic Product for Bridgeport-Stamford-Norwalk, CT (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA14860            | Market Hotness: Nielsen Household Rank in Bridgeport-Stamford-Norwalk, CT (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA114860          | U.S. Granted Utility Patents Originating in Bridgeport-Stamford-Norwalk, CT (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU14860            | Housing Inventory: Pending Listing Count in Bridgeport-Stamford-Norwalk, CT (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -67,8 +67,8 @@
 | PRIREDCOU14860            | Housing Inventory: Price Reduced Count in Bridgeport-Stamford-Norwalk, CT (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM14860          | Housing Inventory: Price Reduced Count Month-Over-Month in Bridgeport-Stamford-Norwalk, CT (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY14860          | Housing Inventory: Price Reduced Count Year-Over-Year in Bridgeport-Stamford-Norwalk, CT (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP14860                 | Total Quantity Indexes for Real GDP for Bridgeport-Stamford-Norwalk, CT (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP14860                 | Total Real Gross Domestic Product for Bridgeport-Stamford-Norwalk, CT (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP14860                 | Total Quantity Indexes for Real GDP for Bridgeport-Stamford-Norwalk, CT (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP14860                 | Total Real Gross Domestic Product for Bridgeport-Stamford-Norwalk, CT (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI14860                  | Real Personal Income for Bridgeport-Stamford-Norwalk, CT (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC14860                | Real Per Capita Personal Income for Bridgeport-Stamford-Norwalk, CT (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL14860               | Regional Price Parities: All Items for Bridgeport-Stamford-Norwalk, CT (MSA)                                       | 2008-01-01          | 2020-01-01        |

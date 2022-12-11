@@ -7,7 +7,7 @@
 | Lane County, KS         |                89 |
 | Coffey County, KS       |                90 |
 | Ness County, KS         |                88 |
-| Decatur County, KS      |                 0 |
+| Decatur County, KS      |                86 |
 | Leavenworth County, KS  |               147 |
 | Thomas County, KS       |                90 |
 | Allen County, KS        |                90 |
@@ -20,7 +20,7 @@
 | Norton County, KS       |                87 |
 | Pratt County, KS        |                90 |
 | Russell County, KS      |                88 |
-| Jefferson County, KS    |                90 |
+| Jefferson County, KS    |                 0 |
 | Cloud County, KS        |                89 |
 | Marshall County, KS     |                89 |
 | Graham County, KS       |                88 |
@@ -67,7 +67,7 @@
 | Edwards County, KS      |                89 |
 | Lincoln County, KS      |                88 |
 | Sherman County, KS      |                89 |
-| Harper County, KS       |                 0 |
+| Harper County, KS       |                88 |
 | Linn County, KS         |                88 |
 | Morton County, KS       |                88 |
 | Rawlins County, KS      |                89 |
@@ -80,7 +80,7 @@
 | Ford County, KS         |                90 |
 | Osage County, KS        |                90 |
 | Wyandotte County, KS    |               147 |
-| Reno County, KS         |               146 |
+| Reno County, KS         |                 0 |
 | Shawnee County, KS      |               147 |
 | Geary County, KS        |                90 |
 | Brown County, KS        |                90 |

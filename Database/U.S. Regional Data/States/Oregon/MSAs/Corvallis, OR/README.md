@@ -35,18 +35,18 @@
 | CORV741UR                 | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-10-01        |
 | CORV741URN                | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2022-10-01        |
 | CRVPOP                    | Resident Population in Corvallis, OR (MSA)                                                             | 2000-01-01          | 2021-01-01        |
-| ENUC187030010             | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ENUC187030010SA           | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ENUC187040010             | Average Weekly Wages for Employees in Total Covered Establishments in Corvallis, OR (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC187040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Corvallis, OR (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC187040110             | Average Weekly Wages for Employees in Federal Government Establishments in Corvallis, OR (MSA)         | 1990-01-01          | 2022-01-01        |
-| ENUC187040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Corvallis, OR (MSA)         | 1990-01-01          | 2022-01-01        |
-| ENUC187040210             | Average Weekly Wages for Employees in State Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-01-01        |
-| ENUC187040210SA           | Average Weekly Wages for Employees in State Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-01-01        |
-| ENUC187040310             | Average Weekly Wages for Employees in Local Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-01-01        |
-| ENUC187040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-01-01        |
-| ENUC187040510             | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2022-01-01        |
-| ENUC187040510SA           | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC187030010             | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2022-04-01        |
+| ENUC187030010SA           | Total Quarterly Wages in Corvallis, OR (MSA)                                                           | 1990-01-01          | 2022-04-01        |
+| ENUC187040010             | Average Weekly Wages for Employees in Total Covered Establishments in Corvallis, OR (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC187040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Corvallis, OR (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC187040110             | Average Weekly Wages for Employees in Federal Government Establishments in Corvallis, OR (MSA)         | 1990-01-01          | 2022-04-01        |
+| ENUC187040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Corvallis, OR (MSA)         | 1990-01-01          | 2022-04-01        |
+| ENUC187040210             | Average Weekly Wages for Employees in State Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-04-01        |
+| ENUC187040210SA           | Average Weekly Wages for Employees in State Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-04-01        |
+| ENUC187040310             | Average Weekly Wages for Employees in Local Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-04-01        |
+| ENUC187040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Corvallis, OR (MSA)           | 2016-01-01          | 2022-04-01        |
+| ENUC187040510             | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2022-04-01        |
+| ENUC187040510SA           | Average Weekly Wages for Employees in Private Establishments in Corvallis, OR (MSA)                    | 1990-01-01          | 2022-04-01        |
 | IRPD18700                 | Implicit Regional Price Deflator for Corvallis, OR (MSA)                                               | 2008-01-01          | 2020-01-01        |
 | LAUMT411870000000003A     | Unemployment Rate in Corvallis, OR (MSA)                                                               | 1990-01-01          | 2021-01-01        |
 | LAUMT411870000000004      | Unemployed Persons in Corvallis, OR (MSA)                                                              | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU18700            | Housing Inventory: New Listing Count in Corvallis, OR (CBSA)                                           | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM18700          | Housing Inventory: New Listing Count Month-Over-Month in Corvallis, OR (CBSA)                          | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY18700          | Housing Inventory: New Listing Count Year-Over-Year in Corvallis, OR (CBSA)                            | 2017-07-01          | 2022-11-01        |
-| NGMP18700                 | Total Gross Domestic Product for Corvallis, OR (MSA)                                                   | 2001-01-01          | 2020-01-01        |
+| NGMP18700                 | Total Gross Domestic Product for Corvallis, OR (MSA)                                                   | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA118700          | U.S. Granted Utility Patents Originating in Corvallis, OR (MSA)                                        | 2000-01-01          | 2015-01-01        |
 | PENLISCOU18700            | Housing Inventory: Pending Listing Count in Corvallis, OR (CBSA)                                       | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM18700          | Housing Inventory: Pending Listing Count Month-Over-Month in Corvallis, OR (CBSA)                      | 2017-07-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU18700            | Housing Inventory: Price Reduced Count in Corvallis, OR (CBSA)                                         | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM18700          | Housing Inventory: Price Reduced Count Month-Over-Month in Corvallis, OR (CBSA)                        | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY18700          | Housing Inventory: Price Reduced Count Year-Over-Year in Corvallis, OR (CBSA)                          | 2017-07-01          | 2022-11-01        |
-| QGMP18700                 | Total Quantity Indexes for Real GDP for Corvallis, OR (MSA)                                            | 2001-01-01          | 2020-01-01        |
-| RGMP18700                 | Total Real Gross Domestic Product for Corvallis, OR (MSA)                                              | 2001-01-01          | 2020-01-01        |
+| QGMP18700                 | Total Quantity Indexes for Real GDP for Corvallis, OR (MSA)                                            | 2001-01-01          | 2021-01-01        |
+| RGMP18700                 | Total Real Gross Domestic Product for Corvallis, OR (MSA)                                              | 2001-01-01          | 2021-01-01        |
 | RPI18700                  | Real Personal Income for Corvallis, OR (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | RPIPC18700                | Real Per Capita Personal Income for Corvallis, OR (MSA)                                                | 2008-01-01          | 2020-01-01        |
 | RPPALL18700               | Regional Price Parities: All Items for Corvallis, OR (MSA)                                             | 2008-01-01          | 2020-01-01        |

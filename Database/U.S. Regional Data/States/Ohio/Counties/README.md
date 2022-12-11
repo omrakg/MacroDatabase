@@ -5,7 +5,7 @@
 | Marion County, OH     |               147 |
 | Fayette County, OH    |                90 |
 | Jefferson County, OH  |               147 |
-| Clermont County, OH   |                 0 |
+| Clermont County, OH   |               147 |
 | Shelby County, OH     |                90 |
 | Preble County, OH     |                90 |
 | Erie County, OH       |               147 |
@@ -47,7 +47,7 @@
 | Vinton County, OH     |                90 |
 | Licking County, OH    |               147 |
 | Hamilton County, OH   |               147 |
-| Highland County, OH   |                89 |
+| Highland County, OH   |                 0 |
 | Cuyahoga County, OH   |               146 |
 | Columbiana County, OH |               147 |
 | Union County, OH      |               146 |
@@ -65,7 +65,7 @@
 | Sandusky County, OH   |               145 |
 | Seneca County, OH     |               144 |
 | Noble County, OH      |                90 |
-| Medina County, OH     |                 0 |
+| Medina County, OH     |               147 |
 | Trumbull County, OH   |               147 |
 | Wood County, OH       |               147 |
 | Scioto County, OH     |               147 |

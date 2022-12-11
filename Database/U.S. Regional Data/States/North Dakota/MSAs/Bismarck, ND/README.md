@@ -36,18 +36,18 @@
 | BISM938URN                | Unemployment Rate in Bismarck, ND (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | BIZPOP                    | Resident Population in Bismarck, ND (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA13900              | Market Hotness: Demand Score in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC139030010             | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC139030010SA           | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC139040010             | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC139040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC139040110             | Average Weekly Wages for Employees in Federal Government Establishments in Bismarck, ND (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC139040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bismarck, ND (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC139040210             | Average Weekly Wages for Employees in State Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC139040210SA           | Average Weekly Wages for Employees in State Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC139040310             | Average Weekly Wages for Employees in Local Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC139040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2021-07-01        |
-| ENUC139040510             | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC139040510SA           | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC139030010             | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC139030010SA           | Total Quarterly Wages in Bismarck, ND (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC139040010             | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC139040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bismarck, ND (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC139040110             | Average Weekly Wages for Employees in Federal Government Establishments in Bismarck, ND (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC139040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bismarck, ND (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC139040210             | Average Weekly Wages for Employees in State Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC139040210SA           | Average Weekly Wages for Employees in State Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC139040310             | Average Weekly Wages for Employees in Local Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC139040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bismarck, ND (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC139040510             | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC139040510SA           | Average Weekly Wages for Employees in Private Establishments in Bismarck, ND (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA13900            | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA13900              | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA13900            | Market Hotness: Hotness Rank in Bismarck, ND (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU13900            | Housing Inventory: New Listing Count in Bismarck, ND (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM13900          | Housing Inventory: New Listing Count Month-Over-Month in Bismarck, ND (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY13900          | Housing Inventory: New Listing Count Year-Over-Year in Bismarck, ND (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP13900                 | Total Gross Domestic Product for Bismarck, ND (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP13900                 | Total Gross Domestic Product for Bismarck, ND (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA13900            | Market Hotness: Nielsen Household Rank in Bismarck, ND (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA113900          | U.S. Granted Utility Patents Originating in Bismarck, ND (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU13900            | Housing Inventory: Pending Listing Count in Bismarck, ND (CBSA)                                               | 2016-08-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU13900            | Housing Inventory: Price Reduced Count in Bismarck, ND (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM13900          | Housing Inventory: Price Reduced Count Month-Over-Month in Bismarck, ND (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY13900          | Housing Inventory: Price Reduced Count Year-Over-Year in Bismarck, ND (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP13900                 | Total Quantity Indexes for Real GDP for Bismarck, ND (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP13900                 | Total Real Gross Domestic Product for Bismarck, ND (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP13900                 | Total Quantity Indexes for Real GDP for Bismarck, ND (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP13900                 | Total Real Gross Domestic Product for Bismarck, ND (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI13900                  | Real Personal Income for Bismarck, ND (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC13900                | Real Per Capita Personal Income for Bismarck, ND (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL13900               | Regional Price Parities: All Items for Bismarck, ND (MSA)                                                     | 2008-01-01          | 2020-01-01        |

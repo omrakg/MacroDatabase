@@ -8,18 +8,18 @@
 | AVELISPRIMM22420          | Housing Inventory: Average Listing Price Month-Over-Month in Flint, MI (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY22420          | Housing Inventory: Average Listing Price Year-Over-Year in Flint, MI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA22420              | Market Hotness: Demand Score in Flint, MI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC224230010             | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC224230010SA           | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC224240010             | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC224240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC224240110             | Average Weekly Wages for Employees in Federal Government Establishments in Flint, MI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC224240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Flint, MI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC224240210             | Average Weekly Wages for Employees in State Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC224240210SA           | Average Weekly Wages for Employees in State Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC224240310             | Average Weekly Wages for Employees in Local Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC224240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2022-01-01        |
-| ENUC224240510             | Average Weekly Wages for Employees in Private Establishments in Flint, MI (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC224240510SA           | Average Weekly Wages for Employees in Private Establishments in Flint, MI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC224230010             | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC224230010SA           | Total Quarterly Wages in Flint, MI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC224240010             | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC224240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Flint, MI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC224240110             | Average Weekly Wages for Employees in Federal Government Establishments in Flint, MI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC224240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Flint, MI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC224240210             | Average Weekly Wages for Employees in State Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC224240210SA           | Average Weekly Wages for Employees in State Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC224240310             | Average Weekly Wages for Employees in Local Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC224240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Flint, MI (MSA)                   | 2001-01-01          | 2022-04-01        |
+| ENUC224240510             | Average Weekly Wages for Employees in Private Establishments in Flint, MI (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC224240510SA           | Average Weekly Wages for Employees in Private Establishments in Flint, MI (MSA)                            | 1990-01-01          | 2022-04-01        |
 | FLIN426EDUH               | All Employees: Education and Health Services in Flint, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FLIN426EDUHN              | All Employees: Education and Health Services in Flint, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FLIN426FIRE               | All Employees: Financial Activities in Flint, MI (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU22420            | Housing Inventory: New Listing Count in Flint, MI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM22420          | Housing Inventory: New Listing Count Month-Over-Month in Flint, MI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY22420          | Housing Inventory: New Listing Count Year-Over-Year in Flint, MI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP22420                 | Total Gross Domestic Product for Flint, MI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP22420                 | Total Gross Domestic Product for Flint, MI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA22420            | Market Hotness: Nielsen Household Rank in Flint, MI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA122420          | U.S. Granted Utility Patents Originating in Flint, MI (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU22420            | Housing Inventory: Pending Listing Count in Flint, MI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU22420            | Housing Inventory: Price Reduced Count in Flint, MI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM22420          | Housing Inventory: Price Reduced Count Month-Over-Month in Flint, MI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY22420          | Housing Inventory: Price Reduced Count Year-Over-Year in Flint, MI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP22420                 | Total Quantity Indexes for Real GDP for Flint, MI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP22420                 | Total Real Gross Domestic Product for Flint, MI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP22420                 | Total Quantity Indexes for Real GDP for Flint, MI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP22420                 | Total Real Gross Domestic Product for Flint, MI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI22420                  | Real Personal Income for Flint, MI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC22420                | Real Per Capita Personal Income for Flint, MI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL22420               | Regional Price Parities: All Items for Flint, MI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

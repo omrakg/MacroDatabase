@@ -95,7 +95,7 @@
 | DDSI04CVA156NWDB    | Bank Credit to Bank Deposits for Cape Verde                                                                        | 1976-01-01          | 2020-01-01        |
 | DDSI06CVA156NWDB    | Liquid Assets to Deposits and Short Term Funding for Cape Verde                                                    | 2008-01-01          | 2020-01-01        |
 | DECPVA475SCEN       | Number of Identified Exporters to Cape Verde from Delaware                                                         | 2010-01-01          | 2016-01-01        |
-| EXP7643             | U.S. Exports of Goods by F.A.S. Basis to Cabo Verde                                                                | 1992-01-01          | 2022-09-01        |
+| EXP7643             | U.S. Exports of Goods by F.A.S. Basis to Cabo Verde                                                                | 1992-01-01          | 2022-10-01        |
 | FLCPVA052SCEN       | Value of Exports to Cape Verde from Florida                                                                        | 2002-01-01          | 2016-01-01        |
 | FLCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Florida                                                          | 1997-01-01          | 2016-01-01        |
 | FPCPITOTLZGCPV      | Inflation, consumer prices for Cape Verde                                                                          | 1984-01-01          | 2021-01-01        |
@@ -106,7 +106,7 @@
 | IDCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Idaho                                                            | 2005-01-01          | 2016-01-01        |
 | ILCPVA052SCEN       | Value of Exports to Cape Verde from Illinois                                                                       | 2006-01-01          | 2010-01-01        |
 | ILCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Illinois                                                         | 1992-01-01          | 2015-01-01        |
-| IMP7643             | U.S. Imports of Goods by Customs Basis from Cabo Verde                                                             | 1992-01-01          | 2022-09-01        |
+| IMP7643             | U.S. Imports of Goods by Customs Basis from Cabo Verde                                                             | 1992-01-01          | 2022-10-01        |
 | INCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Indiana                                                          | 2009-01-01          | 2012-01-01        |
 | ITNETUSERP2CPV      | Internet users for Cape Verde                                                                                      | 1990-01-01          | 2020-01-01        |
 | KSCPVA475SCEN       | Number of Identified Exporters to Cape Verde from Kansas                                                           | 2003-01-01          | 2009-01-01        |

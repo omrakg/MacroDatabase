@@ -11,9 +11,9 @@
 | A5MLORSGPTDSTSAM   | Leading Indicators OECD: Reference Series: Gross Domestic Product (GDP): Trend for the Major Five Asia                           | 1978-01-01          | 2022-05-01        |
 | BSCICP035AM665S    | Business Tendency Surveys for Manufacturing: Confidence Indicators: Composite Indicators: OECD Indicator for the Major Five Asia | 2000-02-01          | 2022-09-01        |
 | CSCICP035AM665S    | Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the Major Five Asia                    | 1990-01-01          | 2022-08-01        |
-| MAJOR5ASIAREC      | OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                           | 1978-01-01          | 2022-02-01        |
-| MAJOR5ASIARECD     | OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                           | 1978-01-01          | 2022-02-28        |
-| MAJOR5ASIARECDM    | OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                                | 1978-01-01          | 2022-02-28        |
-| MAJOR5ASIARECDP    | OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                           | 1978-01-01          | 2022-02-28        |
-| MAJOR5ASIARECM     | OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                                | 1978-01-01          | 2022-02-01        |
-| MAJOR5ASIARECP     | OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                           | 1978-01-01          | 2022-02-01        |
+| MAJOR5ASIAREC      | OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                           | 1978-01-01          | 2022-08-01        |
+| MAJOR5ASIARECD     | OECD based Recession Indicators for Major 5 Asia from the Period following the Peak through the Trough                           | 1978-01-01          | 2022-08-31        |
+| MAJOR5ASIARECDM    | OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                                | 1978-01-01          | 2022-08-31        |
+| MAJOR5ASIARECDP    | OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                           | 1978-01-01          | 2022-08-31        |
+| MAJOR5ASIARECM     | OECD based Recession Indicators for Major 5 Asia from the Peak through the Trough                                                | 1978-01-01          | 2022-08-01        |
+| MAJOR5ASIARECP     | OECD based Recession Indicators for Major 5 Asia from the Peak through the Period preceding the Trough                           | 1978-01-01          | 2022-08-01        |

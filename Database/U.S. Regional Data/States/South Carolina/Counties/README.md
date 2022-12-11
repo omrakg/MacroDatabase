@@ -1,6 +1,6 @@
 | Folder                  |   Files / Folders |
 |-------------------------|-------------------|
-| Hampton County, SC      |                 0 |
+| Hampton County, SC      |                90 |
 | Union County, SC        |                89 |
 | Florence County, SC     |               147 |
 | Abbeville County, SC    |                90 |
@@ -42,7 +42,7 @@
 | Chesterfield County, SC |                90 |
 | Spartanburg County, SC  |               147 |
 | Calhoun County, SC      |                89 |
-| Williamsburg County, SC |                89 |
+| Williamsburg County, SC |                 0 |
 | Oconee County, SC       |               146 |
 | Colleton County, SC     |                90 |
 | Richland County, SC     |               146 |

@@ -24,18 +24,18 @@
 | CLMUR                     | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | CLMURN                    | Unemployment Rate in Columbia, MO (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | DESCMSA17860              | Market Hotness: Demand Score in Columbia, MO (CBSA)                                                | 2017-08-01          | 2022-11-01        |
-| ENUC178630010             | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC178630010SA           | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC178640010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbia, MO (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC178640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Columbia, MO (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC178640110             | Average Weekly Wages for Employees in Federal Government Establishments in Columbia, MO (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC178640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Columbia, MO (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC178640210             | Average Weekly Wages for Employees in State Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-01-01        |
-| ENUC178640210SA           | Average Weekly Wages for Employees in State Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-01-01        |
-| ENUC178640310             | Average Weekly Wages for Employees in Local Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-01-01        |
-| ENUC178640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-01-01        |
-| ENUC178640510             | Average Weekly Wages for Employees in Private Establishments in Columbia, MO (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC178640510SA           | Average Weekly Wages for Employees in Private Establishments in Columbia, MO (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC178630010             | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC178630010SA           | Total Quarterly Wages in Columbia, MO (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC178640010             | Average Weekly Wages for Employees in Total Covered Establishments in Columbia, MO (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC178640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Columbia, MO (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC178640110             | Average Weekly Wages for Employees in Federal Government Establishments in Columbia, MO (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC178640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Columbia, MO (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC178640210             | Average Weekly Wages for Employees in State Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-04-01        |
+| ENUC178640210SA           | Average Weekly Wages for Employees in State Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-04-01        |
+| ENUC178640310             | Average Weekly Wages for Employees in Local Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-04-01        |
+| ENUC178640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Columbia, MO (MSA)        | 2001-01-01          | 2022-04-01        |
+| ENUC178640510             | Average Weekly Wages for Employees in Private Establishments in Columbia, MO (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC178640510SA           | Average Weekly Wages for Employees in Private Establishments in Columbia, MO (MSA)                 | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA17860            | Market Hotness: Hotness Rank in Columbia, MO (CBSA)                                                | 2017-09-01          | 2022-11-01        |
 | HORAMSA17860              | Market Hotness: Hotness Rank in Columbia, MO (CBSA)                                                | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA17860            | Market Hotness: Hotness Rank in Columbia, MO (CBSA)                                                | 2018-08-01          | 2022-11-01        |
@@ -75,7 +75,7 @@
 | NEWLISCOU17860            | Housing Inventory: New Listing Count in Columbia, MO (CBSA)                                        | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM17860          | Housing Inventory: New Listing Count Month-Over-Month in Columbia, MO (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY17860          | Housing Inventory: New Listing Count Year-Over-Year in Columbia, MO (CBSA)                         | 2017-07-01          | 2022-11-01        |
-| NGMP17860                 | Total Gross Domestic Product for Columbia, MO (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| NGMP17860                 | Total Gross Domestic Product for Columbia, MO (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA17860            | Market Hotness: Nielsen Household Rank in Columbia, MO (CBSA)                                      | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA117860          | U.S. Granted Utility Patents Originating in Columbia, MO (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU17860            | Housing Inventory: Pending Listing Count in Columbia, MO (CBSA)                                    | 2016-07-01          | 2022-11-01        |
@@ -87,8 +87,8 @@
 | PRIREDCOU17860            | Housing Inventory: Price Reduced Count in Columbia, MO (CBSA)                                      | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM17860          | Housing Inventory: Price Reduced Count Month-Over-Month in Columbia, MO (CBSA)                     | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY17860          | Housing Inventory: Price Reduced Count Year-Over-Year in Columbia, MO (CBSA)                       | 2017-07-01          | 2022-11-01        |
-| QGMP17860                 | Total Quantity Indexes for Real GDP for Columbia, MO (MSA)                                         | 2001-01-01          | 2020-01-01        |
-| RGMP17860                 | Total Real Gross Domestic Product for Columbia, MO (MSA)                                           | 2001-01-01          | 2020-01-01        |
+| QGMP17860                 | Total Quantity Indexes for Real GDP for Columbia, MO (MSA)                                         | 2001-01-01          | 2021-01-01        |
+| RGMP17860                 | Total Real Gross Domestic Product for Columbia, MO (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RPI17860                  | Real Personal Income for Columbia, MO (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPIPC17860                | Real Per Capita Personal Income for Columbia, MO (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPALL17860               | Regional Price Parities: All Items for Columbia, MO (MSA)                                          | 2008-01-01          | 2020-01-01        |

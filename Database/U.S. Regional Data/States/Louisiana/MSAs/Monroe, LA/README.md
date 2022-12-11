@@ -8,18 +8,18 @@
 | AVELISPRIMM33740          | Housing Inventory: Average Listing Price Month-Over-Month in Monroe, LA (CBSA)                                          | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY33740          | Housing Inventory: Average Listing Price Year-Over-Year in Monroe, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
 | DESCMSA33740              | Market Hotness: Demand Score in Monroe, LA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
-| ENUC337430010             | Total Quarterly Wages in Monroe, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC337430010SA           | Total Quarterly Wages in Monroe, LA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC337440010             | Average Weekly Wages for Employees in Total Covered Establishments in Monroe, LA (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| ENUC337440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Monroe, LA (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| ENUC337440110             | Average Weekly Wages for Employees in Federal Government Establishments in Monroe, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC337440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Monroe, LA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC337440210             | Average Weekly Wages for Employees in State Government Establishments in Monroe, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC337440210SA           | Average Weekly Wages for Employees in State Government Establishments in Monroe, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC337440310             | Average Weekly Wages for Employees in Local Government Establishments in Monroe, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC337440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Monroe, LA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC337440510             | Average Weekly Wages for Employees in Private Establishments in Monroe, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ENUC337440510SA           | Average Weekly Wages for Employees in Private Establishments in Monroe, LA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| ENUC337430010             | Total Quarterly Wages in Monroe, LA (MSA)                                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC337430010SA           | Total Quarterly Wages in Monroe, LA (MSA)                                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC337440010             | Average Weekly Wages for Employees in Total Covered Establishments in Monroe, LA (MSA)                                  | 1990-01-01          | 2022-04-01        |
+| ENUC337440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Monroe, LA (MSA)                                  | 1990-01-01          | 2022-04-01        |
+| ENUC337440110             | Average Weekly Wages for Employees in Federal Government Establishments in Monroe, LA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC337440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Monroe, LA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC337440210             | Average Weekly Wages for Employees in State Government Establishments in Monroe, LA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC337440210SA           | Average Weekly Wages for Employees in State Government Establishments in Monroe, LA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC337440310             | Average Weekly Wages for Employees in Local Government Establishments in Monroe, LA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC337440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Monroe, LA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC337440510             | Average Weekly Wages for Employees in Private Establishments in Monroe, LA (MSA)                                        | 1990-01-01          | 2022-04-01        |
+| ENUC337440510SA           | Average Weekly Wages for Employees in Private Establishments in Monroe, LA (MSA)                                        | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA33740            | Market Hotness: Hotness Rank in Monroe, LA (CBSA)                                                                       | 2017-09-01          | 2022-11-01        |
 | HORAMSA33740              | Market Hotness: Hotness Rank in Monroe, LA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA33740            | Market Hotness: Hotness Rank in Monroe, LA (CBSA)                                                                       | 2018-08-01          | 2022-11-01        |
@@ -80,7 +80,7 @@
 | NEWLISCOU33740            | Housing Inventory: New Listing Count in Monroe, LA (CBSA)                                                               | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM33740          | Housing Inventory: New Listing Count Month-Over-Month in Monroe, LA (CBSA)                                              | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY33740          | Housing Inventory: New Listing Count Year-Over-Year in Monroe, LA (CBSA)                                                | 2017-07-01          | 2022-11-01        |
-| NGMP33740                 | Total Gross Domestic Product for Monroe, LA (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
+| NGMP33740                 | Total Gross Domestic Product for Monroe, LA (MSA)                                                                       | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA33740            | Market Hotness: Nielsen Household Rank in Monroe, LA (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA133740          | U.S. Granted Utility Patents Originating in Monroe, LA (MSA)                                                            | 2000-01-01          | 2015-01-01        |
 | PENLISCOU33740            | Housing Inventory: Pending Listing Count in Monroe, LA (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
@@ -92,8 +92,8 @@
 | PRIREDCOU33740            | Housing Inventory: Price Reduced Count in Monroe, LA (CBSA)                                                             | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM33740          | Housing Inventory: Price Reduced Count Month-Over-Month in Monroe, LA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY33740          | Housing Inventory: Price Reduced Count Year-Over-Year in Monroe, LA (CBSA)                                              | 2017-07-01          | 2022-11-01        |
-| QGMP33740                 | Total Quantity Indexes for Real GDP for Monroe, LA (MSA)                                                                | 2001-01-01          | 2020-01-01        |
-| RGMP33740                 | Total Real Gross Domestic Product for Monroe, LA (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
+| QGMP33740                 | Total Quantity Indexes for Real GDP for Monroe, LA (MSA)                                                                | 2001-01-01          | 2021-01-01        |
+| RGMP33740                 | Total Real Gross Domestic Product for Monroe, LA (MSA)                                                                  | 2001-01-01          | 2021-01-01        |
 | RPI33740                  | Real Personal Income for Monroe, LA (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
 | RPI33780                  | Real Personal Income for Monroe, MI (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
 | RPIPC33740                | Real Per Capita Personal Income for Monroe, LA (MSA)                                                                    | 2008-01-01          | 2020-01-01        |

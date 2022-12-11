@@ -7,18 +7,18 @@
 | AVELISPRI24140            | Housing Inventory: Average Listing Price in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM24140          | Housing Inventory: Average Listing Price Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY24140          | Housing Inventory: Average Listing Price Year-Over-Year in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC241430010             | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC241430010SA           | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC241440010             | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC241440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC241440110             | Average Weekly Wages for Employees in Federal Government Establishments in Goldsboro, NC (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC241440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Goldsboro, NC (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC241440210             | Average Weekly Wages for Employees in State Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC241440210SA           | Average Weekly Wages for Employees in State Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC241440310             | Average Weekly Wages for Employees in Local Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC241440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC241440510             | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC241440510SA           | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC241430010             | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC241430010SA           | Total Quarterly Wages in Goldsboro, NC (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC241440010             | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC241440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Goldsboro, NC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC241440110             | Average Weekly Wages for Employees in Federal Government Establishments in Goldsboro, NC (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC241440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Goldsboro, NC (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC241440210             | Average Weekly Wages for Employees in State Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC241440210SA           | Average Weekly Wages for Employees in State Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC241440310             | Average Weekly Wages for Employees in Local Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC241440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Goldsboro, NC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC241440510             | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC241440510SA           | Average Weekly Wages for Employees in Private Establishments in Goldsboro, NC (MSA)              | 1990-01-01          | 2022-04-01        |
 | GOLD137GOVT               | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | GOLD137GOVTN              | All Employees: Government in Goldsboro, NC (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | GOLD137LF                 | Civilian Labor Force in Goldsboro, NC (MSA)                                                      | 1990-01-01          | 2022-10-01        |
@@ -51,7 +51,7 @@
 | NEWLISCOU24140            | Housing Inventory: New Listing Count in Goldsboro, NC (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM24140          | Housing Inventory: New Listing Count Month-Over-Month in Goldsboro, NC (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY24140          | Housing Inventory: New Listing Count Year-Over-Year in Goldsboro, NC (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP24140                 | Total Gross Domestic Product for Goldsboro, NC (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP24140                 | Total Gross Domestic Product for Goldsboro, NC (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA124140          | U.S. Granted Utility Patents Originating in Goldsboro, NC (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU24140            | Housing Inventory: Pending Listing Count in Goldsboro, NC (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM24140          | Housing Inventory: Pending Listing Count Month-Over-Month in Goldsboro, NC (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -62,8 +62,8 @@
 | PRIREDCOU24140            | Housing Inventory: Price Reduced Count in Goldsboro, NC (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM24140          | Housing Inventory: Price Reduced Count Month-Over-Month in Goldsboro, NC (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY24140          | Housing Inventory: Price Reduced Count Year-Over-Year in Goldsboro, NC (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP24140                 | Total Quantity Indexes for Real GDP for Goldsboro, NC (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP24140                 | Total Real Gross Domestic Product for Goldsboro, NC (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP24140                 | Total Quantity Indexes for Real GDP for Goldsboro, NC (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP24140                 | Total Real Gross Domestic Product for Goldsboro, NC (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI24140                  | Real Personal Income for Goldsboro, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC24140                | Real Per Capita Personal Income for Goldsboro, NC (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL24140               | Regional Price Parities: All Items for Goldsboro, NC (MSA)                                       | 2008-01-01          | 2020-01-01        |

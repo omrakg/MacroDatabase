@@ -8,18 +8,18 @@
 | AVELISPRIMM36780          | Housing Inventory: Average Listing Price Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY36780          | Housing Inventory: Average Listing Price Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA36780              | Market Hotness: Demand Score in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC367830010             | Total Quarterly Wages in Oshkosh-Neenah, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC367830010SA           | Total Quarterly Wages in Oshkosh-Neenah, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC367840010             | Average Weekly Wages for Employees in Total Covered Establishments in Oshkosh-Neenah, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC367840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Oshkosh-Neenah, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC367840110             | Average Weekly Wages for Employees in Federal Government Establishments in Oshkosh-Neenah, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC367840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Oshkosh-Neenah, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC367840210             | Average Weekly Wages for Employees in State Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC367840210SA           | Average Weekly Wages for Employees in State Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC367840310             | Average Weekly Wages for Employees in Local Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC367840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC367840510             | Average Weekly Wages for Employees in Private Establishments in Oshkosh-Neenah, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC367840510SA           | Average Weekly Wages for Employees in Private Establishments in Oshkosh-Neenah, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC367830010             | Total Quarterly Wages in Oshkosh-Neenah, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC367830010SA           | Total Quarterly Wages in Oshkosh-Neenah, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC367840010             | Average Weekly Wages for Employees in Total Covered Establishments in Oshkosh-Neenah, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC367840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Oshkosh-Neenah, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC367840110             | Average Weekly Wages for Employees in Federal Government Establishments in Oshkosh-Neenah, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC367840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Oshkosh-Neenah, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC367840210             | Average Weekly Wages for Employees in State Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC367840210SA           | Average Weekly Wages for Employees in State Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC367840310             | Average Weekly Wages for Employees in Local Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC367840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Oshkosh-Neenah, WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC367840510             | Average Weekly Wages for Employees in Private Establishments in Oshkosh-Neenah, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC367840510SA           | Average Weekly Wages for Employees in Private Establishments in Oshkosh-Neenah, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA36780            | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA36780              | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA36780            | Market Hotness: Hotness Rank in Oshkosh-Neenah, WI (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU36780            | Housing Inventory: New Listing Count in Oshkosh-Neenah, WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM36780          | Housing Inventory: New Listing Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY36780          | Housing Inventory: New Listing Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP36780                 | Total Gross Domestic Product for Oshkosh-Neenah, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP36780                 | Total Gross Domestic Product for Oshkosh-Neenah, WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA36780            | Market Hotness: Nielsen Household Rank in Oshkosh-Neenah, WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | OSHK755EDUH               | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | OSHK755EDUHN              | All Employees: Education and Health Services in Oshkosh-Neenah, WI (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU36780            | Housing Inventory: Price Reduced Count in Oshkosh-Neenah, WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM36780          | Housing Inventory: Price Reduced Count Month-Over-Month in Oshkosh-Neenah, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY36780          | Housing Inventory: Price Reduced Count Year-Over-Year in Oshkosh-Neenah, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP36780                 | Total Quantity Indexes for Real GDP for Oshkosh-Neenah, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP36780                 | Total Real Gross Domestic Product for Oshkosh-Neenah, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP36780                 | Total Quantity Indexes for Real GDP for Oshkosh-Neenah, WI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP36780                 | Total Real Gross Domestic Product for Oshkosh-Neenah, WI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI36780                  | Real Personal Income for Oshkosh-Neenah, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC36780                | Real Per Capita Personal Income for Oshkosh-Neenah, WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL36780               | Regional Price Parities: All Items for Oshkosh-Neenah, WI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

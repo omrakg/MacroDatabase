@@ -8,18 +8,18 @@
 | AVELISPRIMM22900          | Housing Inventory: Average Listing Price Month-Over-Month in Fort Smith, AR-OK (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY22900          | Housing Inventory: Average Listing Price Year-Over-Year in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA22900              | Market Hotness: Demand Score in Fort Smith, AR-OK (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC229030010             | Total Quarterly Wages in Fort Smith, AR-OK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC229030010SA           | Total Quarterly Wages in Fort Smith, AR-OK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC229040010             | Average Weekly Wages for Employees in Total Covered Establishments in Fort Smith, AR-OK (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC229040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fort Smith, AR-OK (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC229040110             | Average Weekly Wages for Employees in Federal Government Establishments in Fort Smith, AR-OK (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC229040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fort Smith, AR-OK (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC229040210             | Average Weekly Wages for Employees in State Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC229040210SA           | Average Weekly Wages for Employees in State Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC229040310             | Average Weekly Wages for Employees in Local Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC229040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC229040510             | Average Weekly Wages for Employees in Private Establishments in Fort Smith, AR-OK (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC229040510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Smith, AR-OK (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC229030010             | Total Quarterly Wages in Fort Smith, AR-OK (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC229030010SA           | Total Quarterly Wages in Fort Smith, AR-OK (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC229040010             | Average Weekly Wages for Employees in Total Covered Establishments in Fort Smith, AR-OK (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC229040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fort Smith, AR-OK (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC229040110             | Average Weekly Wages for Employees in Federal Government Establishments in Fort Smith, AR-OK (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC229040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fort Smith, AR-OK (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC229040210             | Average Weekly Wages for Employees in State Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC229040210SA           | Average Weekly Wages for Employees in State Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC229040310             | Average Weekly Wages for Employees in Local Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC229040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Smith, AR-OK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC229040510             | Average Weekly Wages for Employees in Private Establishments in Fort Smith, AR-OK (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC229040510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Smith, AR-OK (MSA)                            | 1990-01-01          | 2022-04-01        |
 | FTSEDUH                   | All Employees: Education and Health Services in Fort Smith, AR-OK (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FTSEDUHN                  | All Employees: Education and Health Services in Fort Smith, AR-OK (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | FTSFIRE                   | All Employees: Financial Activities in Fort Smith, AR-OK (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU22900            | Housing Inventory: New Listing Count in Fort Smith, AR-OK (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM22900          | Housing Inventory: New Listing Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY22900          | Housing Inventory: New Listing Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP22900                 | Total Gross Domestic Product for Fort Smith, AR-OK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP22900                 | Total Gross Domestic Product for Fort Smith, AR-OK (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA22900            | Market Hotness: Nielsen Household Rank in Fort Smith, AR-OK (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA122900          | U.S. Granted Utility Patents Originating in Fort Smith, AR-OK (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU22900            | Housing Inventory: Pending Listing Count in Fort Smith, AR-OK (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU22900            | Housing Inventory: Price Reduced Count in Fort Smith, AR-OK (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM22900          | Housing Inventory: Price Reduced Count Month-Over-Month in Fort Smith, AR-OK (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY22900          | Housing Inventory: Price Reduced Count Year-Over-Year in Fort Smith, AR-OK (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP22900                 | Total Quantity Indexes for Real GDP for Fort Smith, AR-OK (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP22900                 | Total Real Gross Domestic Product for Fort Smith, AR-OK (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP22900                 | Total Quantity Indexes for Real GDP for Fort Smith, AR-OK (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP22900                 | Total Real Gross Domestic Product for Fort Smith, AR-OK (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI22900                  | Real Personal Income for Fort Smith, AR-OK (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC22900                | Real Per Capita Personal Income for Fort Smith, AR-OK (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL22900               | Regional Price Parities: All Items for Fort Smith, AR-OK (MSA)                                                     | 2008-01-01          | 2020-01-01        |

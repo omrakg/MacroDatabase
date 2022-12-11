@@ -65,7 +65,7 @@
 | DEBTTLNPA188A       | Central government debt, total (% of GDP) for Nepal                                                                                                      | 1990-01-01          | 2020-01-01        |
 | DENPLA052SCEN       | Value of Exports to Nepal from Delaware                                                                                                                  | 2014-01-01          | 2017-01-01        |
 | DENPLA475SCEN       | Number of Identified Exporters to Nepal from Delaware                                                                                                    | 1997-01-01          | 2017-01-01        |
-| EXP5360             | U.S. Exports of Goods by F.A.S. Basis to Nepal                                                                                                           | 1992-01-01          | 2022-09-01        |
+| EXP5360             | U.S. Exports of Goods by F.A.S. Basis to Nepal                                                                                                           | 1992-01-01          | 2022-10-01        |
 | FLNPLA052SCEN       | Value of Exports to Nepal from Florida                                                                                                                   | 1997-01-01          | 2017-01-01        |
 | FLNPLA475SCEN       | Number of Identified Exporters to Nepal from Florida                                                                                                     | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGNPL      | Inflation, consumer prices for Nepal                                                                                                                     | 1965-01-01          | 2021-01-01        |
@@ -79,7 +79,7 @@
 | IDNPLA475SCEN       | Number of Identified Exporters to Nepal from Idaho                                                                                                       | 1997-01-01          | 2017-01-01        |
 | ILNPLA052SCEN       | Value of Exports to Nepal from Illinois                                                                                                                  | 1992-01-01          | 2017-01-01        |
 | ILNPLA475SCEN       | Number of Identified Exporters to Nepal from Illinois                                                                                                    | 1992-01-01          | 2017-01-01        |
-| IMP5360             | U.S. Imports of Goods by Customs Basis from Nepal                                                                                                        | 1992-01-01          | 2022-09-01        |
+| IMP5360             | U.S. Imports of Goods by Customs Basis from Nepal                                                                                                        | 1992-01-01          | 2022-10-01        |
 | INNPLA052SCEN       | Value of Exports to Nepal from Indiana                                                                                                                   | 2005-01-01          | 2016-01-01        |
 | INNPLA475SCEN       | Number of Identified Exporters to Nepal from Indiana                                                                                                     | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2NPL      | Internet users for Nepal                                                                                                                                 | 1989-01-01          | 2020-01-01        |

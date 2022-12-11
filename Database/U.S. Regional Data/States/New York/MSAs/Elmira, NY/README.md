@@ -35,18 +35,18 @@
 | ELMI336UR                 | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | ELMI336URN                | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | ELMPOP                    | Resident Population in Elmira, NY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC213030010             | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC213030010SA           | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC213040010             | Average Weekly Wages for Employees in Total Covered Establishments in Elmira, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC213040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elmira, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC213040110             | Average Weekly Wages for Employees in Federal Government Establishments in Elmira, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC213040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elmira, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC213040210             | Average Weekly Wages for Employees in State Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC213040210SA           | Average Weekly Wages for Employees in State Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC213040310             | Average Weekly Wages for Employees in Local Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC213040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC213040510             | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC213040510SA           | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC213030010             | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC213030010SA           | Total Quarterly Wages in Elmira, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC213040010             | Average Weekly Wages for Employees in Total Covered Establishments in Elmira, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC213040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elmira, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC213040110             | Average Weekly Wages for Employees in Federal Government Establishments in Elmira, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC213040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elmira, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC213040210             | Average Weekly Wages for Employees in State Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC213040210SA           | Average Weekly Wages for Employees in State Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC213040310             | Average Weekly Wages for Employees in Local Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC213040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elmira, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC213040510             | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC213040510SA           | Average Weekly Wages for Employees in Private Establishments in Elmira, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD21300                 | Implicit Regional Price Deflator for Elmira, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT362130000000003A     | Unemployment Rate in Elmira, NY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT362130000000004      | Unemployed Persons in Elmira, NY (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU21300            | Housing Inventory: New Listing Count in Elmira, NY (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM21300          | Housing Inventory: New Listing Count Month-Over-Month in Elmira, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY21300          | Housing Inventory: New Listing Count Year-Over-Year in Elmira, NY (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP21300                 | Total Gross Domestic Product for Elmira, NY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP21300                 | Total Gross Domestic Product for Elmira, NY (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA121300          | U.S. Granted Utility Patents Originating in Elmira, NY (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU21300            | Housing Inventory: Pending Listing Count in Elmira, NY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM21300          | Housing Inventory: Pending Listing Count Month-Over-Month in Elmira, NY (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU21300            | Housing Inventory: Price Reduced Count in Elmira, NY (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM21300          | Housing Inventory: Price Reduced Count Month-Over-Month in Elmira, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY21300          | Housing Inventory: Price Reduced Count Year-Over-Year in Elmira, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP21300                 | Total Quantity Indexes for Real GDP for Elmira, NY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP21300                 | Total Real Gross Domestic Product for Elmira, NY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP21300                 | Total Quantity Indexes for Real GDP for Elmira, NY (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP21300                 | Total Real Gross Domestic Product for Elmira, NY (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI21300                  | Real Personal Income for Elmira, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC21300                | Real Per Capita Personal Income for Elmira, NY (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL21300               | Regional Price Parities: All Items for Elmira, NY (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -39,18 +39,18 @@
 | CHEY956UR                 | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | CHEY956URN                | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | CHYPOP                    | Resident Population in Cheyenne, WY (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC169430010             | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC169430010SA           | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC169440010             | Average Weekly Wages for Employees in Total Covered Establishments in Cheyenne, WY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC169440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cheyenne, WY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC169440110             | Average Weekly Wages for Employees in Federal Government Establishments in Cheyenne, WY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC169440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cheyenne, WY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC169440210             | Average Weekly Wages for Employees in State Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC169440210SA           | Average Weekly Wages for Employees in State Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC169440310             | Average Weekly Wages for Employees in Local Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC169440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC169440510             | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC169440510SA           | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC169430010             | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC169430010SA           | Total Quarterly Wages in Cheyenne, WY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC169440010             | Average Weekly Wages for Employees in Total Covered Establishments in Cheyenne, WY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC169440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cheyenne, WY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC169440110             | Average Weekly Wages for Employees in Federal Government Establishments in Cheyenne, WY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC169440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cheyenne, WY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC169440210             | Average Weekly Wages for Employees in State Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC169440210SA           | Average Weekly Wages for Employees in State Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC169440310             | Average Weekly Wages for Employees in Local Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC169440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cheyenne, WY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC169440510             | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC169440510SA           | Average Weekly Wages for Employees in Private Establishments in Cheyenne, WY (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD16940                 | Implicit Regional Price Deflator for Cheyenne, WY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT561694000000003A     | Unemployment Rate in Cheyenne, WY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT561694000000004      | Unemployed Persons in Cheyenne, WY (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
@@ -73,7 +73,7 @@
 | NEWLISCOU16940            | Housing Inventory: New Listing Count in Cheyenne, WY (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM16940          | Housing Inventory: New Listing Count Month-Over-Month in Cheyenne, WY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY16940          | Housing Inventory: New Listing Count Year-Over-Year in Cheyenne, WY (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP16940                 | Total Gross Domestic Product for Cheyenne, WY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP16940                 | Total Gross Domestic Product for Cheyenne, WY (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA116940          | U.S. Granted Utility Patents Originating in Cheyenne, WY (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU16940            | Housing Inventory: Pending Listing Count in Cheyenne, WY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM16940          | Housing Inventory: Pending Listing Count Month-Over-Month in Cheyenne, WY (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -84,8 +84,8 @@
 | PRIREDCOU16940            | Housing Inventory: Price Reduced Count in Cheyenne, WY (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM16940          | Housing Inventory: Price Reduced Count Month-Over-Month in Cheyenne, WY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY16940          | Housing Inventory: Price Reduced Count Year-Over-Year in Cheyenne, WY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP16940                 | Total Quantity Indexes for Real GDP for Cheyenne, WY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP16940                 | Total Real Gross Domestic Product for Cheyenne, WY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP16940                 | Total Quantity Indexes for Real GDP for Cheyenne, WY (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP16940                 | Total Real Gross Domestic Product for Cheyenne, WY (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI16940                  | Real Personal Income for Cheyenne, WY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC16940                | Real Per Capita Personal Income for Cheyenne, WY (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL16940               | Regional Price Parities: All Items for Cheyenne, WY (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM45500          | Housing Inventory: Average Listing Price Month-Over-Month in Texarkana, TX-AR (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY45500          | Housing Inventory: Average Listing Price Year-Over-Year in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA45500              | Market Hotness: Demand Score in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC455030010             | Total Quarterly Wages in Texarkana, TX-AR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC455030010SA           | Total Quarterly Wages in Texarkana, TX-AR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC455040010             | Average Weekly Wages for Employees in Total Covered Establishments in Texarkana, TX-Texarkana, AR (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC455040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Texarkana, TX-Texarkana, AR (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC455040110             | Average Weekly Wages for Employees in Federal Government Establishments in Texarkana, TX-Texarkana, AR (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC455040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Texarkana, TX-Texarkana, AR (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC455040210             | Average Weekly Wages for Employees in State Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC455040210SA           | Average Weekly Wages for Employees in State Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC455040310             | Average Weekly Wages for Employees in Local Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC455040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC455040510             | Average Weekly Wages for Employees in Private Establishments in Texarkana, TX-Texarkana, AR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC455040510SA           | Average Weekly Wages for Employees in Private Establishments in Texarkana, TX-Texarkana, AR (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC455030010             | Total Quarterly Wages in Texarkana, TX-AR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC455030010SA           | Total Quarterly Wages in Texarkana, TX-AR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC455040010             | Average Weekly Wages for Employees in Total Covered Establishments in Texarkana, TX-Texarkana, AR (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC455040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Texarkana, TX-Texarkana, AR (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC455040110             | Average Weekly Wages for Employees in Federal Government Establishments in Texarkana, TX-Texarkana, AR (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC455040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Texarkana, TX-Texarkana, AR (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC455040210             | Average Weekly Wages for Employees in State Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC455040210SA           | Average Weekly Wages for Employees in State Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC455040310             | Average Weekly Wages for Employees in Local Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC455040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Texarkana, TX-Texarkana, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC455040510             | Average Weekly Wages for Employees in Private Establishments in Texarkana, TX-Texarkana, AR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC455040510SA           | Average Weekly Wages for Employees in Private Establishments in Texarkana, TX-Texarkana, AR (MSA)                 | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA45500            | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA45500              | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA45500            | Market Hotness: Hotness Rank in Texarkana, TX-AR (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU45500            | Housing Inventory: New Listing Count in Texarkana, TX-AR (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM45500          | Housing Inventory: New Listing Count Month-Over-Month in Texarkana, TX-AR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY45500          | Housing Inventory: New Listing Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP45500                 | Total Gross Domestic Product for Texarkana, TX-AR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP45500                 | Total Gross Domestic Product for Texarkana, TX-AR (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA45500            | Market Hotness: Nielsen Household Rank in Texarkana, TX-AR (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA145500          | U.S. Granted Utility Patents Originating in Texarkana, TX-Texarkana, AR (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU45500            | Housing Inventory: Pending Listing Count in Texarkana, TX-AR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU45500            | Housing Inventory: Price Reduced Count in Texarkana, TX-AR (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM45500          | Housing Inventory: Price Reduced Count Month-Over-Month in Texarkana, TX-AR (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY45500          | Housing Inventory: Price Reduced Count Year-Over-Year in Texarkana, TX-AR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP45500                 | Total Quantity Indexes for Real GDP for Texarkana, TX-AR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP45500                 | Total Real Gross Domestic Product for Texarkana, TX-AR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP45500                 | Total Quantity Indexes for Real GDP for Texarkana, TX-AR (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP45500                 | Total Real Gross Domestic Product for Texarkana, TX-AR (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI45500                  | Real Personal Income for Texarkana, TX-AR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC45500                | Real Per Capita Personal Income for Texarkana, TX-AR (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL45500               | Regional Price Parities: All Items for Texarkana, TX-AR (MSA)                                                     | 2008-01-01          | 2020-01-01        |

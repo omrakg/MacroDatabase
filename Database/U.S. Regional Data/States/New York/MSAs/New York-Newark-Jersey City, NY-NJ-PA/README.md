@@ -7,18 +7,18 @@
 | AVELISPRIMM35620          | Housing Inventory: Average Listing Price Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY35620          | Housing Inventory: Average Listing Price Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA35620              | Market Hotness: Demand Score in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC356230010             | Total Quarterly Wages in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC356230010SA           | Total Quarterly Wages in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC356240010             | Average Weekly Wages for Employees in Total Covered Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)         | 1990-01-01          | 2022-01-01        |
-| ENUC356240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)         | 1990-01-01          | 2022-01-01        |
-| ENUC356240110             | Average Weekly Wages for Employees in Federal Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)    | 1990-01-01          | 2022-01-01        |
-| ENUC356240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)    | 1990-01-01          | 2022-01-01        |
-| ENUC356240210             | Average Weekly Wages for Employees in State Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC356240210SA           | Average Weekly Wages for Employees in State Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC356240310             | Average Weekly Wages for Employees in Local Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC356240310SA           | Average Weekly Wages for Employees in Local Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC356240510             | Average Weekly Wages for Employees in Private Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)               | 1990-01-01          | 2022-01-01        |
-| ENUC356240510SA           | Average Weekly Wages for Employees in Private Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)               | 1990-01-01          | 2022-01-01        |
+| ENUC356230010             | Total Quarterly Wages in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC356230010SA           | Total Quarterly Wages in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC356240010             | Average Weekly Wages for Employees in Total Covered Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)         | 1990-01-01          | 2022-04-01        |
+| ENUC356240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)         | 1990-01-01          | 2022-04-01        |
+| ENUC356240110             | Average Weekly Wages for Employees in Federal Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)    | 1990-01-01          | 2022-04-01        |
+| ENUC356240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)    | 1990-01-01          | 2022-04-01        |
+| ENUC356240210             | Average Weekly Wages for Employees in State Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC356240210SA           | Average Weekly Wages for Employees in State Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC356240310             | Average Weekly Wages for Employees in Local Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC356240310SA           | Average Weekly Wages for Employees in Local Government Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC356240510             | Average Weekly Wages for Employees in Private Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)               | 1990-01-01          | 2022-04-01        |
+| ENUC356240510SA           | Average Weekly Wages for Employees in Private Establishments in New York-Northern New Jersey-Long Island, NY-NJ-PA (MSA)               | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA35620            | Market Hotness: Hotness Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA35620              | Market Hotness: Hotness Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA35620            | Market Hotness: Hotness Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -90,7 +90,7 @@
 | NEWY636TRADN              | All Employees: Trade, Transportation, and Utilities in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | NEWY636UR                 | Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | NEWY636URN                | Unemployment Rate in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
-| NGMP35620                 | Total Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP35620                 | Total Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA35620            | Market Hotness: Nielsen Household Rank in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | NYTPOP                    | Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | PENLISCOU35620            | Housing Inventory: Pending Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -102,8 +102,8 @@
 | PRIREDCOU35620            | Housing Inventory: Price Reduced Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM35620          | Housing Inventory: Price Reduced Count Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY35620          | Housing Inventory: Price Reduced Count Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP35620                 | Total Quantity Indexes for Real GDP for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP35620                 | Total Real Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP35620                 | Total Quantity Indexes for Real GDP for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP35620                 | Total Real Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI35620                  | Real Personal Income for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC35620                | Real Per Capita Personal Income for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL35620               | Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

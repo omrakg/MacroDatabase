@@ -7,18 +7,18 @@
 | AVELISPRI21820            | Housing Inventory: Average Listing Price in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM21820          | Housing Inventory: Average Listing Price Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY21820          | Housing Inventory: Average Listing Price Year-Over-Year in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC218230010             | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC218230010SA           | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC218240010             | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC218240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC218240110             | Average Weekly Wages for Employees in Federal Government Establishments in Fairbanks, AK (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC218240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fairbanks, AK (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC218240210             | Average Weekly Wages for Employees in State Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC218240210SA           | Average Weekly Wages for Employees in State Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC218240310             | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC218240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC218240510             | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC218240510SA           | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC218230010             | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC218230010SA           | Total Quarterly Wages in Fairbanks, AK (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC218240010             | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC218240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fairbanks, AK (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC218240110             | Average Weekly Wages for Employees in Federal Government Establishments in Fairbanks, AK (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC218240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fairbanks, AK (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC218240210             | Average Weekly Wages for Employees in State Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC218240210SA           | Average Weekly Wages for Employees in State Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC218240310             | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC218240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fairbanks, AK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC218240510             | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC218240510SA           | Average Weekly Wages for Employees in Private Establishments in Fairbanks, AK (MSA)                            | 1990-01-01          | 2022-04-01        |
 | FAIR802BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fairbanks, AK (MSA)            | 2004-01-01          | 2022-10-01        |
 | FAIR802BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fairbanks, AK (MSA)            | 2004-01-01          | 2022-10-01        |
 | FAIR802BPPRIV             | New Private Housing Units Authorized by Building Permits for Fairbanks, AK (MSA)                               | 2004-01-01          | 2022-10-01        |
@@ -71,7 +71,7 @@
 | NEWLISCOU21820            | Housing Inventory: New Listing Count in Fairbanks, AK (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM21820          | Housing Inventory: New Listing Count Month-Over-Month in Fairbanks, AK (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY21820          | Housing Inventory: New Listing Count Year-Over-Year in Fairbanks, AK (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP21820                 | Total Gross Domestic Product for Fairbanks, AK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP21820                 | Total Gross Domestic Product for Fairbanks, AK (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA121820          | U.S. Granted Utility Patents Originating in Fairbanks, AK (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU21820            | Housing Inventory: Pending Listing Count in Fairbanks, AK (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM21820          | Housing Inventory: Pending Listing Count Month-Over-Month in Fairbanks, AK (CBSA)                              | 2017-10-01          | 2022-11-01        |
@@ -82,8 +82,8 @@
 | PRIREDCOU21820            | Housing Inventory: Price Reduced Count in Fairbanks, AK (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM21820          | Housing Inventory: Price Reduced Count Month-Over-Month in Fairbanks, AK (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY21820          | Housing Inventory: Price Reduced Count Year-Over-Year in Fairbanks, AK (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP21820                 | Total Quantity Indexes for Real GDP for Fairbanks, AK (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP21820                 | Total Real Gross Domestic Product for Fairbanks, AK (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP21820                 | Total Quantity Indexes for Real GDP for Fairbanks, AK (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP21820                 | Total Real Gross Domestic Product for Fairbanks, AK (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI21820                  | Real Personal Income for Fairbanks, AK (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC21820                | Real Per Capita Personal Income for Fairbanks, AK (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL21820               | Regional Price Parities: All Items for Fairbanks, AK (MSA)                                                     | 2008-01-01          | 2020-01-01        |

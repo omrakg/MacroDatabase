@@ -40,18 +40,18 @@
 | COLL748UR                 | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | COLL748URN                | Unemployment Rate in College Station-Bryan, TX (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA17780              | Market Hotness: Demand Score in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC177830010             | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC177830010SA           | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC177840010             | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC177840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC177840110             | Average Weekly Wages for Employees in Federal Government Establishments in College Station-Bryan, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC177840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in College Station-Bryan, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC177840210             | Average Weekly Wages for Employees in State Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC177840210SA           | Average Weekly Wages for Employees in State Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC177840310             | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC177840310SA           | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC177840510             | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC177840510SA           | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC177830010             | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC177830010SA           | Total Quarterly Wages in College Station-Bryan, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC177840010             | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC177840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in College Station-Bryan, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC177840110             | Average Weekly Wages for Employees in Federal Government Establishments in College Station-Bryan, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC177840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in College Station-Bryan, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC177840210             | Average Weekly Wages for Employees in State Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC177840210SA           | Average Weekly Wages for Employees in State Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC177840310             | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC177840310SA           | Average Weekly Wages for Employees in Local Government Establishments in College Station-Bryan, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC177840510             | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC177840510SA           | Average Weekly Wages for Employees in Private Establishments in College Station-Bryan, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA17780            | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA17780              | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA17780            | Market Hotness: Hotness Rank in College Station-Bryan, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -91,7 +91,7 @@
 | NEWLISCOU17780            | Housing Inventory: New Listing Count in College Station-Bryan, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM17780          | Housing Inventory: New Listing Count Month-Over-Month in College Station-Bryan, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY17780          | Housing Inventory: New Listing Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP17780                 | Total Gross Domestic Product for College Station-Bryan, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP17780                 | Total Gross Domestic Product for College Station-Bryan, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA17780            | Market Hotness: Nielsen Household Rank in College Station-Bryan, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA117780          | U.S. Granted Utility Patents Originating in College Station-Bryan, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU17780            | Housing Inventory: Pending Listing Count in College Station-Bryan, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PRIREDCOU17780            | Housing Inventory: Price Reduced Count in College Station-Bryan, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM17780          | Housing Inventory: Price Reduced Count Month-Over-Month in College Station-Bryan, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY17780          | Housing Inventory: Price Reduced Count Year-Over-Year in College Station-Bryan, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP17780                 | Total Quantity Indexes for Real GDP for College Station-Bryan, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP17780                 | Total Real Gross Domestic Product for College Station-Bryan, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP17780                 | Total Quantity Indexes for Real GDP for College Station-Bryan, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP17780                 | Total Real Gross Domestic Product for College Station-Bryan, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI17780                  | Real Personal Income for College Station-Bryan, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC17780                | Real Per Capita Personal Income for College Station-Bryan, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL17780               | Regional Price Parities: All Items for College Station-Bryan, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

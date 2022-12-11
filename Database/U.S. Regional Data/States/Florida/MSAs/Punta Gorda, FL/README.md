@@ -8,18 +8,18 @@
 | AVELISPRIMM39460          | Housing Inventory: Average Listing Price Month-Over-Month in Punta Gorda, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY39460          | Housing Inventory: Average Listing Price Year-Over-Year in Punta Gorda, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA39460              | Market Hotness: Demand Score in Punta Gorda, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC394630010             | Total Quarterly Wages in Punta Gorda, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC394630010SA           | Total Quarterly Wages in Punta Gorda, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC394640010             | Average Weekly Wages for Employees in Total Covered Establishments in Punta Gorda, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC394640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Punta Gorda, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC394640110             | Average Weekly Wages for Employees in Federal Government Establishments in Punta Gorda, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC394640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Punta Gorda, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC394640210             | Average Weekly Wages for Employees in State Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC394640210SA           | Average Weekly Wages for Employees in State Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC394640310             | Average Weekly Wages for Employees in Local Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC394640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC394640510             | Average Weekly Wages for Employees in Private Establishments in Punta Gorda, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC394640510SA           | Average Weekly Wages for Employees in Private Establishments in Punta Gorda, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC394630010             | Total Quarterly Wages in Punta Gorda, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC394630010SA           | Total Quarterly Wages in Punta Gorda, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC394640010             | Average Weekly Wages for Employees in Total Covered Establishments in Punta Gorda, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC394640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Punta Gorda, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC394640110             | Average Weekly Wages for Employees in Federal Government Establishments in Punta Gorda, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC394640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Punta Gorda, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC394640210             | Average Weekly Wages for Employees in State Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC394640210SA           | Average Weekly Wages for Employees in State Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC394640310             | Average Weekly Wages for Employees in Local Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC394640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Punta Gorda, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC394640510             | Average Weekly Wages for Employees in Private Establishments in Punta Gorda, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC394640510SA           | Average Weekly Wages for Employees in Private Establishments in Punta Gorda, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA39460            | Market Hotness: Hotness Rank in Punta Gorda, FL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA39460              | Market Hotness: Hotness Rank in Punta Gorda, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA39460            | Market Hotness: Hotness Rank in Punta Gorda, FL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU39460            | Housing Inventory: New Listing Count in Punta Gorda, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM39460          | Housing Inventory: New Listing Count Month-Over-Month in Punta Gorda, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY39460          | Housing Inventory: New Listing Count Year-Over-Year in Punta Gorda, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP39460                 | Total Gross Domestic Product for Punta Gorda, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP39460                 | Total Gross Domestic Product for Punta Gorda, FL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA39460            | Market Hotness: Nielsen Household Rank in Punta Gorda, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA139460          | U.S. Granted Utility Patents Originating in Punta Gorda, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU39460            | Housing Inventory: Pending Listing Count in Punta Gorda, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PUNT412TRADN              | All Employees: Trade, Transportation, and Utilities in Punta Gorda, FL (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | PUNT412UR                 | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | PUNT412URN                | Unemployment Rate in Punta Gorda, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
-| QGMP39460                 | Total Quantity Indexes for Real GDP for Punta Gorda, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP39460                 | Total Real Gross Domestic Product for Punta Gorda, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP39460                 | Total Quantity Indexes for Real GDP for Punta Gorda, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP39460                 | Total Real Gross Domestic Product for Punta Gorda, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI39460                  | Real Personal Income for Punta Gorda, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC39460                | Real Per Capita Personal Income for Punta Gorda, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL39460               | Regional Price Parities: All Items for Punta Gorda, FL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

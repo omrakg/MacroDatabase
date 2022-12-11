@@ -7,14 +7,14 @@
 | AVELISPRI46660            | Housing Inventory: Average Listing Price in Valdosta, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM46660          | Housing Inventory: Average Listing Price Month-Over-Month in Valdosta, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY46660          | Housing Inventory: Average Listing Price Year-Over-Year in Valdosta, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC466630010             | Total Quarterly Wages in Valdosta, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC466630010SA           | Total Quarterly Wages in Valdosta, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC466640010             | Average Weekly Wages for Employees in Total Covered Establishments in Valdosta, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC466640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Valdosta, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC466640110             | Average Weekly Wages for Employees in Federal Government Establishments in Valdosta, GA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC466640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Valdosta, GA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC466640510             | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC466640510SA           | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC466630010             | Total Quarterly Wages in Valdosta, GA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC466630010SA           | Total Quarterly Wages in Valdosta, GA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC466640010             | Average Weekly Wages for Employees in Total Covered Establishments in Valdosta, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC466640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Valdosta, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC466640110             | Average Weekly Wages for Employees in Federal Government Establishments in Valdosta, GA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC466640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Valdosta, GA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC466640510             | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC466640510SA           | Average Weekly Wages for Employees in Private Establishments in Valdosta, GA (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD46660                 | Implicit Regional Price Deflator for Valdosta, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT134666000000003A     | Unemployment Rate in Valdosta, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT134666000000004      | Unemployed Persons in Valdosta, GA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -37,7 +37,7 @@
 | NEWLISCOU46660            | Housing Inventory: New Listing Count in Valdosta, GA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM46660          | Housing Inventory: New Listing Count Month-Over-Month in Valdosta, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY46660          | Housing Inventory: New Listing Count Year-Over-Year in Valdosta, GA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP46660                 | Total Gross Domestic Product for Valdosta, GA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP46660                 | Total Gross Domestic Product for Valdosta, GA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA146660          | U.S. Granted Utility Patents Originating in Valdosta, GA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU46660            | Housing Inventory: Pending Listing Count in Valdosta, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM46660          | Housing Inventory: Pending Listing Count Month-Over-Month in Valdosta, GA (CBSA)                | 2018-05-01          | 2022-11-01        |
@@ -48,8 +48,8 @@
 | PRIREDCOU46660            | Housing Inventory: Price Reduced Count in Valdosta, GA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM46660          | Housing Inventory: Price Reduced Count Month-Over-Month in Valdosta, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY46660          | Housing Inventory: Price Reduced Count Year-Over-Year in Valdosta, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP46660                 | Total Quantity Indexes for Real GDP for Valdosta, GA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP46660                 | Total Real Gross Domestic Product for Valdosta, GA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP46660                 | Total Quantity Indexes for Real GDP for Valdosta, GA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP46660                 | Total Real Gross Domestic Product for Valdosta, GA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI46660                  | Real Personal Income for Valdosta, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC46660                | Real Per Capita Personal Income for Valdosta, GA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL46660               | Regional Price Parities: All Items for Valdosta, GA (MSA)                                       | 2008-01-01          | 2020-01-01        |

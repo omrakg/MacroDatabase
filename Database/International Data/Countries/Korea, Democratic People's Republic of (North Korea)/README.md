@@ -7,12 +7,12 @@
 | DDEI05KPA156NWDB  | Bank's Return on Assets for Democratic People's Republic of Korea                           | 1999-01-01          | 2001-01-01        |
 | DDEI06KPA156NWDB  | Bank's Return on Equity for Democratic People's Republic of Korea                           | 1999-01-01          | 2001-01-01        |
 | DDOM01KPA644NWDB  | Number of Listed Companies for Democratic People's Republic of Korea                        | 1988-01-01          | 1988-01-01        |
-| EXP5790           | U.S. Exports of Goods by F.A.S. Basis to North Korea                                        | 1992-01-01          | 2022-09-01        |
+| EXP5790           | U.S. Exports of Goods by F.A.S. Basis to North Korea                                        | 1992-01-01          | 2022-10-01        |
 | FLPRKA475SCEN     | Number of Identified Exporters to Democratic People's Republic of Korea from Florida        | 1997-01-01          | 2016-01-01        |
 | GAPRKA475SCEN     | Number of Identified Exporters to Democratic People's Republic of Korea from Georgia        | 2002-01-01          | 2013-01-01        |
 | IAPRKA475SCEN     | Number of Identified Exporters to Democratic People's Republic of Korea from Iowa           | 2002-01-01          | 2002-01-01        |
 | ILPRKA475SCEN     | Number of Identified Exporters to Democratic People's Republic of Korea from Illinois       | 2003-01-01          | 2003-01-01        |
-| IMP5790           | U.S. Imports of Goods by Customs Basis from North Korea                                     | 1992-01-01          | 2022-09-01        |
+| IMP5790           | U.S. Imports of Goods by Customs Basis from North Korea                                     | 1992-01-01          | 2022-10-01        |
 | ITNETUSERP2PRK    | Internet users for the Democratic People's Republic of Korea                                | 1990-01-01          | 2013-01-01        |
 | LAPRKA475SCEN     | Number of Identified Exporters to Democratic People's Republic of Korea from Louisiana      | 2003-01-01          | 2008-01-01        |
 | MAPRKA475SCEN     | Number of Identified Exporters to Democratic People's Republic of Korea from Massachusetts  | 2003-01-01          | 2003-01-01        |

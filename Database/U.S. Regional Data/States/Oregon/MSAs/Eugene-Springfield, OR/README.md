@@ -8,18 +8,18 @@
 | AVELISPRIMM21660          | Housing Inventory: Average Listing Price Month-Over-Month in Eugene, OR (CBSA)                                          | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY21660          | Housing Inventory: Average Listing Price Year-Over-Year in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-11-01        |
 | DESCMSA21660              | Market Hotness: Demand Score in Eugene, OR (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
-| ENUC216630010             | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC216630010SA           | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC216640010             | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC216640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC216640110             | Average Weekly Wages for Employees in Federal Government Establishments in Eugene-Springfield, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC216640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Eugene-Springfield, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC216640210             | Average Weekly Wages for Employees in State Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC216640210SA           | Average Weekly Wages for Employees in State Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC216640310             | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC216640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC216640510             | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC216640510SA           | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC216630010             | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC216630010SA           | Total Quarterly Wages in Eugene, OR (MSA)                                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC216640010             | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC216640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Eugene-Springfield, OR (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC216640110             | Average Weekly Wages for Employees in Federal Government Establishments in Eugene-Springfield, OR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC216640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Eugene-Springfield, OR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC216640210             | Average Weekly Wages for Employees in State Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC216640210SA           | Average Weekly Wages for Employees in State Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC216640310             | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC216640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eugene-Springfield, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC216640510             | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC216640510SA           | Average Weekly Wages for Employees in Private Establishments in Eugene-Springfield, OR (MSA)                            | 1990-01-01          | 2022-04-01        |
 | EUGE641BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-10-01        |
 | EUGE641BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Eugene-Springfield, OR (MSA)            | 1988-01-01          | 2022-10-01        |
 | EUGE641BPPRIV             | New Private Housing Units Authorized by Building Permits for Eugene-Springfield, OR (MSA)                               | 1988-01-01          | 2022-10-01        |
@@ -89,7 +89,7 @@
 | NEWLISCOU21660            | Housing Inventory: New Listing Count in Eugene, OR (CBSA)                                                               | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM21660          | Housing Inventory: New Listing Count Month-Over-Month in Eugene, OR (CBSA)                                              | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY21660          | Housing Inventory: New Listing Count Year-Over-Year in Eugene, OR (CBSA)                                                | 2017-07-01          | 2022-11-01        |
-| NGMP21660                 | Total Gross Domestic Product for Eugene, OR (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
+| NGMP21660                 | Total Gross Domestic Product for Eugene, OR (MSA)                                                                       | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA21660            | Market Hotness: Nielsen Household Rank in Eugene, OR (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA121660          | U.S. Granted Utility Patents Originating in Eugene-Springfield, OR (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU21660            | Housing Inventory: Pending Listing Count in Eugene, OR (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
@@ -101,8 +101,8 @@
 | PRIREDCOU21660            | Housing Inventory: Price Reduced Count in Eugene, OR (CBSA)                                                             | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM21660          | Housing Inventory: Price Reduced Count Month-Over-Month in Eugene, OR (CBSA)                                            | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY21660          | Housing Inventory: Price Reduced Count Year-Over-Year in Eugene, OR (CBSA)                                              | 2017-07-01          | 2022-11-01        |
-| QGMP21660                 | Total Quantity Indexes for Real GDP for Eugene, OR (MSA)                                                                | 2001-01-01          | 2020-01-01        |
-| RGMP21660                 | Total Real Gross Domestic Product for Eugene, OR (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
+| QGMP21660                 | Total Quantity Indexes for Real GDP for Eugene, OR (MSA)                                                                | 2001-01-01          | 2021-01-01        |
+| RGMP21660                 | Total Real Gross Domestic Product for Eugene, OR (MSA)                                                                  | 2001-01-01          | 2021-01-01        |
 | RPI21660                  | Real Personal Income for Eugene, OR (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
 | RPIPC21660                | Real Per Capita Personal Income for Eugene, OR (MSA)                                                                    | 2008-01-01          | 2020-01-01        |
 | RPPALL21660               | Regional Price Parities: All Items for Eugene, OR (MSA)                                                                 | 2008-01-01          | 2020-01-01        |

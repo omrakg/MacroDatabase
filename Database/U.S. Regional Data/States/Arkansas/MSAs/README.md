@@ -1,6 +1,6 @@
 | Folder                                   |   Files / Folders |
 |------------------------------------------|-------------------|
-| Pine Bluff, AR                           |                93 |
+| Pine Bluff, AR                           |                 0 |
 | Jonesboro, AR                            |                93 |
 | Memphis, TN-MS-AR                        |                 0 |
 | Texarkana, TX-AR                         |                 0 |

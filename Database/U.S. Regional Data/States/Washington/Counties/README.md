@@ -16,7 +16,7 @@
 | Yakima County, WA       |               146 |
 | King County, WA         |               147 |
 | Thurston County, WA     |               147 |
-| Klickitat County, WA    |                90 |
+| Klickitat County, WA    |                 0 |
 | Franklin County, WA     |               147 |
 | Adams County, WA        |                90 |
 | Grays Harbor County, WA |               147 |

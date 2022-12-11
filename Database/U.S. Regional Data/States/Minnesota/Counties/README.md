@@ -47,8 +47,8 @@
 | Lac Qui Parle County, MN     |                88 |
 | Morrison County, MN          |                90 |
 | Wadena County, MN            |                89 |
-| Cook County, MN              |                 0 |
-| St. Louis County, MN         |               147 |
+| Cook County, MN              |                90 |
+| St. Louis County, MN         |                 0 |
 | Traverse County, MN          |                88 |
 | Carver County, MN            |               147 |
 | Stevens County, MN           |                89 |

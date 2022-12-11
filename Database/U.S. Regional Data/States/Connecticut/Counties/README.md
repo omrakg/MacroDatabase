@@ -6,5 +6,5 @@
 | Middlesex County, CT  |               146 |
 | Fairfield County, CT  |               146 |
 | New Haven County, CT  |               146 |
-| Hartford County, CT   |               146 |
+| Hartford County, CT   |                 0 |
 | Tolland County, CT    |               146 |

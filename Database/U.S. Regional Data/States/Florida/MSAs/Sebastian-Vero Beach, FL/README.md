@@ -8,18 +8,18 @@
 | AVELISPRIMM42680          | Housing Inventory: Average Listing Price Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY42680          | Housing Inventory: Average Listing Price Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA42680              | Market Hotness: Demand Score in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC426830010             | Total Quarterly Wages in Sebastian-Vero Beach, FL (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC426830010SA           | Total Quarterly Wages in Sebastian-Vero Beach, FL (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC426840010             | Average Weekly Wages for Employees in Total Covered Establishments in Sebastian-Vero Beach, FL (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC426840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sebastian-Vero Beach, FL (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC426840110             | Average Weekly Wages for Employees in Federal Government Establishments in Sebastian-Vero Beach, FL (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC426840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sebastian-Vero Beach, FL (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC426840210             | Average Weekly Wages for Employees in State Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC426840210SA           | Average Weekly Wages for Employees in State Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC426840310             | Average Weekly Wages for Employees in Local Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC426840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC426840510             | Average Weekly Wages for Employees in Private Establishments in Sebastian-Vero Beach, FL (MSA)                            | 2013-01-01          | 2022-01-01        |
-| ENUC426840510SA           | Average Weekly Wages for Employees in Private Establishments in Sebastian-Vero Beach, FL (MSA)                            | 2013-01-01          | 2022-01-01        |
+| ENUC426830010             | Total Quarterly Wages in Sebastian-Vero Beach, FL (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC426830010SA           | Total Quarterly Wages in Sebastian-Vero Beach, FL (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC426840010             | Average Weekly Wages for Employees in Total Covered Establishments in Sebastian-Vero Beach, FL (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC426840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sebastian-Vero Beach, FL (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC426840110             | Average Weekly Wages for Employees in Federal Government Establishments in Sebastian-Vero Beach, FL (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC426840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sebastian-Vero Beach, FL (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC426840210             | Average Weekly Wages for Employees in State Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC426840210SA           | Average Weekly Wages for Employees in State Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC426840310             | Average Weekly Wages for Employees in Local Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC426840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sebastian-Vero Beach, FL (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC426840510             | Average Weekly Wages for Employees in Private Establishments in Sebastian-Vero Beach, FL (MSA)                            | 2013-01-01          | 2022-04-01        |
+| ENUC426840510SA           | Average Weekly Wages for Employees in Private Establishments in Sebastian-Vero Beach, FL (MSA)                            | 2013-01-01          | 2022-04-01        |
 | HORAMMMSA42680            | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA42680              | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA42680            | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU42680            | Housing Inventory: New Listing Count in Sebastian-Vero Beach, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM42680          | Housing Inventory: New Listing Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY42680          | Housing Inventory: New Listing Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP42680                 | Total Gross Domestic Product for Sebastian-Vero Beach, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP42680                 | Total Gross Domestic Product for Sebastian-Vero Beach, FL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA42680            | Market Hotness: Nielsen Household Rank in Sebastian-Vero Beach, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA142680          | U.S. Granted Utility Patents Originating in Sebastian-Vero Beach, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU42680            | Housing Inventory: Pending Listing Count in Sebastian-Vero Beach, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU42680            | Housing Inventory: Price Reduced Count in Sebastian-Vero Beach, FL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM42680          | Housing Inventory: Price Reduced Count Month-Over-Month in Sebastian-Vero Beach, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY42680          | Housing Inventory: Price Reduced Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP42680                 | Total Quantity Indexes for Real GDP for Sebastian-Vero Beach, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP42680                 | Total Real Gross Domestic Product for Sebastian-Vero Beach, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP42680                 | Total Quantity Indexes for Real GDP for Sebastian-Vero Beach, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP42680                 | Total Real Gross Domestic Product for Sebastian-Vero Beach, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI42680                  | Real Personal Income for Sebastian-Vero Beach, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC42680                | Real Per Capita Personal Income for Sebastian-Vero Beach, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL42680               | Regional Price Parities: All Items for Sebastian-Vero Beach, FL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

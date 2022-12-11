@@ -126,7 +126,7 @@
 | DDSI07BOA156NWDB    | Provisions to Non-Performing Loans for the Plurinational State of Bolivia                                                                    | 1998-01-01          | 2015-01-01        |
 | DEBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Delaware                                                                         | 1997-01-01          | 2016-01-01        |
 | DEBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Delaware                                                           | 1997-01-01          | 2016-01-01        |
-| EXP3350             | U.S. Exports of Goods by F.A.S. Basis to Bolivia                                                                                             | 1992-01-01          | 2022-09-01        |
+| EXP3350             | U.S. Exports of Goods by F.A.S. Basis to Bolivia                                                                                             | 1992-01-01          | 2022-10-01        |
 | FLBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Florida                                                                          | 1992-01-01          | 2015-01-01        |
 | FLBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Florida                                                            | 1992-01-01          | 2016-01-01        |
 | FPCPITOTLZGBOL      | Inflation, consumer prices for the Plurinational State of Bolivia                                                                            | 1960-01-01          | 2021-01-01        |
@@ -138,18 +138,18 @@
 | ICBUSEASEXQBOL      | Ease of doing business index for the Plurinational State of Bolivia                                                                          | 2019-01-01          | 2019-01-01        |
 | IDBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Idaho                                                                            | 2007-01-01          | 2016-01-01        |
 | IDBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Idaho                                                              | 1992-01-01          | 2016-01-01        |
-| IDS1MNIAOAIBO       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Bolivia                    | 1977-01-01          | 2022-04-01        |
-| IDS1YMAORIAIBO      | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Bolivia                      | 1977-01-01          | 2022-04-01        |
-| IDS1YMAORIGGBO      | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Bolivia        | 1977-01-01          | 2022-04-01        |
-| IDSAMRIAOBO         | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Bolivia                          | 1977-01-01          | 2022-04-01        |
+| IDS1MNIAOAIBO       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Bolivia                    | 1977-01-01          | 2022-07-01        |
+| IDS1YMAORIAIBO      | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Bolivia                      | 1977-01-01          | 2022-07-01        |
+| IDS1YMAORIGGBO      | Amount Outstanding Due within One Year of International Debt Securities for General Government Sector, Residence of Issuer in Bolivia        | 1977-01-01          | 2022-07-01        |
+| IDSAMRIAOBO         | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Bolivia                          | 1977-01-01          | 2022-07-01        |
 | IDSAMRINIBO         | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Bolivia                                  | 1977-01-01          | 2022-01-01        |
-| IDSGAMNIAOBO        | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Bolivia                       | 1977-01-01          | 2022-04-01        |
+| IDSGAMNIAOBO        | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Bolivia                       | 1977-01-01          | 2022-07-01        |
 | IDSGAMNINIBO        | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Bolivia                                | 1977-01-01          | 2022-01-01        |
-| IDSGAMRIAOBO        | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Bolivia | 1977-01-01          | 2022-04-01        |
+| IDSGAMRIAOBO        | Amount Outstanding of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Bolivia | 1977-01-01          | 2022-07-01        |
 | IDSGAMRINIBO        | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Bolivia         | 1977-01-01          | 2022-01-01        |
 | ILBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Illinois                                                                         | 1992-01-01          | 2016-01-01        |
 | ILBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Illinois                                                           | 1992-01-01          | 2016-01-01        |
-| IMP3350             | U.S. Imports of Goods by Customs Basis from Bolivia                                                                                          | 1992-01-01          | 2022-09-01        |
+| IMP3350             | U.S. Imports of Goods by Customs Basis from Bolivia                                                                                          | 1992-01-01          | 2022-10-01        |
 | INBOLA052SCEN       | Value of Exports to the Plurinational State of Bolivia from Indiana                                                                          | 1992-01-01          | 2016-01-01        |
 | INBOLA475SCEN       | Number of Identified Exporters to the Plurinational State of Bolivia from Indiana                                                            | 1992-01-01          | 2016-01-01        |
 | ITNETUSERP2BOL      | Internet users for the Plurinational State of Bolivia                                                                                        | 1990-01-01          | 2020-01-01        |

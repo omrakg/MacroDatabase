@@ -8,18 +8,18 @@
 | AVELISPRIMM22500          | Housing Inventory: Average Listing Price Month-Over-Month in Florence, SC (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY22500          | Housing Inventory: Average Listing Price Year-Over-Year in Florence, SC (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA22500              | Market Hotness: Demand Score in Florence, SC (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC225030010             | Total Quarterly Wages in Florence, SC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC225030010SA           | Total Quarterly Wages in Florence, SC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC225040010             | Average Weekly Wages for Employees in Total Covered Establishments in Florence, SC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC225040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Florence, SC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC225040110             | Average Weekly Wages for Employees in Federal Government Establishments in Florence, SC (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC225040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Florence, SC (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC225040210             | Average Weekly Wages for Employees in State Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC225040210SA           | Average Weekly Wages for Employees in State Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC225040310             | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC225040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC225040510             | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC225040510SA           | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC225030010             | Total Quarterly Wages in Florence, SC (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC225030010SA           | Total Quarterly Wages in Florence, SC (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC225040010             | Average Weekly Wages for Employees in Total Covered Establishments in Florence, SC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC225040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Florence, SC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC225040110             | Average Weekly Wages for Employees in Federal Government Establishments in Florence, SC (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC225040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Florence, SC (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC225040210             | Average Weekly Wages for Employees in State Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC225040210SA           | Average Weekly Wages for Employees in State Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC225040310             | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC225040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Florence, SC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC225040510             | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC225040510SA           | Average Weekly Wages for Employees in Private Establishments in Florence, SC (MSA)              | 1990-01-01          | 2022-04-01        |
 | FLOR545GOVT               | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | FLOR545GOVTN              | All Employees: Government in Florence, SC (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | FLOR545LF                 | Civilian Labor Force in Florence, SC (MSA)                                                      | 1990-01-01          | 2022-10-01        |
@@ -71,7 +71,7 @@
 | NEWLISCOU22500            | Housing Inventory: New Listing Count in Florence, SC (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM22500          | Housing Inventory: New Listing Count Month-Over-Month in Florence, SC (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY22500          | Housing Inventory: New Listing Count Year-Over-Year in Florence, SC (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP22500                 | Total Gross Domestic Product for Florence, SC (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP22500                 | Total Gross Domestic Product for Florence, SC (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA22500            | Market Hotness: Nielsen Household Rank in Florence, SC (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA122500          | U.S. Granted Utility Patents Originating in Florence, SC (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU22500            | Housing Inventory: Pending Listing Count in Florence, SC (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -83,8 +83,8 @@
 | PRIREDCOU22500            | Housing Inventory: Price Reduced Count in Florence, SC (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM22500          | Housing Inventory: Price Reduced Count Month-Over-Month in Florence, SC (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY22500          | Housing Inventory: Price Reduced Count Year-Over-Year in Florence, SC (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP22500                 | Total Quantity Indexes for Real GDP for Florence, SC (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP22500                 | Total Real Gross Domestic Product for Florence, SC (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP22500                 | Total Quantity Indexes for Real GDP for Florence, SC (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP22500                 | Total Real Gross Domestic Product for Florence, SC (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI22500                  | Real Personal Income for Florence, SC (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC22500                | Real Per Capita Personal Income for Florence, SC (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL22500               | Regional Price Parities: All Items for Florence, SC (MSA)                                       | 2008-01-01          | 2020-01-01        |

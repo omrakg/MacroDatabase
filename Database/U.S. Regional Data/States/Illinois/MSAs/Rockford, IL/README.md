@@ -8,16 +8,16 @@
 | AVELISPRIMM40420          | Housing Inventory: Average Listing Price Month-Over-Month in Rockford, IL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY40420          | Housing Inventory: Average Listing Price Year-Over-Year in Rockford, IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA40420              | Market Hotness: Demand Score in Rockford, IL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC404230010             | Total Quarterly Wages in Rockford, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC404230010SA           | Total Quarterly Wages in Rockford, IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC404240010             | Average Weekly Wages for Employees in Total Covered Establishments in Rockford, IL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC404240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rockford, IL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC404240110             | Average Weekly Wages for Employees in Federal Government Establishments in Rockford, IL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC404240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rockford, IL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC404240310             | Average Weekly Wages for Employees in Local Government Establishments in Rockford, IL (MSA)                   | 2019-10-01          | 2022-01-01        |
-| ENUC404240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rockford, IL (MSA)                   | 2019-10-01          | 2022-01-01        |
-| ENUC404240510             | Average Weekly Wages for Employees in Private Establishments in Rockford, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC404240510SA           | Average Weekly Wages for Employees in Private Establishments in Rockford, IL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC404230010             | Total Quarterly Wages in Rockford, IL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC404230010SA           | Total Quarterly Wages in Rockford, IL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC404240010             | Average Weekly Wages for Employees in Total Covered Establishments in Rockford, IL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC404240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rockford, IL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC404240110             | Average Weekly Wages for Employees in Federal Government Establishments in Rockford, IL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC404240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rockford, IL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC404240310             | Average Weekly Wages for Employees in Local Government Establishments in Rockford, IL (MSA)                   | 2019-10-01          | 2022-04-01        |
+| ENUC404240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rockford, IL (MSA)                   | 2019-10-01          | 2022-04-01        |
+| ENUC404240510             | Average Weekly Wages for Employees in Private Establishments in Rockford, IL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC404240510SA           | Average Weekly Wages for Employees in Private Establishments in Rockford, IL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA40420            | Market Hotness: Hotness Rank in Rockford, IL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA40420              | Market Hotness: Hotness Rank in Rockford, IL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA40420            | Market Hotness: Hotness Rank in Rockford, IL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -57,7 +57,7 @@
 | NEWLISCOU40420            | Housing Inventory: New Listing Count in Rockford, IL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM40420          | Housing Inventory: New Listing Count Month-Over-Month in Rockford, IL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY40420          | Housing Inventory: New Listing Count Year-Over-Year in Rockford, IL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP40420                 | Total Gross Domestic Product for Rockford, IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP40420                 | Total Gross Domestic Product for Rockford, IL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA40420            | Market Hotness: Nielsen Household Rank in Rockford, IL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA140420          | U.S. Granted Utility Patents Originating in Rockford, IL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU40420            | Housing Inventory: Pending Listing Count in Rockford, IL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -69,9 +69,9 @@
 | PRIREDCOU40420            | Housing Inventory: Price Reduced Count in Rockford, IL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM40420          | Housing Inventory: Price Reduced Count Month-Over-Month in Rockford, IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY40420          | Housing Inventory: Price Reduced Count Year-Over-Year in Rockford, IL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP40420                 | Total Quantity Indexes for Real GDP for Rockford, IL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
+| QGMP40420                 | Total Quantity Indexes for Real GDP for Rockford, IL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
 | RDCPOP                    | Resident Population in Rockford, IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| RGMP40420                 | Total Real Gross Domestic Product for Rockford, IL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| RGMP40420                 | Total Real Gross Domestic Product for Rockford, IL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | ROCK417EDUH               | All Employees: Education and Health Services in Rockford, IL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | ROCK417EDUHN              | All Employees: Education and Health Services in Rockford, IL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | ROCK417FIRE               | All Employees: Financial Activities in Rockford, IL (MSA)                                                     | 1990-01-01          | 2022-10-01        |

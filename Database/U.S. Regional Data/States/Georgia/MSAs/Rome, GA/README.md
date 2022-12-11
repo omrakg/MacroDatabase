@@ -7,18 +7,18 @@
 | AVELISPRI40660            | Housing Inventory: Average Listing Price in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM40660          | Housing Inventory: Average Listing Price Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY40660          | Housing Inventory: Average Listing Price Year-Over-Year in Rome, GA (CBSA)                     | 2017-07-01          | 2022-11-01        |
-| ENUC406630010             | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC406630010SA           | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC406640010             | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC406640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC406640110             | Average Weekly Wages for Employees in Federal Government Establishments in Rome, GA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC406640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rome, GA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC406640210             | Average Weekly Wages for Employees in State Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC406640210SA           | Average Weekly Wages for Employees in State Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC406640310             | Average Weekly Wages for Employees in Local Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC406640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC406640510             | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC406640510SA           | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC406630010             | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC406630010SA           | Total Quarterly Wages in Rome, GA (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC406640010             | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC406640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rome, GA (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC406640110             | Average Weekly Wages for Employees in Federal Government Establishments in Rome, GA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC406640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rome, GA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC406640210             | Average Weekly Wages for Employees in State Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC406640210SA           | Average Weekly Wages for Employees in State Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC406640310             | Average Weekly Wages for Employees in Local Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC406640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rome, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC406640510             | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC406640510SA           | Average Weekly Wages for Employees in Private Establishments in Rome, GA (MSA)                 | 1990-01-01          | 2022-04-01        |
 | IRPD40660                 | Implicit Regional Price Deflator for Rome, GA (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT134066000000003A     | Unemployment Rate in Rome, GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT134066000000004      | Unemployed Persons in Rome, GA (MSA)                                                           | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU40660            | Housing Inventory: New Listing Count in Rome, GA (CBSA)                                        | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM40660          | Housing Inventory: New Listing Count Month-Over-Month in Rome, GA (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY40660          | Housing Inventory: New Listing Count Year-Over-Year in Rome, GA (CBSA)                         | 2017-07-01          | 2022-11-01        |
-| NGMP40660                 | Total Gross Domestic Product for Rome, GA (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| NGMP40660                 | Total Gross Domestic Product for Rome, GA (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA140660          | U.S. Granted Utility Patents Originating in Rome, GA (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU40660            | Housing Inventory: Pending Listing Count in Rome, GA (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM40660          | Housing Inventory: Pending Listing Count Month-Over-Month in Rome, GA (CBSA)                   | 2017-07-01          | 2022-11-01        |
@@ -52,8 +52,8 @@
 | PRIREDCOU40660            | Housing Inventory: Price Reduced Count in Rome, GA (CBSA)                                      | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM40660          | Housing Inventory: Price Reduced Count Month-Over-Month in Rome, GA (CBSA)                     | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY40660          | Housing Inventory: Price Reduced Count Year-Over-Year in Rome, GA (CBSA)                       | 2017-07-01          | 2022-11-01        |
-| QGMP40660                 | Total Quantity Indexes for Real GDP for Rome, GA (MSA)                                         | 2001-01-01          | 2020-01-01        |
-| RGMP40660                 | Total Real Gross Domestic Product for Rome, GA (MSA)                                           | 2001-01-01          | 2020-01-01        |
+| QGMP40660                 | Total Quantity Indexes for Real GDP for Rome, GA (MSA)                                         | 2001-01-01          | 2021-01-01        |
+| RGMP40660                 | Total Real Gross Domestic Product for Rome, GA (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RMEPOP                    | Resident Population in Rome, GA (MSA)                                                          | 2000-01-01          | 2021-01-01        |
 | ROME613BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-10-01        |
 | ROME613BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-10-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM26580          | Housing Inventory: Average Listing Price Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY26580          | Housing Inventory: Average Listing Price Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA26580              | Market Hotness: Demand Score in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC265830010             | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC265830010SA           | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC265840010             | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC265840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC265840110             | Average Weekly Wages for Employees in Federal Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC265840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC265840210             | Average Weekly Wages for Employees in State Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC265840210SA           | Average Weekly Wages for Employees in State Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC265840310             | Average Weekly Wages for Employees in Local Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC265840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC265840510             | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC265840510SA           | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC265830010             | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC265830010SA           | Total Quarterly Wages in Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC265840010             | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC265840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Huntington-Ashland, WV-KY-OH (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC265840110             | Average Weekly Wages for Employees in Federal Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC265840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC265840210             | Average Weekly Wages for Employees in State Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC265840210SA           | Average Weekly Wages for Employees in State Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC265840310             | Average Weekly Wages for Employees in Local Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC265840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Huntington-Ashland, WV-KY-OH (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC265840510             | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC265840510SA           | Average Weekly Wages for Employees in Private Establishments in Huntington-Ashland, WV-KY-OH (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HNAPOP                    | Resident Population in Huntington-Ashland, WV-KY-OH (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA26580            | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA26580              | Market Hotness: Hotness Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
@@ -77,7 +77,7 @@
 | NEWLISCOU26580            | Housing Inventory: New Listing Count in Huntington-Ashland, WV-KY-OH (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM26580          | Housing Inventory: New Listing Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY26580          | Housing Inventory: New Listing Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP26580                 | Total Gross Domestic Product for Huntington-Ashland, WV-KY-OH (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP26580                 | Total Gross Domestic Product for Huntington-Ashland, WV-KY-OH (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA26580            | Market Hotness: Nielsen Household Rank in Huntington-Ashland, WV-KY-OH (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA126580          | U.S. Granted Utility Patents Originating in Huntington-Ashland, WV-KY-OH (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU26580            | Housing Inventory: Pending Listing Count in Huntington-Ashland, WV-KY-OH (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -89,8 +89,8 @@
 | PRIREDCOU26580            | Housing Inventory: Price Reduced Count in Huntington-Ashland, WV-KY-OH (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM26580          | Housing Inventory: Price Reduced Count Month-Over-Month in Huntington-Ashland, WV-KY-OH (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY26580          | Housing Inventory: Price Reduced Count Year-Over-Year in Huntington-Ashland, WV-KY-OH (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP26580                 | Total Quantity Indexes for Real GDP for Huntington-Ashland, WV-KY-OH (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP26580                 | Total Real Gross Domestic Product for Huntington-Ashland, WV-KY-OH (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP26580                 | Total Quantity Indexes for Real GDP for Huntington-Ashland, WV-KY-OH (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP26580                 | Total Real Gross Domestic Product for Huntington-Ashland, WV-KY-OH (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI26580                  | Real Personal Income for Huntington-Ashland, WV-KY-OH (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC26580                | Real Per Capita Personal Income for Huntington-Ashland, WV-KY-OH (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL26580               | Regional Price Parities: All Items for Huntington-Ashland, WV-KY-OH (MSA)                                                     | 2008-01-01          | 2020-01-01        |

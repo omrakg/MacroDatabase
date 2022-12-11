@@ -7,18 +7,18 @@
 | AVELISPRI31020            | Housing Inventory: Average Listing Price in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM31020          | Housing Inventory: Average Listing Price Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY31020          | Housing Inventory: Average Listing Price Year-Over-Year in Longview, WA (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC310230010             | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC310230010SA           | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC310240010             | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC310240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC310240110             | Average Weekly Wages for Employees in Federal Government Establishments in Longview, WA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC310240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Longview, WA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC310240210             | Average Weekly Wages for Employees in State Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC310240210SA           | Average Weekly Wages for Employees in State Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC310240310             | Average Weekly Wages for Employees in Local Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC310240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC310240510             | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC310240510SA           | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC310230010             | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC310230010SA           | Total Quarterly Wages in Longview, WA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC310240010             | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC310240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Longview, WA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC310240110             | Average Weekly Wages for Employees in Federal Government Establishments in Longview, WA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC310240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Longview, WA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC310240210             | Average Weekly Wages for Employees in State Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC310240210SA           | Average Weekly Wages for Employees in State Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC310240310             | Average Weekly Wages for Employees in Local Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC310240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Longview, WA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC310240510             | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC310240510SA           | Average Weekly Wages for Employees in Private Establishments in Longview, WA (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD31020                 | Implicit Regional Price Deflator for Longview, WA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT533102000000003A     | Unemployment Rate in Longview, WA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT533102000000004      | Unemployed Persons in Longview, WA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -61,7 +61,7 @@
 | NEWLISCOU31020            | Housing Inventory: New Listing Count in Longview, WA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM31020          | Housing Inventory: New Listing Count Month-Over-Month in Longview, WA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY31020          | Housing Inventory: New Listing Count Year-Over-Year in Longview, WA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP31020                 | Total Gross Domestic Product for Longview, WA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP31020                 | Total Gross Domestic Product for Longview, WA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA131020          | U.S. Granted Utility Patents Originating in Longview, WA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU31020            | Housing Inventory: Pending Listing Count in Longview, WA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM31020          | Housing Inventory: Pending Listing Count Month-Over-Month in Longview, WA (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -72,8 +72,8 @@
 | PRIREDCOU31020            | Housing Inventory: Price Reduced Count in Longview, WA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM31020          | Housing Inventory: Price Reduced Count Month-Over-Month in Longview, WA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY31020          | Housing Inventory: Price Reduced Count Year-Over-Year in Longview, WA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP31020                 | Total Quantity Indexes for Real GDP for Longview, WA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP31020                 | Total Real Gross Domestic Product for Longview, WA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP31020                 | Total Quantity Indexes for Real GDP for Longview, WA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP31020                 | Total Real Gross Domestic Product for Longview, WA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI31020                  | Real Personal Income for Longview, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC31020                | Real Per Capita Personal Income for Longview, WA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL31020               | Regional Price Parities: All Items for Longview, WA (MSA)                                       | 2008-01-01          | 2020-01-01        |

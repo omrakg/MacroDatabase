@@ -9,7 +9,7 @@
 | Codington County, SD     |                90 |
 | Gregory County, SD       |                87 |
 | Clay County, SD          |                90 |
-| Hughes County, SD        |                90 |
+| Hughes County, SD        |                 0 |
 | Walworth County, SD      |                89 |
 | Bon Homme County, SD     |                89 |
 | Miner County, SD         |                88 |

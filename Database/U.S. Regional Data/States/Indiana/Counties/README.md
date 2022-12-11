@@ -11,7 +11,7 @@
 | Daviess County, IN     |                90 |
 | Franklin County, IN    |                90 |
 | Madison County, IN     |               147 |
-| Boone County, IN       |               146 |
+| Boone County, IN       |                 0 |
 | Switzerland County, IN |                89 |
 | St. Joseph County, IN  |               147 |
 | Monroe County, IN      |               147 |
@@ -39,7 +39,7 @@
 | Elkhart County, IN     |               147 |
 | Huntington County, IN  |                90 |
 | Kosciusko County, IN   |               147 |
-| Rush County, IN        |                 0 |
+| Rush County, IN        |                90 |
 | Porter County, IN      |               147 |
 | Posey County, IN       |                90 |
 | Montgomery County, IN  |                90 |
@@ -71,7 +71,7 @@
 | Clark County, IN       |               147 |
 | Blackford County, IN   |                89 |
 | Putnam County, IN      |                90 |
-| Cass County, IN        |                90 |
+| Cass County, IN        |                 0 |
 | Harrison County, IN    |                90 |
 | Bartholomew County, IN |               147 |
 | Lagrange County, IN    |                90 |

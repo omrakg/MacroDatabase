@@ -8,18 +8,18 @@
 | AVELISPRIMM42100          | Housing Inventory: Average Listing Price Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY42100          | Housing Inventory: Average Listing Price Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA42100              | Market Hotness: Demand Score in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC421030010             | Total Quarterly Wages in Santa Cruz-Watsonville, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC421030010SA           | Total Quarterly Wages in Santa Cruz-Watsonville, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC421040010             | Average Weekly Wages for Employees in Total Covered Establishments in Santa Cruz-Watsonville, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC421040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Santa Cruz-Watsonville, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC421040110             | Average Weekly Wages for Employees in Federal Government Establishments in Santa Cruz-Watsonville, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC421040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Santa Cruz-Watsonville, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC421040210             | Average Weekly Wages for Employees in State Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC421040210SA           | Average Weekly Wages for Employees in State Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC421040310             | Average Weekly Wages for Employees in Local Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC421040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC421040510             | Average Weekly Wages for Employees in Private Establishments in Santa Cruz-Watsonville, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC421040510SA           | Average Weekly Wages for Employees in Private Establishments in Santa Cruz-Watsonville, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC421030010             | Total Quarterly Wages in Santa Cruz-Watsonville, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC421030010SA           | Total Quarterly Wages in Santa Cruz-Watsonville, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC421040010             | Average Weekly Wages for Employees in Total Covered Establishments in Santa Cruz-Watsonville, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC421040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Santa Cruz-Watsonville, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC421040110             | Average Weekly Wages for Employees in Federal Government Establishments in Santa Cruz-Watsonville, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC421040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Santa Cruz-Watsonville, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC421040210             | Average Weekly Wages for Employees in State Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC421040210SA           | Average Weekly Wages for Employees in State Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC421040310             | Average Weekly Wages for Employees in Local Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC421040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Santa Cruz-Watsonville, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC421040510             | Average Weekly Wages for Employees in Private Establishments in Santa Cruz-Watsonville, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC421040510SA           | Average Weekly Wages for Employees in Private Establishments in Santa Cruz-Watsonville, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA42100            | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA42100              | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA42100            | Market Hotness: Hotness Rank in Santa Cruz-Watsonville, CA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU42100            | Housing Inventory: New Listing Count in Santa Cruz-Watsonville, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM42100          | Housing Inventory: New Listing Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY42100          | Housing Inventory: New Listing Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP42100                 | Total Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP42100                 | Total Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA42100            | Market Hotness: Nielsen Household Rank in Santa Cruz-Watsonville, CA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA142100          | U.S. Granted Utility Patents Originating in Santa Cruz-Watsonville, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU42100            | Housing Inventory: Pending Listing Count in Santa Cruz-Watsonville, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU42100            | Housing Inventory: Price Reduced Count in Santa Cruz-Watsonville, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM42100          | Housing Inventory: Price Reduced Count Month-Over-Month in Santa Cruz-Watsonville, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY42100          | Housing Inventory: Price Reduced Count Year-Over-Year in Santa Cruz-Watsonville, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP42100                 | Total Quantity Indexes for Real GDP for Santa Cruz-Watsonville, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP42100                 | Total Real Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP42100                 | Total Quantity Indexes for Real GDP for Santa Cruz-Watsonville, CA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP42100                 | Total Real Gross Domestic Product for Santa Cruz-Watsonville, CA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI42100                  | Real Personal Income for Santa Cruz-Watsonville, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC42100                | Real Per Capita Personal Income for Santa Cruz-Watsonville, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL42100               | Regional Price Parities: All Items for Santa Cruz-Watsonville, CA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -7,18 +7,18 @@
 | AVELISPRI43300            | Housing Inventory: Average Listing Price in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM43300          | Housing Inventory: Average Listing Price Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY43300          | Housing Inventory: Average Listing Price Year-Over-Year in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC433030010             | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC433030010SA           | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC433040010             | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC433040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC433040110             | Average Weekly Wages for Employees in Federal Government Establishments in Sherman-Denison, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC433040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sherman-Denison, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC433040210             | Average Weekly Wages for Employees in State Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC433040210SA           | Average Weekly Wages for Employees in State Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC433040310             | Average Weekly Wages for Employees in Local Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC433040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC433040510             | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC433040510SA           | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC433030010             | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC433030010SA           | Total Quarterly Wages in Sherman-Denison, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC433040010             | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC433040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sherman-Denison, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC433040110             | Average Weekly Wages for Employees in Federal Government Establishments in Sherman-Denison, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC433040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sherman-Denison, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC433040210             | Average Weekly Wages for Employees in State Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC433040210SA           | Average Weekly Wages for Employees in State Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC433040310             | Average Weekly Wages for Employees in Local Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC433040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sherman-Denison, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC433040510             | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC433040510SA           | Average Weekly Wages for Employees in Private Establishments in Sherman-Denison, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD43300                 | Implicit Regional Price Deflator for Sherman-Denison, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484330000000003A     | Unemployment Rate in Sherman-Denison, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT484330000000004      | Unemployed Persons in Sherman-Denison, TX (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU43300            | Housing Inventory: New Listing Count in Sherman-Denison, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM43300          | Housing Inventory: New Listing Count Month-Over-Month in Sherman-Denison, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY43300          | Housing Inventory: New Listing Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP43300                 | Total Gross Domestic Product for Sherman-Denison, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP43300                 | Total Gross Domestic Product for Sherman-Denison, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA143300          | U.S. Granted Utility Patents Originating in Sherman-Denison, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU43300            | Housing Inventory: Pending Listing Count in Sherman-Denison, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM43300          | Housing Inventory: Pending Listing Count Month-Over-Month in Sherman-Denison, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -52,8 +52,8 @@
 | PRIREDCOU43300            | Housing Inventory: Price Reduced Count in Sherman-Denison, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM43300          | Housing Inventory: Price Reduced Count Month-Over-Month in Sherman-Denison, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY43300          | Housing Inventory: Price Reduced Count Year-Over-Year in Sherman-Denison, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP43300                 | Total Quantity Indexes for Real GDP for Sherman-Denison, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP43300                 | Total Real Gross Domestic Product for Sherman-Denison, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP43300                 | Total Quantity Indexes for Real GDP for Sherman-Denison, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP43300                 | Total Real Gross Domestic Product for Sherman-Denison, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI43300                  | Real Personal Income for Sherman-Denison, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC43300                | Real Per Capita Personal Income for Sherman-Denison, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL43300               | Regional Price Parities: All Items for Sherman-Denison, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

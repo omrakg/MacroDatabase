@@ -8,18 +8,18 @@
 | AVELISPRIMM27780          | Housing Inventory: Average Listing Price Month-Over-Month in Johnstown, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY27780          | Housing Inventory: Average Listing Price Year-Over-Year in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA27780              | Market Hotness: Demand Score in Johnstown, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC277830010             | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC277830010SA           | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC277840010             | Average Weekly Wages for Employees in Total Covered Establishments in Johnstown, PA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC277840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Johnstown, PA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC277840110             | Average Weekly Wages for Employees in Federal Government Establishments in Johnstown, PA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC277840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Johnstown, PA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC277840210             | Average Weekly Wages for Employees in State Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC277840210SA           | Average Weekly Wages for Employees in State Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC277840310             | Average Weekly Wages for Employees in Local Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC277840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC277840510             | Average Weekly Wages for Employees in Private Establishments in Johnstown, PA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC277840510SA           | Average Weekly Wages for Employees in Private Establishments in Johnstown, PA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC277830010             | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC277830010SA           | Total Quarterly Wages in Johnstown, PA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC277840010             | Average Weekly Wages for Employees in Total Covered Establishments in Johnstown, PA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC277840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Johnstown, PA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC277840110             | Average Weekly Wages for Employees in Federal Government Establishments in Johnstown, PA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC277840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Johnstown, PA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC277840210             | Average Weekly Wages for Employees in State Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC277840210SA           | Average Weekly Wages for Employees in State Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC277840310             | Average Weekly Wages for Employees in Local Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC277840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Johnstown, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC277840510             | Average Weekly Wages for Employees in Private Establishments in Johnstown, PA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC277840510SA           | Average Weekly Wages for Employees in Private Establishments in Johnstown, PA (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA27780            | Market Hotness: Hotness Rank in Johnstown, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA27780              | Market Hotness: Hotness Rank in Johnstown, PA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA27780            | Market Hotness: Hotness Rank in Johnstown, PA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -79,7 +79,7 @@
 | NEWLISCOU27780            | Housing Inventory: New Listing Count in Johnstown, PA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM27780          | Housing Inventory: New Listing Count Month-Over-Month in Johnstown, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY27780          | Housing Inventory: New Listing Count Year-Over-Year in Johnstown, PA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP27780                 | Total Gross Domestic Product for Johnstown, PA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP27780                 | Total Gross Domestic Product for Johnstown, PA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA27780            | Market Hotness: Nielsen Household Rank in Johnstown, PA (CBSA)                                   | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA127780          | U.S. Granted Utility Patents Originating in Johnstown, PA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU27780            | Housing Inventory: Pending Listing Count in Johnstown, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -91,8 +91,8 @@
 | PRIREDCOU27780            | Housing Inventory: Price Reduced Count in Johnstown, PA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM27780          | Housing Inventory: Price Reduced Count Month-Over-Month in Johnstown, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY27780          | Housing Inventory: Price Reduced Count Year-Over-Year in Johnstown, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP27780                 | Total Quantity Indexes for Real GDP for Johnstown, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP27780                 | Total Real Gross Domestic Product for Johnstown, PA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP27780                 | Total Quantity Indexes for Real GDP for Johnstown, PA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP27780                 | Total Real Gross Domestic Product for Johnstown, PA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI27780                  | Real Personal Income for Johnstown, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC27780                | Real Per Capita Personal Income for Johnstown, PA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL27780               | Regional Price Parities: All Items for Johnstown, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |

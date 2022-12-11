@@ -36,18 +36,18 @@
 | DULU227TRADN              | All Employees: Trade, Transportation, and Utilities in Duluth, MN-WI (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | DULU227UR                 | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DULU227URN                | Unemployment Rate in Duluth, MN-WI (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
-| ENUC202630010             | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC202630010SA           | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC202640010             | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC202640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC202640110             | Average Weekly Wages for Employees in Federal Government Establishments in Duluth, MN-WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC202640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Duluth, MN-WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC202640210             | Average Weekly Wages for Employees in State Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC202640210SA           | Average Weekly Wages for Employees in State Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC202640310             | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC202640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC202640510             | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC202640510SA           | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC202630010             | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC202630010SA           | Total Quarterly Wages in Duluth, MN-WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC202640010             | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC202640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Duluth, MN-WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC202640110             | Average Weekly Wages for Employees in Federal Government Establishments in Duluth, MN-WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC202640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Duluth, MN-WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC202640210             | Average Weekly Wages for Employees in State Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC202640210SA           | Average Weekly Wages for Employees in State Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC202640310             | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC202640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Duluth, MN-WI (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC202640510             | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC202640510SA           | Average Weekly Wages for Employees in Private Establishments in Duluth, MN-WI (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA20260            | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA20260              | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA20260            | Market Hotness: Hotness Rank in Duluth, MN-WI (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU20260            | Housing Inventory: New Listing Count in Duluth, MN-WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM20260          | Housing Inventory: New Listing Count Month-Over-Month in Duluth, MN-WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY20260          | Housing Inventory: New Listing Count Year-Over-Year in Duluth, MN-WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP20260                 | Total Gross Domestic Product for Duluth, MN-WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP20260                 | Total Gross Domestic Product for Duluth, MN-WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA20260            | Market Hotness: Nielsen Household Rank in Duluth, MN-WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA120260          | U.S. Granted Utility Patents Originating in Duluth, MN-WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU20260            | Housing Inventory: Pending Listing Count in Duluth, MN-WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU20260            | Housing Inventory: Price Reduced Count in Duluth, MN-WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM20260          | Housing Inventory: Price Reduced Count Month-Over-Month in Duluth, MN-WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY20260          | Housing Inventory: Price Reduced Count Year-Over-Year in Duluth, MN-WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP20260                 | Total Quantity Indexes for Real GDP for Duluth, MN-WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP20260                 | Total Real Gross Domestic Product for Duluth, MN-WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP20260                 | Total Quantity Indexes for Real GDP for Duluth, MN-WI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP20260                 | Total Real Gross Domestic Product for Duluth, MN-WI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI20260                  | Real Personal Income for Duluth, MN-WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC20260                | Real Per Capita Personal Income for Duluth, MN-WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL20260               | Regional Price Parities: All Items for Duluth, MN-WI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

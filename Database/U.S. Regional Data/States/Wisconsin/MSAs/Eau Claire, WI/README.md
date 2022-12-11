@@ -35,18 +35,18 @@
 | EAUC755TRADN              | All Employees: Trade, Transportation, and Utilities in Eau Claire, WI (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | EAUC755UR                 | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | EAUC755URN                | Unemployment Rate in Eau Claire, WI (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
-| ENUC207430010             | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC207430010SA           | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC207440010             | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC207440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC207440110             | Average Weekly Wages for Employees in Federal Government Establishments in Eau Claire, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC207440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Eau Claire, WI (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC207440210             | Average Weekly Wages for Employees in State Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-01-01        |
-| ENUC207440210SA           | Average Weekly Wages for Employees in State Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-01-01        |
-| ENUC207440310             | Average Weekly Wages for Employees in Local Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-01-01        |
-| ENUC207440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-01-01        |
-| ENUC207440510             | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC207440510SA           | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC207430010             | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC207430010SA           | Total Quarterly Wages in Eau Claire, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC207440010             | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC207440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Eau Claire, WI (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC207440110             | Average Weekly Wages for Employees in Federal Government Establishments in Eau Claire, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC207440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Eau Claire, WI (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC207440210             | Average Weekly Wages for Employees in State Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-04-01        |
+| ENUC207440210SA           | Average Weekly Wages for Employees in State Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-04-01        |
+| ENUC207440310             | Average Weekly Wages for Employees in Local Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-04-01        |
+| ENUC207440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Eau Claire, WI (MSA)                   | 2002-04-01          | 2022-04-01        |
+| ENUC207440510             | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC207440510SA           | Average Weekly Wages for Employees in Private Establishments in Eau Claire, WI (MSA)                            | 1990-01-01          | 2022-04-01        |
 | EVCPOP                    | Resident Population in Eau Claire, WI (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA20740            | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA20740              | Market Hotness: Hotness Rank in Eau Claire, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU20740            | Housing Inventory: New Listing Count in Eau Claire, WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM20740          | Housing Inventory: New Listing Count Month-Over-Month in Eau Claire, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY20740          | Housing Inventory: New Listing Count Year-Over-Year in Eau Claire, WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP20740                 | Total Gross Domestic Product for Eau Claire, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP20740                 | Total Gross Domestic Product for Eau Claire, WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA20740            | Market Hotness: Nielsen Household Rank in Eau Claire, WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA120740          | U.S. Granted Utility Patents Originating in Eau Claire, WI (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU20740            | Housing Inventory: Pending Listing Count in Eau Claire, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU20740            | Housing Inventory: Price Reduced Count in Eau Claire, WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM20740          | Housing Inventory: Price Reduced Count Month-Over-Month in Eau Claire, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY20740          | Housing Inventory: Price Reduced Count Year-Over-Year in Eau Claire, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP20740                 | Total Quantity Indexes for Real GDP for Eau Claire, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP20740                 | Total Real Gross Domestic Product for Eau Claire, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP20740                 | Total Quantity Indexes for Real GDP for Eau Claire, WI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP20740                 | Total Real Gross Domestic Product for Eau Claire, WI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI20740                  | Real Personal Income for Eau Claire, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC20740                | Real Per Capita Personal Income for Eau Claire, WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL20740               | Regional Price Parities: All Items for Eau Claire, WI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

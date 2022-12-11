@@ -7,18 +7,18 @@
 | AVELISPRI27860            | Housing Inventory: Average Listing Price in Jonesboro, AR (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM27860          | Housing Inventory: Average Listing Price Month-Over-Month in Jonesboro, AR (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY27860          | Housing Inventory: Average Listing Price Year-Over-Year in Jonesboro, AR (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC278630010             | Total Quarterly Wages in Jonesboro, AR (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC278630010SA           | Total Quarterly Wages in Jonesboro, AR (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC278640010             | Average Weekly Wages for Employees in Total Covered Establishments in Jonesboro, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC278640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jonesboro, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC278640110             | Average Weekly Wages for Employees in Federal Government Establishments in Jonesboro, AR (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC278640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jonesboro, AR (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC278640210             | Average Weekly Wages for Employees in State Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC278640210SA           | Average Weekly Wages for Employees in State Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC278640310             | Average Weekly Wages for Employees in Local Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC278640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC278640510             | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC278640510SA           | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC278630010             | Total Quarterly Wages in Jonesboro, AR (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC278630010SA           | Total Quarterly Wages in Jonesboro, AR (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC278640010             | Average Weekly Wages for Employees in Total Covered Establishments in Jonesboro, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC278640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jonesboro, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC278640110             | Average Weekly Wages for Employees in Federal Government Establishments in Jonesboro, AR (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC278640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jonesboro, AR (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC278640210             | Average Weekly Wages for Employees in State Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC278640210SA           | Average Weekly Wages for Employees in State Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC278640310             | Average Weekly Wages for Employees in Local Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC278640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jonesboro, AR (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC278640510             | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC278640510SA           | Average Weekly Wages for Employees in Private Establishments in Jonesboro, AR (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD27860                 | Implicit Regional Price Deflator for Jonesboro, AR (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | JORGOVT                   | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | JORGOVTN                  | All Employees: Government in Jonesboro, AR (MSA)                                                 | 1990-01-01          | 2022-10-01        |
@@ -51,7 +51,7 @@
 | NEWLISCOU27860            | Housing Inventory: New Listing Count in Jonesboro, AR (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM27860          | Housing Inventory: New Listing Count Month-Over-Month in Jonesboro, AR (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY27860          | Housing Inventory: New Listing Count Year-Over-Year in Jonesboro, AR (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP27860                 | Total Gross Domestic Product for Jonesboro, AR (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP27860                 | Total Gross Domestic Product for Jonesboro, AR (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA127860          | U.S. Granted Utility Patents Originating in Jonesboro, AR (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU27860            | Housing Inventory: Pending Listing Count in Jonesboro, AR (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM27860          | Housing Inventory: Pending Listing Count Month-Over-Month in Jonesboro, AR (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -62,8 +62,8 @@
 | PRIREDCOU27860            | Housing Inventory: Price Reduced Count in Jonesboro, AR (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM27860          | Housing Inventory: Price Reduced Count Month-Over-Month in Jonesboro, AR (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY27860          | Housing Inventory: Price Reduced Count Year-Over-Year in Jonesboro, AR (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP27860                 | Total Quantity Indexes for Real GDP for Jonesboro, AR (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP27860                 | Total Real Gross Domestic Product for Jonesboro, AR (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP27860                 | Total Quantity Indexes for Real GDP for Jonesboro, AR (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP27860                 | Total Real Gross Domestic Product for Jonesboro, AR (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI27860                  | Real Personal Income for Jonesboro, AR (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC27860                | Real Per Capita Personal Income for Jonesboro, AR (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL27860               | Regional Price Parities: All Items for Jonesboro, AR (MSA)                                       | 2008-01-01          | 2020-01-01        |

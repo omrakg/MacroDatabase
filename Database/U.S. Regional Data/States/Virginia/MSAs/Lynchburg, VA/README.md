@@ -8,18 +8,18 @@
 | AVELISPRIMM31340          | Housing Inventory: Average Listing Price Month-Over-Month in Lynchburg, VA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY31340          | Housing Inventory: Average Listing Price Year-Over-Year in Lynchburg, VA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA31340              | Market Hotness: Demand Score in Lynchburg, VA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC313430010             | Total Quarterly Wages in Lynchburg, VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC313430010SA           | Total Quarterly Wages in Lynchburg, VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC313440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lynchburg, VA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC313440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lynchburg, VA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC313440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lynchburg, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC313440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lynchburg, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC313440210             | Average Weekly Wages for Employees in State Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2022-01-01        |
-| ENUC313440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2022-01-01        |
-| ENUC313440310             | Average Weekly Wages for Employees in Local Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2022-01-01        |
-| ENUC313440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2022-01-01        |
-| ENUC313440510             | Average Weekly Wages for Employees in Private Establishments in Lynchburg, VA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC313440510SA           | Average Weekly Wages for Employees in Private Establishments in Lynchburg, VA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC313430010             | Total Quarterly Wages in Lynchburg, VA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC313430010SA           | Total Quarterly Wages in Lynchburg, VA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC313440010             | Average Weekly Wages for Employees in Total Covered Establishments in Lynchburg, VA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC313440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lynchburg, VA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC313440110             | Average Weekly Wages for Employees in Federal Government Establishments in Lynchburg, VA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC313440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lynchburg, VA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC313440210             | Average Weekly Wages for Employees in State Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2022-04-01        |
+| ENUC313440210SA           | Average Weekly Wages for Employees in State Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2022-04-01        |
+| ENUC313440310             | Average Weekly Wages for Employees in Local Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2022-04-01        |
+| ENUC313440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lynchburg, VA (MSA)                   | 2012-04-01          | 2022-04-01        |
+| ENUC313440510             | Average Weekly Wages for Employees in Private Establishments in Lynchburg, VA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC313440510SA           | Average Weekly Wages for Employees in Private Establishments in Lynchburg, VA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA31340            | Market Hotness: Hotness Rank in Lynchburg, VA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA31340              | Market Hotness: Hotness Rank in Lynchburg, VA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA31340            | Market Hotness: Hotness Rank in Lynchburg, VA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -73,7 +73,7 @@
 | NEWLISCOU31340            | Housing Inventory: New Listing Count in Lynchburg, VA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM31340          | Housing Inventory: New Listing Count Month-Over-Month in Lynchburg, VA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY31340          | Housing Inventory: New Listing Count Year-Over-Year in Lynchburg, VA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP31340                 | Total Gross Domestic Product for Lynchburg, VA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP31340                 | Total Gross Domestic Product for Lynchburg, VA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA31340            | Market Hotness: Nielsen Household Rank in Lynchburg, VA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA131340          | U.S. Granted Utility Patents Originating in Lynchburg, VA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU31340            | Housing Inventory: Pending Listing Count in Lynchburg, VA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -85,8 +85,8 @@
 | PRIREDCOU31340            | Housing Inventory: Price Reduced Count in Lynchburg, VA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM31340          | Housing Inventory: Price Reduced Count Month-Over-Month in Lynchburg, VA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY31340          | Housing Inventory: Price Reduced Count Year-Over-Year in Lynchburg, VA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP31340                 | Total Quantity Indexes for Real GDP for Lynchburg, VA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP31340                 | Total Real Gross Domestic Product for Lynchburg, VA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP31340                 | Total Quantity Indexes for Real GDP for Lynchburg, VA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP31340                 | Total Real Gross Domestic Product for Lynchburg, VA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI31340                  | Real Personal Income for Lynchburg, VA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC31340                | Real Per Capita Personal Income for Lynchburg, VA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL31340               | Regional Price Parities: All Items for Lynchburg, VA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

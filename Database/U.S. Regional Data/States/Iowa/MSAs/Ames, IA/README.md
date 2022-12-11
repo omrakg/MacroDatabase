@@ -17,14 +17,14 @@
 | AVELISPRI11180            | Housing Inventory: Average Listing Price in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM11180          | Housing Inventory: Average Listing Price Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY11180          | Housing Inventory: Average Listing Price Year-Over-Year in Ames, IA (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC111830010             | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC111830010SA           | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC111840010             | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC111840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC111840110             | Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC111840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC111840510             | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC111840510SA           | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC111830010             | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC111830010SA           | Total Quarterly Wages in Ames, IA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC111840010             | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC111840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ames, IA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC111840110             | Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC111840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ames, IA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC111840510             | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC111840510SA           | Average Weekly Wages for Employees in Private Establishments in Ames, IA (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD11180                 | Implicit Regional Price Deflator for Ames, IA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT191118000000003A     | Unemployment Rate in Ames, IA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT191118000000004      | Unemployed Persons in Ames, IA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -47,7 +47,7 @@
 | NEWLISCOU11180            | Housing Inventory: New Listing Count in Ames, IA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM11180          | Housing Inventory: New Listing Count Month-Over-Month in Ames, IA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY11180          | Housing Inventory: New Listing Count Year-Over-Year in Ames, IA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP11180                 | Total Gross Domestic Product for Ames, IA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP11180                 | Total Gross Domestic Product for Ames, IA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA111180          | U.S. Granted Utility Patents Originating in Ames, IA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU11180            | Housing Inventory: Pending Listing Count in Ames, IA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM11180          | Housing Inventory: Pending Listing Count Month-Over-Month in Ames, IA (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -58,8 +58,8 @@
 | PRIREDCOU11180            | Housing Inventory: Price Reduced Count in Ames, IA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM11180          | Housing Inventory: Price Reduced Count Month-Over-Month in Ames, IA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY11180          | Housing Inventory: Price Reduced Count Year-Over-Year in Ames, IA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP11180                 | Total Quantity Indexes for Real GDP for Ames, IA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP11180                 | Total Real Gross Domestic Product for Ames, IA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP11180                 | Total Quantity Indexes for Real GDP for Ames, IA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP11180                 | Total Real Gross Domestic Product for Ames, IA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI11180                  | Real Personal Income for Ames, IA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC11180                | Real Per Capita Personal Income for Ames, IA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL11180               | Regional Price Parities: All Items for Ames, IA (MSA)                                       | 2008-01-01          | 2020-01-01        |

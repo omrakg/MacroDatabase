@@ -7,18 +7,18 @@
 | AVELISPRI30020            | Housing Inventory: Average Listing Price in Lawton, OK (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM30020          | Housing Inventory: Average Listing Price Month-Over-Month in Lawton, OK (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY30020          | Housing Inventory: Average Listing Price Year-Over-Year in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC300230010             | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC300230010SA           | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC300240010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC300240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC300240110             | Average Weekly Wages for Employees in Federal Government Establishments in Lawton, OK (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC300240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lawton, OK (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC300240210             | Average Weekly Wages for Employees in State Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC300240210SA           | Average Weekly Wages for Employees in State Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC300240310             | Average Weekly Wages for Employees in Local Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC300240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC300240510             | Average Weekly Wages for Employees in Private Establishments in Lawton, OK (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC300240510SA           | Average Weekly Wages for Employees in Private Establishments in Lawton, OK (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC300230010             | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC300230010SA           | Total Quarterly Wages in Lawton, OK (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC300240010             | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC300240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lawton, OK (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC300240110             | Average Weekly Wages for Employees in Federal Government Establishments in Lawton, OK (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC300240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lawton, OK (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC300240210             | Average Weekly Wages for Employees in State Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC300240210SA           | Average Weekly Wages for Employees in State Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC300240310             | Average Weekly Wages for Employees in Local Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC300240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lawton, OK (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC300240510             | Average Weekly Wages for Employees in Private Establishments in Lawton, OK (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC300240510SA           | Average Weekly Wages for Employees in Private Establishments in Lawton, OK (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD30020                 | Implicit Regional Price Deflator for Lawton, OK (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LATPOP                    | Resident Population in Lawton, OK (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | LAUMT403002000000003A     | Unemployment Rate in Lawton, OK (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU30020            | Housing Inventory: New Listing Count in Lawton, OK (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM30020          | Housing Inventory: New Listing Count Month-Over-Month in Lawton, OK (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY30020          | Housing Inventory: New Listing Count Year-Over-Year in Lawton, OK (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP30020                 | Total Gross Domestic Product for Lawton, OK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP30020                 | Total Gross Domestic Product for Lawton, OK (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA130020          | U.S. Granted Utility Patents Originating in Lawton, OK (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU30020            | Housing Inventory: Pending Listing Count in Lawton, OK (CBSA)                                               | 2017-03-01          | 2022-11-01        |
 | PENLISCOUMM30020          | Housing Inventory: Pending Listing Count Month-Over-Month in Lawton, OK (CBSA)                              | 2017-10-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU30020            | Housing Inventory: Price Reduced Count in Lawton, OK (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM30020          | Housing Inventory: Price Reduced Count Month-Over-Month in Lawton, OK (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY30020          | Housing Inventory: Price Reduced Count Year-Over-Year in Lawton, OK (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP30020                 | Total Quantity Indexes for Real GDP for Lawton, OK (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP30020                 | Total Real Gross Domestic Product for Lawton, OK (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP30020                 | Total Quantity Indexes for Real GDP for Lawton, OK (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP30020                 | Total Real Gross Domestic Product for Lawton, OK (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI30020                  | Real Personal Income for Lawton, OK (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC30020                | Real Per Capita Personal Income for Lawton, OK (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL30020               | Regional Price Parities: All Items for Lawton, OK (MSA)                                                     | 2008-01-01          | 2020-01-01        |

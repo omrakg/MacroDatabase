@@ -8,16 +8,16 @@
 | AVELISPRIMM41540          | Housing Inventory: Average Listing Price Month-Over-Month in Salisbury, MD-DE (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY41540          | Housing Inventory: Average Listing Price Year-Over-Year in Salisbury, MD-DE (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA41540              | Market Hotness: Demand Score in Salisbury, MD-DE (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC415430010             | Total Quarterly Wages in Salisbury, MD-DE (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC415430010SA           | Total Quarterly Wages in Salisbury, MD-DE (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC415440010             | Average Weekly Wages for Employees in Total Covered Establishments in Salisbury, MD (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ENUC415440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salisbury, MD (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ENUC415440110             | Average Weekly Wages for Employees in Federal Government Establishments in Salisbury, MD (MSA)                    | 1990-01-01          | 2022-01-01        |
-| ENUC415440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salisbury, MD (MSA)                    | 1990-01-01          | 2022-01-01        |
+| ENUC415430010             | Total Quarterly Wages in Salisbury, MD-DE (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC415430010SA           | Total Quarterly Wages in Salisbury, MD-DE (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC415440010             | Average Weekly Wages for Employees in Total Covered Establishments in Salisbury, MD (MSA)                         | 1990-01-01          | 2022-04-01        |
+| ENUC415440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salisbury, MD (MSA)                         | 1990-01-01          | 2022-04-01        |
+| ENUC415440110             | Average Weekly Wages for Employees in Federal Government Establishments in Salisbury, MD (MSA)                    | 1990-01-01          | 2022-04-01        |
+| ENUC415440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salisbury, MD (MSA)                    | 1990-01-01          | 2022-04-01        |
 | ENUC415440210             | Average Weekly Wages for Employees in State Government Establishments in Salisbury, MD (MSA)                      | 1990-01-01          | 2022-01-01        |
 | ENUC415440310             | Average Weekly Wages for Employees in Local Government Establishments in Salisbury, MD (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC415440510             | Average Weekly Wages for Employees in Private Establishments in Salisbury, MD (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC415440510SA           | Average Weekly Wages for Employees in Private Establishments in Salisbury, MD (MSA)                               | 1990-01-01          | 2022-01-01        |
+| ENUC415440510             | Average Weekly Wages for Employees in Private Establishments in Salisbury, MD (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC415440510SA           | Average Weekly Wages for Employees in Private Establishments in Salisbury, MD (MSA)                               | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA41540            | Market Hotness: Hotness Rank in Salisbury, MD-DE (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA41540              | Market Hotness: Hotness Rank in Salisbury, MD-DE (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA41540            | Market Hotness: Hotness Rank in Salisbury, MD-DE (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -57,7 +57,7 @@
 | NEWLISCOU41540            | Housing Inventory: New Listing Count in Salisbury, MD-DE (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM41540          | Housing Inventory: New Listing Count Month-Over-Month in Salisbury, MD-DE (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY41540          | Housing Inventory: New Listing Count Year-Over-Year in Salisbury, MD-DE (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP41540                 | Total Gross Domestic Product for Salisbury, MD-DE (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP41540                 | Total Gross Domestic Product for Salisbury, MD-DE (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA41540            | Market Hotness: Nielsen Household Rank in Salisbury, MD-DE (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA141540          | U.S. Granted Utility Patents Originating in Salisbury, MD (MSA)                                                   | 2000-01-01          | 2015-01-01        |
 | PENLISCOU41540            | Housing Inventory: Pending Listing Count in Salisbury, MD-DE (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -69,8 +69,8 @@
 | PRIREDCOU41540            | Housing Inventory: Price Reduced Count in Salisbury, MD-DE (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM41540          | Housing Inventory: Price Reduced Count Month-Over-Month in Salisbury, MD-DE (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY41540          | Housing Inventory: Price Reduced Count Year-Over-Year in Salisbury, MD-DE (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP41540                 | Total Quantity Indexes for Real GDP for Salisbury, MD-DE (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP41540                 | Total Real Gross Domestic Product for Salisbury, MD-DE (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP41540                 | Total Quantity Indexes for Real GDP for Salisbury, MD-DE (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP41540                 | Total Real Gross Domestic Product for Salisbury, MD-DE (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI41540                  | Real Personal Income for Salisbury, MD-DE (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC41540                | Real Per Capita Personal Income for Salisbury, MD-DE (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL41540               | Regional Price Parities: All Items for Salisbury, MD-DE (MSA)                                                     | 2008-01-01          | 2020-01-01        |

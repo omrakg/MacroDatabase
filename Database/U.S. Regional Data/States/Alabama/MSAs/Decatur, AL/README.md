@@ -36,18 +36,18 @@
 | DECA401UR                 | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DECA401URN                | Unemployment Rate in Decatur, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA19460              | Market Hotness: Demand Score in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC194630010             | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC194630010SA           | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC194640010             | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC194640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC194640110             | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC194640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC194640210             | Average Weekly Wages for Employees in State Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC194640210SA           | Average Weekly Wages for Employees in State Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC194640310             | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC194640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC194640510             | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC194640510SA           | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC194630010             | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC194630010SA           | Total Quarterly Wages in Decatur, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC194640010             | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC194640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Decatur, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC194640110             | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC194640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Decatur, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC194640210             | Average Weekly Wages for Employees in State Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC194640210SA           | Average Weekly Wages for Employees in State Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC194640310             | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC194640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Decatur, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC194640510             | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC194640510SA           | Average Weekly Wages for Employees in Private Establishments in Decatur, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA19460            | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA19460              | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA19460            | Market Hotness: Hotness Rank in Decatur, AL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -88,7 +88,7 @@
 | NEWLISCOU19460            | Housing Inventory: New Listing Count in Decatur, AL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM19460          | Housing Inventory: New Listing Count Month-Over-Month in Decatur, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY19460          | Housing Inventory: New Listing Count Year-Over-Year in Decatur, AL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP19460                 | Total Gross Domestic Product for Decatur, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP19460                 | Total Gross Domestic Product for Decatur, AL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA19460            | Market Hotness: Nielsen Household Rank in Decatur, AL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA119460          | U.S. Granted Utility Patents Originating in Decatur, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU19460            | Housing Inventory: Pending Listing Count in Decatur, AL (CBSA)                                               | 2017-03-01          | 2022-11-01        |
@@ -100,8 +100,8 @@
 | PRIREDCOU19460            | Housing Inventory: Price Reduced Count in Decatur, AL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM19460          | Housing Inventory: Price Reduced Count Month-Over-Month in Decatur, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY19460          | Housing Inventory: Price Reduced Count Year-Over-Year in Decatur, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP19460                 | Total Quantity Indexes for Real GDP for Decatur, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP19460                 | Total Real Gross Domestic Product for Decatur, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP19460                 | Total Quantity Indexes for Real GDP for Decatur, AL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP19460                 | Total Real Gross Domestic Product for Decatur, AL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI19460                  | Real Personal Income for Decatur, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPI19500                  | Real Personal Income for Decatur, IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC19460                | Real Per Capita Personal Income for Decatur, AL (MSA)                                                        | 2008-01-01          | 2020-01-01        |

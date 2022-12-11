@@ -7,18 +7,18 @@
 | AVELISPRI47020            | Housing Inventory: Average Listing Price in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM47020          | Housing Inventory: Average Listing Price Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY47020          | Housing Inventory: Average Listing Price Year-Over-Year in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC470230010             | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC470230010SA           | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC470240010             | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC470240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC470240110             | Average Weekly Wages for Employees in Federal Government Establishments in Victoria, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC470240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Victoria, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC470240210             | Average Weekly Wages for Employees in State Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC470240210SA           | Average Weekly Wages for Employees in State Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC470240310             | Average Weekly Wages for Employees in Local Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC470240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC470240510             | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC470240510SA           | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC470230010             | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC470230010SA           | Total Quarterly Wages in Victoria, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC470240010             | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC470240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Victoria, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC470240110             | Average Weekly Wages for Employees in Federal Government Establishments in Victoria, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC470240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Victoria, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC470240210             | Average Weekly Wages for Employees in State Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC470240210SA           | Average Weekly Wages for Employees in State Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC470240310             | Average Weekly Wages for Employees in Local Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC470240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Victoria, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC470240510             | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC470240510SA           | Average Weekly Wages for Employees in Private Establishments in Victoria, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD47020                 | Implicit Regional Price Deflator for Victoria, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484702000000003A     | Unemployment Rate in Victoria, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT484702000000004      | Unemployed Persons in Victoria, TX (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU47020            | Housing Inventory: New Listing Count in Victoria, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM47020          | Housing Inventory: New Listing Count Month-Over-Month in Victoria, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY47020          | Housing Inventory: New Listing Count Year-Over-Year in Victoria, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP47020                 | Total Gross Domestic Product for Victoria, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP47020                 | Total Gross Domestic Product for Victoria, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA147020          | U.S. Granted Utility Patents Originating in Victoria, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU47020            | Housing Inventory: Pending Listing Count in Victoria, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM47020          | Housing Inventory: Pending Listing Count Month-Over-Month in Victoria, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -52,8 +52,8 @@
 | PRIREDCOU47020            | Housing Inventory: Price Reduced Count in Victoria, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM47020          | Housing Inventory: Price Reduced Count Month-Over-Month in Victoria, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY47020          | Housing Inventory: Price Reduced Count Year-Over-Year in Victoria, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP47020                 | Total Quantity Indexes for Real GDP for Victoria, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP47020                 | Total Real Gross Domestic Product for Victoria, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP47020                 | Total Quantity Indexes for Real GDP for Victoria, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP47020                 | Total Real Gross Domestic Product for Victoria, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI47020                  | Real Personal Income for Victoria, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC47020                | Real Per Capita Personal Income for Victoria, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL47020               | Regional Price Parities: All Items for Victoria, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

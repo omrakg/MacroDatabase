@@ -5,7 +5,7 @@
 | Johnson County, MO        |               145 |
 | Ozark County, MO          |                89 |
 | Worth County, MO          |                89 |
-| Wayne County, MO          |                88 |
+| Wayne County, MO          |                 0 |
 | Cape Girardeau County, MO |               147 |
 | Schuyler County, MO       |                88 |
 | St. Louis County, MO      |               147 |
@@ -22,7 +22,7 @@
 | Cedar County, MO          |                88 |
 | St. Louis City, MO        |               146 |
 | Dallas County, MO         |                90 |
-| St. Charles County, MO    |                 0 |
+| St. Charles County, MO    |               147 |
 | Gentry County, MO         |                88 |
 | Macon County, MO          |                90 |
 | Cass County, MO           |               147 |
@@ -65,7 +65,7 @@
 | Pemiscot County, MO       |                89 |
 | Clark County, MO          |                89 |
 | Clinton County, MO        |                90 |
-| Stone County, MO          |                90 |
+| Stone County, MO          |                 0 |
 | Newton County, MO         |               145 |
 | Platte County, MO         |               147 |
 | St. Clair County, MO      |                89 |
@@ -82,7 +82,7 @@
 | Dent County, MO           |                89 |
 | Franklin County, MO       |               146 |
 | Montgomery County, MO     |                89 |
-| Ste. Genevieve County, MO |                 0 |
+| Ste. Genevieve County, MO |                89 |
 | Lawrence County, MO       |                90 |
 | Polk County, MO           |                90 |
 | Sullivan County, MO       |                89 |

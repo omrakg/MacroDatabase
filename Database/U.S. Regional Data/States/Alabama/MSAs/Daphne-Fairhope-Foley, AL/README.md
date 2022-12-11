@@ -3,18 +3,18 @@
 | ATNHPIUS19300Q         | All-Transactions House Price Index for Daphne-Fairhope-Foley, AL (MSA)                                     | 1989-07-01          | 2022-07-01        |
 | DAFPOP                 | Resident Population in Daphne-Fairhope-Foley, AL (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | DFHF901PCPI            | Per Capita Personal Income in Daphne-Fairhope-Foley, AL (MSA)                                              | 1969-01-01          | 2021-01-01        |
-| ENUC193030010          | Total Quarterly Wages in Daphne-Fairhope-Foley, AL (MSA)                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC193030010SA        | Total Quarterly Wages in Daphne-Fairhope-Foley, AL (MSA)                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC193040010          | Average Weekly Wages for Employees in Total Covered Establishments in Daphne-Fairhope-Foley, AL (MSA)      | 2013-01-01          | 2022-01-01        |
-| ENUC193040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Daphne-Fairhope-Foley, AL (MSA)      | 2013-01-01          | 2022-01-01        |
-| ENUC193040110          | Average Weekly Wages for Employees in Federal Government Establishments in Daphne-Fairhope-Foley, AL (MSA) | 2013-01-01          | 2022-01-01        |
-| ENUC193040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Daphne-Fairhope-Foley, AL (MSA) | 2013-01-01          | 2022-01-01        |
-| ENUC193040210          | Average Weekly Wages for Employees in State Government Establishments in Daphne-Fairhope-Foley, AL (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC193040210SA        | Average Weekly Wages for Employees in State Government Establishments in Daphne-Fairhope-Foley, AL (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC193040310          | Average Weekly Wages for Employees in Local Government Establishments in Daphne-Fairhope-Foley, AL (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC193040310SA        | Average Weekly Wages for Employees in Local Government Establishments in Daphne-Fairhope-Foley, AL (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC193040510          | Average Weekly Wages for Employees in Private Establishments in Daphne-Fairhope-Foley, AL (MSA)            | 2013-01-01          | 2022-01-01        |
-| ENUC193040510SA        | Average Weekly Wages for Employees in Private Establishments in Daphne-Fairhope-Foley, AL (MSA)            | 2013-01-01          | 2022-01-01        |
+| ENUC193030010          | Total Quarterly Wages in Daphne-Fairhope-Foley, AL (MSA)                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC193030010SA        | Total Quarterly Wages in Daphne-Fairhope-Foley, AL (MSA)                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC193040010          | Average Weekly Wages for Employees in Total Covered Establishments in Daphne-Fairhope-Foley, AL (MSA)      | 2013-01-01          | 2022-04-01        |
+| ENUC193040010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Daphne-Fairhope-Foley, AL (MSA)      | 2013-01-01          | 2022-04-01        |
+| ENUC193040110          | Average Weekly Wages for Employees in Federal Government Establishments in Daphne-Fairhope-Foley, AL (MSA) | 2013-01-01          | 2022-04-01        |
+| ENUC193040110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Daphne-Fairhope-Foley, AL (MSA) | 2013-01-01          | 2022-04-01        |
+| ENUC193040210          | Average Weekly Wages for Employees in State Government Establishments in Daphne-Fairhope-Foley, AL (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC193040210SA        | Average Weekly Wages for Employees in State Government Establishments in Daphne-Fairhope-Foley, AL (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC193040310          | Average Weekly Wages for Employees in Local Government Establishments in Daphne-Fairhope-Foley, AL (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC193040310SA        | Average Weekly Wages for Employees in Local Government Establishments in Daphne-Fairhope-Foley, AL (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC193040510          | Average Weekly Wages for Employees in Private Establishments in Daphne-Fairhope-Foley, AL (MSA)            | 2013-01-01          | 2022-04-01        |
+| ENUC193040510SA        | Average Weekly Wages for Employees in Private Establishments in Daphne-Fairhope-Foley, AL (MSA)            | 2013-01-01          | 2022-04-01        |
 | IRPD19300              | Implicit Regional Price Deflator for Daphne-Fairhope-Foley, AL (MSA)                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT011930000000003   | Unemployment Rate in Daphne-Fairhope-Foley, AL (MSA)                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT011930000000003A  | Unemployment Rate in Daphne-Fairhope-Foley, AL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
@@ -24,9 +24,9 @@
 | LAUMT011930000000005A  | Employed Persons in Daphne-Fairhope-Foley, AL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT011930000000006   | Civilian Labor Force in Daphne-Fairhope-Foley, AL (MSA)                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT011930000000006A  | Civilian Labor Force in Daphne-Fairhope-Foley, AL (MSA)                                                    | 1990-01-01          | 2021-01-01        |
-| NGMP19300              | Total Gross Domestic Product for Daphne-Fairhope-Foley, AL (MSA)                                           | 2001-01-01          | 2020-01-01        |
-| QGMP19300              | Total Quantity Indexes for Real GDP for Daphne-Fairhope-Foley, AL (MSA)                                    | 2001-01-01          | 2020-01-01        |
-| RGMP19300              | Total Real Gross Domestic Product for Daphne-Fairhope-Foley, AL (MSA)                                      | 2001-01-01          | 2020-01-01        |
+| NGMP19300              | Total Gross Domestic Product for Daphne-Fairhope-Foley, AL (MSA)                                           | 2001-01-01          | 2021-01-01        |
+| QGMP19300              | Total Quantity Indexes for Real GDP for Daphne-Fairhope-Foley, AL (MSA)                                    | 2001-01-01          | 2021-01-01        |
+| RGMP19300              | Total Real Gross Domestic Product for Daphne-Fairhope-Foley, AL (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RPI19300               | Real Personal Income for Daphne-Fairhope-Foley, AL (MSA)                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC19300             | Real Per Capita Personal Income for Daphne-Fairhope-Foley, AL (MSA)                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL19300            | Regional Price Parities: All Items for Daphne-Fairhope-Foley, AL (MSA)                                     | 2008-01-01          | 2020-01-01        |

@@ -7,18 +7,18 @@
 | AVELISPRI23460            | Housing Inventory: Average Listing Price in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM23460          | Housing Inventory: Average Listing Price Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY23460          | Housing Inventory: Average Listing Price Year-Over-Year in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC234630010             | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC234630010SA           | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC234640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC234640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC234640110             | Average Weekly Wages for Employees in Federal Government Establishments in Gadsden, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC234640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gadsden, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC234640210             | Average Weekly Wages for Employees in State Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC234640210SA           | Average Weekly Wages for Employees in State Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC234640310             | Average Weekly Wages for Employees in Local Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC234640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC234640510             | Average Weekly Wages for Employees in Private Establishments in Gadsden, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC234640510SA           | Average Weekly Wages for Employees in Private Establishments in Gadsden, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC234630010             | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC234630010SA           | Total Quarterly Wages in Gadsden, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC234640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC234640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gadsden, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC234640110             | Average Weekly Wages for Employees in Federal Government Establishments in Gadsden, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC234640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gadsden, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC234640210             | Average Weekly Wages for Employees in State Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC234640210SA           | Average Weekly Wages for Employees in State Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC234640310             | Average Weekly Wages for Employees in Local Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC234640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gadsden, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC234640510             | Average Weekly Wages for Employees in Private Establishments in Gadsden, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC234640510SA           | Average Weekly Wages for Employees in Private Establishments in Gadsden, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | GADPOP                    | Resident Population in Gadsden, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | GADS401EDUH               | All Employees: Education and Health Services in Gadsden, AL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | GADS401EDUHN              | All Employees: Education and Health Services in Gadsden, AL (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU23460            | Housing Inventory: New Listing Count in Gadsden, AL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM23460          | Housing Inventory: New Listing Count Month-Over-Month in Gadsden, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY23460          | Housing Inventory: New Listing Count Year-Over-Year in Gadsden, AL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP23460                 | Total Gross Domestic Product for Gadsden, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP23460                 | Total Gross Domestic Product for Gadsden, AL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA123460          | U.S. Granted Utility Patents Originating in Gadsden, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU23460            | Housing Inventory: Pending Listing Count in Gadsden, AL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM23460          | Housing Inventory: Pending Listing Count Month-Over-Month in Gadsden, AL (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU23460            | Housing Inventory: Price Reduced Count in Gadsden, AL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM23460          | Housing Inventory: Price Reduced Count Month-Over-Month in Gadsden, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY23460          | Housing Inventory: Price Reduced Count Year-Over-Year in Gadsden, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP23460                 | Total Quantity Indexes for Real GDP for Gadsden, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP23460                 | Total Real Gross Domestic Product for Gadsden, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP23460                 | Total Quantity Indexes for Real GDP for Gadsden, AL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP23460                 | Total Real Gross Domestic Product for Gadsden, AL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI23460                  | Real Personal Income for Gadsden, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC23460                | Real Per Capita Personal Income for Gadsden, AL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL23460               | Regional Price Parities: All Items for Gadsden, AL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

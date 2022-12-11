@@ -8,18 +8,18 @@
 | AVELISPRIMM31180          | Housing Inventory: Average Listing Price Month-Over-Month in Lubbock, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY31180          | Housing Inventory: Average Listing Price Year-Over-Year in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA31180              | Market Hotness: Demand Score in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC311830010             | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC311830010SA           | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC311840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC311840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC311840110             | Average Weekly Wages for Employees in Federal Government Establishments in Lubbock, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC311840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lubbock, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC311840210             | Average Weekly Wages for Employees in State Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC311840210SA           | Average Weekly Wages for Employees in State Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC311840310             | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC311840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC311840510             | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC311840510SA           | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC311830010             | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC311830010SA           | Total Quarterly Wages in Lubbock, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC311840010             | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC311840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Lubbock, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC311840110             | Average Weekly Wages for Employees in Federal Government Establishments in Lubbock, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC311840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Lubbock, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC311840210             | Average Weekly Wages for Employees in State Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC311840210SA           | Average Weekly Wages for Employees in State Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC311840310             | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC311840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Lubbock, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC311840510             | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC311840510SA           | Average Weekly Wages for Employees in Private Establishments in Lubbock, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA31180              | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA31180            | Market Hotness: Hotness Rank in Lubbock, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -91,7 +91,7 @@
 | NEWLISCOU31180            | Housing Inventory: New Listing Count in Lubbock, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM31180          | Housing Inventory: New Listing Count Month-Over-Month in Lubbock, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY31180          | Housing Inventory: New Listing Count Year-Over-Year in Lubbock, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP31180                 | Total Gross Domestic Product for Lubbock, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP31180                 | Total Gross Domestic Product for Lubbock, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA31180            | Market Hotness: Nielsen Household Rank in Lubbock, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA131180          | U.S. Granted Utility Patents Originating in Lubbock, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU31180            | Housing Inventory: Pending Listing Count in Lubbock, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PRIREDCOU31180            | Housing Inventory: Price Reduced Count in Lubbock, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM31180          | Housing Inventory: Price Reduced Count Month-Over-Month in Lubbock, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY31180          | Housing Inventory: Price Reduced Count Year-Over-Year in Lubbock, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP31180                 | Total Quantity Indexes for Real GDP for Lubbock, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP31180                 | Total Real Gross Domestic Product for Lubbock, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP31180                 | Total Quantity Indexes for Real GDP for Lubbock, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP31180                 | Total Real Gross Domestic Product for Lubbock, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI31180                  | Real Personal Income for Lubbock, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC31180                | Real Per Capita Personal Income for Lubbock, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL31180               | Regional Price Parities: All Items for Lubbock, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

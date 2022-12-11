@@ -7,18 +7,18 @@
 | AVELISPRIMM41860          | Housing Inventory: Average Listing Price Month-Over-Month in San Francisco-Oakland-Hayward, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY41860          | Housing Inventory: Average Listing Price Year-Over-Year in San Francisco-Oakland-Hayward, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA41860              | Market Hotness: Demand Score in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC418630010             | Total Quarterly Wages in San Francisco-Oakland-Hayward, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC418630010SA           | Total Quarterly Wages in San Francisco-Oakland-Hayward, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC418640010             | Average Weekly Wages for Employees in Total Covered Establishments in San Francisco-Oakland-Fremont, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC418640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in San Francisco-Oakland-Fremont, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC418640110             | Average Weekly Wages for Employees in Federal Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC418640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC418640210             | Average Weekly Wages for Employees in State Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC418640210SA           | Average Weekly Wages for Employees in State Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC418640310             | Average Weekly Wages for Employees in Local Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC418640310SA           | Average Weekly Wages for Employees in Local Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC418640510             | Average Weekly Wages for Employees in Private Establishments in San Francisco-Oakland-Fremont, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC418640510SA           | Average Weekly Wages for Employees in Private Establishments in San Francisco-Oakland-Fremont, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC418630010             | Total Quarterly Wages in San Francisco-Oakland-Hayward, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC418630010SA           | Total Quarterly Wages in San Francisco-Oakland-Hayward, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC418640010             | Average Weekly Wages for Employees in Total Covered Establishments in San Francisco-Oakland-Fremont, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC418640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in San Francisco-Oakland-Fremont, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC418640110             | Average Weekly Wages for Employees in Federal Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC418640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC418640210             | Average Weekly Wages for Employees in State Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC418640210SA           | Average Weekly Wages for Employees in State Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC418640310             | Average Weekly Wages for Employees in Local Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC418640310SA           | Average Weekly Wages for Employees in Local Government Establishments in San Francisco-Oakland-Fremont, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC418640510             | Average Weekly Wages for Employees in Private Establishments in San Francisco-Oakland-Fremont, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC418640510SA           | Average Weekly Wages for Employees in Private Establishments in San Francisco-Oakland-Fremont, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA41860            | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA41860              | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA41860            | Market Hotness: Hotness Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU41860            | Housing Inventory: New Listing Count in San Francisco-Oakland-Hayward, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM41860          | Housing Inventory: New Listing Count Month-Over-Month in San Francisco-Oakland-Hayward, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY41860          | Housing Inventory: New Listing Count Year-Over-Year in San Francisco-Oakland-Hayward, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP41860                 | Total Gross Domestic Product for San Francisco-Oakland-Hayward, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP41860                 | Total Gross Domestic Product for San Francisco-Oakland-Hayward, CA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA41860            | Market Hotness: Nielsen Household Rank in San Francisco-Oakland-Hayward, CA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA141860          | U.S. Granted Utility Patents Originating in San Francisco-Oakland-Fremont, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU41860            | Housing Inventory: Pending Listing Count in San Francisco-Oakland-Hayward, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU41860            | Housing Inventory: Price Reduced Count in San Francisco-Oakland-Hayward, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM41860          | Housing Inventory: Price Reduced Count Month-Over-Month in San Francisco-Oakland-Hayward, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY41860          | Housing Inventory: Price Reduced Count Year-Over-Year in San Francisco-Oakland-Hayward, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP41860                 | Total Quantity Indexes for Real GDP for San Francisco-Oakland-Hayward, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP41860                 | Total Real Gross Domestic Product for San Francisco-Oakland-Hayward, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP41860                 | Total Quantity Indexes for Real GDP for San Francisco-Oakland-Hayward, CA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP41860                 | Total Real Gross Domestic Product for San Francisco-Oakland-Hayward, CA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI41860                  | Real Personal Income for San Francisco-Oakland-Hayward, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC41860                | Real Per Capita Personal Income for San Francisco-Oakland-Hayward, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL41860               | Regional Price Parities: All Items for San Francisco-Oakland-Hayward, CA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -47,18 +47,18 @@
 | CHXRMTSA                  | Home Price Index (Middle Tier) for Chicago, Illinois                                                                                | 1992-01-01          | 2022-09-01        |
 | CHXRPSNSA                 | Home Price Sales Pair Counts for Chicago, Illinois                                                                                  | 1987-01-01          | 2022-09-01        |
 | DESCMSA16980              | Market Hotness: Demand Score in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC169830010             | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC169830010SA           | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC169840010             | Average Weekly Wages for Employees in Total Covered Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                     | 1990-01-01          | 2022-01-01        |
-| ENUC169840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                     | 1990-01-01          | 2022-01-01        |
-| ENUC169840110             | Average Weekly Wages for Employees in Federal Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                | 1990-01-01          | 2022-01-01        |
-| ENUC169840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                | 1990-01-01          | 2022-01-01        |
-| ENUC169840210             | Average Weekly Wages for Employees in State Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2022-01-01        |
-| ENUC169840210SA           | Average Weekly Wages for Employees in State Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2022-01-01        |
-| ENUC169840310             | Average Weekly Wages for Employees in Local Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2022-01-01        |
-| ENUC169840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2022-01-01        |
-| ENUC169840510             | Average Weekly Wages for Employees in Private Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                           | 1990-01-01          | 2022-01-01        |
-| ENUC169840510SA           | Average Weekly Wages for Employees in Private Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                           | 1990-01-01          | 2022-01-01        |
+| ENUC169830010             | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC169830010SA           | Total Quarterly Wages in Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC169840010             | Average Weekly Wages for Employees in Total Covered Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                     | 1990-01-01          | 2022-04-01        |
+| ENUC169840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                     | 1990-01-01          | 2022-04-01        |
+| ENUC169840110             | Average Weekly Wages for Employees in Federal Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                | 1990-01-01          | 2022-04-01        |
+| ENUC169840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                | 1990-01-01          | 2022-04-01        |
+| ENUC169840210             | Average Weekly Wages for Employees in State Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2022-04-01        |
+| ENUC169840210SA           | Average Weekly Wages for Employees in State Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2022-04-01        |
+| ENUC169840310             | Average Weekly Wages for Employees in Local Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2022-04-01        |
+| ENUC169840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                  | 1990-01-01          | 2022-04-01        |
+| ENUC169840510             | Average Weekly Wages for Employees in Private Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                           | 1990-01-01          | 2022-04-01        |
+| ENUC169840510SA           | Average Weekly Wages for Employees in Private Establishments in Chicago-Naperville-Joliet, IL-IN-WI (MSA)                           | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA16980            | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA16980              | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA16980            | Market Hotness: Hotness Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -99,7 +99,7 @@
 | NEWLISCOU16980            | Housing Inventory: New Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM16980          | Housing Inventory: New Listing Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY16980          | Housing Inventory: New Listing Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP16980                 | Total Gross Domestic Product for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP16980                 | Total Gross Domestic Product for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA16980            | Market Hotness: Nielsen Household Rank in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA116980          | U.S. Granted Utility Patents Originating in Chicago-Joliet-Naperville, IL-IN-WI (MSA)                                               | 2000-01-01          | 2015-01-01        |
 | PENLISCOU16980            | Housing Inventory: Pending Listing Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -111,8 +111,8 @@
 | PRIREDCOU16980            | Housing Inventory: Price Reduced Count in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM16980          | Housing Inventory: Price Reduced Count Month-Over-Month in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY16980          | Housing Inventory: Price Reduced Count Year-Over-Year in Chicago-Naperville-Elgin, IL-IN-WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP16980                 | Total Quantity Indexes for Real GDP for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP16980                 | Total Real Gross Domestic Product for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP16980                 | Total Quantity Indexes for Real GDP for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP16980                 | Total Real Gross Domestic Product for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI16980                  | Real Personal Income for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC16980                | Real Per Capita Personal Income for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL16980               | Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -36,18 +36,18 @@
 | DAVE317URN                | Unemployment Rate in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA19340              | Market Hotness: Demand Score in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | DRMPOP                    | Resident Population in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC193430010             | Total Quarterly Wages in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC193430010SA           | Total Quarterly Wages in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC193440010             | Average Weekly Wages for Employees in Total Covered Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC193440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC193440110             | Average Weekly Wages for Employees in Federal Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC193440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC193440210             | Average Weekly Wages for Employees in State Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                   | 2019-10-01          | 2022-01-01        |
-| ENUC193440210SA           | Average Weekly Wages for Employees in State Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                   | 2019-10-01          | 2022-01-01        |
-| ENUC193440310             | Average Weekly Wages for Employees in Local Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                   | 2019-10-01          | 2022-01-01        |
-| ENUC193440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                   | 2019-10-01          | 2022-01-01        |
-| ENUC193440510             | Average Weekly Wages for Employees in Private Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC193440510SA           | Average Weekly Wages for Employees in Private Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC193430010             | Total Quarterly Wages in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC193430010SA           | Total Quarterly Wages in Davenport-Moline-Rock Island, IA-IL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC193440010             | Average Weekly Wages for Employees in Total Covered Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC193440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC193440110             | Average Weekly Wages for Employees in Federal Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC193440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC193440210             | Average Weekly Wages for Employees in State Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                   | 2019-10-01          | 2022-04-01        |
+| ENUC193440210SA           | Average Weekly Wages for Employees in State Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                   | 2019-10-01          | 2022-04-01        |
+| ENUC193440310             | Average Weekly Wages for Employees in Local Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                   | 2019-10-01          | 2022-04-01        |
+| ENUC193440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                   | 2019-10-01          | 2022-04-01        |
+| ENUC193440510             | Average Weekly Wages for Employees in Private Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC193440510SA           | Average Weekly Wages for Employees in Private Establishments in Davenport-Moline-Rock Island, IA-IL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA19340            | Market Hotness: Hotness Rank in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA19340              | Market Hotness: Hotness Rank in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA19340            | Market Hotness: Hotness Rank in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU19340            | Housing Inventory: New Listing Count in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM19340          | Housing Inventory: New Listing Count Month-Over-Month in Davenport-Moline-Rock Island, IA-IL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY19340          | Housing Inventory: New Listing Count Year-Over-Year in Davenport-Moline-Rock Island, IA-IL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP19340                 | Total Gross Domestic Product for Davenport-Moline-Rock Island, IA-IL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP19340                 | Total Gross Domestic Product for Davenport-Moline-Rock Island, IA-IL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA19340            | Market Hotness: Nielsen Household Rank in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA119340          | U.S. Granted Utility Patents Originating in Davenport-Moline-Rock Island, IA-IL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU19340            | Housing Inventory: Pending Listing Count in Davenport-Moline-Rock Island, IA-IL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU19340            | Housing Inventory: Price Reduced Count in Davenport-Moline-Rock Island, IA-IL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM19340          | Housing Inventory: Price Reduced Count Month-Over-Month in Davenport-Moline-Rock Island, IA-IL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY19340          | Housing Inventory: Price Reduced Count Year-Over-Year in Davenport-Moline-Rock Island, IA-IL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP19340                 | Total Quantity Indexes for Real GDP for Davenport-Moline-Rock Island, IA-IL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP19340                 | Total Real Gross Domestic Product for Davenport-Moline-Rock Island, IA-IL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP19340                 | Total Quantity Indexes for Real GDP for Davenport-Moline-Rock Island, IA-IL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP19340                 | Total Real Gross Domestic Product for Davenport-Moline-Rock Island, IA-IL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI19340                  | Real Personal Income for Davenport-Moline-Rock Island, IA-IL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC19340                | Real Per Capita Personal Income for Davenport-Moline-Rock Island, IA-IL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL19340               | Regional Price Parities: All Items for Davenport-Moline-Rock Island, IA-IL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

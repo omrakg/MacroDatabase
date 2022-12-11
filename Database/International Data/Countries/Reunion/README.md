@@ -10,7 +10,7 @@
 | COREUA475SCEN | Number of Identified Exporters to Reunion from Colorado       | 1992-01-01          | 2017-01-01        |
 | CTREUA052SCEN | Value of Exports to Reunion from Connecticut                  | 2006-01-01          | 2016-01-01        |
 | CTREUA475SCEN | Number of Identified Exporters to Reunion from Connecticut    | 2002-01-01          | 2017-01-01        |
-| EXP7904       | U.S. Exports of Goods by F.A.S. Basis to Reunion              | 1992-01-01          | 2022-09-01        |
+| EXP7904       | U.S. Exports of Goods by F.A.S. Basis to Reunion              | 1992-01-01          | 2022-10-01        |
 | FLREUA052SCEN | Value of Exports to Reunion from Florida                      | 1992-01-01          | 2017-01-01        |
 | FLREUA475SCEN | Number of Identified Exporters to Reunion from Florida        | 1992-01-01          | 2017-01-01        |
 | GAREUA052SCEN | Value of Exports to Reunion from Georgia                      | 2003-01-01          | 2017-01-01        |
@@ -21,7 +21,7 @@
 | IDREUA475SCEN | Number of Identified Exporters to Reunion from Idaho          | 2003-01-01          | 2014-01-01        |
 | ILREUA052SCEN | Value of Exports to Reunion from Illinois                     | 1992-01-01          | 2014-01-01        |
 | ILREUA475SCEN | Number of Identified Exporters to Reunion from Illinois       | 1992-01-01          | 2017-01-01        |
-| IMP7904       | U.S. Imports of Goods by Customs Basis from Reunion           | 1992-01-01          | 2022-09-01        |
+| IMP7904       | U.S. Imports of Goods by Customs Basis from Reunion           | 1992-01-01          | 2022-10-01        |
 | INREUA052SCEN | Value of Exports to Reunion from Indiana                      | 2012-01-01          | 2012-01-01        |
 | INREUA475SCEN | Number of Identified Exporters to Reunion from Indiana        | 1992-01-01          | 2016-01-01        |
 | KSREUA475SCEN | Number of Identified Exporters to Reunion from Kansas         | 2004-01-01          | 2016-01-01        |

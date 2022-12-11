@@ -75,7 +75,7 @@
 | DDSM01KWA066NWDB     | Volatility of Stock Price Index for Kuwait                                                                               | 2010-01-01          | 2020-01-01        |
 | DEKWTA052SCEN        | Value of Exports to Kuwait from Delaware                                                                                 | 2002-01-01          | 2013-01-01        |
 | DEKWTA475SCEN        | Number of Identified Exporters to Kuwait from Delaware                                                                   | 1992-01-01          | 2017-01-01        |
-| EXP5130              | U.S. Exports of Goods by F.A.S. Basis to Kuwait                                                                          | 1985-01-01          | 2022-09-01        |
+| EXP5130              | U.S. Exports of Goods by F.A.S. Basis to Kuwait                                                                          | 1985-01-01          | 2022-10-01        |
 | FLKWTA052SCEN        | Value of Exports to Kuwait from Florida                                                                                  | 1992-01-01          | 2017-01-01        |
 | FLKWTA475SCEN        | Number of Identified Exporters to Kuwait from Florida                                                                    | 1992-01-01          | 2017-01-01        |
 | FPCPITOTLZGKWT       | Inflation, consumer prices for Kuwait                                                                                    | 1973-01-01          | 2021-01-01        |
@@ -88,15 +88,15 @@
 | ICBUSEASEXQKWT       | Ease of doing business index for Kuwait                                                                                  | 2019-01-01          | 2019-01-01        |
 | IDKWTA052SCEN        | Value of Exports to Kuwait from Idaho                                                                                    | 1997-01-01          | 2017-01-01        |
 | IDKWTA475SCEN        | Number of Identified Exporters to Kuwait from Idaho                                                                      | 1992-01-01          | 2017-01-01        |
-| IDS1MNIAOAIKW        | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Kuwait | 1978-07-01          | 2022-04-01        |
-| IDS1YMAORIAIKW       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Kuwait   | 1978-07-01          | 2022-04-01        |
-| IDSAMRIAOKW          | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Kuwait       | 1978-07-01          | 2022-04-01        |
-| IDSAMRINIKW          | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Kuwait               | 1978-07-01          | 2022-04-01        |
-| IDSGAMNIAOKW         | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kuwait    | 1978-07-01          | 2022-04-01        |
-| IDSGAMNINIKW         | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kuwait             | 1978-07-01          | 2022-04-01        |
+| IDS1MNIAOAIKW        | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Nationality of Issuer in Kuwait | 1978-07-01          | 2022-07-01        |
+| IDS1YMAORIAIKW       | Amount Outstanding Due within One Year of International Debt Securities for All Issuers, Residence of Issuer in Kuwait   | 1978-07-01          | 2022-07-01        |
+| IDSAMRIAOKW          | Amount Outstanding of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Kuwait       | 1978-07-01          | 2022-07-01        |
+| IDSAMRINIKW          | Net Issues of International Debt Securities for All Issuers, All Maturities, Residence of Issuer in Kuwait               | 1978-07-01          | 2022-07-01        |
+| IDSGAMNIAOKW         | Amounts Outstanding of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kuwait    | 1978-07-01          | 2022-07-01        |
+| IDSGAMNINIKW         | Net Issues of International Debt Securities for All Issuers, All Maturities, Nationality of Issuer in Kuwait             | 1978-07-01          | 2022-07-01        |
 | ILKWTA052SCEN        | Value of Exports to Kuwait from Illinois                                                                                 | 1992-01-01          | 2017-01-01        |
 | ILKWTA475SCEN        | Number of Identified Exporters to Kuwait from Illinois                                                                   | 1992-01-01          | 2017-01-01        |
-| IMP5130              | U.S. Imports of Goods by Customs Basis from Kuwait                                                                       | 1985-01-01          | 2022-09-01        |
+| IMP5130              | U.S. Imports of Goods by Customs Basis from Kuwait                                                                       | 1985-01-01          | 2022-10-01        |
 | INKWTA052SCEN        | Value of Exports to Kuwait from Indiana                                                                                  | 1992-01-01          | 2017-01-01        |
 | INKWTA475SCEN        | Number of Identified Exporters to Kuwait from Indiana                                                                    | 1992-01-01          | 2017-01-01        |
 | ITNETUSERP2KWT       | Internet users for Kuwait                                                                                                | 1990-01-01          | 2020-01-01        |

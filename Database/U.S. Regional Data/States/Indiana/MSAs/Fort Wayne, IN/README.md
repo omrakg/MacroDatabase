@@ -8,18 +8,18 @@
 | AVELISPRIMM23060          | Housing Inventory: Average Listing Price Month-Over-Month in Fort Wayne, IN (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY23060          | Housing Inventory: Average Listing Price Year-Over-Year in Fort Wayne, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA23060              | Market Hotness: Demand Score in Fort Wayne, IN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC230630010             | Total Quarterly Wages in Fort Wayne, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC230630010SA           | Total Quarterly Wages in Fort Wayne, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC230640010             | Average Weekly Wages for Employees in Total Covered Establishments in Fort Wayne, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC230640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fort Wayne, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC230640110             | Average Weekly Wages for Employees in Federal Government Establishments in Fort Wayne, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC230640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fort Wayne, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC230640210             | Average Weekly Wages for Employees in State Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC230640210SA           | Average Weekly Wages for Employees in State Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC230640310             | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC230640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC230640510             | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC230640510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC230630010             | Total Quarterly Wages in Fort Wayne, IN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC230630010SA           | Total Quarterly Wages in Fort Wayne, IN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC230640010             | Average Weekly Wages for Employees in Total Covered Establishments in Fort Wayne, IN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC230640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Fort Wayne, IN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC230640110             | Average Weekly Wages for Employees in Federal Government Establishments in Fort Wayne, IN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC230640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Fort Wayne, IN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC230640210             | Average Weekly Wages for Employees in State Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC230640210SA           | Average Weekly Wages for Employees in State Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC230640310             | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC230640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Fort Wayne, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC230640510             | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC230640510SA           | Average Weekly Wages for Employees in Private Establishments in Fort Wayne, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
 | FORT018BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-10-01        |
 | FORT018BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Fort Wayne, in (MSA)            | 1988-01-01          | 2022-10-01        |
 | FORT018BPPRIV             | New Private Housing Units Authorized by Building Permits for Fort Wayne, in (MSA)                               | 1988-01-01          | 2022-10-01        |
@@ -91,7 +91,7 @@
 | NEWLISCOU23060            | Housing Inventory: New Listing Count in Fort Wayne, IN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM23060          | Housing Inventory: New Listing Count Month-Over-Month in Fort Wayne, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY23060          | Housing Inventory: New Listing Count Year-Over-Year in Fort Wayne, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP23060                 | Total Gross Domestic Product for Fort Wayne, IN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP23060                 | Total Gross Domestic Product for Fort Wayne, IN (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA23060            | Market Hotness: Nielsen Household Rank in Fort Wayne, IN (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA123060          | U.S. Granted Utility Patents Originating in Fort Wayne, IN (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU23060            | Housing Inventory: Pending Listing Count in Fort Wayne, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PRIREDCOU23060            | Housing Inventory: Price Reduced Count in Fort Wayne, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM23060          | Housing Inventory: Price Reduced Count Month-Over-Month in Fort Wayne, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY23060          | Housing Inventory: Price Reduced Count Year-Over-Year in Fort Wayne, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP23060                 | Total Quantity Indexes for Real GDP for Fort Wayne, IN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP23060                 | Total Real Gross Domestic Product for Fort Wayne, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP23060                 | Total Quantity Indexes for Real GDP for Fort Wayne, IN (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP23060                 | Total Real Gross Domestic Product for Fort Wayne, IN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI23060                  | Real Personal Income for Fort Wayne, IN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC23060                | Real Per Capita Personal Income for Fort Wayne, IN (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL23060               | Regional Price Parities: All Items for Fort Wayne, IN (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -36,18 +36,18 @@
 | BURL537URN                | Unemployment Rate in Burlington, NC (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | BURPOP                    | Resident Population in Burlington, NC (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA15500              | Market Hotness: Demand Score in Burlington, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC155030010             | Total Quarterly Wages in Burlington, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC155030010SA           | Total Quarterly Wages in Burlington, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC155040010             | Average Weekly Wages for Employees in Total Covered Establishments in Burlington, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC155040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Burlington, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC155040110             | Average Weekly Wages for Employees in Federal Government Establishments in Burlington, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC155040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Burlington, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC155040210             | Average Weekly Wages for Employees in State Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC155040210SA           | Average Weekly Wages for Employees in State Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC155040310             | Average Weekly Wages for Employees in Local Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC155040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC155040510             | Average Weekly Wages for Employees in Private Establishments in Burlington, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC155040510SA           | Average Weekly Wages for Employees in Private Establishments in Burlington, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC155030010             | Total Quarterly Wages in Burlington, NC (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC155030010SA           | Total Quarterly Wages in Burlington, NC (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC155040010             | Average Weekly Wages for Employees in Total Covered Establishments in Burlington, NC (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC155040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Burlington, NC (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC155040110             | Average Weekly Wages for Employees in Federal Government Establishments in Burlington, NC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC155040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Burlington, NC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC155040210             | Average Weekly Wages for Employees in State Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC155040210SA           | Average Weekly Wages for Employees in State Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC155040310             | Average Weekly Wages for Employees in Local Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC155040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Burlington, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC155040510             | Average Weekly Wages for Employees in Private Establishments in Burlington, NC (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC155040510SA           | Average Weekly Wages for Employees in Private Establishments in Burlington, NC (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA15500            | Market Hotness: Hotness Rank in Burlington, NC (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA15500              | Market Hotness: Hotness Rank in Burlington, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA15500            | Market Hotness: Hotness Rank in Burlington, NC (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU15500            | Housing Inventory: New Listing Count in Burlington, NC (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM15500          | Housing Inventory: New Listing Count Month-Over-Month in Burlington, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY15500          | Housing Inventory: New Listing Count Year-Over-Year in Burlington, NC (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP15500                 | Total Gross Domestic Product for Burlington, NC (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP15500                 | Total Gross Domestic Product for Burlington, NC (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA15500            | Market Hotness: Nielsen Household Rank in Burlington, NC (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA115500          | U.S. Granted Utility Patents Originating in Burlington, NC (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU15500            | Housing Inventory: Pending Listing Count in Burlington, NC (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU15500            | Housing Inventory: Price Reduced Count in Burlington, NC (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM15500          | Housing Inventory: Price Reduced Count Month-Over-Month in Burlington, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY15500          | Housing Inventory: Price Reduced Count Year-Over-Year in Burlington, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP15500                 | Total Quantity Indexes for Real GDP for Burlington, NC (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP15500                 | Total Real Gross Domestic Product for Burlington, NC (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP15500                 | Total Quantity Indexes for Real GDP for Burlington, NC (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP15500                 | Total Real Gross Domestic Product for Burlington, NC (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI15500                  | Real Personal Income for Burlington, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC15500                | Real Per Capita Personal Income for Burlington, NC (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL15500               | Regional Price Parities: All Items for Burlington, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |

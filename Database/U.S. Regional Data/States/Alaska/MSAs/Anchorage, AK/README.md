@@ -38,16 +38,16 @@
 | AVELISPRIMM11260          | Housing Inventory: Average Listing Price Month-Over-Month in Anchorage, AK (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY11260          | Housing Inventory: Average Listing Price Year-Over-Year in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA11260              | Market Hotness: Demand Score in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC112630010             | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC112630010SA           | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC112640010             | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC112640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC112640110             | Average Weekly Wages for Employees in Federal Government Establishments in Anchorage, AK (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC112640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Anchorage, AK (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC112640210             | Average Weekly Wages for Employees in State Government Establishments in Anchorage, AK (MSA)                   | 2004-04-01          | 2005-04-01        |
-| ENUC112640310             | Average Weekly Wages for Employees in Local Government Establishments in Anchorage, AK (MSA)                   | 2004-04-01          | 2005-04-01        |
-| ENUC112640510             | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC112640510SA           | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC112630010             | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC112630010SA           | Total Quarterly Wages in Anchorage, AK (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC112640010             | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC112640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Anchorage, AK (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC112640110             | Average Weekly Wages for Employees in Federal Government Establishments in Anchorage, AK (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC112640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Anchorage, AK (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC112640210             | Average Weekly Wages for Employees in State Government Establishments in Anchorage, AK (MSA)                   | 2004-04-01          | 2022-04-01        |
+| ENUC112640310             | Average Weekly Wages for Employees in Local Government Establishments in Anchorage, AK (MSA)                   | 2004-04-01          | 2022-04-01        |
+| ENUC112640510             | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC112640510SA           | Average Weekly Wages for Employees in Private Establishments in Anchorage, AK (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA11260            | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA11260              | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA11260            | Market Hotness: Hotness Rank in Anchorage, AK (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU11260            | Housing Inventory: New Listing Count in Anchorage, AK (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM11260          | Housing Inventory: New Listing Count Month-Over-Month in Anchorage, AK (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY11260          | Housing Inventory: New Listing Count Year-Over-Year in Anchorage, AK (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP11260                 | Total Gross Domestic Product for Anchorage, AK (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP11260                 | Total Gross Domestic Product for Anchorage, AK (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA11260            | Market Hotness: Nielsen Household Rank in Anchorage, AK (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA111260          | U.S. Granted Utility Patents Originating in Anchorage, AK (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU11260            | Housing Inventory: Pending Listing Count in Anchorage, AK (CBSA)                                               | 2016-07-01          | 2022-09-01        |
@@ -98,8 +98,8 @@
 | PRIREDCOU11260            | Housing Inventory: Price Reduced Count in Anchorage, AK (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM11260          | Housing Inventory: Price Reduced Count Month-Over-Month in Anchorage, AK (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY11260          | Housing Inventory: Price Reduced Count Year-Over-Year in Anchorage, AK (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP11260                 | Total Quantity Indexes for Real GDP for Anchorage, AK (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP11260                 | Total Real Gross Domestic Product for Anchorage, AK (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP11260                 | Total Quantity Indexes for Real GDP for Anchorage, AK (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP11260                 | Total Real Gross Domestic Product for Anchorage, AK (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI11260                  | Real Personal Income for Anchorage, AK (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC11260                | Real Per Capita Personal Income for Anchorage, AK (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL11260               | Regional Price Parities: All Items for Anchorage, AK (MSA)                                                     | 2008-01-01          | 2020-01-01        |

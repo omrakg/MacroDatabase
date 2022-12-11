@@ -11,7 +11,7 @@
 | CTGRLA052SCEN     | Value of Exports to Greenland from Connecticut                  | 2006-01-01          | 2017-01-01        |
 | CTGRLA475SCEN     | Number of Identified Exporters to Greenland from Connecticut    | 1992-01-01          | 2017-01-01        |
 | DEGRLA475SCEN     | Number of Identified Exporters to Greenland from Delaware       | 2008-01-01          | 2016-01-01        |
-| EXP1010           | U.S. Exports of Goods by F.A.S. Basis to Greenland              | 1992-01-01          | 2022-09-01        |
+| EXP1010           | U.S. Exports of Goods by F.A.S. Basis to Greenland              | 1992-01-01          | 2022-10-01        |
 | FLGRLA052SCEN     | Value of Exports to Greenland from Florida                      | 2003-01-01          | 2017-01-01        |
 | FLGRLA475SCEN     | Number of Identified Exporters to Greenland from Florida        | 1992-01-01          | 2017-01-01        |
 | GAGRLA052SCEN     | Value of Exports to Greenland from Georgia                      | 2010-01-01          | 2016-01-01        |
@@ -21,7 +21,7 @@
 | IDGRLA475SCEN     | Number of Identified Exporters to Greenland from Idaho          | 1997-01-01          | 2017-01-01        |
 | ILGRLA052SCEN     | Value of Exports to Greenland from Illinois                     | 2007-01-01          | 2016-01-01        |
 | ILGRLA475SCEN     | Number of Identified Exporters to Greenland from Illinois       | 1992-01-01          | 2016-01-01        |
-| IMP1010           | U.S. Imports of Goods by Customs Basis from Greenland           | 1992-01-01          | 2022-09-01        |
+| IMP1010           | U.S. Imports of Goods by Customs Basis from Greenland           | 1992-01-01          | 2022-10-01        |
 | INGRLA475SCEN     | Number of Identified Exporters to Greenland from Indiana        | 1992-01-01          | 2014-01-01        |
 | ITNETUSERP2GRL    | Internet users for Greenland                                    | 1990-01-01          | 2017-01-01        |
 | KSGRLA052SCEN     | Value of Exports to Greenland from Kansas                       | 2012-01-01          | 2017-01-01        |

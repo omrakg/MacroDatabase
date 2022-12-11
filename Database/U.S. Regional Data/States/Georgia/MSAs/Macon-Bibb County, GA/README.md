@@ -8,18 +8,18 @@
 | AVELISPRIMM31420          | Housing Inventory: Average Listing Price Month-Over-Month in Macon, GA (CBSA)                                          | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY31420          | Housing Inventory: Average Listing Price Year-Over-Year in Macon, GA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
 | DESCMSA31420              | Market Hotness: Demand Score in Macon, GA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
-| ENUC314230010             | Total Quarterly Wages in Macon, GA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC314230010SA           | Total Quarterly Wages in Macon, GA (MSA)                                                                               | 1990-01-01          | 2022-01-01        |
-| ENUC314240010             | Average Weekly Wages for Employees in Total Covered Establishments in Macon, GA (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| ENUC314240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Macon, GA (MSA)                                  | 1990-01-01          | 2022-01-01        |
-| ENUC314240110             | Average Weekly Wages for Employees in Federal Government Establishments in Macon, GA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC314240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Macon, GA (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC314240210             | Average Weekly Wages for Employees in State Government Establishments in Macon, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC314240210SA           | Average Weekly Wages for Employees in State Government Establishments in Macon, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC314240310             | Average Weekly Wages for Employees in Local Government Establishments in Macon, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC314240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Macon, GA (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC314240510             | Average Weekly Wages for Employees in Private Establishments in Macon, GA (MSA)                                        | 1990-01-01          | 2022-01-01        |
-| ENUC314240510SA           | Average Weekly Wages for Employees in Private Establishments in Macon, GA (MSA)                                        | 1990-01-01          | 2022-01-01        |
+| ENUC314230010             | Total Quarterly Wages in Macon, GA (MSA)                                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC314230010SA           | Total Quarterly Wages in Macon, GA (MSA)                                                                               | 1990-01-01          | 2022-04-01        |
+| ENUC314240010             | Average Weekly Wages for Employees in Total Covered Establishments in Macon, GA (MSA)                                  | 1990-01-01          | 2022-04-01        |
+| ENUC314240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Macon, GA (MSA)                                  | 1990-01-01          | 2022-04-01        |
+| ENUC314240110             | Average Weekly Wages for Employees in Federal Government Establishments in Macon, GA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC314240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Macon, GA (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC314240210             | Average Weekly Wages for Employees in State Government Establishments in Macon, GA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC314240210SA           | Average Weekly Wages for Employees in State Government Establishments in Macon, GA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC314240310             | Average Weekly Wages for Employees in Local Government Establishments in Macon, GA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC314240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Macon, GA (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC314240510             | Average Weekly Wages for Employees in Private Establishments in Macon, GA (MSA)                                        | 1990-01-01          | 2022-04-01        |
+| ENUC314240510SA           | Average Weekly Wages for Employees in Private Establishments in Macon, GA (MSA)                                        | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA31420            | Market Hotness: Hotness Rank in Macon, GA (MSA)                                                                        | 2017-09-01          | 2022-11-01        |
 | HORAMSA31420              | Market Hotness: Hotness Rank in Macon, GA (CBSA)                                                                       | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA31420            | Market Hotness: Hotness Rank in Macon, GA (MSA)                                                                        | 2018-08-01          | 2022-11-01        |
@@ -79,7 +79,7 @@
 | NEWLISCOU31420            | Housing Inventory: New Listing Count in Macon, GA (CBSA)                                                               | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM31420          | Housing Inventory: New Listing Count Month-Over-Month in Macon, GA (CBSA)                                              | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY31420          | Housing Inventory: New Listing Count Year-Over-Year in Macon, GA (CBSA)                                                | 2017-07-01          | 2022-11-01        |
-| NGMP31420                 | Total Gross Domestic Product for Macon, GA (MSA)                                                                       | 2001-01-01          | 2020-01-01        |
+| NGMP31420                 | Total Gross Domestic Product for Macon, GA (MSA)                                                                       | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA31420            | Market Hotness: Nielsen Household Rank in Macon, GA (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA131420          | U.S. Granted Utility Patents Originating in Macon, GA (MSA)                                                            | 2000-01-01          | 2015-01-01        |
 | PENLISCOU31420            | Housing Inventory: Pending Listing Count in Macon, GA (CBSA)                                                           | 2016-07-01          | 2022-11-01        |
@@ -91,8 +91,8 @@
 | PRIREDCOU31420            | Housing Inventory: Price Reduced Count in Macon, GA (CBSA)                                                             | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM31420          | Housing Inventory: Price Reduced Count Month-Over-Month in Macon, GA (CBSA)                                            | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY31420          | Housing Inventory: Price Reduced Count Year-Over-Year in Macon, GA (CBSA)                                              | 2017-07-01          | 2022-11-01        |
-| QGMP31420                 | Total Quantity Indexes for Real GDP for Macon, GA (MSA)                                                                | 2001-01-01          | 2020-01-01        |
-| RGMP31420                 | Total Real Gross Domestic Product for Macon, GA (MSA)                                                                  | 2001-01-01          | 2020-01-01        |
+| QGMP31420                 | Total Quantity Indexes for Real GDP for Macon, GA (MSA)                                                                | 2001-01-01          | 2021-01-01        |
+| RGMP31420                 | Total Real Gross Domestic Product for Macon, GA (MSA)                                                                  | 2001-01-01          | 2021-01-01        |
 | RPI31420                  | Real Personal Income for Macon, GA (MSA)                                                                               | 2008-01-01          | 2020-01-01        |
 | RPIPC31420                | Real Per Capita Personal Income for Macon, GA (MSA)                                                                    | 2008-01-01          | 2020-01-01        |
 | RPPALL31420               | Regional Price Parities: All Items for Macon, GA (MSA)                                                                 | 2008-01-01          | 2020-01-01        |

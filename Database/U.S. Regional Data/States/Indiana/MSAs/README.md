@@ -3,7 +3,7 @@
 | Michigan City-La Porte, IN         |               138 |
 | Cincinnati, OH-KY-IN               |                 0 |
 | Elkhart-Goshen, IN                 |               172 |
-| Columbus, IN                       |                 0 |
+| Columbus, IN                       |               137 |
 | Bloomington, IN                    |               171 |
 | Chicago-Naperville-Elgin, IL-IN-WI |                 0 |
 | Terre Haute, IN                    |               161 |

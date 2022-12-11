@@ -8,18 +8,18 @@
 | AVELISPRIMM41420          | Housing Inventory: Average Listing Price Month-Over-Month in Salem, OR (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY41420          | Housing Inventory: Average Listing Price Year-Over-Year in Salem, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA41420              | Market Hotness: Demand Score in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC414230010             | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC414230010SA           | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC414240010             | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC414240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC414240110             | Average Weekly Wages for Employees in Federal Government Establishments in Salem, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC414240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salem, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC414240210             | Average Weekly Wages for Employees in State Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC414240210SA           | Average Weekly Wages for Employees in State Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC414240310             | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC414240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC414240510             | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC414240510SA           | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC414230010             | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC414230010SA           | Total Quarterly Wages in Salem, OR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC414240010             | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC414240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salem, OR (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC414240110             | Average Weekly Wages for Employees in Federal Government Establishments in Salem, OR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC414240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salem, OR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC414240210             | Average Weekly Wages for Employees in State Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC414240210SA           | Average Weekly Wages for Employees in State Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC414240310             | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC414240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salem, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC414240510             | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC414240510SA           | Average Weekly Wages for Employees in Private Establishments in Salem, OR (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA41420              | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA41420            | Market Hotness: Hotness Rank in Salem, OR (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU41420            | Housing Inventory: New Listing Count in Salem, OR (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM41420          | Housing Inventory: New Listing Count Month-Over-Month in Salem, OR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY41420          | Housing Inventory: New Listing Count Year-Over-Year in Salem, OR (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP41420                 | Total Gross Domestic Product for Salem, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP41420                 | Total Gross Domestic Product for Salem, OR (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA41420            | Market Hotness: Nielsen Household Rank in Salem, OR (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA141420          | U.S. Granted Utility Patents Originating in Salem, OR (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU41420            | Housing Inventory: Pending Listing Count in Salem, OR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU41420            | Housing Inventory: Price Reduced Count in Salem, OR (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM41420          | Housing Inventory: Price Reduced Count Month-Over-Month in Salem, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY41420          | Housing Inventory: Price Reduced Count Year-Over-Year in Salem, OR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP41420                 | Total Quantity Indexes for Real GDP for Salem, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP41420                 | Total Real Gross Domestic Product for Salem, OR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP41420                 | Total Quantity Indexes for Real GDP for Salem, OR (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP41420                 | Total Real Gross Domestic Product for Salem, OR (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI41420                  | Real Personal Income for Salem, OR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC41420                | Real Per Capita Personal Income for Salem, OR (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL41420               | Regional Price Parities: All Items for Salem, OR (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -7,16 +7,16 @@
 | AVELISPRI31740            | Housing Inventory: Average Listing Price in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM31740          | Housing Inventory: Average Listing Price Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY31740          | Housing Inventory: Average Listing Price Year-Over-Year in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC317430010             | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2022-01-01        |
-| ENUC317430010SA           | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2022-01-01        |
-| ENUC317440010             | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2022-01-01        |
-| ENUC317440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2022-01-01        |
-| ENUC317440110             | Average Weekly Wages for Employees in Federal Government Establishments in Manhattan, KS (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC317440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Manhattan, KS (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC317440210             | Average Weekly Wages for Employees in State Government Establishments in Manhattan, KS (MSA)     | 2013-01-01          | 2013-10-01        |
-| ENUC317440310             | Average Weekly Wages for Employees in Local Government Establishments in Manhattan, KS (MSA)     | 2013-01-01          | 2013-10-01        |
-| ENUC317440510             | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2022-01-01        |
-| ENUC317440510SA           | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2022-01-01        |
+| ENUC317430010             | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2022-04-01        |
+| ENUC317430010SA           | Total Quarterly Wages in Manhattan, KS (MSA)                                                     | 2013-01-01          | 2022-04-01        |
+| ENUC317440010             | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2022-04-01        |
+| ENUC317440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Manhattan, KS (MSA)        | 2013-01-01          | 2022-04-01        |
+| ENUC317440110             | Average Weekly Wages for Employees in Federal Government Establishments in Manhattan, KS (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC317440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Manhattan, KS (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC317440210             | Average Weekly Wages for Employees in State Government Establishments in Manhattan, KS (MSA)     | 2013-01-01          | 2022-04-01        |
+| ENUC317440310             | Average Weekly Wages for Employees in Local Government Establishments in Manhattan, KS (MSA)     | 2013-01-01          | 2022-04-01        |
+| ENUC317440510             | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2022-04-01        |
+| ENUC317440510SA           | Average Weekly Wages for Employees in Private Establishments in Manhattan, KS (MSA)              | 2013-01-01          | 2022-04-01        |
 | IRPD31740                 | Implicit Regional Price Deflator for Manhattan, KS (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT203174000000003      | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | LAUMT203174000000003A     | Unemployment Rate in Manhattan, KS (MSA)                                                         | 1990-01-01          | 2021-01-01        |
@@ -42,7 +42,7 @@
 | NEWLISCOU31740            | Housing Inventory: New Listing Count in Manhattan, KS (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM31740          | Housing Inventory: New Listing Count Month-Over-Month in Manhattan, KS (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY31740          | Housing Inventory: New Listing Count Year-Over-Year in Manhattan, KS (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP31740                 | Total Gross Domestic Product for Manhattan, KS (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP31740                 | Total Gross Domestic Product for Manhattan, KS (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA131740          | U.S. Granted Utility Patents Originating in Manhattan, KS (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU31740            | Housing Inventory: Pending Listing Count in Manhattan, KS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM31740          | Housing Inventory: Pending Listing Count Month-Over-Month in Manhattan, KS (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -53,8 +53,8 @@
 | PRIREDCOU31740            | Housing Inventory: Price Reduced Count in Manhattan, KS (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM31740          | Housing Inventory: Price Reduced Count Month-Over-Month in Manhattan, KS (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY31740          | Housing Inventory: Price Reduced Count Year-Over-Year in Manhattan, KS (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP31740                 | Total Quantity Indexes for Real GDP for Manhattan, KS (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP31740                 | Total Real Gross Domestic Product for Manhattan, KS (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP31740                 | Total Quantity Indexes for Real GDP for Manhattan, KS (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP31740                 | Total Real Gross Domestic Product for Manhattan, KS (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI31740                  | Real Personal Income for Manhattan, KS (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC31740                | Real Per Capita Personal Income for Manhattan, KS (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL31740               | Regional Price Parities: All Items for Manhattan, KS (MSA)                                       | 2008-01-01          | 2020-01-01        |

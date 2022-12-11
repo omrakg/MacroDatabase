@@ -40,14 +40,14 @@
 | DOVE110UR                 | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-10-01        |
 | DOVE110URN                | Unemployment Rate in Dover, DE (MSA)                                                               | 1990-01-01          | 2022-10-01        |
 | DVRPOP                    | Resident Population in Dover, DE (MSA)                                                             | 2000-01-01          | 2021-01-01        |
-| ENUC201030010             | Total Quarterly Wages in Dover, DE (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ENUC201030010SA           | Total Quarterly Wages in Dover, DE (MSA)                                                           | 1990-01-01          | 2022-01-01        |
-| ENUC201040010             | Average Weekly Wages for Employees in Total Covered Establishments in Dover, DE (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC201040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dover, DE (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC201040110             | Average Weekly Wages for Employees in Federal Government Establishments in Dover, DE (MSA)         | 1990-01-01          | 2022-01-01        |
-| ENUC201040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dover, DE (MSA)         | 1990-01-01          | 2022-01-01        |
-| ENUC201040210             | Average Weekly Wages for Employees in State Government Establishments in Dover, DE (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC201040210SA           | Average Weekly Wages for Employees in State Government Establishments in Dover, DE (MSA)           | 1990-01-01          | 2022-01-01        |
+| ENUC201030010             | Total Quarterly Wages in Dover, DE (MSA)                                                           | 1990-01-01          | 2022-04-01        |
+| ENUC201030010SA           | Total Quarterly Wages in Dover, DE (MSA)                                                           | 1990-01-01          | 2022-04-01        |
+| ENUC201040010             | Average Weekly Wages for Employees in Total Covered Establishments in Dover, DE (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC201040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dover, DE (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC201040110             | Average Weekly Wages for Employees in Federal Government Establishments in Dover, DE (MSA)         | 1990-01-01          | 2022-04-01        |
+| ENUC201040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dover, DE (MSA)         | 1990-01-01          | 2022-04-01        |
+| ENUC201040210             | Average Weekly Wages for Employees in State Government Establishments in Dover, DE (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC201040210SA           | Average Weekly Wages for Employees in State Government Establishments in Dover, DE (MSA)           | 1990-01-01          | 2022-04-01        |
 | ENUC201040310             | Average Weekly Wages for Employees in Local Government Establishments in Dover, DE (MSA)           | 1990-01-01          | 2002-10-01        |
 | ENUC201040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dover, DE (MSA)           | 1990-01-01          | 2002-10-01        |
 | ENUC201040510             | Average Weekly Wages for Employees in Private Establishments in Dover, DE (MSA)                    | 1990-01-01          | 2002-10-01        |
@@ -91,7 +91,7 @@
 | NEWLISCOU20100            | Housing Inventory: New Listing Count in Dover, DE (CBSA)                                           | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM20100          | Housing Inventory: New Listing Count Month-Over-Month in Dover, DE (CBSA)                          | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY20100          | Housing Inventory: New Listing Count Year-Over-Year in Dover, DE (CBSA)                            | 2017-07-01          | 2022-11-01        |
-| NGMP20100                 | Total Gross Domestic Product for Dover, DE (MSA)                                                   | 2001-01-01          | 2020-01-01        |
+| NGMP20100                 | Total Gross Domestic Product for Dover, DE (MSA)                                                   | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA20100            | Market Hotness: Nielsen Household Rank in Dover, DE (CBSA)                                         | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA120100          | U.S. Granted Utility Patents Originating in Dover, DE (MSA)                                        | 2000-01-01          | 2015-01-01        |
 | PENLISCOU20100            | Housing Inventory: Pending Listing Count in Dover, DE (CBSA)                                       | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PRIREDCOU20100            | Housing Inventory: Price Reduced Count in Dover, DE (CBSA)                                         | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM20100          | Housing Inventory: Price Reduced Count Month-Over-Month in Dover, DE (CBSA)                        | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY20100          | Housing Inventory: Price Reduced Count Year-Over-Year in Dover, DE (CBSA)                          | 2017-07-01          | 2022-11-01        |
-| QGMP20100                 | Total Quantity Indexes for Real GDP for Dover, DE (MSA)                                            | 2001-01-01          | 2020-01-01        |
-| RGMP20100                 | Total Real Gross Domestic Product for Dover, DE (MSA)                                              | 2001-01-01          | 2020-01-01        |
+| QGMP20100                 | Total Quantity Indexes for Real GDP for Dover, DE (MSA)                                            | 2001-01-01          | 2021-01-01        |
+| RGMP20100                 | Total Real Gross Domestic Product for Dover, DE (MSA)                                              | 2001-01-01          | 2021-01-01        |
 | RPI20100                  | Real Personal Income for Dover, DE (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | RPIPC20100                | Real Per Capita Personal Income for Dover, DE (MSA)                                                | 2008-01-01          | 2020-01-01        |
 | RPPALL20100               | Regional Price Parities: All Items for Dover, DE (MSA)                                             | 2008-01-01          | 2020-01-01        |

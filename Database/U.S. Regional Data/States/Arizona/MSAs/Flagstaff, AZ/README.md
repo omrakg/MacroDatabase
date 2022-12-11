@@ -7,18 +7,18 @@
 | AVELISPRI22380            | Housing Inventory: Average Listing Price in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM22380          | Housing Inventory: Average Listing Price Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY22380          | Housing Inventory: Average Listing Price Year-Over-Year in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC223830010             | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC223830010SA           | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC223840010             | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC223840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC223840110             | Average Weekly Wages for Employees in Federal Government Establishments in Flagstaff, AZ (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC223840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Flagstaff, AZ (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC223840210             | Average Weekly Wages for Employees in State Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC223840210SA           | Average Weekly Wages for Employees in State Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC223840310             | Average Weekly Wages for Employees in Local Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC223840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC223840510             | Average Weekly Wages for Employees in Private Establishments in Flagstaff, AZ (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC223840510SA           | Average Weekly Wages for Employees in Private Establishments in Flagstaff, AZ (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC223830010             | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC223830010SA           | Total Quarterly Wages in Flagstaff, AZ (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC223840010             | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC223840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Flagstaff, AZ (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC223840110             | Average Weekly Wages for Employees in Federal Government Establishments in Flagstaff, AZ (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC223840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Flagstaff, AZ (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC223840210             | Average Weekly Wages for Employees in State Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC223840210SA           | Average Weekly Wages for Employees in State Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC223840310             | Average Weekly Wages for Employees in Local Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC223840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Flagstaff, AZ (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC223840510             | Average Weekly Wages for Employees in Private Establishments in Flagstaff, AZ (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC223840510SA           | Average Weekly Wages for Employees in Private Establishments in Flagstaff, AZ (MSA)              | 1990-01-01          | 2022-04-01        |
 | FLAG304EDUH               | All Employees: Education and Health Services in Flagstaff, AZ (MSA)                              | 1990-01-01          | 2022-10-01        |
 | FLAG304EDUHN              | All Employees: Education and Health Services in Flagstaff, AZ (MSA)                              | 1990-01-01          | 2022-10-01        |
 | FLAG304FIRE               | All Employees: Financial Activities in Flagstaff, AZ (MSA)                                       | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU22380            | Housing Inventory: New Listing Count in Flagstaff, AZ (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM22380          | Housing Inventory: New Listing Count Month-Over-Month in Flagstaff, AZ (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY22380          | Housing Inventory: New Listing Count Year-Over-Year in Flagstaff, AZ (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP22380                 | Total Gross Domestic Product for Flagstaff, AZ (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP22380                 | Total Gross Domestic Product for Flagstaff, AZ (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA122380          | U.S. Granted Utility Patents Originating in Flagstaff, AZ (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU22380            | Housing Inventory: Pending Listing Count in Flagstaff, AZ (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM22380          | Housing Inventory: Pending Listing Count Month-Over-Month in Flagstaff, AZ (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU22380            | Housing Inventory: Price Reduced Count in Flagstaff, AZ (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM22380          | Housing Inventory: Price Reduced Count Month-Over-Month in Flagstaff, AZ (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY22380          | Housing Inventory: Price Reduced Count Year-Over-Year in Flagstaff, AZ (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP22380                 | Total Quantity Indexes for Real GDP for Flagstaff, AZ (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP22380                 | Total Real Gross Domestic Product for Flagstaff, AZ (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP22380                 | Total Quantity Indexes for Real GDP for Flagstaff, AZ (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP22380                 | Total Real Gross Domestic Product for Flagstaff, AZ (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI22380                  | Real Personal Income for Flagstaff, AZ (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC22380                | Real Per Capita Personal Income for Flagstaff, AZ (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL22380               | Regional Price Parities: All Items for Flagstaff, AZ (MSA)                                       | 2008-01-01          | 2020-01-01        |

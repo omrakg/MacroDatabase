@@ -48,8 +48,8 @@
 | BFSBF8QTOTALSATX          | Spliced Business Formations Within Eight Quarters: Total for All NAICS in Texas                                                          | 2004-07-01          | 2022-10-01        |
 | BR48000TXA647NCEN         | SNAP Benefits Recipients in Texas                                                                                                        | 1989-01-01          | 2019-01-01        |
 | BRTX48M647NCEN            | SNAP Benefits Recipients in Texas                                                                                                        | 1981-01-01          | 2020-06-01        |
-| BUSAPPWNSATX              | Business Applications for Texas                                                                                                          | 2006-01-07          | 2022-11-26        |
-| BUSAPPWNSATXYY            | Business Applications for Texas                                                                                                          | 2007-01-06          | 2022-11-26        |
+| BUSAPPWNSATX              | Business Applications for Texas                                                                                                          | 2006-01-07          | 2022-12-03        |
+| BUSAPPWNSATXYY            | Business Applications for Texas                                                                                                          | 2007-01-06          | 2022-12-03        |
 | CAPUDSAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUDUAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUISAMFRBDAL            | Current Capacity Utilization; Percentage Reporting Increases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
@@ -58,8 +58,8 @@
 | CAPUNUAMFRBDAL            | Current Capacity Utilization; Percentage Reporting No Change for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CAPUSAMFRBDAL             | Current Capacity Utilization; Diffusion Index for Texas                                                                                  | 2004-06-01          | 2022-05-01        |
 | CAPUUAMFRBDAL             | Current Capacity Utilization; Diffusion Index for Texas                                                                                  | 2004-06-01          | 2022-05-01        |
-| CBUSAPPWNSATX             | Business Applications from Corporations for Texas                                                                                        | 2006-01-07          | 2022-11-26        |
-| CBUSAPPWNSATXYY           | Business Applications from Corporations for Texas                                                                                        | 2007-01-06          | 2022-11-26        |
+| CBUSAPPWNSATX             | Business Applications from Corporations for Texas                                                                                        | 2006-01-07          | 2022-12-03        |
+| CBUSAPPWNSATXYY           | Business Applications from Corporations for Texas                                                                                        | 2007-01-06          | 2022-12-03        |
 | CEXPDSAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CEXPDUAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Decreases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
 | CEXPISAMFRBDAL            | Current Capital Expenditures; Percentage Reporting Increases for Texas                                                                   | 2004-06-01          | 2022-05-01        |
@@ -182,9 +182,9 @@
 | EMISSCO2VRFEIBTXA         | Electric Power Carbon Dioxide Emissions, Residual Fuel for Texas                                                                         | 1980-01-01          | 2018-01-01        |
 | EMISSCO2VRFICBTXA         | Industrial Carbon Dioxide Emissions, Residual Fuel for Texas                                                                             | 1980-01-01          | 2018-01-01        |
 | EMPLOYTX                  | Employment Level for Texas                                                                                                               | 2003-10-01          | 2022-07-01        |
-| EXPMANTX                  | Exports of Goods: Manufactured Commodities for Texas                                                                                     | 1995-08-01          | 2022-09-01        |
-| EXPNONTX                  | Exports of Goods: Non-Manufactured Commodities for Texas                                                                                 | 1995-08-01          | 2022-09-01        |
-| EXPTOTTX                  | Exports of Goods for Texas                                                                                                               | 1995-08-01          | 2022-09-01        |
+| EXPMANTX                  | Exports of Goods: Manufactured Commodities for Texas                                                                                     | 1995-08-01          | 2022-10-01        |
+| EXPNONTX                  | Exports of Goods: Non-Manufactured Commodities for Texas                                                                                 | 1995-08-01          | 2022-10-01        |
+| EXPTOTTX                  | Exports of Goods for Texas                                                                                                               | 1995-08-01          | 2022-10-01        |
 | FAVGWKDSAMFRBDAL          | Future Hours Worked; Percentage Reporting Decreases for Texas                                                                            | 2004-06-01          | 2022-05-01        |
 | FAVGWKDUAMFRBDAL          | Future Hours Worked; Percentage Reporting Decreases for Texas                                                                            | 2004-06-01          | 2022-05-01        |
 | FAVGWKISAMFRBDAL          | Future Hours Worked; Percentage Reporting Increases for Texas                                                                            | 2004-06-01          | 2022-05-01        |
@@ -320,12 +320,12 @@
 | GRONUAMFRBDAL             | Current Growth Rate of Orders; Percentage Reporting No Change for Texas                                                                  | 2004-06-01          | 2022-05-01        |
 | GROSAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                                 | 2004-06-01          | 2022-05-01        |
 | GROUAMFRBDAL              | Current Growth Rate of Orders; Diffusion Index for Texas                                                                                 | 2004-06-01          | 2022-05-01        |
-| HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                          | 2006-01-07          | 2022-11-26        |
-| HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                          | 2007-01-06          | 2022-11-26        |
+| HBUSAPPWNSATX             | High-Propensity Business Applications for Texas                                                                                          | 2006-01-07          | 2022-12-03        |
+| HBUSAPPWNSATXYY           | High-Propensity Business Applications for Texas                                                                                          | 2007-01-06          | 2022-12-03        |
 | IHLCHGUSTX                | Job Postings on Indeed in Texas                                                                                                          | 2020-02-01          | 2022-11-25        |
-| IMPMANTX                  | Imports of Goods: Manufactured Commodities for Texas                                                                                     | 2008-01-01          | 2022-09-01        |
-| IMPNONTX                  | Imports of Goods: Non-Manufactured Commodities for Texas                                                                                 | 2008-01-01          | 2022-09-01        |
-| IMPTOTTX                  | Imports of Goods for Texas                                                                                                               | 2008-01-01          | 2022-09-01        |
+| IMPMANTX                  | Imports of Goods: Manufactured Commodities for Texas                                                                                     | 2008-01-01          | 2022-10-01        |
+| IMPNONTX                  | Imports of Goods: Non-Manufactured Commodities for Texas                                                                                 | 2008-01-01          | 2022-10-01        |
+| IMPTOTTX                  | Imports of Goods for Texas                                                                                                               | 2008-01-01          | 2022-10-01        |
 | INVOLPTEMPTX              | Employed Involuntary Part-Time for Texas                                                                                                 | 2003-10-01          | 2022-07-01        |
 | IPUZNL000480000           | Labor Productivity for Private Nonfarm in Texas                                                                                          | 2007-01-01          | 2021-01-01        |
 | IPUZNL001480000           | Labor Productivity for Private Nonfarm in Texas                                                                                          | 2008-01-01          | 2021-01-01        |

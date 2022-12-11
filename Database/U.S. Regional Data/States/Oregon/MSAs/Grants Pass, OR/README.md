@@ -1,18 +1,18 @@
 | id                     | title                                                                                                            | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS24420Q         | All-Transactions House Price Index for Grants Pass, OR (MSA)                                                     | 1990-01-01          | 2022-07-01        |
-| ENUC244230010          | Total Quarterly Wages in Grants Pass, OR (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC244230010SA        | Total Quarterly Wages in Grants Pass, OR (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC244240010          | Average Weekly Wages for Employees in Total Covered Establishments in Grants Pass, OR (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC244240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Grants Pass, OR (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC244240110          | Average Weekly Wages for Employees in Federal Government Establishments in Grants Pass, OR (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC244240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Grants Pass, OR (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC244240210          | Average Weekly Wages for Employees in State Government Establishments in Grants Pass, OR (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC244240210SA        | Average Weekly Wages for Employees in State Government Establishments in Grants Pass, OR (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC244240310          | Average Weekly Wages for Employees in Local Government Establishments in Grants Pass, OR (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC244240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Grants Pass, OR (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC244240510          | Average Weekly Wages for Employees in Private Establishments in Grants Pass, OR (MSA)                            | 2013-01-01          | 2022-01-01        |
-| ENUC244240510SA        | Average Weekly Wages for Employees in Private Establishments in Grants Pass, OR (MSA)                            | 2013-01-01          | 2022-01-01        |
+| ENUC244230010          | Total Quarterly Wages in Grants Pass, OR (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC244230010SA        | Total Quarterly Wages in Grants Pass, OR (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC244240010          | Average Weekly Wages for Employees in Total Covered Establishments in Grants Pass, OR (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC244240010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Grants Pass, OR (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC244240110          | Average Weekly Wages for Employees in Federal Government Establishments in Grants Pass, OR (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC244240110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Grants Pass, OR (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC244240210          | Average Weekly Wages for Employees in State Government Establishments in Grants Pass, OR (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC244240210SA        | Average Weekly Wages for Employees in State Government Establishments in Grants Pass, OR (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC244240310          | Average Weekly Wages for Employees in Local Government Establishments in Grants Pass, OR (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC244240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Grants Pass, OR (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC244240510          | Average Weekly Wages for Employees in Private Establishments in Grants Pass, OR (MSA)                            | 2013-01-01          | 2022-04-01        |
+| ENUC244240510SA        | Average Weekly Wages for Employees in Private Establishments in Grants Pass, OR (MSA)                            | 2013-01-01          | 2022-04-01        |
 | GRPPOP                 | Resident Population in Grants Pass, OR (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | GRPS941PCPI            | Per Capita Personal Income in Grants Pass, OR (MSA)                                                              | 1969-01-01          | 2021-01-01        |
 | IRPD24420              | Implicit Regional Price Deflator for Grants Pass, OR (MSA)                                                       | 2008-01-01          | 2020-01-01        |
@@ -24,9 +24,9 @@
 | LAUMT412442000000005A  | Employed Persons in Grants Pass, OR (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT412442000000006   | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT412442000000006A  | Civilian Labor Force in Grants Pass, OR (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| NGMP24420              | Total Gross Domestic Product for Grants Pass, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| QGMP24420              | Total Quantity Indexes for Real GDP for Grants Pass, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP24420              | Total Real Gross Domestic Product for Grants Pass, OR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| NGMP24420              | Total Gross Domestic Product for Grants Pass, OR (MSA)                                                           | 2001-01-01          | 2021-01-01        |
+| QGMP24420              | Total Quantity Indexes for Real GDP for Grants Pass, OR (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP24420              | Total Real Gross Domestic Product for Grants Pass, OR (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI24420               | Real Personal Income for Grants Pass, OR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC24420             | Real Per Capita Personal Income for Grants Pass, OR (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL24420            | Regional Price Parities: All Items for Grants Pass, OR (MSA)                                                     | 2008-01-01          | 2020-01-01        |

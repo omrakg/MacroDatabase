@@ -8,18 +8,18 @@
 | AVELISPRIMM42340          | Housing Inventory: Average Listing Price Month-Over-Month in Savannah, GA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY42340          | Housing Inventory: Average Listing Price Year-Over-Year in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA42340              | Market Hotness: Demand Score in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC423430010             | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC423430010SA           | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC423440010             | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC423440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC423440110             | Average Weekly Wages for Employees in Federal Government Establishments in Savannah, GA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC423440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Savannah, GA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC423440210             | Average Weekly Wages for Employees in State Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC423440210SA           | Average Weekly Wages for Employees in State Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC423440310             | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC423440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC423440510             | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC423440510SA           | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC423430010             | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC423430010SA           | Total Quarterly Wages in Savannah, GA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC423440010             | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC423440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Savannah, GA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC423440110             | Average Weekly Wages for Employees in Federal Government Establishments in Savannah, GA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC423440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Savannah, GA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC423440210             | Average Weekly Wages for Employees in State Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC423440210SA           | Average Weekly Wages for Employees in State Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC423440310             | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC423440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Savannah, GA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC423440510             | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC423440510SA           | Average Weekly Wages for Employees in Private Establishments in Savannah, GA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA42340              | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU42340            | Housing Inventory: New Listing Count in Savannah, GA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM42340          | Housing Inventory: New Listing Count Month-Over-Month in Savannah, GA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY42340          | Housing Inventory: New Listing Count Year-Over-Year in Savannah, GA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP42340                 | Total Gross Domestic Product for Savannah, GA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP42340                 | Total Gross Domestic Product for Savannah, GA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA42340            | Market Hotness: Nielsen Household Rank in Savannah, GA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA142340          | U.S. Granted Utility Patents Originating in Savannah, GA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU42340            | Housing Inventory: Pending Listing Count in Savannah, GA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU42340            | Housing Inventory: Price Reduced Count in Savannah, GA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM42340          | Housing Inventory: Price Reduced Count Month-Over-Month in Savannah, GA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY42340          | Housing Inventory: Price Reduced Count Year-Over-Year in Savannah, GA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP42340                 | Total Quantity Indexes for Real GDP for Savannah, GA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP42340                 | Total Real Gross Domestic Product for Savannah, GA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP42340                 | Total Quantity Indexes for Real GDP for Savannah, GA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP42340                 | Total Real Gross Domestic Product for Savannah, GA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI42340                  | Real Personal Income for Savannah, GA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC42340                | Real Per Capita Personal Income for Savannah, GA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL42340               | Regional Price Parities: All Items for Savannah, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

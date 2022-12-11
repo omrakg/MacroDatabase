@@ -7,18 +7,18 @@
 | AVELISPRI24220            | Housing Inventory: Average Listing Price in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM24220          | Housing Inventory: Average Listing Price Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY24220          | Housing Inventory: Average Listing Price Year-Over-Year in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC242230010             | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC242230010SA           | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC242240010             | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC242240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC242240110             | Average Weekly Wages for Employees in Federal Government Establishments in Grand Forks, ND-MN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC242240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Grand Forks, ND-MN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC242240210             | Average Weekly Wages for Employees in State Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC242240210SA           | Average Weekly Wages for Employees in State Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC242240310             | Average Weekly Wages for Employees in Local Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC242240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC242240510             | Average Weekly Wages for Employees in Private Establishments in Grand Forks, ND-MN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC242240510SA           | Average Weekly Wages for Employees in Private Establishments in Grand Forks, ND-MN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC242230010             | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC242230010SA           | Total Quarterly Wages in Grand Forks, ND-MN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC242240010             | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC242240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Grand Forks, ND-MN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC242240110             | Average Weekly Wages for Employees in Federal Government Establishments in Grand Forks, ND-MN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC242240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Grand Forks, ND-MN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC242240210             | Average Weekly Wages for Employees in State Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC242240210SA           | Average Weekly Wages for Employees in State Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC242240310             | Average Weekly Wages for Employees in Local Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC242240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Grand Forks, ND-MN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC242240510             | Average Weekly Wages for Employees in Private Establishments in Grand Forks, ND-MN (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC242240510SA           | Average Weekly Wages for Employees in Private Establishments in Grand Forks, ND-MN (MSA)                            | 1990-01-01          | 2022-04-01        |
 | GRAN238EDUH               | All Employees: Education and Health Services in Grand Forks, ND-MN (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | GRAN238EDUHN              | All Employees: Education and Health Services in Grand Forks, ND-MN (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | GRAN238FIRE               | All Employees: Financial Activities in Grand Forks, ND-MN (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU24220            | Housing Inventory: New Listing Count in Grand Forks, ND-MN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM24220          | Housing Inventory: New Listing Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY24220          | Housing Inventory: New Listing Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP24220                 | Total Gross Domestic Product for Grand Forks, ND-MN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP24220                 | Total Gross Domestic Product for Grand Forks, ND-MN (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA124220          | U.S. Granted Utility Patents Originating in Grand Forks, ND-MN (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU24220            | Housing Inventory: Pending Listing Count in Grand Forks, ND-MN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM24220          | Housing Inventory: Pending Listing Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU24220            | Housing Inventory: Price Reduced Count in Grand Forks, ND-MN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM24220          | Housing Inventory: Price Reduced Count Month-Over-Month in Grand Forks, ND-MN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY24220          | Housing Inventory: Price Reduced Count Year-Over-Year in Grand Forks, ND-MN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP24220                 | Total Quantity Indexes for Real GDP for Grand Forks, ND-MN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP24220                 | Total Real Gross Domestic Product for Grand Forks, ND-MN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP24220                 | Total Quantity Indexes for Real GDP for Grand Forks, ND-MN (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP24220                 | Total Real Gross Domestic Product for Grand Forks, ND-MN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI24220                  | Real Personal Income for Grand Forks, ND-MN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC24220                | Real Per Capita Personal Income for Grand Forks, ND-MN (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL24220               | Regional Price Parities: All Items for Grand Forks, ND-MN (MSA)                                                     | 2008-01-01          | 2020-01-01        |

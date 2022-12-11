@@ -21,6 +21,6 @@
 | Calvert County, MD         |               147 |
 | Washington County, MD      |               147 |
 | Charles County, MD         |               147 |
-| Kent County, MD            |                 0 |
+| Kent County, MD            |                90 |
 | St. Mary's County, MD      |               147 |
 | Prince George's County, MD |               147 |

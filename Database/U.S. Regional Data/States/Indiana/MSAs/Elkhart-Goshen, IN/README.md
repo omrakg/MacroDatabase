@@ -36,18 +36,18 @@
 | ELKH118UR                 | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-10-01        |
 | ELKH118URN                | Unemployment Rate in Elkhart-Goshen, IN (MSA)                                                                         | 1990-01-01          | 2022-10-01        |
 | ELKPOP                    | Resident Population in Elkhart-Goshen, IN (MSA)                                                                       | 2000-01-01          | 2021-01-01        |
-| ENUC211430010             | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC211430010SA           | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC211440010             | Average Weekly Wages for Employees in Total Covered Establishments in Elkhart-Goshen, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
-| ENUC211440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elkhart-Goshen, IN (MSA)                        | 1990-01-01          | 2022-01-01        |
-| ENUC211440110             | Average Weekly Wages for Employees in Federal Government Establishments in Elkhart-Goshen, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC211440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elkhart-Goshen, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC211440210             | Average Weekly Wages for Employees in State Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-01-01        |
-| ENUC211440210SA           | Average Weekly Wages for Employees in State Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-01-01        |
-| ENUC211440310             | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-01-01        |
-| ENUC211440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-01-01        |
-| ENUC211440510             | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ENUC211440510SA           | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2022-01-01        |
+| ENUC211430010             | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC211430010SA           | Total Quarterly Wages in Elkhart-Goshen, IN (MSA)                                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC211440010             | Average Weekly Wages for Employees in Total Covered Establishments in Elkhart-Goshen, IN (MSA)                        | 1990-01-01          | 2022-04-01        |
+| ENUC211440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Elkhart-Goshen, IN (MSA)                        | 1990-01-01          | 2022-04-01        |
+| ENUC211440110             | Average Weekly Wages for Employees in Federal Government Establishments in Elkhart-Goshen, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC211440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Elkhart-Goshen, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC211440210             | Average Weekly Wages for Employees in State Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-04-01        |
+| ENUC211440210SA           | Average Weekly Wages for Employees in State Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-04-01        |
+| ENUC211440310             | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-04-01        |
+| ENUC211440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Elkhart-Goshen, IN (MSA)                     | 1990-01-01          | 2022-04-01        |
+| ENUC211440510             | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2022-04-01        |
+| ENUC211440510SA           | Average Weekly Wages for Employees in Private Establishments in Elkhart-Goshen, IN (MSA)                              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA21140            | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA21140              | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA21140            | Market Hotness: Hotness Rank in Elkhart-Goshen, IN (CBSA)                                                             | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU21140            | Housing Inventory: New Listing Count in Elkhart-Goshen, IN (CBSA)                                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM21140          | Housing Inventory: New Listing Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY21140          | Housing Inventory: New Listing Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                      | 2017-07-01          | 2022-11-01        |
-| NGMP21140                 | Total Gross Domestic Product for Elkhart-Goshen, IN (MSA)                                                             | 2001-01-01          | 2020-01-01        |
+| NGMP21140                 | Total Gross Domestic Product for Elkhart-Goshen, IN (MSA)                                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA21140            | Market Hotness: Nielsen Household Rank in Elkhart-Goshen, IN (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA121140          | U.S. Granted Utility Patents Originating in Elkhart-Goshen, IN (MSA)                                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU21140            | Housing Inventory: Pending Listing Count in Elkhart-Goshen, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU21140            | Housing Inventory: Price Reduced Count in Elkhart-Goshen, IN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM21140          | Housing Inventory: Price Reduced Count Month-Over-Month in Elkhart-Goshen, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY21140          | Housing Inventory: Price Reduced Count Year-Over-Year in Elkhart-Goshen, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| QGMP21140                 | Total Quantity Indexes for Real GDP for Elkhart-Goshen, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
-| RGMP21140                 | Total Real Gross Domestic Product for Elkhart-Goshen, IN (MSA)                                                        | 2001-01-01          | 2020-01-01        |
+| QGMP21140                 | Total Quantity Indexes for Real GDP for Elkhart-Goshen, IN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
+| RGMP21140                 | Total Real Gross Domestic Product for Elkhart-Goshen, IN (MSA)                                                        | 2001-01-01          | 2021-01-01        |
 | RPI21140                  | Real Personal Income for Elkhart-Goshen, IN (MSA)                                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC21140                | Real Per Capita Personal Income for Elkhart-Goshen, IN (MSA)                                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL21140               | Regional Price Parities: All Items for Elkhart-Goshen, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |

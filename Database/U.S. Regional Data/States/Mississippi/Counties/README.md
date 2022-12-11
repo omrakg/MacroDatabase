@@ -36,13 +36,13 @@
 | Benton County, MS          |                88 |
 | Kemper County, MS          |                87 |
 | Oktibbeha County, MS       |               146 |
-| Sharkey County, MS         |                 0 |
+| Sharkey County, MS         |                88 |
 | Grenada County, MS         |                90 |
 | Noxubee County, MS         |                87 |
 | Alcorn County, MS          |                89 |
 | Clay County, MS            |                89 |
 | Simpson County, MS         |                90 |
-| Sunflower County, MS       |                89 |
+| Sunflower County, MS       |                 0 |
 | Leflore County, MS         |                90 |
 | Tunica County, MS          |                88 |
 | Lafayette County, MS       |               144 |

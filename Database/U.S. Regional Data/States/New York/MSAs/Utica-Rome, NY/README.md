@@ -8,18 +8,18 @@
 | AVELISPRIMM46540          | Housing Inventory: Average Listing Price Month-Over-Month in Utica-Rome, NY (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY46540          | Housing Inventory: Average Listing Price Year-Over-Year in Utica-Rome, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA46540              | Market Hotness: Demand Score in Utica-Rome, NY (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC465430010             | Total Quarterly Wages in Utica-Rome, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC465430010SA           | Total Quarterly Wages in Utica-Rome, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC465440010             | Average Weekly Wages for Employees in Total Covered Establishments in Utica-Rome, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC465440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Utica-Rome, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC465440110             | Average Weekly Wages for Employees in Federal Government Establishments in Utica-Rome, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC465440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Utica-Rome, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC465440210             | Average Weekly Wages for Employees in State Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC465440210SA           | Average Weekly Wages for Employees in State Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC465440310             | Average Weekly Wages for Employees in Local Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC465440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC465440510             | Average Weekly Wages for Employees in Private Establishments in Utica-Rome, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC465440510SA           | Average Weekly Wages for Employees in Private Establishments in Utica-Rome, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC465430010             | Total Quarterly Wages in Utica-Rome, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC465430010SA           | Total Quarterly Wages in Utica-Rome, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC465440010             | Average Weekly Wages for Employees in Total Covered Establishments in Utica-Rome, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC465440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Utica-Rome, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC465440110             | Average Weekly Wages for Employees in Federal Government Establishments in Utica-Rome, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC465440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Utica-Rome, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC465440210             | Average Weekly Wages for Employees in State Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC465440210SA           | Average Weekly Wages for Employees in State Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC465440310             | Average Weekly Wages for Employees in Local Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC465440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Utica-Rome, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC465440510             | Average Weekly Wages for Employees in Private Establishments in Utica-Rome, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC465440510SA           | Average Weekly Wages for Employees in Private Establishments in Utica-Rome, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA46540            | Market Hotness: Hotness Rank in Utica-Rome, NY (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA46540              | Market Hotness: Hotness Rank in Utica-Rome, NY (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA46540            | Market Hotness: Hotness Rank in Utica-Rome, NY (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU46540            | Housing Inventory: New Listing Count in Utica-Rome, NY (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM46540          | Housing Inventory: New Listing Count Month-Over-Month in Utica-Rome, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY46540          | Housing Inventory: New Listing Count Year-Over-Year in Utica-Rome, NY (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP46540                 | Total Gross Domestic Product for Utica-Rome, NY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP46540                 | Total Gross Domestic Product for Utica-Rome, NY (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA46540            | Market Hotness: Nielsen Household Rank in Utica-Rome, NY (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA146540          | U.S. Granted Utility Patents Originating in Utica-Rome, NY (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU46540            | Housing Inventory: Pending Listing Count in Utica-Rome, NY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU46540            | Housing Inventory: Price Reduced Count in Utica-Rome, NY (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM46540          | Housing Inventory: Price Reduced Count Month-Over-Month in Utica-Rome, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY46540          | Housing Inventory: Price Reduced Count Year-Over-Year in Utica-Rome, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP46540                 | Total Quantity Indexes for Real GDP for Utica-Rome, NY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP46540                 | Total Real Gross Domestic Product for Utica-Rome, NY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP46540                 | Total Quantity Indexes for Real GDP for Utica-Rome, NY (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP46540                 | Total Real Gross Domestic Product for Utica-Rome, NY (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI46540                  | Real Personal Income for Utica-Rome, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC46540                | Real Per Capita Personal Income for Utica-Rome, NY (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL46540               | Regional Price Parities: All Items for Utica-Rome, NY (MSA)                                                     | 2008-01-01          | 2020-01-01        |

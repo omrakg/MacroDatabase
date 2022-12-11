@@ -36,18 +36,18 @@
 | CHAT847URN                | Unemployment Rate in Chattanooga, TN-GA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | CHTPOP                    | Resident Population in Chattanooga, TN-GA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16860              | Market Hotness: Demand Score in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC168630010             | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC168630010SA           | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC168640010             | Average Weekly Wages for Employees in Total Covered Establishments in Chattanooga, TN-GA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC168640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chattanooga, TN-GA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC168640110             | Average Weekly Wages for Employees in Federal Government Establishments in Chattanooga, TN-GA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC168640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chattanooga, TN-GA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC168640210             | Average Weekly Wages for Employees in State Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC168640210SA           | Average Weekly Wages for Employees in State Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC168640310             | Average Weekly Wages for Employees in Local Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC168640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC168640510             | Average Weekly Wages for Employees in Private Establishments in Chattanooga, TN-GA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC168640510SA           | Average Weekly Wages for Employees in Private Establishments in Chattanooga, TN-GA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC168630010             | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC168630010SA           | Total Quarterly Wages in Chattanooga, TN-GA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC168640010             | Average Weekly Wages for Employees in Total Covered Establishments in Chattanooga, TN-GA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC168640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chattanooga, TN-GA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC168640110             | Average Weekly Wages for Employees in Federal Government Establishments in Chattanooga, TN-GA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC168640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chattanooga, TN-GA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC168640210             | Average Weekly Wages for Employees in State Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC168640210SA           | Average Weekly Wages for Employees in State Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC168640310             | Average Weekly Wages for Employees in Local Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC168640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chattanooga, TN-GA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC168640510             | Average Weekly Wages for Employees in Private Establishments in Chattanooga, TN-GA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC168640510SA           | Average Weekly Wages for Employees in Private Establishments in Chattanooga, TN-GA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA16860            | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA16860              | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA16860            | Market Hotness: Hotness Rank in Chattanooga, TN-GA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -88,7 +88,7 @@
 | NEWLISCOU16860            | Housing Inventory: New Listing Count in Chattanooga, TN-GA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM16860          | Housing Inventory: New Listing Count Month-Over-Month in Chattanooga, TN-GA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY16860          | Housing Inventory: New Listing Count Year-Over-Year in Chattanooga, TN-GA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP16860                 | Total Gross Domestic Product for Chattanooga, TN-GA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP16860                 | Total Gross Domestic Product for Chattanooga, TN-GA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA16860            | Market Hotness: Nielsen Household Rank in Chattanooga, TN-GA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA116860          | U.S. Granted Utility Patents Originating in Chattanooga, TN-GA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU16860            | Housing Inventory: Pending Listing Count in Chattanooga, TN-GA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -100,8 +100,8 @@
 | PRIREDCOU16860            | Housing Inventory: Price Reduced Count in Chattanooga, TN-GA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM16860          | Housing Inventory: Price Reduced Count Month-Over-Month in Chattanooga, TN-GA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY16860          | Housing Inventory: Price Reduced Count Year-Over-Year in Chattanooga, TN-GA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP16860                 | Total Quantity Indexes for Real GDP for Chattanooga, TN-GA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP16860                 | Total Real Gross Domestic Product for Chattanooga, TN-GA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP16860                 | Total Quantity Indexes for Real GDP for Chattanooga, TN-GA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP16860                 | Total Real Gross Domestic Product for Chattanooga, TN-GA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI16860                  | Real Personal Income for Chattanooga, TN-GA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC16860                | Real Per Capita Personal Income for Chattanooga, TN-GA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL16860               | Regional Price Parities: All Items for Chattanooga, TN-GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

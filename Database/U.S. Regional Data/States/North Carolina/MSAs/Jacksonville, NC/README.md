@@ -8,18 +8,18 @@
 | AVELISPRIMM27340          | Housing Inventory: Average Listing Price Month-Over-Month in Jacksonville, NC (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY27340          | Housing Inventory: Average Listing Price Year-Over-Year in Jacksonville, NC (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA27340              | Market Hotness: Demand Score in Jacksonville, NC (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC273430010             | Total Quarterly Wages in Jacksonville, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC273430010SA           | Total Quarterly Wages in Jacksonville, NC (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC273440010             | Average Weekly Wages for Employees in Total Covered Establishments in Jacksonville, NC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC273440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jacksonville, NC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC273440110             | Average Weekly Wages for Employees in Federal Government Establishments in Jacksonville, NC (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC273440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jacksonville, NC (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC273440210             | Average Weekly Wages for Employees in State Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC273440210SA           | Average Weekly Wages for Employees in State Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC273440310             | Average Weekly Wages for Employees in Local Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC273440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC273440510             | Average Weekly Wages for Employees in Private Establishments in Jacksonville, NC (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC273440510SA           | Average Weekly Wages for Employees in Private Establishments in Jacksonville, NC (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC273430010             | Total Quarterly Wages in Jacksonville, NC (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC273430010SA           | Total Quarterly Wages in Jacksonville, NC (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC273440010             | Average Weekly Wages for Employees in Total Covered Establishments in Jacksonville, NC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC273440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jacksonville, NC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC273440110             | Average Weekly Wages for Employees in Federal Government Establishments in Jacksonville, NC (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC273440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jacksonville, NC (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC273440210             | Average Weekly Wages for Employees in State Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC273440210SA           | Average Weekly Wages for Employees in State Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC273440310             | Average Weekly Wages for Employees in Local Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC273440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Jacksonville, NC (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC273440510             | Average Weekly Wages for Employees in Private Establishments in Jacksonville, NC (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC273440510SA           | Average Weekly Wages for Employees in Private Establishments in Jacksonville, NC (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA27340            | Market Hotness: Hotness Rank in Jacksonville, NC (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA27340              | Market Hotness: Hotness Rank in Jacksonville, NC (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA27340            | Market Hotness: Hotness Rank in Jacksonville, NC (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU27340            | Housing Inventory: New Listing Count in Jacksonville, NC (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM27340          | Housing Inventory: New Listing Count Month-Over-Month in Jacksonville, NC (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY27340          | Housing Inventory: New Listing Count Year-Over-Year in Jacksonville, NC (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP27340                 | Total Gross Domestic Product for Jacksonville, NC (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP27340                 | Total Gross Domestic Product for Jacksonville, NC (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA27340            | Market Hotness: Nielsen Household Rank in Jacksonville, NC (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA127340          | U.S. Granted Utility Patents Originating in Jacksonville, NC (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU27340            | Housing Inventory: Pending Listing Count in Jacksonville, NC (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -81,8 +81,8 @@
 | PRIREDCOU27340            | Housing Inventory: Price Reduced Count in Jacksonville, NC (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM27340          | Housing Inventory: Price Reduced Count Month-Over-Month in Jacksonville, NC (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY27340          | Housing Inventory: Price Reduced Count Year-Over-Year in Jacksonville, NC (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP27340                 | Total Quantity Indexes for Real GDP for Jacksonville, NC (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP27340                 | Total Real Gross Domestic Product for Jacksonville, NC (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP27340                 | Total Quantity Indexes for Real GDP for Jacksonville, NC (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP27340                 | Total Real Gross Domestic Product for Jacksonville, NC (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI27340                  | Real Personal Income for Jacksonville, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC27340                | Real Per Capita Personal Income for Jacksonville, NC (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL27340               | Regional Price Parities: All Items for Jacksonville, NC (MSA)                                       | 2008-01-01          | 2020-01-01        |

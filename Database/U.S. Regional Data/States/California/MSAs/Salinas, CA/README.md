@@ -8,18 +8,18 @@
 | AVELISPRIMM41500          | Housing Inventory: Average Listing Price Month-Over-Month in Salinas, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY41500          | Housing Inventory: Average Listing Price Year-Over-Year in Salinas, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA41500              | Market Hotness: Demand Score in Salinas, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC415030010             | Total Quarterly Wages in Salinas, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC415030010SA           | Total Quarterly Wages in Salinas, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC415040010             | Average Weekly Wages for Employees in Total Covered Establishments in Salinas, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC415040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salinas, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC415040110             | Average Weekly Wages for Employees in Federal Government Establishments in Salinas, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC415040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salinas, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC415040210             | Average Weekly Wages for Employees in State Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC415040210SA           | Average Weekly Wages for Employees in State Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC415040310             | Average Weekly Wages for Employees in Local Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC415040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC415040510             | Average Weekly Wages for Employees in Private Establishments in Salinas, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC415040510SA           | Average Weekly Wages for Employees in Private Establishments in Salinas, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC415030010             | Total Quarterly Wages in Salinas, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC415030010SA           | Total Quarterly Wages in Salinas, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC415040010             | Average Weekly Wages for Employees in Total Covered Establishments in Salinas, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC415040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Salinas, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC415040110             | Average Weekly Wages for Employees in Federal Government Establishments in Salinas, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC415040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Salinas, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC415040210             | Average Weekly Wages for Employees in State Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC415040210SA           | Average Weekly Wages for Employees in State Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC415040310             | Average Weekly Wages for Employees in Local Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC415040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Salinas, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC415040510             | Average Weekly Wages for Employees in Private Establishments in Salinas, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC415040510SA           | Average Weekly Wages for Employees in Private Establishments in Salinas, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA41500            | Market Hotness: Hotness Rank in Salinas, CA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA41500              | Market Hotness: Hotness Rank in Salinas, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA41500            | Market Hotness: Hotness Rank in Salinas, CA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU41500            | Housing Inventory: New Listing Count in Salinas, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM41500          | Housing Inventory: New Listing Count Month-Over-Month in Salinas, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY41500          | Housing Inventory: New Listing Count Year-Over-Year in Salinas, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP41500                 | Total Gross Domestic Product for Salinas, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP41500                 | Total Gross Domestic Product for Salinas, CA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA41500            | Market Hotness: Nielsen Household Rank in Salinas, CA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA141500          | U.S. Granted Utility Patents Originating in Salinas, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU41500            | Housing Inventory: Pending Listing Count in Salinas, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU41500            | Housing Inventory: Price Reduced Count in Salinas, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM41500          | Housing Inventory: Price Reduced Count Month-Over-Month in Salinas, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY41500          | Housing Inventory: Price Reduced Count Year-Over-Year in Salinas, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP41500                 | Total Quantity Indexes for Real GDP for Salinas, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP41500                 | Total Real Gross Domestic Product for Salinas, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP41500                 | Total Quantity Indexes for Real GDP for Salinas, CA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP41500                 | Total Real Gross Domestic Product for Salinas, CA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI41500                  | Real Personal Income for Salinas, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC41500                | Real Per Capita Personal Income for Salinas, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL41500               | Regional Price Parities: All Items for Salinas, CA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

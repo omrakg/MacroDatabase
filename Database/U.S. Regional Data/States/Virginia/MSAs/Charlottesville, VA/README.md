@@ -24,18 +24,18 @@
 | CHAR851URN                | Unemployment Rate in Charlottesville, VA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | CHLPOP                    | Resident Population in Charlottesville, VA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA16820              | Market Hotness: Demand Score in Charlottesville, VA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC168230010             | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC168230010SA           | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC168240010             | Average Weekly Wages for Employees in Total Covered Establishments in Charlottesville, VA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC168240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Charlottesville, VA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC168240110             | Average Weekly Wages for Employees in Federal Government Establishments in Charlottesville, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC168240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Charlottesville, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC168240210             | Average Weekly Wages for Employees in State Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC168240210SA           | Average Weekly Wages for Employees in State Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC168240310             | Average Weekly Wages for Employees in Local Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC168240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC168240510             | Average Weekly Wages for Employees in Private Establishments in Charlottesville, VA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC168240510SA           | Average Weekly Wages for Employees in Private Establishments in Charlottesville, VA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC168230010             | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC168230010SA           | Total Quarterly Wages in Charlottesville, VA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC168240010             | Average Weekly Wages for Employees in Total Covered Establishments in Charlottesville, VA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC168240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Charlottesville, VA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC168240110             | Average Weekly Wages for Employees in Federal Government Establishments in Charlottesville, VA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC168240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Charlottesville, VA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC168240210             | Average Weekly Wages for Employees in State Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC168240210SA           | Average Weekly Wages for Employees in State Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC168240310             | Average Weekly Wages for Employees in Local Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC168240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Charlottesville, VA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC168240510             | Average Weekly Wages for Employees in Private Establishments in Charlottesville, VA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC168240510SA           | Average Weekly Wages for Employees in Private Establishments in Charlottesville, VA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA16820            | Market Hotness: Hotness Rank in Charlottesville, VA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA16820              | Market Hotness: Hotness Rank in Charlottesville, VA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA16820            | Market Hotness: Hotness Rank in Charlottesville, VA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -75,7 +75,7 @@
 | NEWLISCOU16820            | Housing Inventory: New Listing Count in Charlottesville, VA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM16820          | Housing Inventory: New Listing Count Month-Over-Month in Charlottesville, VA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY16820          | Housing Inventory: New Listing Count Year-Over-Year in Charlottesville, VA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP16820                 | Total Gross Domestic Product for Charlottesville, VA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP16820                 | Total Gross Domestic Product for Charlottesville, VA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA16820            | Market Hotness: Nielsen Household Rank in Charlottesville, VA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA116820          | U.S. Granted Utility Patents Originating in Charlottesville, VA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU16820            | Housing Inventory: Pending Listing Count in Charlottesville, VA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -87,8 +87,8 @@
 | PRIREDCOU16820            | Housing Inventory: Price Reduced Count in Charlottesville, VA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM16820          | Housing Inventory: Price Reduced Count Month-Over-Month in Charlottesville, VA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY16820          | Housing Inventory: Price Reduced Count Year-Over-Year in Charlottesville, VA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP16820                 | Total Quantity Indexes for Real GDP for Charlottesville, VA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP16820                 | Total Real Gross Domestic Product for Charlottesville, VA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP16820                 | Total Quantity Indexes for Real GDP for Charlottesville, VA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP16820                 | Total Real Gross Domestic Product for Charlottesville, VA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI16820                  | Real Personal Income for Charlottesville, VA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC16820                | Real Per Capita Personal Income for Charlottesville, VA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL16820               | Regional Price Parities: All Items for Charlottesville, VA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -7,16 +7,16 @@
 | AVELISPRI26820            | Housing Inventory: Average Listing Price in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM26820          | Housing Inventory: Average Listing Price Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY26820          | Housing Inventory: Average Listing Price Year-Over-Year in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC268230010             | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC268230010SA           | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC268240010             | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC268240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC268240110             | Average Weekly Wages for Employees in Federal Government Establishments in Idaho Falls, ID (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC268240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Idaho Falls, ID (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC268240210             | Average Weekly Wages for Employees in State Government Establishments in Idaho Falls, ID (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC268240310             | Average Weekly Wages for Employees in Local Government Establishments in Idaho Falls, ID (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC268240510             | Average Weekly Wages for Employees in Private Establishments in Idaho Falls, ID (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC268240510SA           | Average Weekly Wages for Employees in Private Establishments in Idaho Falls, ID (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC268230010             | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC268230010SA           | Total Quarterly Wages in Idaho Falls, ID (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC268240010             | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC268240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Idaho Falls, ID (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC268240110             | Average Weekly Wages for Employees in Federal Government Establishments in Idaho Falls, ID (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC268240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Idaho Falls, ID (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC268240210             | Average Weekly Wages for Employees in State Government Establishments in Idaho Falls, ID (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC268240310             | Average Weekly Wages for Employees in Local Government Establishments in Idaho Falls, ID (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC268240510             | Average Weekly Wages for Employees in Private Establishments in Idaho Falls, ID (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC268240510SA           | Average Weekly Wages for Employees in Private Establishments in Idaho Falls, ID (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IDAH816EDUH               | All Employees: Education and Health Services in Idaho Falls, ID (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | IDAH816EDUHN              | All Employees: Education and Health Services in Idaho Falls, ID (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | IDAH816FIRE               | All Employees: Financial Activities in Idaho Falls, ID (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -67,7 +67,7 @@
 | NEWLISCOU26820            | Housing Inventory: New Listing Count in Idaho Falls, ID (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM26820          | Housing Inventory: New Listing Count Month-Over-Month in Idaho Falls, ID (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY26820          | Housing Inventory: New Listing Count Year-Over-Year in Idaho Falls, ID (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP26820                 | Total Gross Domestic Product for Idaho Falls, ID (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP26820                 | Total Gross Domestic Product for Idaho Falls, ID (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA126820          | U.S. Granted Utility Patents Originating in Idaho Falls, ID (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU26820            | Housing Inventory: Pending Listing Count in Idaho Falls, ID (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM26820          | Housing Inventory: Pending Listing Count Month-Over-Month in Idaho Falls, ID (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -78,8 +78,8 @@
 | PRIREDCOU26820            | Housing Inventory: Price Reduced Count in Idaho Falls, ID (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM26820          | Housing Inventory: Price Reduced Count Month-Over-Month in Idaho Falls, ID (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY26820          | Housing Inventory: Price Reduced Count Year-Over-Year in Idaho Falls, ID (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP26820                 | Total Quantity Indexes for Real GDP for Idaho Falls, ID (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP26820                 | Total Real Gross Domestic Product for Idaho Falls, ID (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP26820                 | Total Quantity Indexes for Real GDP for Idaho Falls, ID (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP26820                 | Total Real Gross Domestic Product for Idaho Falls, ID (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI26820                  | Real Personal Income for Idaho Falls, ID (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC26820                | Real Per Capita Personal Income for Idaho Falls, ID (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL26820               | Regional Price Parities: All Items for Idaho Falls, ID (MSA)                                                     | 2008-01-01          | 2020-01-01        |

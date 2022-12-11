@@ -8,18 +8,18 @@
 | AVELISPRIMM32580          | Housing Inventory: Average Listing Price Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY32580          | Housing Inventory: Average Listing Price Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA32580              | Market Hotness: Demand Score in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC325830010             | Total Quarterly Wages in McAllen-Edinburg-Mission, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC325830010SA           | Total Quarterly Wages in McAllen-Edinburg-Mission, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC325840010             | Average Weekly Wages for Employees in Total Covered Establishments in McAllen-Edinburg-Mission, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC325840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in McAllen-Edinburg-Mission, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC325840110             | Average Weekly Wages for Employees in Federal Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC325840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC325840210             | Average Weekly Wages for Employees in State Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC325840210SA           | Average Weekly Wages for Employees in State Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC325840310             | Average Weekly Wages for Employees in Local Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC325840310SA           | Average Weekly Wages for Employees in Local Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC325840510             | Average Weekly Wages for Employees in Private Establishments in McAllen-Edinburg-Mission, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC325840510SA           | Average Weekly Wages for Employees in Private Establishments in McAllen-Edinburg-Mission, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC325830010             | Total Quarterly Wages in McAllen-Edinburg-Mission, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC325830010SA           | Total Quarterly Wages in McAllen-Edinburg-Mission, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC325840010             | Average Weekly Wages for Employees in Total Covered Establishments in McAllen-Edinburg-Mission, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC325840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in McAllen-Edinburg-Mission, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC325840110             | Average Weekly Wages for Employees in Federal Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC325840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC325840210             | Average Weekly Wages for Employees in State Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC325840210SA           | Average Weekly Wages for Employees in State Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC325840310             | Average Weekly Wages for Employees in Local Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC325840310SA           | Average Weekly Wages for Employees in Local Government Establishments in McAllen-Edinburg-Mission, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC325840510             | Average Weekly Wages for Employees in Private Establishments in McAllen-Edinburg-Mission, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC325840510SA           | Average Weekly Wages for Employees in Private Establishments in McAllen-Edinburg-Mission, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA32580              | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA32580            | Market Hotness: Hotness Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -148,7 +148,7 @@
 | NEWLISCOU32580            | Housing Inventory: New Listing Count in Mcallen-Edinburg-Mission, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM32580          | Housing Inventory: New Listing Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY32580          | Housing Inventory: New Listing Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP32580                 | Total Gross Domestic Product for McAllen-Edinburg-Mission, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP32580                 | Total Gross Domestic Product for McAllen-Edinburg-Mission, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA32580            | Market Hotness: Nielsen Household Rank in Mcallen-Edinburg-Mission, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA132580          | U.S. Granted Utility Patents Originating in McAllen-Edinburg-Mission, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU32580            | Housing Inventory: Pending Listing Count in Mcallen-Edinburg-Mission, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -160,8 +160,8 @@
 | PRIREDCOU32580            | Housing Inventory: Price Reduced Count in Mcallen-Edinburg-Mission, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM32580          | Housing Inventory: Price Reduced Count Month-Over-Month in Mcallen-Edinburg-Mission, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY32580          | Housing Inventory: Price Reduced Count Year-Over-Year in Mcallen-Edinburg-Mission, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP32580                 | Total Quantity Indexes for Real GDP for McAllen-Edinburg-Mission, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP32580                 | Total Real Gross Domestic Product for McAllen-Edinburg-Mission, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP32580                 | Total Quantity Indexes for Real GDP for McAllen-Edinburg-Mission, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP32580                 | Total Real Gross Domestic Product for McAllen-Edinburg-Mission, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI32580                  | Real Personal Income for McAllen-Edinburg-Mission, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC32580                | Real Per Capita Personal Income for McAllen-Edinburg-Mission, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL32580               | Regional Price Parities: All Items for McAllen-Edinburg-Mission, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

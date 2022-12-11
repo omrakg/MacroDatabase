@@ -7,18 +7,18 @@
 | AVELISPRI44940            | Housing Inventory: Average Listing Price in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM44940          | Housing Inventory: Average Listing Price Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY44940          | Housing Inventory: Average Listing Price Year-Over-Year in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-11-01        |
-| ENUC449430010             | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC449430010SA           | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC449440010             | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC449440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC449440110             | Average Weekly Wages for Employees in Federal Government Establishments in Sumter, SC (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC449440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sumter, SC (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC449440210             | Average Weekly Wages for Employees in State Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC449440210SA           | Average Weekly Wages for Employees in State Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC449440310             | Average Weekly Wages for Employees in Local Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC449440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC449440510             | Average Weekly Wages for Employees in Private Establishments in Sumter, SC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC449440510SA           | Average Weekly Wages for Employees in Private Establishments in Sumter, SC (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC449430010             | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC449430010SA           | Total Quarterly Wages in Sumter, SC (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC449440010             | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC449440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Sumter, SC (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC449440110             | Average Weekly Wages for Employees in Federal Government Establishments in Sumter, SC (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC449440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Sumter, SC (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC449440210             | Average Weekly Wages for Employees in State Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC449440210SA           | Average Weekly Wages for Employees in State Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC449440310             | Average Weekly Wages for Employees in Local Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC449440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Sumter, SC (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC449440510             | Average Weekly Wages for Employees in Private Establishments in Sumter, SC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC449440510SA           | Average Weekly Wages for Employees in Private Establishments in Sumter, SC (MSA)                 | 1990-01-01          | 2022-04-01        |
 | IRPD44940                 | Implicit Regional Price Deflator for Sumter, SC (MSA)                                            | 2008-01-01          | 2020-01-01        |
 | LAUMT454494000000003A     | Unemployment Rate in Sumter, SC (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | LAUMT454494000000004      | Unemployed Persons in Sumter, SC (MSA)                                                           | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU44940            | Housing Inventory: New Listing Count in Sumter, SC (CBSA)                                        | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM44940          | Housing Inventory: New Listing Count Month-Over-Month in Sumter, SC (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY44940          | Housing Inventory: New Listing Count Year-Over-Year in Sumter, SC (CBSA)                         | 2017-07-01          | 2022-11-01        |
-| NGMP44940                 | Total Gross Domestic Product for Sumter, SC (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| NGMP44940                 | Total Gross Domestic Product for Sumter, SC (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA144940          | U.S. Granted Utility Patents Originating in Sumter, SC (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU44940            | Housing Inventory: Pending Listing Count in Sumter, SC (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM44940          | Housing Inventory: Pending Listing Count Month-Over-Month in Sumter, SC (CBSA)                   | 2017-07-01          | 2022-11-01        |
@@ -52,8 +52,8 @@
 | PRIREDCOU44940            | Housing Inventory: Price Reduced Count in Sumter, SC (CBSA)                                      | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM44940          | Housing Inventory: Price Reduced Count Month-Over-Month in Sumter, SC (CBSA)                     | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY44940          | Housing Inventory: Price Reduced Count Year-Over-Year in Sumter, SC (CBSA)                       | 2017-07-01          | 2022-11-01        |
-| QGMP44940                 | Total Quantity Indexes for Real GDP for Sumter, SC (MSA)                                         | 2001-01-01          | 2020-01-01        |
-| RGMP44940                 | Total Real Gross Domestic Product for Sumter, SC (MSA)                                           | 2001-01-01          | 2020-01-01        |
+| QGMP44940                 | Total Quantity Indexes for Real GDP for Sumter, SC (MSA)                                         | 2001-01-01          | 2021-01-01        |
+| RGMP44940                 | Total Real Gross Domestic Product for Sumter, SC (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RPI44940                  | Real Personal Income for Sumter, SC (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPIPC44940                | Real Per Capita Personal Income for Sumter, SC (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPALL44940               | Regional Price Parities: All Items for Sumter, SC (MSA)                                          | 2008-01-01          | 2020-01-01        |

@@ -7,16 +7,16 @@
 | AVELISPRI25980            | Housing Inventory: Average Listing Price in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM25980          | Housing Inventory: Average Listing Price Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY25980          | Housing Inventory: Average Listing Price Year-Over-Year in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-11-01        |
-| ENUC259830010             | Total Quarterly Wages in Hinesville, GA (MSA)                                                                | 1990-01-01          | 2022-01-01        |
-| ENUC259830010SA           | Total Quarterly Wages in Hinesville, GA (MSA)                                                                | 1990-01-01          | 2022-01-01        |
-| ENUC259840010             | Average Weekly Wages for Employees in Total Covered Establishments in Hinesville-Fort Stewart, GA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC259840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hinesville-Fort Stewart, GA (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC259840110             | Average Weekly Wages for Employees in Federal Government Establishments in Hinesville-Fort Stewart, GA (MSA) | 1990-01-01          | 2022-01-01        |
-| ENUC259840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hinesville-Fort Stewart, GA (MSA) | 1990-01-01          | 2022-01-01        |
-| ENUC259840210             | Average Weekly Wages for Employees in State Government Establishments in Hinesville-Fort Stewart, GA (MSA)   | 2001-01-01          | 2017-10-01        |
-| ENUC259840310             | Average Weekly Wages for Employees in Local Government Establishments in Hinesville-Fort Stewart, GA (MSA)   | 2001-01-01          | 2017-10-01        |
-| ENUC259840510             | Average Weekly Wages for Employees in Private Establishments in Hinesville-Fort Stewart, GA (MSA)            | 1990-01-01          | 2022-01-01        |
-| ENUC259840510SA           | Average Weekly Wages for Employees in Private Establishments in Hinesville-Fort Stewart, GA (MSA)            | 1990-01-01          | 2022-01-01        |
+| ENUC259830010             | Total Quarterly Wages in Hinesville, GA (MSA)                                                                | 1990-01-01          | 2022-04-01        |
+| ENUC259830010SA           | Total Quarterly Wages in Hinesville, GA (MSA)                                                                | 1990-01-01          | 2022-04-01        |
+| ENUC259840010             | Average Weekly Wages for Employees in Total Covered Establishments in Hinesville-Fort Stewart, GA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC259840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hinesville-Fort Stewart, GA (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC259840110             | Average Weekly Wages for Employees in Federal Government Establishments in Hinesville-Fort Stewart, GA (MSA) | 1990-01-01          | 2022-04-01        |
+| ENUC259840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hinesville-Fort Stewart, GA (MSA) | 1990-01-01          | 2022-04-01        |
+| ENUC259840210             | Average Weekly Wages for Employees in State Government Establishments in Hinesville-Fort Stewart, GA (MSA)   | 2001-01-01          | 2022-04-01        |
+| ENUC259840310             | Average Weekly Wages for Employees in Local Government Establishments in Hinesville-Fort Stewart, GA (MSA)   | 2001-01-01          | 2022-04-01        |
+| ENUC259840510             | Average Weekly Wages for Employees in Private Establishments in Hinesville-Fort Stewart, GA (MSA)            | 1990-01-01          | 2022-04-01        |
+| ENUC259840510SA           | Average Weekly Wages for Employees in Private Establishments in Hinesville-Fort Stewart, GA (MSA)            | 1990-01-01          | 2022-04-01        |
 | HFSPOP                    | Resident Population in Hinesville, GA (MSA)                                                                  | 2000-01-01          | 2021-01-01        |
 | HINE913GOVT               | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | HINE913GOVTN              | All Employees: Government in Hinesville, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
@@ -49,7 +49,7 @@
 | NEWLISCOU25980            | Housing Inventory: New Listing Count in Hinesville, GA (CBSA)                                                | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM25980          | Housing Inventory: New Listing Count Month-Over-Month in Hinesville, GA (CBSA)                               | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY25980          | Housing Inventory: New Listing Count Year-Over-Year in Hinesville, GA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
-| NGMP25980                 | Total Gross Domestic Product for Hinesville, GA (MSA)                                                        | 2001-01-01          | 2020-01-01        |
+| NGMP25980                 | Total Gross Domestic Product for Hinesville, GA (MSA)                                                        | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA125980          | U.S. Granted Utility Patents Originating in Hinesville-Fort Stewart, GA (MSA)                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU25980            | Housing Inventory: Pending Listing Count in Hinesville, GA (CBSA)                                            | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM25980          | Housing Inventory: Pending Listing Count Month-Over-Month in Hinesville, GA (CBSA)                           | 2017-07-01          | 2022-11-01        |
@@ -60,8 +60,8 @@
 | PRIREDCOU25980            | Housing Inventory: Price Reduced Count in Hinesville, GA (CBSA)                                              | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM25980          | Housing Inventory: Price Reduced Count Month-Over-Month in Hinesville, GA (CBSA)                             | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY25980          | Housing Inventory: Price Reduced Count Year-Over-Year in Hinesville, GA (CBSA)                               | 2017-07-01          | 2022-11-01        |
-| QGMP25980                 | Total Quantity Indexes for Real GDP for Hinesville, GA (MSA)                                                 | 2001-01-01          | 2020-01-01        |
-| RGMP25980                 | Total Real Gross Domestic Product for Hinesville, GA (MSA)                                                   | 2001-01-01          | 2020-01-01        |
+| QGMP25980                 | Total Quantity Indexes for Real GDP for Hinesville, GA (MSA)                                                 | 2001-01-01          | 2021-01-01        |
+| RGMP25980                 | Total Real Gross Domestic Product for Hinesville, GA (MSA)                                                   | 2001-01-01          | 2021-01-01        |
 | RPI25980                  | Real Personal Income for Hinesville, GA (MSA)                                                                | 2008-01-01          | 2020-01-01        |
 | RPIPC25980                | Real Per Capita Personal Income for Hinesville, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPPALL25980               | Regional Price Parities: All Items for Hinesville, GA (MSA)                                                  | 2008-01-01          | 2020-01-01        |

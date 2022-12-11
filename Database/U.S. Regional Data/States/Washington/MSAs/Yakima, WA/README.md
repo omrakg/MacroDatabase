@@ -8,18 +8,18 @@
 | AVELISPRIMM49420          | Housing Inventory: Average Listing Price Month-Over-Month in Yakima, WA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY49420          | Housing Inventory: Average Listing Price Year-Over-Year in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA49420              | Market Hotness: Demand Score in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC494230010             | Total Quarterly Wages in Yakima, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC494230010SA           | Total Quarterly Wages in Yakima, WA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC494240010             | Average Weekly Wages for Employees in Total Covered Establishments in Yakima, WA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC494240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yakima, WA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC494240110             | Average Weekly Wages for Employees in Federal Government Establishments in Yakima, WA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC494240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yakima, WA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC494240210             | Average Weekly Wages for Employees in State Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC494240210SA           | Average Weekly Wages for Employees in State Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC494240310             | Average Weekly Wages for Employees in Local Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC494240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC494240510             | Average Weekly Wages for Employees in Private Establishments in Yakima, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC494240510SA           | Average Weekly Wages for Employees in Private Establishments in Yakima, WA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC494230010             | Total Quarterly Wages in Yakima, WA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC494230010SA           | Total Quarterly Wages in Yakima, WA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC494240010             | Average Weekly Wages for Employees in Total Covered Establishments in Yakima, WA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC494240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Yakima, WA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC494240110             | Average Weekly Wages for Employees in Federal Government Establishments in Yakima, WA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC494240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Yakima, WA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC494240210             | Average Weekly Wages for Employees in State Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC494240210SA           | Average Weekly Wages for Employees in State Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC494240310             | Average Weekly Wages for Employees in Local Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC494240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Yakima, WA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC494240510             | Average Weekly Wages for Employees in Private Establishments in Yakima, WA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC494240510SA           | Average Weekly Wages for Employees in Private Establishments in Yakima, WA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA49420            | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA49420              | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA49420            | Market Hotness: Hotness Rank in Yakima, WA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU49420            | Housing Inventory: New Listing Count in Yakima, WA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM49420          | Housing Inventory: New Listing Count Month-Over-Month in Yakima, WA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY49420          | Housing Inventory: New Listing Count Year-Over-Year in Yakima, WA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP49420                 | Total Gross Domestic Product for Yakima, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP49420                 | Total Gross Domestic Product for Yakima, WA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA49420            | Market Hotness: Nielsen Household Rank in Yakima, WA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA149420          | U.S. Granted Utility Patents Originating in Yakima, WA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU49420            | Housing Inventory: Pending Listing Count in Yakima, WA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU49420            | Housing Inventory: Price Reduced Count in Yakima, WA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM49420          | Housing Inventory: Price Reduced Count Month-Over-Month in Yakima, WA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY49420          | Housing Inventory: Price Reduced Count Year-Over-Year in Yakima, WA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP49420                 | Total Quantity Indexes for Real GDP for Yakima, WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP49420                 | Total Real Gross Domestic Product for Yakima, WA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP49420                 | Total Quantity Indexes for Real GDP for Yakima, WA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP49420                 | Total Real Gross Domestic Product for Yakima, WA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI49420                  | Real Personal Income for Yakima, WA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC49420                | Real Per Capita Personal Income for Yakima, WA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL49420               | Regional Price Parities: All Items for Yakima, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

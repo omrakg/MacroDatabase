@@ -17,18 +17,18 @@
 | CUMB024PCPI               | Per Capita Personal Income in Cumberland, MD-WV (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | CUMB024UR                 | Unemployment Rate in Cumberland, MD-WV (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | CUMB024URN                | Unemployment Rate in Cumberland, MD-WV (MSA)                                                         | 1990-01-01          | 2022-10-01        |
-| ENUC190630010             | Total Quarterly Wages in Cumberland, MD-WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC190630010SA           | Total Quarterly Wages in Cumberland, MD-WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC190640010             | Average Weekly Wages for Employees in Total Covered Establishments in Cumberland, MD-WV (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC190640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cumberland, MD-WV (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC190640110             | Average Weekly Wages for Employees in Federal Government Establishments in Cumberland, MD-WV (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC190640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cumberland, MD-WV (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC190640210             | Average Weekly Wages for Employees in State Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC190640210SA           | Average Weekly Wages for Employees in State Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC190640310             | Average Weekly Wages for Employees in Local Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC190640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC190640510             | Average Weekly Wages for Employees in Private Establishments in Cumberland, MD-WV (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC190640510SA           | Average Weekly Wages for Employees in Private Establishments in Cumberland, MD-WV (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC190630010             | Total Quarterly Wages in Cumberland, MD-WV (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC190630010SA           | Total Quarterly Wages in Cumberland, MD-WV (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC190640010             | Average Weekly Wages for Employees in Total Covered Establishments in Cumberland, MD-WV (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC190640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cumberland, MD-WV (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC190640110             | Average Weekly Wages for Employees in Federal Government Establishments in Cumberland, MD-WV (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC190640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cumberland, MD-WV (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC190640210             | Average Weekly Wages for Employees in State Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC190640210SA           | Average Weekly Wages for Employees in State Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC190640310             | Average Weekly Wages for Employees in Local Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC190640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cumberland, MD-WV (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC190640510             | Average Weekly Wages for Employees in Private Establishments in Cumberland, MD-WV (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC190640510SA           | Average Weekly Wages for Employees in Private Establishments in Cumberland, MD-WV (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD19060                 | Implicit Regional Price Deflator for Cumberland, MD-WV (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT241906000000003A     | Unemployment Rate in Cumberland, MD-WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT241906000000004      | Unemployed Persons in Cumberland, MD-WV (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -51,7 +51,7 @@
 | NEWLISCOU19060            | Housing Inventory: New Listing Count in Cumberland, MD-WV (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM19060          | Housing Inventory: New Listing Count Month-Over-Month in Cumberland, MD-WV (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY19060          | Housing Inventory: New Listing Count Year-Over-Year in Cumberland, MD-WV (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP19060                 | Total Gross Domestic Product for Cumberland, MD-WV (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP19060                 | Total Gross Domestic Product for Cumberland, MD-WV (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA119060          | U.S. Granted Utility Patents Originating in Cumberland, MD-WV (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU19060            | Housing Inventory: Pending Listing Count in Cumberland, MD-WV (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM19060          | Housing Inventory: Pending Listing Count Month-Over-Month in Cumberland, MD-WV (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -62,8 +62,8 @@
 | PRIREDCOU19060            | Housing Inventory: Price Reduced Count in Cumberland, MD-WV (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM19060          | Housing Inventory: Price Reduced Count Month-Over-Month in Cumberland, MD-WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY19060          | Housing Inventory: Price Reduced Count Year-Over-Year in Cumberland, MD-WV (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP19060                 | Total Quantity Indexes for Real GDP for Cumberland, MD-WV (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP19060                 | Total Real Gross Domestic Product for Cumberland, MD-WV (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP19060                 | Total Quantity Indexes for Real GDP for Cumberland, MD-WV (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP19060                 | Total Real Gross Domestic Product for Cumberland, MD-WV (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI19060                  | Real Personal Income for Cumberland, MD-WV (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC19060                | Real Per Capita Personal Income for Cumberland, MD-WV (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL19060               | Regional Price Parities: All Items for Cumberland, MD-WV (MSA)                                       | 2008-01-01          | 2020-01-01        |

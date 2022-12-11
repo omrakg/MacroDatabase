@@ -8,18 +8,18 @@
 | AVELISPRIMM34740          | Housing Inventory: Average Listing Price Month-Over-Month in Muskegon, MI (CBSA)                            | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY34740          | Housing Inventory: Average Listing Price Year-Over-Year in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | DESCMSA34740              | Market Hotness: Demand Score in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-11-01        |
-| ENUC347430010             | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| ENUC347430010SA           | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2022-01-01        |
-| ENUC347440010             | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC347440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC347440110             | Average Weekly Wages for Employees in Federal Government Establishments in Muskegon-Norton Shores, MI (MSA) | 1990-01-01          | 2022-01-01        |
-| ENUC347440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Muskegon-Norton Shores, MI (MSA) | 1990-01-01          | 2022-01-01        |
-| ENUC347440210             | Average Weekly Wages for Employees in State Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2022-01-01        |
-| ENUC347440210SA           | Average Weekly Wages for Employees in State Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2022-01-01        |
-| ENUC347440310             | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2022-01-01        |
-| ENUC347440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2022-01-01        |
-| ENUC347440510             | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2022-01-01        |
-| ENUC347440510SA           | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2022-01-01        |
+| ENUC347430010             | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2022-04-01        |
+| ENUC347430010SA           | Total Quarterly Wages in Muskegon, MI (MSA)                                                                 | 1990-01-01          | 2022-04-01        |
+| ENUC347440010             | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC347440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Muskegon-Norton Shores, MI (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC347440110             | Average Weekly Wages for Employees in Federal Government Establishments in Muskegon-Norton Shores, MI (MSA) | 1990-01-01          | 2022-04-01        |
+| ENUC347440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Muskegon-Norton Shores, MI (MSA) | 1990-01-01          | 2022-04-01        |
+| ENUC347440210             | Average Weekly Wages for Employees in State Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2022-04-01        |
+| ENUC347440210SA           | Average Weekly Wages for Employees in State Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2022-04-01        |
+| ENUC347440310             | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2022-04-01        |
+| ENUC347440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Muskegon-Norton Shores, MI (MSA)   | 2001-01-01          | 2022-04-01        |
+| ENUC347440510             | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2022-04-01        |
+| ENUC347440510SA           | Average Weekly Wages for Employees in Private Establishments in Muskegon-Norton Shores, MI (MSA)            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA34740            | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2017-09-01          | 2022-11-01        |
 | HORAMSA34740              | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA34740            | Market Hotness: Hotness Rank in Muskegon, MI (CBSA)                                                         | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU34740            | Housing Inventory: New Listing Count in Muskegon, MI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM34740          | Housing Inventory: New Listing Count Month-Over-Month in Muskegon, MI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY34740          | Housing Inventory: New Listing Count Year-Over-Year in Muskegon, MI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| NGMP34740                 | Total Gross Domestic Product for Muskegon, MI (MSA)                                                         | 2001-01-01          | 2020-01-01        |
+| NGMP34740                 | Total Gross Domestic Product for Muskegon, MI (MSA)                                                         | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA34740            | Market Hotness: Nielsen Household Rank in Muskegon, MI (CBSA)                                               | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA134740          | U.S. Granted Utility Patents Originating in Muskegon-Norton Shores, MI (MSA)                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU34740            | Housing Inventory: Pending Listing Count in Muskegon, MI (CBSA)                                             | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU34740            | Housing Inventory: Price Reduced Count in Muskegon, MI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM34740          | Housing Inventory: Price Reduced Count Month-Over-Month in Muskegon, MI (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY34740          | Housing Inventory: Price Reduced Count Year-Over-Year in Muskegon, MI (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| QGMP34740                 | Total Quantity Indexes for Real GDP for Muskegon, MI (MSA)                                                  | 2001-01-01          | 2020-01-01        |
-| RGMP34740                 | Total Real Gross Domestic Product for Muskegon, MI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
+| QGMP34740                 | Total Quantity Indexes for Real GDP for Muskegon, MI (MSA)                                                  | 2001-01-01          | 2021-01-01        |
+| RGMP34740                 | Total Real Gross Domestic Product for Muskegon, MI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
 | RPI34740                  | Real Personal Income for Muskegon, MI (MSA)                                                                 | 2008-01-01          | 2020-01-01        |
 | RPIPC34740                | Real Per Capita Personal Income for Muskegon, MI (MSA)                                                      | 2008-01-01          | 2020-01-01        |
 | RPPALL34740               | Regional Price Parities: All Items for Muskegon, MI (MSA)                                                   | 2008-01-01          | 2020-01-01        |

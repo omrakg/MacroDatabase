@@ -8,16 +8,16 @@
 | AVELISPRIMM27620          | Housing Inventory: Average Listing Price Month-Over-Month in Jefferson City, MO (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY27620          | Housing Inventory: Average Listing Price Year-Over-Year in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA27620              | Market Hotness: Demand Score in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC276230010             | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC276230010SA           | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC276240010             | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC276240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC276240110             | Average Weekly Wages for Employees in Federal Government Establishments in Jefferson City, MO (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC276240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jefferson City, MO (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC276240210             | Average Weekly Wages for Employees in State Government Establishments in Jefferson City, MO (MSA)     | 1990-01-01          | 2018-07-01        |
-| ENUC276240310             | Average Weekly Wages for Employees in Local Government Establishments in Jefferson City, MO (MSA)     | 1990-01-01          | 2018-07-01        |
-| ENUC276240510             | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC276240510SA           | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC276230010             | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC276230010SA           | Total Quarterly Wages in Jefferson City, MO (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC276240010             | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC276240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Jefferson City, MO (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC276240110             | Average Weekly Wages for Employees in Federal Government Establishments in Jefferson City, MO (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC276240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Jefferson City, MO (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC276240210             | Average Weekly Wages for Employees in State Government Establishments in Jefferson City, MO (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC276240310             | Average Weekly Wages for Employees in Local Government Establishments in Jefferson City, MO (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC276240510             | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC276240510SA           | Average Weekly Wages for Employees in Private Establishments in Jefferson City, MO (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA27620              | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA27620            | Market Hotness: Hotness Rank in Jefferson City, MO (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU27620            | Housing Inventory: New Listing Count in Jefferson City, MO (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM27620          | Housing Inventory: New Listing Count Month-Over-Month in Jefferson City, MO (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY27620          | Housing Inventory: New Listing Count Year-Over-Year in Jefferson City, MO (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP27620                 | Total Gross Domestic Product for Jefferson City, MO (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP27620                 | Total Gross Domestic Product for Jefferson City, MO (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA27620            | Market Hotness: Nielsen Household Rank in Jefferson City, MO (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA127620          | U.S. Granted Utility Patents Originating in Jefferson City, MO (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU27620            | Housing Inventory: Pending Listing Count in Jefferson City, MO (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -81,8 +81,8 @@
 | PRIREDCOU27620            | Housing Inventory: Price Reduced Count in Jefferson City, MO (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM27620          | Housing Inventory: Price Reduced Count Month-Over-Month in Jefferson City, MO (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY27620          | Housing Inventory: Price Reduced Count Year-Over-Year in Jefferson City, MO (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP27620                 | Total Quantity Indexes for Real GDP for Jefferson City, MO (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP27620                 | Total Real Gross Domestic Product for Jefferson City, MO (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP27620                 | Total Quantity Indexes for Real GDP for Jefferson City, MO (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP27620                 | Total Real Gross Domestic Product for Jefferson City, MO (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI27620                  | Real Personal Income for Jefferson City, MO (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC27620                | Real Per Capita Personal Income for Jefferson City, MO (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL27620               | Regional Price Parities: All Items for Jefferson City, MO (MSA)                                       | 2008-01-01          | 2020-01-01        |

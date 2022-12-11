@@ -34,18 +34,18 @@
 | COEU616UR                 | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | COEU616URN                | Unemployment Rate in Coeur d'Alene, ID (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA17660              | Market Hotness: Demand Score in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC176630010             | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC176630010SA           | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC176640010             | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC176640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC176640110             | Average Weekly Wages for Employees in Federal Government Establishments in Coeur d'Alene, ID (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC176640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Coeur d'Alene, ID (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC176640210             | Average Weekly Wages for Employees in State Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC176640210SA           | Average Weekly Wages for Employees in State Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC176640310             | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC176640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC176640510             | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC176640510SA           | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC176630010             | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC176630010SA           | Total Quarterly Wages in Coeur d'Alene, ID (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC176640010             | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC176640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Coeur d'Alene, ID (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC176640110             | Average Weekly Wages for Employees in Federal Government Establishments in Coeur d'Alene, ID (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC176640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Coeur d'Alene, ID (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC176640210             | Average Weekly Wages for Employees in State Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC176640210SA           | Average Weekly Wages for Employees in State Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC176640310             | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC176640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Coeur d'Alene, ID (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC176640510             | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC176640510SA           | Average Weekly Wages for Employees in Private Establishments in Coeur d'Alene, ID (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA17660              | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA17660            | Market Hotness: Hotness Rank in Coeur D'Alene, ID (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -85,7 +85,7 @@
 | NEWLISCOU17660            | Housing Inventory: New Listing Count in Coeur D'alene, ID (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM17660          | Housing Inventory: New Listing Count Month-Over-Month in Coeur D'alene, ID (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY17660          | Housing Inventory: New Listing Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP17660                 | Total Gross Domestic Product for Coeur d'Alene, ID (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP17660                 | Total Gross Domestic Product for Coeur d'Alene, ID (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA17660            | Market Hotness: Nielsen Household Rank in Coeur D'Alene, ID (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA117660          | U.S. Granted Utility Patents Originating in Coeur d'Alene, ID (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU17660            | Housing Inventory: Pending Listing Count in Coeur D'alene, ID (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -97,8 +97,8 @@
 | PRIREDCOU17660            | Housing Inventory: Price Reduced Count in Coeur D'alene, ID (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM17660          | Housing Inventory: Price Reduced Count Month-Over-Month in Coeur D'alene, ID (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY17660          | Housing Inventory: Price Reduced Count Year-Over-Year in Coeur D'alene, ID (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP17660                 | Total Quantity Indexes for Real GDP for Coeur d'Alene, ID (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP17660                 | Total Real Gross Domestic Product for Coeur d'Alene, ID (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP17660                 | Total Quantity Indexes for Real GDP for Coeur d'Alene, ID (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP17660                 | Total Real Gross Domestic Product for Coeur d'Alene, ID (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI17660                  | Real Personal Income for Coeur d'Alene, ID (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC17660                | Real Per Capita Personal Income for Coeur d'Alene, ID (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL17660               | Regional Price Parities: All Items for Coeur d'Alene, ID (MSA)                                                     | 2008-01-01          | 2020-01-01        |

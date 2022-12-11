@@ -40,18 +40,18 @@
 | AVELISPRIMM10740          | Housing Inventory: Average Listing Price Month-Over-Month in Albuquerque, NM (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY10740          | Housing Inventory: Average Listing Price Year-Over-Year in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA10740              | Market Hotness: Demand Score in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC107430010             | Total Quarterly Wages in Albuquerque, NM (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC107430010SA           | Total Quarterly Wages in Albuquerque, NM (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC107440010             | Average Weekly Wages for Employees in Total Covered Establishments in Albuquerque, NM (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC107440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Albuquerque, NM (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC107440110             | Average Weekly Wages for Employees in Federal Government Establishments in Albuquerque, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC107440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Albuquerque, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC107440210             | Average Weekly Wages for Employees in State Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC107440210SA           | Average Weekly Wages for Employees in State Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC107440310             | Average Weekly Wages for Employees in Local Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC107440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC107440510             | Average Weekly Wages for Employees in Private Establishments in Albuquerque, NM (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC107440510SA           | Average Weekly Wages for Employees in Private Establishments in Albuquerque, NM (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC107430010             | Total Quarterly Wages in Albuquerque, NM (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC107430010SA           | Total Quarterly Wages in Albuquerque, NM (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC107440010             | Average Weekly Wages for Employees in Total Covered Establishments in Albuquerque, NM (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC107440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Albuquerque, NM (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC107440110             | Average Weekly Wages for Employees in Federal Government Establishments in Albuquerque, NM (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC107440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Albuquerque, NM (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC107440210             | Average Weekly Wages for Employees in State Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC107440210SA           | Average Weekly Wages for Employees in State Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC107440310             | Average Weekly Wages for Employees in Local Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC107440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Albuquerque, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC107440510             | Average Weekly Wages for Employees in Private Establishments in Albuquerque, NM (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC107440510SA           | Average Weekly Wages for Employees in Private Establishments in Albuquerque, NM (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA10740            | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA10740              | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA10740            | Market Hotness: Hotness Rank in Albuquerque, NM (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -92,7 +92,7 @@
 | NEWLISCOU10740            | Housing Inventory: New Listing Count in Albuquerque, NM (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM10740          | Housing Inventory: New Listing Count Month-Over-Month in Albuquerque, NM (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY10740          | Housing Inventory: New Listing Count Year-Over-Year in Albuquerque, NM (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP10740                 | Total Gross Domestic Product for Albuquerque, NM (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP10740                 | Total Gross Domestic Product for Albuquerque, NM (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA10740            | Market Hotness: Nielsen Household Rank in Albuquerque, NM (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA110740          | U.S. Granted Utility Patents Originating in Albuquerque, NM (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU10740            | Housing Inventory: Pending Listing Count in Albuquerque, NM (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -104,8 +104,8 @@
 | PRIREDCOU10740            | Housing Inventory: Price Reduced Count in Albuquerque, NM (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM10740          | Housing Inventory: Price Reduced Count Month-Over-Month in Albuquerque, NM (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY10740          | Housing Inventory: Price Reduced Count Year-Over-Year in Albuquerque, NM (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP10740                 | Total Quantity Indexes for Real GDP for Albuquerque, NM (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP10740                 | Total Real Gross Domestic Product for Albuquerque, NM (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP10740                 | Total Quantity Indexes for Real GDP for Albuquerque, NM (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP10740                 | Total Real Gross Domestic Product for Albuquerque, NM (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI10740                  | Real Personal Income for Albuquerque, NM (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC10740                | Real Per Capita Personal Income for Albuquerque, NM (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL10740               | Regional Price Parities: All Items for Albuquerque, NM (MSA)                                                     | 2008-01-01          | 2020-01-01        |

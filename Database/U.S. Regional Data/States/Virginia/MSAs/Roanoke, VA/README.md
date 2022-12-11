@@ -8,18 +8,18 @@
 | AVELISPRIMM40220          | Housing Inventory: Average Listing Price Month-Over-Month in Roanoke, VA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY40220          | Housing Inventory: Average Listing Price Year-Over-Year in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA40220              | Market Hotness: Demand Score in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC402230010             | Total Quarterly Wages in Roanoke, VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC402230010SA           | Total Quarterly Wages in Roanoke, VA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC402240010             | Average Weekly Wages for Employees in Total Covered Establishments in Roanoke, VA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC402240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Roanoke, VA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC402240110             | Average Weekly Wages for Employees in Federal Government Establishments in Roanoke, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC402240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Roanoke, VA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC402240210             | Average Weekly Wages for Employees in State Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-01-01        |
-| ENUC402240210SA           | Average Weekly Wages for Employees in State Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-01-01        |
-| ENUC402240310             | Average Weekly Wages for Employees in Local Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-01-01        |
-| ENUC402240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-01-01        |
-| ENUC402240510             | Average Weekly Wages for Employees in Private Establishments in Roanoke, VA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC402240510SA           | Average Weekly Wages for Employees in Private Establishments in Roanoke, VA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC402230010             | Total Quarterly Wages in Roanoke, VA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC402230010SA           | Total Quarterly Wages in Roanoke, VA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC402240010             | Average Weekly Wages for Employees in Total Covered Establishments in Roanoke, VA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC402240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Roanoke, VA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC402240110             | Average Weekly Wages for Employees in Federal Government Establishments in Roanoke, VA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC402240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Roanoke, VA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC402240210             | Average Weekly Wages for Employees in State Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-04-01        |
+| ENUC402240210SA           | Average Weekly Wages for Employees in State Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-04-01        |
+| ENUC402240310             | Average Weekly Wages for Employees in Local Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-04-01        |
+| ENUC402240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Roanoke, VA (MSA)                   | 2011-01-01          | 2022-04-01        |
+| ENUC402240510             | Average Weekly Wages for Employees in Private Establishments in Roanoke, VA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC402240510SA           | Average Weekly Wages for Employees in Private Establishments in Roanoke, VA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA40220            | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA40220              | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA40220            | Market Hotness: Hotness Rank in Roanoke, VA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU40220            | Housing Inventory: New Listing Count in Roanoke, VA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM40220          | Housing Inventory: New Listing Count Month-Over-Month in Roanoke, VA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY40220          | Housing Inventory: New Listing Count Year-Over-Year in Roanoke, VA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP40220                 | Total Gross Domestic Product for Roanoke, VA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP40220                 | Total Gross Domestic Product for Roanoke, VA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA40220            | Market Hotness: Nielsen Household Rank in Roanoke, VA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA140220          | U.S. Granted Utility Patents Originating in Roanoke, VA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU40220            | Housing Inventory: Pending Listing Count in Roanoke, VA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU40220            | Housing Inventory: Price Reduced Count in Roanoke, VA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM40220          | Housing Inventory: Price Reduced Count Month-Over-Month in Roanoke, VA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY40220          | Housing Inventory: Price Reduced Count Year-Over-Year in Roanoke, VA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP40220                 | Total Quantity Indexes for Real GDP for Roanoke, VA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP40220                 | Total Real Gross Domestic Product for Roanoke, VA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP40220                 | Total Quantity Indexes for Real GDP for Roanoke, VA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP40220                 | Total Real Gross Domestic Product for Roanoke, VA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RKEPOP                    | Resident Population in Roanoke, VA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ROAN251EDUH               | All Employees: Education and Health Services in Roanoke, VA (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | ROAN251EDUHN              | All Employees: Education and Health Services in Roanoke, VA (MSA)                                            | 1990-01-01          | 2022-10-01        |

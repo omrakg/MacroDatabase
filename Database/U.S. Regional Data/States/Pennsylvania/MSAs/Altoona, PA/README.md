@@ -27,18 +27,18 @@
 | AVELISPRI11020            | Housing Inventory: Average Listing Price in Altoona, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM11020          | Housing Inventory: Average Listing Price Month-Over-Month in Altoona, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY11020          | Housing Inventory: Average Listing Price Year-Over-Year in Altoona, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC110230010             | Total Quarterly Wages in Altoona, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC110230010SA           | Total Quarterly Wages in Altoona, PA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC110240010             | Average Weekly Wages for Employees in Total Covered Establishments in Altoona, PA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC110240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Altoona, PA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC110240110             | Average Weekly Wages for Employees in Federal Government Establishments in Altoona, PA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC110240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Altoona, PA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC110240210             | Average Weekly Wages for Employees in State Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC110240210SA           | Average Weekly Wages for Employees in State Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC110240310             | Average Weekly Wages for Employees in Local Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC110240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC110240510             | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC110240510SA           | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC110230010             | Total Quarterly Wages in Altoona, PA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC110230010SA           | Total Quarterly Wages in Altoona, PA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC110240010             | Average Weekly Wages for Employees in Total Covered Establishments in Altoona, PA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC110240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Altoona, PA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC110240110             | Average Weekly Wages for Employees in Federal Government Establishments in Altoona, PA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC110240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Altoona, PA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC110240210             | Average Weekly Wages for Employees in State Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC110240210SA           | Average Weekly Wages for Employees in State Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC110240310             | Average Weekly Wages for Employees in Local Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC110240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Altoona, PA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC110240510             | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC110240510SA           | Average Weekly Wages for Employees in Private Establishments in Altoona, PA (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD11020                 | Implicit Regional Price Deflator for Altoona, PA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT421102000000003A     | Unemployment Rate in Altoona, PA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT421102000000004      | Unemployed Persons in Altoona, PA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -61,7 +61,7 @@
 | NEWLISCOU11020            | Housing Inventory: New Listing Count in Altoona, PA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM11020          | Housing Inventory: New Listing Count Month-Over-Month in Altoona, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY11020          | Housing Inventory: New Listing Count Year-Over-Year in Altoona, PA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP11020                 | Total Gross Domestic Product for Altoona, PA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP11020                 | Total Gross Domestic Product for Altoona, PA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA111020          | U.S. Granted Utility Patents Originating in Altoona, PA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU11020            | Housing Inventory: Pending Listing Count in Altoona, PA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM11020          | Housing Inventory: Pending Listing Count Month-Over-Month in Altoona, PA (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -72,8 +72,8 @@
 | PRIREDCOU11020            | Housing Inventory: Price Reduced Count in Altoona, PA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM11020          | Housing Inventory: Price Reduced Count Month-Over-Month in Altoona, PA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY11020          | Housing Inventory: Price Reduced Count Year-Over-Year in Altoona, PA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP11020                 | Total Quantity Indexes for Real GDP for Altoona, PA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP11020                 | Total Real Gross Domestic Product for Altoona, PA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP11020                 | Total Quantity Indexes for Real GDP for Altoona, PA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP11020                 | Total Real Gross Domestic Product for Altoona, PA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI11020                  | Real Personal Income for Altoona, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC11020                | Real Per Capita Personal Income for Altoona, PA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL11020               | Regional Price Parities: All Items for Altoona, PA (MSA)                                       | 2008-01-01          | 2020-01-01        |

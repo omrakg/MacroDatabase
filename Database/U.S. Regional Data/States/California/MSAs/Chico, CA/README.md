@@ -36,18 +36,18 @@
 | CHIC006UR                 | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | CHIC006URN                | Unemployment Rate in Chico, CA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA17020              | Market Hotness: Demand Score in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC170230010             | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC170230010SA           | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC170240010             | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC170240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC170240110             | Average Weekly Wages for Employees in Federal Government Establishments in Chico, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC170240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chico, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC170240210             | Average Weekly Wages for Employees in State Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC170240210SA           | Average Weekly Wages for Employees in State Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC170240310             | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC170240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC170240510             | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC170240510SA           | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC170230010             | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC170230010SA           | Total Quarterly Wages in Chico, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC170240010             | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC170240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Chico, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC170240110             | Average Weekly Wages for Employees in Federal Government Establishments in Chico, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC170240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Chico, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC170240210             | Average Weekly Wages for Employees in State Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC170240210SA           | Average Weekly Wages for Employees in State Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC170240310             | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC170240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Chico, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC170240510             | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC170240510SA           | Average Weekly Wages for Employees in Private Establishments in Chico, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA17020            | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA17020              | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA17020            | Market Hotness: Hotness Rank in Chico, CA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU17020            | Housing Inventory: New Listing Count in Chico, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM17020          | Housing Inventory: New Listing Count Month-Over-Month in Chico, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY17020          | Housing Inventory: New Listing Count Year-Over-Year in Chico, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP17020                 | Total Gross Domestic Product for Chico, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP17020                 | Total Gross Domestic Product for Chico, CA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA17020            | Market Hotness: Nielsen Household Rank in Chico, CA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA117020          | U.S. Granted Utility Patents Originating in Chico, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU17020            | Housing Inventory: Pending Listing Count in Chico, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU17020            | Housing Inventory: Price Reduced Count in Chico, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM17020          | Housing Inventory: Price Reduced Count Month-Over-Month in Chico, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY17020          | Housing Inventory: Price Reduced Count Year-Over-Year in Chico, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP17020                 | Total Quantity Indexes for Real GDP for Chico, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP17020                 | Total Real Gross Domestic Product for Chico, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP17020                 | Total Quantity Indexes for Real GDP for Chico, CA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP17020                 | Total Real Gross Domestic Product for Chico, CA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI17020                  | Real Personal Income for Chico, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC17020                | Real Per Capita Personal Income for Chico, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL17020               | Regional Price Parities: All Items for Chico, CA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

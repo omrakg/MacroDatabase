@@ -8,18 +8,18 @@
 | AVELISPRIMM39660          | Housing Inventory: Average Listing Price Month-Over-Month in Rapid City, SD (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY39660          | Housing Inventory: Average Listing Price Year-Over-Year in Rapid City, SD (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA39660              | Market Hotness: Demand Score in Rapid City, SD (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC396630010             | Total Quarterly Wages in Rapid City, SD (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC396630010SA           | Total Quarterly Wages in Rapid City, SD (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC396640010             | Average Weekly Wages for Employees in Total Covered Establishments in Rapid City, SD (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC396640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rapid City, SD (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC396640110             | Average Weekly Wages for Employees in Federal Government Establishments in Rapid City, SD (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC396640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rapid City, SD (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC396640210             | Average Weekly Wages for Employees in State Government Establishments in Rapid City, SD (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC396640210SA           | Average Weekly Wages for Employees in State Government Establishments in Rapid City, SD (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC396640310             | Average Weekly Wages for Employees in Local Government Establishments in Rapid City, SD (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC396640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rapid City, SD (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC396640510             | Average Weekly Wages for Employees in Private Establishments in Rapid City, SD (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC396640510SA           | Average Weekly Wages for Employees in Private Establishments in Rapid City, SD (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC396630010             | Total Quarterly Wages in Rapid City, SD (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC396630010SA           | Total Quarterly Wages in Rapid City, SD (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC396640010             | Average Weekly Wages for Employees in Total Covered Establishments in Rapid City, SD (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC396640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Rapid City, SD (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC396640110             | Average Weekly Wages for Employees in Federal Government Establishments in Rapid City, SD (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC396640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Rapid City, SD (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC396640210             | Average Weekly Wages for Employees in State Government Establishments in Rapid City, SD (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC396640210SA           | Average Weekly Wages for Employees in State Government Establishments in Rapid City, SD (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC396640310             | Average Weekly Wages for Employees in Local Government Establishments in Rapid City, SD (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC396640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Rapid City, SD (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC396640510             | Average Weekly Wages for Employees in Private Establishments in Rapid City, SD (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC396640510SA           | Average Weekly Wages for Employees in Private Establishments in Rapid City, SD (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA39660            | Market Hotness: Hotness Rank in Rapid City, SD (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA39660              | Market Hotness: Hotness Rank in Rapid City, SD (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA39660            | Market Hotness: Hotness Rank in Rapid City, SD (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU39660            | Housing Inventory: New Listing Count in Rapid City, SD (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM39660          | Housing Inventory: New Listing Count Month-Over-Month in Rapid City, SD (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY39660          | Housing Inventory: New Listing Count Year-Over-Year in Rapid City, SD (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP39660                 | Total Gross Domestic Product for Rapid City, SD (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP39660                 | Total Gross Domestic Product for Rapid City, SD (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA39660            | Market Hotness: Nielsen Household Rank in Rapid City, SD (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA139660          | U.S. Granted Utility Patents Originating in Rapid City, SD (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU39660            | Housing Inventory: Pending Listing Count in Rapid City, SD (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,7 +71,7 @@
 | PRIREDCOU39660            | Housing Inventory: Price Reduced Count in Rapid City, SD (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM39660          | Housing Inventory: Price Reduced Count Month-Over-Month in Rapid City, SD (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY39660          | Housing Inventory: Price Reduced Count Year-Over-Year in Rapid City, SD (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP39660                 | Total Quantity Indexes for Real GDP for Rapid City, SD (MSA)                                                    | 2001-01-01          | 2020-01-01        |
+| QGMP39660                 | Total Quantity Indexes for Real GDP for Rapid City, SD (MSA)                                                    | 2001-01-01          | 2021-01-01        |
 | RAPI646EDUH               | All Employees: Education and Health Services in Rapid City, SD (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | RAPI646EDUHN              | All Employees: Education and Health Services in Rapid City, SD (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | RAPI646FIRE               | All Employees: Financial Activities in Rapid City, SD (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -99,7 +99,7 @@
 | RAPI646TRADN              | All Employees: Trade, Transportation, and Utilities in Rapid City, SD (MSA)                                     | 1990-01-01          | 2022-10-01        |
 | RAPI646UR                 | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | RAPI646URN                | Unemployment Rate in Rapid City, SD (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
-| RGMP39660                 | Total Real Gross Domestic Product for Rapid City, SD (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| RGMP39660                 | Total Real Gross Domestic Product for Rapid City, SD (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPCPOP                    | Resident Population in Rapid City, SD (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | RPI39660                  | Real Personal Income for Rapid City, SD (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC39660                | Real Per Capita Personal Income for Rapid City, SD (MSA)                                                        | 2008-01-01          | 2020-01-01        |

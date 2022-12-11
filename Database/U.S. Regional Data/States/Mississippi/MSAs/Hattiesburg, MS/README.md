@@ -8,18 +8,18 @@
 | AVELISPRIMM25620          | Housing Inventory: Average Listing Price Month-Over-Month in Hattiesburg, MS (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY25620          | Housing Inventory: Average Listing Price Year-Over-Year in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA25620              | Market Hotness: Demand Score in Hattiesburg, MS (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC256230010             | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC256230010SA           | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC256240010             | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC256240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC256240110             | Average Weekly Wages for Employees in Federal Government Establishments in Hattiesburg, MS (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC256240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hattiesburg, MS (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC256240210             | Average Weekly Wages for Employees in State Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC256240210SA           | Average Weekly Wages for Employees in State Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC256240310             | Average Weekly Wages for Employees in Local Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC256240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC256240510             | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC256240510SA           | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC256230010             | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC256230010SA           | Total Quarterly Wages in Hattiesburg, MS (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC256240010             | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC256240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hattiesburg, MS (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC256240110             | Average Weekly Wages for Employees in Federal Government Establishments in Hattiesburg, MS (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC256240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hattiesburg, MS (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC256240210             | Average Weekly Wages for Employees in State Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC256240210SA           | Average Weekly Wages for Employees in State Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC256240310             | Average Weekly Wages for Employees in Local Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC256240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hattiesburg, MS (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC256240510             | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC256240510SA           | Average Weekly Wages for Employees in Private Establishments in Hattiesburg, MS (MSA)              | 1990-01-01          | 2022-04-01        |
 | HATPOP                    | Resident Population in Hattiesburg, MS (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | HATT628GOVT               | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-10-01        |
 | HATT628GOVTN              | All Employees: Government in Hattiesburg, MS (MSA)                                                 | 1990-01-01          | 2022-10-01        |
@@ -75,7 +75,7 @@
 | NEWLISCOU25620            | Housing Inventory: New Listing Count in Hattiesburg, MS (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM25620          | Housing Inventory: New Listing Count Month-Over-Month in Hattiesburg, MS (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY25620          | Housing Inventory: New Listing Count Year-Over-Year in Hattiesburg, MS (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP25620                 | Total Gross Domestic Product for Hattiesburg, MS (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP25620                 | Total Gross Domestic Product for Hattiesburg, MS (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA25620            | Market Hotness: Nielsen Household Rank in Hattiesburg, MS (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA125620          | U.S. Granted Utility Patents Originating in Hattiesburg, MS (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU25620            | Housing Inventory: Pending Listing Count in Hattiesburg, MS (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -87,8 +87,8 @@
 | PRIREDCOU25620            | Housing Inventory: Price Reduced Count in Hattiesburg, MS (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM25620          | Housing Inventory: Price Reduced Count Month-Over-Month in Hattiesburg, MS (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY25620          | Housing Inventory: Price Reduced Count Year-Over-Year in Hattiesburg, MS (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP25620                 | Total Quantity Indexes for Real GDP for Hattiesburg, MS (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP25620                 | Total Real Gross Domestic Product for Hattiesburg, MS (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP25620                 | Total Quantity Indexes for Real GDP for Hattiesburg, MS (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP25620                 | Total Real Gross Domestic Product for Hattiesburg, MS (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI25620                  | Real Personal Income for Hattiesburg, MS (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC25620                | Real Per Capita Personal Income for Hattiesburg, MS (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL25620               | Regional Price Parities: All Items for Hattiesburg, MS (MSA)                                       | 2008-01-01          | 2020-01-01        |

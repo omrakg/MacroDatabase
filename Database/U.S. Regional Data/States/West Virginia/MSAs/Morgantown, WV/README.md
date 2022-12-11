@@ -8,18 +8,18 @@
 | AVELISPRIMM34060          | Housing Inventory: Average Listing Price Month-Over-Month in Morgantown, WV (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY34060          | Housing Inventory: Average Listing Price Year-Over-Year in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA34060              | Market Hotness: Demand Score in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC340630010             | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC340630010SA           | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC340640010             | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC340640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC340640110             | Average Weekly Wages for Employees in Federal Government Establishments in Morgantown, WV (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC340640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Morgantown, WV (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC340640210             | Average Weekly Wages for Employees in State Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2022-01-01        |
-| ENUC340640210SA           | Average Weekly Wages for Employees in State Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2022-01-01        |
-| ENUC340640310             | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2022-01-01        |
-| ENUC340640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2022-01-01        |
-| ENUC340640510             | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC340640510SA           | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC340630010             | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC340630010SA           | Total Quarterly Wages in Morgantown, WV (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC340640010             | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC340640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Morgantown, WV (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC340640110             | Average Weekly Wages for Employees in Federal Government Establishments in Morgantown, WV (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC340640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Morgantown, WV (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC340640210             | Average Weekly Wages for Employees in State Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2022-04-01        |
+| ENUC340640210SA           | Average Weekly Wages for Employees in State Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2022-04-01        |
+| ENUC340640310             | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2022-04-01        |
+| ENUC340640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Morgantown, WV (MSA)     | 2019-10-01          | 2022-04-01        |
+| ENUC340640510             | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC340640510SA           | Average Weekly Wages for Employees in Private Establishments in Morgantown, WV (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA34060            | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA34060              | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA34060            | Market Hotness: Hotness Rank in Morgantown, WV (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -77,7 +77,7 @@
 | NEWLISCOU34060            | Housing Inventory: New Listing Count in Morgantown, WV (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM34060          | Housing Inventory: New Listing Count Month-Over-Month in Morgantown, WV (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY34060          | Housing Inventory: New Listing Count Year-Over-Year in Morgantown, WV (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP34060                 | Total Gross Domestic Product for Morgantown, WV (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP34060                 | Total Gross Domestic Product for Morgantown, WV (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA34060            | Market Hotness: Nielsen Household Rank in Morgantown, WV (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA134060          | U.S. Granted Utility Patents Originating in Morgantown, WV (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU34060            | Housing Inventory: Pending Listing Count in Morgantown, WV (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -89,8 +89,8 @@
 | PRIREDCOU34060            | Housing Inventory: Price Reduced Count in Morgantown, WV (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM34060          | Housing Inventory: Price Reduced Count Month-Over-Month in Morgantown, WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY34060          | Housing Inventory: Price Reduced Count Year-Over-Year in Morgantown, WV (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP34060                 | Total Quantity Indexes for Real GDP for Morgantown, WV (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP34060                 | Total Real Gross Domestic Product for Morgantown, WV (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP34060                 | Total Quantity Indexes for Real GDP for Morgantown, WV (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP34060                 | Total Real Gross Domestic Product for Morgantown, WV (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI34060                  | Real Personal Income for Morgantown, WV (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC34060                | Real Per Capita Personal Income for Morgantown, WV (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL34060               | Regional Price Parities: All Items for Morgantown, WV (MSA)                                       | 2008-01-01          | 2020-01-01        |

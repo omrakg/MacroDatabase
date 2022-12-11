@@ -1,6 +1,6 @@
 | Folder                |   Files / Folders |
 |-----------------------|-------------------|
-| Berkshire County, MA  |                 0 |
+| Berkshire County, MA  |               146 |
 | Dukes County, MA      |                89 |
 | Nantucket County, MA  |                89 |
 | Middlesex County, MA  |               146 |

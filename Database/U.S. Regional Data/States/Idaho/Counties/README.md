@@ -13,7 +13,7 @@
 | Gem County, ID        |                90 |
 | Power County, ID      |                89 |
 | Lemhi County, ID      |                89 |
-| Adams County, ID      |                90 |
+| Adams County, ID      |                 0 |
 | Lewis County, ID      |                89 |
 | Kootenai County, ID   |               147 |
 | Twin Falls County, ID |               147 |

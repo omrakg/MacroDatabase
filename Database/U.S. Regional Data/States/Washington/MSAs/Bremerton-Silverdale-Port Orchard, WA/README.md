@@ -28,18 +28,18 @@
 | BREM753URN                | Unemployment Rate in Bremerton-Silverdale, WA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | BRMPOP                    | Resident Population in Bremerton-Silverdale, WA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA14740              | Market Hotness: Demand Score in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC147430010             | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC147430010SA           | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC147440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC147440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC147440110             | Average Weekly Wages for Employees in Federal Government Establishments in Bremerton-Silverdale, WA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC147440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bremerton-Silverdale, WA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC147440210             | Average Weekly Wages for Employees in State Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC147440210SA           | Average Weekly Wages for Employees in State Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC147440310             | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC147440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC147440510             | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC147440510SA           | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC147430010             | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC147430010SA           | Total Quarterly Wages in Bremerton-Silverdale, WA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC147440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC147440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bremerton-Silverdale, WA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC147440110             | Average Weekly Wages for Employees in Federal Government Establishments in Bremerton-Silverdale, WA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC147440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bremerton-Silverdale, WA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC147440210             | Average Weekly Wages for Employees in State Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC147440210SA           | Average Weekly Wages for Employees in State Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC147440310             | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC147440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bremerton-Silverdale, WA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC147440510             | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC147440510SA           | Average Weekly Wages for Employees in Private Establishments in Bremerton-Silverdale, WA (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA14740            | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA14740              | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA14740            | Market Hotness: Hotness Rank in Bremerton-Silverdale, WA (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -79,7 +79,7 @@
 | NEWLISCOU14740            | Housing Inventory: New Listing Count in Bremerton-Silverdale, WA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM14740          | Housing Inventory: New Listing Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY14740          | Housing Inventory: New Listing Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP14740                 | Total Gross Domestic Product for Bremerton-Silverdale, WA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP14740                 | Total Gross Domestic Product for Bremerton-Silverdale, WA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA14740            | Market Hotness: Nielsen Household Rank in Bremerton-Silverdale, WA (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA114740          | U.S. Granted Utility Patents Originating in Bremerton-Silverdale, WA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU14740            | Housing Inventory: Pending Listing Count in Bremerton-Silverdale, WA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
@@ -91,8 +91,8 @@
 | PRIREDCOU14740            | Housing Inventory: Price Reduced Count in Bremerton-Silverdale, WA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM14740          | Housing Inventory: Price Reduced Count Month-Over-Month in Bremerton-Silverdale, WA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY14740          | Housing Inventory: Price Reduced Count Year-Over-Year in Bremerton-Silverdale, WA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP14740                 | Total Quantity Indexes for Real GDP for Bremerton-Silverdale, WA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP14740                 | Total Real Gross Domestic Product for Bremerton-Silverdale, WA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP14740                 | Total Quantity Indexes for Real GDP for Bremerton-Silverdale, WA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP14740                 | Total Real Gross Domestic Product for Bremerton-Silverdale, WA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI14740                  | Real Personal Income for Bremerton-Silverdale, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC14740                | Real Per Capita Personal Income for Bremerton-Silverdale, WA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL14740               | Regional Price Parities: All Items for Bremerton-Silverdale, WA (MSA)                                       | 2008-01-01          | 2020-01-01        |

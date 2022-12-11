@@ -8,18 +8,18 @@
 | AVELISPRIMM33660          | Housing Inventory: Average Listing Price Month-Over-Month in Mobile, AL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY33660          | Housing Inventory: Average Listing Price Year-Over-Year in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA33660              | Market Hotness: Demand Score in Mobile, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC336630010             | Total Quarterly Wages in Mobile, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC336630010SA           | Total Quarterly Wages in Mobile, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC336640010             | Average Weekly Wages for Employees in Total Covered Establishments in Mobile, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC336640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mobile, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC336640110             | Average Weekly Wages for Employees in Federal Government Establishments in Mobile, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC336640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mobile, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC336640210             | Average Weekly Wages for Employees in State Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC336640210SA           | Average Weekly Wages for Employees in State Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC336640310             | Average Weekly Wages for Employees in Local Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC336640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC336640510             | Average Weekly Wages for Employees in Private Establishments in Mobile, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC336640510SA           | Average Weekly Wages for Employees in Private Establishments in Mobile, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC336630010             | Total Quarterly Wages in Mobile, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC336630010SA           | Total Quarterly Wages in Mobile, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC336640010             | Average Weekly Wages for Employees in Total Covered Establishments in Mobile, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC336640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mobile, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC336640110             | Average Weekly Wages for Employees in Federal Government Establishments in Mobile, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC336640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mobile, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC336640210             | Average Weekly Wages for Employees in State Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC336640210SA           | Average Weekly Wages for Employees in State Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC336640310             | Average Weekly Wages for Employees in Local Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC336640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mobile, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC336640510             | Average Weekly Wages for Employees in Private Establishments in Mobile, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC336640510SA           | Average Weekly Wages for Employees in Private Establishments in Mobile, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA33660            | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA33660              | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA33660            | Market Hotness: Hotness Rank in Mobile, AL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU33660            | Housing Inventory: New Listing Count in Mobile, AL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM33660          | Housing Inventory: New Listing Count Month-Over-Month in Mobile, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY33660          | Housing Inventory: New Listing Count Year-Over-Year in Mobile, AL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP33660                 | Total Gross Domestic Product for Mobile, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP33660                 | Total Gross Domestic Product for Mobile, AL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA33660            | Market Hotness: Nielsen Household Rank in Mobile, AL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA133660          | U.S. Granted Utility Patents Originating in Mobile, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU33660            | Housing Inventory: Pending Listing Count in Mobile, AL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU33660            | Housing Inventory: Price Reduced Count in Mobile, AL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM33660          | Housing Inventory: Price Reduced Count Month-Over-Month in Mobile, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY33660          | Housing Inventory: Price Reduced Count Year-Over-Year in Mobile, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP33660                 | Total Quantity Indexes for Real GDP for Mobile, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP33660                 | Total Real Gross Domestic Product for Mobile, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP33660                 | Total Quantity Indexes for Real GDP for Mobile, AL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP33660                 | Total Real Gross Domestic Product for Mobile, AL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI33660                  | Real Personal Income for Mobile, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC33660                | Real Per Capita Personal Income for Mobile, AL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL33660               | Regional Price Parities: All Items for Mobile, AL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

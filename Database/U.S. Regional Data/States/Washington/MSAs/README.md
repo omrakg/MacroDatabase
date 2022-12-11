@@ -3,7 +3,7 @@
 | Kennewick-Richland, WA                |               164 |
 | Portland-Vancouver-Beaverton, OR-WA   |                 0 |
 | Longview, WA                          |               123 |
-| Bellingham, WA                        |                 0 |
+| Bellingham, WA                        |               143 |
 | Yakima, WA                            |               158 |
 | Seattle-Tacoma-Bellevue, WA           |               204 |
 | Bremerton-Silverdale-Port Orchard, WA |               140 |

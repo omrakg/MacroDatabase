@@ -8,18 +8,18 @@
 | AVELISPRIMM32780          | Housing Inventory: Average Listing Price Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY32780          | Housing Inventory: Average Listing Price Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA32780              | Market Hotness: Demand Score in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC327830010             | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC327830010SA           | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC327840010             | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC327840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC327840110             | Average Weekly Wages for Employees in Federal Government Establishments in Medford, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC327840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Medford, OR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC327840210             | Average Weekly Wages for Employees in State Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC327840210SA           | Average Weekly Wages for Employees in State Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC327840310             | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC327840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC327840510             | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC327840510SA           | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC327830010             | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC327830010SA           | Total Quarterly Wages in Medford, OR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC327840010             | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC327840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Medford, OR (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC327840110             | Average Weekly Wages for Employees in Federal Government Establishments in Medford, OR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC327840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Medford, OR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC327840210             | Average Weekly Wages for Employees in State Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC327840210SA           | Average Weekly Wages for Employees in State Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC327840310             | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC327840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Medford, OR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC327840510             | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC327840510SA           | Average Weekly Wages for Employees in Private Establishments in Medford, OR (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA32780              | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA32780            | Market Hotness: Hotness Rank in Medford, OR (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -89,7 +89,7 @@
 | NEWLISCOU32780            | Housing Inventory: New Listing Count in Medford, OR (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM32780          | Housing Inventory: New Listing Count Month-Over-Month in Medford, OR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY32780          | Housing Inventory: New Listing Count Year-Over-Year in Medford, OR (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP32780                 | Total Gross Domestic Product for Medford, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP32780                 | Total Gross Domestic Product for Medford, OR (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA32780            | Market Hotness: Nielsen Household Rank in Medford, OR (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA132780          | U.S. Granted Utility Patents Originating in Medford, OR (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU32780            | Housing Inventory: Pending Listing Count in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -101,8 +101,8 @@
 | PRIREDCOU32780            | Housing Inventory: Price Reduced Count in Medford, OR (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM32780          | Housing Inventory: Price Reduced Count Month-Over-Month in Medford, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY32780          | Housing Inventory: Price Reduced Count Year-Over-Year in Medford, OR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP32780                 | Total Quantity Indexes for Real GDP for Medford, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP32780                 | Total Real Gross Domestic Product for Medford, OR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP32780                 | Total Quantity Indexes for Real GDP for Medford, OR (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP32780                 | Total Real Gross Domestic Product for Medford, OR (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI32780                  | Real Personal Income for Medford, OR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC32780                | Real Per Capita Personal Income for Medford, OR (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL32780               | Regional Price Parities: All Items for Medford, OR (MSA)                                                     | 2008-01-01          | 2020-01-01        |

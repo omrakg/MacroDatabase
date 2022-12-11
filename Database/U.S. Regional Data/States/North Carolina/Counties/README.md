@@ -16,8 +16,8 @@
 | Stokes County, NC       |               145 |
 | Bertie County, NC       |                89 |
 | Macon County, NC        |                90 |
-| McDowell County, NC     |                 0 |
-| Granville County, NC    |               145 |
+| McDowell County, NC     |                90 |
+| Granville County, NC    |                 0 |
 | Dare County, NC         |                89 |
 | Alleghany County, NC    |                89 |
 | Craven County, NC       |               147 |
@@ -54,7 +54,7 @@
 | Lee County, NC          |               146 |
 | Moore County, NC        |               147 |
 | Pamlico County, NC      |                90 |
-| Wayne County, NC        |               147 |
+| Wayne County, NC        |                 0 |
 | Alamance County, NC     |               147 |
 | Clay County, NC         |                90 |
 | Perquimans County, NC   |                90 |
@@ -76,7 +76,7 @@
 | Yancey County, NC       |                90 |
 | Stanly County, NC       |               146 |
 | Columbus County, NC     |                90 |
-| Union County, NC        |                 0 |
+| Union County, NC        |               147 |
 | Haywood County, NC      |               146 |
 | Mecklenburg County, NC  |               146 |
 | Burke County, NC        |               147 |

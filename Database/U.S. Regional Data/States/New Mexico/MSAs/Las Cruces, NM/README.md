@@ -8,18 +8,18 @@
 | AVELISPRIMM29740          | Housing Inventory: Average Listing Price Month-Over-Month in Las Cruces, NM (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY29740          | Housing Inventory: Average Listing Price Year-Over-Year in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA29740              | Market Hotness: Demand Score in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC297430010             | Total Quarterly Wages in Las Cruces, NM (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC297430010SA           | Total Quarterly Wages in Las Cruces, NM (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC297440010             | Average Weekly Wages for Employees in Total Covered Establishments in Las Cruces, NM (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC297440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Las Cruces, NM (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC297440110             | Average Weekly Wages for Employees in Federal Government Establishments in Las Cruces, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC297440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Las Cruces, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC297440210             | Average Weekly Wages for Employees in State Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC297440210SA           | Average Weekly Wages for Employees in State Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC297440310             | Average Weekly Wages for Employees in Local Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC297440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC297440510             | Average Weekly Wages for Employees in Private Establishments in Las Cruces, NM (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC297440510SA           | Average Weekly Wages for Employees in Private Establishments in Las Cruces, NM (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC297430010             | Total Quarterly Wages in Las Cruces, NM (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC297430010SA           | Total Quarterly Wages in Las Cruces, NM (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC297440010             | Average Weekly Wages for Employees in Total Covered Establishments in Las Cruces, NM (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC297440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Las Cruces, NM (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC297440110             | Average Weekly Wages for Employees in Federal Government Establishments in Las Cruces, NM (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC297440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Las Cruces, NM (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC297440210             | Average Weekly Wages for Employees in State Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC297440210SA           | Average Weekly Wages for Employees in State Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC297440310             | Average Weekly Wages for Employees in Local Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC297440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Las Cruces, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC297440510             | Average Weekly Wages for Employees in Private Establishments in Las Cruces, NM (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC297440510SA           | Average Weekly Wages for Employees in Private Establishments in Las Cruces, NM (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA29740              | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -91,7 +91,7 @@
 | NEWLISCOU29740            | Housing Inventory: New Listing Count in Las Cruces, NM (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM29740          | Housing Inventory: New Listing Count Month-Over-Month in Las Cruces, NM (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY29740          | Housing Inventory: New Listing Count Year-Over-Year in Las Cruces, NM (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP29740                 | Total Gross Domestic Product for Las Cruces, NM (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP29740                 | Total Gross Domestic Product for Las Cruces, NM (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA29740            | Market Hotness: Nielsen Household Rank in Las Cruces, NM (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA129740          | U.S. Granted Utility Patents Originating in Las Cruces, NM (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU29740            | Housing Inventory: Pending Listing Count in Las Cruces, NM (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PRIREDCOU29740            | Housing Inventory: Price Reduced Count in Las Cruces, NM (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM29740          | Housing Inventory: Price Reduced Count Month-Over-Month in Las Cruces, NM (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY29740          | Housing Inventory: Price Reduced Count Year-Over-Year in Las Cruces, NM (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP29740                 | Total Quantity Indexes for Real GDP for Las Cruces, NM (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP29740                 | Total Real Gross Domestic Product for Las Cruces, NM (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP29740                 | Total Quantity Indexes for Real GDP for Las Cruces, NM (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP29740                 | Total Real Gross Domestic Product for Las Cruces, NM (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI29740                  | Real Personal Income for Las Cruces, NM (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC29740                | Real Per Capita Personal Income for Las Cruces, NM (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL29740               | Regional Price Parities: All Items for Las Cruces, NM (MSA)                                                     | 2008-01-01          | 2020-01-01        |

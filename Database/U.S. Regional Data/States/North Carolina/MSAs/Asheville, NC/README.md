@@ -36,18 +36,18 @@
 | AVELISPRIMM11700          | Housing Inventory: Average Listing Price Month-Over-Month in Asheville, NC (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY11700          | Housing Inventory: Average Listing Price Year-Over-Year in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA11700              | Market Hotness: Demand Score in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC117030010             | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC117030010SA           | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC117040010             | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC117040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC117040110             | Average Weekly Wages for Employees in Federal Government Establishments in Asheville, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC117040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Asheville, NC (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC117040210             | Average Weekly Wages for Employees in State Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC117040210SA           | Average Weekly Wages for Employees in State Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC117040310             | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC117040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC117040510             | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC117040510SA           | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC117030010             | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC117030010SA           | Total Quarterly Wages in Asheville, NC (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC117040010             | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC117040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Asheville, NC (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC117040110             | Average Weekly Wages for Employees in Federal Government Establishments in Asheville, NC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC117040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Asheville, NC (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC117040210             | Average Weekly Wages for Employees in State Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC117040210SA           | Average Weekly Wages for Employees in State Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC117040310             | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC117040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Asheville, NC (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC117040510             | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC117040510SA           | Average Weekly Wages for Employees in Private Establishments in Asheville, NC (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA11700            | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA11700              | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA11700            | Market Hotness: Hotness Rank in Asheville, NC (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU11700            | Housing Inventory: New Listing Count in Asheville, NC (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM11700          | Housing Inventory: New Listing Count Month-Over-Month in Asheville, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY11700          | Housing Inventory: New Listing Count Year-Over-Year in Asheville, NC (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP11700                 | Total Gross Domestic Product for Asheville, NC (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP11700                 | Total Gross Domestic Product for Asheville, NC (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA11700            | Market Hotness: Nielsen Household Rank in Asheville, NC (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA111700          | U.S. Granted Utility Patents Originating in Asheville, NC (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU11700            | Housing Inventory: Pending Listing Count in Asheville, NC (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU11700            | Housing Inventory: Price Reduced Count in Asheville, NC (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM11700          | Housing Inventory: Price Reduced Count Month-Over-Month in Asheville, NC (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY11700          | Housing Inventory: Price Reduced Count Year-Over-Year in Asheville, NC (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP11700                 | Total Quantity Indexes for Real GDP for Asheville, NC (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP11700                 | Total Real Gross Domestic Product for Asheville, NC (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP11700                 | Total Quantity Indexes for Real GDP for Asheville, NC (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP11700                 | Total Real Gross Domestic Product for Asheville, NC (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI11700                  | Real Personal Income for Asheville, NC (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC11700                | Real Per Capita Personal Income for Asheville, NC (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL11700               | Regional Price Parities: All Items for Asheville, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |

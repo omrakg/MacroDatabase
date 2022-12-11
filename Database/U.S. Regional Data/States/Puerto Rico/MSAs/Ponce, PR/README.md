@@ -1,17 +1,17 @@
 | id                     | title                                                                                                      | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ENUC386630010          | Total Quarterly Wages in Ponce, PR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC386630010SA        | Total Quarterly Wages in Ponce, PR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC386640010          | Average Weekly Wages for Employees in Total Covered Establishments in Ponce, PR (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC386640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Ponce, PR (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC386640110          | Average Weekly Wages for Employees in Federal Government Establishments in Ponce, PR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC386640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Ponce, PR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC386640210          | Average Weekly Wages for Employees in State Government Establishments in Ponce, PR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC386640210SA        | Average Weekly Wages for Employees in State Government Establishments in Ponce, PR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC386640310          | Average Weekly Wages for Employees in Local Government Establishments in Ponce, PR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC386640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Ponce, PR (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC386640510          | Average Weekly Wages for Employees in Private Establishments in Ponce, PR (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC386640510SA        | Average Weekly Wages for Employees in Private Establishments in Ponce, PR (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC386630010          | Total Quarterly Wages in Ponce, PR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC386630010SA        | Total Quarterly Wages in Ponce, PR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC386640010          | Average Weekly Wages for Employees in Total Covered Establishments in Ponce, PR (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC386640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Ponce, PR (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC386640110          | Average Weekly Wages for Employees in Federal Government Establishments in Ponce, PR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC386640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Ponce, PR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC386640210          | Average Weekly Wages for Employees in State Government Establishments in Ponce, PR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC386640210SA        | Average Weekly Wages for Employees in State Government Establishments in Ponce, PR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC386640310          | Average Weekly Wages for Employees in Local Government Establishments in Ponce, PR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC386640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Ponce, PR (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC386640510          | Average Weekly Wages for Employees in Private Establishments in Ponce, PR (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC386640510SA        | Average Weekly Wages for Employees in Private Establishments in Ponce, PR (MSA)                            | 1990-01-01          | 2022-04-01        |
 | PATENTCBSA138660       | U.S. Granted Utility Patents Originating in Ponce, PR (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | SMS72386600000000001   | All Employees: Total Nonfarm in Ponce, PR (MSA)                                                            | 1990-01-01          | 2022-10-01        |
 | SMS72386600000000026   | All Employees: Total Nonfarm in Ponce, PR (MSA)                                                            | 1990-04-01          | 2022-10-01        |

@@ -22,18 +22,18 @@
 | AVELISPRIMM10500          | Housing Inventory: Average Listing Price Month-Over-Month in Albany, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY10500          | Housing Inventory: Average Listing Price Year-Over-Year in Albany, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA10500              | Market Hotness: Demand Score in Albany, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC105030010             | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC105030010SA           | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC105040010             | Average Weekly Wages for Employees in Total Covered Establishments in Albany, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC105040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Albany, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC105040110             | Average Weekly Wages for Employees in Federal Government Establishments in Albany, GA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC105040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Albany, GA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC105040210             | Average Weekly Wages for Employees in State Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC105040210SA           | Average Weekly Wages for Employees in State Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC105040310             | Average Weekly Wages for Employees in Local Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC105040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2021-07-01        |
-| ENUC105040510             | Average Weekly Wages for Employees in Private Establishments in Albany, GA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC105040510SA           | Average Weekly Wages for Employees in Private Establishments in Albany, GA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC105030010             | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC105030010SA           | Total Quarterly Wages in Albany, GA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC105040010             | Average Weekly Wages for Employees in Total Covered Establishments in Albany, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC105040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Albany, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC105040110             | Average Weekly Wages for Employees in Federal Government Establishments in Albany, GA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC105040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Albany, GA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC105040210             | Average Weekly Wages for Employees in State Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC105040210SA           | Average Weekly Wages for Employees in State Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC105040310             | Average Weekly Wages for Employees in Local Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC105040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Albany, GA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC105040510             | Average Weekly Wages for Employees in Private Establishments in Albany, GA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC105040510SA           | Average Weekly Wages for Employees in Private Establishments in Albany, GA (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA10500            | Market Hotness: Hotness Rank in Albany, GA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA10500              | Market Hotness: Hotness Rank in Albany, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA10500            | Market Hotness: Hotness Rank in Albany, GA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -73,7 +73,7 @@
 | NEWLISCOU10500            | Housing Inventory: New Listing Count in Albany, GA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM10500          | Housing Inventory: New Listing Count Month-Over-Month in Albany, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY10500          | Housing Inventory: New Listing Count Year-Over-Year in Albany, GA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP10500                 | Total Gross Domestic Product for Albany, GA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP10500                 | Total Gross Domestic Product for Albany, GA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA10500            | Market Hotness: Nielsen Household Rank in Albany, GA (CBSA)                                   | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA110500          | U.S. Granted Utility Patents Originating in Albany, GA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU10500            | Housing Inventory: Pending Listing Count in Albany, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -85,8 +85,8 @@
 | PRIREDCOU10500            | Housing Inventory: Price Reduced Count in Albany, GA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM10500          | Housing Inventory: Price Reduced Count Month-Over-Month in Albany, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY10500          | Housing Inventory: Price Reduced Count Year-Over-Year in Albany, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP10500                 | Total Quantity Indexes for Real GDP for Albany, GA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP10500                 | Total Real Gross Domestic Product for Albany, GA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP10500                 | Total Quantity Indexes for Real GDP for Albany, GA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP10500                 | Total Real Gross Domestic Product for Albany, GA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI10500                  | Real Personal Income for Albany, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC10500                | Real Per Capita Personal Income for Albany, GA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL10500               | Regional Price Parities: All Items for Albany, GA (MSA)                                       | 2008-01-01          | 2020-01-01        |

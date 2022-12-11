@@ -453,7 +453,7 @@
 | DNXRNSA              | S&P/Case-Shiller CO-Denver Home Price Index                                                                                         | 1987-01-01          | 2022-09-01        |
 | DNXRPSNSA            | Home Price Sales Pair Counts for Denver, Colorado                                                                                   | 1987-01-01          | 2022-09-01        |
 | DNXRSA               | S&P/Case-Shiller CO-Denver Home Price Index                                                                                         | 1987-01-01          | 2022-09-01        |
-| FIXHAI               | Housing Affordability Index (Fixed)                                                                                                 | 2021-10-01          | 2022-09-01        |
+| FIXHAI               | Housing Affordability Index (Fixed)                                                                                                 | 2021-11-01          | 2022-10-01        |
 | FLSTHPI              | All-Transactions House Price Index for Florida                                                                                      | 1975-01-01          | 2022-07-01        |
 | FLUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Florida                      | 2000-01-01          | 2022-10-01        |
 | GASTHPI              | All-Transactions House Price Index for Georgia                                                                                      | 1975-01-01          | 2022-07-01        |

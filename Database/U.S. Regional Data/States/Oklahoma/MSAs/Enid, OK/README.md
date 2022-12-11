@@ -10,9 +10,9 @@
 | LAUMT402142000000005A | Employed Persons in Enid, OK (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT402142000000006  | Civilian Labor Force in Enid, OK (MSA)                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT402142000000006A | Civilian Labor Force in Enid, OK (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| NGMP21420             | Total Gross Domestic Product for Enid, OK (MSA)                           | 2001-01-01          | 2020-01-01        |
-| QGMP21420             | Total Quantity Indexes for Real GDP for Enid, OK (MSA)                    | 2001-01-01          | 2020-01-01        |
-| RGMP21420             | Total Real Gross Domestic Product for Enid, OK (MSA)                      | 2001-01-01          | 2020-01-01        |
+| NGMP21420             | Total Gross Domestic Product for Enid, OK (MSA)                           | 2001-01-01          | 2021-01-01        |
+| QGMP21420             | Total Quantity Indexes for Real GDP for Enid, OK (MSA)                    | 2001-01-01          | 2021-01-01        |
+| RGMP21420             | Total Real Gross Domestic Product for Enid, OK (MSA)                      | 2001-01-01          | 2021-01-01        |
 | SMU40214200000000001  | All Employees: Total Nonfarm in Enid, OK (MSA)                            | 1990-01-01          | 2022-10-01        |
 | SMU40214200000000001A | All Employees: Total Nonfarm in Enid, OK (MSA)                            | 1990-01-01          | 2021-01-01        |
 | SMU40214200500000001  | All Employees: Total Private in Enid, OK (MSA)                            | 1990-01-01          | 2022-10-01        |

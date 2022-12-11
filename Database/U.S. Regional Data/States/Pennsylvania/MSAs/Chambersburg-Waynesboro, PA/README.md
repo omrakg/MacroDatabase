@@ -3,18 +3,18 @@
 | ATNHPIUS16540Q         | All-Transactions House Price Index for Chambersburg-Waynesboro, PA (MSA)                                                     | 1989-10-01          | 2022-07-01        |
 | CHBPOP                 | Resident Population in Chambersburg-Waynesboro, PA (MSA)                                                                     | 2010-01-01          | 2021-01-01        |
 | CHWN942PCPI            | Per Capita Personal Income in Chambersburg-Waynesboro, PA (MSA)                                                              | 1969-01-01          | 2021-01-01        |
-| ENUC165430010          | Total Quarterly Wages in Chambersburg-Waynesboro, PA (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC165430010SA        | Total Quarterly Wages in Chambersburg-Waynesboro, PA (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC165440010          | Average Weekly Wages for Employees in Total Covered Establishments in Chambersburg-Waynesboro, PA (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC165440010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Chambersburg-Waynesboro, PA (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC165440110          | Average Weekly Wages for Employees in Federal Government Establishments in Chambersburg-Waynesboro, PA (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC165440110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Chambersburg-Waynesboro, PA (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC165440210          | Average Weekly Wages for Employees in State Government Establishments in Chambersburg-Waynesboro, PA (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC165440210SA        | Average Weekly Wages for Employees in State Government Establishments in Chambersburg-Waynesboro, PA (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC165440310          | Average Weekly Wages for Employees in Local Government Establishments in Chambersburg-Waynesboro, PA (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC165440310SA        | Average Weekly Wages for Employees in Local Government Establishments in Chambersburg-Waynesboro, PA (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC165440510          | Average Weekly Wages for Employees in Private Establishments in Chambersburg-Waynesboro, PA (MSA)                            | 2013-01-01          | 2022-01-01        |
-| ENUC165440510SA        | Average Weekly Wages for Employees in Private Establishments in Chambersburg-Waynesboro, PA (MSA)                            | 2013-01-01          | 2022-01-01        |
+| ENUC165430010          | Total Quarterly Wages in Chambersburg-Waynesboro, PA (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC165430010SA        | Total Quarterly Wages in Chambersburg-Waynesboro, PA (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC165440010          | Average Weekly Wages for Employees in Total Covered Establishments in Chambersburg-Waynesboro, PA (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC165440010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Chambersburg-Waynesboro, PA (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC165440110          | Average Weekly Wages for Employees in Federal Government Establishments in Chambersburg-Waynesboro, PA (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC165440110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Chambersburg-Waynesboro, PA (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC165440210          | Average Weekly Wages for Employees in State Government Establishments in Chambersburg-Waynesboro, PA (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC165440210SA        | Average Weekly Wages for Employees in State Government Establishments in Chambersburg-Waynesboro, PA (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC165440310          | Average Weekly Wages for Employees in Local Government Establishments in Chambersburg-Waynesboro, PA (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC165440310SA        | Average Weekly Wages for Employees in Local Government Establishments in Chambersburg-Waynesboro, PA (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC165440510          | Average Weekly Wages for Employees in Private Establishments in Chambersburg-Waynesboro, PA (MSA)                            | 2013-01-01          | 2022-04-01        |
+| ENUC165440510SA        | Average Weekly Wages for Employees in Private Establishments in Chambersburg-Waynesboro, PA (MSA)                            | 2013-01-01          | 2022-04-01        |
 | IRPD16540              | Implicit Regional Price Deflator for Chambersburg-Waynesboro, PA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT421654000000003   | Unemployment Rate in Chambersburg-Waynesboro, PA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT421654000000003A  | Unemployment Rate in Chambersburg-Waynesboro, PA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
@@ -24,9 +24,9 @@
 | LAUMT421654000000005A  | Employed Persons in Chambersburg-Waynesboro, PA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT421654000000006   | Civilian Labor Force in Chambersburg-Waynesboro, PA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT421654000000006A  | Civilian Labor Force in Chambersburg-Waynesboro, PA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| NGMP16540              | Total Gross Domestic Product for Chambersburg-Waynesboro, PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| QGMP16540              | Total Quantity Indexes for Real GDP for Chambersburg-Waynesboro, PA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP16540              | Total Real Gross Domestic Product for Chambersburg-Waynesboro, PA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| NGMP16540              | Total Gross Domestic Product for Chambersburg-Waynesboro, PA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
+| QGMP16540              | Total Quantity Indexes for Real GDP for Chambersburg-Waynesboro, PA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP16540              | Total Real Gross Domestic Product for Chambersburg-Waynesboro, PA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI16540               | Real Personal Income for Chambersburg-Waynesboro, PA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC16540             | Real Per Capita Personal Income for Chambersburg-Waynesboro, PA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL16540            | Regional Price Parities: All Items for Chambersburg-Waynesboro, PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

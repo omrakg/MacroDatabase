@@ -7,18 +7,18 @@
 | AVELISPRI22140            | Housing Inventory: Average Listing Price in Farmington, NM (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM22140          | Housing Inventory: Average Listing Price Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY22140          | Housing Inventory: Average Listing Price Year-Over-Year in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-11-01        |
-| ENUC221430010             | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC221430010SA           | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC221440010             | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC221440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC221440110             | Average Weekly Wages for Employees in Federal Government Establishments in Farmington, NM (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC221440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Farmington, NM (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC221440210             | Average Weekly Wages for Employees in State Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC221440210SA           | Average Weekly Wages for Employees in State Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC221440310             | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC221440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC221440510             | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC221440510SA           | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC221430010             | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC221430010SA           | Total Quarterly Wages in Farmington, NM (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC221440010             | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC221440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Farmington, NM (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC221440110             | Average Weekly Wages for Employees in Federal Government Establishments in Farmington, NM (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC221440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Farmington, NM (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC221440210             | Average Weekly Wages for Employees in State Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC221440210SA           | Average Weekly Wages for Employees in State Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC221440310             | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC221440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Farmington, NM (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC221440510             | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC221440510SA           | Average Weekly Wages for Employees in Private Establishments in Farmington, NM (MSA)                 | 1990-01-01          | 2022-04-01        |
 | FARM135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-10-01        |
 | FARM135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Farmington, NM (MSA) | 2004-01-01          | 2022-10-01        |
 | FARM135BPPRIV             | New Private Housing Units Authorized by Building Permits for Farmington, NM (MSA)                    | 2004-01-01          | 2022-10-01        |
@@ -55,7 +55,7 @@
 | NEWLISCOU22140            | Housing Inventory: New Listing Count in Farmington, NM (CBSA)                                        | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM22140          | Housing Inventory: New Listing Count Month-Over-Month in Farmington, NM (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY22140          | Housing Inventory: New Listing Count Year-Over-Year in Farmington, NM (CBSA)                         | 2017-07-01          | 2022-11-01        |
-| NGMP22140                 | Total Gross Domestic Product for Farmington, NM (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| NGMP22140                 | Total Gross Domestic Product for Farmington, NM (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA122140          | U.S. Granted Utility Patents Originating in Farmington, NM (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU22140            | Housing Inventory: Pending Listing Count in Farmington, NM (CBSA)                                    | 2016-09-01          | 2022-11-01        |
 | PENLISCOUMM22140          | Housing Inventory: Pending Listing Count Month-Over-Month in Farmington, NM (CBSA)                   | 2017-07-01          | 2022-11-01        |
@@ -66,8 +66,8 @@
 | PRIREDCOU22140            | Housing Inventory: Price Reduced Count in Farmington, NM (CBSA)                                      | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM22140          | Housing Inventory: Price Reduced Count Month-Over-Month in Farmington, NM (CBSA)                     | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY22140          | Housing Inventory: Price Reduced Count Year-Over-Year in Farmington, NM (CBSA)                       | 2017-07-01          | 2022-11-01        |
-| QGMP22140                 | Total Quantity Indexes for Real GDP for Farmington, NM (MSA)                                         | 2001-01-01          | 2020-01-01        |
-| RGMP22140                 | Total Real Gross Domestic Product for Farmington, NM (MSA)                                           | 2001-01-01          | 2020-01-01        |
+| QGMP22140                 | Total Quantity Indexes for Real GDP for Farmington, NM (MSA)                                         | 2001-01-01          | 2021-01-01        |
+| RGMP22140                 | Total Real Gross Domestic Product for Farmington, NM (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RPI22140                  | Real Personal Income for Farmington, NM (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPIPC22140                | Real Per Capita Personal Income for Farmington, NM (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPALL22140               | Regional Price Parities: All Items for Farmington, NM (MSA)                                          | 2008-01-01          | 2020-01-01        |

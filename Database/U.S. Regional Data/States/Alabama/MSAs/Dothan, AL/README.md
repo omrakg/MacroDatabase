@@ -36,18 +36,18 @@
 | DOTH001UR                 | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DOTH001URN                | Unemployment Rate in Dothan, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DOTPOP                    | Resident Population in Dothan, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| ENUC200230010             | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC200230010SA           | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC200240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dothan, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC200240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dothan, AL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC200240110             | Average Weekly Wages for Employees in Federal Government Establishments in Dothan, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC200240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dothan, AL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC200240210             | Average Weekly Wages for Employees in State Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC200240210SA           | Average Weekly Wages for Employees in State Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC200240310             | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC200240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC200240510             | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC200240510SA           | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC200230010             | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC200230010SA           | Total Quarterly Wages in Dothan, AL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC200240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dothan, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC200240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dothan, AL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC200240110             | Average Weekly Wages for Employees in Federal Government Establishments in Dothan, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC200240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dothan, AL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC200240210             | Average Weekly Wages for Employees in State Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC200240210SA           | Average Weekly Wages for Employees in State Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC200240310             | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC200240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dothan, AL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC200240510             | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC200240510SA           | Average Weekly Wages for Employees in Private Establishments in Dothan, AL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA20020              | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA20020            | Market Hotness: Hotness Rank in Dothan, AL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU20020            | Housing Inventory: New Listing Count in Dothan, AL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM20020          | Housing Inventory: New Listing Count Month-Over-Month in Dothan, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY20020          | Housing Inventory: New Listing Count Year-Over-Year in Dothan, AL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP20020                 | Total Gross Domestic Product for Dothan, AL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP20020                 | Total Gross Domestic Product for Dothan, AL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA20020            | Market Hotness: Nielsen Household Rank in Dothan, AL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA120020          | U.S. Granted Utility Patents Originating in Dothan, AL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU20020            | Housing Inventory: Pending Listing Count in Dothan, AL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU20020            | Housing Inventory: Price Reduced Count in Dothan, AL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM20020          | Housing Inventory: Price Reduced Count Month-Over-Month in Dothan, AL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY20020          | Housing Inventory: Price Reduced Count Year-Over-Year in Dothan, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP20020                 | Total Quantity Indexes for Real GDP for Dothan, AL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP20020                 | Total Real Gross Domestic Product for Dothan, AL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP20020                 | Total Quantity Indexes for Real GDP for Dothan, AL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP20020                 | Total Real Gross Domestic Product for Dothan, AL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI20020                  | Real Personal Income for Dothan, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC20020                | Real Per Capita Personal Income for Dothan, AL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL20020               | Regional Price Parities: All Items for Dothan, AL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM38860          | Housing Inventory: Average Listing Price Month-Over-Month in Portland-South Portland, ME (CBSA)                        | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY38860          | Housing Inventory: Average Listing Price Year-Over-Year in Portland-South Portland, ME (CBSA)                          | 2017-07-01          | 2022-11-01        |
 | DESCMSA38860              | Market Hotness: Demand Score in Portland-South Portland, ME (CBSA)                                                     | 2017-08-01          | 2022-11-01        |
-| ENUC388630010             | Total Quarterly Wages in Portland-South Portland, ME (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| ENUC388630010SA           | Total Quarterly Wages in Portland-South Portland, ME (MSA)                                                             | 1990-01-01          | 2022-01-01        |
-| ENUC388640010             | Average Weekly Wages for Employees in Total Covered Establishments in Portland-South Portland-Biddeford, ME (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC388640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Portland-South Portland-Biddeford, ME (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC388640110             | Average Weekly Wages for Employees in Federal Government Establishments in Portland-South Portland-Biddeford, ME (MSA) | 1990-01-01          | 2022-01-01        |
-| ENUC388640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Portland-South Portland-Biddeford, ME (MSA) | 1990-01-01          | 2022-01-01        |
-| ENUC388640210             | Average Weekly Wages for Employees in State Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2019-07-01        |
-| ENUC388640210SA           | Average Weekly Wages for Employees in State Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2019-07-01        |
-| ENUC388640310             | Average Weekly Wages for Employees in Local Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2019-07-01        |
-| ENUC388640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2019-07-01        |
-| ENUC388640510             | Average Weekly Wages for Employees in Private Establishments in Portland-South Portland-Biddeford, ME (MSA)            | 1990-01-01          | 2022-01-01        |
-| ENUC388640510SA           | Average Weekly Wages for Employees in Private Establishments in Portland-South Portland-Biddeford, ME (MSA)            | 1990-01-01          | 2022-01-01        |
+| ENUC388630010             | Total Quarterly Wages in Portland-South Portland, ME (MSA)                                                             | 1990-01-01          | 2022-04-01        |
+| ENUC388630010SA           | Total Quarterly Wages in Portland-South Portland, ME (MSA)                                                             | 1990-01-01          | 2022-04-01        |
+| ENUC388640010             | Average Weekly Wages for Employees in Total Covered Establishments in Portland-South Portland-Biddeford, ME (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC388640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Portland-South Portland-Biddeford, ME (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC388640110             | Average Weekly Wages for Employees in Federal Government Establishments in Portland-South Portland-Biddeford, ME (MSA) | 1990-01-01          | 2022-04-01        |
+| ENUC388640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Portland-South Portland-Biddeford, ME (MSA) | 1990-01-01          | 2022-04-01        |
+| ENUC388640210             | Average Weekly Wages for Employees in State Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC388640210SA           | Average Weekly Wages for Employees in State Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC388640310             | Average Weekly Wages for Employees in Local Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC388640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Portland-South Portland-Biddeford, ME (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC388640510             | Average Weekly Wages for Employees in Private Establishments in Portland-South Portland-Biddeford, ME (MSA)            | 1990-01-01          | 2022-04-01        |
+| ENUC388640510SA           | Average Weekly Wages for Employees in Private Establishments in Portland-South Portland-Biddeford, ME (MSA)            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA38860            | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2017-09-01          | 2022-11-01        |
 | HORAMSA38860              | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA38860            | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2018-08-01          | 2022-11-01        |
@@ -54,7 +54,7 @@
 | NEWLISCOU38860            | Housing Inventory: New Listing Count in Portland-South Portland, ME (CBSA)                                             | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM38860          | Housing Inventory: New Listing Count Month-Over-Month in Portland-South Portland, ME (CBSA)                            | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY38860          | Housing Inventory: New Listing Count Year-Over-Year in Portland-South Portland, ME (CBSA)                              | 2017-07-01          | 2022-11-01        |
-| NGMP38860                 | Total Gross Domestic Product for Portland-South Portland, ME (MSA)                                                     | 2001-01-01          | 2020-01-01        |
+| NGMP38860                 | Total Gross Domestic Product for Portland-South Portland, ME (MSA)                                                     | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA38860            | Market Hotness: Nielsen Household Rank in Portland-South Portland, ME (CBSA)                                           | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA138860          | U.S. Granted Utility Patents Originating in Portland-South Portland-Biddeford, ME (MSA)                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU38860            | Housing Inventory: Pending Listing Count in Portland-South Portland, ME (CBSA)                                         | 2016-07-01          | 2022-11-01        |
@@ -67,8 +67,8 @@
 | PRIREDCOUMM38860          | Housing Inventory: Price Reduced Count Month-Over-Month in Portland-South Portland, ME (CBSA)                          | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY38860          | Housing Inventory: Price Reduced Count Year-Over-Year in Portland-South Portland, ME (CBSA)                            | 2017-07-01          | 2022-11-01        |
 | PTLPOP                    | Resident Population in Portland-South Portland, ME (MSA)                                                               | 2000-01-01          | 2021-01-01        |
-| QGMP38860                 | Total Quantity Indexes for Real GDP for Portland-South Portland, ME (MSA)                                              | 2001-01-01          | 2020-01-01        |
-| RGMP38860                 | Total Real Gross Domestic Product for Portland-South Portland, ME (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| QGMP38860                 | Total Quantity Indexes for Real GDP for Portland-South Portland, ME (MSA)                                              | 2001-01-01          | 2021-01-01        |
+| RGMP38860                 | Total Real Gross Domestic Product for Portland-South Portland, ME (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | RPI38860                  | Real Personal Income for Portland-South Portland, ME (MSA)                                                             | 2008-01-01          | 2020-01-01        |
 | RPIPC38860                | Real Per Capita Personal Income for Portland-South Portland, ME (MSA)                                                  | 2008-01-01          | 2020-01-01        |
 | RPPALL38860               | Regional Price Parities: All Items for Portland-South Portland, ME (MSA)                                               | 2008-01-01          | 2020-01-01        |

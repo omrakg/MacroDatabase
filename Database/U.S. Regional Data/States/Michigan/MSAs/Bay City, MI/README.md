@@ -35,18 +35,18 @@
 | BAYC026UR                 | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | BAYC026URN                | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | BCTPOP                    | Resident Population in Bay City, MI (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| ENUC130230010             | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC130230010SA           | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC130240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bay City, MI (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC130240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bay City, MI (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC130240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bay City, MI (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC130240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bay City, MI (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC130240210             | Average Weekly Wages for Employees in State Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC130240210SA           | Average Weekly Wages for Employees in State Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC130240310             | Average Weekly Wages for Employees in Local Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC130240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2022-01-01        |
-| ENUC130240510             | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC130240510SA           | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC130230010             | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC130230010SA           | Total Quarterly Wages in Bay City, MI (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC130240010             | Average Weekly Wages for Employees in Total Covered Establishments in Bay City, MI (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC130240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bay City, MI (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC130240110             | Average Weekly Wages for Employees in Federal Government Establishments in Bay City, MI (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC130240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bay City, MI (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC130240210             | Average Weekly Wages for Employees in State Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC130240210SA           | Average Weekly Wages for Employees in State Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC130240310             | Average Weekly Wages for Employees in Local Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC130240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bay City, MI (MSA)     | 2005-01-01          | 2022-04-01        |
+| ENUC130240510             | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC130240510SA           | Average Weekly Wages for Employees in Private Establishments in Bay City, MI (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD13020                 | Implicit Regional Price Deflator for Bay City, MI (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT261302000000003A     | Unemployment Rate in Bay City, MI (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT261302000000004      | Unemployed Persons in Bay City, MI (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU13020            | Housing Inventory: New Listing Count in Bay City, MI (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM13020          | Housing Inventory: New Listing Count Month-Over-Month in Bay City, MI (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY13020          | Housing Inventory: New Listing Count Year-Over-Year in Bay City, MI (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP13020                 | Total Gross Domestic Product for Bay City, MI (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP13020                 | Total Gross Domestic Product for Bay City, MI (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA113020          | U.S. Granted Utility Patents Originating in Bay City, MI (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU13020            | Housing Inventory: Pending Listing Count in Bay City, MI (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM13020          | Housing Inventory: Pending Listing Count Month-Over-Month in Bay City, MI (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU13020            | Housing Inventory: Price Reduced Count in Bay City, MI (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM13020          | Housing Inventory: Price Reduced Count Month-Over-Month in Bay City, MI (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY13020          | Housing Inventory: Price Reduced Count Year-Over-Year in Bay City, MI (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP13020                 | Total Quantity Indexes for Real GDP for Bay City, MI (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP13020                 | Total Real Gross Domestic Product for Bay City, MI (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP13020                 | Total Quantity Indexes for Real GDP for Bay City, MI (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP13020                 | Total Real Gross Domestic Product for Bay City, MI (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI13020                  | Real Personal Income for Bay City, MI (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC13020                | Real Per Capita Personal Income for Bay City, MI (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL13020               | Regional Price Parities: All Items for Bay City, MI (MSA)                                       | 2008-01-01          | 2020-01-01        |

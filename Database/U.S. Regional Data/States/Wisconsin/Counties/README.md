@@ -10,13 +10,13 @@
 | Calumet County, WI                      |               144 |
 | Douglas County, WI                      |               146 |
 | La Crosse County, WI                    |               147 |
-| Sawyer County, WI                       |                 0 |
+| Sawyer County, WI                       |                90 |
 | Rock County, WI                         |               147 |
 | Chippewa County, WI                     |               146 |
 | Langlade County, WI                     |                90 |
 | Ozaukee County, WI                      |               147 |
 | Juneau County, WI                       |                89 |
-| Winnebago County, WI                    |               147 |
+| Winnebago County, WI                    |                 0 |
 | Oneida County, WI                       |                90 |
 | Walworth County, WI                     |               147 |
 | Eau Claire County, WI                   |               147 |
@@ -70,4 +70,4 @@
 | Pierce County, WI                       |                90 |
 | Washburn County, WI                     |                89 |
 | Dunn County, WI                         |                90 |
-| Green County, WI                        |                 0 |
+| Green County, WI                        |                90 |

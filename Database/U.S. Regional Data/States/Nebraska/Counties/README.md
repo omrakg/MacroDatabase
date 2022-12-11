@@ -24,11 +24,11 @@
 | Kimball County, NE      |                89 |
 | Greeley County, NE      |                86 |
 | Scotts Bluff County, NE |                90 |
-| Blaine County, NE       |                82 |
+| Blaine County, NE       |                 0 |
 | Douglas County, NE      |               147 |
 | Boone County, NE        |                87 |
 | Saunders County, NE     |                90 |
-| Valley County, NE       |                 0 |
+| Valley County, NE       |                88 |
 | Dixon County, NE        |                87 |
 | Madison County, NE      |                89 |
 | Loup County, NE         |                83 |
@@ -84,11 +84,11 @@
 | Sioux County, NE        |                86 |
 | Antelope County, NE     |                90 |
 | Adams County, NE        |                89 |
-| Wayne County, NE        |                90 |
+| Wayne County, NE        |                 0 |
 | Holt County, NE         |                90 |
 | Sarpy County, NE        |               147 |
 | Arthur County, NE       |                82 |
-| Cherry County, NE       |                 0 |
+| Cherry County, NE       |                88 |
 | Banner County, NE       |                82 |
 | Brown County, NE        |                88 |
 | York County, NE         |                90 |

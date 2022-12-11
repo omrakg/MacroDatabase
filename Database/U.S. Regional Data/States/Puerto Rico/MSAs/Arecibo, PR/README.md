@@ -1,17 +1,17 @@
 | id                     | title                                                                                        | observation_start   | observation_end   |
 |------------------------|----------------------------------------------------------------------------------------------|---------------------|-------------------|
-| ENUC116430010          | Total Quarterly Wages in Arecibo, PR (MSA)                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC116430010SA        | Total Quarterly Wages in Arecibo, PR (MSA)                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC116440010          | Average Weekly Wages for Employees in Total Covered Establishments in Arecibo, PR (MSA)      | 2013-01-01          | 2022-01-01        |
-| ENUC116440010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Arecibo, PR (MSA)      | 2013-01-01          | 2022-01-01        |
-| ENUC116440110          | Average Weekly Wages for Employees in Federal Government Establishments in Arecibo, PR (MSA) | 2013-01-01          | 2022-01-01        |
-| ENUC116440110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Arecibo, PR (MSA) | 2013-01-01          | 2022-01-01        |
-| ENUC116440210          | Average Weekly Wages for Employees in State Government Establishments in Arecibo, PR (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC116440210SA        | Average Weekly Wages for Employees in State Government Establishments in Arecibo, PR (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC116440310          | Average Weekly Wages for Employees in Local Government Establishments in Arecibo, PR (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC116440310SA        | Average Weekly Wages for Employees in Local Government Establishments in Arecibo, PR (MSA)   | 2013-01-01          | 2022-01-01        |
-| ENUC116440510          | Average Weekly Wages for Employees in Private Establishments in Arecibo, PR (MSA)            | 2013-01-01          | 2022-01-01        |
-| ENUC116440510SA        | Average Weekly Wages for Employees in Private Establishments in Arecibo, PR (MSA)            | 2013-01-01          | 2022-01-01        |
+| ENUC116430010          | Total Quarterly Wages in Arecibo, PR (MSA)                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC116430010SA        | Total Quarterly Wages in Arecibo, PR (MSA)                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC116440010          | Average Weekly Wages for Employees in Total Covered Establishments in Arecibo, PR (MSA)      | 2013-01-01          | 2022-04-01        |
+| ENUC116440010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Arecibo, PR (MSA)      | 2013-01-01          | 2022-04-01        |
+| ENUC116440110          | Average Weekly Wages for Employees in Federal Government Establishments in Arecibo, PR (MSA) | 2013-01-01          | 2022-04-01        |
+| ENUC116440110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Arecibo, PR (MSA) | 2013-01-01          | 2022-04-01        |
+| ENUC116440210          | Average Weekly Wages for Employees in State Government Establishments in Arecibo, PR (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC116440210SA        | Average Weekly Wages for Employees in State Government Establishments in Arecibo, PR (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC116440310          | Average Weekly Wages for Employees in Local Government Establishments in Arecibo, PR (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC116440310SA        | Average Weekly Wages for Employees in Local Government Establishments in Arecibo, PR (MSA)   | 2013-01-01          | 2022-04-01        |
+| ENUC116440510          | Average Weekly Wages for Employees in Private Establishments in Arecibo, PR (MSA)            | 2013-01-01          | 2022-04-01        |
+| ENUC116440510SA        | Average Weekly Wages for Employees in Private Establishments in Arecibo, PR (MSA)            | 2013-01-01          | 2022-04-01        |
 | SMU72116400000000001   | All Employees: Total Nonfarm in Arecibo, PR (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | SMU72116400000000001A  | All Employees: Total Nonfarm in Arecibo, PR (MSA)                                            | 1990-01-01          | 2021-01-01        |
 | SMU72116400000000001SA | All Employees: Total Nonfarm in Arecibo, PR (MSA)                                            | 1990-01-01          | 2022-10-01        |

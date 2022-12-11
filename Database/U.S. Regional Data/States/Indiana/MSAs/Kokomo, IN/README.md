@@ -7,18 +7,18 @@
 | AVELISPRI29020            | Housing Inventory: Average Listing Price in Kokomo, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM29020          | Housing Inventory: Average Listing Price Month-Over-Month in Kokomo, IN (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY29020          | Housing Inventory: Average Listing Price Year-Over-Year in Kokomo, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC290230010             | Total Quarterly Wages in Kokomo, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC290230010SA           | Total Quarterly Wages in Kokomo, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC290240010             | Average Weekly Wages for Employees in Total Covered Establishments in Kokomo, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC290240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kokomo, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC290240110             | Average Weekly Wages for Employees in Federal Government Establishments in Kokomo, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC290240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kokomo, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC290240210             | Average Weekly Wages for Employees in State Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC290240210SA           | Average Weekly Wages for Employees in State Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC290240310             | Average Weekly Wages for Employees in Local Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC290240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC290240510             | Average Weekly Wages for Employees in Private Establishments in Kokomo, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC290240510SA           | Average Weekly Wages for Employees in Private Establishments in Kokomo, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC290230010             | Total Quarterly Wages in Kokomo, IN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC290230010SA           | Total Quarterly Wages in Kokomo, IN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC290240010             | Average Weekly Wages for Employees in Total Covered Establishments in Kokomo, IN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC290240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Kokomo, IN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC290240110             | Average Weekly Wages for Employees in Federal Government Establishments in Kokomo, IN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC290240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Kokomo, IN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC290240210             | Average Weekly Wages for Employees in State Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC290240210SA           | Average Weekly Wages for Employees in State Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC290240310             | Average Weekly Wages for Employees in Local Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC290240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC290240510             | Average Weekly Wages for Employees in Private Establishments in Kokomo, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC290240510SA           | Average Weekly Wages for Employees in Private Establishments in Kokomo, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD29020                 | Implicit Regional Price Deflator for Kokomo, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | KOKO018FIRE               | All Employees: Financial Activities in Kokomo, IN (MSA)                                                     | 1990-01-01          | 2022-10-01        |
 | KOKO018FIREN              | All Employees: Financial Activities in Kokomo, IN (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -65,7 +65,7 @@
 | NEWLISCOU29020            | Housing Inventory: New Listing Count in Kokomo, IN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM29020          | Housing Inventory: New Listing Count Month-Over-Month in Kokomo, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY29020          | Housing Inventory: New Listing Count Year-Over-Year in Kokomo, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP29020                 | Total Gross Domestic Product for Kokomo, IN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP29020                 | Total Gross Domestic Product for Kokomo, IN (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA129020          | U.S. Granted Utility Patents Originating in Kokomo, IN (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU29020            | Housing Inventory: Pending Listing Count in Kokomo, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM29020          | Housing Inventory: Pending Listing Count Month-Over-Month in Kokomo, IN (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -76,8 +76,8 @@
 | PRIREDCOU29020            | Housing Inventory: Price Reduced Count in Kokomo, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM29020          | Housing Inventory: Price Reduced Count Month-Over-Month in Kokomo, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY29020          | Housing Inventory: Price Reduced Count Year-Over-Year in Kokomo, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP29020                 | Total Quantity Indexes for Real GDP for Kokomo, IN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP29020                 | Total Real Gross Domestic Product for Kokomo, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP29020                 | Total Quantity Indexes for Real GDP for Kokomo, IN (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP29020                 | Total Real Gross Domestic Product for Kokomo, IN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI29020                  | Real Personal Income for Kokomo, IN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC29020                | Real Per Capita Personal Income for Kokomo, IN (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL29020               | Regional Price Parities: All Items for Kokomo, IN (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -6,6 +6,6 @@
 | Alexandria, LA              |               131 |
 | Baton Rouge, LA             |               220 |
 | New Orleans-Metairie, LA    |               262 |
-| Shreveport-Bossier City, LA |                 0 |
+| Shreveport-Bossier City, LA |               192 |
 | Lake Charles, LA            |               161 |
 | Hammond, LA                 |                59 |

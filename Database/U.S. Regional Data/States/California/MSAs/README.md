@@ -10,7 +10,7 @@
 | San Diego-Chula Vista-Carlsbad, CA   |               392 |
 | Los Angeles-Long Beach-Anaheim, CA   |               332 |
 | Santa Maria-Santa Barbara, CA        |               175 |
-| El Centro, CA                        |                 0 |
+| El Centro, CA                        |               150 |
 | Merced, CA                           |               173 |
 | Santa Rosa-Petaluma, CA              |               221 |
 | Riverside-San Bernardino-Ontario, CA |               364 |

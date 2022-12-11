@@ -7,18 +7,18 @@
 | AVELISPRI36980            | Housing Inventory: Average Listing Price in Owensboro, KY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM36980          | Housing Inventory: Average Listing Price Month-Over-Month in Owensboro, KY (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY36980          | Housing Inventory: Average Listing Price Year-Over-Year in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC369830010             | Total Quarterly Wages in Owensboro, KY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC369830010SA           | Total Quarterly Wages in Owensboro, KY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC369840010             | Average Weekly Wages for Employees in Total Covered Establishments in Owensboro, KY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC369840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Owensboro, KY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC369840110             | Average Weekly Wages for Employees in Federal Government Establishments in Owensboro, KY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC369840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Owensboro, KY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC369840210             | Average Weekly Wages for Employees in State Government Establishments in Owensboro, KY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC369840210SA           | Average Weekly Wages for Employees in State Government Establishments in Owensboro, KY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC369840310             | Average Weekly Wages for Employees in Local Government Establishments in Owensboro, KY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC369840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Owensboro, KY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC369840510             | Average Weekly Wages for Employees in Private Establishments in Owensboro, KY (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC369840510SA           | Average Weekly Wages for Employees in Private Establishments in Owensboro, KY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC369830010             | Total Quarterly Wages in Owensboro, KY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC369830010SA           | Total Quarterly Wages in Owensboro, KY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC369840010             | Average Weekly Wages for Employees in Total Covered Establishments in Owensboro, KY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC369840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Owensboro, KY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC369840110             | Average Weekly Wages for Employees in Federal Government Establishments in Owensboro, KY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC369840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Owensboro, KY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC369840210             | Average Weekly Wages for Employees in State Government Establishments in Owensboro, KY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC369840210SA           | Average Weekly Wages for Employees in State Government Establishments in Owensboro, KY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC369840310             | Average Weekly Wages for Employees in Local Government Establishments in Owensboro, KY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC369840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Owensboro, KY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC369840510             | Average Weekly Wages for Employees in Private Establishments in Owensboro, KY (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC369840510SA           | Average Weekly Wages for Employees in Private Establishments in Owensboro, KY (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD36980                 | Implicit Regional Price Deflator for Owensboro, KY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT213698000000003A     | Unemployment Rate in Owensboro, KY (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT213698000000004      | Unemployed Persons in Owensboro, KY (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU36980            | Housing Inventory: New Listing Count in Owensboro, KY (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM36980          | Housing Inventory: New Listing Count Month-Over-Month in Owensboro, KY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY36980          | Housing Inventory: New Listing Count Year-Over-Year in Owensboro, KY (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP36980                 | Total Gross Domestic Product for Owensboro, KY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP36980                 | Total Gross Domestic Product for Owensboro, KY (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | OWNEDUH                   | All Employees: Education and Health Services in Owensboro, KY (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | OWNEDUHN                  | All Employees: Education and Health Services in Owensboro, KY (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | OWNFIRE                   | All Employees: Financial Activities in Owensboro, KY (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU36980            | Housing Inventory: Price Reduced Count in Owensboro, KY (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM36980          | Housing Inventory: Price Reduced Count Month-Over-Month in Owensboro, KY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY36980          | Housing Inventory: Price Reduced Count Year-Over-Year in Owensboro, KY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP36980                 | Total Quantity Indexes for Real GDP for Owensboro, KY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP36980                 | Total Real Gross Domestic Product for Owensboro, KY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP36980                 | Total Quantity Indexes for Real GDP for Owensboro, KY (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP36980                 | Total Real Gross Domestic Product for Owensboro, KY (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI36980                  | Real Personal Income for Owensboro, KY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC36980                | Real Per Capita Personal Income for Owensboro, KY (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL36980               | Regional Price Parities: All Items for Owensboro, KY (MSA)                                                     | 2008-01-01          | 2020-01-01        |

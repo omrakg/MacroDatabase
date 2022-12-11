@@ -8,18 +8,18 @@
 | AVELISPRIMM27500          | Housing Inventory: Average Listing Price Month-Over-Month in Janesville-Beloit, WI (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY27500          | Housing Inventory: Average Listing Price Year-Over-Year in Janesville-Beloit, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA27500              | Market Hotness: Demand Score in Janesville-Beloit, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC275030010             | Total Quarterly Wages in Janesville-Beloit, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC275030010SA           | Total Quarterly Wages in Janesville-Beloit, WI (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC275040010             | Average Weekly Wages for Employees in Total Covered Establishments in Janesville, WI (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC275040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Janesville, WI (MSA)                             | 1990-01-01          | 2022-01-01        |
-| ENUC275040110             | Average Weekly Wages for Employees in Federal Government Establishments in Janesville, WI (MSA)                        | 1990-01-01          | 2022-01-01        |
-| ENUC275040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Janesville, WI (MSA)                        | 1990-01-01          | 2022-01-01        |
-| ENUC275040210             | Average Weekly Wages for Employees in State Government Establishments in Janesville, WI (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ENUC275040210SA           | Average Weekly Wages for Employees in State Government Establishments in Janesville, WI (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ENUC275040310             | Average Weekly Wages for Employees in Local Government Establishments in Janesville, WI (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ENUC275040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Janesville, WI (MSA)                          | 1990-01-01          | 2022-01-01        |
-| ENUC275040510             | Average Weekly Wages for Employees in Private Establishments in Janesville, WI (MSA)                                   | 1990-01-01          | 2022-01-01        |
-| ENUC275040510SA           | Average Weekly Wages for Employees in Private Establishments in Janesville, WI (MSA)                                   | 1990-01-01          | 2022-01-01        |
+| ENUC275030010             | Total Quarterly Wages in Janesville-Beloit, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC275030010SA           | Total Quarterly Wages in Janesville-Beloit, WI (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC275040010             | Average Weekly Wages for Employees in Total Covered Establishments in Janesville, WI (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC275040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Janesville, WI (MSA)                             | 1990-01-01          | 2022-04-01        |
+| ENUC275040110             | Average Weekly Wages for Employees in Federal Government Establishments in Janesville, WI (MSA)                        | 1990-01-01          | 2022-04-01        |
+| ENUC275040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Janesville, WI (MSA)                        | 1990-01-01          | 2022-04-01        |
+| ENUC275040210             | Average Weekly Wages for Employees in State Government Establishments in Janesville, WI (MSA)                          | 1990-01-01          | 2022-04-01        |
+| ENUC275040210SA           | Average Weekly Wages for Employees in State Government Establishments in Janesville, WI (MSA)                          | 1990-01-01          | 2022-04-01        |
+| ENUC275040310             | Average Weekly Wages for Employees in Local Government Establishments in Janesville, WI (MSA)                          | 1990-01-01          | 2022-04-01        |
+| ENUC275040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Janesville, WI (MSA)                          | 1990-01-01          | 2022-04-01        |
+| ENUC275040510             | Average Weekly Wages for Employees in Private Establishments in Janesville, WI (MSA)                                   | 1990-01-01          | 2022-04-01        |
+| ENUC275040510SA           | Average Weekly Wages for Employees in Private Establishments in Janesville, WI (MSA)                                   | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA27500            | Market Hotness: Hotness Rank in Janesville-Beloit, WI (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA27500              | Market Hotness: Hotness Rank in Janesville-Beloit, WI (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA27500            | Market Hotness: Hotness Rank in Janesville-Beloit, WI (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU27500            | Housing Inventory: New Listing Count in Janesville-Beloit, WI (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM27500          | Housing Inventory: New Listing Count Month-Over-Month in Janesville-Beloit, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY27500          | Housing Inventory: New Listing Count Year-Over-Year in Janesville-Beloit, WI (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP27500                 | Total Gross Domestic Product for Janesville-Beloit, WI (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP27500                 | Total Gross Domestic Product for Janesville-Beloit, WI (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA27500            | Market Hotness: Nielsen Household Rank in Janesville-Beloit, WI (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA127500          | U.S. Granted Utility Patents Originating in Janesville, WI (MSA)                                                       | 2000-01-01          | 2015-01-01        |
 | PENLISCOU27500            | Housing Inventory: Pending Listing Count in Janesville-Beloit, WI (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU27500            | Housing Inventory: Price Reduced Count in Janesville-Beloit, WI (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM27500          | Housing Inventory: Price Reduced Count Month-Over-Month in Janesville-Beloit, WI (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY27500          | Housing Inventory: Price Reduced Count Year-Over-Year in Janesville-Beloit, WI (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP27500                 | Total Quantity Indexes for Real GDP for Janesville-Beloit, WI (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP27500                 | Total Real Gross Domestic Product for Janesville-Beloit, WI (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP27500                 | Total Quantity Indexes for Real GDP for Janesville-Beloit, WI (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP27500                 | Total Real Gross Domestic Product for Janesville-Beloit, WI (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI27500                  | Real Personal Income for Janesville-Beloit, WI (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC27500                | Real Per Capita Personal Income for Janesville-Beloit, WI (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL27500               | Regional Price Parities: All Items for Janesville-Beloit, WI (MSA)                                                     | 2008-01-01          | 2020-01-01        |

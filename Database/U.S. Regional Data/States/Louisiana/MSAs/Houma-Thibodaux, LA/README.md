@@ -8,18 +8,18 @@
 | AVELISPRIMM26380          | Housing Inventory: Average Listing Price Month-Over-Month in Houma-Thibodaux, LA (CBSA)                             | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY26380          | Housing Inventory: Average Listing Price Year-Over-Year in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-11-01        |
 | DESCMSA26380              | Market Hotness: Demand Score in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
-| ENUC263830010             | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2022-01-01        |
-| ENUC263830010SA           | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2022-01-01        |
-| ENUC263840010             | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2022-01-01        |
-| ENUC263840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2022-01-01        |
-| ENUC263840110             | Average Weekly Wages for Employees in Federal Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC263840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC263840210             | Average Weekly Wages for Employees in State Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
-| ENUC263840210SA           | Average Weekly Wages for Employees in State Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
-| ENUC263840310             | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
-| ENUC263840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-01-01        |
-| ENUC263840510             | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2022-01-01        |
-| ENUC263840510SA           | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2022-01-01        |
+| ENUC263830010             | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2022-04-01        |
+| ENUC263830010SA           | Total Quarterly Wages in Houma-Thibodaux, LA (MSA)                                                                  | 1990-01-01          | 2022-04-01        |
+| ENUC263840010             | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2022-04-01        |
+| ENUC263840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)          | 1990-01-01          | 2022-04-01        |
+| ENUC263840110             | Average Weekly Wages for Employees in Federal Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC263840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC263840210             | Average Weekly Wages for Employees in State Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-04-01        |
+| ENUC263840210SA           | Average Weekly Wages for Employees in State Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-04-01        |
+| ENUC263840310             | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-04-01        |
+| ENUC263840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)       | 1990-01-01          | 2022-04-01        |
+| ENUC263840510             | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2022-04-01        |
+| ENUC263840510SA           | Average Weekly Wages for Employees in Private Establishments in Houma-Bayou Cane-Thibodaux, LA (MSA)                | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2017-09-01          | 2022-11-01        |
 | HORAMSA26380              | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA26380            | Market Hotness: Hotness Rank in Houma-Thibodaux, LA (CBSA)                                                          | 2018-08-01          | 2022-11-01        |
@@ -73,7 +73,7 @@
 | NEWLISCOU26380            | Housing Inventory: New Listing Count in Houma-Thibodaux, LA (CBSA)                                                  | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM26380          | Housing Inventory: New Listing Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY26380          | Housing Inventory: New Listing Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                   | 2017-07-01          | 2022-11-01        |
-| NGMP26380                 | Total Gross Domestic Product for Houma-Thibodaux, LA (MSA)                                                          | 2001-01-01          | 2020-01-01        |
+| NGMP26380                 | Total Gross Domestic Product for Houma-Thibodaux, LA (MSA)                                                          | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA26380            | Market Hotness: Nielsen Household Rank in Houma-Thibodaux, LA (CBSA)                                                | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA126380          | U.S. Granted Utility Patents Originating in Houma-Bayou Cane-Thibodaux, LA (MSA)                                    | 2000-01-01          | 2015-01-01        |
 | PENLISCOU26380            | Housing Inventory: Pending Listing Count in Houma-Thibodaux, LA (CBSA)                                              | 2016-07-01          | 2022-11-01        |
@@ -85,8 +85,8 @@
 | PRIREDCOU26380            | Housing Inventory: Price Reduced Count in Houma-Thibodaux, LA (CBSA)                                                | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM26380          | Housing Inventory: Price Reduced Count Month-Over-Month in Houma-Thibodaux, LA (CBSA)                               | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY26380          | Housing Inventory: Price Reduced Count Year-Over-Year in Houma-Thibodaux, LA (CBSA)                                 | 2017-07-01          | 2022-11-01        |
-| QGMP26380                 | Total Quantity Indexes for Real GDP for Houma-Thibodaux, LA (MSA)                                                   | 2001-01-01          | 2020-01-01        |
-| RGMP26380                 | Total Real Gross Domestic Product for Houma-Thibodaux, LA (MSA)                                                     | 2001-01-01          | 2020-01-01        |
+| QGMP26380                 | Total Quantity Indexes for Real GDP for Houma-Thibodaux, LA (MSA)                                                   | 2001-01-01          | 2021-01-01        |
+| RGMP26380                 | Total Real Gross Domestic Product for Houma-Thibodaux, LA (MSA)                                                     | 2001-01-01          | 2021-01-01        |
 | RPI26380                  | Real Personal Income for Houma-Thibodaux, LA (MSA)                                                                  | 2008-01-01          | 2020-01-01        |
 | RPIPC26380                | Real Per Capita Personal Income for Houma-Thibodaux, LA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | RPPALL26380               | Regional Price Parities: All Items for Houma-Thibodaux, LA (MSA)                                                    | 2008-01-01          | 2020-01-01        |

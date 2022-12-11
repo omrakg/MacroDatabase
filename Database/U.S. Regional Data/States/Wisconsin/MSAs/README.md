@@ -7,7 +7,7 @@
 | Duluth, MN-WI                           |               161 |
 | Chicago-Naperville-Elgin, IL-IN-WI      |                 0 |
 | Green Bay, WI                           |               167 |
-| Madison, WI                             |               182 |
+| Madison, WI                             |                 0 |
 | La Crosse-Onalaska, WI-MN               |               161 |
 | Wausau-Weston, WI                       |               158 |
 | Sheboygan, WI                           |               150 |

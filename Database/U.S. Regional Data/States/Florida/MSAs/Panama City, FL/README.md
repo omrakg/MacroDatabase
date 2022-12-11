@@ -8,18 +8,18 @@
 | AVELISPRIMM37460          | Housing Inventory: Average Listing Price Month-Over-Month in Panama City, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY37460          | Housing Inventory: Average Listing Price Year-Over-Year in Panama City, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA37460              | Market Hotness: Demand Score in Panama City, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC374630010             | Total Quarterly Wages in Panama City, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC374630010SA           | Total Quarterly Wages in Panama City, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC374640010             | Average Weekly Wages for Employees in Total Covered Establishments in Panama City-Lynn Haven, FL (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC374640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Panama City-Lynn Haven, FL (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC374640110             | Average Weekly Wages for Employees in Federal Government Establishments in Panama City-Lynn Haven, FL (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC374640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Panama City-Lynn Haven, FL (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC374640210             | Average Weekly Wages for Employees in State Government Establishments in Panama City-Lynn Haven, FL (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC374640210SA           | Average Weekly Wages for Employees in State Government Establishments in Panama City-Lynn Haven, FL (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC374640310             | Average Weekly Wages for Employees in Local Government Establishments in Panama City-Lynn Haven, FL (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC374640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Panama City-Lynn Haven, FL (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC374640510             | Average Weekly Wages for Employees in Private Establishments in Panama City-Lynn Haven, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC374640510SA           | Average Weekly Wages for Employees in Private Establishments in Panama City-Lynn Haven, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC374630010             | Total Quarterly Wages in Panama City, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC374630010SA           | Total Quarterly Wages in Panama City, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC374640010             | Average Weekly Wages for Employees in Total Covered Establishments in Panama City-Lynn Haven, FL (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC374640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Panama City-Lynn Haven, FL (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC374640110             | Average Weekly Wages for Employees in Federal Government Establishments in Panama City-Lynn Haven, FL (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC374640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Panama City-Lynn Haven, FL (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC374640210             | Average Weekly Wages for Employees in State Government Establishments in Panama City-Lynn Haven, FL (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC374640210SA           | Average Weekly Wages for Employees in State Government Establishments in Panama City-Lynn Haven, FL (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC374640310             | Average Weekly Wages for Employees in Local Government Establishments in Panama City-Lynn Haven, FL (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC374640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Panama City-Lynn Haven, FL (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC374640510             | Average Weekly Wages for Employees in Private Establishments in Panama City-Lynn Haven, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC374640510SA           | Average Weekly Wages for Employees in Private Establishments in Panama City-Lynn Haven, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA37460            | Market Hotness: Hotness Rank in Panama City, FL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA37460              | Market Hotness: Hotness Rank in Panama City, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA37460            | Market Hotness: Hotness Rank in Panama City, FL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU37460            | Housing Inventory: New Listing Count in Panama City, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM37460          | Housing Inventory: New Listing Count Month-Over-Month in Panama City, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY37460          | Housing Inventory: New Listing Count Year-Over-Year in Panama City, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP37460                 | Total Gross Domestic Product for Panama City, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP37460                 | Total Gross Domestic Product for Panama City, FL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA37460            | Market Hotness: Nielsen Household Rank in Panama City, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PANA412EDUH               | All Employees: Education and Health Services in Panama City, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | PANA412EDUHN              | All Employees: Education and Health Services in Panama City, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU37460            | Housing Inventory: Price Reduced Count in Panama City, FL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM37460          | Housing Inventory: Price Reduced Count Month-Over-Month in Panama City, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY37460          | Housing Inventory: Price Reduced Count Year-Over-Year in Panama City, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP37460                 | Total Quantity Indexes for Real GDP for Panama City, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP37460                 | Total Real Gross Domestic Product for Panama City, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP37460                 | Total Quantity Indexes for Real GDP for Panama City, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP37460                 | Total Real Gross Domestic Product for Panama City, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI37460                  | Real Personal Income for Panama City, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC37460                | Real Per Capita Personal Income for Panama City, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL37460               | Regional Price Parities: All Items for Panama City, FL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

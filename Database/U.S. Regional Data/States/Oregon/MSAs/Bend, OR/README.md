@@ -40,18 +40,18 @@
 | BEND441URN                | Unemployment Rate in Bend-Redmond, OR (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | BNDPOP                    | Resident Population in Bend-Redmond, OR (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA13460              | Market Hotness: Demand Score in Bend-Redmond, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC134630010             | Total Quarterly Wages in Bend-Redmond, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC134630010SA           | Total Quarterly Wages in Bend-Redmond, OR (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC134640010             | Average Weekly Wages for Employees in Total Covered Establishments in Bend, OR (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ENUC134640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bend, OR (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ENUC134640110             | Average Weekly Wages for Employees in Federal Government Establishments in Bend, OR (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ENUC134640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bend, OR (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ENUC134640210             | Average Weekly Wages for Employees in State Government Establishments in Bend, OR (MSA)                           | 1990-01-01          | 2022-01-01        |
-| ENUC134640210SA           | Average Weekly Wages for Employees in State Government Establishments in Bend, OR (MSA)                           | 1990-01-01          | 2022-01-01        |
-| ENUC134640310             | Average Weekly Wages for Employees in Local Government Establishments in Bend, OR (MSA)                           | 1990-01-01          | 2022-01-01        |
-| ENUC134640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bend, OR (MSA)                           | 1990-01-01          | 2022-01-01        |
-| ENUC134640510             | Average Weekly Wages for Employees in Private Establishments in Bend, OR (MSA)                                    | 1990-01-01          | 2022-01-01        |
-| ENUC134640510SA           | Average Weekly Wages for Employees in Private Establishments in Bend, OR (MSA)                                    | 1990-01-01          | 2022-01-01        |
+| ENUC134630010             | Total Quarterly Wages in Bend-Redmond, OR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC134630010SA           | Total Quarterly Wages in Bend-Redmond, OR (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC134640010             | Average Weekly Wages for Employees in Total Covered Establishments in Bend, OR (MSA)                              | 1990-01-01          | 2022-04-01        |
+| ENUC134640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bend, OR (MSA)                              | 1990-01-01          | 2022-04-01        |
+| ENUC134640110             | Average Weekly Wages for Employees in Federal Government Establishments in Bend, OR (MSA)                         | 1990-01-01          | 2022-04-01        |
+| ENUC134640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bend, OR (MSA)                         | 1990-01-01          | 2022-04-01        |
+| ENUC134640210             | Average Weekly Wages for Employees in State Government Establishments in Bend, OR (MSA)                           | 1990-01-01          | 2022-04-01        |
+| ENUC134640210SA           | Average Weekly Wages for Employees in State Government Establishments in Bend, OR (MSA)                           | 1990-01-01          | 2022-04-01        |
+| ENUC134640310             | Average Weekly Wages for Employees in Local Government Establishments in Bend, OR (MSA)                           | 1990-01-01          | 2022-04-01        |
+| ENUC134640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bend, OR (MSA)                           | 1990-01-01          | 2022-04-01        |
+| ENUC134640510             | Average Weekly Wages for Employees in Private Establishments in Bend, OR (MSA)                                    | 1990-01-01          | 2022-04-01        |
+| ENUC134640510SA           | Average Weekly Wages for Employees in Private Establishments in Bend, OR (MSA)                                    | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA13460            | Market Hotness: Hotness Rank in Bend-Redmond, OR (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA13460              | Market Hotness: Hotness Rank in Bend-Redmond, OR (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA13460            | Market Hotness: Hotness Rank in Bend-Redmond, OR (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -91,7 +91,7 @@
 | NEWLISCOU13460            | Housing Inventory: New Listing Count in Bend-Redmond, OR (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM13460          | Housing Inventory: New Listing Count Month-Over-Month in Bend-Redmond, OR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY13460          | Housing Inventory: New Listing Count Year-Over-Year in Bend-Redmond, OR (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP13460                 | Total Gross Domestic Product for Bend-Redmond, OR (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP13460                 | Total Gross Domestic Product for Bend-Redmond, OR (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA13460            | Market Hotness: Nielsen Household Rank in Bend-Redmond, OR (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA113460          | U.S. Granted Utility Patents Originating in Bend, OR (MSA)                                                        | 2000-01-01          | 2015-01-01        |
 | PENLISCOU13460            | Housing Inventory: Pending Listing Count in Bend-Redmond, OR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PRIREDCOU13460            | Housing Inventory: Price Reduced Count in Bend-Redmond, OR (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM13460          | Housing Inventory: Price Reduced Count Month-Over-Month in Bend-Redmond, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY13460          | Housing Inventory: Price Reduced Count Year-Over-Year in Bend-Redmond, OR (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP13460                 | Total Quantity Indexes for Real GDP for Bend-Redmond, OR (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP13460                 | Total Real Gross Domestic Product for Bend-Redmond, OR (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP13460                 | Total Quantity Indexes for Real GDP for Bend-Redmond, OR (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP13460                 | Total Real Gross Domestic Product for Bend-Redmond, OR (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI13460                  | Real Personal Income for Bend-Redmond, OR (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC13460                | Real Per Capita Personal Income for Bend-Redmond, OR (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL13460               | Regional Price Parities: All Items for Bend-Redmond, OR (MSA)                                                     | 2008-01-01          | 2020-01-01        |

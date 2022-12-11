@@ -40,18 +40,18 @@
 | AVELISPRIMM10180          | Housing Inventory: Average Listing Price Month-Over-Month in Abilene, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY10180          | Housing Inventory: Average Listing Price Year-Over-Year in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA10180              | Market Hotness: Demand Score in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC101830010             | Total Quarterly Wages in Abilene, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC101830010SA           | Total Quarterly Wages in Abilene, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC101840010             | Average Weekly Wages for Employees in Total Covered Establishments in Abilene, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC101840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Abilene, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC101840110             | Average Weekly Wages for Employees in Federal Government Establishments in Abilene, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC101840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Abilene, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC101840210             | Average Weekly Wages for Employees in State Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2022-01-01        |
-| ENUC101840210SA           | Average Weekly Wages for Employees in State Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2022-01-01        |
-| ENUC101840310             | Average Weekly Wages for Employees in Local Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2022-01-01        |
-| ENUC101840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2022-01-01        |
-| ENUC101840510             | Average Weekly Wages for Employees in Private Establishments in Abilene, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC101840510SA           | Average Weekly Wages for Employees in Private Establishments in Abilene, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC101830010             | Total Quarterly Wages in Abilene, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC101830010SA           | Total Quarterly Wages in Abilene, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC101840010             | Average Weekly Wages for Employees in Total Covered Establishments in Abilene, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC101840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Abilene, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC101840110             | Average Weekly Wages for Employees in Federal Government Establishments in Abilene, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC101840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Abilene, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC101840210             | Average Weekly Wages for Employees in State Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2022-04-01        |
+| ENUC101840210SA           | Average Weekly Wages for Employees in State Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2022-04-01        |
+| ENUC101840310             | Average Weekly Wages for Employees in Local Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2022-04-01        |
+| ENUC101840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Abilene, TX (MSA)                   | 2005-01-01          | 2022-04-01        |
+| ENUC101840510             | Average Weekly Wages for Employees in Private Establishments in Abilene, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC101840510SA           | Average Weekly Wages for Employees in Private Establishments in Abilene, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA10180            | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA10180              | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA10180            | Market Hotness: Hotness Rank in Abilene, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -91,7 +91,7 @@
 | NEWLISCOU10180            | Housing Inventory: New Listing Count in Abilene, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM10180          | Housing Inventory: New Listing Count Month-Over-Month in Abilene, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY10180          | Housing Inventory: New Listing Count Year-Over-Year in Abilene, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP10180                 | Total Gross Domestic Product for Abilene, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP10180                 | Total Gross Domestic Product for Abilene, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA10180            | Market Hotness: Nielsen Household Rank in Abilene, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA110180          | U.S. Granted Utility Patents Originating in Abilene, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU10180            | Housing Inventory: Pending Listing Count in Abilene, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -103,8 +103,8 @@
 | PRIREDCOU10180            | Housing Inventory: Price Reduced Count in Abilene, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM10180          | Housing Inventory: Price Reduced Count Month-Over-Month in Abilene, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY10180          | Housing Inventory: Price Reduced Count Year-Over-Year in Abilene, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP10180                 | Total Quantity Indexes for Real GDP for Abilene, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP10180                 | Total Real Gross Domestic Product for Abilene, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP10180                 | Total Quantity Indexes for Real GDP for Abilene, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP10180                 | Total Real Gross Domestic Product for Abilene, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI10180                  | Real Personal Income for Abilene, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC10180                | Real Per Capita Personal Income for Abilene, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL10180               | Regional Price Parities: All Items for Abilene, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

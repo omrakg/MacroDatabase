@@ -36,18 +36,18 @@
 | BING736URN                | Unemployment Rate in Binghamton, NY (MSA)                                                                          | 1990-01-01          | 2022-10-01        |
 | BINPOP                    | Resident Population in Binghamton, NY (MSA)                                                                        | 2000-01-01          | 2021-01-01        |
 | DESCMSA13780              | Market Hotness: Demand Score in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
-| ENUC137830010             | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| ENUC137830010SA           | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2022-01-01        |
-| ENUC137840010             | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ENUC137840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2022-01-01        |
-| ENUC137840110             | Average Weekly Wages for Employees in Federal Government Establishments in Binghamton, NY (MSA)                    | 1990-01-01          | 2022-01-01        |
-| ENUC137840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Binghamton, NY (MSA)                    | 1990-01-01          | 2022-01-01        |
-| ENUC137840210             | Average Weekly Wages for Employees in State Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-01-01        |
-| ENUC137840210SA           | Average Weekly Wages for Employees in State Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-01-01        |
-| ENUC137840310             | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-01-01        |
-| ENUC137840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-01-01        |
-| ENUC137840510             | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2022-01-01        |
-| ENUC137840510SA           | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2022-01-01        |
+| ENUC137830010             | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| ENUC137830010SA           | Total Quarterly Wages in Binghamton, NY (MSA)                                                                      | 1990-01-01          | 2022-04-01        |
+| ENUC137840010             | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2022-04-01        |
+| ENUC137840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Binghamton, NY (MSA)                         | 1990-01-01          | 2022-04-01        |
+| ENUC137840110             | Average Weekly Wages for Employees in Federal Government Establishments in Binghamton, NY (MSA)                    | 1990-01-01          | 2022-04-01        |
+| ENUC137840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Binghamton, NY (MSA)                    | 1990-01-01          | 2022-04-01        |
+| ENUC137840210             | Average Weekly Wages for Employees in State Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-04-01        |
+| ENUC137840210SA           | Average Weekly Wages for Employees in State Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-04-01        |
+| ENUC137840310             | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-04-01        |
+| ENUC137840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Binghamton, NY (MSA)                      | 2001-01-01          | 2022-04-01        |
+| ENUC137840510             | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2022-04-01        |
+| ENUC137840510SA           | Average Weekly Wages for Employees in Private Establishments in Binghamton, NY (MSA)                               | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2017-09-01          | 2022-11-01        |
 | HORAMSA13780              | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA13780            | Market Hotness: Hotness Rank in Binghamton, NY (CBSA)                                                              | 2018-08-01          | 2022-11-01        |
@@ -87,7 +87,7 @@
 | NEWLISCOU13780            | Housing Inventory: New Listing Count in Binghamton, NY (CBSA)                                                      | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM13780          | Housing Inventory: New Listing Count Month-Over-Month in Binghamton, NY (CBSA)                                     | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY13780          | Housing Inventory: New Listing Count Year-Over-Year in Binghamton, NY (CBSA)                                       | 2017-07-01          | 2022-11-01        |
-| NGMP13780                 | Total Gross Domestic Product for Binghamton, NY (MSA)                                                              | 2001-01-01          | 2020-01-01        |
+| NGMP13780                 | Total Gross Domestic Product for Binghamton, NY (MSA)                                                              | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA13780            | Market Hotness: Nielsen Household Rank in Binghamton, NY (CBSA)                                                    | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA113780          | U.S. Granted Utility Patents Originating in Binghamton, NY (MSA)                                                   | 2000-01-01          | 2015-01-01        |
 | PENLISCOU13780            | Housing Inventory: Pending Listing Count in Binghamton, NY (CBSA)                                                  | 2016-07-01          | 2022-11-01        |
@@ -99,8 +99,8 @@
 | PRIREDCOU13780            | Housing Inventory: Price Reduced Count in Binghamton, NY (CBSA)                                                    | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM13780          | Housing Inventory: Price Reduced Count Month-Over-Month in Binghamton, NY (CBSA)                                   | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY13780          | Housing Inventory: Price Reduced Count Year-Over-Year in Binghamton, NY (CBSA)                                     | 2017-07-01          | 2022-11-01        |
-| QGMP13780                 | Total Quantity Indexes for Real GDP for Binghamton, NY (MSA)                                                       | 2001-01-01          | 2020-01-01        |
-| RGMP13780                 | Total Real Gross Domestic Product for Binghamton, NY (MSA)                                                         | 2001-01-01          | 2020-01-01        |
+| QGMP13780                 | Total Quantity Indexes for Real GDP for Binghamton, NY (MSA)                                                       | 2001-01-01          | 2021-01-01        |
+| RGMP13780                 | Total Real Gross Domestic Product for Binghamton, NY (MSA)                                                         | 2001-01-01          | 2021-01-01        |
 | RPI13780                  | Real Personal Income for Binghamton, NY (MSA)                                                                      | 2008-01-01          | 2020-01-01        |
 | RPIPC13780                | Real Per Capita Personal Income for Binghamton, NY (MSA)                                                           | 2008-01-01          | 2020-01-01        |
 | RPPALL13780               | Regional Price Parities: All Items for Binghamton, NY (MSA)                                                        | 2008-01-01          | 2020-01-01        |

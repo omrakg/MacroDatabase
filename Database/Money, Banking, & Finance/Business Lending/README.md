@@ -1,305 +1,305 @@
 | id               | title                                                                                                                       | observation_start   | observation_end   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CRDQARAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1940-04-01          | 2022-01-01        |
-| CRDQARAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Argentina                                          | 1940-04-01          | 2022-01-01        |
-| CRDQARBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Argentina                                | 1940-04-01          | 2022-01-01        |
-| CRDQARBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Argentina                              | 1940-04-01          | 2022-01-01        |
-| CRDQATAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Austria                 | 1995-10-01          | 2022-01-01        |
-| CRDQATAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Austria               | 1995-10-01          | 2022-01-01        |
-| CRDQATANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Austria                                                | 1995-10-01          | 2022-01-01        |
-| CRDQATANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Austria                                              | 1995-10-01          | 2022-01-01        |
-| CRDQATAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Austria                                              | 1949-10-01          | 2022-01-01        |
-| CRDQATAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Austria                                            | 1949-10-01          | 2022-01-01        |
-| CRDQATBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Austria                                  | 1949-10-01          | 2022-01-01        |
-| CRDQATBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Austria                                | 1949-10-01          | 2022-01-01        |
-| CRDQAUAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Australia               | 1977-10-01          | 2022-01-01        |
-| CRDQAUAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Australia             | 1977-10-01          | 2022-01-01        |
-| CRDQAUANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Australia                                              | 1977-10-01          | 2022-01-01        |
-| CRDQAUANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Australia                                            | 1977-10-01          | 2022-01-01        |
-| CRDQAUAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Australia                                            | 1953-10-01          | 2022-01-01        |
-| CRDQAUAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Australia                                          | 1953-10-01          | 2022-01-01        |
-| CRDQAUBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Australia                                | 1953-10-01          | 2022-01-01        |
-| CRDQAUBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Australia                              | 1953-10-01          | 2022-01-01        |
-| CRDQBEAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Belgium                 | 1980-10-01          | 2022-01-01        |
-| CRDQBEAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Belgium               | 1980-10-01          | 2022-01-01        |
-| CRDQBEANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Belgium                                                | 1980-10-01          | 2022-01-01        |
-| CRDQBEANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Belgium                                              | 1980-10-01          | 2022-01-01        |
-| CRDQBEAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Belgium                                              | 1970-10-01          | 2022-01-01        |
-| CRDQBEAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Belgium                                            | 1970-10-01          | 2022-01-01        |
-| CRDQBEBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Belgium                                  | 1970-10-01          | 2022-01-01        |
-| CRDQBEBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Belgium                                | 1970-10-01          | 2022-01-01        |
-| CRDQBRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Brazil                                               | 1993-10-01          | 2022-01-01        |
-| CRDQBRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Brazil                                             | 1993-10-01          | 2022-01-01        |
-| CRDQBRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Brazil                                   | 1993-10-01          | 2022-01-01        |
-| CRDQBRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Brazil                                 | 1993-10-01          | 2022-01-01        |
-| CRDQCAAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Canada                  | 1969-01-01          | 2022-01-01        |
-| CRDQCAAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Canada                | 1969-01-01          | 2022-01-01        |
-| CRDQCAANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Canada                                                 | 1969-01-01          | 2022-01-01        |
-| CRDQCAANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Canada                                               | 1969-01-01          | 2022-01-01        |
-| CRDQCAAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Canada                                               | 1954-01-01          | 2022-01-01        |
-| CRDQCAAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Canada                                             | 1954-01-01          | 2022-01-01        |
-| CRDQCABPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Canada                                   | 1954-01-01          | 2022-01-01        |
-| CRDQCABPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Canada                                 | 1954-01-01          | 2022-01-01        |
-| CRDQCHAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Switzerland             | 1999-10-01          | 2022-01-01        |
-| CRDQCHAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Switzerland           | 1999-10-01          | 2022-01-01        |
-| CRDQCHANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Switzerland                                            | 1999-10-01          | 2022-01-01        |
-| CRDQCHANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Switzerland                                          | 1999-10-01          | 2022-01-01        |
-| CRDQCHAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Switzerland                                          | 1948-10-01          | 2022-01-01        |
-| CRDQCHAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Switzerland                                        | 1948-10-01          | 2022-01-01        |
-| CRDQCHBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Switzerland                              | 1948-10-01          | 2022-01-01        |
-| CRDQCHBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Switzerland                            | 1948-10-01          | 2022-01-01        |
-| CRDQCNAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for China                   | 2006-01-01          | 2022-01-01        |
-| CRDQCNAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for China                 | 2006-01-01          | 2022-01-01        |
-| CRDQCNANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for China                                                  | 2006-01-01          | 2022-01-01        |
-| CRDQCNANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for China                                                | 2006-01-01          | 2022-01-01        |
-| CRDQCNAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for China                                                | 1985-10-01          | 2022-01-01        |
-| CRDQCNAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for China                                              | 1985-10-01          | 2022-01-01        |
-| CRDQCNBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for China                                    | 1985-10-01          | 2022-01-01        |
-| CRDQCNBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for China                                  | 1985-10-01          | 2022-01-01        |
-| CRDQCZAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Czech Republic          | 1995-10-01          | 2022-01-01        |
-| CRDQCZAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Czech Republic        | 1995-10-01          | 2022-01-01        |
-| CRDQCZANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Czech Republic                                         | 1995-10-01          | 2022-01-01        |
-| CRDQCZANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Czech Republic                                       | 1995-10-01          | 2022-01-01        |
-| CRDQCZAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                       | 1993-01-01          | 2022-01-01        |
-| CRDQCZAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Czech Republic                                     | 1993-01-01          | 2022-01-01        |
-| CRDQCZBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Czech Republic                           | 1993-01-01          | 2022-01-01        |
-| CRDQCZBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Czech Republic                         | 1993-01-01          | 2022-01-01        |
-| CRDQDEAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Germany                 | 1970-10-01          | 2022-01-01        |
-| CRDQDEAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Germany               | 1970-10-01          | 2022-01-01        |
-| CRDQDEANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Germany                                                | 1970-10-01          | 2022-01-01        |
-| CRDQDEANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Germany                                              | 1970-10-01          | 2022-01-01        |
-| CRDQDEAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Germany                                              | 1948-10-01          | 2022-01-01        |
-| CRDQDEAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Germany                                            | 1948-10-01          | 2022-01-01        |
-| CRDQDEBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Germany                                  | 1948-10-01          | 2022-01-01        |
-| CRDQDEBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Germany                                | 1948-10-01          | 2022-01-01        |
-| CRDQDKAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Denmark                 | 1994-10-01          | 2022-01-01        |
-| CRDQDKAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Denmark               | 1994-10-01          | 2022-01-01        |
-| CRDQDKANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Denmark                                                | 1994-10-01          | 2022-01-01        |
-| CRDQDKANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Denmark                                              | 1994-10-01          | 2022-01-01        |
-| CRDQDKAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Denmark                                              | 1951-10-01          | 2022-01-01        |
-| CRDQDKAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Denmark                                            | 1951-10-01          | 2022-01-01        |
-| CRDQDKBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Denmark                                  | 1951-10-01          | 2022-01-01        |
-| CRDQDKBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Denmark                                | 1951-10-01          | 2022-01-01        |
-| CRDQESAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Spain                   | 1980-10-01          | 2022-01-01        |
-| CRDQESAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Spain                 | 1980-10-01          | 2022-01-01        |
-| CRDQESANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Spain                                                  | 1980-10-01          | 2022-01-01        |
-| CRDQESANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Spain                                                | 1980-10-01          | 2022-01-01        |
-| CRDQESAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Spain                                                | 1970-01-01          | 2022-01-01        |
-| CRDQESAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Spain                                              | 1970-01-01          | 2022-01-01        |
-| CRDQESBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Spain                                    | 1970-01-01          | 2022-01-01        |
-| CRDQESBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Spain                                  | 1970-01-01          | 2022-01-01        |
-| CRDQFIAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Finland                 | 1970-10-01          | 2022-01-01        |
-| CRDQFIAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Finland               | 1970-10-01          | 2022-01-01        |
-| CRDQFIANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Finland                                                | 1970-10-01          | 2022-01-01        |
-| CRDQFIANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Finland                                              | 1970-10-01          | 2022-01-01        |
-| CRDQFIAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Finland                                              | 1970-10-01          | 2022-01-01        |
-| CRDQFIAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Finland                                            | 1970-10-01          | 2022-01-01        |
-| CRDQFIBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Finland                                  | 1974-01-01          | 2022-01-01        |
-| CRDQFIBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Finland                                | 1974-01-01          | 2022-01-01        |
-| CRDQFRAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for France                  | 1977-10-01          | 2022-01-01        |
-| CRDQFRAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for France                | 1977-10-01          | 2022-01-01        |
-| CRDQFRANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for France                                                 | 1977-10-01          | 2022-01-01        |
-| CRDQFRANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for France                                               | 1977-10-01          | 2022-01-01        |
-| CRDQFRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for France                                               | 1969-10-01          | 2022-01-01        |
-| CRDQFRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for France                                             | 1969-10-01          | 2022-01-01        |
-| CRDQFRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for France                                   | 1969-10-01          | 2022-01-01        |
-| CRDQFRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for France                                 | 1969-10-01          | 2022-01-01        |
-| CRDQGBAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for United Kingdom          | 1966-10-01          | 2022-01-01        |
-| CRDQGBAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for United Kingdom        | 1962-01-01          | 2022-01-01        |
-| CRDQGBANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United Kingdom                                         | 1976-01-01          | 2022-01-01        |
-| CRDQGBANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for United Kingdom                                       | 1976-01-01          | 2022-01-01        |
-| CRDQGBAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                       | 1963-01-01          | 2022-01-01        |
-| CRDQGBAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for United Kingdom                                     | 1962-01-01          | 2022-01-01        |
-| CRDQGBBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for United Kingdom                           | 1963-01-01          | 2022-01-01        |
-| CRDQGBBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for United Kingdom                         | 1963-01-01          | 2022-01-01        |
-| CRDQGRAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Greece                  | 1994-10-01          | 2022-01-01        |
-| CRDQGRAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Greece                | 1994-10-01          | 2022-01-01        |
-| CRDQGRANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Greece                                                 | 1994-10-01          | 2022-01-01        |
-| CRDQGRANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Greece                                               | 1994-10-01          | 2022-01-01        |
-| CRDQGRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Greece                                               | 1960-01-01          | 2022-01-01        |
-| CRDQGRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Greece                                             | 1960-01-01          | 2022-01-01        |
-| CRDQGRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Greece                                   | 1960-01-01          | 2022-01-01        |
-| CRDQGRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Greece                                 | 1960-01-01          | 2022-01-01        |
-| CRDQHKAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Hong Kong SAR           | 1990-10-01          | 2022-01-01        |
-| CRDQHKAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Hong Kong SAR         | 1990-10-01          | 2022-01-01        |
-| CRDQHKANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hong Kong SAR                                          | 1990-10-01          | 2022-01-01        |
-| CRDQHKANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Hong Kong SAR                                        | 1990-10-01          | 2022-01-01        |
-| CRDQHKAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                        | 1978-10-01          | 2022-01-01        |
-| CRDQHKAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Hong Kong SAR                                      | 1978-10-01          | 2022-01-01        |
-| CRDQHKBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Hong Kong SAR                            | 1978-10-01          | 2022-01-01        |
-| CRDQHKBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Hong Kong SAR                          | 1978-10-01          | 2022-01-01        |
-| CRDQHUAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Hungary                 | 1964-10-01          | 2022-01-01        |
-| CRDQHUAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Hungary               | 1964-10-01          | 2022-01-01        |
-| CRDQHUANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hungary                                                | 1969-10-01          | 2022-01-01        |
-| CRDQHUANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Hungary                                              | 1969-10-01          | 2022-01-01        |
-| CRDQHUAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hungary                                              | 1969-10-01          | 2022-01-01        |
-| CRDQHUAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Hungary                                            | 1969-10-01          | 2022-01-01        |
-| CRDQHUBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Hungary                                  | 1967-10-01          | 2022-01-01        |
-| CRDQHUBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Hungary                                | 1967-10-01          | 2022-01-01        |
-| CRDQIDAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Indonesia               | 2001-10-01          | 2022-01-01        |
-| CRDQIDAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Indonesia             | 2001-10-01          | 2022-01-01        |
-| CRDQIDANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-01-01        |
-| CRDQIDANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Indonesia                                            | 2001-10-01          | 2022-01-01        |
-| CRDQIDAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Indonesia                                            | 1976-01-01          | 2022-01-01        |
-| CRDQIDAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Indonesia                                          | 1976-01-01          | 2022-01-01        |
-| CRDQIDBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Indonesia                                | 1976-01-01          | 2022-01-01        |
-| CRDQIDBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Indonesia                              | 1976-01-01          | 2022-01-01        |
-| CRDQIEAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Ireland                 | 2002-01-01          | 2022-01-01        |
-| CRDQIEAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Ireland               | 2002-01-01          | 2022-01-01        |
-| CRDQIEANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Ireland                                                | 2002-01-01          | 2022-01-01        |
-| CRDQIEANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Ireland                                              | 2002-01-01          | 2022-01-01        |
-| CRDQIEAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Ireland                                              | 1971-04-01          | 2022-01-01        |
-| CRDQIEAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Ireland                                            | 1971-04-01          | 2022-01-01        |
-| CRDQIEBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Ireland                                  | 1971-04-01          | 2022-01-01        |
-| CRDQIEBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Ireland                                | 1971-04-01          | 2022-01-01        |
-| CRDQINAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for India                   | 2007-04-01          | 2022-01-01        |
-| CRDQINAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for India                 | 2007-04-01          | 2022-01-01        |
-| CRDQINANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for India                                                  | 2007-04-01          | 2022-01-01        |
-| CRDQINANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for India                                                | 2007-04-01          | 2022-01-01        |
-| CRDQINAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for India                                                | 1951-04-01          | 2022-01-01        |
-| CRDQINAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for India                                              | 1951-04-01          | 2022-01-01        |
-| CRDQINBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for India                                    | 1951-04-01          | 2022-01-01        |
-| CRDQINBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for India                                  | 1951-04-01          | 2022-01-01        |
-| CRDQITAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Italy                   | 1950-10-01          | 2022-01-01        |
-| CRDQITAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Italy                 | 1950-10-01          | 2022-01-01        |
-| CRDQITANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Italy                                                  | 1950-10-01          | 2022-01-01        |
-| CRDQITANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Italy                                                | 1950-10-01          | 2022-01-01        |
-| CRDQITAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Italy                                                | 1950-10-01          | 2022-01-01        |
-| CRDQITAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Italy                                              | 1950-10-01          | 2022-01-01        |
-| CRDQITBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Italy                                    | 1974-10-01          | 2022-01-01        |
-| CRDQITBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Italy                                  | 1974-10-01          | 2022-01-01        |
-| CRDQJPAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Japan                   | 1964-10-01          | 2022-01-01        |
-| CRDQJPAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Japan                 | 1964-10-01          | 2022-01-01        |
-| CRDQJPANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Japan                                                  | 1964-10-01          | 2022-01-01        |
-| CRDQJPANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Japan                                                | 1964-10-01          | 2022-01-01        |
-| CRDQJPAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Japan                                                | 1964-10-01          | 2022-01-01        |
-| CRDQJPAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Japan                                              | 1964-10-01          | 2022-01-01        |
-| CRDQJPBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Japan                                    | 1963-01-01          | 2022-01-01        |
-| CRDQJPBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Japan                                  | 1963-01-01          | 2022-01-01        |
-| CRDQKRAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Korea                   | 1962-10-01          | 2022-01-01        |
-| CRDQKRAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Korea                 | 1962-10-01          | 2022-01-01        |
-| CRDQKRANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Korea                                                  | 1962-10-01          | 2022-01-01        |
-| CRDQKRANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Korea                                                | 1962-10-01          | 2022-01-01        |
-| CRDQKRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Korea                                                | 1962-10-01          | 2022-01-01        |
-| CRDQKRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Korea                                              | 1962-10-01          | 2022-01-01        |
-| CRDQKRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Korea                                    | 1962-10-01          | 2022-01-01        |
-| CRDQKRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Korea                                  | 1960-01-01          | 2022-01-01        |
-| CRDQLUAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Luxembourg              | 1995-01-01          | 2022-01-01        |
-| CRDQLUAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Luxembourg            | 1995-01-01          | 2022-01-01        |
-| CRDQLUANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Luxembourg                                             | 1995-01-01          | 2022-01-01        |
-| CRDQLUANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Luxembourg                                           | 1995-01-01          | 2022-01-01        |
-| CRDQLUAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Luxembourg                                           | 1995-01-01          | 2022-01-01        |
-| CRDQLUAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Luxembourg                                         | 1995-01-01          | 2022-01-01        |
-| CRDQLUBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Luxembourg                               | 2003-01-01          | 2022-01-01        |
-| CRDQLUBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Luxembourg                             | 2003-01-01          | 2022-01-01        |
-| CRDQMXAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Mexico                  | 1994-10-01          | 2022-01-01        |
-| CRDQMXAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Mexico                | 1994-10-01          | 2022-01-01        |
-| CRDQMXANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Mexico                                                 | 1994-10-01          | 2022-01-01        |
-| CRDQMXANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Mexico                                               | 1994-10-01          | 2022-01-01        |
-| CRDQMXAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Mexico                                               | 1980-10-01          | 2022-01-01        |
-| CRDQMXAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Mexico                                             | 1980-10-01          | 2022-01-01        |
-| CRDQMXBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Mexico                                   | 1980-10-01          | 2022-01-01        |
-| CRDQMXBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Mexico                                 | 1980-10-01          | 2022-01-01        |
-| CRDQMYAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Malaysia                                             | 1964-04-01          | 2022-01-01        |
-| CRDQMYAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Malaysia                                           | 1964-04-01          | 2022-01-01        |
-| CRDQMYBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Malaysia                                 | 1964-04-01          | 2022-01-01        |
-| CRDQMYBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Malaysia                               | 1964-04-01          | 2022-01-01        |
-| CRDQNLAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Netherlands             | 1990-10-01          | 2022-01-01        |
-| CRDQNLAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Netherlands           | 1990-10-01          | 2022-01-01        |
-| CRDQNLANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Netherlands                                            | 1990-10-01          | 2022-01-01        |
-| CRDQNLANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Netherlands                                          | 1990-10-01          | 2022-01-01        |
-| CRDQNLAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Netherlands                                          | 1961-01-01          | 2022-01-01        |
-| CRDQNLAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Netherlands                                        | 1961-01-01          | 2022-01-01        |
-| CRDQNLBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Netherlands                              | 1961-01-01          | 2022-01-01        |
-| CRDQNLBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Netherlands                            | 1961-01-01          | 2022-01-01        |
-| CRDQNOAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Norway                  | 1975-01-01          | 2022-01-01        |
-| CRDQNOAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Norway                | 1975-01-01          | 2022-01-01        |
-| CRDQNOANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Norway                                                 | 1975-01-01          | 2022-01-01        |
-| CRDQNOANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Norway                                               | 1975-01-01          | 2022-01-01        |
-| CRDQNOAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Norway                                               | 1953-10-01          | 2022-01-01        |
-| CRDQNOAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Norway                                             | 1953-10-01          | 2022-01-01        |
-| CRDQNOBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Norway                                   | 1953-10-01          | 2022-01-01        |
-| CRDQNOBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Norway                                 | 1953-10-01          | 2022-01-01        |
-| CRDQPLAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Poland                  | 1995-10-01          | 2022-01-01        |
-| CRDQPLAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Poland                | 1995-10-01          | 2022-01-01        |
-| CRDQPLANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Poland                                                 | 1995-10-01          | 2022-01-01        |
-| CRDQPLANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Poland                                               | 1995-10-01          | 2022-01-01        |
-| CRDQPLAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Poland                                               | 1992-01-01          | 2022-01-01        |
-| CRDQPLAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Poland                                             | 1992-01-01          | 2022-01-01        |
-| CRDQPLBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Poland                                   | 1992-01-01          | 2022-01-01        |
-| CRDQPLBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Poland                                 | 1992-01-01          | 2022-01-01        |
-| CRDQPTAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Portugal                | 1979-10-01          | 2022-01-01        |
-| CRDQPTAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Portugal              | 1979-10-01          | 2022-01-01        |
-| CRDQPTANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Portugal                                               | 1979-10-01          | 2022-01-01        |
-| CRDQPTANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Portugal                                             | 1979-10-01          | 2022-01-01        |
-| CRDQPTAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Portugal                                             | 1947-10-01          | 2022-01-01        |
-| CRDQPTAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Portugal                                           | 1947-10-01          | 2022-01-01        |
-| CRDQPTBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Portugal                                 | 1947-10-01          | 2022-01-01        |
-| CRDQPTBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Portugal                               | 1947-10-01          | 2022-01-01        |
-| CRDQRUAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Russia                                               | 1995-04-01          | 2022-01-01        |
-| CRDQRUAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Russia                                             | 1995-04-01          | 2022-01-01        |
-| CRDQRUBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Russia                                   | 1995-04-01          | 2022-01-01        |
-| CRDQRUBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Russia                                 | 1995-04-01          | 2022-01-01        |
-| CRDQSAAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Saudi Arabia                                         | 1993-01-01          | 2022-01-01        |
-| CRDQSAAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Saudi Arabia                                       | 1993-01-01          | 2022-01-01        |
-| CRDQSABPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Saudi Arabia                             | 1993-01-01          | 2022-01-01        |
-| CRDQSABPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Saudi Arabia                           | 1993-01-01          | 2022-01-01        |
-| CRDQSEAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Sweden                  | 1980-10-01          | 2022-01-01        |
-| CRDQSEAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Sweden                | 1980-10-01          | 2022-01-01        |
-| CRDQSEANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Sweden                                                 | 1980-10-01          | 2022-01-01        |
-| CRDQSEANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Sweden                                               | 1980-10-01          | 2022-01-01        |
-| CRDQSEAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Sweden                                               | 1961-01-01          | 2022-01-01        |
-| CRDQSEAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Sweden                                             | 1961-01-01          | 2022-01-01        |
-| CRDQSEBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Sweden                                   | 1961-01-01          | 2022-01-01        |
-| CRDQSEBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Sweden                                 | 1961-01-01          | 2022-01-01        |
-| CRDQSGAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Singapore               | 1991-01-01          | 2022-01-01        |
-| CRDQSGAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Singapore             | 1991-01-01          | 2022-01-01        |
-| CRDQSGANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Singapore                                              | 1991-01-01          | 2022-01-01        |
-| CRDQSGANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Singapore                                            | 1991-01-01          | 2022-01-01        |
-| CRDQSGAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Singapore                                            | 1963-10-01          | 2022-01-01        |
-| CRDQSGAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Singapore                                          | 1963-10-01          | 2022-01-01        |
-| CRDQSGBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Singapore                                | 1963-10-01          | 2022-01-01        |
-| CRDQSGBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Singapore                              | 1963-10-01          | 2022-01-01        |
-| CRDQTHAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Thailand                | 1991-10-01          | 2022-01-01        |
-| CRDQTHAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Thailand              | 1991-10-01          | 2022-01-01        |
-| CRDQTHANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Thailand                                               | 1991-10-01          | 2022-01-01        |
-| CRDQTHANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Thailand                                             | 1991-10-01          | 2022-01-01        |
-| CRDQTHAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Thailand                                             | 1957-01-01          | 2022-01-01        |
-| CRDQTHAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Thailand                                           | 1957-01-01          | 2022-01-01        |
-| CRDQTHBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Thailand                                 | 1957-01-01          | 2022-01-01        |
-| CRDQTHBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Thailand                               | 1957-01-01          | 2022-01-01        |
-| CRDQTRAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Turkey                  | 1986-01-01          | 2022-01-01        |
-| CRDQTRAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Turkey                | 1986-01-01          | 2022-01-01        |
-| CRDQTRANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Turkey                                                 | 1986-01-01          | 2022-01-01        |
-| CRDQTRANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Turkey                                               | 1986-01-01          | 2022-01-01        |
-| CRDQTRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Turkey                                               | 1986-01-01          | 2022-01-01        |
-| CRDQTRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Turkey                                             | 1986-01-01          | 2022-01-01        |
-| CRDQTRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Turkey                                   | 1986-01-01          | 2022-01-01        |
-| CRDQTRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Turkey                                 | 1986-01-01          | 2022-01-01        |
-| CRDQUSAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for United States           | 1945-10-01          | 2022-01-01        |
-| CRDQUSAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for United States         | 1945-10-01          | 2022-01-01        |
-| CRDQUSANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United States                                          | 1945-10-01          | 2022-01-01        |
-| CRDQUSANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for United States                                        | 1945-10-01          | 2022-01-01        |
-| CRDQUSAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United States                                        | 1945-10-01          | 2022-01-01        |
-| CRDQUSAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for United States                                      | 1945-10-01          | 2022-01-01        |
-| CRDQUSBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for United States                            | 1945-10-01          | 2022-01-01        |
-| CRDQUSBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for United States                          | 1945-10-01          | 2022-01-01        |
-| CRDQXMAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Euro area               | 1999-01-01          | 2022-01-01        |
-| CRDQXMAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Euro area             | 1999-01-01          | 2022-01-01        |
-| CRDQXMANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Euro area                                              | 1997-10-01          | 2022-01-01        |
-| CRDQXMANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Euro area                                            | 1997-10-01          | 2022-01-01        |
-| CRDQXMAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Euro area                                            | 1999-01-01          | 2022-01-01        |
-| CRDQXMAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Euro area                                          | 1999-01-01          | 2022-01-01        |
-| CRDQXMBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Euro Area                                | 1997-07-01          | 2022-01-01        |
-| CRDQXMBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Euro area                              | 1997-07-01          | 2022-01-01        |
-| CRDQZAAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for South Africa            | 2008-01-01          | 2022-01-01        |
-| CRDQZAAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for South Africa          | 2008-01-01          | 2022-01-01        |
-| CRDQZAANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for South Africa                                           | 2008-01-01          | 2022-01-01        |
-| CRDQZAANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for South Africa                                         | 2008-01-01          | 2022-01-01        |
-| CRDQZAAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for South Africa                                         | 1965-01-01          | 2022-01-01        |
-| CRDQZAAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for South Africa                                       | 1965-01-01          | 2022-01-01        |
-| CRDQZABPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for South Africa                             | 1965-01-01          | 2022-01-01        |
-| CRDQZABPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for South Africa                           | 1965-01-01          | 2022-01-01        |
+| CRDQARAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1940-04-01          | 2022-04-01        |
+| CRDQARAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Argentina                                          | 1940-04-01          | 2022-04-01        |
+| CRDQARBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Argentina                                | 1940-04-01          | 2022-04-01        |
+| CRDQARBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Argentina                              | 1940-04-01          | 2022-04-01        |
+| CRDQATAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Austria                 | 1995-10-01          | 2022-04-01        |
+| CRDQATAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Austria               | 1995-10-01          | 2022-04-01        |
+| CRDQATANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Austria                                                | 1995-10-01          | 2022-04-01        |
+| CRDQATANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Austria                                              | 1995-10-01          | 2022-04-01        |
+| CRDQATAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Austria                                              | 1949-10-01          | 2022-04-01        |
+| CRDQATAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Austria                                            | 1949-10-01          | 2022-04-01        |
+| CRDQATBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Austria                                  | 1949-10-01          | 2022-04-01        |
+| CRDQATBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Austria                                | 1949-10-01          | 2022-04-01        |
+| CRDQAUAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Australia               | 1977-10-01          | 2022-04-01        |
+| CRDQAUAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Australia             | 1977-10-01          | 2022-04-01        |
+| CRDQAUANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Australia                                              | 1977-10-01          | 2022-04-01        |
+| CRDQAUANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Australia                                            | 1977-10-01          | 2022-04-01        |
+| CRDQAUAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Australia                                            | 1953-10-01          | 2022-04-01        |
+| CRDQAUAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Australia                                          | 1953-10-01          | 2022-04-01        |
+| CRDQAUBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Australia                                | 1953-10-01          | 2022-04-01        |
+| CRDQAUBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Australia                              | 1953-10-01          | 2022-04-01        |
+| CRDQBEAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Belgium                 | 1980-10-01          | 2022-04-01        |
+| CRDQBEAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Belgium               | 1980-10-01          | 2022-04-01        |
+| CRDQBEANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Belgium                                                | 1980-10-01          | 2022-04-01        |
+| CRDQBEANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Belgium                                              | 1980-10-01          | 2022-04-01        |
+| CRDQBEAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Belgium                                              | 1970-10-01          | 2022-04-01        |
+| CRDQBEAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Belgium                                            | 1970-10-01          | 2022-04-01        |
+| CRDQBEBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Belgium                                  | 1970-10-01          | 2022-04-01        |
+| CRDQBEBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Belgium                                | 1970-10-01          | 2022-04-01        |
+| CRDQBRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Brazil                                               | 1993-10-01          | 2022-04-01        |
+| CRDQBRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Brazil                                             | 1993-10-01          | 2022-04-01        |
+| CRDQBRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Brazil                                   | 1993-10-01          | 2022-04-01        |
+| CRDQBRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Brazil                                 | 1993-10-01          | 2022-04-01        |
+| CRDQCAAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Canada                  | 1969-01-01          | 2022-04-01        |
+| CRDQCAAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Canada                | 1969-01-01          | 2022-04-01        |
+| CRDQCAANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Canada                                                 | 1969-01-01          | 2022-04-01        |
+| CRDQCAANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Canada                                               | 1969-01-01          | 2022-04-01        |
+| CRDQCAAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Canada                                               | 1954-01-01          | 2022-04-01        |
+| CRDQCAAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Canada                                             | 1954-01-01          | 2022-04-01        |
+| CRDQCABPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Canada                                   | 1954-01-01          | 2022-04-01        |
+| CRDQCABPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Canada                                 | 1954-01-01          | 2022-04-01        |
+| CRDQCHAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Switzerland             | 1999-10-01          | 2022-04-01        |
+| CRDQCHAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Switzerland           | 1999-10-01          | 2022-04-01        |
+| CRDQCHANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Switzerland                                            | 1999-10-01          | 2022-04-01        |
+| CRDQCHANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Switzerland                                          | 1999-10-01          | 2022-04-01        |
+| CRDQCHAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Switzerland                                          | 1948-10-01          | 2022-04-01        |
+| CRDQCHAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Switzerland                                        | 1948-10-01          | 2022-04-01        |
+| CRDQCHBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Switzerland                              | 1948-10-01          | 2022-04-01        |
+| CRDQCHBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Switzerland                            | 1948-10-01          | 2022-04-01        |
+| CRDQCNAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for China                   | 2006-01-01          | 2022-04-01        |
+| CRDQCNAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for China                 | 2006-01-01          | 2022-04-01        |
+| CRDQCNANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for China                                                  | 2006-01-01          | 2022-04-01        |
+| CRDQCNANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for China                                                | 2006-01-01          | 2022-04-01        |
+| CRDQCNAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for China                                                | 1985-10-01          | 2022-04-01        |
+| CRDQCNAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for China                                              | 1985-10-01          | 2022-04-01        |
+| CRDQCNBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for China                                    | 1985-10-01          | 2022-04-01        |
+| CRDQCNBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for China                                  | 1985-10-01          | 2022-04-01        |
+| CRDQCZAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Czech Republic          | 1995-10-01          | 2022-04-01        |
+| CRDQCZAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Czech Republic        | 1995-10-01          | 2022-04-01        |
+| CRDQCZANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Czech Republic                                         | 1995-10-01          | 2022-04-01        |
+| CRDQCZANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Czech Republic                                       | 1995-10-01          | 2022-04-01        |
+| CRDQCZAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                       | 1993-01-01          | 2022-04-01        |
+| CRDQCZAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Czech Republic                                     | 1993-01-01          | 2022-04-01        |
+| CRDQCZBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Czech Republic                           | 1993-01-01          | 2022-04-01        |
+| CRDQCZBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Czech Republic                         | 1993-01-01          | 2022-04-01        |
+| CRDQDEAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Germany                 | 1970-10-01          | 2022-04-01        |
+| CRDQDEAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Germany               | 1970-10-01          | 2022-04-01        |
+| CRDQDEANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Germany                                                | 1970-10-01          | 2022-04-01        |
+| CRDQDEANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Germany                                              | 1970-10-01          | 2022-04-01        |
+| CRDQDEAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Germany                                              | 1948-10-01          | 2022-04-01        |
+| CRDQDEAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Germany                                            | 1948-10-01          | 2022-04-01        |
+| CRDQDEBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Germany                                  | 1948-10-01          | 2022-04-01        |
+| CRDQDEBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Germany                                | 1948-10-01          | 2022-04-01        |
+| CRDQDKAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Denmark                 | 1994-10-01          | 2022-04-01        |
+| CRDQDKAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Denmark               | 1994-10-01          | 2022-04-01        |
+| CRDQDKANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Denmark                                                | 1994-10-01          | 2022-04-01        |
+| CRDQDKANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Denmark                                              | 1994-10-01          | 2022-04-01        |
+| CRDQDKAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Denmark                                              | 1951-10-01          | 2022-04-01        |
+| CRDQDKAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Denmark                                            | 1951-10-01          | 2022-04-01        |
+| CRDQDKBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Denmark                                  | 1951-10-01          | 2022-04-01        |
+| CRDQDKBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Denmark                                | 1951-10-01          | 2022-04-01        |
+| CRDQESAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Spain                   | 1980-10-01          | 2022-04-01        |
+| CRDQESAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Spain                 | 1980-10-01          | 2022-04-01        |
+| CRDQESANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Spain                                                  | 1980-10-01          | 2022-04-01        |
+| CRDQESANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Spain                                                | 1980-10-01          | 2022-04-01        |
+| CRDQESAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Spain                                                | 1970-01-01          | 2022-04-01        |
+| CRDQESAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Spain                                              | 1970-01-01          | 2022-04-01        |
+| CRDQESBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Spain                                    | 1970-01-01          | 2022-04-01        |
+| CRDQESBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Spain                                  | 1970-01-01          | 2022-04-01        |
+| CRDQFIAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Finland                 | 1970-10-01          | 2022-04-01        |
+| CRDQFIAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Finland               | 1970-10-01          | 2022-04-01        |
+| CRDQFIANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Finland                                                | 1970-10-01          | 2022-04-01        |
+| CRDQFIANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Finland                                              | 1970-10-01          | 2022-04-01        |
+| CRDQFIAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Finland                                              | 1970-10-01          | 2022-04-01        |
+| CRDQFIAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Finland                                            | 1970-10-01          | 2022-04-01        |
+| CRDQFIBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Finland                                  | 1974-01-01          | 2022-04-01        |
+| CRDQFIBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Finland                                | 1974-01-01          | 2022-04-01        |
+| CRDQFRAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for France                  | 1977-10-01          | 2022-04-01        |
+| CRDQFRAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for France                | 1977-10-01          | 2022-04-01        |
+| CRDQFRANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for France                                                 | 1977-10-01          | 2022-04-01        |
+| CRDQFRANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for France                                               | 1977-10-01          | 2022-04-01        |
+| CRDQFRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for France                                               | 1969-10-01          | 2022-04-01        |
+| CRDQFRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for France                                             | 1969-10-01          | 2022-04-01        |
+| CRDQFRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for France                                   | 1969-10-01          | 2022-04-01        |
+| CRDQFRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for France                                 | 1969-10-01          | 2022-04-01        |
+| CRDQGBAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for United Kingdom          | 1966-10-01          | 2022-04-01        |
+| CRDQGBAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for United Kingdom        | 1962-01-01          | 2022-04-01        |
+| CRDQGBANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United Kingdom                                         | 1976-01-01          | 2022-04-01        |
+| CRDQGBANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for United Kingdom                                       | 1976-01-01          | 2022-04-01        |
+| CRDQGBAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                       | 1963-01-01          | 2022-04-01        |
+| CRDQGBAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for United Kingdom                                     | 1962-01-01          | 2022-04-01        |
+| CRDQGBBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for United Kingdom                           | 1963-01-01          | 2022-04-01        |
+| CRDQGBBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for United Kingdom                         | 1963-01-01          | 2022-04-01        |
+| CRDQGRAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Greece                  | 1994-10-01          | 2022-04-01        |
+| CRDQGRAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Greece                | 1994-10-01          | 2022-04-01        |
+| CRDQGRANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Greece                                                 | 1994-10-01          | 2022-04-01        |
+| CRDQGRANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Greece                                               | 1994-10-01          | 2022-04-01        |
+| CRDQGRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Greece                                               | 1960-01-01          | 2022-04-01        |
+| CRDQGRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Greece                                             | 1960-01-01          | 2022-04-01        |
+| CRDQGRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Greece                                   | 1960-01-01          | 2022-04-01        |
+| CRDQGRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Greece                                 | 1960-01-01          | 2022-04-01        |
+| CRDQHKAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Hong Kong SAR           | 1990-10-01          | 2022-04-01        |
+| CRDQHKAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Hong Kong SAR         | 1990-10-01          | 2022-04-01        |
+| CRDQHKANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hong Kong SAR                                          | 1990-10-01          | 2022-04-01        |
+| CRDQHKANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Hong Kong SAR                                        | 1990-10-01          | 2022-04-01        |
+| CRDQHKAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                        | 1978-10-01          | 2022-04-01        |
+| CRDQHKAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Hong Kong SAR                                      | 1978-10-01          | 2022-04-01        |
+| CRDQHKBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Hong Kong SAR                            | 1978-10-01          | 2022-04-01        |
+| CRDQHKBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Hong Kong SAR                          | 1978-10-01          | 2022-04-01        |
+| CRDQHUAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Hungary                 | 1964-10-01          | 2022-04-01        |
+| CRDQHUAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Hungary               | 1964-10-01          | 2022-04-01        |
+| CRDQHUANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hungary                                                | 1969-10-01          | 2022-04-01        |
+| CRDQHUANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Hungary                                              | 1969-10-01          | 2022-04-01        |
+| CRDQHUAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hungary                                              | 1969-10-01          | 2022-04-01        |
+| CRDQHUAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Hungary                                            | 1969-10-01          | 2022-04-01        |
+| CRDQHUBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Hungary                                  | 1967-10-01          | 2022-04-01        |
+| CRDQHUBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Hungary                                | 1967-10-01          | 2022-04-01        |
+| CRDQIDAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Indonesia               | 2001-10-01          | 2022-04-01        |
+| CRDQIDAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Indonesia             | 2001-10-01          | 2022-04-01        |
+| CRDQIDANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-04-01        |
+| CRDQIDANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Indonesia                                            | 2001-10-01          | 2022-04-01        |
+| CRDQIDAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Indonesia                                            | 1976-01-01          | 2022-04-01        |
+| CRDQIDAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Indonesia                                          | 1976-01-01          | 2022-04-01        |
+| CRDQIDBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Indonesia                                | 1976-01-01          | 2022-04-01        |
+| CRDQIDBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Indonesia                              | 1976-01-01          | 2022-04-01        |
+| CRDQIEAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Ireland                 | 2002-01-01          | 2022-04-01        |
+| CRDQIEAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Ireland               | 2002-01-01          | 2022-04-01        |
+| CRDQIEANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Ireland                                                | 2002-01-01          | 2022-04-01        |
+| CRDQIEANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Ireland                                              | 2002-01-01          | 2022-04-01        |
+| CRDQIEAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Ireland                                              | 1971-04-01          | 2022-04-01        |
+| CRDQIEAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Ireland                                            | 1971-04-01          | 2022-04-01        |
+| CRDQIEBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Ireland                                  | 1971-04-01          | 2022-04-01        |
+| CRDQIEBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Ireland                                | 1971-04-01          | 2022-04-01        |
+| CRDQINAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for India                   | 2007-04-01          | 2022-04-01        |
+| CRDQINAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for India                 | 2007-04-01          | 2022-04-01        |
+| CRDQINANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for India                                                  | 2007-04-01          | 2022-04-01        |
+| CRDQINANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for India                                                | 2007-04-01          | 2022-04-01        |
+| CRDQINAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for India                                                | 1951-04-01          | 2022-04-01        |
+| CRDQINAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for India                                              | 1951-04-01          | 2022-04-01        |
+| CRDQINBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for India                                    | 1951-04-01          | 2022-04-01        |
+| CRDQINBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for India                                  | 1951-04-01          | 2022-04-01        |
+| CRDQITAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Italy                   | 1950-10-01          | 2022-04-01        |
+| CRDQITAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Italy                 | 1950-10-01          | 2022-04-01        |
+| CRDQITANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Italy                                                  | 1950-10-01          | 2022-04-01        |
+| CRDQITANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Italy                                                | 1950-10-01          | 2022-04-01        |
+| CRDQITAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Italy                                                | 1950-10-01          | 2022-04-01        |
+| CRDQITAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Italy                                              | 1950-10-01          | 2022-04-01        |
+| CRDQITBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Italy                                    | 1974-10-01          | 2022-04-01        |
+| CRDQITBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Italy                                  | 1974-10-01          | 2022-04-01        |
+| CRDQJPAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Japan                   | 1964-10-01          | 2022-04-01        |
+| CRDQJPAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Japan                 | 1964-10-01          | 2022-04-01        |
+| CRDQJPANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Japan                                                  | 1964-10-01          | 2022-04-01        |
+| CRDQJPANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Japan                                                | 1964-10-01          | 2022-04-01        |
+| CRDQJPAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Japan                                                | 1964-10-01          | 2022-04-01        |
+| CRDQJPAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Japan                                              | 1964-10-01          | 2022-04-01        |
+| CRDQJPBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Japan                                    | 1963-01-01          | 2022-04-01        |
+| CRDQJPBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Japan                                  | 1963-01-01          | 2022-04-01        |
+| CRDQKRAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Korea                   | 1962-10-01          | 2022-04-01        |
+| CRDQKRAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Korea                 | 1962-10-01          | 2022-04-01        |
+| CRDQKRANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Korea                                                  | 1962-10-01          | 2022-04-01        |
+| CRDQKRANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Korea                                                | 1962-10-01          | 2022-04-01        |
+| CRDQKRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Korea                                                | 1962-10-01          | 2022-04-01        |
+| CRDQKRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Korea                                              | 1962-10-01          | 2022-04-01        |
+| CRDQKRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Korea                                    | 1962-10-01          | 2022-04-01        |
+| CRDQKRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Korea                                  | 1960-01-01          | 2022-04-01        |
+| CRDQLUAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Luxembourg              | 1995-01-01          | 2022-04-01        |
+| CRDQLUAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Luxembourg            | 1995-01-01          | 2022-04-01        |
+| CRDQLUANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Luxembourg                                             | 1995-01-01          | 2022-04-01        |
+| CRDQLUANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Luxembourg                                           | 1995-01-01          | 2022-04-01        |
+| CRDQLUAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Luxembourg                                           | 1995-01-01          | 2022-04-01        |
+| CRDQLUAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Luxembourg                                         | 1995-01-01          | 2022-04-01        |
+| CRDQLUBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Luxembourg                               | 2003-01-01          | 2022-04-01        |
+| CRDQLUBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Luxembourg                             | 2003-01-01          | 2022-04-01        |
+| CRDQMXAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Mexico                  | 1994-10-01          | 2022-04-01        |
+| CRDQMXAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Mexico                | 1994-10-01          | 2022-04-01        |
+| CRDQMXANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Mexico                                                 | 1994-10-01          | 2022-04-01        |
+| CRDQMXANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Mexico                                               | 1994-10-01          | 2022-04-01        |
+| CRDQMXAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Mexico                                               | 1980-10-01          | 2022-04-01        |
+| CRDQMXAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Mexico                                             | 1980-10-01          | 2022-04-01        |
+| CRDQMXBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Mexico                                   | 1980-10-01          | 2022-04-01        |
+| CRDQMXBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Mexico                                 | 1980-10-01          | 2022-04-01        |
+| CRDQMYAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Malaysia                                             | 1964-04-01          | 2022-04-01        |
+| CRDQMYAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Malaysia                                           | 1964-04-01          | 2022-04-01        |
+| CRDQMYBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Malaysia                                 | 1964-04-01          | 2022-04-01        |
+| CRDQMYBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Malaysia                               | 1964-04-01          | 2022-04-01        |
+| CRDQNLAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Netherlands             | 1990-10-01          | 2022-04-01        |
+| CRDQNLAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Netherlands           | 1990-10-01          | 2022-04-01        |
+| CRDQNLANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Netherlands                                            | 1990-10-01          | 2022-04-01        |
+| CRDQNLANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Netherlands                                          | 1990-10-01          | 2022-04-01        |
+| CRDQNLAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Netherlands                                          | 1961-01-01          | 2022-04-01        |
+| CRDQNLAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Netherlands                                        | 1961-01-01          | 2022-04-01        |
+| CRDQNLBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Netherlands                              | 1961-01-01          | 2022-04-01        |
+| CRDQNLBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Netherlands                            | 1961-01-01          | 2022-04-01        |
+| CRDQNOAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Norway                  | 1975-01-01          | 2022-04-01        |
+| CRDQNOAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Norway                | 1975-01-01          | 2022-04-01        |
+| CRDQNOANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Norway                                                 | 1975-01-01          | 2022-04-01        |
+| CRDQNOANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Norway                                               | 1975-01-01          | 2022-04-01        |
+| CRDQNOAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Norway                                               | 1953-10-01          | 2022-04-01        |
+| CRDQNOAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Norway                                             | 1953-10-01          | 2022-04-01        |
+| CRDQNOBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Norway                                   | 1953-10-01          | 2022-04-01        |
+| CRDQNOBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Norway                                 | 1953-10-01          | 2022-04-01        |
+| CRDQPLAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Poland                  | 1995-10-01          | 2022-04-01        |
+| CRDQPLAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Poland                | 1995-10-01          | 2022-04-01        |
+| CRDQPLANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Poland                                                 | 1995-10-01          | 2022-04-01        |
+| CRDQPLANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Poland                                               | 1995-10-01          | 2022-04-01        |
+| CRDQPLAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Poland                                               | 1992-01-01          | 2022-04-01        |
+| CRDQPLAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Poland                                             | 1992-01-01          | 2022-04-01        |
+| CRDQPLBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Poland                                   | 1992-01-01          | 2022-04-01        |
+| CRDQPLBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Poland                                 | 1992-01-01          | 2022-04-01        |
+| CRDQPTAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Portugal                | 1979-10-01          | 2022-04-01        |
+| CRDQPTAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Portugal              | 1979-10-01          | 2022-04-01        |
+| CRDQPTANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Portugal                                               | 1979-10-01          | 2022-04-01        |
+| CRDQPTANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Portugal                                             | 1979-10-01          | 2022-04-01        |
+| CRDQPTAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Portugal                                             | 1947-10-01          | 2022-04-01        |
+| CRDQPTAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Portugal                                           | 1947-10-01          | 2022-04-01        |
+| CRDQPTBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Portugal                                 | 1947-10-01          | 2022-04-01        |
+| CRDQPTBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Portugal                               | 1947-10-01          | 2022-04-01        |
+| CRDQRUAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Russia                                               | 1995-04-01          | 2022-04-01        |
+| CRDQRUAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Russia                                             | 1995-04-01          | 2022-04-01        |
+| CRDQRUBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Russia                                   | 1995-04-01          | 2022-04-01        |
+| CRDQRUBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Russia                                 | 1995-04-01          | 2022-04-01        |
+| CRDQSAAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Saudi Arabia                                         | 1993-01-01          | 2022-04-01        |
+| CRDQSAAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Saudi Arabia                                       | 1993-01-01          | 2022-04-01        |
+| CRDQSABPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Saudi Arabia                             | 1993-01-01          | 2022-04-01        |
+| CRDQSABPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Saudi Arabia                           | 1993-01-01          | 2022-04-01        |
+| CRDQSEAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Sweden                  | 1980-10-01          | 2022-04-01        |
+| CRDQSEAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Sweden                | 1980-10-01          | 2022-04-01        |
+| CRDQSEANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Sweden                                                 | 1980-10-01          | 2022-04-01        |
+| CRDQSEANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Sweden                                               | 1980-10-01          | 2022-04-01        |
+| CRDQSEAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Sweden                                               | 1961-01-01          | 2022-04-01        |
+| CRDQSEAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Sweden                                             | 1961-01-01          | 2022-04-01        |
+| CRDQSEBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Sweden                                   | 1961-01-01          | 2022-04-01        |
+| CRDQSEBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Sweden                                 | 1961-01-01          | 2022-04-01        |
+| CRDQSGAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Singapore               | 1991-01-01          | 2022-04-01        |
+| CRDQSGAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Singapore             | 1991-01-01          | 2022-04-01        |
+| CRDQSGANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Singapore                                              | 1991-01-01          | 2022-04-01        |
+| CRDQSGANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Singapore                                            | 1991-01-01          | 2022-04-01        |
+| CRDQSGAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Singapore                                            | 1963-10-01          | 2022-04-01        |
+| CRDQSGAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Singapore                                          | 1963-10-01          | 2022-04-01        |
+| CRDQSGBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Singapore                                | 1963-10-01          | 2022-04-01        |
+| CRDQSGBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Singapore                              | 1963-10-01          | 2022-04-01        |
+| CRDQTHAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Thailand                | 1991-10-01          | 2022-04-01        |
+| CRDQTHAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Thailand              | 1991-10-01          | 2022-04-01        |
+| CRDQTHANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Thailand                                               | 1991-10-01          | 2022-04-01        |
+| CRDQTHANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Thailand                                             | 1991-10-01          | 2022-04-01        |
+| CRDQTHAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Thailand                                             | 1957-01-01          | 2022-04-01        |
+| CRDQTHAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Thailand                                           | 1957-01-01          | 2022-04-01        |
+| CRDQTHBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Thailand                                 | 1957-01-01          | 2022-04-01        |
+| CRDQTHBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Thailand                               | 1957-01-01          | 2022-04-01        |
+| CRDQTRAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Turkey                  | 1986-01-01          | 2022-04-01        |
+| CRDQTRAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Turkey                | 1986-01-01          | 2022-04-01        |
+| CRDQTRANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Turkey                                                 | 1986-01-01          | 2022-04-01        |
+| CRDQTRANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Turkey                                               | 1986-01-01          | 2022-04-01        |
+| CRDQTRAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Turkey                                               | 1986-01-01          | 2022-04-01        |
+| CRDQTRAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Turkey                                             | 1986-01-01          | 2022-04-01        |
+| CRDQTRBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Turkey                                   | 1986-01-01          | 2022-04-01        |
+| CRDQTRBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Turkey                                 | 1986-01-01          | 2022-04-01        |
+| CRDQUSAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for United States           | 1945-10-01          | 2022-04-01        |
+| CRDQUSAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for United States         | 1945-10-01          | 2022-04-01        |
+| CRDQUSANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United States                                          | 1945-10-01          | 2022-04-01        |
+| CRDQUSANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for United States                                        | 1945-10-01          | 2022-04-01        |
+| CRDQUSAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United States                                        | 1945-10-01          | 2022-04-01        |
+| CRDQUSAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for United States                                      | 1945-10-01          | 2022-04-01        |
+| CRDQUSBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for United States                            | 1945-10-01          | 2022-04-01        |
+| CRDQUSBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for United States                          | 1945-10-01          | 2022-04-01        |
+| CRDQXMAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for Euro area               | 1999-01-01          | 2022-04-01        |
+| CRDQXMAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for Euro area             | 1999-01-01          | 2022-04-01        |
+| CRDQXMANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Euro area                                              | 1997-10-01          | 2022-04-01        |
+| CRDQXMANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Euro area                                            | 1997-10-01          | 2022-04-01        |
+| CRDQXMAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Euro area                                            | 1999-01-01          | 2022-04-01        |
+| CRDQXMAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Euro area                                          | 1999-01-01          | 2022-04-01        |
+| CRDQXMBPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for Euro Area                                | 1997-07-01          | 2022-04-01        |
+| CRDQXMBPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for Euro area                              | 1997-07-01          | 2022-04-01        |
+| CRDQZAAHABIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Adjusted for Breaks, for South Africa            | 2008-01-01          | 2022-04-01        |
+| CRDQZAAHUBIS     | Total Credit to Households and Non-Profit Institutions Serving Households, Unadjusted for Breaks, for South Africa          | 2008-01-01          | 2022-04-01        |
+| CRDQZAANABIS     | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for South Africa                                           | 2008-01-01          | 2022-04-01        |
+| CRDQZAANUBIS     | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for South Africa                                         | 2008-01-01          | 2022-04-01        |
+| CRDQZAAPABIS     | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for South Africa                                         | 1965-01-01          | 2022-04-01        |
+| CRDQZAAPUBIS     | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for South Africa                                       | 1965-01-01          | 2022-04-01        |
+| CRDQZABPABIS     | Credit to Private Non-Financial Sector by Domestic Banks, Adjusted for Breaks, for South Africa                             | 1965-01-01          | 2022-04-01        |
+| CRDQZABPUBIS     | Credit to Private Non-Financial Sector by Domestic Banks, Unadjusted for Breaks, for South Africa                           | 1965-01-01          | 2022-04-01        |
 | DDDI12AEA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for United Arab Emirates                      | 1975-01-01          | 2019-01-01        |
 | DDDI12AFA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Afghanistan                               | 1960-01-01          | 2020-01-01        |
 | DDDI12AGA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Antigua and Barbuda                       | 1975-01-01          | 2020-01-01        |
@@ -477,520 +477,520 @@
 | DDDI12ZAA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for South Africa                              | 1961-01-01          | 2020-01-01        |
 | DDDI12ZMA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Zambia                                    | 2009-01-01          | 2020-01-01        |
 | DDDI12ZWA156NWDB | Private Credit by Deposit Money Banks and Other Financial Institutions to GDP for Zimbabwe                                  | 1975-01-01          | 2017-01-01        |
-| Q4TCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                           | 2001-10-01          | 2022-01-01        |
-| Q4TCAM799A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                           | 2001-10-01          | 2022-01-01        |
-| Q4TCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                           | 2001-10-01          | 2022-01-01        |
-| Q4TGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-01-01        |
-| Q4TGAN799A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-01-01        |
-| Q4TGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-01-01        |
-| Q4THAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Emerging Economies                                          | 2008-01-01          | 2022-01-01        |
-| Q4THAM799A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Emerging Economies                                          | 2008-01-01          | 2022-01-01        |
-| Q4THAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Emerging Economies                                          | 2008-01-01          | 2022-01-01        |
-| Q4TNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-01-01        |
-| Q4TNAM799A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-01-01        |
-| Q4TNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-01-01        |
-| Q4TPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                   | 1996-10-01          | 2022-01-01        |
-| Q4TPAM799A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                   | 1996-10-01          | 2022-01-01        |
-| Q4TPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                   | 1996-10-01          | 2022-01-01        |
-| Q4TPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Emerging Economies                                | 1996-01-01          | 2022-01-01        |
-| Q4TPBM799A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Emerging Economies                                | 1996-01-01          | 2022-01-01        |
-| Q4TPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Emerging Economies                                | 1995-04-01          | 2022-01-01        |
-| Q5ACAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                                    | 2001-10-01          | 2022-01-01        |
-| Q5ACAM799A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                                    | 2001-10-01          | 2022-01-01        |
-| Q5ACAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                                    | 2001-10-01          | 2022-01-01        |
-| Q5AGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                                      | 2001-10-01          | 2022-01-01        |
-| Q5AGAM799A       | Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                                      | 2001-10-01          | 2022-01-01        |
-| Q5AGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                                      | 2001-10-01          | 2022-01-01        |
-| Q5AGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-01-01        |
-| Q5AGAN799A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-01-01        |
-| Q5AGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-01-01        |
-| Q5AHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Total Reporting Countries                                   | 2008-01-01          | 2022-01-01        |
-| Q5AHAM799A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Total Reporting Countries                                   | 2008-01-01          | 2022-01-01        |
-| Q5AHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Total Reporting Countries                                   | 2008-01-01          | 2022-01-01        |
-| Q5ANAM770A       | Total Credit to Non-Financial Corporations, Adjusted for breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-01-01        |
-| Q5ANAM799A       | Total Credit to Non-Financial Corporations, Adjusted for breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-01-01        |
-| Q5ANAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-01-01        |
-| Q5APAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                            | 1999-01-01          | 2022-01-01        |
-| Q5APAM799A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                            | 1999-01-01          | 2022-01-01        |
-| Q5APAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                            | 1999-01-01          | 2022-01-01        |
-| Q5APBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Total Reporting Countries                         | 1997-07-01          | 2022-01-01        |
-| Q5APBM799A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Total Reporting Countries                         | 1997-07-01          | 2022-01-01        |
-| Q5APBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Total Reporting Countries                         | 1997-07-01          | 2022-01-01        |
-| Q5RCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                           | 1999-01-01          | 2022-01-01        |
-| Q5RCAM799A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                           | 1999-01-01          | 2022-01-01        |
-| Q5RCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                           | 1999-01-01          | 2022-01-01        |
-| Q5RGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 1999-01-01          | 2022-01-01        |
-| Q5RGAM799A       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 1999-01-01          | 2022-01-01        |
-| Q5RGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 1999-01-01          | 2022-01-01        |
-| Q5RGAN770A       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 2000-01-01          | 2022-01-01        |
-| Q5RGAN799A       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 2000-01-01          | 2022-01-01        |
-| Q5RGANUSDA       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 2000-01-01          | 2022-01-01        |
-| Q5RHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Advanced Economies                                          | 1999-10-01          | 2022-01-01        |
-| Q5RHAM799A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Advanced Economies                                          | 1999-10-01          | 2022-01-01        |
-| Q5RHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Advanced Economies                                          | 1999-10-01          | 2022-01-01        |
-| Q5RNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Advanced Economies                                     | 1999-10-01          | 2022-01-01        |
-| Q5RNAM799A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Advanced Economies                                     | 1999-10-01          | 2022-01-01        |
-| Q5RNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Advanced Economies                                     | 1999-10-01          | 2022-01-01        |
-| Q5RPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                   | 1999-01-01          | 2022-01-01        |
-| Q5RPAM799A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                   | 1999-01-01          | 2022-01-01        |
-| Q5RPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                   | 1999-01-01          | 2022-01-01        |
-| Q5RPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Advanced Economies                                | 1997-07-01          | 2022-01-01        |
-| Q5RPBM799A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Advanced Economies                                | 1997-07-01          | 2022-01-01        |
-| Q5RPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Advanced Economies                                | 1997-07-01          | 2022-01-01        |
-| QARCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1992-10-01          | 2022-01-01        |
-| QARCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1992-10-01          | 2022-01-01        |
-| QARCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1992-10-01          | 2022-01-01        |
-| QARGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina                                              | 1992-10-01          | 2022-01-01        |
-| QARGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina                                              | 1992-10-01          | 2022-01-01        |
-| QARGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina                                              | 1992-10-01          | 2022-01-01        |
-| QARHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1994-01-01          | 2022-01-01        |
-| QARHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1994-01-01          | 2022-01-01        |
-| QARHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1994-01-01          | 2022-01-01        |
-| QARHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted for Breaks, for Argentina                                                 | 1994-01-01          | 2022-01-01        |
-| QARNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1994-01-01          | 2022-01-01        |
-| QARNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1994-01-01          | 2022-01-01        |
-| QARNAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1994-01-01          | 2022-01-01        |
-| QARNAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Argentina                                            | 1994-01-01          | 2022-01-01        |
-| QARPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1984-10-01          | 2022-01-01        |
-| QARPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1990-01-01          | 2022-01-01        |
-| QARPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1984-10-01          | 2022-01-01        |
-| QARPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1990-01-01          | 2022-01-01        |
-| QATCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Austria                                                      | 1999-01-01          | 2022-01-01        |
-| QATCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Austria                                                      | 1999-01-01          | 2022-01-01        |
-| QATCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Austria                                                      | 1999-01-01          | 2022-01-01        |
-| QATGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Austria                                                        | 1999-01-01          | 2022-01-01        |
-| QATGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Austria                                                        | 1999-01-01          | 2022-01-01        |
-| QATGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Austria                                                        | 1999-01-01          | 2022-01-01        |
-| QATGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Austria                                                | 2000-01-01          | 2022-01-01        |
-| QATGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Austria                                                | 2000-01-01          | 2022-01-01        |
-| QATGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Austria                                                | 2000-01-01          | 2022-01-01        |
-| QATHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Austria                                                     | 1995-10-01          | 2022-01-01        |
-| QATHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Austria                                                     | 1995-10-01          | 2022-01-01        |
-| QATNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Austria                                                | 1995-10-01          | 2022-01-01        |
-| QATNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Austria                                                | 1995-10-01          | 2022-01-01        |
-| QATPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Austria                                              | 1960-10-01          | 2022-01-01        |
-| QATPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Austria                                              | 1974-04-01          | 2022-01-01        |
-| QATPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Austria                                           | 1960-10-01          | 2022-01-01        |
-| QATPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Austria                                           | 1974-04-01          | 2022-01-01        |
-| QAUCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Australia                                                    | 1988-04-01          | 2022-01-01        |
-| QAUCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Australia                                                    | 1988-04-01          | 2022-01-01        |
-| QAUCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Australia                                                    | 1988-04-01          | 2022-01-01        |
-| QAUGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Australia                                                      | 1988-04-01          | 2022-01-01        |
-| QAUGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Australia                                                      | 1988-04-01          | 2022-01-01        |
-| QAUGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Australia                                                      | 1988-04-01          | 2022-01-01        |
-| QAUGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Australia                                              | 1988-04-01          | 2022-01-01        |
-| QAUGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Australia                                              | 1988-04-01          | 2022-01-01        |
-| QAUGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Australia                                              | 1988-04-01          | 2022-01-01        |
-| QAUHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Australia                                                   | 1977-10-01          | 2022-01-01        |
-| QAUHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Australia                                                   | 1977-10-01          | 2022-01-01        |
-| QAUNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Australia                                              | 1977-10-01          | 2022-01-01        |
-| QAUNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Australia                                              | 1977-10-01          | 2022-01-01        |
-| QAUPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Australia                                            | 1960-04-01          | 2022-01-01        |
-| QAUPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Australia                                            | 1971-01-01          | 2022-01-01        |
-| QAUPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Australia                                         | 1960-04-01          | 2022-01-01        |
-| QAUPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Australia                                         | 1971-01-01          | 2022-01-01        |
-| QBECAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Belgium                                                      | 1998-10-01          | 2022-01-01        |
-| QBECAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Belgium                                                      | 1998-10-01          | 2022-01-01        |
-| QBECAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Belgium                                                      | 1998-10-01          | 2022-01-01        |
-| QBEGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Belgium                                                        | 1998-10-01          | 2022-01-01        |
-| QBEGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Belgium                                                        | 1998-10-01          | 2022-01-01        |
-| QBEGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Belgium                                                        | 1998-10-01          | 2022-01-01        |
-| QBEGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Belgium                                                | 1995-01-01          | 2022-01-01        |
-| QBEGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Belgium                                                | 1995-01-01          | 2022-01-01        |
-| QBEGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Belgium                                                | 1995-01-01          | 2022-01-01        |
-| QBEHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Belgium                                                     | 1980-10-01          | 2022-01-01        |
-| QBEHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Belgium                                                     | 1980-10-01          | 2022-01-01        |
-| QBENAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Belgium                                                | 1980-10-01          | 2022-01-01        |
-| QBENAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Belgium                                                | 1980-10-01          | 2022-01-01        |
-| QBEPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Belgium                                              | 1970-10-01          | 2022-01-01        |
-| QBEPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Belgium                                              | 1970-10-01          | 2022-01-01        |
-| QBEPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Belgium                                           | 1970-10-01          | 2022-01-01        |
-| QBEPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Belgium                                           | 1970-10-01          | 2022-01-01        |
-| QBRCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Brazil                                                       | 1998-01-01          | 2022-01-01        |
-| QBRCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Brazil                                                       | 1998-01-01          | 2022-01-01        |
-| QBRCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Brazil                                                       | 1998-01-01          | 2022-01-01        |
-| QBRGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Brazil                                                 | 1998-01-01          | 2022-01-01        |
-| QBRGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Brazil                                                 | 1998-01-01          | 2022-01-01        |
-| QBRGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Brazil                                                 | 1998-01-01          | 2022-01-01        |
-| QBRHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil                                                      | 1996-01-01          | 2022-01-01        |
-| QBRHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil                                                      | 1994-07-01          | 2022-01-01        |
-| QBRHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil                                                      | 1994-07-01          | 2022-01-01        |
-| QBRHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted for Breaks, for Brazil                                                    | 1994-07-01          | 2022-01-01        |
-| QBRNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Brazil                                                 | 1996-01-01          | 2022-01-01        |
-| QBRNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Brazil                                                 | 1994-07-01          | 2022-01-01        |
-| QBRNAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Brazil                                                 | 1994-07-01          | 2022-01-01        |
-| QBRNAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Brazil                                               | 1994-07-01          | 2022-01-01        |
-| QBRPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Brazil                                               | 1996-01-01          | 2022-01-01        |
-| QBRPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Brazil                                               | 1993-10-01          | 2022-01-01        |
-| QBRPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Brazil                                            | 1996-01-01          | 2022-01-01        |
-| QBRPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Brazil                                            | 1993-10-01          | 2022-01-01        |
-| QCACAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Canada                                                       | 1990-01-01          | 2022-01-01        |
-| QCACAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Canada                                                       | 1990-01-01          | 2022-01-01        |
-| QCACAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Canada                                                       | 1990-01-01          | 2022-01-01        |
-| QCAGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Canada                                                         | 1990-01-01          | 2022-01-01        |
-| QCAGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Canada                                                         | 1990-01-01          | 2022-01-01        |
-| QCAGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Canada                                                         | 1990-01-01          | 2022-01-01        |
-| QCAGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Canada                                                 | 1990-01-01          | 2022-01-01        |
-| QCAGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Canada                                                 | 1990-01-01          | 2022-01-01        |
-| QCAGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Canada                                                 | 1990-01-01          | 2022-01-01        |
-| QCAHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Canada                                                      | 1969-01-01          | 2022-01-01        |
-| QCAHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Canada                                                      | 1969-01-01          | 2022-01-01        |
-| QCANAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Canada                                                 | 1969-01-01          | 2022-01-01        |
-| QCANAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Canada                                                 | 1969-01-01          | 2022-01-01        |
-| QCAPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Canada                                               | 1955-10-01          | 2022-01-01        |
-| QCAPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Canada                                               | 1954-01-01          | 2022-01-01        |
-| QCAPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Canada                                            | 1955-10-01          | 2022-01-01        |
-| QCAPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Canada                                            | 1954-01-01          | 2022-01-01        |
-| QCHCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Switzerland                                                  | 1995-10-01          | 2022-01-01        |
-| QCHCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Switzerland                                                  | 1995-10-01          | 2022-01-01        |
-| QCHCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Switzerland                                                  | 1995-10-01          | 2022-01-01        |
-| QCHGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Switzerland                                                    | 1995-10-01          | 2022-01-01        |
-| QCHGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Switzerland                                                    | 1995-10-01          | 2022-01-01        |
-| QCHGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Switzerland                                                    | 1995-10-01          | 2022-01-01        |
-| QCHGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Switzerland                                            | 1995-01-01          | 2022-01-01        |
-| QCHGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Switzerland                                            | 1995-01-01          | 2022-01-01        |
-| QCHGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Switzerland                                            | 1995-01-01          | 2022-01-01        |
-| QCHHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Switzerland                                                 | 1999-10-01          | 2022-01-01        |
-| QCHHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Switzerland                                                 | 1999-10-01          | 2022-01-01        |
-| QCHNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Switzerland                                            | 1999-10-01          | 2022-01-01        |
-| QCHNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Switzerland                                            | 1999-10-01          | 2022-01-01        |
-| QCHPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Switzerland                                          | 1960-10-01          | 2022-01-01        |
-| QCHPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Switzerland                                          | 1953-07-01          | 2022-01-01        |
-| QCHPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Switzerland                                       | 1960-10-01          | 2022-01-01        |
-| QCHPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Switzerland                                       | 1953-07-01          | 2022-01-01        |
-| QCLCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Chile                                                        | 1998-01-01          | 2022-01-01        |
-| QCLCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Chile                                                        | 1998-01-01          | 2022-01-01        |
-| QCLCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Chile                                                        | 1998-01-01          | 2022-01-01        |
-| QCLGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Chile                                                          | 1998-01-01          | 2022-01-01        |
-| QCLGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Chile                                                          | 1998-01-01          | 2022-01-01        |
-| QCLGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Chile                                                          | 1998-01-01          | 2022-01-01        |
-| QCLHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Chile                                                       | 2002-10-01          | 2022-01-01        |
-| QCLHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Chile                                                       | 2002-10-01          | 2022-01-01        |
-| QCLHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Chile                                                       | 2002-10-01          | 2022-01-01        |
-| QCLHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted for Breaks, for Chile                                                     | 2002-10-01          | 2022-01-01        |
-| QCLNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Chile                                                  | 2002-10-01          | 2022-01-01        |
-| QCLNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Chile                                                  | 2002-10-01          | 2022-01-01        |
-| QCLNAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Chile                                                  | 2002-10-01          | 2022-01-01        |
-| QCLNAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Chile                                                | 2002-10-01          | 2022-01-01        |
-| QCLPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Chile                                                | 1983-01-01          | 2022-01-01        |
-| QCLPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Chile                                                | 1983-01-01          | 2022-01-01        |
-| QCLPAMXDCA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Chile                                                | 1983-01-01          | 2022-01-01        |
-| QCLPAMXDCU       | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Chile                                              | 1983-01-01          | 2022-01-01        |
-| QCLPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Chile                                             | 1983-01-01          | 2022-01-01        |
-| QCLPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Chile                                             | 1983-01-01          | 2022-01-01        |
-| QCLPBMXDCA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Chile                                             | 1983-01-01          | 2022-01-01        |
-| QCLPBMXDCU       | Credit to Private Non-Financial Sector by Banks, Unadjusted for Breaks, for Chile                                           | 1983-01-01          | 2022-01-01        |
-| QCNCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for China                                                        | 1995-10-01          | 2022-01-01        |
-| QCNCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for China                                                        | 1995-10-01          | 2022-01-01        |
-| QCNCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for China                                                        | 1995-10-01          | 2022-01-01        |
-| QCNGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for China                                                  | 1995-10-01          | 2022-01-01        |
-| QCNGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for China                                                  | 1995-10-01          | 2022-01-01        |
-| QCNGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for China                                                  | 1995-10-01          | 2022-01-01        |
-| QCNHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for China                                                       | 2006-01-01          | 2022-01-01        |
-| QCNHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for China                                                       | 2006-01-01          | 2022-01-01        |
-| QCNNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for China                                                  | 2006-01-01          | 2022-01-01        |
-| QCNNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for China                                                  | 2006-01-01          | 2022-01-01        |
-| QCNPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for China                                                | 1985-10-01          | 2022-01-01        |
-| QCNPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for China                                                | 1985-10-01          | 2022-01-01        |
-| QCNPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for China                                             | 1985-10-01          | 2022-01-01        |
-| QCNPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for China                                             | 1985-10-01          | 2022-01-01        |
-| QCOCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1996-10-01          | 2022-01-01        |
-| QCOCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1996-10-01          | 2022-01-01        |
-| QCOCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1996-10-01          | 2022-01-01        |
-| QCOGAN770A       | Total Credit to General Government, Adjusted for Breaks, for Argentina                                                      | 1996-10-01          | 2022-01-01        |
-| QCOGANUSDA       | Total Credit to General Government, Adjusted for Breaks, for Argentina                                                      | 1996-10-01          | 2022-01-01        |
-| QCOGANXDCA       | Total Credit to General Government, Adjusted for Breaks, for Argentina                                                      | 1996-10-01          | 2022-01-01        |
-| QCOHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1996-10-01          | 2022-01-01        |
-| QCOHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1996-10-01          | 2022-01-01        |
-| QCOHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1996-10-01          | 2022-01-01        |
-| QCOHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted, for Argentina                                                            | 1996-10-01          | 2022-01-01        |
-| QCONAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1996-10-01          | 2022-01-01        |
-| QCONAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1996-10-01          | 2022-01-01        |
-| QCONAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1996-10-01          | 2022-01-01        |
-| QCONAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted, for Argentina                                                       | 1996-10-01          | 2022-01-01        |
-| QCOPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1996-10-01          | 2022-01-01        |
-| QCOPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1996-10-01          | 2022-01-01        |
-| QCOPAMXDCA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1996-10-01          | 2022-01-01        |
-| QCOPAMXDCU       | Total Credit to Private Non-Financial Sector, Unadjusted, for Argentina                                                     | 1996-10-01          | 2022-01-01        |
-| QCOPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1994-10-01          | 2022-01-01        |
-| QCOPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1994-01-01          | 2022-01-01        |
-| QCOPBMXDCA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1994-01-01          | 2022-01-01        |
-| QCOPBMXDCU       | Credit to Private Non-Financial Sector by Banks, Unadjusted, for Argentina                                                  | 1994-01-01          | 2022-01-01        |
-| QCZCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                               | 1998-10-01          | 2022-01-01        |
-| QCZCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                               | 1998-10-01          | 2022-01-01        |
-| QCZCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                               | 1998-10-01          | 2022-01-01        |
-| QCZGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                                 | 1998-10-01          | 2022-01-01        |
-| QCZGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                                 | 1998-10-01          | 2022-01-01        |
-| QCZGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                                 | 1998-10-01          | 2022-01-01        |
-| QCZGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                         | 2000-01-01          | 2022-01-01        |
-| QCZGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                         | 2000-01-01          | 2022-01-01        |
-| QCZGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                         | 2000-01-01          | 2022-01-01        |
-| QCZHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Czech Republic                                              | 1995-10-01          | 2022-01-01        |
-| QCZHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Czech Republic                                              | 1995-10-01          | 2022-01-01        |
-| QCZNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Czech Republic                                         | 1995-10-01          | 2022-01-01        |
-| QCZNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Czech Republic                                         | 1995-10-01          | 2022-01-01        |
-| QCZPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                       | 1993-01-01          | 2022-01-01        |
-| QCZPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                       | 1993-01-01          | 2022-01-01        |
-| QCZPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Czech Republic                                    | 1993-01-01          | 2022-01-01        |
-| QCZPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Czech Republic                                    | 1993-01-01          | 2022-01-01        |
-| QDECAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Germany                                                      | 1998-10-01          | 2022-01-01        |
-| QDECAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Germany                                                      | 1998-10-01          | 2022-01-01        |
-| QDECAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Germany                                                      | 1998-10-01          | 2022-01-01        |
-| QDEGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Germany                                                        | 1998-10-01          | 2022-01-01        |
-| QDEGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Germany                                                        | 1998-10-01          | 2022-01-01        |
-| QDEGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Germany                                                        | 1998-10-01          | 2022-01-01        |
-| QDEGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Germany                                                | 2000-01-01          | 2022-01-01        |
-| QDEGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Germany                                                | 2000-01-01          | 2022-01-01        |
-| QDEGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Germany                                                | 2000-01-01          | 2022-01-01        |
-| QDEHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Germany                                                     | 1970-10-01          | 2022-01-01        |
-| QDEHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Germany                                                     | 1970-10-01          | 2022-01-01        |
-| QDENAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Germany                                                | 1970-10-01          | 2022-01-01        |
-| QDENAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Germany                                                | 1970-10-01          | 2022-01-01        |
-| QDEPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Germany                                              | 1960-10-01          | 2022-01-01        |
-| QDEPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Germany                                              | 1955-01-01          | 2022-01-01        |
-| QDEPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Germany                                           | 1960-10-01          | 2022-01-01        |
-| QDEPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Germany                                           | 1955-01-01          | 2022-01-01        |
-| QDKCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Denmark                                                      | 1998-10-01          | 2022-01-01        |
-| QDKCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Denmark                                                      | 1998-10-01          | 2022-01-01        |
-| QDKCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Denmark                                                      | 1998-10-01          | 2022-01-01        |
-| QDKGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Denmark                                                        | 1998-10-01          | 2022-01-01        |
-| QDKGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Denmark                                                        | 1998-10-01          | 2022-01-01        |
-| QDKGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Denmark                                                        | 1998-10-01          | 2022-01-01        |
-| QDKGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Denmark                                                | 2000-01-01          | 2022-01-01        |
-| QDKGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Denmark                                                | 2000-01-01          | 2022-01-01        |
-| QDKGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Denmark                                                | 2000-01-01          | 2022-01-01        |
-| QDKHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Denmark                                                     | 1994-10-01          | 2022-01-01        |
-| QDKHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Denmark                                                     | 1994-10-01          | 2022-01-01        |
-| QDKNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Denmark                                                | 1994-10-01          | 2022-01-01        |
-| QDKNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Denmark                                                | 1994-10-01          | 2022-01-01        |
-| QDKPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Denmark                                              | 1966-10-01          | 2022-01-01        |
-| QDKPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Denmark                                              | 1953-07-01          | 2022-01-01        |
-| QDKPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Denmark                                           | 1966-10-01          | 2022-01-01        |
-| QDKPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Denmark                                           | 1953-07-01          | 2022-01-01        |
-| QESCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Spain                                                        | 1995-01-01          | 2022-01-01        |
-| QESCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Spain                                                        | 1995-01-01          | 2022-01-01        |
-| QESCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Spain                                                        | 1995-01-01          | 2022-01-01        |
-| QESGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Spain                                                          | 1995-01-01          | 2022-01-01        |
-| QESGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Spain                                                          | 1995-01-01          | 2022-01-01        |
-| QESGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Spain                                                          | 1995-01-01          | 2022-01-01        |
-| QESGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Spain                                                  | 1995-01-01          | 2022-01-01        |
-| QESGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Spain                                                  | 1995-01-01          | 2022-01-01        |
-| QESGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Spain                                                  | 1995-01-01          | 2022-01-01        |
-| QESHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Spain                                                       | 1980-10-01          | 2022-01-01        |
-| QESHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Spain                                                       | 1980-10-01          | 2022-01-01        |
-| QESNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Spain                                                  | 1980-10-01          | 2022-01-01        |
-| QESNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Spain                                                  | 1980-10-01          | 2022-01-01        |
-| QESPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Spain                                                | 1970-01-01          | 2022-01-01        |
-| QESPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Spain                                                | 1970-01-01          | 2022-01-01        |
-| QESPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Spain                                             | 1970-01-01          | 2022-01-01        |
-| QESPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Spain                                             | 1970-01-01          | 2022-01-01        |
-| QFICAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Finland                                                      | 1998-10-01          | 2022-01-01        |
-| QFICAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Finland                                                      | 1998-10-01          | 2022-01-01        |
-| QFICAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Finland                                                      | 1998-10-01          | 2022-01-01        |
-| QFIGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Finland                                                        | 1998-10-01          | 2022-01-01        |
-| QFIGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Finland                                                        | 1998-10-01          | 2022-01-01        |
-| QFIGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Finland                                                        | 1998-10-01          | 2022-01-01        |
-| QFIGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Finland                                                | 2000-01-01          | 2022-01-01        |
-| QFIGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Finland                                                | 2000-01-01          | 2022-01-01        |
-| QFIGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Finland                                                | 2000-01-01          | 2022-01-01        |
-| QFIHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Finland                                                     | 1970-10-01          | 2022-01-01        |
-| QFIHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Finland                                                     | 1970-10-01          | 2022-01-01        |
-| QFINAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Finland                                                | 1970-10-01          | 2022-01-01        |
-| QFINAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Finland                                                | 1970-10-01          | 2022-01-01        |
-| QFIPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Finland                                              | 1970-10-01          | 2022-01-01        |
-| QFIPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Finland                                              | 1970-10-01          | 2022-01-01        |
-| QFIPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Finland                                           | 1974-01-01          | 2022-01-01        |
-| QFIPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Finland                                           | 1974-01-01          | 2022-01-01        |
-| QFRCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for France                                                       | 1998-10-01          | 2022-01-01        |
-| QFRCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for France                                                       | 1998-10-01          | 2022-01-01        |
-| QFRCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for France                                                       | 1998-10-01          | 2022-01-01        |
-| QFRGAM770A       | Total Credit to General Government, Adjusted for Breaks, for France                                                         | 1998-10-01          | 2022-01-01        |
-| QFRGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for France                                                         | 1998-10-01          | 2022-01-01        |
-| QFRGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for France                                                         | 1998-10-01          | 2022-01-01        |
-| QFRGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for France                                                 | 2000-01-01          | 2022-01-01        |
-| QFRGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for France                                                 | 2000-01-01          | 2022-01-01        |
-| QFRGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for France                                                 | 2000-01-01          | 2022-01-01        |
-| QFRHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for France                                                      | 1977-10-01          | 2022-01-01        |
-| QFRHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for France                                                      | 1977-10-01          | 2022-01-01        |
-| QFRNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for France                                                 | 1977-10-01          | 2022-01-01        |
-| QFRNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for France                                                 | 1977-10-01          | 2022-01-01        |
-| QFRPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for France                                               | 1969-10-01          | 2022-01-01        |
-| QFRPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for France                                               | 1969-10-01          | 2022-01-01        |
-| QFRPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for France                                            | 1969-10-01          | 2022-01-01        |
-| QFRPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for France                                            | 1969-10-01          | 2022-01-01        |
-| QG2CAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                                | 2001-10-01          | 2022-01-01        |
-| QG2CAM799A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                                | 2001-10-01          | 2022-01-01        |
-| QG2CAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                                | 2001-10-01          | 2022-01-01        |
-| QG2GAM770A       | Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                                  | 2001-10-01          | 2022-01-01        |
-| QG2GAM799A       | Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                                  | 2001-10-01          | 2022-01-01        |
-| QG2GAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                                  | 2001-10-01          | 2022-01-01        |
-| QG2GAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                          | 2001-10-01          | 2022-01-01        |
-| QG2GAN799A       | Nominal Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                          | 2001-10-01          | 2022-01-01        |
-| QG2GANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                          | 2001-10-01          | 2022-01-01        |
-| QG2HAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for G20 Economies                                               | 2008-01-01          | 2022-01-01        |
-| QG2HAM799A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for G20 Economies                                               | 2008-01-01          | 2022-01-01        |
-| QG2HAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for G20 Economies                                               | 2008-01-01          | 2022-01-01        |
-| QG2NAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for G20 Economies                                          | 2008-01-01          | 2022-01-01        |
-| QG2NAM799A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for G20 Economies                                          | 2008-01-01          | 2022-01-01        |
-| QG2NAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for G20 Economies                                          | 2008-01-01          | 2022-01-01        |
-| QG2PAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                        | 1999-01-01          | 2022-01-01        |
-| QG2PAM799A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                        | 1999-01-01          | 2022-01-01        |
-| QG2PAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                        | 1999-01-01          | 2022-01-01        |
-| QG2PBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for G20 Economies                                     | 1997-07-01          | 2022-01-01        |
-| QG2PBM799A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for G20 Economies                                     | 1997-07-01          | 2022-01-01        |
-| QG2PBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for G20 Economies                                     | 1997-07-01          | 2022-01-01        |
-| QGBCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                               | 1966-01-01          | 2022-01-01        |
-| QGBCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                               | 1966-01-01          | 2022-01-01        |
-| QGBCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                               | 1966-01-01          | 2022-01-01        |
-| QGBGAM770A       | Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                                 | 1966-01-01          | 2022-01-01        |
-| QGBGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                                 | 1966-01-01          | 2022-01-01        |
-| QGBGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                                 | 1966-01-01          | 2022-01-01        |
-| QGBGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                         | 1966-01-01          | 2022-01-01        |
-| QGBGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                         | 1966-01-01          | 2022-01-01        |
-| QGBGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                         | 1966-01-01          | 2022-01-01        |
-| QGBHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for United Kingdom                                              | 1966-10-01          | 2022-01-01        |
-| QGBHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for United Kingdom                                              | 1966-10-01          | 2022-01-01        |
-| QGBNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United Kingdom                                         | 1976-01-01          | 2022-01-01        |
-| QGBNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United Kingdom                                         | 1976-01-01          | 2022-01-01        |
-| QGBPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                       | 1963-01-01          | 2022-01-01        |
-| QGBPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                       | 1963-01-01          | 2022-01-01        |
-| QGBPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for United Kingdom                                    | 1963-01-01          | 2022-01-01        |
-| QGBPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for United Kingdom                                    | 1963-01-01          | 2022-01-01        |
-| QGRCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Greece                                                       | 1997-10-01          | 2022-01-01        |
-| QGRCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Greece                                                       | 1997-10-01          | 2022-01-01        |
-| QGRCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Greece                                                       | 1997-10-01          | 2022-01-01        |
-| QGRGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Greece                                                         | 1997-10-01          | 2022-01-01        |
-| QGRGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Greece                                                         | 1997-10-01          | 2022-01-01        |
-| QGRGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Greece                                                         | 1997-10-01          | 2022-01-01        |
-| QGRGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Greece                                                 | 2000-01-01          | 2022-01-01        |
-| QGRGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Greece                                                 | 2000-01-01          | 2022-01-01        |
-| QGRGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Greece                                                 | 2000-01-01          | 2022-01-01        |
-| QGRHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Greece                                                      | 1994-10-01          | 2022-01-01        |
-| QGRHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Greece                                                      | 1994-10-01          | 2022-01-01        |
-| QGRNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Greece                                                 | 1994-10-01          | 2022-01-01        |
-| QGRNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Greece                                                 | 1994-10-01          | 2022-01-01        |
-| QGRPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Greece                                               | 1970-10-01          | 2022-01-01        |
-| QGRPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Greece                                               | 1960-01-01          | 2022-01-01        |
-| QGRPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Greece                                            | 1970-10-01          | 2022-01-01        |
-| QGRPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Greece                                            | 1960-01-01          | 2022-01-01        |
-| QHKCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                                | 1999-01-01          | 2022-01-01        |
-| QHKCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                                | 1999-01-01          | 2022-01-01        |
-| QHKCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                                | 1999-01-01          | 2022-01-01        |
-| QHKGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hong Kong SAR                                          | 1999-01-01          | 2022-01-01        |
-| QHKGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hong Kong SAR                                          | 1999-01-01          | 2022-01-01        |
-| QHKGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hong Kong SAR                                          | 1999-01-01          | 2022-01-01        |
-| QHKHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Hong Kong SAR                                               | 1990-10-01          | 2022-01-01        |
-| QHKHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Hong Kong SAR                                               | 1990-10-01          | 2022-01-01        |
-| QHKNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hong Kong SAR                                          | 1990-10-01          | 2022-01-01        |
-| QHKNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hong Kong SAR                                          | 1990-10-01          | 2022-01-01        |
-| QHKPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                        | 1978-10-01          | 2022-01-01        |
-| QHKPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                        | 1978-10-01          | 2022-01-01        |
-| QHKPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Hong Kong SAR                                     | 1978-10-01          | 2022-01-01        |
-| QHKPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Hong Kong SAR                                     | 1978-10-01          | 2022-01-01        |
-| QHUCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hungary                                                      | 1970-10-01          | 2022-01-01        |
-| QHUCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hungary                                                      | 1969-10-01          | 2022-01-01        |
-| QHUCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hungary                                                      | 1969-10-01          | 2022-01-01        |
-| QHUGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Hungary                                                        | 1970-10-01          | 2022-01-01        |
-| QHUGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Hungary                                                        | 1969-10-01          | 2022-01-01        |
-| QHUGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Hungary                                                        | 1969-10-01          | 2022-01-01        |
-| QHUGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hungary                                                | 1970-10-01          | 2022-01-01        |
-| QHUGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hungary                                                | 1969-10-01          | 2022-01-01        |
-| QHUGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hungary                                                | 1969-10-01          | 2022-01-01        |
-| QHUHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Hungary                                                     | 1970-10-01          | 2022-01-01        |
-| QHUHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Hungary                                                     | 1964-10-01          | 2022-01-01        |
-| QHUNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hungary                                                | 1970-10-01          | 2022-01-01        |
-| QHUNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hungary                                                | 1969-10-01          | 2022-01-01        |
-| QHUPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hungary                                              | 1970-10-01          | 2022-01-01        |
-| QHUPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hungary                                              | 1969-10-01          | 2022-01-01        |
-| QHUPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Hungary                                           | 1970-10-01          | 2022-01-01        |
-| QHUPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Hungary                                           | 1967-10-01          | 2022-01-01        |
-| QIDCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Indonesia                                                    | 2001-10-01          | 2022-01-01        |
-| QIDCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Indonesia                                                    | 2001-10-01          | 2022-01-01        |
-| QIDCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Indonesia                                                    | 2001-10-01          | 2022-01-01        |
-| QIDGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-01-01        |
-| QIDGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-01-01        |
-| QIDGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-01-01        |
-| QIDHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Indonesia                                                   | 2001-10-01          | 2022-01-01        |
-| QIDHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Indonesia                                                   | 2001-10-01          | 2022-01-01        |
-| QIDNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-01-01        |
-| QIDNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-01-01        |
-| QIDPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Indonesia                                            | 1976-01-01          | 2022-01-01        |
-| QIDPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Indonesia                                            | 1976-01-01          | 2022-01-01        |
-| QIDPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Indonesia                                         | 1976-01-01          | 2022-01-01        |
-| QIDPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Indonesia                                         | 1976-01-01          | 2022-01-01        |
-| QIECAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Ireland                                                      | 1998-10-01          | 2022-01-01        |
-| QIECAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Ireland                                                      | 1998-10-01          | 2022-01-01        |
-| QIECAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Ireland                                                      | 1998-10-01          | 2022-01-01        |
-| QIEGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Ireland                                                        | 1998-10-01          | 2022-01-01        |
-| QIEGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Ireland                                                        | 1998-10-01          | 2022-01-01        |
-| QIEGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Ireland                                                        | 1998-10-01          | 2022-01-01        |
-| QIEGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Ireland                                                | 2000-01-01          | 2022-01-01        |
-| QIEGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Ireland                                                | 2000-01-01          | 2022-01-01        |
-| QIEGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Ireland                                                | 2000-01-01          | 2022-01-01        |
-| QIEHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Ireland                                                     | 2002-01-01          | 2022-01-01        |
-| QIEHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Ireland                                                     | 2002-01-01          | 2022-01-01        |
-| QIENAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Ireland                                                | 2002-01-01          | 2022-01-01        |
-| QIENAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Ireland                                                | 2002-01-01          | 2022-01-01        |
-| QIEPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Ireland                                              | 1971-04-01          | 2022-01-01        |
-| QIEPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Ireland                                              | 1971-04-01          | 2022-01-01        |
-| QIEPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Ireland                                           | 1971-04-01          | 2022-01-01        |
-| QIEPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Ireland                                           | 1971-04-01          | 2022-01-01        |
-| QILCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Israel                                                       | 1999-10-01          | 2022-01-01        |
-| QILCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Israel                                                       | 1999-10-01          | 2022-01-01        |
-| QILCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Israel                                                       | 1999-10-01          | 2022-01-01        |
-| QILGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Israel                                                         | 1999-10-01          | 2022-01-01        |
-| QILGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Israel                                                         | 1999-10-01          | 2022-01-01        |
-| QILGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Israel                                                         | 1999-10-01          | 2022-01-01        |
-| QILGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-01-01        |
-| QILGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-01-01        |
-| QILGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-01-01        |
-| QILHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Israel                                                      | 1992-07-01          | 2022-01-01        |
-| QILHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Israel                                                      | 1992-07-01          | 2022-01-01        |
-| QILHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Israel                                                      | 1992-07-01          | 2022-01-01        |
-| QILHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted for Breaks, for Israel                                                    | 1992-07-01          | 2022-01-01        |
-| QILNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-01-01        |
-| QILNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-01-01        |
-| QILNAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-01-01        |
-| QILNAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Israel                                               | 1992-07-01          | 2022-01-01        |
-| QILPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Israel                                               | 1990-10-01          | 2022-01-01        |
-| QILPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Israel                                               | 1981-04-01          | 2022-01-01        |
-| QILPAMXDCA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Israel                                               | 1981-04-01          | 2022-01-01        |
-| QILPAMXDCU       | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Israel                                             | 1981-04-01          | 2022-01-01        |
-| QILPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Israel                                            | 1990-10-01          | 2022-01-01        |
-| QILPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Israel                                            | 1981-04-01          | 2022-01-01        |
-| QILPBMXDCA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Israel                                            | 1981-04-01          | 2022-01-01        |
-| QILPBMXDCU       | Credit to Private Non-Financial Sector by Banks, Unadjusted for Breaks, for Israel                                          | 1981-04-01          | 2022-01-01        |
-| QINCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for India                                                        | 1981-01-01          | 2022-01-01        |
-| QINCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for India                                                        | 1981-01-01          | 2022-01-01        |
-| QINCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for India                                                        | 1981-01-01          | 2022-01-01        |
-| QINGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for India                                                  | 1981-01-01          | 2022-01-01        |
-| QINGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for India                                                  | 1981-01-01          | 2022-01-01        |
-| QINGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for India                                                  | 1981-01-01          | 2022-01-01        |
-| QINHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for India                                                       | 2007-04-01          | 2022-01-01        |
-| QINHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for India                                                       | 2007-04-01          | 2022-01-01        |
-| QINNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for India                                                  | 2007-04-01          | 2022-01-01        |
-| QINNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for India                                                  | 2007-04-01          | 2022-01-01        |
-| QINPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for India                                                | 1951-04-01          | 2022-01-01        |
-| QINPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for India                                                | 1957-01-01          | 2022-01-01        |
-| QINPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for India                                             | 1951-04-01          | 2022-01-01        |
-| QINPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for India                                             | 1957-01-01          | 2022-01-01        |
-| QITCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Italy                                                        | 1999-01-01          | 2022-01-01        |
-| QITCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Italy                                                        | 1999-01-01          | 2022-01-01        |
-| QITCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Italy                                                        | 1999-01-01          | 2022-01-01        |
-| QITGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Italy                                                          | 1999-01-01          | 2022-01-01        |
-| QITGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Italy                                                          | 1999-01-01          | 2022-01-01        |
-| QITGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Italy                                                          | 1999-01-01          | 2022-01-01        |
-| QITGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Italy                                                  | 2000-01-01          | 2022-01-01        |
-| QITGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Italy                                                  | 2000-01-01          | 2022-01-01        |
-| QITGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Italy                                                  | 2000-01-01          | 2022-01-01        |
-| QITHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Italy                                                       | 1960-10-01          | 2022-01-01        |
-| QITHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Italy                                                       | 1960-01-01          | 2022-01-01        |
-| QITNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Italy                                                  | 1960-10-01          | 2022-01-01        |
-| QITNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Italy                                                  | 1960-01-01          | 2022-01-01        |
-| QITPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Italy                                                | 1960-10-01          | 2022-01-01        |
-| QITPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Italy                                                | 1960-01-01          | 2022-01-01        |
-| QITPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Italy                                             | 1974-10-01          | 2022-01-01        |
-| QITPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Italy                                             | 1974-10-01          | 2022-01-01        |
-| QJPCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Japan                                                        | 1997-10-01          | 2022-01-01        |
-| QJPCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Japan                                                        | 1997-10-01          | 2022-01-01        |
-| QJPCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Japan                                                        | 1997-10-01          | 2022-01-01        |
+| Q4TCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                           | 2001-10-01          | 2022-04-01        |
+| Q4TCAM799A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                           | 2001-10-01          | 2022-04-01        |
+| Q4TCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                           | 2001-10-01          | 2022-04-01        |
+| Q4TGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-04-01        |
+| Q4TGAN799A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-04-01        |
+| Q4TGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-04-01        |
+| Q4THAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Emerging Economies                                          | 2008-01-01          | 2022-04-01        |
+| Q4THAM799A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Emerging Economies                                          | 2008-01-01          | 2022-04-01        |
+| Q4THAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Emerging Economies                                          | 2008-01-01          | 2022-04-01        |
+| Q4TNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-04-01        |
+| Q4TNAM799A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-04-01        |
+| Q4TNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Emerging Economies                                     | 2008-01-01          | 2022-04-01        |
+| Q4TPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                   | 1996-10-01          | 2022-04-01        |
+| Q4TPAM799A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                   | 1996-10-01          | 2022-04-01        |
+| Q4TPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Emerging Economies                                   | 1996-10-01          | 2022-04-01        |
+| Q4TPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Emerging Economies                                | 1996-01-01          | 2022-04-01        |
+| Q4TPBM799A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Emerging Economies                                | 1996-01-01          | 2022-04-01        |
+| Q4TPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Emerging Economies                                | 1995-04-01          | 2022-04-01        |
+| Q5ACAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                                    | 2001-10-01          | 2022-04-01        |
+| Q5ACAM799A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                                    | 2001-10-01          | 2022-04-01        |
+| Q5ACAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                                    | 2001-10-01          | 2022-04-01        |
+| Q5AGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                                      | 2001-10-01          | 2022-04-01        |
+| Q5AGAM799A       | Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                                      | 2001-10-01          | 2022-04-01        |
+| Q5AGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                                      | 2001-10-01          | 2022-04-01        |
+| Q5AGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-04-01        |
+| Q5AGAN799A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-04-01        |
+| Q5AGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-04-01        |
+| Q5AHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Total Reporting Countries                                   | 2008-01-01          | 2022-04-01        |
+| Q5AHAM799A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Total Reporting Countries                                   | 2008-01-01          | 2022-04-01        |
+| Q5AHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Total Reporting Countries                                   | 2008-01-01          | 2022-04-01        |
+| Q5ANAM770A       | Total Credit to Non-Financial Corporations, Adjusted for breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-04-01        |
+| Q5ANAM799A       | Total Credit to Non-Financial Corporations, Adjusted for breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-04-01        |
+| Q5ANAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for breaks, for Total Reporting Countries                              | 2008-01-01          | 2022-04-01        |
+| Q5APAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                            | 1999-01-01          | 2022-04-01        |
+| Q5APAM799A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                            | 1999-01-01          | 2022-04-01        |
+| Q5APAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Total Reporting Countries                            | 1999-01-01          | 2022-04-01        |
+| Q5APBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Total Reporting Countries                         | 1997-07-01          | 2022-04-01        |
+| Q5APBM799A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Total Reporting Countries                         | 1997-07-01          | 2022-04-01        |
+| Q5APBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Total Reporting Countries                         | 1997-07-01          | 2022-04-01        |
+| Q5RCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                           | 1999-01-01          | 2022-04-01        |
+| Q5RCAM799A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                           | 1999-01-01          | 2022-04-01        |
+| Q5RCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                           | 1999-01-01          | 2022-04-01        |
+| Q5RGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 1999-01-01          | 2022-04-01        |
+| Q5RGAM799A       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 1999-01-01          | 2022-04-01        |
+| Q5RGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 1999-01-01          | 2022-04-01        |
+| Q5RGAN770A       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 2000-01-01          | 2022-04-01        |
+| Q5RGAN799A       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 2000-01-01          | 2022-04-01        |
+| Q5RGANUSDA       | Total Credit to General Government, Adjusted for Breaks, for Advanced Economies                                             | 2000-01-01          | 2022-04-01        |
+| Q5RHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Advanced Economies                                          | 1999-10-01          | 2022-04-01        |
+| Q5RHAM799A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Advanced Economies                                          | 1999-10-01          | 2022-04-01        |
+| Q5RHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Advanced Economies                                          | 1999-10-01          | 2022-04-01        |
+| Q5RNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Advanced Economies                                     | 1999-10-01          | 2022-04-01        |
+| Q5RNAM799A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Advanced Economies                                     | 1999-10-01          | 2022-04-01        |
+| Q5RNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Advanced Economies                                     | 1999-10-01          | 2022-04-01        |
+| Q5RPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                   | 1999-01-01          | 2022-04-01        |
+| Q5RPAM799A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                   | 1999-01-01          | 2022-04-01        |
+| Q5RPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Advanced Economies                                   | 1999-01-01          | 2022-04-01        |
+| Q5RPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Advanced Economies                                | 1997-07-01          | 2022-04-01        |
+| Q5RPBM799A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Advanced Economies                                | 1997-07-01          | 2022-04-01        |
+| Q5RPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Advanced Economies                                | 1997-07-01          | 2022-04-01        |
+| QARCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1992-10-01          | 2022-04-01        |
+| QARCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1992-10-01          | 2022-04-01        |
+| QARCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1992-10-01          | 2022-04-01        |
+| QARGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina                                              | 1992-10-01          | 2022-04-01        |
+| QARGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina                                              | 1992-10-01          | 2022-04-01        |
+| QARGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Argentina                                              | 1992-10-01          | 2022-04-01        |
+| QARHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1994-01-01          | 2022-04-01        |
+| QARHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1994-01-01          | 2022-04-01        |
+| QARHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1994-01-01          | 2022-04-01        |
+| QARHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted for Breaks, for Argentina                                                 | 1994-01-01          | 2022-04-01        |
+| QARNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1994-01-01          | 2022-04-01        |
+| QARNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1994-01-01          | 2022-04-01        |
+| QARNAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1994-01-01          | 2022-04-01        |
+| QARNAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Argentina                                            | 1994-01-01          | 2022-04-01        |
+| QARPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1984-10-01          | 2022-04-01        |
+| QARPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1990-01-01          | 2022-04-01        |
+| QARPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1984-10-01          | 2022-04-01        |
+| QARPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1990-01-01          | 2022-04-01        |
+| QATCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Austria                                                      | 1999-01-01          | 2022-04-01        |
+| QATCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Austria                                                      | 1999-01-01          | 2022-04-01        |
+| QATCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Austria                                                      | 1999-01-01          | 2022-04-01        |
+| QATGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Austria                                                        | 1999-01-01          | 2022-04-01        |
+| QATGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Austria                                                        | 1999-01-01          | 2022-04-01        |
+| QATGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Austria                                                        | 1999-01-01          | 2022-04-01        |
+| QATGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Austria                                                | 2000-01-01          | 2022-04-01        |
+| QATGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Austria                                                | 2000-01-01          | 2022-04-01        |
+| QATGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Austria                                                | 2000-01-01          | 2022-04-01        |
+| QATHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Austria                                                     | 1995-10-01          | 2022-04-01        |
+| QATHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Austria                                                     | 1995-10-01          | 2022-04-01        |
+| QATNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Austria                                                | 1995-10-01          | 2022-04-01        |
+| QATNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Austria                                                | 1995-10-01          | 2022-04-01        |
+| QATPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Austria                                              | 1960-10-01          | 2022-04-01        |
+| QATPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Austria                                              | 1974-04-01          | 2022-04-01        |
+| QATPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Austria                                           | 1960-10-01          | 2022-04-01        |
+| QATPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Austria                                           | 1974-04-01          | 2022-04-01        |
+| QAUCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Australia                                                    | 1988-04-01          | 2022-04-01        |
+| QAUCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Australia                                                    | 1988-04-01          | 2022-04-01        |
+| QAUCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Australia                                                    | 1988-04-01          | 2022-04-01        |
+| QAUGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Australia                                                      | 1988-04-01          | 2022-04-01        |
+| QAUGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Australia                                                      | 1988-04-01          | 2022-04-01        |
+| QAUGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Australia                                                      | 1988-04-01          | 2022-04-01        |
+| QAUGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Australia                                              | 1988-04-01          | 2022-04-01        |
+| QAUGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Australia                                              | 1988-04-01          | 2022-04-01        |
+| QAUGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Australia                                              | 1988-04-01          | 2022-04-01        |
+| QAUHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Australia                                                   | 1977-10-01          | 2022-04-01        |
+| QAUHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Australia                                                   | 1977-10-01          | 2022-04-01        |
+| QAUNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Australia                                              | 1977-10-01          | 2022-04-01        |
+| QAUNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Australia                                              | 1977-10-01          | 2022-04-01        |
+| QAUPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Australia                                            | 1960-04-01          | 2022-04-01        |
+| QAUPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Australia                                            | 1971-01-01          | 2022-04-01        |
+| QAUPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Australia                                         | 1960-04-01          | 2022-04-01        |
+| QAUPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Australia                                         | 1971-01-01          | 2022-04-01        |
+| QBECAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Belgium                                                      | 1998-10-01          | 2022-04-01        |
+| QBECAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Belgium                                                      | 1998-10-01          | 2022-04-01        |
+| QBECAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Belgium                                                      | 1998-10-01          | 2022-04-01        |
+| QBEGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Belgium                                                        | 1998-10-01          | 2022-04-01        |
+| QBEGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Belgium                                                        | 1998-10-01          | 2022-04-01        |
+| QBEGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Belgium                                                        | 1998-10-01          | 2022-04-01        |
+| QBEGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Belgium                                                | 1995-01-01          | 2022-04-01        |
+| QBEGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Belgium                                                | 1995-01-01          | 2022-04-01        |
+| QBEGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Belgium                                                | 1995-01-01          | 2022-04-01        |
+| QBEHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Belgium                                                     | 1980-10-01          | 2022-04-01        |
+| QBEHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Belgium                                                     | 1980-10-01          | 2022-04-01        |
+| QBENAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Belgium                                                | 1980-10-01          | 2022-04-01        |
+| QBENAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Belgium                                                | 1980-10-01          | 2022-04-01        |
+| QBEPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Belgium                                              | 1970-10-01          | 2022-04-01        |
+| QBEPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Belgium                                              | 1970-10-01          | 2022-04-01        |
+| QBEPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Belgium                                           | 1970-10-01          | 2022-04-01        |
+| QBEPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Belgium                                           | 1970-10-01          | 2022-04-01        |
+| QBRCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Brazil                                                       | 1998-01-01          | 2022-04-01        |
+| QBRCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Brazil                                                       | 1998-01-01          | 2022-04-01        |
+| QBRCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Brazil                                                       | 1998-01-01          | 2022-04-01        |
+| QBRGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Brazil                                                 | 1998-01-01          | 2022-04-01        |
+| QBRGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Brazil                                                 | 1998-01-01          | 2022-04-01        |
+| QBRGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Brazil                                                 | 1998-01-01          | 2022-04-01        |
+| QBRHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil                                                      | 1996-01-01          | 2022-04-01        |
+| QBRHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil                                                      | 1994-07-01          | 2022-04-01        |
+| QBRHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Brazil                                                      | 1994-07-01          | 2022-04-01        |
+| QBRHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted for Breaks, for Brazil                                                    | 1994-07-01          | 2022-04-01        |
+| QBRNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Brazil                                                 | 1996-01-01          | 2022-04-01        |
+| QBRNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Brazil                                                 | 1994-07-01          | 2022-04-01        |
+| QBRNAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Brazil                                                 | 1994-07-01          | 2022-04-01        |
+| QBRNAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Brazil                                               | 1994-07-01          | 2022-04-01        |
+| QBRPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Brazil                                               | 1996-01-01          | 2022-04-01        |
+| QBRPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Brazil                                               | 1993-10-01          | 2022-04-01        |
+| QBRPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Brazil                                            | 1996-01-01          | 2022-04-01        |
+| QBRPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Brazil                                            | 1993-10-01          | 2022-04-01        |
+| QCACAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Canada                                                       | 1990-01-01          | 2022-04-01        |
+| QCACAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Canada                                                       | 1990-01-01          | 2022-04-01        |
+| QCACAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Canada                                                       | 1990-01-01          | 2022-04-01        |
+| QCAGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Canada                                                         | 1990-01-01          | 2022-04-01        |
+| QCAGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Canada                                                         | 1990-01-01          | 2022-04-01        |
+| QCAGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Canada                                                         | 1990-01-01          | 2022-04-01        |
+| QCAGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Canada                                                 | 1990-01-01          | 2022-04-01        |
+| QCAGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Canada                                                 | 1990-01-01          | 2022-04-01        |
+| QCAGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Canada                                                 | 1990-01-01          | 2022-04-01        |
+| QCAHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Canada                                                      | 1969-01-01          | 2022-04-01        |
+| QCAHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Canada                                                      | 1969-01-01          | 2022-04-01        |
+| QCANAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Canada                                                 | 1969-01-01          | 2022-04-01        |
+| QCANAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Canada                                                 | 1969-01-01          | 2022-04-01        |
+| QCAPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Canada                                               | 1955-10-01          | 2022-04-01        |
+| QCAPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Canada                                               | 1954-01-01          | 2022-04-01        |
+| QCAPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Canada                                            | 1955-10-01          | 2022-04-01        |
+| QCAPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Canada                                            | 1954-01-01          | 2022-04-01        |
+| QCHCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Switzerland                                                  | 1995-10-01          | 2022-04-01        |
+| QCHCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Switzerland                                                  | 1995-10-01          | 2022-04-01        |
+| QCHCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Switzerland                                                  | 1995-10-01          | 2022-04-01        |
+| QCHGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Switzerland                                                    | 1995-10-01          | 2022-04-01        |
+| QCHGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Switzerland                                                    | 1995-10-01          | 2022-04-01        |
+| QCHGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Switzerland                                                    | 1995-10-01          | 2022-04-01        |
+| QCHGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Switzerland                                            | 1995-01-01          | 2022-04-01        |
+| QCHGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Switzerland                                            | 1995-01-01          | 2022-04-01        |
+| QCHGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Switzerland                                            | 1995-01-01          | 2022-04-01        |
+| QCHHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Switzerland                                                 | 1999-10-01          | 2022-04-01        |
+| QCHHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Switzerland                                                 | 1999-10-01          | 2022-04-01        |
+| QCHNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Switzerland                                            | 1999-10-01          | 2022-04-01        |
+| QCHNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Switzerland                                            | 1999-10-01          | 2022-04-01        |
+| QCHPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Switzerland                                          | 1960-10-01          | 2022-04-01        |
+| QCHPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Switzerland                                          | 1953-07-01          | 2022-04-01        |
+| QCHPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Switzerland                                       | 1960-10-01          | 2022-04-01        |
+| QCHPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Switzerland                                       | 1953-07-01          | 2022-04-01        |
+| QCLCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Chile                                                        | 1998-01-01          | 2022-04-01        |
+| QCLCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Chile                                                        | 1998-01-01          | 2022-04-01        |
+| QCLCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Chile                                                        | 1998-01-01          | 2022-04-01        |
+| QCLGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Chile                                                          | 1998-01-01          | 2022-04-01        |
+| QCLGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Chile                                                          | 1998-01-01          | 2022-04-01        |
+| QCLGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Chile                                                          | 1998-01-01          | 2022-04-01        |
+| QCLHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Chile                                                       | 2002-10-01          | 2022-04-01        |
+| QCLHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Chile                                                       | 2002-10-01          | 2022-04-01        |
+| QCLHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Chile                                                       | 2002-10-01          | 2022-04-01        |
+| QCLHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted for Breaks, for Chile                                                     | 2002-10-01          | 2022-04-01        |
+| QCLNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Chile                                                  | 2002-10-01          | 2022-04-01        |
+| QCLNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Chile                                                  | 2002-10-01          | 2022-04-01        |
+| QCLNAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Chile                                                  | 2002-10-01          | 2022-04-01        |
+| QCLNAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Chile                                                | 2002-10-01          | 2022-04-01        |
+| QCLPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Chile                                                | 1983-01-01          | 2022-04-01        |
+| QCLPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Chile                                                | 1983-01-01          | 2022-04-01        |
+| QCLPAMXDCA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Chile                                                | 1983-01-01          | 2022-04-01        |
+| QCLPAMXDCU       | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Chile                                              | 1983-01-01          | 2022-04-01        |
+| QCLPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Chile                                             | 1983-01-01          | 2022-04-01        |
+| QCLPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Chile                                             | 1983-01-01          | 2022-04-01        |
+| QCLPBMXDCA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Chile                                             | 1983-01-01          | 2022-04-01        |
+| QCLPBMXDCU       | Credit to Private Non-Financial Sector by Banks, Unadjusted for Breaks, for Chile                                           | 1983-01-01          | 2022-04-01        |
+| QCNCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for China                                                        | 1995-10-01          | 2022-04-01        |
+| QCNCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for China                                                        | 1995-10-01          | 2022-04-01        |
+| QCNCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for China                                                        | 1995-10-01          | 2022-04-01        |
+| QCNGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for China                                                  | 1995-10-01          | 2022-04-01        |
+| QCNGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for China                                                  | 1995-10-01          | 2022-04-01        |
+| QCNGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for China                                                  | 1995-10-01          | 2022-04-01        |
+| QCNHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for China                                                       | 2006-01-01          | 2022-04-01        |
+| QCNHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for China                                                       | 2006-01-01          | 2022-04-01        |
+| QCNNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for China                                                  | 2006-01-01          | 2022-04-01        |
+| QCNNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for China                                                  | 2006-01-01          | 2022-04-01        |
+| QCNPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for China                                                | 1985-10-01          | 2022-04-01        |
+| QCNPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for China                                                | 1985-10-01          | 2022-04-01        |
+| QCNPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for China                                             | 1985-10-01          | 2022-04-01        |
+| QCNPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for China                                             | 1985-10-01          | 2022-04-01        |
+| QCOCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1996-10-01          | 2022-04-01        |
+| QCOCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1996-10-01          | 2022-04-01        |
+| QCOCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Argentina                                                    | 1996-10-01          | 2022-04-01        |
+| QCOGAN770A       | Total Credit to General Government, Adjusted for Breaks, for Argentina                                                      | 1996-10-01          | 2022-04-01        |
+| QCOGANUSDA       | Total Credit to General Government, Adjusted for Breaks, for Argentina                                                      | 1996-10-01          | 2022-04-01        |
+| QCOGANXDCA       | Total Credit to General Government, Adjusted for Breaks, for Argentina                                                      | 1996-10-01          | 2022-04-01        |
+| QCOHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1996-10-01          | 2022-04-01        |
+| QCOHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1996-10-01          | 2022-04-01        |
+| QCOHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Argentina                                                   | 1996-10-01          | 2022-04-01        |
+| QCOHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted, for Argentina                                                            | 1996-10-01          | 2022-04-01        |
+| QCONAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1996-10-01          | 2022-04-01        |
+| QCONAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1996-10-01          | 2022-04-01        |
+| QCONAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Argentina                                              | 1996-10-01          | 2022-04-01        |
+| QCONAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted, for Argentina                                                       | 1996-10-01          | 2022-04-01        |
+| QCOPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1996-10-01          | 2022-04-01        |
+| QCOPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1996-10-01          | 2022-04-01        |
+| QCOPAMXDCA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Argentina                                            | 1996-10-01          | 2022-04-01        |
+| QCOPAMXDCU       | Total Credit to Private Non-Financial Sector, Unadjusted, for Argentina                                                     | 1996-10-01          | 2022-04-01        |
+| QCOPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1994-10-01          | 2022-04-01        |
+| QCOPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1994-01-01          | 2022-04-01        |
+| QCOPBMXDCA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Argentina                                         | 1994-01-01          | 2022-04-01        |
+| QCOPBMXDCU       | Credit to Private Non-Financial Sector by Banks, Unadjusted, for Argentina                                                  | 1994-01-01          | 2022-04-01        |
+| QCZCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                               | 1998-10-01          | 2022-04-01        |
+| QCZCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                               | 1998-10-01          | 2022-04-01        |
+| QCZCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                               | 1998-10-01          | 2022-04-01        |
+| QCZGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                                 | 1998-10-01          | 2022-04-01        |
+| QCZGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                                 | 1998-10-01          | 2022-04-01        |
+| QCZGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                                 | 1998-10-01          | 2022-04-01        |
+| QCZGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                         | 2000-01-01          | 2022-04-01        |
+| QCZGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                         | 2000-01-01          | 2022-04-01        |
+| QCZGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Czech Republic                                         | 2000-01-01          | 2022-04-01        |
+| QCZHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Czech Republic                                              | 1995-10-01          | 2022-04-01        |
+| QCZHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Czech Republic                                              | 1995-10-01          | 2022-04-01        |
+| QCZNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Czech Republic                                         | 1995-10-01          | 2022-04-01        |
+| QCZNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Czech Republic                                         | 1995-10-01          | 2022-04-01        |
+| QCZPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                       | 1993-01-01          | 2022-04-01        |
+| QCZPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Czech Republic                                       | 1993-01-01          | 2022-04-01        |
+| QCZPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Czech Republic                                    | 1993-01-01          | 2022-04-01        |
+| QCZPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Czech Republic                                    | 1993-01-01          | 2022-04-01        |
+| QDECAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Germany                                                      | 1998-10-01          | 2022-04-01        |
+| QDECAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Germany                                                      | 1998-10-01          | 2022-04-01        |
+| QDECAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Germany                                                      | 1998-10-01          | 2022-04-01        |
+| QDEGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Germany                                                        | 1998-10-01          | 2022-04-01        |
+| QDEGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Germany                                                        | 1998-10-01          | 2022-04-01        |
+| QDEGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Germany                                                        | 1998-10-01          | 2022-04-01        |
+| QDEGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Germany                                                | 2000-01-01          | 2022-04-01        |
+| QDEGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Germany                                                | 2000-01-01          | 2022-04-01        |
+| QDEGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Germany                                                | 2000-01-01          | 2022-04-01        |
+| QDEHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Germany                                                     | 1970-10-01          | 2022-04-01        |
+| QDEHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Germany                                                     | 1970-10-01          | 2022-04-01        |
+| QDENAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Germany                                                | 1970-10-01          | 2022-04-01        |
+| QDENAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Germany                                                | 1970-10-01          | 2022-04-01        |
+| QDEPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Germany                                              | 1960-10-01          | 2022-04-01        |
+| QDEPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Germany                                              | 1955-01-01          | 2022-04-01        |
+| QDEPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Germany                                           | 1960-10-01          | 2022-04-01        |
+| QDEPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Germany                                           | 1955-01-01          | 2022-04-01        |
+| QDKCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Denmark                                                      | 1998-10-01          | 2022-04-01        |
+| QDKCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Denmark                                                      | 1998-10-01          | 2022-04-01        |
+| QDKCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Denmark                                                      | 1998-10-01          | 2022-04-01        |
+| QDKGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Denmark                                                        | 1998-10-01          | 2022-04-01        |
+| QDKGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Denmark                                                        | 1998-10-01          | 2022-04-01        |
+| QDKGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Denmark                                                        | 1998-10-01          | 2022-04-01        |
+| QDKGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Denmark                                                | 2000-01-01          | 2022-04-01        |
+| QDKGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Denmark                                                | 2000-01-01          | 2022-04-01        |
+| QDKGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Denmark                                                | 2000-01-01          | 2022-04-01        |
+| QDKHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Denmark                                                     | 1994-10-01          | 2022-04-01        |
+| QDKHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Denmark                                                     | 1994-10-01          | 2022-04-01        |
+| QDKNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Denmark                                                | 1994-10-01          | 2022-04-01        |
+| QDKNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Denmark                                                | 1994-10-01          | 2022-04-01        |
+| QDKPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Denmark                                              | 1966-10-01          | 2022-04-01        |
+| QDKPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Denmark                                              | 1953-07-01          | 2022-04-01        |
+| QDKPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Denmark                                           | 1966-10-01          | 2022-04-01        |
+| QDKPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Denmark                                           | 1953-07-01          | 2022-04-01        |
+| QESCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Spain                                                        | 1995-01-01          | 2022-04-01        |
+| QESCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Spain                                                        | 1995-01-01          | 2022-04-01        |
+| QESCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Spain                                                        | 1995-01-01          | 2022-04-01        |
+| QESGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Spain                                                          | 1995-01-01          | 2022-04-01        |
+| QESGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Spain                                                          | 1995-01-01          | 2022-04-01        |
+| QESGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Spain                                                          | 1995-01-01          | 2022-04-01        |
+| QESGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Spain                                                  | 1995-01-01          | 2022-04-01        |
+| QESGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Spain                                                  | 1995-01-01          | 2022-04-01        |
+| QESGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Spain                                                  | 1995-01-01          | 2022-04-01        |
+| QESHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Spain                                                       | 1980-10-01          | 2022-04-01        |
+| QESHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Spain                                                       | 1980-10-01          | 2022-04-01        |
+| QESNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Spain                                                  | 1980-10-01          | 2022-04-01        |
+| QESNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Spain                                                  | 1980-10-01          | 2022-04-01        |
+| QESPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Spain                                                | 1970-01-01          | 2022-04-01        |
+| QESPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Spain                                                | 1970-01-01          | 2022-04-01        |
+| QESPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Spain                                             | 1970-01-01          | 2022-04-01        |
+| QESPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Spain                                             | 1970-01-01          | 2022-04-01        |
+| QFICAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Finland                                                      | 1998-10-01          | 2022-04-01        |
+| QFICAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Finland                                                      | 1998-10-01          | 2022-04-01        |
+| QFICAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Finland                                                      | 1998-10-01          | 2022-04-01        |
+| QFIGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Finland                                                        | 1998-10-01          | 2022-04-01        |
+| QFIGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Finland                                                        | 1998-10-01          | 2022-04-01        |
+| QFIGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Finland                                                        | 1998-10-01          | 2022-04-01        |
+| QFIGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Finland                                                | 2000-01-01          | 2022-04-01        |
+| QFIGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Finland                                                | 2000-01-01          | 2022-04-01        |
+| QFIGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Finland                                                | 2000-01-01          | 2022-04-01        |
+| QFIHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Finland                                                     | 1970-10-01          | 2022-04-01        |
+| QFIHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Finland                                                     | 1970-10-01          | 2022-04-01        |
+| QFINAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Finland                                                | 1970-10-01          | 2022-04-01        |
+| QFINAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Finland                                                | 1970-10-01          | 2022-04-01        |
+| QFIPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Finland                                              | 1970-10-01          | 2022-04-01        |
+| QFIPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Finland                                              | 1970-10-01          | 2022-04-01        |
+| QFIPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Finland                                           | 1974-01-01          | 2022-04-01        |
+| QFIPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Finland                                           | 1974-01-01          | 2022-04-01        |
+| QFRCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for France                                                       | 1998-10-01          | 2022-04-01        |
+| QFRCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for France                                                       | 1998-10-01          | 2022-04-01        |
+| QFRCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for France                                                       | 1998-10-01          | 2022-04-01        |
+| QFRGAM770A       | Total Credit to General Government, Adjusted for Breaks, for France                                                         | 1998-10-01          | 2022-04-01        |
+| QFRGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for France                                                         | 1998-10-01          | 2022-04-01        |
+| QFRGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for France                                                         | 1998-10-01          | 2022-04-01        |
+| QFRGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for France                                                 | 2000-01-01          | 2022-04-01        |
+| QFRGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for France                                                 | 2000-01-01          | 2022-04-01        |
+| QFRGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for France                                                 | 2000-01-01          | 2022-04-01        |
+| QFRHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for France                                                      | 1977-10-01          | 2022-04-01        |
+| QFRHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for France                                                      | 1977-10-01          | 2022-04-01        |
+| QFRNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for France                                                 | 1977-10-01          | 2022-04-01        |
+| QFRNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for France                                                 | 1977-10-01          | 2022-04-01        |
+| QFRPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for France                                               | 1969-10-01          | 2022-04-01        |
+| QFRPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for France                                               | 1969-10-01          | 2022-04-01        |
+| QFRPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for France                                            | 1969-10-01          | 2022-04-01        |
+| QFRPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for France                                            | 1969-10-01          | 2022-04-01        |
+| QG2CAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                                | 2001-10-01          | 2022-04-01        |
+| QG2CAM799A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                                | 2001-10-01          | 2022-04-01        |
+| QG2CAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                                | 2001-10-01          | 2022-04-01        |
+| QG2GAM770A       | Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                                  | 2001-10-01          | 2022-04-01        |
+| QG2GAM799A       | Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                                  | 2001-10-01          | 2022-04-01        |
+| QG2GAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                                  | 2001-10-01          | 2022-04-01        |
+| QG2GAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                          | 2001-10-01          | 2022-04-01        |
+| QG2GAN799A       | Nominal Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                          | 2001-10-01          | 2022-04-01        |
+| QG2GANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for G20 Economies                                          | 2001-10-01          | 2022-04-01        |
+| QG2HAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for G20 Economies                                               | 2008-01-01          | 2022-04-01        |
+| QG2HAM799A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for G20 Economies                                               | 2008-01-01          | 2022-04-01        |
+| QG2HAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for G20 Economies                                               | 2008-01-01          | 2022-04-01        |
+| QG2NAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for G20 Economies                                          | 2008-01-01          | 2022-04-01        |
+| QG2NAM799A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for G20 Economies                                          | 2008-01-01          | 2022-04-01        |
+| QG2NAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for G20 Economies                                          | 2008-01-01          | 2022-04-01        |
+| QG2PAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                        | 1999-01-01          | 2022-04-01        |
+| QG2PAM799A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                        | 1999-01-01          | 2022-04-01        |
+| QG2PAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for G20 Economies                                        | 1999-01-01          | 2022-04-01        |
+| QG2PBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for G20 Economies                                     | 1997-07-01          | 2022-04-01        |
+| QG2PBM799A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for G20 Economies                                     | 1997-07-01          | 2022-04-01        |
+| QG2PBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for G20 Economies                                     | 1997-07-01          | 2022-04-01        |
+| QGBCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                               | 1966-01-01          | 2022-04-01        |
+| QGBCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                               | 1966-01-01          | 2022-04-01        |
+| QGBCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                               | 1966-01-01          | 2022-04-01        |
+| QGBGAM770A       | Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                                 | 1966-01-01          | 2022-04-01        |
+| QGBGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                                 | 1966-01-01          | 2022-04-01        |
+| QGBGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                                 | 1966-01-01          | 2022-04-01        |
+| QGBGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                         | 1966-01-01          | 2022-04-01        |
+| QGBGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                         | 1966-01-01          | 2022-04-01        |
+| QGBGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for United Kingdom                                         | 1966-01-01          | 2022-04-01        |
+| QGBHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for United Kingdom                                              | 1966-10-01          | 2022-04-01        |
+| QGBHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for United Kingdom                                              | 1966-10-01          | 2022-04-01        |
+| QGBNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United Kingdom                                         | 1976-01-01          | 2022-04-01        |
+| QGBNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United Kingdom                                         | 1976-01-01          | 2022-04-01        |
+| QGBPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                       | 1963-01-01          | 2022-04-01        |
+| QGBPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United Kingdom                                       | 1963-01-01          | 2022-04-01        |
+| QGBPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for United Kingdom                                    | 1963-01-01          | 2022-04-01        |
+| QGBPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for United Kingdom                                    | 1963-01-01          | 2022-04-01        |
+| QGRCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Greece                                                       | 1997-10-01          | 2022-04-01        |
+| QGRCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Greece                                                       | 1997-10-01          | 2022-04-01        |
+| QGRCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Greece                                                       | 1997-10-01          | 2022-04-01        |
+| QGRGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Greece                                                         | 1997-10-01          | 2022-04-01        |
+| QGRGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Greece                                                         | 1997-10-01          | 2022-04-01        |
+| QGRGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Greece                                                         | 1997-10-01          | 2022-04-01        |
+| QGRGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Greece                                                 | 2000-01-01          | 2022-04-01        |
+| QGRGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Greece                                                 | 2000-01-01          | 2022-04-01        |
+| QGRGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Greece                                                 | 2000-01-01          | 2022-04-01        |
+| QGRHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Greece                                                      | 1994-10-01          | 2022-04-01        |
+| QGRHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Greece                                                      | 1994-10-01          | 2022-04-01        |
+| QGRNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Greece                                                 | 1994-10-01          | 2022-04-01        |
+| QGRNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Greece                                                 | 1994-10-01          | 2022-04-01        |
+| QGRPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Greece                                               | 1970-10-01          | 2022-04-01        |
+| QGRPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Greece                                               | 1960-01-01          | 2022-04-01        |
+| QGRPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Greece                                            | 1970-10-01          | 2022-04-01        |
+| QGRPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Greece                                            | 1960-01-01          | 2022-04-01        |
+| QHKCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                                | 1999-01-01          | 2022-04-01        |
+| QHKCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                                | 1999-01-01          | 2022-04-01        |
+| QHKCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                                | 1999-01-01          | 2022-04-01        |
+| QHKGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hong Kong SAR                                          | 1999-01-01          | 2022-04-01        |
+| QHKGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hong Kong SAR                                          | 1999-01-01          | 2022-04-01        |
+| QHKGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hong Kong SAR                                          | 1999-01-01          | 2022-04-01        |
+| QHKHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Hong Kong SAR                                               | 1990-10-01          | 2022-04-01        |
+| QHKHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Hong Kong SAR                                               | 1990-10-01          | 2022-04-01        |
+| QHKNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hong Kong SAR                                          | 1990-10-01          | 2022-04-01        |
+| QHKNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hong Kong SAR                                          | 1990-10-01          | 2022-04-01        |
+| QHKPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                        | 1978-10-01          | 2022-04-01        |
+| QHKPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hong Kong SAR                                        | 1978-10-01          | 2022-04-01        |
+| QHKPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Hong Kong SAR                                     | 1978-10-01          | 2022-04-01        |
+| QHKPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Hong Kong SAR                                     | 1978-10-01          | 2022-04-01        |
+| QHUCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hungary                                                      | 1970-10-01          | 2022-04-01        |
+| QHUCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hungary                                                      | 1969-10-01          | 2022-04-01        |
+| QHUCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Hungary                                                      | 1969-10-01          | 2022-04-01        |
+| QHUGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Hungary                                                        | 1970-10-01          | 2022-04-01        |
+| QHUGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Hungary                                                        | 1969-10-01          | 2022-04-01        |
+| QHUGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Hungary                                                        | 1969-10-01          | 2022-04-01        |
+| QHUGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hungary                                                | 1970-10-01          | 2022-04-01        |
+| QHUGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hungary                                                | 1969-10-01          | 2022-04-01        |
+| QHUGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Hungary                                                | 1969-10-01          | 2022-04-01        |
+| QHUHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Hungary                                                     | 1970-10-01          | 2022-04-01        |
+| QHUHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Hungary                                                     | 1964-10-01          | 2022-04-01        |
+| QHUNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hungary                                                | 1970-10-01          | 2022-04-01        |
+| QHUNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Hungary                                                | 1969-10-01          | 2022-04-01        |
+| QHUPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hungary                                              | 1970-10-01          | 2022-04-01        |
+| QHUPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Hungary                                              | 1969-10-01          | 2022-04-01        |
+| QHUPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Hungary                                           | 1970-10-01          | 2022-04-01        |
+| QHUPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Hungary                                           | 1967-10-01          | 2022-04-01        |
+| QIDCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Indonesia                                                    | 2001-10-01          | 2022-04-01        |
+| QIDCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Indonesia                                                    | 2001-10-01          | 2022-04-01        |
+| QIDCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Indonesia                                                    | 2001-10-01          | 2022-04-01        |
+| QIDGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-04-01        |
+| QIDGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-04-01        |
+| QIDGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-04-01        |
+| QIDHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Indonesia                                                   | 2001-10-01          | 2022-04-01        |
+| QIDHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Indonesia                                                   | 2001-10-01          | 2022-04-01        |
+| QIDNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-04-01        |
+| QIDNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Indonesia                                              | 2001-10-01          | 2022-04-01        |
+| QIDPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Indonesia                                            | 1976-01-01          | 2022-04-01        |
+| QIDPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Indonesia                                            | 1976-01-01          | 2022-04-01        |
+| QIDPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Indonesia                                         | 1976-01-01          | 2022-04-01        |
+| QIDPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Indonesia                                         | 1976-01-01          | 2022-04-01        |
+| QIECAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Ireland                                                      | 1998-10-01          | 2022-04-01        |
+| QIECAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Ireland                                                      | 1998-10-01          | 2022-04-01        |
+| QIECAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Ireland                                                      | 1998-10-01          | 2022-04-01        |
+| QIEGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Ireland                                                        | 1998-10-01          | 2022-04-01        |
+| QIEGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Ireland                                                        | 1998-10-01          | 2022-04-01        |
+| QIEGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Ireland                                                        | 1998-10-01          | 2022-04-01        |
+| QIEGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Ireland                                                | 2000-01-01          | 2022-04-01        |
+| QIEGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Ireland                                                | 2000-01-01          | 2022-04-01        |
+| QIEGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Ireland                                                | 2000-01-01          | 2022-04-01        |
+| QIEHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Ireland                                                     | 2002-01-01          | 2022-04-01        |
+| QIEHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Ireland                                                     | 2002-01-01          | 2022-04-01        |
+| QIENAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Ireland                                                | 2002-01-01          | 2022-04-01        |
+| QIENAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Ireland                                                | 2002-01-01          | 2022-04-01        |
+| QIEPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Ireland                                              | 1971-04-01          | 2022-04-01        |
+| QIEPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Ireland                                              | 1971-04-01          | 2022-04-01        |
+| QIEPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Ireland                                           | 1971-04-01          | 2022-04-01        |
+| QIEPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Ireland                                           | 1971-04-01          | 2022-04-01        |
+| QILCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Israel                                                       | 1999-10-01          | 2022-04-01        |
+| QILCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Israel                                                       | 1999-10-01          | 2022-04-01        |
+| QILCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Israel                                                       | 1999-10-01          | 2022-04-01        |
+| QILGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Israel                                                         | 1999-10-01          | 2022-04-01        |
+| QILGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Israel                                                         | 1999-10-01          | 2022-04-01        |
+| QILGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Israel                                                         | 1999-10-01          | 2022-04-01        |
+| QILGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-04-01        |
+| QILGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-04-01        |
+| QILGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-04-01        |
+| QILHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Israel                                                      | 1992-07-01          | 2022-04-01        |
+| QILHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Israel                                                      | 1992-07-01          | 2022-04-01        |
+| QILHAMXDCA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Israel                                                      | 1992-07-01          | 2022-04-01        |
+| QILHAMXDCU       | Total Credit to Households and NPISHs, Unadjusted for Breaks, for Israel                                                    | 1992-07-01          | 2022-04-01        |
+| QILNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-04-01        |
+| QILNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-04-01        |
+| QILNAMXDCA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Israel                                                 | 1992-07-01          | 2022-04-01        |
+| QILNAMXDCU       | Total Credit to Non-Financial Corporations, Unadjusted for Breaks, for Israel                                               | 1992-07-01          | 2022-04-01        |
+| QILPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Israel                                               | 1990-10-01          | 2022-04-01        |
+| QILPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Israel                                               | 1981-04-01          | 2022-04-01        |
+| QILPAMXDCA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Israel                                               | 1981-04-01          | 2022-04-01        |
+| QILPAMXDCU       | Total Credit to Private Non-Financial Sector, Unadjusted for Breaks, for Israel                                             | 1981-04-01          | 2022-04-01        |
+| QILPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Israel                                            | 1990-10-01          | 2022-04-01        |
+| QILPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Israel                                            | 1981-04-01          | 2022-04-01        |
+| QILPBMXDCA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Israel                                            | 1981-04-01          | 2022-04-01        |
+| QILPBMXDCU       | Credit to Private Non-Financial Sector by Banks, Unadjusted for Breaks, for Israel                                          | 1981-04-01          | 2022-04-01        |
+| QINCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for India                                                        | 1981-01-01          | 2022-04-01        |
+| QINCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for India                                                        | 1981-01-01          | 2022-04-01        |
+| QINCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for India                                                        | 1981-01-01          | 2022-04-01        |
+| QINGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for India                                                  | 1981-01-01          | 2022-04-01        |
+| QINGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for India                                                  | 1981-01-01          | 2022-04-01        |
+| QINGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for India                                                  | 1981-01-01          | 2022-04-01        |
+| QINHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for India                                                       | 2007-04-01          | 2022-04-01        |
+| QINHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for India                                                       | 2007-04-01          | 2022-04-01        |
+| QINNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for India                                                  | 2007-04-01          | 2022-04-01        |
+| QINNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for India                                                  | 2007-04-01          | 2022-04-01        |
+| QINPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for India                                                | 1951-04-01          | 2022-04-01        |
+| QINPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for India                                                | 1957-01-01          | 2022-04-01        |
+| QINPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for India                                             | 1951-04-01          | 2022-04-01        |
+| QINPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for India                                             | 1957-01-01          | 2022-04-01        |
+| QITCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Italy                                                        | 1999-01-01          | 2022-04-01        |
+| QITCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Italy                                                        | 1999-01-01          | 2022-04-01        |
+| QITCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Italy                                                        | 1999-01-01          | 2022-04-01        |
+| QITGAM770A       | Total Credit to General Government, Adjusted for Breaks, for Italy                                                          | 1999-01-01          | 2022-04-01        |
+| QITGAMUSDA       | Total Credit to General Government, Adjusted for Breaks, for Italy                                                          | 1999-01-01          | 2022-04-01        |
+| QITGAMXDCA       | Total Credit to General Government, Adjusted for Breaks, for Italy                                                          | 1999-01-01          | 2022-04-01        |
+| QITGAN770A       | Nominal Total Credit to General Government, Adjusted for Breaks, for Italy                                                  | 2000-01-01          | 2022-04-01        |
+| QITGANUSDA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Italy                                                  | 2000-01-01          | 2022-04-01        |
+| QITGANXDCA       | Nominal Total Credit to General Government, Adjusted for Breaks, for Italy                                                  | 2000-01-01          | 2022-04-01        |
+| QITHAM770A       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Italy                                                       | 1960-10-01          | 2022-04-01        |
+| QITHAMUSDA       | Total Credit to Households and NPISHs, Adjusted for Breaks, for Italy                                                       | 1960-01-01          | 2022-04-01        |
+| QITNAM770A       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Italy                                                  | 1960-10-01          | 2022-04-01        |
+| QITNAMUSDA       | Total Credit to Non-Financial Corporations, Adjusted for Breaks, for Italy                                                  | 1960-01-01          | 2022-04-01        |
+| QITPAM770A       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Italy                                                | 1960-10-01          | 2022-04-01        |
+| QITPAMUSDA       | Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for Italy                                                | 1960-01-01          | 2022-04-01        |
+| QITPBM770A       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Italy                                             | 1974-10-01          | 2022-04-01        |
+| QITPBMUSDA       | Credit to Private Non-Financial Sector by Banks, Adjusted for Breaks, for Italy                                             | 1974-10-01          | 2022-04-01        |
+| QJPCAM770A       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Japan                                                        | 1997-10-01          | 2022-04-01        |
+| QJPCAMUSDA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Japan                                                        | 1997-10-01          | 2022-04-01        |
+| QJPCAMXDCA       | Total Credit to Non-Financial Sector, Adjusted for Breaks, for Japan                                                        | 1997-10-01          | 2022-04-01        |

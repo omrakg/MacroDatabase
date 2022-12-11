@@ -8,15 +8,15 @@
 | ENU4611320510         | Number of Private Establishments for All Industries in Shannon County, SD                      | 1990-01-01          | 2015-10-01        |
 | EQFXSUBPRIME046113    | Equifax Subprime Credit Population for Shannon County, SD                                      | 2014-04-01          | 2015-10-01        |
 | FBITC046113           | Combined Violent and Property Crime Offenses Known to Law Enforcement in Shannon County, SD    | 2014-01-01          | 2016-01-01        |
-| GDPALL46102           | Gross Domestic Product: All Industries in Oglala Lakota County, SD                             | 2001-01-01          | 2020-01-01        |
-| GDPGOODS46102         | Gross Domestic Product: Private Goods-Producing Industries in Oglala Lakota County, SD         | 2001-01-01          | 2020-01-01        |
-| GDPGOVT46102          | Gross Domestic Product: Government and Government Enterprises in Oglala Lakota County, SD      | 2001-01-01          | 2020-01-01        |
-| GDPSERV46102          | Gross Domestic Product: Private Services-Providing Industries in Oglala Lakota County, SD      | 2001-01-01          | 2020-01-01        |
+| GDPALL46102           | Gross Domestic Product: All Industries in Oglala Lakota County, SD                             | 2001-01-01          | 2021-01-01        |
+| GDPGOODS46102         | Gross Domestic Product: Private Goods-Producing Industries in Oglala Lakota County, SD         | 2001-01-01          | 2021-01-01        |
+| GDPGOVT46102          | Gross Domestic Product: Government and Government Enterprises in Oglala Lakota County, SD      | 2001-01-01          | 2021-01-01        |
+| GDPSERV46102          | Gross Domestic Product: Private Services-Providing Industries in Oglala Lakota County, SD      | 2001-01-01          | 2021-01-01        |
 | HC01ESTVC1646113      | High School Graduate or Higher (5-year estimate) in Shannon County, SD                         | 2010-01-01          | 2014-01-01        |
 | HC01ESTVC1746113      | Bachelor's Degree or Higher (5-year estimate) in Shannon County, SD                            | 2010-01-01          | 2014-01-01        |
 | LAUCN461020000000003A | Unemployment Rate in Oglala Lakota County, SD                                                  | 1990-01-01          | 2021-01-01        |
 | PI46102               | Personal Income in Oglala Lakota County, SD                                                    | 1969-01-01          | 2021-01-01        |
-| REALGDPALL46102       | Real Gross Domestic Product: All Industries in Oglala Lakota County, SD                        | 2001-01-01          | 2020-01-01        |
-| REALGDPGOODS46102     | Real Gross Domestic Product: Private Goods-Producing Industries in Oglala Lakota County, SD    | 2001-01-01          | 2020-01-01        |
-| REALGDPGOVT46102      | Real Gross Domestic Product: Government and Government Enterprises in Oglala Lakota County, SD | 2001-01-01          | 2020-01-01        |
-| REALGDPSERV46102      | Real Gross Domestic Product: Private Services-Providing Industries in Oglala Lakota County, SD | 2001-01-01          | 2020-01-01        |
+| REALGDPALL46102       | Real Gross Domestic Product: All Industries in Oglala Lakota County, SD                        | 2001-01-01          | 2021-01-01        |
+| REALGDPGOODS46102     | Real Gross Domestic Product: Private Goods-Producing Industries in Oglala Lakota County, SD    | 2001-01-01          | 2021-01-01        |
+| REALGDPGOVT46102      | Real Gross Domestic Product: Government and Government Enterprises in Oglala Lakota County, SD | 2001-01-01          | 2021-01-01        |
+| REALGDPSERV46102      | Real Gross Domestic Product: Private Services-Providing Industries in Oglala Lakota County, SD | 2001-01-01          | 2021-01-01        |

@@ -7,18 +7,18 @@
 | AVELISPRI49020            | Housing Inventory: Average Listing Price in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM49020          | Housing Inventory: Average Listing Price Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY49020          | Housing Inventory: Average Listing Price Year-Over-Year in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC490230010             | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC490230010SA           | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC490240010             | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC490240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC490240110             | Average Weekly Wages for Employees in Federal Government Establishments in Winchester, VA-WV (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC490240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Winchester, VA-WV (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC490240210             | Average Weekly Wages for Employees in State Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC490240210SA           | Average Weekly Wages for Employees in State Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC490240310             | Average Weekly Wages for Employees in Local Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC490240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC490240510             | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC490240510SA           | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC490230010             | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC490230010SA           | Total Quarterly Wages in Winchester, VA-WV (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC490240010             | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC490240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Winchester, VA-WV (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC490240110             | Average Weekly Wages for Employees in Federal Government Establishments in Winchester, VA-WV (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC490240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Winchester, VA-WV (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC490240210             | Average Weekly Wages for Employees in State Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC490240210SA           | Average Weekly Wages for Employees in State Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC490240310             | Average Weekly Wages for Employees in Local Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC490240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Winchester, VA-WV (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC490240510             | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC490240510SA           | Average Weekly Wages for Employees in Private Establishments in Winchester, VA-WV (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD49020                 | Implicit Regional Price Deflator for Winchester, VA-WV (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT514902000000003A     | Unemployment Rate in Winchester, VA-WV (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT514902000000004      | Unemployed Persons in Winchester, VA-WV (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU49020            | Housing Inventory: New Listing Count in Winchester, VA-WV (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM49020          | Housing Inventory: New Listing Count Month-Over-Month in Winchester, VA-WV (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY49020          | Housing Inventory: New Listing Count Year-Over-Year in Winchester, VA-WV (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP49020                 | Total Gross Domestic Product for Winchester, VA-WV (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP49020                 | Total Gross Domestic Product for Winchester, VA-WV (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA149020          | U.S. Granted Utility Patents Originating in Winchester, VA-WV (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU49020            | Housing Inventory: Pending Listing Count in Winchester, VA-WV (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM49020          | Housing Inventory: Pending Listing Count Month-Over-Month in Winchester, VA-WV (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -52,8 +52,8 @@
 | PRIREDCOU49020            | Housing Inventory: Price Reduced Count in Winchester, VA-WV (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM49020          | Housing Inventory: Price Reduced Count Month-Over-Month in Winchester, VA-WV (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY49020          | Housing Inventory: Price Reduced Count Year-Over-Year in Winchester, VA-WV (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP49020                 | Total Quantity Indexes for Real GDP for Winchester, VA-WV (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP49020                 | Total Real Gross Domestic Product for Winchester, VA-WV (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP49020                 | Total Quantity Indexes for Real GDP for Winchester, VA-WV (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP49020                 | Total Real Gross Domestic Product for Winchester, VA-WV (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI49020                  | Real Personal Income for Winchester, VA-WV (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC49020                | Real Per Capita Personal Income for Winchester, VA-WV (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL49020               | Regional Price Parities: All Items for Winchester, VA-WV (MSA)                                       | 2008-01-01          | 2020-01-01        |

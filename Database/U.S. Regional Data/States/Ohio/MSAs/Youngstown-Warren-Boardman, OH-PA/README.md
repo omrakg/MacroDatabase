@@ -8,18 +8,18 @@
 | AVELISPRIMM49660          | Housing Inventory: Average Listing Price Month-Over-Month in Youngstown-Warren-Boardman, OH-PA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY49660          | Housing Inventory: Average Listing Price Year-Over-Year in Youngstown-Warren-Boardman, OH-PA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA49660              | Market Hotness: Demand Score in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC496630010             | Total Quarterly Wages in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC496630010SA           | Total Quarterly Wages in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC496640010             | Average Weekly Wages for Employees in Total Covered Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC496640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC496640110             | Average Weekly Wages for Employees in Federal Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC496640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC496640210             | Average Weekly Wages for Employees in State Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC496640210SA           | Average Weekly Wages for Employees in State Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC496640310             | Average Weekly Wages for Employees in Local Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC496640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC496640510             | Average Weekly Wages for Employees in Private Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC496640510SA           | Average Weekly Wages for Employees in Private Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC496630010             | Total Quarterly Wages in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC496630010SA           | Total Quarterly Wages in Youngstown-Warren-Boardman, OH-PA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC496640010             | Average Weekly Wages for Employees in Total Covered Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC496640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC496640110             | Average Weekly Wages for Employees in Federal Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC496640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC496640210             | Average Weekly Wages for Employees in State Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC496640210SA           | Average Weekly Wages for Employees in State Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC496640310             | Average Weekly Wages for Employees in Local Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC496640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC496640510             | Average Weekly Wages for Employees in Private Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC496640510SA           | Average Weekly Wages for Employees in Private Establishments in Youngstown-Warren-Boardman, OH-PA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA49660            | Market Hotness: Hotness Rank in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA49660              | Market Hotness: Hotness Rank in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA49660            | Market Hotness: Hotness Rank in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -60,7 +60,7 @@
 | NEWLISCOU49660            | Housing Inventory: New Listing Count in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM49660          | Housing Inventory: New Listing Count Month-Over-Month in Youngstown-Warren-Boardman, OH-PA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY49660          | Housing Inventory: New Listing Count Year-Over-Year in Youngstown-Warren-Boardman, OH-PA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP49660                 | Total Gross Domestic Product for Youngstown-Warren-Boardman, OH-PA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP49660                 | Total Gross Domestic Product for Youngstown-Warren-Boardman, OH-PA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA49660            | Market Hotness: Nielsen Household Rank in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA149660          | U.S. Granted Utility Patents Originating in Youngstown-Warren-Boardman, OH-PA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU49660            | Housing Inventory: Pending Listing Count in Youngstown-Warren-Boardman, OH-PA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -72,8 +72,8 @@
 | PRIREDCOU49660            | Housing Inventory: Price Reduced Count in Youngstown-Warren-Boardman, OH-PA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM49660          | Housing Inventory: Price Reduced Count Month-Over-Month in Youngstown-Warren-Boardman, OH-PA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY49660          | Housing Inventory: Price Reduced Count Year-Over-Year in Youngstown-Warren-Boardman, OH-PA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP49660                 | Total Quantity Indexes for Real GDP for Youngstown-Warren-Boardman, OH-PA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP49660                 | Total Real Gross Domestic Product for Youngstown-Warren-Boardman, OH-PA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP49660                 | Total Quantity Indexes for Real GDP for Youngstown-Warren-Boardman, OH-PA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP49660                 | Total Real Gross Domestic Product for Youngstown-Warren-Boardman, OH-PA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI49660                  | Real Personal Income for Youngstown-Warren-Boardman, OH-PA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC49660                | Real Per Capita Personal Income for Youngstown-Warren-Boardman, OH-PA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL49660               | Regional Price Parities: All Items for Youngstown-Warren-Boardman, OH-PA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

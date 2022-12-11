@@ -39,18 +39,18 @@
 | CAPE912UR                 | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | CAPE912URN                | Unemployment Rate in Cape Coral-Fort Myers, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | DESCMSA15980              | Market Hotness: Demand Score in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC159830010             | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC159830010SA           | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC159840010             | Average Weekly Wages for Employees in Total Covered Establishments in Cape Coral-Fort Myers, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC159840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cape Coral-Fort Myers, FL (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC159840110             | Average Weekly Wages for Employees in Federal Government Establishments in Cape Coral-Fort Myers, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC159840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cape Coral-Fort Myers, FL (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC159840210             | Average Weekly Wages for Employees in State Government Establishments in Cape Coral-Fort Myers, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC159840210SA           | Average Weekly Wages for Employees in State Government Establishments in Cape Coral-Fort Myers, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC159840310             | Average Weekly Wages for Employees in Local Government Establishments in Cape Coral-Fort Myers, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC159840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cape Coral-Fort Myers, FL (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC159840510             | Average Weekly Wages for Employees in Private Establishments in Cape Coral-Fort Myers, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC159840510SA           | Average Weekly Wages for Employees in Private Establishments in Cape Coral-Fort Myers, FL (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC159830010             | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC159830010SA           | Total Quarterly Wages in Cape Coral-Fort Myers, FL (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC159840010             | Average Weekly Wages for Employees in Total Covered Establishments in Cape Coral-Fort Myers, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC159840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Cape Coral-Fort Myers, FL (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC159840110             | Average Weekly Wages for Employees in Federal Government Establishments in Cape Coral-Fort Myers, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC159840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Cape Coral-Fort Myers, FL (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC159840210             | Average Weekly Wages for Employees in State Government Establishments in Cape Coral-Fort Myers, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC159840210SA           | Average Weekly Wages for Employees in State Government Establishments in Cape Coral-Fort Myers, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC159840310             | Average Weekly Wages for Employees in Local Government Establishments in Cape Coral-Fort Myers, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC159840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Cape Coral-Fort Myers, FL (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC159840510             | Average Weekly Wages for Employees in Private Establishments in Cape Coral-Fort Myers, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC159840510SA           | Average Weekly Wages for Employees in Private Establishments in Cape Coral-Fort Myers, FL (MSA)                            | 1990-01-01          | 2022-04-01        |
 | FTMPOP                    | Resident Population in Cape Coral-Fort Myers, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | HORAMMMSA15980            | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA15980              | Market Hotness: Hotness Rank in Cape Coral-Fort Myers, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
@@ -92,7 +92,7 @@
 | NEWLISCOU15980            | Housing Inventory: New Listing Count in Cape Coral-Fort Myers, FL (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM15980          | Housing Inventory: New Listing Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY15980          | Housing Inventory: New Listing Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP15980                 | Total Gross Domestic Product for Cape Coral-Fort Myers, FL (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP15980                 | Total Gross Domestic Product for Cape Coral-Fort Myers, FL (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA15980            | Market Hotness: Nielsen Household Rank in Cape Coral-Fort Myers, FL (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA115980          | U.S. Granted Utility Patents Originating in Cape Coral-Fort Myers, FL (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU15980            | Housing Inventory: Pending Listing Count in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -104,8 +104,8 @@
 | PRIREDCOU15980            | Housing Inventory: Price Reduced Count in Cape Coral-Fort Myers, FL (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM15980          | Housing Inventory: Price Reduced Count Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY15980          | Housing Inventory: Price Reduced Count Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP15980                 | Total Quantity Indexes for Real GDP for Cape Coral-Fort Myers, FL (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP15980                 | Total Real Gross Domestic Product for Cape Coral-Fort Myers, FL (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP15980                 | Total Quantity Indexes for Real GDP for Cape Coral-Fort Myers, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP15980                 | Total Real Gross Domestic Product for Cape Coral-Fort Myers, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI15980                  | Real Personal Income for Cape Coral-Fort Myers, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC15980                | Real Per Capita Personal Income for Cape Coral-Fort Myers, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL15980               | Regional Price Parities: All Items for Cape Coral-Fort Myers, FL (MSA)                                                     | 2008-01-01          | 2020-01-01        |

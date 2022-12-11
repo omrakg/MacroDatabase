@@ -8,18 +8,18 @@
 | AVELISPRIMM36220          | Housing Inventory: Average Listing Price Month-Over-Month in Odessa, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY36220          | Housing Inventory: Average Listing Price Year-Over-Year in Odessa, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA36220              | Market Hotness: Demand Score in Odessa, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC362230010             | Total Quarterly Wages in Odessa, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC362230010SA           | Total Quarterly Wages in Odessa, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC362240010             | Average Weekly Wages for Employees in Total Covered Establishments in Odessa, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC362240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Odessa, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC362240110             | Average Weekly Wages for Employees in Federal Government Establishments in Odessa, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC362240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Odessa, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC362240210             | Average Weekly Wages for Employees in State Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC362240210SA           | Average Weekly Wages for Employees in State Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC362240310             | Average Weekly Wages for Employees in Local Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC362240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC362240510             | Average Weekly Wages for Employees in Private Establishments in Odessa, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC362240510SA           | Average Weekly Wages for Employees in Private Establishments in Odessa, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC362230010             | Total Quarterly Wages in Odessa, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC362230010SA           | Total Quarterly Wages in Odessa, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC362240010             | Average Weekly Wages for Employees in Total Covered Establishments in Odessa, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC362240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Odessa, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC362240110             | Average Weekly Wages for Employees in Federal Government Establishments in Odessa, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC362240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Odessa, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC362240210             | Average Weekly Wages for Employees in State Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC362240210SA           | Average Weekly Wages for Employees in State Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC362240310             | Average Weekly Wages for Employees in Local Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC362240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Odessa, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC362240510             | Average Weekly Wages for Employees in Private Establishments in Odessa, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC362240510SA           | Average Weekly Wages for Employees in Private Establishments in Odessa, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA36220            | Market Hotness: Hotness Rank in Odessa, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA36220              | Market Hotness: Hotness Rank in Odessa, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA36220            | Market Hotness: Hotness Rank in Odessa, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU36220            | Housing Inventory: New Listing Count in Odessa, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM36220          | Housing Inventory: New Listing Count Month-Over-Month in Odessa, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY36220          | Housing Inventory: New Listing Count Year-Over-Year in Odessa, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP36220                 | Total Gross Domestic Product for Odessa, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP36220                 | Total Gross Domestic Product for Odessa, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA36220            | Market Hotness: Nielsen Household Rank in Odessa, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | ODEPOP                    | Resident Population in Odessa, TX (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | ODES248BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Odessa, TX (MSA)            | 1988-01-01          | 2022-10-01        |
@@ -107,8 +107,8 @@
 | PRIREDCOU36220            | Housing Inventory: Price Reduced Count in Odessa, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM36220          | Housing Inventory: Price Reduced Count Month-Over-Month in Odessa, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY36220          | Housing Inventory: Price Reduced Count Year-Over-Year in Odessa, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP36220                 | Total Quantity Indexes for Real GDP for Odessa, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP36220                 | Total Real Gross Domestic Product for Odessa, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP36220                 | Total Quantity Indexes for Real GDP for Odessa, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP36220                 | Total Real Gross Domestic Product for Odessa, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI36220                  | Real Personal Income for Odessa, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC36220                | Real Per Capita Personal Income for Odessa, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL36220               | Regional Price Parities: All Items for Odessa, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

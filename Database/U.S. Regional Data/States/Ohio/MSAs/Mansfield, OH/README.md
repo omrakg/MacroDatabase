@@ -7,18 +7,18 @@
 | AVELISPRI31900            | Housing Inventory: Average Listing Price in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM31900          | Housing Inventory: Average Listing Price Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY31900          | Housing Inventory: Average Listing Price Year-Over-Year in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-11-01        |
-| ENUC319030010             | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC319030010SA           | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC319040010             | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC319040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC319040110             | Average Weekly Wages for Employees in Federal Government Establishments in Mansfield, OH (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC319040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mansfield, OH (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC319040210             | Average Weekly Wages for Employees in State Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC319040210SA           | Average Weekly Wages for Employees in State Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC319040310             | Average Weekly Wages for Employees in Local Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC319040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC319040510             | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC319040510SA           | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC319030010             | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC319030010SA           | Total Quarterly Wages in Mansfield, OH (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC319040010             | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC319040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Mansfield, OH (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC319040110             | Average Weekly Wages for Employees in Federal Government Establishments in Mansfield, OH (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC319040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Mansfield, OH (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC319040210             | Average Weekly Wages for Employees in State Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC319040210SA           | Average Weekly Wages for Employees in State Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC319040310             | Average Weekly Wages for Employees in Local Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC319040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mansfield, OH (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC319040510             | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC319040510SA           | Average Weekly Wages for Employees in Private Establishments in Mansfield, OH (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD31900                 | Implicit Regional Price Deflator for Mansfield, OH (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT393190000000003A     | Unemployment Rate in Mansfield, OH (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT393190000000004      | Unemployed Persons in Mansfield, OH (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -67,7 +67,7 @@
 | NEWLISCOU31900            | Housing Inventory: New Listing Count in Mansfield, OH (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM31900          | Housing Inventory: New Listing Count Month-Over-Month in Mansfield, OH (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY31900          | Housing Inventory: New Listing Count Year-Over-Year in Mansfield, OH (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP31900                 | Total Gross Domestic Product for Mansfield, OH (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP31900                 | Total Gross Domestic Product for Mansfield, OH (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA131900          | U.S. Granted Utility Patents Originating in Mansfield, OH (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU31900            | Housing Inventory: Pending Listing Count in Mansfield, OH (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM31900          | Housing Inventory: Pending Listing Count Month-Over-Month in Mansfield, OH (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -78,8 +78,8 @@
 | PRIREDCOU31900            | Housing Inventory: Price Reduced Count in Mansfield, OH (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM31900          | Housing Inventory: Price Reduced Count Month-Over-Month in Mansfield, OH (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY31900          | Housing Inventory: Price Reduced Count Year-Over-Year in Mansfield, OH (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP31900                 | Total Quantity Indexes for Real GDP for Mansfield, OH (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP31900                 | Total Real Gross Domestic Product for Mansfield, OH (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP31900                 | Total Quantity Indexes for Real GDP for Mansfield, OH (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP31900                 | Total Real Gross Domestic Product for Mansfield, OH (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI31900                  | Real Personal Income for Mansfield, OH (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC31900                | Real Per Capita Personal Income for Mansfield, OH (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL31900               | Regional Price Parities: All Items for Mansfield, OH (MSA)                                       | 2008-01-01          | 2020-01-01        |

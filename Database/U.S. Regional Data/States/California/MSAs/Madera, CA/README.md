@@ -7,18 +7,18 @@
 | AVELISPRI31460            | Housing Inventory: Average Listing Price in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM31460          | Housing Inventory: Average Listing Price Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY31460          | Housing Inventory: Average Listing Price Year-Over-Year in Madera, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC314630010             | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC314630010SA           | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC314640010             | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC314640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC314640110             | Average Weekly Wages for Employees in Federal Government Establishments in Madera, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC314640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Madera, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC314640210             | Average Weekly Wages for Employees in State Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC314640210SA           | Average Weekly Wages for Employees in State Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC314640310             | Average Weekly Wages for Employees in Local Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC314640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC314640510             | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC314640510SA           | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC314630010             | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC314630010SA           | Total Quarterly Wages in Madera, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC314640010             | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC314640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Madera, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC314640110             | Average Weekly Wages for Employees in Federal Government Establishments in Madera, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC314640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Madera, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC314640210             | Average Weekly Wages for Employees in State Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC314640210SA           | Average Weekly Wages for Employees in State Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC314640310             | Average Weekly Wages for Employees in Local Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC314640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Madera, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC314640510             | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC314640510SA           | Average Weekly Wages for Employees in Private Establishments in Madera, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD31460                 | Implicit Regional Price Deflator for Madera, CA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT063146000000003A     | Unemployment Rate in Madera, CA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT063146000000004      | Unemployed Persons in Madera, CA (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU31460            | Housing Inventory: New Listing Count in Madera, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM31460          | Housing Inventory: New Listing Count Month-Over-Month in Madera, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY31460          | Housing Inventory: New Listing Count Year-Over-Year in Madera, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP31460                 | Total Gross Domestic Product for Madera, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP31460                 | Total Gross Domestic Product for Madera, CA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA131460          | U.S. Granted Utility Patents Originating in Madera-Chowchilla, CA (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU31460            | Housing Inventory: Pending Listing Count in Madera, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM31460          | Housing Inventory: Pending Listing Count Month-Over-Month in Madera, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU31460            | Housing Inventory: Price Reduced Count in Madera, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM31460          | Housing Inventory: Price Reduced Count Month-Over-Month in Madera, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY31460          | Housing Inventory: Price Reduced Count Year-Over-Year in Madera, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP31460                 | Total Quantity Indexes for Real GDP for Madera, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP31460                 | Total Real Gross Domestic Product for Madera, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP31460                 | Total Quantity Indexes for Real GDP for Madera, CA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP31460                 | Total Real Gross Domestic Product for Madera, CA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI31460                  | Real Personal Income for Madera, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC31460                | Real Per Capita Personal Income for Madera, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL31460               | Regional Price Parities: All Items for Madera, CA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

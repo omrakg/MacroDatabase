@@ -19,18 +19,18 @@
 | DUBU219TRADN              | All Employees: Trade, Transportation, and Utilities in Dubuque, IA (MSA)                       | 2004-01-01          | 2022-10-01        |
 | DUBU219UR                 | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | DUBU219URN                | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
-| ENUC202230010             | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC202230010SA           | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC202240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC202240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC202240110             | Average Weekly Wages for Employees in Federal Government Establishments in Dubuque, IA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC202240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dubuque, IA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC202240210             | Average Weekly Wages for Employees in State Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC202240210SA           | Average Weekly Wages for Employees in State Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC202240310             | Average Weekly Wages for Employees in Local Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC202240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC202240510             | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC202240510SA           | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC202230010             | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC202230010SA           | Total Quarterly Wages in Dubuque, IA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC202240010             | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC202240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Dubuque, IA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC202240110             | Average Weekly Wages for Employees in Federal Government Establishments in Dubuque, IA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC202240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Dubuque, IA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC202240210             | Average Weekly Wages for Employees in State Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC202240210SA           | Average Weekly Wages for Employees in State Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC202240310             | Average Weekly Wages for Employees in Local Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC202240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Dubuque, IA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC202240510             | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC202240510SA           | Average Weekly Wages for Employees in Private Establishments in Dubuque, IA (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD20220                 | Implicit Regional Price Deflator for Dubuque, IA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT192022000000003A     | Unemployment Rate in Dubuque, IA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT192022000000004      | Unemployed Persons in Dubuque, IA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -53,7 +53,7 @@
 | NEWLISCOU20220            | Housing Inventory: New Listing Count in Dubuque, IA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM20220          | Housing Inventory: New Listing Count Month-Over-Month in Dubuque, IA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY20220          | Housing Inventory: New Listing Count Year-Over-Year in Dubuque, IA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP20220                 | Total Gross Domestic Product for Dubuque, IA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP20220                 | Total Gross Domestic Product for Dubuque, IA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA120220          | U.S. Granted Utility Patents Originating in Dubuque, IA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU20220            | Housing Inventory: Pending Listing Count in Dubuque, IA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM20220          | Housing Inventory: Pending Listing Count Month-Over-Month in Dubuque, IA (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -64,8 +64,8 @@
 | PRIREDCOU20220            | Housing Inventory: Price Reduced Count in Dubuque, IA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM20220          | Housing Inventory: Price Reduced Count Month-Over-Month in Dubuque, IA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY20220          | Housing Inventory: Price Reduced Count Year-Over-Year in Dubuque, IA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP20220                 | Total Quantity Indexes for Real GDP for Dubuque, IA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP20220                 | Total Real Gross Domestic Product for Dubuque, IA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP20220                 | Total Quantity Indexes for Real GDP for Dubuque, IA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP20220                 | Total Real Gross Domestic Product for Dubuque, IA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI20220                  | Real Personal Income for Dubuque, IA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC20220                | Real Per Capita Personal Income for Dubuque, IA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL20220               | Regional Price Parities: All Items for Dubuque, IA (MSA)                                       | 2008-01-01          | 2020-01-01        |

@@ -8,18 +8,18 @@
 | AVELISPRIMM29700          | Housing Inventory: Average Listing Price Month-Over-Month in Laredo, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY29700          | Housing Inventory: Average Listing Price Year-Over-Year in Laredo, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA29700              | Market Hotness: Demand Score in Laredo, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC297030010             | Total Quarterly Wages in Laredo, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC297030010SA           | Total Quarterly Wages in Laredo, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC297040010             | Average Weekly Wages for Employees in Total Covered Establishments in Laredo, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC297040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Laredo, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC297040110             | Average Weekly Wages for Employees in Federal Government Establishments in Laredo, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC297040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Laredo, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC297040210             | Average Weekly Wages for Employees in State Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC297040210SA           | Average Weekly Wages for Employees in State Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC297040310             | Average Weekly Wages for Employees in Local Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC297040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC297040510             | Average Weekly Wages for Employees in Private Establishments in Laredo, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC297040510SA           | Average Weekly Wages for Employees in Private Establishments in Laredo, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC297030010             | Total Quarterly Wages in Laredo, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC297030010SA           | Total Quarterly Wages in Laredo, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC297040010             | Average Weekly Wages for Employees in Total Covered Establishments in Laredo, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC297040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Laredo, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC297040110             | Average Weekly Wages for Employees in Federal Government Establishments in Laredo, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC297040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Laredo, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC297040210             | Average Weekly Wages for Employees in State Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC297040210SA           | Average Weekly Wages for Employees in State Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC297040310             | Average Weekly Wages for Employees in Local Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC297040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Laredo, TX (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC297040510             | Average Weekly Wages for Employees in Private Establishments in Laredo, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC297040510SA           | Average Weekly Wages for Employees in Private Establishments in Laredo, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA29700            | Market Hotness: Hotness Rank in Laredo, TX (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA29700              | Market Hotness: Hotness Rank in Laredo, TX (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA29700            | Market Hotness: Hotness Rank in Laredo, TX (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -147,7 +147,7 @@
 | NEWLISCOU29700            | Housing Inventory: New Listing Count in Laredo, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM29700          | Housing Inventory: New Listing Count Month-Over-Month in Laredo, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY29700          | Housing Inventory: New Listing Count Year-Over-Year in Laredo, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP29700                 | Total Gross Domestic Product for Laredo, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP29700                 | Total Gross Domestic Product for Laredo, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA29700            | Market Hotness: Nielsen Household Rank in Laredo, TX (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA129700          | U.S. Granted Utility Patents Originating in Laredo, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU29700            | Housing Inventory: Pending Listing Count in Laredo, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -159,8 +159,8 @@
 | PRIREDCOU29700            | Housing Inventory: Price Reduced Count in Laredo, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM29700          | Housing Inventory: Price Reduced Count Month-Over-Month in Laredo, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY29700          | Housing Inventory: Price Reduced Count Year-Over-Year in Laredo, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP29700                 | Total Quantity Indexes for Real GDP for Laredo, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP29700                 | Total Real Gross Domestic Product for Laredo, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP29700                 | Total Quantity Indexes for Real GDP for Laredo, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP29700                 | Total Real Gross Domestic Product for Laredo, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI29700                  | Real Personal Income for Laredo, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC29700                | Real Per Capita Personal Income for Laredo, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL29700               | Regional Price Parities: All Items for Laredo, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

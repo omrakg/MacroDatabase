@@ -8,18 +8,18 @@
 | AVELISPRIMM42140          | Housing Inventory: Average Listing Price Month-Over-Month in Santa Fe, NM (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY42140          | Housing Inventory: Average Listing Price Year-Over-Year in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA42140              | Market Hotness: Demand Score in Santa Fe, NM (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC421430010             | Total Quarterly Wages in Santa Fe, NM (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC421430010SA           | Total Quarterly Wages in Santa Fe, NM (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC421440010             | Average Weekly Wages for Employees in Total Covered Establishments in Santa Fe, NM (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC421440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Santa Fe, NM (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC421440110             | Average Weekly Wages for Employees in Federal Government Establishments in Santa Fe, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC421440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Santa Fe, NM (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC421440210             | Average Weekly Wages for Employees in State Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC421440210SA           | Average Weekly Wages for Employees in State Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC421440310             | Average Weekly Wages for Employees in Local Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC421440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC421440510             | Average Weekly Wages for Employees in Private Establishments in Santa Fe, NM (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC421440510SA           | Average Weekly Wages for Employees in Private Establishments in Santa Fe, NM (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC421430010             | Total Quarterly Wages in Santa Fe, NM (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC421430010SA           | Total Quarterly Wages in Santa Fe, NM (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC421440010             | Average Weekly Wages for Employees in Total Covered Establishments in Santa Fe, NM (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC421440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Santa Fe, NM (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC421440110             | Average Weekly Wages for Employees in Federal Government Establishments in Santa Fe, NM (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC421440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Santa Fe, NM (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC421440210             | Average Weekly Wages for Employees in State Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC421440210SA           | Average Weekly Wages for Employees in State Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC421440310             | Average Weekly Wages for Employees in Local Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC421440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Santa Fe, NM (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC421440510             | Average Weekly Wages for Employees in Private Establishments in Santa Fe, NM (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC421440510SA           | Average Weekly Wages for Employees in Private Establishments in Santa Fe, NM (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA42140            | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA42140              | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA42140            | Market Hotness: Hotness Rank in Santa Fe, NM (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU42140            | Housing Inventory: New Listing Count in Santa Fe, NM (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM42140          | Housing Inventory: New Listing Count Month-Over-Month in Santa Fe, NM (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY42140          | Housing Inventory: New Listing Count Year-Over-Year in Santa Fe, NM (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP42140                 | Total Gross Domestic Product for Santa Fe, NM (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP42140                 | Total Gross Domestic Product for Santa Fe, NM (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA42140            | Market Hotness: Nielsen Household Rank in Santa Fe, NM (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA142140          | U.S. Granted Utility Patents Originating in Santa Fe, NM (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU42140            | Housing Inventory: Pending Listing Count in Santa Fe, NM (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU42140            | Housing Inventory: Price Reduced Count in Santa Fe, NM (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM42140          | Housing Inventory: Price Reduced Count Month-Over-Month in Santa Fe, NM (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY42140          | Housing Inventory: Price Reduced Count Year-Over-Year in Santa Fe, NM (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP42140                 | Total Quantity Indexes for Real GDP for Santa Fe, NM (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP42140                 | Total Real Gross Domestic Product for Santa Fe, NM (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP42140                 | Total Quantity Indexes for Real GDP for Santa Fe, NM (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP42140                 | Total Real Gross Domestic Product for Santa Fe, NM (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI42140                  | Real Personal Income for Santa Fe, NM (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC42140                | Real Per Capita Personal Income for Santa Fe, NM (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL42140               | Regional Price Parities: All Items for Santa Fe, NM (MSA)                                                     | 2008-01-01          | 2020-01-01        |

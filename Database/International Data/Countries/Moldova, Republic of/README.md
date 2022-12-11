@@ -76,7 +76,7 @@
 | DDSI07MDA156NWDB    | Provisions to Non-Performing Loans for Republic of Moldova                                                                                     | 2002-01-01          | 2019-01-01        |
 | DEBTTLMDA188A       | Central government debt, total (% of GDP) for Moldova                                                                                          | 1995-01-01          | 2020-01-01        |
 | DEMDAA475SCEN       | Number of Identified Exporters to Republic of Moldova from Delaware                                                                            | 2002-01-01          | 2015-01-01        |
-| EXP4641             | U.S. Exports of Goods by F.A.S. Basis to Moldova                                                                                               | 1992-01-01          | 2022-09-01        |
+| EXP4641             | U.S. Exports of Goods by F.A.S. Basis to Moldova                                                                                               | 1992-01-01          | 2022-10-01        |
 | FLMDAA052SCEN       | Value of Exports to Republic of Moldova from Florida                                                                                           | 2002-01-01          | 2016-01-01        |
 | FLMDAA475SCEN       | Number of Identified Exporters to Republic of Moldova from Florida                                                                             | 1997-01-01          | 2016-01-01        |
 | FPCPITOTLZGMDA      | Inflation, consumer prices for the Republic of Moldova                                                                                         | 1992-01-01          | 2021-01-01        |
@@ -97,7 +97,7 @@
 | IDSGAMRINIMD        | Net Issues of International Debt Securities for Issuers in General Government Sector, All Maturities, Residence of Issuer in Moldova           | 1996-10-01          | 2002-04-01        |
 | ILMDAA052SCEN       | Value of Exports to Republic of Moldova from Illinois                                                                                          | 2002-01-01          | 2016-01-01        |
 | ILMDAA475SCEN       | Number of Identified Exporters to Republic of Moldova from Illinois                                                                            | 1997-01-01          | 2016-01-01        |
-| IMP4641             | U.S. Imports of Goods by Customs Basis from Moldova                                                                                            | 1992-01-01          | 2022-09-01        |
+| IMP4641             | U.S. Imports of Goods by Customs Basis from Moldova                                                                                            | 1992-01-01          | 2022-10-01        |
 | INMDAA052SCEN       | Value of Exports to Republic of Moldova from Indiana                                                                                           | 2002-01-01          | 2015-01-01        |
 | INMDAA475SCEN       | Number of Identified Exporters to Republic of Moldova from Indiana                                                                             | 1997-01-01          | 2016-01-01        |
 | ITNETUSERP2MDA      | Internet users for the Republic of Moldova                                                                                                     | 1990-01-01          | 2017-01-01        |

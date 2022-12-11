@@ -8,18 +8,18 @@
 | AVELISPRIMM45820          | Housing Inventory: Average Listing Price Month-Over-Month in Topeka, KS (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY45820          | Housing Inventory: Average Listing Price Year-Over-Year in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA45820              | Market Hotness: Demand Score in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC458230010             | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC458230010SA           | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC458240010             | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC458240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC458240110             | Average Weekly Wages for Employees in Federal Government Establishments in Topeka, KS (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC458240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Topeka, KS (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC458240210             | Average Weekly Wages for Employees in State Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC458240210SA           | Average Weekly Wages for Employees in State Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC458240310             | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC458240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC458240510             | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC458240510SA           | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC458230010             | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC458230010SA           | Total Quarterly Wages in Topeka, KS (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC458240010             | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC458240010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Topeka, KS (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC458240110             | Average Weekly Wages for Employees in Federal Government Establishments in Topeka, KS (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC458240110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Topeka, KS (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC458240210             | Average Weekly Wages for Employees in State Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC458240210SA           | Average Weekly Wages for Employees in State Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC458240310             | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC458240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Topeka, KS (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC458240510             | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC458240510SA           | Average Weekly Wages for Employees in Private Establishments in Topeka, KS (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA45820              | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA45820            | Market Hotness: Hotness Rank in Topeka, KS (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU45820            | Housing Inventory: New Listing Count in Topeka, KS (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM45820          | Housing Inventory: New Listing Count Month-Over-Month in Topeka, KS (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY45820          | Housing Inventory: New Listing Count Year-Over-Year in Topeka, KS (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP45820                 | Total Gross Domestic Product for Topeka, KS (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP45820                 | Total Gross Domestic Product for Topeka, KS (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA45820            | Market Hotness: Nielsen Household Rank in Topeka, KS (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA145820          | U.S. Granted Utility Patents Originating in Topeka, KS (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU45820            | Housing Inventory: Pending Listing Count in Topeka, KS (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU45820            | Housing Inventory: Price Reduced Count in Topeka, KS (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM45820          | Housing Inventory: Price Reduced Count Month-Over-Month in Topeka, KS (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY45820          | Housing Inventory: Price Reduced Count Year-Over-Year in Topeka, KS (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP45820                 | Total Quantity Indexes for Real GDP for Topeka, KS (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP45820                 | Total Real Gross Domestic Product for Topeka, KS (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP45820                 | Total Quantity Indexes for Real GDP for Topeka, KS (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP45820                 | Total Real Gross Domestic Product for Topeka, KS (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI45820                  | Real Personal Income for Topeka, KS (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC45820                | Real Per Capita Personal Income for Topeka, KS (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL45820               | Regional Price Parities: All Items for Topeka, KS (MSA)                                                     | 2008-01-01          | 2020-01-01        |

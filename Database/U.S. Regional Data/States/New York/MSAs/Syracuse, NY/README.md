@@ -8,18 +8,18 @@
 | AVELISPRIMM45060          | Housing Inventory: Average Listing Price Month-Over-Month in Syracuse, NY (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY45060          | Housing Inventory: Average Listing Price Year-Over-Year in Syracuse, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA45060              | Market Hotness: Demand Score in Syracuse, NY (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC450630010             | Total Quarterly Wages in Syracuse, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC450630010SA           | Total Quarterly Wages in Syracuse, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC450640010             | Average Weekly Wages for Employees in Total Covered Establishments in Syracuse, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC450640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Syracuse, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC450640110             | Average Weekly Wages for Employees in Federal Government Establishments in Syracuse, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC450640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Syracuse, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC450640210             | Average Weekly Wages for Employees in State Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC450640210SA           | Average Weekly Wages for Employees in State Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC450640310             | Average Weekly Wages for Employees in Local Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC450640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC450640510             | Average Weekly Wages for Employees in Private Establishments in Syracuse, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC450640510SA           | Average Weekly Wages for Employees in Private Establishments in Syracuse, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC450630010             | Total Quarterly Wages in Syracuse, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC450630010SA           | Total Quarterly Wages in Syracuse, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC450640010             | Average Weekly Wages for Employees in Total Covered Establishments in Syracuse, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC450640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Syracuse, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC450640110             | Average Weekly Wages for Employees in Federal Government Establishments in Syracuse, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC450640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Syracuse, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC450640210             | Average Weekly Wages for Employees in State Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC450640210SA           | Average Weekly Wages for Employees in State Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC450640310             | Average Weekly Wages for Employees in Local Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC450640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Syracuse, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC450640510             | Average Weekly Wages for Employees in Private Establishments in Syracuse, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC450640510SA           | Average Weekly Wages for Employees in Private Establishments in Syracuse, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA45060            | Market Hotness: Hotness Rank in Syracuse, NY (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA45060              | Market Hotness: Hotness Rank in Syracuse, NY (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA45060            | Market Hotness: Hotness Rank in Syracuse, NY (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -60,7 +60,7 @@
 | NEWLISCOU45060            | Housing Inventory: New Listing Count in Syracuse, NY (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM45060          | Housing Inventory: New Listing Count Month-Over-Month in Syracuse, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY45060          | Housing Inventory: New Listing Count Year-Over-Year in Syracuse, NY (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP45060                 | Total Gross Domestic Product for Syracuse, NY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP45060                 | Total Gross Domestic Product for Syracuse, NY (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA45060            | Market Hotness: Nielsen Household Rank in Syracuse, NY (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA145060          | U.S. Granted Utility Patents Originating in Syracuse, NY (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU45060            | Housing Inventory: Pending Listing Count in Syracuse, NY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -72,8 +72,8 @@
 | PRIREDCOU45060            | Housing Inventory: Price Reduced Count in Syracuse, NY (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM45060          | Housing Inventory: Price Reduced Count Month-Over-Month in Syracuse, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY45060          | Housing Inventory: Price Reduced Count Year-Over-Year in Syracuse, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP45060                 | Total Quantity Indexes for Real GDP for Syracuse, NY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP45060                 | Total Real Gross Domestic Product for Syracuse, NY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP45060                 | Total Quantity Indexes for Real GDP for Syracuse, NY (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP45060                 | Total Real Gross Domestic Product for Syracuse, NY (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI45060                  | Real Personal Income for Syracuse, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC45060                | Real Per Capita Personal Income for Syracuse, NY (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL45060               | Regional Price Parities: All Items for Syracuse, NY (MSA)                                                     | 2008-01-01          | 2020-01-01        |

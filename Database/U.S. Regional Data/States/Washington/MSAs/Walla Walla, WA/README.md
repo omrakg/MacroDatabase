@@ -1,18 +1,18 @@
 | id                     | title                                                                                                            | observation_start   | observation_end   |
 |------------------------|------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ATNHPIUS47460Q         | All-Transactions House Price Index for Walla Walla, WA (MSA)                                                     | 1989-07-01          | 2022-07-01        |
-| ENUC474630010          | Total Quarterly Wages in Walla Walla, WA (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC474630010SA        | Total Quarterly Wages in Walla Walla, WA (MSA)                                                                   | 2013-01-01          | 2022-01-01        |
-| ENUC474640010          | Average Weekly Wages for Employees in Total Covered Establishments in Walla Walla, WA (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC474640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Walla Walla, WA (MSA)                      | 2013-01-01          | 2022-01-01        |
-| ENUC474640110          | Average Weekly Wages for Employees in Federal Government Establishments in Walla Walla, WA (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC474640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Walla Walla, WA (MSA)                 | 2013-01-01          | 2022-01-01        |
-| ENUC474640210          | Average Weekly Wages for Employees in State Government Establishments in Walla Walla, WA (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC474640210SA        | Average Weekly Wages for Employees in State Government Establishments in Walla Walla, WA (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC474640310          | Average Weekly Wages for Employees in Local Government Establishments in Walla Walla, WA (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC474640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Walla Walla, WA (MSA)                   | 2013-01-01          | 2022-01-01        |
-| ENUC474640510          | Average Weekly Wages for Employees in Private Establishments in Walla Walla, WA (MSA)                            | 2013-01-01          | 2022-01-01        |
-| ENUC474640510SA        | Average Weekly Wages for Employees in Private Establishments in Walla Walla, WA (MSA)                            | 2013-01-01          | 2022-01-01        |
+| ENUC474630010          | Total Quarterly Wages in Walla Walla, WA (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC474630010SA        | Total Quarterly Wages in Walla Walla, WA (MSA)                                                                   | 2013-01-01          | 2022-04-01        |
+| ENUC474640010          | Average Weekly Wages for Employees in Total Covered Establishments in Walla Walla, WA (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC474640010SA        | Average Weekly Wages for Employees in Total Covered Establishments in Walla Walla, WA (MSA)                      | 2013-01-01          | 2022-04-01        |
+| ENUC474640110          | Average Weekly Wages for Employees in Federal Government Establishments in Walla Walla, WA (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC474640110SA        | Average Weekly Wages for Employees in Federal Government Establishments in Walla Walla, WA (MSA)                 | 2013-01-01          | 2022-04-01        |
+| ENUC474640210          | Average Weekly Wages for Employees in State Government Establishments in Walla Walla, WA (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC474640210SA        | Average Weekly Wages for Employees in State Government Establishments in Walla Walla, WA (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC474640310          | Average Weekly Wages for Employees in Local Government Establishments in Walla Walla, WA (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC474640310SA        | Average Weekly Wages for Employees in Local Government Establishments in Walla Walla, WA (MSA)                   | 2013-01-01          | 2022-04-01        |
+| ENUC474640510          | Average Weekly Wages for Employees in Private Establishments in Walla Walla, WA (MSA)                            | 2013-01-01          | 2022-04-01        |
+| ENUC474640510SA        | Average Weekly Wages for Employees in Private Establishments in Walla Walla, WA (MSA)                            | 2013-01-01          | 2022-04-01        |
 | IRPD47460              | Implicit Regional Price Deflator for Walla Walla, WA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT534746000000003   | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT534746000000003A  | Unemployment Rate in Walla Walla, WA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
@@ -22,9 +22,9 @@
 | LAUMT534746000000005A  | Employed Persons in Walla Walla, WA (MSA)                                                                        | 1990-01-01          | 2021-01-01        |
 | LAUMT534746000000006   | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | LAUMT534746000000006A  | Civilian Labor Force in Walla Walla, WA (MSA)                                                                    | 1990-01-01          | 2021-01-01        |
-| NGMP47460              | Total Gross Domestic Product for Walla Walla, WA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
-| QGMP47460              | Total Quantity Indexes for Real GDP for Walla Walla, WA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP47460              | Total Real Gross Domestic Product for Walla Walla, WA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| NGMP47460              | Total Gross Domestic Product for Walla Walla, WA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
+| QGMP47460              | Total Quantity Indexes for Real GDP for Walla Walla, WA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP47460              | Total Real Gross Domestic Product for Walla Walla, WA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI47460               | Real Personal Income for Walla Walla, WA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC47460             | Real Per Capita Personal Income for Walla Walla, WA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL47460            | Regional Price Parities: All Items for Walla Walla, WA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

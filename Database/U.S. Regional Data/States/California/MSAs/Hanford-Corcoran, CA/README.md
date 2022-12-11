@@ -7,18 +7,18 @@
 | AVELISPRI25260            | Housing Inventory: Average Listing Price in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM25260          | Housing Inventory: Average Listing Price Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY25260          | Housing Inventory: Average Listing Price Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC252630010             | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC252630010SA           | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC252640010             | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC252640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC252640110             | Average Weekly Wages for Employees in Federal Government Establishments in Hanford-Corcoran, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC252640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hanford-Corcoran, CA (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC252640210             | Average Weekly Wages for Employees in State Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC252640210SA           | Average Weekly Wages for Employees in State Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC252640310             | Average Weekly Wages for Employees in Local Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC252640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC252640510             | Average Weekly Wages for Employees in Private Establishments in Hanford-Corcoran, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC252640510SA           | Average Weekly Wages for Employees in Private Establishments in Hanford-Corcoran, CA (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC252630010             | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC252630010SA           | Total Quarterly Wages in Hanford-Corcoran, CA (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC252640010             | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC252640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hanford-Corcoran, CA (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC252640110             | Average Weekly Wages for Employees in Federal Government Establishments in Hanford-Corcoran, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC252640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hanford-Corcoran, CA (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC252640210             | Average Weekly Wages for Employees in State Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC252640210SA           | Average Weekly Wages for Employees in State Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC252640310             | Average Weekly Wages for Employees in Local Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC252640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hanford-Corcoran, CA (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC252640510             | Average Weekly Wages for Employees in Private Establishments in Hanford-Corcoran, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC252640510SA           | Average Weekly Wages for Employees in Private Establishments in Hanford-Corcoran, CA (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HANF206EDUH               | All Employees: Education and Health Services in Hanford-Corcoran, CA (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | HANF206EDUHN              | All Employees: Education and Health Services in Hanford-Corcoran, CA (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | HANF206FIRE               | All Employees: Financial Activities in Hanford-Corcoran, CA (MSA)                                                     | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU25260            | Housing Inventory: New Listing Count in Hanford-Corcoran, CA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM25260          | Housing Inventory: New Listing Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY25260          | Housing Inventory: New Listing Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP25260                 | Total Gross Domestic Product for Hanford-Corcoran, CA (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP25260                 | Total Gross Domestic Product for Hanford-Corcoran, CA (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA125260          | U.S. Granted Utility Patents Originating in Hanford-Corcoran, CA (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU25260            | Housing Inventory: Pending Listing Count in Hanford-Corcoran, CA (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM25260          | Housing Inventory: Pending Listing Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -80,8 +80,8 @@
 | PRIREDCOU25260            | Housing Inventory: Price Reduced Count in Hanford-Corcoran, CA (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM25260          | Housing Inventory: Price Reduced Count Month-Over-Month in Hanford-Corcoran, CA (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY25260          | Housing Inventory: Price Reduced Count Year-Over-Year in Hanford-Corcoran, CA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP25260                 | Total Quantity Indexes for Real GDP for Hanford-Corcoran, CA (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP25260                 | Total Real Gross Domestic Product for Hanford-Corcoran, CA (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP25260                 | Total Quantity Indexes for Real GDP for Hanford-Corcoran, CA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP25260                 | Total Real Gross Domestic Product for Hanford-Corcoran, CA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI25260                  | Real Personal Income for Hanford-Corcoran, CA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC25260                | Real Per Capita Personal Income for Hanford-Corcoran, CA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL25260               | Regional Price Parities: All Items for Hanford-Corcoran, CA (MSA)                                                     | 2008-01-01          | 2020-01-01        |

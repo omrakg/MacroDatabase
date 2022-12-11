@@ -30,18 +30,18 @@
 | BOWUR                     | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | BOWURN                    | Unemployment Rate in Bowling Green, KY (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | DESCMSA14540              | Market Hotness: Demand Score in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC145430010             | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC145430010SA           | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC145440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC145440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC145440110             | Average Weekly Wages for Employees in Federal Government Establishments in Bowling Green, KY (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC145440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bowling Green, KY (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC145440210             | Average Weekly Wages for Employees in State Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC145440210SA           | Average Weekly Wages for Employees in State Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC145440310             | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC145440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC145440510             | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC145440510SA           | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC145430010             | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC145430010SA           | Total Quarterly Wages in Bowling Green, KY (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC145440010             | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC145440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Bowling Green, KY (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC145440110             | Average Weekly Wages for Employees in Federal Government Establishments in Bowling Green, KY (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC145440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Bowling Green, KY (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC145440210             | Average Weekly Wages for Employees in State Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC145440210SA           | Average Weekly Wages for Employees in State Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC145440310             | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC145440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Bowling Green, KY (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC145440510             | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC145440510SA           | Average Weekly Wages for Employees in Private Establishments in Bowling Green, KY (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA14540            | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA14540              | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA14540            | Market Hotness: Hotness Rank in Bowling Green, KY (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -81,7 +81,7 @@
 | NEWLISCOU14540            | Housing Inventory: New Listing Count in Bowling Green, KY (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM14540          | Housing Inventory: New Listing Count Month-Over-Month in Bowling Green, KY (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY14540          | Housing Inventory: New Listing Count Year-Over-Year in Bowling Green, KY (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP14540                 | Total Gross Domestic Product for Bowling Green, KY (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP14540                 | Total Gross Domestic Product for Bowling Green, KY (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA14540            | Market Hotness: Nielsen Household Rank in Bowling Green, KY (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA114540          | U.S. Granted Utility Patents Originating in Bowling Green, KY (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU14540            | Housing Inventory: Pending Listing Count in Bowling Green, KY (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -93,8 +93,8 @@
 | PRIREDCOU14540            | Housing Inventory: Price Reduced Count in Bowling Green, KY (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM14540          | Housing Inventory: Price Reduced Count Month-Over-Month in Bowling Green, KY (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY14540          | Housing Inventory: Price Reduced Count Year-Over-Year in Bowling Green, KY (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP14540                 | Total Quantity Indexes for Real GDP for Bowling Green, KY (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP14540                 | Total Real Gross Domestic Product for Bowling Green, KY (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP14540                 | Total Quantity Indexes for Real GDP for Bowling Green, KY (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP14540                 | Total Real Gross Domestic Product for Bowling Green, KY (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI14540                  | Real Personal Income for Bowling Green, KY (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC14540                | Real Per Capita Personal Income for Bowling Green, KY (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL14540               | Regional Price Parities: All Items for Bowling Green, KY (MSA)                                       | 2008-01-01          | 2020-01-01        |

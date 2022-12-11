@@ -19,18 +19,18 @@
 | BRUN213UR                 | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | BRUN213URN                | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | BRUPOP                    | Resident Population in Brunswick, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| ENUC152630010             | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC152630010SA           | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC152640010             | Average Weekly Wages for Employees in Total Covered Establishments in Brunswick, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC152640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Brunswick, GA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC152640110             | Average Weekly Wages for Employees in Federal Government Establishments in Brunswick, GA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC152640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Brunswick, GA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC152640210             | Average Weekly Wages for Employees in State Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC152640210SA           | Average Weekly Wages for Employees in State Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC152640310             | Average Weekly Wages for Employees in Local Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC152640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC152640510             | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC152640510SA           | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC152630010             | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC152630010SA           | Total Quarterly Wages in Brunswick, GA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC152640010             | Average Weekly Wages for Employees in Total Covered Establishments in Brunswick, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC152640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Brunswick, GA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC152640110             | Average Weekly Wages for Employees in Federal Government Establishments in Brunswick, GA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC152640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Brunswick, GA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC152640210             | Average Weekly Wages for Employees in State Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC152640210SA           | Average Weekly Wages for Employees in State Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC152640310             | Average Weekly Wages for Employees in Local Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC152640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Brunswick, GA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC152640510             | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC152640510SA           | Average Weekly Wages for Employees in Private Establishments in Brunswick, GA (MSA)              | 1990-01-01          | 2022-04-01        |
 | IRPD15260                 | Implicit Regional Price Deflator for Brunswick, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
 | LAUMT131526000000003A     | Unemployment Rate in Brunswick, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT131526000000004      | Unemployed Persons in Brunswick, GA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -53,7 +53,7 @@
 | NEWLISCOU15260            | Housing Inventory: New Listing Count in Brunswick, GA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM15260          | Housing Inventory: New Listing Count Month-Over-Month in Brunswick, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY15260          | Housing Inventory: New Listing Count Year-Over-Year in Brunswick, GA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP15260                 | Total Gross Domestic Product for Brunswick, GA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP15260                 | Total Gross Domestic Product for Brunswick, GA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA115260          | U.S. Granted Utility Patents Originating in Brunswick, GA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU15260            | Housing Inventory: Pending Listing Count in Brunswick, GA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM15260          | Housing Inventory: Pending Listing Count Month-Over-Month in Brunswick, GA (CBSA)                | 2017-07-01          | 2022-11-01        |
@@ -64,8 +64,8 @@
 | PRIREDCOU15260            | Housing Inventory: Price Reduced Count in Brunswick, GA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM15260          | Housing Inventory: Price Reduced Count Month-Over-Month in Brunswick, GA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY15260          | Housing Inventory: Price Reduced Count Year-Over-Year in Brunswick, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP15260                 | Total Quantity Indexes for Real GDP for Brunswick, GA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP15260                 | Total Real Gross Domestic Product for Brunswick, GA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP15260                 | Total Quantity Indexes for Real GDP for Brunswick, GA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP15260                 | Total Real Gross Domestic Product for Brunswick, GA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI15260                  | Real Personal Income for Brunswick, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC15260                | Real Per Capita Personal Income for Brunswick, GA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL15260               | Regional Price Parities: All Items for Brunswick, GA (MSA)                                       | 2008-01-01          | 2020-01-01        |

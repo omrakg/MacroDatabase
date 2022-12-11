@@ -49,14 +49,14 @@
 | Cameron Parish, LA              |                89 |
 | Beauregard Parish, LA           |                89 |
 | St. James Parish, LA            |                90 |
-| Natchitoches Parish, LA         |                89 |
+| Natchitoches Parish, LA         |                 0 |
 | Lincoln Parish, LA              |                90 |
 | Bienville Parish, LA            |                88 |
 | Madison Parish, LA              |                88 |
 | Calcasieu Parish, LA            |               147 |
 | De Soto Parish, LA              |                90 |
 | Jackson Parish, LA              |                90 |
-| Terrebonne Parish, LA           |                 0 |
+| Terrebonne Parish, LA           |               147 |
 | Acadia Parish, LA               |               146 |
 | Franklin Parish, LA             |                89 |
 | Evangeline Parish, LA           |                90 |

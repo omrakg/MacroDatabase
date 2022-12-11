@@ -9,18 +9,18 @@
 | AVELISPRIYY12700          | Housing Inventory: Average Listing Price Year-Over-Year in Barnstable Town, MA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | BYMPOP                    | Resident Population in Barnstable Town, MA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | DESCMSA12700              | Market Hotness: Demand Score in Barnstable Town, MA (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC127030010             | Total Quarterly Wages in Barnstable Town, MA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC127030010SA           | Total Quarterly Wages in Barnstable Town, MA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC127040010             | Average Weekly Wages for Employees in Total Covered Establishments in Barnstable Town, MA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC127040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Barnstable Town, MA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC127040110             | Average Weekly Wages for Employees in Federal Government Establishments in Barnstable Town, MA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC127040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Barnstable Town, MA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC127040210             | Average Weekly Wages for Employees in State Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC127040210SA           | Average Weekly Wages for Employees in State Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC127040310             | Average Weekly Wages for Employees in Local Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC127040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC127040510             | Average Weekly Wages for Employees in Private Establishments in Barnstable Town, MA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC127040510SA           | Average Weekly Wages for Employees in Private Establishments in Barnstable Town, MA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC127030010             | Total Quarterly Wages in Barnstable Town, MA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC127030010SA           | Total Quarterly Wages in Barnstable Town, MA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC127040010             | Average Weekly Wages for Employees in Total Covered Establishments in Barnstable Town, MA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC127040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Barnstable Town, MA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC127040110             | Average Weekly Wages for Employees in Federal Government Establishments in Barnstable Town, MA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC127040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Barnstable Town, MA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC127040210             | Average Weekly Wages for Employees in State Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC127040210SA           | Average Weekly Wages for Employees in State Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC127040310             | Average Weekly Wages for Employees in Local Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC127040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Barnstable Town, MA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC127040510             | Average Weekly Wages for Employees in Private Establishments in Barnstable Town, MA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC127040510SA           | Average Weekly Wages for Employees in Private Establishments in Barnstable Town, MA (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA12700            | Market Hotness: Hotness Rank in Barnstable Town, MA (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA12700              | Market Hotness: Hotness Rank in Barnstable Town, MA (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA12700            | Market Hotness: Hotness Rank in Barnstable Town, MA (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -54,7 +54,7 @@
 | NEWLISCOU12700            | Housing Inventory: New Listing Count in Barnstable Town, MA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM12700          | Housing Inventory: New Listing Count Month-Over-Month in Barnstable Town, MA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY12700          | Housing Inventory: New Listing Count Year-Over-Year in Barnstable Town, MA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP12700                 | Total Gross Domestic Product for Barnstable Town, MA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP12700                 | Total Gross Domestic Product for Barnstable Town, MA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA12700            | Market Hotness: Nielsen Household Rank in Barnstable Town, MA (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA112700          | U.S. Granted Utility Patents Originating in Barnstable Town, MA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU12700            | Housing Inventory: Pending Listing Count in Barnstable Town, MA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -66,8 +66,8 @@
 | PRIREDCOU12700            | Housing Inventory: Price Reduced Count in Barnstable Town, MA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM12700          | Housing Inventory: Price Reduced Count Month-Over-Month in Barnstable Town, MA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY12700          | Housing Inventory: Price Reduced Count Year-Over-Year in Barnstable Town, MA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP12700                 | Total Quantity Indexes for Real GDP for Barnstable Town, MA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP12700                 | Total Real Gross Domestic Product for Barnstable Town, MA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP12700                 | Total Quantity Indexes for Real GDP for Barnstable Town, MA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP12700                 | Total Real Gross Domestic Product for Barnstable Town, MA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI12700                  | Real Personal Income for Barnstable Town, MA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC12700                | Real Per Capita Personal Income for Barnstable Town, MA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL12700               | Regional Price Parities: All Items for Barnstable Town, MA (MSA)                                       | 2008-01-01          | 2020-01-01        |

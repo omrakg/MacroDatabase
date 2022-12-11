@@ -20,18 +20,18 @@
 | AVELISPRIMM10780          | Housing Inventory: Average Listing Price Month-Over-Month in Alexandria, LA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY10780          | Housing Inventory: Average Listing Price Year-Over-Year in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA10780              | Market Hotness: Demand Score in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-11-01        |
-| ENUC107830010             | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC107830010SA           | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC107840010             | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC107840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC107840110             | Average Weekly Wages for Employees in Federal Government Establishments in Alexandria, LA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC107840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Alexandria, LA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC107840210             | Average Weekly Wages for Employees in State Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC107840210SA           | Average Weekly Wages for Employees in State Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC107840310             | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC107840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC107840510             | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC107840510SA           | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC107830010             | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC107830010SA           | Total Quarterly Wages in Alexandria, LA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC107840010             | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC107840010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Alexandria, LA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC107840110             | Average Weekly Wages for Employees in Federal Government Establishments in Alexandria, LA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC107840110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Alexandria, LA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC107840210             | Average Weekly Wages for Employees in State Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC107840210SA           | Average Weekly Wages for Employees in State Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC107840310             | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC107840310SA           | Average Weekly Wages for Employees in Local Government Establishments in Alexandria, LA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC107840510             | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC107840510SA           | Average Weekly Wages for Employees in Private Establishments in Alexandria, LA (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA10780            | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2017-09-01          | 2022-11-01        |
 | HORAMSA10780              | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA10780            | Market Hotness: Hotness Rank in Alexandria, LA (CBSA)                                             | 2018-08-01          | 2022-11-01        |
@@ -71,7 +71,7 @@
 | NEWLISCOU10780            | Housing Inventory: New Listing Count in Alexandria, LA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM10780          | Housing Inventory: New Listing Count Month-Over-Month in Alexandria, LA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY10780          | Housing Inventory: New Listing Count Year-Over-Year in Alexandria, LA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP10780                 | Total Gross Domestic Product for Alexandria, LA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP10780                 | Total Gross Domestic Product for Alexandria, LA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA10780            | Market Hotness: Nielsen Household Rank in Alexandria, LA (CBSA)                                   | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA110780          | U.S. Granted Utility Patents Originating in Alexandria, LA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU10780            | Housing Inventory: Pending Listing Count in Alexandria, LA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -83,8 +83,8 @@
 | PRIREDCOU10780            | Housing Inventory: Price Reduced Count in Alexandria, LA (CBSA)                                   | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM10780          | Housing Inventory: Price Reduced Count Month-Over-Month in Alexandria, LA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY10780          | Housing Inventory: Price Reduced Count Year-Over-Year in Alexandria, LA (CBSA)                    | 2017-07-01          | 2022-11-01        |
-| QGMP10780                 | Total Quantity Indexes for Real GDP for Alexandria, LA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP10780                 | Total Real Gross Domestic Product for Alexandria, LA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP10780                 | Total Quantity Indexes for Real GDP for Alexandria, LA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP10780                 | Total Real Gross Domestic Product for Alexandria, LA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI10780                  | Real Personal Income for Alexandria, LA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC10780                | Real Per Capita Personal Income for Alexandria, LA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL10780               | Regional Price Parities: All Items for Alexandria, LA (MSA)                                       | 2008-01-01          | 2020-01-01        |

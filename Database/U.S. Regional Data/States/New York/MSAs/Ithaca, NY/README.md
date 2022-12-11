@@ -7,18 +7,18 @@
 | AVELISPRI27060            | Housing Inventory: Average Listing Price in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM27060          | Housing Inventory: Average Listing Price Month-Over-Month in Ithaca, NY (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY27060          | Housing Inventory: Average Listing Price Year-Over-Year in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC270630010             | Total Quarterly Wages in Ithaca, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC270630010SA           | Total Quarterly Wages in Ithaca, NY (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC270640010             | Average Weekly Wages for Employees in Total Covered Establishments in Ithaca, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC270640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ithaca, NY (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC270640110             | Average Weekly Wages for Employees in Federal Government Establishments in Ithaca, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC270640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ithaca, NY (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC270640210             | Average Weekly Wages for Employees in State Government Establishments in Ithaca, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC270640210SA           | Average Weekly Wages for Employees in State Government Establishments in Ithaca, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC270640310             | Average Weekly Wages for Employees in Local Government Establishments in Ithaca, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC270640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Ithaca, NY (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC270640510             | Average Weekly Wages for Employees in Private Establishments in Ithaca, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC270640510SA           | Average Weekly Wages for Employees in Private Establishments in Ithaca, NY (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC270630010             | Total Quarterly Wages in Ithaca, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC270630010SA           | Total Quarterly Wages in Ithaca, NY (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC270640010             | Average Weekly Wages for Employees in Total Covered Establishments in Ithaca, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC270640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Ithaca, NY (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC270640110             | Average Weekly Wages for Employees in Federal Government Establishments in Ithaca, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC270640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Ithaca, NY (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC270640210             | Average Weekly Wages for Employees in State Government Establishments in Ithaca, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC270640210SA           | Average Weekly Wages for Employees in State Government Establishments in Ithaca, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC270640310             | Average Weekly Wages for Employees in Local Government Establishments in Ithaca, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC270640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Ithaca, NY (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC270640510             | Average Weekly Wages for Employees in Private Establishments in Ithaca, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC270640510SA           | Average Weekly Wages for Employees in Private Establishments in Ithaca, NY (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD27060                 | Implicit Regional Price Deflator for Ithaca, NY (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | ITHA036EDUH               | All Employees: Education and Health Services in Ithaca, NY (MSA)                                            | 1990-01-01          | 2022-10-01        |
 | ITHA036EDUHN              | All Employees: Education and Health Services in Ithaca, NY (MSA)                                            | 1990-01-01          | 2022-10-01        |
@@ -69,7 +69,7 @@
 | NEWLISCOU27060            | Housing Inventory: New Listing Count in Ithaca, NY (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM27060          | Housing Inventory: New Listing Count Month-Over-Month in Ithaca, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY27060          | Housing Inventory: New Listing Count Year-Over-Year in Ithaca, NY (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP27060                 | Total Gross Domestic Product for Ithaca, NY (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP27060                 | Total Gross Domestic Product for Ithaca, NY (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA127060          | U.S. Granted Utility Patents Originating in Ithaca, NY (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU27060            | Housing Inventory: Pending Listing Count in Ithaca, NY (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM27060          | Housing Inventory: Pending Listing Count Month-Over-Month in Ithaca, NY (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -79,8 +79,8 @@
 | PRIREDCOU27060            | Housing Inventory: Price Reduced Count in Ithaca, NY (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM27060          | Housing Inventory: Price Reduced Count Month-Over-Month in Ithaca, NY (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY27060          | Housing Inventory: Price Reduced Count Year-Over-Year in Ithaca, NY (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP27060                 | Total Quantity Indexes for Real GDP for Ithaca, NY (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP27060                 | Total Real Gross Domestic Product for Ithaca, NY (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP27060                 | Total Quantity Indexes for Real GDP for Ithaca, NY (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP27060                 | Total Real Gross Domestic Product for Ithaca, NY (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI27060                  | Real Personal Income for Ithaca, NY (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC27060                | Real Per Capita Personal Income for Ithaca, NY (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL27060               | Regional Price Parities: All Items for Ithaca, NY (MSA)                                                     | 2008-01-01          | 2020-01-01        |

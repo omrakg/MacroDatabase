@@ -8,18 +8,18 @@
 | AVELISPRIMM38340          | Housing Inventory: Average Listing Price Month-Over-Month in Pittsfield, MA (CBSA)                | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY38340          | Housing Inventory: Average Listing Price Year-Over-Year in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | DESCMSA38340              | Market Hotness: Demand Score in Pittsfield, MA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
-| ENUC383430010             | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC383430010SA           | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2022-01-01        |
-| ENUC383440010             | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC383440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC383440110             | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC383440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2022-01-01        |
-| ENUC383440210             | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC383440210SA           | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC383440310             | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC383440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-01-01        |
-| ENUC383440510             | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2022-01-01        |
-| ENUC383440510SA           | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2022-01-01        |
+| ENUC383430010             | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC383430010SA           | Total Quarterly Wages in Pittsfield, MA (MSA)                                                     | 1990-01-01          | 2022-04-01        |
+| ENUC383440010             | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC383440010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Pittsfield, MA (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC383440110             | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC383440110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Pittsfield, MA (MSA)   | 1990-01-01          | 2022-04-01        |
+| ENUC383440210             | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC383440210SA           | Average Weekly Wages for Employees in State Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC383440310             | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC383440310SA           | Average Weekly Wages for Employees in Local Government Establishments in Pittsfield, MA (MSA)     | 1990-01-01          | 2022-04-01        |
+| ENUC383440510             | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2022-04-01        |
+| ENUC383440510SA           | Average Weekly Wages for Employees in Private Establishments in Pittsfield, MA (MSA)              | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA38340            | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HORAMSA38340              | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA38340            | Market Hotness: Hotness Rank in Pittsfield, MA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
@@ -53,7 +53,7 @@
 | NEWLISCOU38340            | Housing Inventory: New Listing Count in Pittsfield, MA (CBSA)                                     | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM38340          | Housing Inventory: New Listing Count Month-Over-Month in Pittsfield, MA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY38340          | Housing Inventory: New Listing Count Year-Over-Year in Pittsfield, MA (CBSA)                      | 2017-07-01          | 2022-11-01        |
-| NGMP38340                 | Total Gross Domestic Product for Pittsfield, MA (MSA)                                             | 2001-01-01          | 2020-01-01        |
+| NGMP38340                 | Total Gross Domestic Product for Pittsfield, MA (MSA)                                             | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA38340            | Market Hotness: Nielsen Household Rank in Pittsfield, MA (CBSA)                                   | 2017-08-01          | 2022-08-01        |
 | PATENTCBSA138340          | U.S. Granted Utility Patents Originating in Pittsfield, MA (MSA)                                  | 2000-01-01          | 2015-01-01        |
 | PENLISCOU38340            | Housing Inventory: Pending Listing Count in Pittsfield, MA (CBSA)                                 | 2016-07-01          | 2022-11-01        |
@@ -66,8 +66,8 @@
 | PRIREDCOUMM38340          | Housing Inventory: Price Reduced Count Month-Over-Month in Pittsfield, MA (CBSA)                  | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY38340          | Housing Inventory: Price Reduced Count Year-Over-Year in Pittsfield, MA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | PTSPOP                    | Resident Population in Pittsfield, MA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
-| QGMP38340                 | Total Quantity Indexes for Real GDP for Pittsfield, MA (MSA)                                      | 2001-01-01          | 2020-01-01        |
-| RGMP38340                 | Total Real Gross Domestic Product for Pittsfield, MA (MSA)                                        | 2001-01-01          | 2020-01-01        |
+| QGMP38340                 | Total Quantity Indexes for Real GDP for Pittsfield, MA (MSA)                                      | 2001-01-01          | 2021-01-01        |
+| RGMP38340                 | Total Real Gross Domestic Product for Pittsfield, MA (MSA)                                        | 2001-01-01          | 2021-01-01        |
 | RPI38340                  | Real Personal Income for Pittsfield, MA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
 | RPIPC38340                | Real Per Capita Personal Income for Pittsfield, MA (MSA)                                          | 2008-01-01          | 2020-01-01        |
 | RPPALL38340               | Regional Price Parities: All Items for Pittsfield, MA (MSA)                                       | 2008-01-01          | 2020-01-01        |

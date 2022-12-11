@@ -27,7 +27,7 @@
 | Union County, OR      |                90 |
 | Josephine County, OR  |               147 |
 | Benton County, OR     |               147 |
-| Polk County, OR       |               147 |
+| Polk County, OR       |                 0 |
 | Washington County, OR |               147 |
 | Multnomah County, OR  |               147 |
 | Curry County, OR      |                90 |

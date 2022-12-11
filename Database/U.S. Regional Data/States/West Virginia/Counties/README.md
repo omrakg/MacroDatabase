@@ -22,7 +22,7 @@
 | Wood County, WV       |               147 |
 | Barbour County, WV    |                89 |
 | Wetzel County, WV     |                90 |
-| Mineral County, WV    |                89 |
+| Mineral County, WV    |                 0 |
 | McDowell County, WV   |                89 |
 | Brooke County, WV     |                90 |
 | Monroe County, WV     |                89 |
@@ -44,7 +44,7 @@
 | Taylor County, WV     |                89 |
 | Hampshire County, WV  |                90 |
 | Hancock County, WV    |                90 |
-| Ohio County, WV       |                 0 |
+| Ohio County, WV       |               144 |
 | Marshall County, WV   |                90 |
 | Gilmer County, WV     |                88 |
 | Hardy County, WV      |                89 |

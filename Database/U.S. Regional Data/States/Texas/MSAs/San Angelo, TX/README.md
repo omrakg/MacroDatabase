@@ -7,18 +7,18 @@
 | AVELISPRI41660            | Housing Inventory: Average Listing Price in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM41660          | Housing Inventory: Average Listing Price Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY41660          | Housing Inventory: Average Listing Price Year-Over-Year in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| ENUC416630010             | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC416630010SA           | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC416640010             | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC416640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC416640110             | Average Weekly Wages for Employees in Federal Government Establishments in San Angelo, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC416640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in San Angelo, TX (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC416630010             | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC416630010SA           | Total Quarterly Wages in San Angelo, TX (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC416640010             | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC416640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in San Angelo, TX (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC416640110             | Average Weekly Wages for Employees in Federal Government Establishments in San Angelo, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC416640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in San Angelo, TX (MSA)                 | 1990-01-01          | 2022-04-01        |
 | ENUC416640210             | Average Weekly Wages for Employees in State Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
 | ENUC416640210SA           | Average Weekly Wages for Employees in State Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
 | ENUC416640310             | Average Weekly Wages for Employees in Local Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
 | ENUC416640310SA           | Average Weekly Wages for Employees in Local Government Establishments in San Angelo, TX (MSA)                   | 2001-01-01          | 2021-10-01        |
-| ENUC416640510             | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC416640510SA           | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC416640510             | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC416640510SA           | Average Weekly Wages for Employees in Private Establishments in San Angelo, TX (MSA)                            | 1990-01-01          | 2022-04-01        |
 | IRPD41660                 | Implicit Regional Price Deflator for San Angelo, TX (MSA)                                                       | 2008-01-01          | 2020-01-01        |
 | LAUMT484166000000003A     | Unemployment Rate in San Angelo, TX (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT484166000000004      | Unemployed Persons in San Angelo, TX (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
@@ -41,7 +41,7 @@
 | NEWLISCOU41660            | Housing Inventory: New Listing Count in San Angelo, TX (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM41660          | Housing Inventory: New Listing Count Month-Over-Month in San Angelo, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY41660          | Housing Inventory: New Listing Count Year-Over-Year in San Angelo, TX (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP41660                 | Total Gross Domestic Product for San Angelo, TX (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP41660                 | Total Gross Domestic Product for San Angelo, TX (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA141660          | U.S. Granted Utility Patents Originating in San Angelo, TX (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU41660            | Housing Inventory: Pending Listing Count in San Angelo, TX (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM41660          | Housing Inventory: Pending Listing Count Month-Over-Month in San Angelo, TX (CBSA)                              | 2017-07-01          | 2022-11-01        |
@@ -52,8 +52,8 @@
 | PRIREDCOU41660            | Housing Inventory: Price Reduced Count in San Angelo, TX (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM41660          | Housing Inventory: Price Reduced Count Month-Over-Month in San Angelo, TX (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY41660          | Housing Inventory: Price Reduced Count Year-Over-Year in San Angelo, TX (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP41660                 | Total Quantity Indexes for Real GDP for San Angelo, TX (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP41660                 | Total Real Gross Domestic Product for San Angelo, TX (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP41660                 | Total Quantity Indexes for Real GDP for San Angelo, TX (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP41660                 | Total Real Gross Domestic Product for San Angelo, TX (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI41660                  | Real Personal Income for San Angelo, TX (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC41660                | Real Per Capita Personal Income for San Angelo, TX (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL41660               | Regional Price Parities: All Items for San Angelo, TX (MSA)                                                     | 2008-01-01          | 2020-01-01        |

@@ -9,18 +9,18 @@
 | AVELISPRIYY25060          | Housing Inventory: Average Listing Price Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | BLXPOP                    | Resident Population in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
 | DESCMSA25060              | Market Hotness: Demand Score in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC250630010             | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC250630010SA           | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC250640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| ENUC250640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2022-01-01        |
-| ENUC250640110             | Average Weekly Wages for Employees in Federal Government Establishments in Gulfport-Biloxi, MS (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC250640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gulfport-Biloxi, MS (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC250640210             | Average Weekly Wages for Employees in State Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ENUC250640210SA           | Average Weekly Wages for Employees in State Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ENUC250640310             | Average Weekly Wages for Employees in Local Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ENUC250640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2022-01-01        |
-| ENUC250640510             | Average Weekly Wages for Employees in Private Establishments in Gulfport-Biloxi, MS (MSA)                                       | 1990-01-01          | 2022-01-01        |
-| ENUC250640510SA           | Average Weekly Wages for Employees in Private Establishments in Gulfport-Biloxi, MS (MSA)                                       | 1990-01-01          | 2022-01-01        |
+| ENUC250630010             | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC250630010SA           | Total Quarterly Wages in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC250640010             | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2022-04-01        |
+| ENUC250640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Gulfport-Biloxi, MS (MSA)                                 | 1990-01-01          | 2022-04-01        |
+| ENUC250640110             | Average Weekly Wages for Employees in Federal Government Establishments in Gulfport-Biloxi, MS (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC250640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Gulfport-Biloxi, MS (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC250640210             | Average Weekly Wages for Employees in State Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2022-04-01        |
+| ENUC250640210SA           | Average Weekly Wages for Employees in State Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2022-04-01        |
+| ENUC250640310             | Average Weekly Wages for Employees in Local Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2022-04-01        |
+| ENUC250640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Gulfport-Biloxi, MS (MSA)                              | 1990-01-01          | 2022-04-01        |
+| ENUC250640510             | Average Weekly Wages for Employees in Private Establishments in Gulfport-Biloxi, MS (MSA)                                       | 1990-01-01          | 2022-04-01        |
+| ENUC250640510SA           | Average Weekly Wages for Employees in Private Establishments in Gulfport-Biloxi, MS (MSA)                                       | 1990-01-01          | 2022-04-01        |
 | GULF028GOVT               | All Employees: Government in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                               | 1990-01-01          | 2022-10-01        |
 | GULF028GOVTN              | All Employees: Government in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                               | 1990-01-01          | 2022-10-01        |
 | GULF028LEIH               | All Employees: Leisure and Hospitality in Gulfport-Biloxi-Pascagoula, MS (MSA)                                                  | 1990-01-01          | 2022-10-01        |
@@ -77,7 +77,7 @@
 | NEWLISCOU25060            | Housing Inventory: New Listing Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM25060          | Housing Inventory: New Listing Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY25060          | Housing Inventory: New Listing Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP25060                 | Total Gross Domestic Product for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP25060                 | Total Gross Domestic Product for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA25060            | Market Hotness: Nielsen Household Rank in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA125060          | U.S. Granted Utility Patents Originating in Gulfport-Biloxi, MS (MSA)                                                           | 2000-01-01          | 2015-01-01        |
 | PENLISCOU25060            | Housing Inventory: Pending Listing Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -89,8 +89,8 @@
 | PRIREDCOU25060            | Housing Inventory: Price Reduced Count in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM25060          | Housing Inventory: Price Reduced Count Month-Over-Month in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY25060          | Housing Inventory: Price Reduced Count Year-Over-Year in Gulfport-Biloxi-Pascagoula, MS (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP25060                 | Total Quantity Indexes for Real GDP for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP25060                 | Total Real Gross Domestic Product for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP25060                 | Total Quantity Indexes for Real GDP for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP25060                 | Total Real Gross Domestic Product for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI25060                  | Real Personal Income for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC25060                | Real Per Capita Personal Income for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL25060               | Regional Price Parities: All Items for Gulfport-Biloxi-Pascagoula, MS (MSA)                                                     | 2008-01-01          | 2020-01-01        |

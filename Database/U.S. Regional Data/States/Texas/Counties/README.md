@@ -1,7 +1,7 @@
 | Folder                   |   Files / Folders |
 |--------------------------|-------------------|
 | Galveston County, TX     |               147 |
-| Van Zandt County, TX     |                90 |
+| Van Zandt County, TX     |                 0 |
 | Wise County, TX          |               146 |
 | Loving County, TX        |                81 |
 | Calhoun County, TX       |                90 |
@@ -47,7 +47,7 @@
 | Terrell County, TX       |                85 |
 | Real County, TX          |                88 |
 | Duval County, TX         |                88 |
-| Uvalde County, TX        |                 0 |
+| Uvalde County, TX        |                90 |
 | Frio County, TX          |                88 |
 | Lamb County, TX          |                89 |
 | Reagan County, TX        |                88 |
@@ -99,7 +99,7 @@
 | Limestone County, TX     |                88 |
 | Chambers County, TX      |                89 |
 | Kent County, TX          |                86 |
-| Colorado County, TX      |                90 |
+| Colorado County, TX      |                 0 |
 | Nacogdoches County, TX   |               146 |
 | Glasscock County, TX     |                84 |
 | Polk County, TX          |                90 |
@@ -107,7 +107,7 @@
 | Tom Green County, TX     |               147 |
 | Burleson County, TX      |                89 |
 | Hutchinson County, TX    |                90 |
-| Sterling County, TX      |                 0 |
+| Sterling County, TX      |                86 |
 | Coke County, TX          |                89 |
 | Burnet County, TX        |                90 |
 | Crosby County, TX        |                87 |
@@ -159,7 +159,7 @@
 | Montgomery County, TX    |               147 |
 | Coleman County, TX       |                89 |
 | Kerr County, TX          |               146 |
-| Newton County, TX        |                87 |
+| Newton County, TX        |                 0 |
 | Borden County, TX        |                83 |
 | Wood County, TX          |                90 |
 | Lamar County, TX         |               142 |
@@ -167,7 +167,7 @@
 | Castro County, TX        |                89 |
 | Washington County, TX    |                90 |
 | Clay County, TX          |                88 |
-| Gillespie County, TX     |                 0 |
+| Gillespie County, TX     |                90 |
 | Coryell County, TX       |               147 |
 | Medina County, TX        |                90 |
 | Jim Hogg County, TX      |                87 |
@@ -219,7 +219,7 @@
 | Jeff Davis County, TX    |                88 |
 | Johnson County, TX       |               147 |
 | Gaines County, TX        |                88 |
-| Parmer County, TX        |                89 |
+| Parmer County, TX        |                 0 |
 | Ector County, TX         |               147 |
 | Milam County, TX         |                90 |
 | Bell County, TX          |               147 |
@@ -252,4 +252,4 @@
 | Lynn County, TX          |                88 |
 | Hardeman County, TX      |                89 |
 | Jim Wells County, TX     |                90 |
-| Webb County, TX          |                 0 |
+| Webb County, TX          |               147 |

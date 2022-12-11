@@ -8,18 +8,18 @@
 | AVELISPRIMM45460          | Housing Inventory: Average Listing Price Month-Over-Month in Terre Haute, IN (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY45460          | Housing Inventory: Average Listing Price Year-Over-Year in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | DESCMSA45460              | Market Hotness: Demand Score in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
-| ENUC454630010             | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC454630010SA           | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2022-01-01        |
-| ENUC454640010             | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC454640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2022-01-01        |
-| ENUC454640110             | Average Weekly Wages for Employees in Federal Government Establishments in Terre Haute, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC454640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Terre Haute, IN (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC454640210             | Average Weekly Wages for Employees in State Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC454640210SA           | Average Weekly Wages for Employees in State Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC454640310             | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC454640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-01-01        |
-| ENUC454640510             | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
-| ENUC454640510SA           | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2022-01-01        |
+| ENUC454630010             | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC454630010SA           | Total Quarterly Wages in Terre Haute, IN (MSA)                                                                   | 1990-01-01          | 2022-04-01        |
+| ENUC454640010             | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC454640010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Terre Haute, IN (MSA)                      | 1990-01-01          | 2022-04-01        |
+| ENUC454640110             | Average Weekly Wages for Employees in Federal Government Establishments in Terre Haute, IN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC454640110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Terre Haute, IN (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC454640210             | Average Weekly Wages for Employees in State Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC454640210SA           | Average Weekly Wages for Employees in State Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC454640310             | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC454640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Terre Haute, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
+| ENUC454640510             | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
+| ENUC454640510SA           | Average Weekly Wages for Employees in Private Establishments in Terre Haute, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
 | HORAMMMSA45460            | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2017-09-01          | 2022-11-01        |
 | HORAMSA45460              | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA45460            | Market Hotness: Hotness Rank in Terre Haute, IN (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
@@ -59,7 +59,7 @@
 | NEWLISCOU45460            | Housing Inventory: New Listing Count in Terre Haute, IN (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM45460          | Housing Inventory: New Listing Count Month-Over-Month in Terre Haute, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY45460          | Housing Inventory: New Listing Count Year-Over-Year in Terre Haute, IN (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NGMP45460                 | Total Gross Domestic Product for Terre Haute, IN (MSA)                                                           | 2001-01-01          | 2020-01-01        |
+| NGMP45460                 | Total Gross Domestic Product for Terre Haute, IN (MSA)                                                           | 2001-01-01          | 2021-01-01        |
 | NIHHRAMSA45460            | Market Hotness: Nielsen Household Rank in Terre Haute, IN (CBSA)                                                 | 2017-08-01          | 2022-11-01        |
 | PATENTCBSA145460          | U.S. Granted Utility Patents Originating in Terre Haute, IN (MSA)                                                | 2000-01-01          | 2015-01-01        |
 | PENLISCOU45460            | Housing Inventory: Pending Listing Count in Terre Haute, IN (CBSA)                                               | 2016-07-01          | 2022-11-01        |
@@ -71,8 +71,8 @@
 | PRIREDCOU45460            | Housing Inventory: Price Reduced Count in Terre Haute, IN (CBSA)                                                 | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM45460          | Housing Inventory: Price Reduced Count Month-Over-Month in Terre Haute, IN (CBSA)                                | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY45460          | Housing Inventory: Price Reduced Count Year-Over-Year in Terre Haute, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
-| QGMP45460                 | Total Quantity Indexes for Real GDP for Terre Haute, IN (MSA)                                                    | 2001-01-01          | 2020-01-01        |
-| RGMP45460                 | Total Real Gross Domestic Product for Terre Haute, IN (MSA)                                                      | 2001-01-01          | 2020-01-01        |
+| QGMP45460                 | Total Quantity Indexes for Real GDP for Terre Haute, IN (MSA)                                                    | 2001-01-01          | 2021-01-01        |
+| RGMP45460                 | Total Real Gross Domestic Product for Terre Haute, IN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
 | RPI45460                  | Real Personal Income for Terre Haute, IN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
 | RPIPC45460                | Real Per Capita Personal Income for Terre Haute, IN (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPPALL45460               | Regional Price Parities: All Items for Terre Haute, IN (MSA)                                                     | 2008-01-01          | 2020-01-01        |

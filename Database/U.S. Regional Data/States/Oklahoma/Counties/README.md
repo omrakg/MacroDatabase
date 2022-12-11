@@ -36,7 +36,7 @@
 | Lincoln County, OK      |                90 |
 | Noble County, OK        |                90 |
 | Ottawa County, OK       |                90 |
-| Le Flore County, OK     |               145 |
+| Le Flore County, OK     |                 0 |
 | Woodward County, OK     |                90 |
 | Garfield County, OK     |               144 |
 | Johnston County, OK     |                89 |
@@ -45,7 +45,7 @@
 | Delaware County, OK     |                90 |
 | Creek County, OK        |               147 |
 | McIntosh County, OK     |                90 |
-| Oklahoma County, OK     |                 0 |
+| Oklahoma County, OK     |               147 |
 | Osage County, OK        |               145 |
 | Pontotoc County, OK     |                90 |
 | Hughes County, OK       |                88 |

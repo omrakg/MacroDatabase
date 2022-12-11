@@ -7,18 +7,18 @@
 | AVELISPRI26300            | Housing Inventory: Average Listing Price in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM26300          | Housing Inventory: Average Listing Price Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY26300          | Housing Inventory: Average Listing Price Year-Over-Year in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-11-01        |
-| ENUC263030010             | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC263030010SA           | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2022-01-01        |
-| ENUC263040010             | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC263040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2022-01-01        |
-| ENUC263040110             | Average Weekly Wages for Employees in Federal Government Establishments in Hot Springs, AR (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC263040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hot Springs, AR (MSA)      | 1990-01-01          | 2022-01-01        |
-| ENUC263040210             | Average Weekly Wages for Employees in State Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC263040210SA           | Average Weekly Wages for Employees in State Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC263040310             | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC263040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-01-01        |
-| ENUC263040510             | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2022-01-01        |
-| ENUC263040510SA           | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2022-01-01        |
+| ENUC263030010             | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC263030010SA           | Total Quarterly Wages in Hot Springs, AR (MSA)                                                        | 1990-01-01          | 2022-04-01        |
+| ENUC263040010             | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC263040010SA           | Average Weekly Wages for Employees in Total Covered Establishments in Hot Springs, AR (MSA)           | 1990-01-01          | 2022-04-01        |
+| ENUC263040110             | Average Weekly Wages for Employees in Federal Government Establishments in Hot Springs, AR (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC263040110SA           | Average Weekly Wages for Employees in Federal Government Establishments in Hot Springs, AR (MSA)      | 1990-01-01          | 2022-04-01        |
+| ENUC263040210             | Average Weekly Wages for Employees in State Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC263040210SA           | Average Weekly Wages for Employees in State Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC263040310             | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC263040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Hot Springs, AR (MSA)        | 1990-01-01          | 2022-04-01        |
+| ENUC263040510             | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2022-04-01        |
+| ENUC263040510SA           | Average Weekly Wages for Employees in Private Establishments in Hot Springs, AR (MSA)                 | 1990-01-01          | 2022-04-01        |
 | HSPBP1FH                  | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 2004-01-01          | 2022-10-01        |
 | HSPBP1FHSA                | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Hot Springs, AR (MSA) | 1988-01-01          | 2022-10-01        |
 | HSPBPPRIV                 | New Private Housing Units Authorized by Building Permits for Hot Springs, AR (MSA)                    | 2004-01-01          | 2022-10-01        |
@@ -55,7 +55,7 @@
 | NEWLISCOU26300            | Housing Inventory: New Listing Count in Hot Springs, AR (CBSA)                                        | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM26300          | Housing Inventory: New Listing Count Month-Over-Month in Hot Springs, AR (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY26300          | Housing Inventory: New Listing Count Year-Over-Year in Hot Springs, AR (CBSA)                         | 2017-07-01          | 2022-11-01        |
-| NGMP26300                 | Total Gross Domestic Product for Hot Springs, AR (MSA)                                                | 2001-01-01          | 2020-01-01        |
+| NGMP26300                 | Total Gross Domestic Product for Hot Springs, AR (MSA)                                                | 2001-01-01          | 2021-01-01        |
 | PATENTCBSA126300          | U.S. Granted Utility Patents Originating in Hot Springs, AR (MSA)                                     | 2000-01-01          | 2015-01-01        |
 | PENLISCOU26300            | Housing Inventory: Pending Listing Count in Hot Springs, AR (CBSA)                                    | 2016-07-01          | 2022-11-01        |
 | PENLISCOUMM26300          | Housing Inventory: Pending Listing Count Month-Over-Month in Hot Springs, AR (CBSA)                   | 2017-07-01          | 2022-11-01        |
@@ -66,8 +66,8 @@
 | PRIREDCOU26300            | Housing Inventory: Price Reduced Count in Hot Springs, AR (CBSA)                                      | 2016-07-01          | 2022-11-01        |
 | PRIREDCOUMM26300          | Housing Inventory: Price Reduced Count Month-Over-Month in Hot Springs, AR (CBSA)                     | 2017-07-01          | 2022-11-01        |
 | PRIREDCOUYY26300          | Housing Inventory: Price Reduced Count Year-Over-Year in Hot Springs, AR (CBSA)                       | 2017-07-01          | 2022-11-01        |
-| QGMP26300                 | Total Quantity Indexes for Real GDP for Hot Springs, AR (MSA)                                         | 2001-01-01          | 2020-01-01        |
-| RGMP26300                 | Total Real Gross Domestic Product for Hot Springs, AR (MSA)                                           | 2001-01-01          | 2020-01-01        |
+| QGMP26300                 | Total Quantity Indexes for Real GDP for Hot Springs, AR (MSA)                                         | 2001-01-01          | 2021-01-01        |
+| RGMP26300                 | Total Real Gross Domestic Product for Hot Springs, AR (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RPI26300                  | Real Personal Income for Hot Springs, AR (MSA)                                                        | 2008-01-01          | 2020-01-01        |
 | RPIPC26300                | Real Per Capita Personal Income for Hot Springs, AR (MSA)                                             | 2008-01-01          | 2020-01-01        |
 | RPPALL26300               | Regional Price Parities: All Items for Hot Springs, AR (MSA)                                          | 2008-01-01          | 2020-01-01        |
