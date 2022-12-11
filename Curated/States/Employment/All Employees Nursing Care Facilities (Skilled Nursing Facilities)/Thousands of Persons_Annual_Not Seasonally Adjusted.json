@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000006562310001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Health Care: Nursing Care Facilities (Skilled Nursing Facilities) in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-03-15 05:20:27-05",
-    "popularity": 1,
-    "group_popularity": 1,
+    "popularity": 2,
+    "group_popularity": 2,
     "path": "Database/U.S. Regional Data/States/Wisconsin"
   }
 }

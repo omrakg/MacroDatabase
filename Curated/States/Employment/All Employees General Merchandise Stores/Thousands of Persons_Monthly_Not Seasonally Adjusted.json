@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000004245200001",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: General Merchandise Stores in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000004245200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: General Merchandise Stores in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -57,8 +57,8 @@
   },
   "Texas": {
     "id": "SMU48000004245200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: General Merchandise Stores in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -76,8 +76,8 @@
   },
   "Utah": {
     "id": "SMU49000004245200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: General Merchandise Stores in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -95,8 +95,8 @@
   },
   "Vermont": {
     "id": "SMU50000004245200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: General Merchandise Stores in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -114,8 +114,8 @@
   },
   "Washington": {
     "id": "SMU53000004245200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: General Merchandise Stores in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -133,8 +133,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000004245200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: General Merchandise Stores in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",

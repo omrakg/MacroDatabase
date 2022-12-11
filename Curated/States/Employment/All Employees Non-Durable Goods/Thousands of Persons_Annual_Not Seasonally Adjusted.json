@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000003200000001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000003200000001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -32,7 +32,7 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-19 02:54:51-06",
     "popularity": 1,
-    "group_popularity": 1,
+    "group_popularity": 2,
     "notes": "The Federal Reserve Bank of St. Louis seasonally adjusts this series by using the 'statsmodels' library from Python with default parameter settings. The package uses the U.S. Bureau of the Census X-13ARIMA-SEATS Seasonal Adjustment Program. More information on the 'statsmodels' X-13ARIMA-SEATS package can be found here (https://www.statsmodels.org/dev/generated/statsmodels.tsa.x13.x13_arima_analysis.html). More information on X-13ARIMA-SEATS can be found here (https://www.census.gov/data/software/x13as.html).\n\nMany series include both seasonally adjusted (SA) and not seasonally adjusted (NSA) data. Occasionally, updates to the data will not include sufficient seasonal factors to trigger a seasonal adjustment. In these cases, the NSA series will be updated normally; but the SA series will also be updated with the NSA data. The NSA series can be located here here (https://fred.stlouisfed.org/series/SMU72000003200000001).\n\nSome seasonally adjusted series may exhibit negative values because they are created from a seasonal adjustment process regardless of the actual meaning or interpretation of the given indicator.",
     "path": "Database/U.S. Regional Data/States/Puerto Rico"
   },
@@ -56,8 +56,8 @@
   },
   "Texas": {
     "id": "SMU48000003200000001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -74,8 +74,8 @@
   },
   "Utah": {
     "id": "SMU49000003200000001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -92,8 +92,8 @@
   },
   "Vermont": {
     "id": "SMU50000003200000001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -110,8 +110,8 @@
   },
   "Virginia": {
     "id": "SMU51000003200000001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -128,8 +128,8 @@
   },
   "Washington": {
     "id": "SMU53000003200000001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -146,8 +146,8 @@
   },
   "West Virginia": {
     "id": "SMU54000003200000001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in West Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -164,8 +164,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000003200000001A",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Manufacturing: Non-Durable Goods in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

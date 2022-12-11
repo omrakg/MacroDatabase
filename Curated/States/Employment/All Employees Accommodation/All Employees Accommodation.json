@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000007072100001",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -77,8 +77,8 @@
     },
     "Utah": {
       "id": "SMU49000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -96,8 +96,8 @@
     },
     "Vermont": {
       "id": "SMU50000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -115,8 +115,8 @@
     },
     "Virginia": {
       "id": "SMU51000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -134,8 +134,8 @@
     },
     "Washington": {
       "id": "SMU53000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -153,8 +153,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -174,8 +174,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -193,8 +193,8 @@
     },
     "Puerto Rico": {
       "id": "SMU72000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Puerto Rico",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -250,8 +250,8 @@
     },
     "Utah": {
       "id": "SMU49000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Utah",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -269,8 +269,8 @@
     },
     "Vermont": {
       "id": "SMU50000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Vermont",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -288,8 +288,8 @@
     },
     "Virginia": {
       "id": "SMU51000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Virginia",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -307,8 +307,8 @@
     },
     "Washington": {
       "id": "SMU53000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",
@@ -326,8 +326,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000007072100001SA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "All Employees: Leisure and Hospitality: Accommodation in Wisconsin",
       "observation_start": "1990-01-01",
       "observation_end": "2022-10-01",

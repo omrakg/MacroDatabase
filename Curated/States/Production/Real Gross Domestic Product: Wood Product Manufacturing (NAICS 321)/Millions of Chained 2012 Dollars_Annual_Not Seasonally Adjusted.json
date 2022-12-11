@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWPMANRGSP",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Real Gross Domestic Product: Wood Product Manufacturing (NAICS 321) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWPMANRGSP",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Real Gross Domestic Product: Wood Product Manufacturing (NAICS 321) in Alabama",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWPMANRGSP",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Real Gross Domestic Product: Wood Product Manufacturing (NAICS 321) in Alaska",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   },
   "Arkansas": {
     "id": "ARWPMANRGSP",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Real Gross Domestic Product: Wood Product Manufacturing (NAICS 321) in Arkansas",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -77,8 +77,8 @@
   },
   "Delaware": {
     "id": "DEWPMANRGSP",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Real Gross Domestic Product: Wood Product Manufacturing (NAICS 321) in Delaware",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",

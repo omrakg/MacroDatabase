@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000007072200001",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000007072200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -76,8 +76,8 @@
   },
   "Utah": {
     "id": "SMU49000007072200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -95,8 +95,8 @@
   },
   "Vermont": {
     "id": "SMU50000007072200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -114,8 +114,8 @@
   },
   "Virginia": {
     "id": "SMU51000007072200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -133,8 +133,8 @@
   },
   "Washington": {
     "id": "SMU53000007072200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -152,8 +152,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000007072200001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Leisure and Hospitality: Food Services and Drinking Places in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",

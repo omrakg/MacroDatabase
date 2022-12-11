@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWPRO",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Professional and Technical Services Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWPRO",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Professional and Technical Services Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWPRO",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Professional and Technical Services Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Arkansas": {
     "id": "ARWPRO",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Professional and Technical Services Wages and Salaries in Arkansas",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Delaware": {
     "id": "DEWPRO",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Professional and Technical Services Wages and Salaries in Delaware",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",

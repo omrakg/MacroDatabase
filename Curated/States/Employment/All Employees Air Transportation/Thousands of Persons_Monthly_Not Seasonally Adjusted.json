@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000004348100001",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Transportation and Utilities: Air Transportation in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -19,8 +19,8 @@
   },
   "Texas": {
     "id": "SMU48000004348100001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Transportation and Utilities: Air Transportation in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -38,8 +38,8 @@
   },
   "Utah": {
     "id": "SMU49000004348100001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Transportation and Utilities: Air Transportation in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",

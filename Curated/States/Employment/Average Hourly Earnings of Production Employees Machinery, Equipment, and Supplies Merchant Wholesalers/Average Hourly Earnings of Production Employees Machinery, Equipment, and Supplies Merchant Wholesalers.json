@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142380008",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Average Hourly Earnings of Production Employees: Wholesale Trade: Machinery, Equipment, and Supplies Merchant Wholesalers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2022-10-01",
@@ -22,8 +22,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000004142380008A",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Average Hourly Earnings of Production Employees: Wholesale Trade: Machinery, Equipment, and Supplies Merchant Wholesalers in Texas",
       "observation_start": "2001-01-01",
       "observation_end": "2021-01-01",

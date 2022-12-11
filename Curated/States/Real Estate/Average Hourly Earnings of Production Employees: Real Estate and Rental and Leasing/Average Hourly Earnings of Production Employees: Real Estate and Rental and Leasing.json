@@ -2,8 +2,8 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000005553000008",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Average Hourly Earnings of Production Employees: Real Estate and Rental and Leasing in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2017-12-01",
@@ -15,15 +15,15 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2018-01-23 15:01:18-06",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/West Virginia"
     }
   },
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000005553000008A",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Average Hourly Earnings of Production Employees: Real Estate and Rental and Leasing in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2016-01-01",
@@ -35,7 +35,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2017-03-13 16:17:39-05",
       "popularity": 1,
-      "group_popularity": 1,
+      "group_popularity": 2,
       "path": "Database/U.S. Regional Data/States/West Virginia"
     }
   },

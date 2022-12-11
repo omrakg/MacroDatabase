@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000005552400001",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Financial Activities: Insurance Carriers and Related Activities in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000005552400001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Financial Activities: Insurance Carriers and Related Activities in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000005552400001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Financial Activities: Insurance Carriers and Related Activities in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -57,8 +57,8 @@
   },
   "Utah": {
     "id": "SMU49000005552400001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Financial Activities: Insurance Carriers and Related Activities in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -76,8 +76,8 @@
   },
   "Washington": {
     "id": "SMU53000005552400001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Financial Activities: Insurance Carriers and Related Activities in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",

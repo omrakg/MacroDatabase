@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000004244600001",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: Health and Personal Care Stores in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -19,8 +19,8 @@
   },
   "Puerto Rico": {
     "id": "SMU72000004244600001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: Health and Personal Care Stores in Puerto Rico",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
@@ -57,8 +57,8 @@
   },
   "Texas": {
     "id": "SMU48000004244600001SA",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "All Employees: Retail Trade: Health and Personal Care Stores in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-10-01",
