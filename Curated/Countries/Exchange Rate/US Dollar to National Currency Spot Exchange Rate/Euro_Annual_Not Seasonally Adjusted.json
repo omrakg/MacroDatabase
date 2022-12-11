@@ -1,8 +1,8 @@
 {
   "Slovak Republic": {
     "id": "CCUSSP01SKA650N",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "US Dollar to National Currency Spot Exchange Rate for the Slovak Republic",
     "observation_start": "1993-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Hungary": {
     "id": "CCUSSP01HUQ650N",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "US Dollar to National Currency Spot Exchange Rate for Hungary",
     "observation_start": "1986-01-01",
     "observation_end": "2022-07-01",
@@ -39,8 +39,8 @@
   },
   "Iceland": {
     "id": "CCUSSP01ISQ650N",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "US Dollar to National Currency Spot Exchange Rate for Iceland",
     "observation_start": "1960-01-01",
     "observation_end": "2022-07-01",
@@ -58,8 +58,8 @@
   },
   "Luxembourg": {
     "id": "CCUSSP01LUQ650N",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "US Dollar to National Currency Spot Exchange Rate for Luxembourg",
     "observation_start": "1960-01-01",
     "observation_end": "2022-07-01",
@@ -77,8 +77,8 @@
   },
   "Poland": {
     "id": "CCUSSP01PLQ650N",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "US Dollar to National Currency Spot Exchange Rate for Poland",
     "observation_start": "1960-01-01",
     "observation_end": "2022-07-01",
@@ -90,14 +90,14 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-11-14 14:22:43-06",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 4,
     "notes": "OECD descriptor ID: CCUSSP01\nOECD unit ID: ST\nOECD country ID: POL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Poland"
   },
   "Turkey": {
     "id": "CCUSSP01TRQ650N",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "US Dollar to National Currency Spot Exchange Rate for Turkey",
     "observation_start": "1960-01-01",
     "observation_end": "2022-07-01",
@@ -108,8 +108,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-11-14 14:14:24-06",
-    "popularity": 2,
-    "group_popularity": 20,
+    "popularity": 3,
+    "group_popularity": 16,
     "notes": "OECD descriptor ID: CCUSSP01\nOECD unit ID: ST\nOECD country ID: TUR\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Turkey"
   }

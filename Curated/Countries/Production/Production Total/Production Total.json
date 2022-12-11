@@ -2,8 +2,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "ESTPREND401IXOBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Estonia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -21,8 +21,8 @@
     },
     "Czech Republic": {
       "id": "CZEPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-08-01",
@@ -40,8 +40,8 @@
     },
     "Hungary": {
       "id": "HUNPREND401IXEBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Hungary",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -61,8 +61,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Estonia": {
       "id": "ESTPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Estonia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -80,8 +80,8 @@
     },
     "Czech Republic": {
       "id": "CZEPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-08-01",
@@ -99,8 +99,8 @@
     },
     "Hungary": {
       "id": "HUNPREND401IXEBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Hungary",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -120,8 +120,8 @@
   "Index Eurostat base_Monthly_Not Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNPREND401IXEBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Hungary",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -139,8 +139,8 @@
     },
     "Czech Republic": {
       "id": "CZEPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-08-01",
@@ -158,8 +158,8 @@
     },
     "Estonia": {
       "id": "ESTPREND401IXOBSAQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Estonia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-04-01",
@@ -179,8 +179,8 @@
   "Index Eurostat base_Quarterly_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "ESTPREND401IXEBQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Estonia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-04-01",
@@ -198,8 +198,8 @@
     },
     "Czech Republic": {
       "id": "CZEPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-08-01",
@@ -217,8 +217,8 @@
     },
     "Hungary": {
       "id": "HUNPREND401IXEBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Hungary",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -238,8 +238,8 @@
   "Index Eurostat base_Monthly_Seasonally Adjusted": {
     "Estonia": {
       "id": "ESTPREND401IXEBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Estonia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -257,8 +257,8 @@
     },
     "Czech Republic": {
       "id": "CZEPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-08-01",
@@ -276,8 +276,8 @@
     },
     "Hungary": {
       "id": "HUNPREND401IXEBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Hungary",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -297,8 +297,8 @@
   "Index Eurostat base_Quarterly_Seasonally Adjusted": {
     "Estonia": {
       "id": "ESTPREND401IXEBSAQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Estonia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-04-01",
@@ -316,8 +316,8 @@
     },
     "Czech Republic": {
       "id": "CZEPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-08-01",
@@ -335,8 +335,8 @@
     },
     "Hungary": {
       "id": "HUNPREND401IXEBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Hungary",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -356,8 +356,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Estonia": {
       "id": "ESTPREND401IXOBQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Estonia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-04-01",
@@ -375,8 +375,8 @@
     },
     "Czech Republic": {
       "id": "CZEPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-08-01",
@@ -394,8 +394,8 @@
     },
     "Hungary": {
       "id": "HUNPREND401IXEBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Hungary",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",
@@ -415,8 +415,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Estonia": {
       "id": "ESTPREND401IXOBSAQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Estonia",
       "observation_start": "2000-01-01",
       "observation_end": "2022-04-01",
@@ -434,8 +434,8 @@
     },
     "Czech Republic": {
       "id": "CZEPREND401IXOBSAM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for the Czech Republic",
       "observation_start": "1995-01-01",
       "observation_end": "2022-08-01",
@@ -453,8 +453,8 @@
     },
     "Hungary": {
       "id": "HUNPREND401IXEBM",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production: Energy: Production and distribution of electricity, gas, steam and air conditioning: Total for Hungary",
       "observation_start": "2000-01-01",
       "observation_end": "2022-08-01",

@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLA661N",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Annual_Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLA661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -61,8 +61,8 @@
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLQ661N",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-07-01",
@@ -101,8 +101,8 @@
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -122,8 +122,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-07-01",
@@ -141,8 +141,8 @@
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -162,8 +162,8 @@
   "Zloty_Annual_Not Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLA189N",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -181,8 +181,8 @@
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -202,8 +202,8 @@
   "Zloty_Monthly_Not Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLM189N",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-09-01",
@@ -214,15 +214,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:27:17-06",
-      "popularity": 1,
+      "popularity": 2,
       "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEAPR03\nOECD unit ID: ST\nOECD country ID: POL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Poland"
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -242,8 +242,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLM661N",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-09-01",
@@ -261,8 +261,8 @@
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -282,8 +282,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLM661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-09-01",
@@ -294,15 +294,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-14 14:48:16-06",
-      "popularity": 3,
+      "popularity": 2,
       "group_popularity": 4,
       "notes": "OECD descriptor ID: LCEAPR03\nOECD unit ID: IXOBSA\nOECD country ID: POL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Poland"
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",
@@ -322,8 +322,8 @@
   "Zloty_Quarterly_Not Seasonally Adjusted": {
     "Poland": {
       "id": "LCEAPR03PLQ189N",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Poland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-07-01",
@@ -341,8 +341,8 @@
     },
     "Iceland": {
       "id": "LCEAPR03ISQ661S",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Monthly Earnings: Private Sector for Iceland",
       "observation_start": "1990-01-01",
       "observation_end": "2022-04-01",

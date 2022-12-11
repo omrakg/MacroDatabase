@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NXNSAXDCSAQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
     },
     "Argentina": {
       "id": "NXXDCARA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
     },
     "Great Britain": {
       "id": "NXXDCGBA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   "Domestic Currency_Quarterly_Seasonally Adjusted": {
     "Great Britain": {
       "id": "NXSAXDCGBQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Great Britain",
       "observation_start": "1955-01-01",
       "observation_end": "2022-07-01",
@@ -76,8 +76,8 @@
     },
     "Argentina": {
       "id": "NXXDCARA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -94,8 +94,8 @@
     },
     "Saudi Arabia": {
       "id": "NXXDCSAA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -114,8 +114,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NXXDCSAA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Saudi Arabia",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -132,8 +132,8 @@
     },
     "Argentina": {
       "id": "NXXDCARA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -150,8 +150,8 @@
     },
     "Great Britain": {
       "id": "NXXDCGBA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Nominal Exports of Goods and Services for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",

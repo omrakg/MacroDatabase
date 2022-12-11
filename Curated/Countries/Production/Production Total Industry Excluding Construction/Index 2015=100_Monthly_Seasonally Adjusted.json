@@ -1,8 +1,8 @@
 {
   "Czech Republic": {
     "id": "CZEPROINDMISMEI",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Production: Industry: Total Industry: Total Industry Excluding Construction for the Czech Republic",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",
@@ -13,15 +13,15 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-14 14:34:15-06",
-    "popularity": 3,
+    "popularity": 2,
     "group_popularity": 3,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Czech Republic"
   },
   "Chile": {
     "id": "CHLPROINDQISMEI",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Production: Industry: Total Industry: Total Industry Excluding Construction for Chile",
     "observation_start": "1991-04-01",
     "observation_end": "2022-07-01",
@@ -32,8 +32,8 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-14 14:41:40-06",
-    "popularity": 2,
-    "group_popularity": 7,
+    "popularity": 4,
+    "group_popularity": 8,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Chile"
   }

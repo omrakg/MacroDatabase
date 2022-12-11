@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPROCONAISMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production of Total Construction in Israel",
       "observation_start": "2000-01-01",
       "observation_end": "2017-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "ISLPROCONQISMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production of Total Construction in Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-10-01",
@@ -42,8 +42,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLPROCONMISMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production of Total Construction in Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-12-01",
@@ -61,8 +61,8 @@
     },
     "Israel": {
       "id": "ISRPROCONQISMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production of Total Construction in Israel",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -82,8 +82,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPROCONQISMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production of Total Construction in Israel",
       "observation_start": "2000-01-01",
       "observation_end": "2018-01-01",
@@ -101,8 +101,8 @@
     },
     "Iceland": {
       "id": "ISLPROCONQISMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Production of Total Construction in Iceland",
       "observation_start": "1998-01-01",
       "observation_end": "2017-10-01",

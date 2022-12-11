@@ -1,8 +1,8 @@
 {
   "Estonia": {
     "id": "ESTSLRTTO02IXEBSAQ",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Sales: Retail trade: Total retail trade: Value for Estonia",
     "observation_start": "1995-01-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Chile": {
     "id": "CHLSLRTTO02IXOBSAM",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Sales: Retail trade: Total retail trade: Value for Chile",
     "observation_start": "2005-01-01",
     "observation_end": "2016-12-01",
@@ -39,8 +39,8 @@
   },
   "Colombia": {
     "id": "COLSLRTTO02IXOBSAQ",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Sales: Retail trade: Total retail trade: Value for Colombia",
     "observation_start": "1999-01-01",
     "observation_end": "2018-10-01",
@@ -58,8 +58,8 @@
   },
   "Czech Republic": {
     "id": "CZESLRTTO02IXOBSAQ",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Sales: Retail trade: Total retail trade: Value for the Czech Republic",
     "observation_start": "1996-01-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Iceland": {
     "id": "ISLSLRTTO02IXOBSAM",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Sales: Retail trade: Total retail trade: Value for Iceland",
     "observation_start": "1991-01-01",
     "observation_end": "2017-07-01",
@@ -96,8 +96,8 @@
   },
   "Israel": {
     "id": "ISRSLRTTO02IXOBSAM",
-    "realtime_start": "2022-12-04",
-    "realtime_end": "2022-12-04",
+    "realtime_start": "2022-12-11",
+    "realtime_end": "2022-12-11",
     "title": "Sales: Retail trade: Total retail trade: Value for Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2017-07-01",

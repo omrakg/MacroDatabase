@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NCRNSAXDCSAQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
     },
     "Argentina": {
       "id": "NCRXDCARA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -32,14 +32,14 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-07-11 07:10:28-05",
-      "popularity": 2,
+      "popularity": 1,
       "group_popularity": 4,
       "path": "Database/International Data/Countries/Argentina"
     },
     "Great Britain": {
       "id": "NCRXDCGBA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -51,15 +51,15 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-10-17 10:17:06-05",
       "popularity": 1,
-      "group_popularity": 3,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Great Britain"
     }
   },
   "Domestic Currency_Quarterly_Seasonally Adjusted": {
     "Great Britain": {
       "id": "NCRSAXDCGBQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2022-07-01",
@@ -70,14 +70,14 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-28 07:09:08-06",
-      "popularity": 3,
-      "group_popularity": 3,
+      "popularity": 2,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Great Britain"
     },
     "Argentina": {
       "id": "NCRXDCARA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -88,14 +88,14 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-07-11 07:10:28-05",
-      "popularity": 2,
+      "popularity": 1,
       "group_popularity": 4,
       "path": "Database/International Data/Countries/Argentina"
     },
     "Saudi Arabia": {
       "id": "NCRXDCSAA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -114,8 +114,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "Saudi Arabia": {
       "id": "NCRXDCSAA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Saudi Arabia",
       "observation_start": "2010-01-01",
       "observation_end": "2021-01-01",
@@ -132,8 +132,8 @@
     },
     "Argentina": {
       "id": "NCRXDCARA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -144,14 +144,14 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-07-11 07:10:28-05",
-      "popularity": 2,
+      "popularity": 1,
       "group_popularity": 4,
       "path": "Database/International Data/Countries/Argentina"
     },
     "Great Britain": {
       "id": "NCRXDCGBA",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Real Final Consumption Expenditure for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -163,7 +163,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-10-17 10:17:06-05",
       "popularity": 1,
-      "group_popularity": 3,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Great Britain"
     }
   }

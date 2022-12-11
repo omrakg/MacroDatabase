@@ -2,8 +2,8 @@
   "Persons_Quarterly_Not Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULFWATTMASTQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Labour Force Survey -Quarterly levels: Working age population: Aged 15 and over: Males for Lithuania",
       "observation_start": "2005-01-01",
       "observation_end": "2022-04-01",
@@ -23,8 +23,8 @@
   "Persons_Quarterly_Seasonally Adjusted": {
     "Lithuania": {
       "id": "LTULFWATTMASTSAQ",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Labour Force Survey -Quarterly levels: Working age population: Aged 15 and over: Males for Lithuania",
       "observation_start": "2005-01-01",
       "observation_end": "2022-04-01",

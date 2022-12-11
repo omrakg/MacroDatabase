@@ -2,8 +2,8 @@
   "Forint_Annual_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNGFCEADSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -33,15 +33,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:02:44-05",
-      "popularity": 8,
-      "group_popularity": 8,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
   "Forint_Quarterly_Seasonally Adjusted": {
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -80,8 +80,8 @@
     },
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -92,15 +92,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:02:44-05",
-      "popularity": 8,
-      "group_popularity": 8,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -120,8 +120,8 @@
   "Iceland Krona_Annual_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLGFCEADSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -133,14 +133,14 @@
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:44:01-05",
       "popularity": 1,
-      "group_popularity": 8,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -158,8 +158,8 @@
     },
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -179,8 +179,8 @@
   "Iceland Krona_Quarterly_Seasonally Adjusted": {
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -191,15 +191,15 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:02:44-05",
-      "popularity": 8,
-      "group_popularity": 8,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Iceland"
     },
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -217,8 +217,8 @@
     },
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -238,8 +238,8 @@
   "New Israeli Sheqel_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGFCEADSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -257,8 +257,8 @@
     },
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -276,8 +276,8 @@
     },
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -288,8 +288,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:02:44-05",
-      "popularity": 8,
-      "group_popularity": 8,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Iceland"
     }
@@ -297,8 +297,8 @@
   "New Israeli Sheqel_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -316,8 +316,8 @@
     },
     "Hungary": {
       "id": "HUNGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Hungary",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -335,8 +335,8 @@
     },
     "Iceland": {
       "id": "ISLGFCEQDSMEI",
-      "realtime_start": "2022-12-04",
-      "realtime_end": "2022-12-04",
+      "realtime_start": "2022-12-11",
+      "realtime_end": "2022-12-11",
       "title": "Government Final Consumption Expenditure in Iceland",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -347,8 +347,8 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-09-14 15:02:44-05",
-      "popularity": 8,
-      "group_popularity": 8,
+      "popularity": 3,
+      "group_popularity": 3,
       "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
       "path": "Database/International Data/Countries/Iceland"
     }
