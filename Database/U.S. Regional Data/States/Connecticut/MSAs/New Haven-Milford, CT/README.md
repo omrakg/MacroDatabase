@@ -25,7 +25,7 @@
 | HORAYYMSA35300            | Market Hotness: Hotness Rank in New Haven-Milford, CT (CBSA)                                             | 2018-08-01          | 2022-11-01        |
 | HOSCMSA35300              | Market Hotness: Hotness Score in New Haven-Milford, CT (CBSA)                                            | 2017-08-01          | 2022-11-01        |
 | IHLCHG35300               | Job Postings on Indeed in New Haven-Milford, CT (MSA)                                                    | 2020-02-01          | 2022-11-25        |
-| IRPD35300                 | Implicit Regional Price Deflator for New Haven-Milford, CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| IRPD35300                 | Implicit Regional Price Deflator for New Haven-Milford, CT (MSA)                                         | 2008-01-01          | 2021-01-01        |
 | LDPEPRMMMSA35300          | Market Hotness: Listing Views per Property in New Haven-Milford, CT (CBSA)                               | 2017-09-01          | 2022-11-01        |
 | LDPEPRVSUSMSA35300        | Market Hotness: Listing Views per Property Versus the United States in New Haven-Milford, CT (CBSA)      | 2017-08-01          | 2022-11-01        |
 | LDPEPRYYMSA35300          | Market Hotness: Listing Views per Property in New Haven-Milford, CT (CBSA)                               | 2018-08-01          | 2022-11-01        |
@@ -69,10 +69,10 @@
 | PRIREDCOUYY35300          | Housing Inventory: Price Reduced Count Year-Over-Year in New Haven-Milford, CT (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP35300                 | Total Quantity Indexes for Real GDP for New Haven-Milford, CT (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP35300                 | Total Real Gross Domestic Product for New Haven-Milford, CT (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI35300                  | Real Personal Income for New Haven-Milford, CT (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC35300                | Real Per Capita Personal Income for New Haven-Milford, CT (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL35300               | Regional Price Parities: All Items for New Haven-Milford, CT (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD35300              | Regional Price Parities: Goods for New Haven-Milford, CT (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH35300          | Regional Price Parities: Services: Other for New Haven-Milford, CT (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT35300         | Regional Price Parities: Services: Rents for New Haven-Milford, CT (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| RPI35300                  | Real Personal Income for New Haven-Milford, CT (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC35300                | Real Per Capita Personal Income for New Haven-Milford, CT (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL35300               | Regional Price Parities: All Items for New Haven-Milford, CT (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD35300              | Regional Price Parities: Goods for New Haven-Milford, CT (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH35300          | Regional Price Parities: Services: Other for New Haven-Milford, CT (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT35300         | Regional Price Parities: Services: Rents for New Haven-Milford, CT (MSA)                                 | 2008-01-01          | 2021-01-01        |
 | SUSCMSA35300              | Market Hotness: Supply Score in New Haven-Milford, CT (CBSA)                                             | 2017-08-01          | 2022-11-01        |

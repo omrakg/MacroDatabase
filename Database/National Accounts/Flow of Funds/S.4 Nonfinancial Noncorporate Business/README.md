@@ -91,9 +91,9 @@
 | NNBPINQ027S | Nonfinancial Noncorporate Business; Net National Income/Balance of Primary Incomes, Net, Transactions                              | 1946-10-01          | 2022-07-01        |
 | NNBPIPA027N | Nonfinancial Noncorporate Business; Uses of Property Income (Paid), Transactions                                                   | 1959-01-01          | 2021-01-01        |
 | NNBREBA027N | Nonfinancial Noncorporate Business; Foreign Direct Investment in U.S. Real Estate Business (Market Value); Liability, Level        | 1945-01-01          | 2021-01-01        |
-| NNBREBQ027S | Nonfinancial Noncorporate Business; Foreign Direct Investment in U.S. Real Estate Business (Market Value); Liability, Level        | 1945-10-01          | 2022-04-01        |
+| NNBREBQ027S | Nonfinancial Noncorporate Business; Foreign Direct Investment in U.S. Real Estate Business (Market Value); Liability, Level        | 1945-10-01          | 2022-07-01        |
 | NNBREOA027N | Nonfinancial Noncorporate Business; Foreign Direct Investment in U.S. Real Estate Business (Market Value); Liability, Transactions | 1946-01-01          | 2021-01-01        |
-| NNBREOQ027S | Nonfinancial Noncorporate Business; Foreign Direct Investment in U.S. Real Estate Business (Market Value); Liability, Transactions | 1946-10-01          | 2022-04-01        |
+| NNBREOQ027S | Nonfinancial Noncorporate Business; Foreign Direct Investment in U.S. Real Estate Business (Market Value); Liability, Transactions | 1946-10-01          | 2022-07-01        |
 | NNBRMVA027N | Nonfinancial Noncorporate Business; Real Estate at Market Value, Level                                                             | 1945-01-01          | 2021-01-01        |
 | NNBRMVQ027S | Nonfinancial Noncorporate Business; Real Estate at Market Value, Level                                                             | 1945-10-01          | 2022-07-01        |
 | NNBRPTA027N | Nonfinancial Noncorporate Business; Insurance Receivables Due from Property-Casualty Insurance Companies; Asset, Level             | 1945-01-01          | 2021-01-01        |

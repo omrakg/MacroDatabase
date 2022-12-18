@@ -24,13 +24,13 @@
 | HORAMSA27340              | Market Hotness: Hotness Rank in Jacksonville, NC (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA27340            | Market Hotness: Hotness Rank in Jacksonville, NC (CBSA)                                             | 2018-08-01          | 2022-11-01        |
 | HOSCMSA27340              | Market Hotness: Hotness Score in Jacksonville, NC (CBSA)                                            | 2017-08-01          | 2022-11-01        |
-| IRPD27340                 | Implicit Regional Price Deflator for Jacksonville, NC (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| JACK337GOVT               | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| JACK337GOVTN              | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2022-10-01        |
+| IRPD27340                 | Implicit Regional Price Deflator for Jacksonville, NC (MSA)                                         | 2008-01-01          | 2021-01-01        |
+| JACK337GOVT               | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2022-11-01        |
+| JACK337GOVTN              | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2022-11-01        |
 | JACK337LF                 | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | JACK337LFN                | Civilian Labor Force in Jacksonville, NC (MSA)                                                      | 1990-01-01          | 2022-10-01        |
-| JACK337NA                 | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| JACK337NAN                | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-10-01        |
+| JACK337NA                 | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| JACK337NAN                | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-11-01        |
 | JACK337PCPI               | Per Capita Personal Income in Jacksonville, NC (MSA)                                                | 1969-01-01          | 2021-01-01        |
 | JACK337UR                 | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | JACK337URN                | Unemployment Rate in Jacksonville, NC (MSA)                                                         | 1990-01-01          | 2022-10-01        |
@@ -83,40 +83,40 @@
 | PRIREDCOUYY27340          | Housing Inventory: Price Reduced Count Year-Over-Year in Jacksonville, NC (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP27340                 | Total Quantity Indexes for Real GDP for Jacksonville, NC (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP27340                 | Total Real Gross Domestic Product for Jacksonville, NC (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI27340                  | Real Personal Income for Jacksonville, NC (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC27340                | Real Per Capita Personal Income for Jacksonville, NC (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL27340               | Regional Price Parities: All Items for Jacksonville, NC (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD27340              | Regional Price Parities: Goods for Jacksonville, NC (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH27340          | Regional Price Parities: Services: Other for Jacksonville, NC (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT27340         | Regional Price Parities: Services: Rents for Jacksonville, NC (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS37273400000000026      | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-04-01          | 2022-10-01        |
+| RPI27340                  | Real Personal Income for Jacksonville, NC (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC27340                | Real Per Capita Personal Income for Jacksonville, NC (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL27340               | Regional Price Parities: All Items for Jacksonville, NC (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD27340              | Regional Price Parities: Goods for Jacksonville, NC (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH27340          | Regional Price Parities: Services: Other for Jacksonville, NC (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT27340         | Regional Price Parities: Services: Rents for Jacksonville, NC (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| SMS37273400000000026      | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-04-01          | 2022-11-01        |
 | SMU37273400000000001A     | All Employees: Total Nonfarm in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU37273400500000001      | All Employees: Total Private in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-10-01        |
+| SMU37273400500000001      | All Employees: Total Private in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-11-01        |
 | SMU37273400500000001A     | All Employees: Total Private in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU37273400500000001SA    | All Employees: Total Private in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| SMU37273400500000002      | Average Weekly Hours of All Employees: Total Private in Jacksonville, NC (MSA)                      | 2007-01-01          | 2022-10-01        |
+| SMU37273400500000001SA    | All Employees: Total Private in Jacksonville, NC (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| SMU37273400500000002      | Average Weekly Hours of All Employees: Total Private in Jacksonville, NC (MSA)                      | 2007-01-01          | 2022-11-01        |
 | SMU37273400500000002A     | Average Weekly Hours of All Employees: Total Private in Jacksonville, NC (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU37273400500000003      | Average Hourly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2022-10-01        |
+| SMU37273400500000003      | Average Hourly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2022-11-01        |
 | SMU37273400500000003A     | Average Hourly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU37273400500000011      | Average Weekly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2022-10-01        |
+| SMU37273400500000011      | Average Weekly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2022-11-01        |
 | SMU37273400500000011A     | Average Weekly Earnings of All Employees: Total Private in Jacksonville, NC (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU37273400600000001      | All Employees: Goods Producing in Jacksonville, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| SMU37273400600000001      | All Employees: Goods Producing in Jacksonville, NC (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU37273400600000001A     | All Employees: Goods Producing in Jacksonville, NC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU37273400600000001SA    | All Employees: Goods Producing in Jacksonville, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU37273400700000001      | All Employees: Service-Providing in Jacksonville, NC (MSA)                                          | 1990-01-01          | 2022-10-01        |
+| SMU37273400600000001SA    | All Employees: Goods Producing in Jacksonville, NC (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU37273400700000001      | All Employees: Service-Providing in Jacksonville, NC (MSA)                                          | 1990-01-01          | 2022-11-01        |
 | SMU37273400700000001A     | All Employees: Service-Providing in Jacksonville, NC (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU37273400700000001SA    | All Employees: Service-Providing in Jacksonville, NC (MSA)                                          | 1990-01-01          | 2022-10-01        |
-| SMU37273400800000001      | All Employees: Private Service Providing in Jacksonville, NC (MSA)                                  | 1990-01-01          | 2022-10-01        |
+| SMU37273400700000001SA    | All Employees: Service-Providing in Jacksonville, NC (MSA)                                          | 1990-01-01          | 2022-11-01        |
+| SMU37273400800000001      | All Employees: Private Service Providing in Jacksonville, NC (MSA)                                  | 1990-01-01          | 2022-11-01        |
 | SMU37273400800000001A     | All Employees: Private Service Providing in Jacksonville, NC (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU37273400800000001SA    | All Employees: Private Service Providing in Jacksonville, NC (MSA)                                  | 1990-01-01          | 2022-10-01        |
+| SMU37273400800000001SA    | All Employees: Private Service Providing in Jacksonville, NC (MSA)                                  | 1990-01-01          | 2022-11-01        |
 | SMU37273409000000001A     | All Employees: Government in Jacksonville, NC (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU37273409091000001      | All Employees: Government: Federal Government in Jacksonville, NC (MSA)                             | 1990-01-01          | 2022-10-01        |
+| SMU37273409091000001      | All Employees: Government: Federal Government in Jacksonville, NC (MSA)                             | 1990-01-01          | 2022-11-01        |
 | SMU37273409091000001A     | All Employees: Federal Government in Jacksonville, NC (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU37273409091000001SA    | All Employees: Government: Federal Government in Jacksonville, NC (MSA)                             | 1990-01-01          | 2022-10-01        |
-| SMU37273409092000001      | All Employees: Government: State Government in Jacksonville, NC (MSA)                               | 1990-01-01          | 2022-10-01        |
+| SMU37273409091000001SA    | All Employees: Government: Federal Government in Jacksonville, NC (MSA)                             | 1990-01-01          | 2022-11-01        |
+| SMU37273409092000001      | All Employees: Government: State Government in Jacksonville, NC (MSA)                               | 1990-01-01          | 2022-11-01        |
 | SMU37273409092000001A     | All Employees: State Government in Jacksonville, NC (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU37273409092000001SA    | All Employees: Government: State Government in Jacksonville, NC (MSA)                               | 1990-01-01          | 2022-10-01        |
-| SMU37273409093000001      | All Employees: Government: Local Government in Jacksonville, NC (MSA)                               | 1990-01-01          | 2022-10-01        |
+| SMU37273409092000001SA    | All Employees: Government: State Government in Jacksonville, NC (MSA)                               | 1990-01-01          | 2022-11-01        |
+| SMU37273409093000001      | All Employees: Government: Local Government in Jacksonville, NC (MSA)                               | 1990-01-01          | 2022-11-01        |
 | SMU37273409093000001A     | All Employees: Local Government in Jacksonville, NC (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU37273409093000001SA    | All Employees: Government: Local Government in Jacksonville, NC (MSA)                               | 1990-01-01          | 2022-10-01        |
+| SMU37273409093000001SA    | All Employees: Government: Local Government in Jacksonville, NC (MSA)                               | 1990-01-01          | 2022-11-01        |
 | SUSCMSA27340              | Market Hotness: Supply Score in Jacksonville, NC (CBSA)                                             | 2017-08-01          | 2022-11-01        |

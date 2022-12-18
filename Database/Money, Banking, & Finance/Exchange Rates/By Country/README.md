@@ -1,36 +1,36 @@
 | Folder         |   Files / Folders |
 |----------------|-------------------|
-| Japan          |               737 |
-| Switzerland    |                 5 |
-| Norway         |                 5 |
-| Austria        |               816 |
-| Germany        |                 1 |
-| Hong Kong      |               270 |
-| Mexico         |                 5 |
-| Sweden         |                 5 |
-| South Africa   |                 5 |
-| India          |                 5 |
-| South Korea    |                 5 |
-| Ireland        |               819 |
-| Spain          |                 1 |
-| France         |                 1 |
-| Venezuela      |                 5 |
-| Brazil         |                 5 |
-| New Zealand    |               814 |
-| Greece         |                 1 |
-| Portugal       |               829 |
-| Denmark        |                 5 |
+| Singapore      |                 0 |
 | Euro           |                 5 |
-| Singapore      |               279 |
-| Taiwan         |               156 |
-| China          |               613 |
-| Canada         |               723 |
-| United Kingdom |                 5 |
-| Sri Lanka      |               221 |
-| Australia      |                 5 |
-| Italy          |               795 |
-| Netherlands    |               844 |
-| Belgium        |               804 |
-| Malaysia       |                 5 |
-| Thailand       |               348 |
-| Finland        |               828 |
+| China          |                 0 |
+| South Africa   |                 0 |
+| Portugal       |                 0 |
+| Finland        |                 0 |
+| South Korea    |                 5 |
+| Venezuela      |                 5 |
+| France         |                 0 |
+| Sri Lanka      |                 0 |
+| Netherlands    |                 0 |
+| New Zealand    |                 0 |
+| Belgium        |                 0 |
+| India          |                 0 |
+| Hong Kong      |                 0 |
+| Taiwan         |                 0 |
+| Switzerland    |                 0 |
+| Denmark        |                 0 |
+| Norway         |                 0 |
+| Greece         |                 0 |
+| Canada         |                 0 |
+| Japan          |                 0 |
+| Malaysia       |                 0 |
+| Australia      |                 0 |
+| Austria        |                 0 |
+| Brazil         |                 0 |
+| Spain          |                 0 |
+| Italy          |                 0 |
+| Mexico         |                 0 |
+| Germany        |                 0 |
+| Sweden         |                 0 |
+| Thailand       |                 0 |
+| Ireland        |                 0 |
+| United Kingdom |                 0 |

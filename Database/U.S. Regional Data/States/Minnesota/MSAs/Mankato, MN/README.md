@@ -19,7 +19,7 @@
 | ENUC318640310SA           | Average Weekly Wages for Employees in Local Government Establishments in Mankato-North Mankato, MN (MSA)     | 2013-01-01          | 2022-04-01        |
 | ENUC318640510             | Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)              | 2013-01-01          | 2022-04-01        |
 | ENUC318640510SA           | Average Weekly Wages for Employees in Private Establishments in Mankato-North Mankato, MN (MSA)              | 2013-01-01          | 2022-04-01        |
-| IRPD31860                 | Implicit Regional Price Deflator for Mankato-North Mankato, MN (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| IRPD31860                 | Implicit Regional Price Deflator for Mankato-North Mankato, MN (MSA)                                         | 2008-01-01          | 2021-01-01        |
 | LAUMT273186000000003      | Unemployment Rate in Mankato-North Mankato, MN (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | LAUMT273186000000003A     | Unemployment Rate in Mankato-North Mankato, MN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT273186000000004      | Unemployed Persons in Mankato-North Mankato, MN (MSA)                                                        | 1990-01-01          | 2022-10-01        |
@@ -57,34 +57,34 @@
 | PRIREDCOUYY31860          | Housing Inventory: Price Reduced Count Year-Over-Year in Mankato-North Mankato, MN (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP31860                 | Total Quantity Indexes for Real GDP for Mankato-North Mankato, MN (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP31860                 | Total Real Gross Domestic Product for Mankato-North Mankato, MN (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI31860                  | Real Personal Income for Mankato-North Mankato, MN (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC31860                | Real Per Capita Personal Income for Mankato-North Mankato, MN (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL31860               | Regional Price Parities: All Items for Mankato-North Mankato, MN (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD31860              | Regional Price Parities: Goods for Mankato-North Mankato, MN (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH31860          | Regional Price Parities: Services: Other for Mankato-North Mankato, MN (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT31860         | Regional Price Parities: Services: Rents for Mankato-North Mankato, MN (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS27318600000000001      | All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| SMS27318600000000026      | All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)                                              | 1990-04-01          | 2022-10-01        |
-| SMU27318600000000001      | All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2022-10-01        |
+| RPI31860                  | Real Personal Income for Mankato-North Mankato, MN (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC31860                | Real Per Capita Personal Income for Mankato-North Mankato, MN (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL31860               | Regional Price Parities: All Items for Mankato-North Mankato, MN (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD31860              | Regional Price Parities: Goods for Mankato-North Mankato, MN (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH31860          | Regional Price Parities: Services: Other for Mankato-North Mankato, MN (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT31860         | Regional Price Parities: Services: Rents for Mankato-North Mankato, MN (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| SMS27318600000000001      | All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| SMS27318600000000026      | All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)                                              | 1990-04-01          | 2022-11-01        |
+| SMU27318600000000001      | All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2022-11-01        |
 | SMU27318600000000001A     | All Employees: Total Nonfarm in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU27318600500000001      | All Employees: Total Private in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2022-10-01        |
+| SMU27318600500000001      | All Employees: Total Private in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2022-11-01        |
 | SMU27318600500000001A     | All Employees: Total Private in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU27318600500000001SA    | All Employees: Total Private in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| SMU27318600500000002      | Average Weekly Hours of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                      | 2008-01-01          | 2022-10-01        |
+| SMU27318600500000001SA    | All Employees: Total Private in Mankato-North Mankato, MN (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| SMU27318600500000002      | Average Weekly Hours of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                      | 2008-01-01          | 2022-11-01        |
 | SMU27318600500000002A     | Average Weekly Hours of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                      | 2008-01-01          | 2021-01-01        |
-| SMU27318600500000003      | Average Hourly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                   | 2008-01-01          | 2022-10-01        |
+| SMU27318600500000003      | Average Hourly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                   | 2008-01-01          | 2022-11-01        |
 | SMU27318600500000003A     | Average Hourly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                   | 2008-01-01          | 2021-01-01        |
-| SMU27318600500000011      | Average Weekly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                   | 2008-01-01          | 2022-10-01        |
+| SMU27318600500000011      | Average Weekly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                   | 2008-01-01          | 2022-11-01        |
 | SMU27318600500000011A     | Average Weekly Earnings of All Employees: Total Private in Mankato-North Mankato, MN (MSA)                   | 2008-01-01          | 2021-01-01        |
-| SMU27318600600000001      | All Employees: Goods Producing in Mankato-North Mankato, MN (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| SMU27318600600000001      | All Employees: Goods Producing in Mankato-North Mankato, MN (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU27318600600000001A     | All Employees: Goods Producing in Mankato-North Mankato, MN (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU27318600600000001SA    | All Employees: Goods Producing in Mankato-North Mankato, MN (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU27318600700000001      | All Employees: Service-Providing in Mankato-North Mankato, MN (MSA)                                          | 1990-01-01          | 2022-10-01        |
+| SMU27318600600000001SA    | All Employees: Goods Producing in Mankato-North Mankato, MN (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU27318600700000001      | All Employees: Service-Providing in Mankato-North Mankato, MN (MSA)                                          | 1990-01-01          | 2022-11-01        |
 | SMU27318600700000001A     | All Employees: Service-Providing in Mankato-North Mankato, MN (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU27318600700000001SA    | All Employees: Service-Providing in Mankato-North Mankato, MN (MSA)                                          | 1990-01-01          | 2022-10-01        |
-| SMU27318600800000001      | All Employees: Private Service Providing in Mankato-North Mankato, MN (MSA)                                  | 1990-01-01          | 2022-10-01        |
+| SMU27318600700000001SA    | All Employees: Service-Providing in Mankato-North Mankato, MN (MSA)                                          | 1990-01-01          | 2022-11-01        |
+| SMU27318600800000001      | All Employees: Private Service Providing in Mankato-North Mankato, MN (MSA)                                  | 1990-01-01          | 2022-11-01        |
 | SMU27318600800000001A     | All Employees: Private Service Providing in Mankato-North Mankato, MN (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU27318600800000001SA    | All Employees: Private Service Providing in Mankato-North Mankato, MN (MSA)                                  | 1990-01-01          | 2022-10-01        |
-| SMU27318609000000001      | All Employees: Government in Mankato-North Mankato, MN (MSA)                                                 | 1990-01-01          | 2022-10-01        |
+| SMU27318600800000001SA    | All Employees: Private Service Providing in Mankato-North Mankato, MN (MSA)                                  | 1990-01-01          | 2022-11-01        |
+| SMU27318609000000001      | All Employees: Government in Mankato-North Mankato, MN (MSA)                                                 | 1990-01-01          | 2022-11-01        |
 | SMU27318609000000001A     | All Employees: Government in Mankato-North Mankato, MN (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU27318609000000001SA    | All Employees: Government in Mankato-North Mankato, MN (MSA)                                                 | 1990-01-01          | 2022-10-01        |
+| SMU27318609000000001SA    | All Employees: Government in Mankato-North Mankato, MN (MSA)                                                 | 1990-01-01          | 2022-11-01        |

@@ -91,7 +91,7 @@
 | SLGOCTA027N | State and Local Governments; Other Current Transfer Received, Transactions                                      | 1946-01-01          | 2021-01-01        |
 | SLGOCTQ027S | State and Local Governments; Other Current Transfer Received, Transactions                                      | 1946-10-01          | 2022-07-01        |
 | SLGOPNA027N | State and Local Governments; Operating Surplus, Net, Transactions                                               | 1946-01-01          | 2021-01-01        |
-| SLGOPNQ027S | State and Local Governments; Operating Surplus, Net, Transactions                                               | 1946-10-01          | 2022-04-01        |
+| SLGOPNQ027S | State and Local Governments; Operating Surplus, Net, Transactions                                               | 1946-10-01          | 2022-07-01        |
 | SLGPINA027N | State and Local Governments; Subsidies Paid (with Negative Sign) (IMA), Transactions                            | 1946-01-01          | 2021-01-01        |
 | SLGPINQ027S | State and Local Governments; Subsidies Paid (with Negative Sign) (IMA), Transactions                            | 1946-10-01          | 2022-07-01        |
 | SLGPIRQ027S | State and Local Governments; Property Income Received, Net (IMA), Transactions                                  | 1946-10-01          | 2022-07-01        |

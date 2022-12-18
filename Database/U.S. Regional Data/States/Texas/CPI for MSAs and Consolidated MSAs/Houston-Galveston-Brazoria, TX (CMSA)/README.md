@@ -1,7 +1,7 @@
 | id              | title                                                                                                                                     | observation_start   | observation_end   |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | CUURA318SA0     | Consumer Price Index for All Urban Consumers: All Items in Houston-The Woodlands-Sugar Land, TX (CBSA)                                    | 1914-12-01          | 2022-10-01        |
-| CUURA318SA0E    | Consumer Price Index for All Urban Consumers: Energy in Houston-The Woodlands-Sugar Land, TX (CBSA)                                       | 1978-04-01          | 2022-10-01        |
+| CUURA318SA0E    | Consumer Price Index for All Urban Consumers: Energy in Houston-The Woodlands-Sugar Land, TX (CBSA)                                       | 1978-04-01          | 2022-11-01        |
 | CUURA318SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Houston-The Woodlands-Sugar Land, TX (CBSA)               | 1982-02-01          | 2022-10-01        |
 | CUURA318SA0L2   | Consumer Price Index for All Urban Consumers: All Items Less Shelter in Houston-The Woodlands-Sugar Land, TX (CBSA)                       | 1976-01-01          | 2022-10-01        |
 | CUURA318SA0L5   | Consumer Price Index for All Urban Consumers: All Items Less Medical Care in Houston-The Woodlands-Sugar Land, TX (CBSA)                  | 1967-01-01          | 2022-10-01        |
@@ -16,16 +16,16 @@
 | CUURA318SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in Houston-The Woodlands-Sugar Land, TX (CBSA)         | 2009-12-01          | 2022-10-01        |
 | CUURA318SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in Houston-The Woodlands-Sugar Land, TX (CBSA)                           | 1976-01-01          | 2022-10-01        |
 | CUURA318SAF1    | Consumer Price Index for All Urban Consumers: Food in Houston-The Woodlands-Sugar Land, TX (CBSA)                                         | 1914-12-01          | 2022-10-01        |
-| CUURA318SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Houston-The Woodlands-Sugar Land, TX (CBSA)                                 | 1953-01-01          | 2022-10-01        |
+| CUURA318SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Houston-The Woodlands-Sugar Land, TX (CBSA)                                 | 1953-01-01          | 2022-11-01        |
 | CUURA318SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Houston-The Woodlands-Sugar Land, TX (CBSA)                          | 1976-01-01          | 2022-10-01        |
 | CUURA318SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in Houston-The Woodlands-Sugar Land, TX (CBSA)                     | 1976-01-01          | 2022-10-01        |
 | CUURA318SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in Houston-The Woodlands-Sugar Land, TX (CBSA)                                  | 2009-12-01          | 2022-10-01        |
 | CUURA318SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in Houston-The Woodlands-Sugar Land, TX (CBSA)                      | 2009-12-01          | 2022-10-01        |
 | CUURA318SAH     | Consumer Price Index for All Urban Consumers: Housing in Houston-The Woodlands-Sugar Land, TX (CBSA)                                      | 1976-01-01          | 2022-10-01        |
-| CUURA318SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Houston-The Woodlands-Sugar Land, TX (CBSA)                                      | 1952-12-01          | 2022-10-01        |
+| CUURA318SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Houston-The Woodlands-Sugar Land, TX (CBSA)                                      | 1952-12-01          | 2022-11-01        |
 | CUURA318SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in Houston-The Woodlands-Sugar Land, TX (CBSA)                          | 1952-12-01          | 2022-10-01        |
 | CUURA318SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Houston-The Woodlands-Sugar Land, TX (CBSA)         | 1976-01-01          | 2022-10-01        |
-| CUURA318SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Houston-The Woodlands-Sugar Land, TX (CBSA)                             | 1976-01-01          | 2022-10-01        |
+| CUURA318SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Houston-The Woodlands-Sugar Land, TX (CBSA)                             | 1976-01-01          | 2022-11-01        |
 | CUURA318SAH31   | Consumer Price Index for All Urban Consumers: Household Furnishings and Supplies in Houston-The Woodlands-Sugar Land, TX (CBSA)           | 2009-12-01          | 2022-10-01        |
 | CUURA318SAM     | Consumer Price Index for All Urban Consumers: Medical Care in Houston-The Woodlands-Sugar Land, TX (CBSA)                                 | 1947-01-01          | 2022-10-01        |
 | CUURA318SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Houston-The Woodlands-Sugar Land, TX (CBSA)                                  | 1967-01-01          | 2022-10-01        |
@@ -39,17 +39,17 @@
 | CUURA318SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in Houston-The Woodlands-Sugar Land, TX (CBSA)                       | 1947-01-01          | 2022-10-01        |
 | CUURA318SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Houston-The Woodlands-Sugar Land, TX (CBSA)   | 2009-12-01          | 2022-10-01        |
 | CUURA318SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in Houston-The Woodlands-Sugar Land, TX (CBSA)                          | 1952-12-01          | 2022-10-01        |
-| CUURA318SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Houston-The Woodlands-Sugar Land, TX (CBSA)                    | 1914-12-01          | 2022-10-01        |
-| CUURA318SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Houston-The Woodlands-Sugar Land, TX (CBSA)        | 1982-12-01          | 2022-10-01        |
-| CUURA318SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Houston-The Woodlands-Sugar Land, TX (CBSA) | 1982-12-01          | 2022-10-01        |
-| CUURA318SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Houston-The Woodlands-Sugar Land, TX (CBSA)                              | 1947-01-01          | 2022-10-01        |
-| CUURA318SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Houston-The Woodlands-Sugar Land, TX (CBSA)                                  | 1971-05-01          | 2022-10-01        |
-| CUURA318SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Houston-The Woodlands-Sugar Land, TX (CBSA)                  | 1971-05-01          | 2022-10-01        |
-| CUURA318SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Houston-The Woodlands-Sugar Land, TX (CBSA)                                   | 1978-04-01          | 2022-10-01        |
-| CUURA318SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Houston-The Woodlands-Sugar Land, TX (CBSA)                         | 1978-04-01          | 2022-10-01        |
-| CUURA318SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Houston-The Woodlands-Sugar Land, TX (CBSA)                   | 1976-01-01          | 2022-10-01        |
-| CUURA318SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Houston-The Woodlands-Sugar Land, TX (CBSA)                  | 1993-12-01          | 2022-10-01        |
-| CUURA318SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Houston-The Woodlands-Sugar Land, TX (CBSA)                   | 1981-08-01          | 2022-10-01        |
+| CUURA318SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Houston-The Woodlands-Sugar Land, TX (CBSA)                    | 1914-12-01          | 2022-11-01        |
+| CUURA318SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Houston-The Woodlands-Sugar Land, TX (CBSA)        | 1982-12-01          | 2022-11-01        |
+| CUURA318SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Houston-The Woodlands-Sugar Land, TX (CBSA) | 1982-12-01          | 2022-11-01        |
+| CUURA318SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Houston-The Woodlands-Sugar Land, TX (CBSA)                              | 1947-01-01          | 2022-11-01        |
+| CUURA318SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Houston-The Woodlands-Sugar Land, TX (CBSA)                                  | 1971-05-01          | 2022-11-01        |
+| CUURA318SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Houston-The Woodlands-Sugar Land, TX (CBSA)                  | 1971-05-01          | 2022-11-01        |
+| CUURA318SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Houston-The Woodlands-Sugar Land, TX (CBSA)                                   | 1978-04-01          | 2022-11-01        |
+| CUURA318SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Houston-The Woodlands-Sugar Land, TX (CBSA)                         | 1978-04-01          | 2022-11-01        |
+| CUURA318SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Houston-The Woodlands-Sugar Land, TX (CBSA)                   | 1976-01-01          | 2022-11-01        |
+| CUURA318SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Houston-The Woodlands-Sugar Land, TX (CBSA)                  | 1993-12-01          | 2022-11-01        |
+| CUURA318SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Houston-The Woodlands-Sugar Land, TX (CBSA)                   | 1981-08-01          | 2022-11-01        |
 | CUUSA318SA0     | Consumer Price Index for All Urban Consumers: All Items in Houston-The Woodlands-Sugar Land, TX (CBSA)                                    | 1984-01-01          | 2022-01-01        |
 | CUUSA318SA0E    | Consumer Price Index for All Urban Consumers: Energy in Houston-The Woodlands-Sugar Land, TX (CBSA)                                       | 1984-01-01          | 2022-01-01        |
 | CUUSA318SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Houston-The Woodlands-Sugar Land, TX (CBSA)               | 1984-01-01          | 2022-01-01        |

@@ -1,4 +1,2 @@
-| id              | title                                                                                                                                    | observation_start   | observation_end   |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BSOBLV02CNQ460N | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for China (DISCONTINUED)    | 2000-01-01          | 2011-10-01        |
-| BSOBLV02PTM460N | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Portugal (DISCONTINUED) | 1987-01-01          | 2011-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

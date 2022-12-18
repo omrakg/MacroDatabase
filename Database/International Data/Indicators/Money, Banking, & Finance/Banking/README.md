@@ -1,3 +1,77 @@
-| Folder             |   Files / Folders |
-|--------------------|-------------------|
-| Condition of Banks |                 0 |
+| id                      | title                                                                                                                              | observation_start   | observation_end   |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| RCCCBACTDPD30P          | Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Accounts Based                                           | 2012-07-01          | 2022-04-01        |
+| RCCCBACTDPD60P          | Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Accounts Based                                           | 2012-07-01          | 2022-04-01        |
+| RCCCBACTDPD90P          | Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Accounts Based                                           | 2012-07-01          | 2022-04-01        |
+| RCCCBACTIVEBALPCT50     | Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 50th Percentile                                   | 2012-07-01          | 2022-04-01        |
+| RCCCBACTIVEBALPCT75     | Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 75th Percentile                                   | 2012-07-01          | 2022-04-01        |
+| RCCCBACTIVEBALPCT90     | Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 90th Percentile                                   | 2012-07-01          | 2022-04-01        |
+| RCCCBACTIVEUTILPCT50    | Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 50th Percentile                                       | 2012-07-01          | 2022-04-01        |
+| RCCCBACTIVEUTILPCT75    | Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 75th Percentile                                       | 2012-07-01          | 2022-04-01        |
+| RCCCBACTIVEUTILPCT90    | Large Bank Consumer Credit Card Balances: Utilization: Active Accounts Only: 90th Percentile                                       | 2012-07-01          | 2022-04-01        |
+| RCCCBBALDPD30P          | Large Bank Consumer Credit Card Balances: 30 or More Days Past Due Rates: Balances Based                                           | 2012-07-01          | 2022-04-01        |
+| RCCCBBALDPD60P          | Large Bank Consumer Credit Card Balances: 60 or More Days Past Due Rates: Balances Based                                           | 2012-07-01          | 2022-04-01        |
+| RCCCBBALDPD90P          | Large Bank Consumer Credit Card Balances: 90 or More Days Past Due Rates: Balances Based                                           | 2012-07-01          | 2022-04-01        |
+| RCCCBBALREV             | Large Bank Consumer Credit Card Balances: Revolving Balances Only                                                                  | 2012-07-01          | 2022-04-01        |
+| RCCCBBALTOT             | Large Bank Consumer Credit Card Balances: Total Balances                                                                           | 2012-07-01          | 2022-04-01        |
+| RCCCBCOMTOT             | Large Bank Consumer Credit Card Balances: Total Commitments                                                                        | 2012-07-01          | 2022-04-01        |
+| RCCCBLIMPCT50           | Large Bank Consumer Credit Card Balances: Current Credit Limit: 50th Percentile                                                    | 2012-07-01          | 2022-04-01        |
+| RCCCBLIMPCT75           | Large Bank Consumer Credit Card Balances: Current Credit Limit: 75th Percentile                                                    | 2012-07-01          | 2022-04-01        |
+| RCCCBLIMPCT90           | Large Bank Consumer Credit Card Balances: Current Credit Limit: 90th Percentile                                                    | 2012-07-01          | 2022-04-01        |
+| RCCCBNUMACT             | Large Bank Consumer Credit Card Balances: Number of Accounts                                                                       | 2012-07-01          | 2022-04-01        |
+| RCCCBPCTCLDEC           | Large Bank Consumer Credit Card Balances: Accounts with Credit Line Decrease                                                       | 2012-10-01          | 2022-04-01        |
+| RCCCBPCTCLINC           | Large Bank Consumer Credit Card Balances: Accounts with Credit Line Increase                                                       | 2012-07-01          | 2022-04-01        |
+| RCCCBSCOREPCT10         | Large Bank Consumer Credit Card Balances: Current Credit Score: 10th Percentile                                                    | 2012-07-01          | 2022-04-01        |
+| RCCCBSCOREPCT25         | Large Bank Consumer Credit Card Balances: Current Credit Score: 25th Percentile                                                    | 2012-07-01          | 2022-04-01        |
+| RCCCBSCOREPCT50         | Large Bank Consumer Credit Card Balances: Current Credit Score: 50th Percentile                                                    | 2012-07-01          | 2022-04-01        |
+| RCCCBSHRFULL            | Large Bank Consumer Credit Card Balances: Share of Accounts Making Full Balance Payment                                            | 2012-07-01          | 2022-04-01        |
+| RCCCBSHRGTMINLTMAX      | Large Bank Consumer Credit Card Balances: Share of Accounts Making Greater Than the Minimum Payment but Less Than the Full Balance | 2012-07-01          | 2022-04-01        |
+| RCCCBSHRMIN             | Large Bank Consumer Credit Card Balances: Share of Accounts Making the Minimum Payment                                             | 2012-07-01          | 2022-04-01        |
+| RCCCOLIMPCT50           | Large Bank Consumer Credit Card Originations: Original Credit Limit: 50th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCCCOLIMPCT75           | Large Bank Consumer Credit Card Originations: Original Credit Limit: 75th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCCCOLIMPCT90           | Large Bank Consumer Credit Card Originations: Original Credit Limit: 90th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCCCONUMACT             | Large Bank Consumer Credit Card Originations: Number of New Accounts                                                               | 2012-07-01          | 2022-04-01        |
+| RCCCOORG                | Large Bank Consumer Credit Card Originations: New Originations                                                                     | 2012-07-01          | 2022-04-01        |
+| RCCCOSCOREPCT10         | Large Bank Consumer Credit Card Originations: Original Credit Score: 10th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCCCOSCOREPCT25         | Large Bank Consumer Credit Card Originations: Original Credit Score: 25th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCCCOSCOREPCT50         | Large Bank Consumer Credit Card Originations: Original Credit Score: 50th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCMFLBACTBALPCT50       | Large Bank Consumer Mortgage Balances: Account Balance: 50th Percentile                                                            | 2012-07-01          | 2022-04-01        |
+| RCMFLBACTBALPCT75       | Large Bank Consumer Mortgage Balances: Account Balance: 75th Percentile                                                            | 2012-07-01          | 2022-04-01        |
+| RCMFLBACTBALPCT90       | Large Bank Consumer Mortgage Balances: Account Balance: 90th Percentile                                                            | 2012-07-01          | 2022-04-01        |
+| RCMFLBACTDPDPCT30P      | Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Accounts Based                      | 2012-07-01          | 2022-04-01        |
+| RCMFLBACTDPDPCT60P      | Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Accounts Based                      | 2012-07-01          | 2022-04-01        |
+| RCMFLBACTDPDPCT90P      | Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Accounts Based                      | 2012-07-01          | 2022-04-01        |
+| RCMFLBACTNUM            | Large Bank Consumer Mortgage Balances: Number of Accounts                                                                          | 2012-07-01          | 2022-04-01        |
+| RCMFLBBALDPDPCT30P      | Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Balances Based                      | 2012-07-01          | 2022-04-01        |
+| RCMFLBBALDPDPCT60P      | Large Bank Consumer Mortgage Balances: 60 or More Days Past Due: Including Foreclosures Rates: Balances Based                      | 2012-07-01          | 2022-04-01        |
+| RCMFLBBALDPDPCT90P      | Large Bank Consumer Mortgage Balances: 90 or More Days Past Due: Including Foreclosures Rates: Balances Based                      | 2012-07-01          | 2022-04-01        |
+| RCMFLBBALTOT            | Large Bank Consumer Mortgage Balances: Total Balances                                                                              | 2012-07-01          | 2022-04-01        |
+| RCMFLBBEDTIPCT50        | Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 50th Percentile                                     | 2012-07-01          | 2022-04-01        |
+| RCMFLBBEDTIPCT75        | Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 75th Percentile                                     | 2012-07-01          | 2022-04-01        |
+| RCMFLBBEDTIPCT90        | Large Bank Consumer Mortgage Balances: Original Back-End Debt-to-Income (DTI): 90th Percentile                                     | 2012-07-01          | 2022-04-01        |
+| RCMFLBFEDTIPCT50        | Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 50th Percentile                                    | 2012-07-01          | 2022-04-01        |
+| RCMFLBFEDTIPCT75        | Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 75th Percentile                                    | 2012-07-01          | 2022-04-01        |
+| RCMFLBFEDTIPCT90        | Large Bank Consumer Mortgage Balances: Original Front-End Debt-to-Income (DTI): 90th Percentile                                    | 2012-07-01          | 2022-04-01        |
+| RCMFLBOLTVPCT50         | Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 50th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCMFLBOLTVPCT75         | Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 75th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCMFLBOLTVPCT90         | Large Bank Consumer Mortgage Balances: Original Loan-to-Value (LTV): 90th Percentile                                               | 2012-07-01          | 2022-04-01        |
+| RCMFLBSCOREPCT10        | Large Bank Consumer Mortgage Balances: Current Credit Score: 10th Percentile                                                       | 2012-07-01          | 2022-04-01        |
+| RCMFLBSCOREPCT25        | Large Bank Consumer Mortgage Balances: Current Credit Score: 25th Percentile                                                       | 2012-07-01          | 2022-04-01        |
+| RCMFLBSCOREPCT50        | Large Bank Consumer Mortgage Balances: Current Credit Score: 50th Percentile                                                       | 2012-07-01          | 2022-04-01        |
+| RCMFLOACT               | Large Bank Consumer Mortgage Originations: Number of New Accounts                                                                  | 2012-07-01          | 2022-04-01        |
+| RCMFLOBEDTIPCT50        | Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 50th Percentile                                 | 2012-07-01          | 2022-04-01        |
+| RCMFLOBEDTIPCT75        | Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 75th Percentile                                 | 2012-07-01          | 2022-04-01        |
+| RCMFLOBEDTIPCT90        | Large Bank Consumer Mortgage Originations: Original Back-End Debt-to-Income (DTI): 90th Percentile                                 | 2012-07-01          | 2022-04-01        |
+| RCMFLOFEDTIPCT50        | Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 50th Percentile                                | 2012-07-01          | 2022-04-01        |
+| RCMFLOFEDTIPCT75        | Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 75th Percentile                                | 2012-07-01          | 2022-04-01        |
+| RCMFLOFEDTIPCT90        | Large Bank Consumer Mortgage Originations: Original Front-End Debt-to-Income (DTI): 90th Percentile                                | 2012-07-01          | 2022-04-01        |
+| RCMFLOLTVPCT50          | Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 50th Percentile                                           | 2012-07-01          | 2022-04-01        |
+| RCMFLOLTVPCT75          | Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 75th Percentile                                           | 2012-07-01          | 2022-04-01        |
+| RCMFLOLTVPCT90          | Large Bank Consumer Mortgage Originations: Original Loan-to-Value (LTV): 90th Percentile                                           | 2012-07-01          | 2022-04-01        |
+| RCMFLOORIG              | Large Bank Consumer Mortgage Originations: New Originations                                                                        | 2012-07-01          | 2022-04-01        |
+| RCMFLOORIGLOANSIZEPCT50 | Large Bank Consumer Mortgage Originations: Original Loan Size: 50th Percentile                                                     | 2012-07-01          | 2022-04-01        |
+| RCMFLOORIGLOANSIZEPCT75 | Large Bank Consumer Mortgage Originations: Original Loan Size: 75th Percentile                                                     | 2012-07-01          | 2022-04-01        |
+| RCMFLOORIGLOANSIZEPCT90 | Large Bank Consumer Mortgage Originations: Original Loan Size: 90th Percentile                                                     | 2012-07-01          | 2022-04-01        |
+| RCMFLOSCOREPCT10        | Large Bank Consumer Mortgage Originations: Original Credit Score: 10th Percentile                                                  | 2012-07-01          | 2022-04-01        |
+| RCMFLOSCOREPCT25        | Large Bank Consumer Mortgage Originations: Original Credit Score: 25th Percentile                                                  | 2012-07-01          | 2022-04-01        |
+| RCMFLOSCOREPCT50        | Large Bank Consumer Mortgage Originations: Original Credit Score: 50th Percentile                                                  | 2012-07-01          | 2022-04-01        |

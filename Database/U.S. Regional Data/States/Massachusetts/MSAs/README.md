@@ -1,8 +1,8 @@
 | Folder                         |   Files / Folders |
 |--------------------------------|-------------------|
-| Boston-Cambridge-Newton, MA-NH |                81 |
-| Barnstable Town, MA            |                 0 |
+| Barnstable Town, MA            |                77 |
+| Worcester, MA-CT               |               117 |
 | Springfield, MA                |                78 |
-| Pittsfield, MA                 |                 0 |
-| Worcester, MA-CT               |                 0 |
-| Providence-Warwick, RI-MA      |                78 |
+| Boston-Cambridge-Newton, MA-NH |                 0 |
+| Pittsfield, MA                 |                78 |
+| Providence-Warwick, RI-MA      |                90 |

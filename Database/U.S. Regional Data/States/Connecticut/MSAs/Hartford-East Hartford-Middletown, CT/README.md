@@ -26,7 +26,7 @@
 | HOSCMSA25540              | Market Hotness: Hotness Score in Hartford-West Hartford-East Hartford, CT (CBSA)                                            | 2017-08-01          | 2022-11-01        |
 | HTFPOP                    | Resident Population in Hartford-West Hartford-East Hartford, CT (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | IHLCHG25540               | Job Postings on Indeed in Hartford-East Hartford-Middletown, CT (MSA)                                                       | 2020-02-01          | 2022-11-25        |
-| IRPD25540                 | Implicit Regional Price Deflator for Hartford-West Hartford-East Hartford, CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| IRPD25540                 | Implicit Regional Price Deflator for Hartford-West Hartford-East Hartford, CT (MSA)                                         | 2008-01-01          | 2021-01-01        |
 | LDPEPRMMMSA25540          | Market Hotness: Listing Views per Property in Hartford-West Hartford-East Hartford, CT (CBSA)                               | 2017-09-01          | 2022-11-01        |
 | LDPEPRVSUSMSA25540        | Market Hotness: Listing Views per Property Versus the United States in Hartford-West Hartford-East Hartford, CT (CBSA)      | 2017-08-01          | 2022-11-01        |
 | LDPEPRYYMSA25540          | Market Hotness: Listing Views per Property in Hartford-West Hartford-East Hartford, CT (CBSA)                               | 2018-08-01          | 2022-11-01        |
@@ -69,10 +69,10 @@
 | PRIREDCOUYY25540          | Housing Inventory: Price Reduced Count Year-Over-Year in Hartford-West Hartford-East Hartford, CT (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP25540                 | Total Quantity Indexes for Real GDP for Hartford-West Hartford-East Hartford, CT (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP25540                 | Total Real Gross Domestic Product for Hartford-West Hartford-East Hartford, CT (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI25540                  | Real Personal Income for Hartford-West Hartford-East Hartford, CT (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC25540                | Real Per Capita Personal Income for Hartford-West Hartford-East Hartford, CT (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL25540               | Regional Price Parities: All Items for Hartford-West Hartford-East Hartford, CT (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD25540              | Regional Price Parities: Goods for Hartford-West Hartford-East Hartford, CT (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH25540          | Regional Price Parities: Services: Other for Hartford-West Hartford-East Hartford, CT (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT25540         | Regional Price Parities: Services: Rents for Hartford-West Hartford-East Hartford, CT (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| RPI25540                  | Real Personal Income for Hartford-West Hartford-East Hartford, CT (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC25540                | Real Per Capita Personal Income for Hartford-West Hartford-East Hartford, CT (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL25540               | Regional Price Parities: All Items for Hartford-West Hartford-East Hartford, CT (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD25540              | Regional Price Parities: Goods for Hartford-West Hartford-East Hartford, CT (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH25540          | Regional Price Parities: Services: Other for Hartford-West Hartford-East Hartford, CT (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT25540         | Regional Price Parities: Services: Rents for Hartford-West Hartford-East Hartford, CT (MSA)                                 | 2008-01-01          | 2021-01-01        |
 | SUSCMSA25540              | Market Hotness: Supply Score in Hartford-West Hartford-East Hartford, CT (CBSA)                                             | 2017-08-01          | 2022-11-01        |

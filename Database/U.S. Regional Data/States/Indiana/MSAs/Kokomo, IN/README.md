@@ -19,28 +19,28 @@
 | ENUC290240310SA           | Average Weekly Wages for Employees in Local Government Establishments in Kokomo, IN (MSA)                   | 1990-01-01          | 2022-04-01        |
 | ENUC290240510             | Average Weekly Wages for Employees in Private Establishments in Kokomo, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
 | ENUC290240510SA           | Average Weekly Wages for Employees in Private Establishments in Kokomo, IN (MSA)                            | 1990-01-01          | 2022-04-01        |
-| IRPD29020                 | Implicit Regional Price Deflator for Kokomo, IN (MSA)                                                       | 2008-01-01          | 2020-01-01        |
-| KOKO018FIRE               | All Employees: Financial Activities in Kokomo, IN (MSA)                                                     | 1990-01-01          | 2022-10-01        |
-| KOKO018FIREN              | All Employees: Financial Activities in Kokomo, IN (MSA)                                                     | 1990-01-01          | 2022-10-01        |
-| KOKO018GOVT               | All Employees: Government in Kokomo, IN (MSA)                                                               | 1990-01-01          | 2022-10-01        |
-| KOKO018GOVTN              | All Employees: Government in Kokomo, IN (MSA)                                                               | 1990-01-01          | 2022-10-01        |
-| KOKO018INFO               | All Employees: Information in Kokomo, IN (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| KOKO018INFON              | All Employees: Information in Kokomo, IN (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| KOKO018LEIH               | All Employees: Leisure and Hospitality in Kokomo, IN (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| KOKO018LEIHN              | All Employees: Leisure and Hospitality in Kokomo, IN (MSA)                                                  | 1990-01-01          | 2022-10-01        |
+| IRPD29020                 | Implicit Regional Price Deflator for Kokomo, IN (MSA)                                                       | 2008-01-01          | 2021-01-01        |
+| KOKO018FIRE               | All Employees: Financial Activities in Kokomo, IN (MSA)                                                     | 1990-01-01          | 2022-11-01        |
+| KOKO018FIREN              | All Employees: Financial Activities in Kokomo, IN (MSA)                                                     | 1990-01-01          | 2022-11-01        |
+| KOKO018GOVT               | All Employees: Government in Kokomo, IN (MSA)                                                               | 1990-01-01          | 2022-11-01        |
+| KOKO018GOVTN              | All Employees: Government in Kokomo, IN (MSA)                                                               | 1990-01-01          | 2022-11-01        |
+| KOKO018INFO               | All Employees: Information in Kokomo, IN (MSA)                                                              | 1990-01-01          | 2022-11-01        |
+| KOKO018INFON              | All Employees: Information in Kokomo, IN (MSA)                                                              | 1990-01-01          | 2022-11-01        |
+| KOKO018LEIH               | All Employees: Leisure and Hospitality in Kokomo, IN (MSA)                                                  | 1990-01-01          | 2022-11-01        |
+| KOKO018LEIHN              | All Employees: Leisure and Hospitality in Kokomo, IN (MSA)                                                  | 1990-01-01          | 2022-11-01        |
 | KOKO018LF                 | Civilian Labor Force in Kokomo, IN (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | KOKO018LFN                | Civilian Labor Force in Kokomo, IN (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
-| KOKO018MFG                | All Employees: Manufacturing in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| KOKO018MFGN               | All Employees: Manufacturing in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| KOKO018NA                 | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| KOKO018NAN                | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| KOKO018NRMN               | All Employees: Mining, Logging, and Construction in Kokomo, IN (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| KOKO018NRMNN              | All Employees: Mining, Logging, and Construction in Kokomo, IN (MSA)                                        | 1990-01-01          | 2022-10-01        |
+| KOKO018MFG                | All Employees: Manufacturing in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| KOKO018MFGN               | All Employees: Manufacturing in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| KOKO018NA                 | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| KOKO018NAN                | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| KOKO018NRMN               | All Employees: Mining, Logging, and Construction in Kokomo, IN (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| KOKO018NRMNN              | All Employees: Mining, Logging, and Construction in Kokomo, IN (MSA)                                        | 1990-01-01          | 2022-11-01        |
 | KOKO018PCPI               | Per Capita Personal Income in Kokomo, IN (MSA)                                                              | 1969-01-01          | 2021-01-01        |
-| KOKO018SRVO               | All Employees: Other Services in Kokomo, IN (MSA)                                                           | 1990-01-01          | 2022-10-01        |
-| KOKO018SRVON              | All Employees: Other Services in Kokomo, IN (MSA)                                                           | 1990-01-01          | 2022-10-01        |
-| KOKO018TRAD               | All Employees: Trade, Transportation, and Utilities in Kokomo, IN (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| KOKO018TRADN              | All Employees: Trade, Transportation, and Utilities in Kokomo, IN (MSA)                                     | 1990-01-01          | 2022-10-01        |
+| KOKO018SRVO               | All Employees: Other Services in Kokomo, IN (MSA)                                                           | 1990-01-01          | 2022-11-01        |
+| KOKO018SRVON              | All Employees: Other Services in Kokomo, IN (MSA)                                                           | 1990-01-01          | 2022-11-01        |
+| KOKO018TRAD               | All Employees: Trade, Transportation, and Utilities in Kokomo, IN (MSA)                                     | 1990-01-01          | 2022-11-01        |
+| KOKO018TRADN              | All Employees: Trade, Transportation, and Utilities in Kokomo, IN (MSA)                                     | 1990-01-01          | 2022-11-01        |
 | KOKO018UR                 | Unemployment Rate in Kokomo, IN (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | KOKO018URN                | Unemployment Rate in Kokomo, IN (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | KOKPOP                    | Resident Population in Kokomo, IN (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
@@ -78,56 +78,56 @@
 | PRIREDCOUYY29020          | Housing Inventory: Price Reduced Count Year-Over-Year in Kokomo, IN (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP29020                 | Total Quantity Indexes for Real GDP for Kokomo, IN (MSA)                                                    | 2001-01-01          | 2021-01-01        |
 | RGMP29020                 | Total Real Gross Domestic Product for Kokomo, IN (MSA)                                                      | 2001-01-01          | 2021-01-01        |
-| RPI29020                  | Real Personal Income for Kokomo, IN (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| RPIPC29020                | Real Per Capita Personal Income for Kokomo, IN (MSA)                                                        | 2008-01-01          | 2020-01-01        |
-| RPPALL29020               | Regional Price Parities: All Items for Kokomo, IN (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPPGOOD29020              | Regional Price Parities: Goods for Kokomo, IN (MSA)                                                         | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH29020          | Regional Price Parities: Services: Other for Kokomo, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT29020         | Regional Price Parities: Services: Rents for Kokomo, IN (MSA)                                               | 2008-01-01          | 2020-01-01        |
+| RPI29020                  | Real Personal Income for Kokomo, IN (MSA)                                                                   | 2008-01-01          | 2021-01-01        |
+| RPIPC29020                | Real Per Capita Personal Income for Kokomo, IN (MSA)                                                        | 2008-01-01          | 2021-01-01        |
+| RPPALL29020               | Regional Price Parities: All Items for Kokomo, IN (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPPGOOD29020              | Regional Price Parities: Goods for Kokomo, IN (MSA)                                                         | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH29020          | Regional Price Parities: Services: Other for Kokomo, IN (MSA)                                               | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT29020         | Regional Price Parities: Services: Rents for Kokomo, IN (MSA)                                               | 2008-01-01          | 2021-01-01        |
 | SMS18290200000000001      | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2018-02-01        |
-| SMS18290200000000026      | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-04-01          | 2022-10-01        |
+| SMS18290200000000026      | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-04-01          | 2022-11-01        |
 | SMU18290200000000001A     | All Employees: Total Nonfarm in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18290200500000001      | All Employees: Total Private in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
+| SMU18290200500000001      | All Employees: Total Private in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-11-01        |
 | SMU18290200500000001A     | All Employees: Total Private in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU18290200500000001SA    | All Employees: Total Private in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SMU18290200500000002      | Average Weekly Hours of All Employees: Total Private in Kokomo, IN (MSA)                                    | 2007-01-01          | 2022-10-01        |
+| SMU18290200500000001SA    | All Employees: Total Private in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SMU18290200500000002      | Average Weekly Hours of All Employees: Total Private in Kokomo, IN (MSA)                                    | 2007-01-01          | 2022-11-01        |
 | SMU18290200500000002A     | Average Weekly Hours of All Employees: Total Private in Kokomo, IN (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU18290200500000003      | Average Hourly Earnings of All Employees: Total Private in Kokomo, IN (MSA)                                 | 2007-01-01          | 2022-10-01        |
+| SMU18290200500000003      | Average Hourly Earnings of All Employees: Total Private in Kokomo, IN (MSA)                                 | 2007-01-01          | 2022-11-01        |
 | SMU18290200500000003A     | Average Hourly Earnings of All Employees: Total Private in Kokomo, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18290200500000011      | Average Weekly Earnings of All Employees: Total Private in Kokomo, IN (MSA)                                 | 2007-01-01          | 2022-10-01        |
+| SMU18290200500000011      | Average Weekly Earnings of All Employees: Total Private in Kokomo, IN (MSA)                                 | 2007-01-01          | 2022-11-01        |
 | SMU18290200500000011A     | Average Weekly Earnings of All Employees: Total Private in Kokomo, IN (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU18290200600000001      | All Employees: Goods Producing in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2022-10-01        |
+| SMU18290200600000001      | All Employees: Goods Producing in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2022-11-01        |
 | SMU18290200600000001A     | All Employees: Goods Producing in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18290200600000001SA    | All Employees: Goods Producing in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2022-10-01        |
-| SMU18290200700000001      | All Employees: Service-Providing in Kokomo, IN (MSA)                                                        | 1990-01-01          | 2022-10-01        |
+| SMU18290200600000001SA    | All Employees: Goods Producing in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2022-11-01        |
+| SMU18290200700000001      | All Employees: Service-Providing in Kokomo, IN (MSA)                                                        | 1990-01-01          | 2022-11-01        |
 | SMU18290200700000001A     | All Employees: Service-Providing in Kokomo, IN (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU18290200700000001SA    | All Employees: Service-Providing in Kokomo, IN (MSA)                                                        | 1990-01-01          | 2022-10-01        |
-| SMU18290200800000001      | All Employees: Private Service Providing in Kokomo, IN (MSA)                                                | 1990-01-01          | 2022-10-01        |
+| SMU18290200700000001SA    | All Employees: Service-Providing in Kokomo, IN (MSA)                                                        | 1990-01-01          | 2022-11-01        |
+| SMU18290200800000001      | All Employees: Private Service Providing in Kokomo, IN (MSA)                                                | 1990-01-01          | 2022-11-01        |
 | SMU18290200800000001A     | All Employees: Private Service Providing in Kokomo, IN (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU18290200800000001SA    | All Employees: Private Service Providing in Kokomo, IN (MSA)                                                | 1990-01-01          | 2022-10-01        |
+| SMU18290200800000001SA    | All Employees: Private Service Providing in Kokomo, IN (MSA)                                                | 1990-01-01          | 2022-11-01        |
 | SMU18290201500000001A     | All Employees: Mining, Logging, and Construction in Kokomo, IN (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU18290203000000001A     | All Employees: Manufacturing in Kokomo, IN (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU18290204000000001A     | All Employees: Trade, Transportation, and Utilities in Kokomo, IN (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU18290204100000001      | All Employees: Wholesale Trade in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2022-10-01        |
+| SMU18290204100000001      | All Employees: Wholesale Trade in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2022-11-01        |
 | SMU18290204100000001A     | All Employees: Wholesale Trade in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU18290204100000001SA    | All Employees: Wholesale Trade in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2022-10-01        |
-| SMU18290204200000001      | All Employees: Retail Trade in Kokomo, IN (MSA)                                                             | 1990-01-01          | 2022-10-01        |
+| SMU18290204100000001SA    | All Employees: Wholesale Trade in Kokomo, IN (MSA)                                                          | 1990-01-01          | 2022-11-01        |
+| SMU18290204200000001      | All Employees: Retail Trade in Kokomo, IN (MSA)                                                             | 1990-01-01          | 2022-11-01        |
 | SMU18290204200000001A     | All Employees: Retail Trade in Kokomo, IN (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU18290204200000001SA    | All Employees: Retail Trade in Kokomo, IN (MSA)                                                             | 1990-01-01          | 2022-10-01        |
-| SMU18290204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kokomo, IN (MSA) | 1990-01-01          | 2022-10-01        |
+| SMU18290204200000001SA    | All Employees: Retail Trade in Kokomo, IN (MSA)                                                             | 1990-01-01          | 2022-11-01        |
+| SMU18290204300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kokomo, IN (MSA) | 1990-01-01          | 2022-11-01        |
 | SMU18290204300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kokomo, IN (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU18290204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kokomo, IN (MSA) | 1990-01-01          | 2022-10-01        |
+| SMU18290204300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Kokomo, IN (MSA) | 1990-01-01          | 2022-11-01        |
 | SMU18290205000000001A     | All Employees: Information in Kokomo, IN (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU18290205500000001A     | All Employees: Financial Activities in Kokomo, IN (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU18290207000000001A     | All Employees: Leisure and Hospitality in Kokomo, IN (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU18290208000000001A     | All Employees: Other Services in Kokomo, IN (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU18290209000000001A     | All Employees: Government in Kokomo, IN (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU18290209093000001      | All Employees: Government: Local Government in Kokomo, IN (MSA)                                             | 1990-01-01          | 2022-10-01        |
+| SMU18290209093000001      | All Employees: Government: Local Government in Kokomo, IN (MSA)                                             | 1990-01-01          | 2022-11-01        |
 | SMU18290209093000001A     | All Employees: Local Government in Kokomo, IN (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU18290209093000001SA    | All Employees: Government: Local Government in Kokomo, IN (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| SMU18290209093161101      | All Employees: Government: Local Government Educational Services in Kokomo, IN (MSA)                        | 1990-01-01          | 2022-10-01        |
+| SMU18290209093000001SA    | All Employees: Government: Local Government in Kokomo, IN (MSA)                                             | 1990-01-01          | 2022-11-01        |
+| SMU18290209093161101      | All Employees: Government: Local Government Educational Services in Kokomo, IN (MSA)                        | 1990-01-01          | 2022-11-01        |
 | SMU18290209093161101A     | All Employees: Local Government Educational Services in Kokomo, IN (MSA)                                    | 1990-01-01          | 2021-01-01        |
-| SMU18290209093161101SA    | All Employees: Government: Local Government Educational Services in Kokomo, IN (MSA)                        | 1990-01-01          | 2022-10-01        |
-| SMU18290209093200001      | All Employees: Government: Local Government Excluding Educational Services in Kokomo, IN (MSA)              | 1990-01-01          | 2022-10-01        |
+| SMU18290209093161101SA    | All Employees: Government: Local Government Educational Services in Kokomo, IN (MSA)                        | 1990-01-01          | 2022-11-01        |
+| SMU18290209093200001      | All Employees: Government: Local Government Excluding Educational Services in Kokomo, IN (MSA)              | 1990-01-01          | 2022-11-01        |
 | SMU18290209093200001A     | All Employees: Local Government Excluding Educational Services in Kokomo, IN (MSA)                          | 1990-01-01          | 2021-01-01        |
-| SMU18290209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Kokomo, IN (MSA)              | 1990-01-01          | 2022-10-01        |
+| SMU18290209093200001SA    | All Employees: Government: Local Government Excluding Educational Services in Kokomo, IN (MSA)              | 1990-01-01          | 2022-11-01        |

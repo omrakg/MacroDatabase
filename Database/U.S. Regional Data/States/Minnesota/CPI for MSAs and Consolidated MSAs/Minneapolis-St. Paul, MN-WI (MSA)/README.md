@@ -1,3 +1,56 @@
-| Folder       |   Files / Folders |
-|--------------|-------------------|
-| Discontinued |                 0 |
+| id              | title                                                                                                                                       | observation_start   | observation_end   |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| CUUSA211SA0     | Consumer Price Index for All Urban Consumers: All items in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                    | 1984-01-01          | 2021-01-01        |
+| CUUSA211SA0E    | Consumer Price Index for All Urban Consumers: Energy in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                       | 1984-01-01          | 2021-01-01        |
+| CUUSA211SA0L1E  | Consumer Price Index for All Urban Consumers: All items less food and energy in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)               | 1984-01-01          | 2021-01-01        |
+| CUUSA211SA0L1ES | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Minneapolis-ST.Paul-Bloomington, MN-WI (CBSA)               | 1984-01-01          | 2022-01-01        |
+| CUUSA211SA0L2   | Consumer Price Index for All Urban Consumers: All items less shelter in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                       | 1984-01-01          | 2021-01-01        |
+| CUUSA211SA0L5   | Consumer Price Index for All Urban Consumers: All items less medical care in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                  | 1984-01-01          | 2021-01-01        |
+| CUUSA211SA0LE   | Consumer Price Index for All Urban Consumers: All items less energy in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                        | 1984-01-01          | 2021-01-01        |
+| CUUSA211SA0S    | Consumer Price Index for All Urban Consumers: All Items in Minneapolis-ST.Paul-Bloomington, MN-WI (CBSA)                                    | 1984-01-01          | 2022-01-01        |
+| CUUSA211SAA     | Consumer Price Index for All Urban Consumers: Apparel in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                      | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAC     | Consumer Price Index for All Urban Consumers: Commodities in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                  | 1984-01-01          | 2021-01-01        |
+| CUUSA211SACL1   | Consumer Price Index for All Urban Consumers: Commodities less food in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                        | 1984-01-01          | 2021-01-01        |
+| CUUSA211SACL11  | Consumer Price Index for All Urban Consumers: Commodities less food and beverages in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)          | 1984-01-01          | 2021-01-01        |
+| CUUSA211SACS    | Consumer Price Index for All Urban Consumers: Commodities in Minneapolis-ST.Paul-Bloomington, MN-WI (CBSA)                                  | 1984-01-01          | 2022-01-01        |
+| CUUSA211SAD     | Consumer Price Index for All Urban Consumers: Durables in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                     | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAE     | Consumer Price Index for All Urban Consumers: Education and communication in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                  | 1998-01-01          | 2021-01-01        |
+| CUUSA211SAEC    | Consumer Price Index for All Urban Consumers: Education and communication commodities in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)      | 2010-01-01          | 2021-01-01        |
+| CUUSA211SAES    | Consumer Price Index for All Urban Consumers: Education and communication services in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)         | 2010-01-01          | 2021-01-01        |
+| CUUSA211SAF     | Consumer Price Index for All Urban Consumers: Food and beverages in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                           | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAF1    | Consumer Price Index for All Urban Consumers: Food in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                         | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAF11   | Consumer Price Index for All Urban Consumers: Food at home in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                 | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic beverages in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                          | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAG     | Consumer Price Index for All Urban Consumers: Other goods and services in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                     | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAGC    | Consumer Price Index for All Urban Consumers: Other goods in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                  | 2010-01-01          | 2021-01-01        |
+| CUUSA211SAGS    | Consumer Price Index for All Urban Consumers: Other personal services in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                      | 2010-01-01          | 2021-01-01        |
+| CUUSA211SAH     | Consumer Price Index for All Urban Consumers: Housing in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                      | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                      | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAH2    | Consumer Price Index for All Urban Consumers: Fuels and utilities in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                          | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAH3    | Consumer Price Index for All Urban Consumers: Household furnishings and operations in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)         | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAH21   | Consumer Price Index for All Urban Consumers: Household energy in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                             | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAH31   | Consumer Price Index for All Urban Consumers: Household furnishings and supplies in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)           | 2010-01-01          | 2021-01-01        |
+| CUUSA211SAM     | Consumer Price Index for All Urban Consumers: Medical care in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                 | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAN     | Consumer Price Index for All Urban Consumers: Nondurables in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                  | 1984-01-01          | 2021-01-01        |
+| CUUSA211SANL1   | Consumer Price Index for All Urban Consumers: Nondurables less food in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                        | 1984-01-01          | 2021-01-01        |
+| CUUSA211SANL11  | Consumer Price Index for All Urban Consumers: Nondurables less food and beverages in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)          | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAR     | Consumer Price Index for All Urban Consumers: Recreation in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                   | 1998-01-01          | 2021-01-01        |
+| CUUSA211SAS     | Consumer Price Index for All Urban Consumers: Services in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                     | 1984-01-01          | 2021-01-01        |
+| CUUSA211SASL2RS | Consumer Price Index for All Urban Consumers: Services less rent of shelter in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                | 1984-01-01          | 2021-01-01        |
+| CUUSA211SASL5   | Consumer Price Index for All Urban Consumers: Services less medical care services in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)          | 1984-01-01          | 2021-01-01        |
+| CUUSA211SASS    | Consumer Price Index for All Urban Consumers: Services in Minneapolis-ST.Paul-Bloomington, MN-WI (CBSA)                                     | 1984-01-01          | 2022-01-01        |
+| CUUSA211SAT     | Consumer Price Index for All Urban Consumers: Transportation in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                               | 1984-01-01          | 2021-01-01        |
+| CUUSA211SAT1    | Consumer Price Index for All Urban Consumers: Private transportation in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                       | 1984-01-01          | 2021-01-01        |
+| CUUSA211SATCLTB | Consumer Price Index for All Urban Consumers: Transportation commodities less motor fuel in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)   | 2010-01-01          | 2021-01-01        |
+| CUUSA211SEFV    | Consumer Price Index for All Urban Consumers: Food away from home in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                          | 1984-01-01          | 2021-01-01        |
+| CUUSA211SEHA    | Consumer Price Index for All Urban Consumers: Rent of primary residence in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                    | 1984-01-01          | 2021-01-01        |
+| CUUSA211SEHC    | Consumer Price Index for All Urban Consumers: Owners' equivalent rent of residences in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)        | 1984-01-01          | 2021-01-01        |
+| CUUSA211SEHC01  | Consumer Price Index for All Urban Consumers: Owners' equivalent rent of primary residence in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA) | 1984-01-01          | 2021-01-01        |
+| CUUSA211SEHF    | Consumer Price Index for All Urban Consumers: Energy services in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                              | 1984-01-01          | 2021-01-01        |
+| CUUSA211SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                  | 1984-01-01          | 2021-01-01        |
+| CUUSA211SEHF02  | Consumer Price Index for All Urban Consumers: Utility (piped) gas service in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                  | 1984-01-01          | 2021-01-01        |
+| CUUSA211SETB    | Consumer Price Index for All Urban Consumers: Motor fuel in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                                   | 1984-01-01          | 2021-01-01        |
+| CUUSA211SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (all types) in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                         | 1984-01-01          | 2021-01-01        |
+| CUUSA211SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded regular in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                   | 1984-01-01          | 2021-01-01        |
+| CUUSA211SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded midgrade in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                  | 1994-01-01          | 2021-01-01        |
+| CUUSA211SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, unleaded premium in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)                   | 1984-01-01          | 2021-01-01        |

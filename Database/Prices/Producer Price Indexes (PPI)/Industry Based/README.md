@@ -1,19 +1,19 @@
 | Folder                                                                   |   Files / Folders |
 |--------------------------------------------------------------------------|-------------------|
-| Retail Trade                                                             |               217 |
-| Accommodation and Food Services                                          |                25 |
-| Construction                                                             |               249 |
-| Agriculture, Forestry, Fishing and Hunting                               |                 7 |
-| Utilities                                                                |                63 |
+| Utilities                                                                |                 0 |
+| Other Services (except Public Administration)                            |                 0 |
+| Manufacturing                                                            |                 0 |
+| Health Care and Social Assistance                                        |                 0 |
+| Accommodation and Food Services                                          |                 0 |
+| Educational Services                                                     |                 0 |
+| Transportation and Warehousing                                           |                 0 |
+| Construction                                                             |                 0 |
+| Administrative and Support and Waste Management and Remediation Services |                 0 |
+| Professional, Scientific, and Technical Services                         |                 0 |
+| Retail Trade                                                             |                 0 |
 | Public Administration                                                    |                13 |
-| Professional, Scientific, and Technical Services                         |                69 |
-| Health Care and Social Assistance                                        |               363 |
-| Finance and Insurance                                                    |               168 |
+| Finance and Insurance                                                    |                 0 |
+| Agriculture, Forestry, Fishing and Hunting                               |                 0 |
 | Mining, Quarrying, and Oil and Gas Extraction                            |               145 |
-| Administrative and Support and Waste Management and Remediation Services |                51 |
-| Information                                                              |                91 |
-| Manufacturing                                                            |               823 |
-| Educational Services                                                     |                 6 |
-| Arts, Entertainment, and Recreation                                      |               321 |
-| Other Services (except Public Administration)                            |               479 |
-| Transportation and Warehousing                                           |                59 |
+| Information                                                              |                 0 |
+| Arts, Entertainment, and Recreation                                      |                 0 |

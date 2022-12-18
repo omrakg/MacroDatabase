@@ -7,7 +7,7 @@
 | CDCABSHNO     | Households and Nonprofit Organizations; Checkable Deposits and Currency; Asset, Level                                | 1945-10-01          | 2022-07-01        |
 | CDGABSHNO     | Households and Nonprofit Organizations; Consumer Durable Goods, Current Cost Basis, Level                            | 1945-10-01          | 2022-07-01        |
 | CFBABSHNO     | Households and Nonprofit Organizations; Corporate and Foreign Bonds; Asset, Level                                    | 1945-10-01          | 2022-07-01        |
-| CMIABSHNO     | Households and Nonprofit Organizations; Debt Securities and Loans; Asset, Level                                      | 1945-10-01          | 2022-04-01        |
+| CMIABSHNO     | Households and Nonprofit Organizations; Debt Securities and Loans; Asset, Level                                      | 1945-10-01          | 2022-07-01        |
 | CMLBSHNO      | Nonprofit Organizations; Commercial Mortgages; Liability, Level                                                      | 1945-10-01          | 2022-07-01        |
 | DABSHNO       | Households and Nonprofit Organizations; Total Currency and Deposits Including Money Market Fund Shares; Asset, Level | 1945-10-01          | 2022-07-01        |
 | DULIPLBSHNO   | Life Insurance Companies, General Accounts; Deferred and Unpaid Life Insurance Premiums; Asset, Level                | 1945-10-01          | 2022-07-01        |

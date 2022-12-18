@@ -2,7 +2,7 @@
 |------------------|--------------------------------------------------------------------------------|---------------------|-------------------|
 | BASMNYARA189N    | Base Money for Argentina                                                       | 1990-01-01          | 2017-01-01        |
 | BDMYA1AUM189S    | Broad Money, Alternate Definition 1 for Australia                              | 2009-01-01          | 2011-08-01        |
-| BRDMNYAUM189N    | Broad Money for Australia                                                      | 2001-12-01          | 2022-08-01        |
+| BRDMNYAUM189N    | Broad Money for Australia                                                      | 2001-12-01          | 2022-09-01        |
 | DDDI05AEA156NWDB | Liquid Liabilities to GDP for United Arab Emirates                             | 1975-01-01          | 2019-01-01        |
 | DDDI05AFA156NWDB | Liquid Liabilities to GDP for Afghanistan                                      | 1960-01-01          | 2020-01-01        |
 | DDDI05AGA156NWDB | Liquid Liabilities to GDP for Antigua and Barbuda                              | 1975-01-01          | 2020-01-01        |

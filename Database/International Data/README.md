@@ -1,6 +1,6 @@
 | Folder       |   Files / Folders |
 |--------------|-------------------|
-| Geography    |                 7 |
 | Institutions |                27 |
-| Indicators   |                15 |
+| Geography    |                 7 |
 | Countries    |               249 |
+| Indicators   |                15 |

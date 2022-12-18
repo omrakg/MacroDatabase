@@ -1,0 +1,3 @@
+| id         | title                                                                       | observation_start   | observation_end   |
+|------------|-----------------------------------------------------------------------------|---------------------|-------------------|
+| PCRGMPUSMP | Total Per Capita Real GDP United States Metropolitan Portion (DISCONTINUED) | 2001-01-01          | 2017-01-01        |

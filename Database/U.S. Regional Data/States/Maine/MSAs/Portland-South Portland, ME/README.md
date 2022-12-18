@@ -25,7 +25,7 @@
 | HORAYYMSA38860            | Market Hotness: Hotness Rank in Portland-South Portland, ME (CBSA)                                                     | 2018-08-01          | 2022-11-01        |
 | HOSCMSA38860              | Market Hotness: Hotness Score in Portland-South Portland, ME (CBSA)                                                    | 2017-08-01          | 2022-11-01        |
 | IHLCHG38860               | Job Postings on Indeed in Portland-South Portland, ME (MSA)                                                            | 2020-02-01          | 2022-11-25        |
-| IRPD38860                 | Implicit Regional Price Deflator for Portland-South Portland, ME (MSA)                                                 | 2008-01-01          | 2020-01-01        |
+| IRPD38860                 | Implicit Regional Price Deflator for Portland-South Portland, ME (MSA)                                                 | 2008-01-01          | 2021-01-01        |
 | LDPEPRMMMSA38860          | Market Hotness: Listing Views per Property in Portland-South Portland, ME (CBSA)                                       | 2017-09-01          | 2022-11-01        |
 | LDPEPRVSUSMSA38860        | Market Hotness: Listing Views per Property Versus the United States in Portland-South Portland, ME (CBSA)              | 2017-08-01          | 2022-11-01        |
 | LDPEPRYYMSA38860          | Market Hotness: Listing Views per Property in Portland-South Portland, ME (CBSA)                                       | 2018-08-01          | 2022-11-01        |
@@ -69,10 +69,10 @@
 | PTLPOP                    | Resident Population in Portland-South Portland, ME (MSA)                                                               | 2000-01-01          | 2021-01-01        |
 | QGMP38860                 | Total Quantity Indexes for Real GDP for Portland-South Portland, ME (MSA)                                              | 2001-01-01          | 2021-01-01        |
 | RGMP38860                 | Total Real Gross Domestic Product for Portland-South Portland, ME (MSA)                                                | 2001-01-01          | 2021-01-01        |
-| RPI38860                  | Real Personal Income for Portland-South Portland, ME (MSA)                                                             | 2008-01-01          | 2020-01-01        |
-| RPIPC38860                | Real Per Capita Personal Income for Portland-South Portland, ME (MSA)                                                  | 2008-01-01          | 2020-01-01        |
-| RPPALL38860               | Regional Price Parities: All Items for Portland-South Portland, ME (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| RPPGOOD38860              | Regional Price Parities: Goods for Portland-South Portland, ME (MSA)                                                   | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH38860          | Regional Price Parities: Services: Other for Portland-South Portland, ME (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT38860         | Regional Price Parities: Services: Rents for Portland-South Portland, ME (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| RPI38860                  | Real Personal Income for Portland-South Portland, ME (MSA)                                                             | 2008-01-01          | 2021-01-01        |
+| RPIPC38860                | Real Per Capita Personal Income for Portland-South Portland, ME (MSA)                                                  | 2008-01-01          | 2021-01-01        |
+| RPPALL38860               | Regional Price Parities: All Items for Portland-South Portland, ME (MSA)                                               | 2008-01-01          | 2021-01-01        |
+| RPPGOOD38860              | Regional Price Parities: Goods for Portland-South Portland, ME (MSA)                                                   | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH38860          | Regional Price Parities: Services: Other for Portland-South Portland, ME (MSA)                                         | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT38860         | Regional Price Parities: Services: Rents for Portland-South Portland, ME (MSA)                                         | 2008-01-01          | 2021-01-01        |
 | SUSCMSA38860              | Market Hotness: Supply Score in Portland-South Portland, ME (CBSA)                                                     | 2017-08-01          | 2022-11-01        |

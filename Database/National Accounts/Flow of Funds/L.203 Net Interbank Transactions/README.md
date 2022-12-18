@@ -1,9 +1,9 @@
 | id               | title                                                                                                                                               | observation_start   | observation_end   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | ASTNITA          | All Sectors; Total Net Interbank Transactions; Asset, Level                                                                                         | 1945-10-01          | 2022-07-01        |
-| BUSAACDCA        | Banks in U.S.-Affiliated Areas; Checkable Deposits and Currency and Reserves at the Federal Reserve; Asset, Level                                   | 1945-10-01          | 2022-04-01        |
+| BUSAACDCA        | Banks in U.S.-Affiliated Areas; Checkable Deposits and Currency and Reserves at the Federal Reserve; Asset, Level                                   | 1945-10-01          | 2022-07-01        |
 | BUSAANITL        | Banks in U.S.-Affiliated Areas; Net Interbank Transactions; Liability, Level                                                                        | 1945-10-01          | 2022-07-01        |
-| CUDIRA           | Credit Unions; Depository Institution Reserves, Excluding Corporate Credit Unions; Asset, Level                                                     | 1945-10-01          | 2022-04-01        |
+| CUDIRA           | Credit Unions; Depository Institution Reserves, Excluding Corporate Credit Unions; Asset, Level                                                     | 1945-10-01          | 2022-07-01        |
 | CUITUSDIA        | Credit Unions; Interbank Transactions Due from U.S. Depository Institutions; Asset, Level                                                           | 1945-10-01          | 2022-07-01        |
 | CUNITL           | Credit Unions; Total Net Interbank Transactions; Liability, Level                                                                                   | 1945-10-01          | 2022-07-01        |
 | FBNITL           | Domestic Financial Sectors; Net Interbank Transactions; Liability, Level                                                                            | 1945-10-01          | 2022-07-01        |

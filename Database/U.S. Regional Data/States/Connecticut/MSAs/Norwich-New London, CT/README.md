@@ -24,7 +24,7 @@
 | HORAMSA35980              | Market Hotness: Hotness Rank in Norwich-New London, CT (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA35980            | Market Hotness: Hotness Rank in Norwich-New London, CT (CBSA)                                             | 2018-08-01          | 2022-11-01        |
 | HOSCMSA35980              | Market Hotness: Hotness Score in Norwich-New London, CT (CBSA)                                            | 2017-08-01          | 2022-11-01        |
-| IRPD35980                 | Implicit Regional Price Deflator for Norwich-New London, CT (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| IRPD35980                 | Implicit Regional Price Deflator for Norwich-New London, CT (MSA)                                         | 2008-01-01          | 2021-01-01        |
 | LDPEPRMMMSA35980          | Market Hotness: Listing Views per Property in Norwich-New London, CT (CBSA)                               | 2017-09-01          | 2022-11-01        |
 | LDPEPRVSUSMSA35980        | Market Hotness: Listing Views per Property Versus the United States in Norwich-New London, CT (CBSA)      | 2017-08-01          | 2022-11-01        |
 | LDPEPRYYMSA35980          | Market Hotness: Listing Views per Property in Norwich-New London, CT (CBSA)                               | 2018-08-01          | 2022-11-01        |
@@ -68,10 +68,10 @@
 | PRIREDCOUYY35980          | Housing Inventory: Price Reduced Count Year-Over-Year in Norwich-New London, CT (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP35980                 | Total Quantity Indexes for Real GDP for Norwich-New London, CT (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP35980                 | Total Real Gross Domestic Product for Norwich-New London, CT (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI35980                  | Real Personal Income for Norwich-New London, CT (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC35980                | Real Per Capita Personal Income for Norwich-New London, CT (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL35980               | Regional Price Parities: All Items for Norwich-New London, CT (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD35980              | Regional Price Parities: Goods for Norwich-New London, CT (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH35980          | Regional Price Parities: Services: Other for Norwich-New London, CT (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT35980         | Regional Price Parities: Services: Rents for Norwich-New London, CT (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| RPI35980                  | Real Personal Income for Norwich-New London, CT (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC35980                | Real Per Capita Personal Income for Norwich-New London, CT (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL35980               | Regional Price Parities: All Items for Norwich-New London, CT (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD35980              | Regional Price Parities: Goods for Norwich-New London, CT (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH35980          | Regional Price Parities: Services: Other for Norwich-New London, CT (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT35980         | Regional Price Parities: Services: Rents for Norwich-New London, CT (MSA)                                 | 2008-01-01          | 2021-01-01        |
 | SUSCMSA35980              | Market Hotness: Supply Score in Norwich-New London, CT (CBSA)                                             | 2017-08-01          | 2022-11-01        |

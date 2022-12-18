@@ -16,13 +16,13 @@
 | CUURA319SAES    | Consumer Price Index for All Urban Consumers: Education and Communication Services in Atlanta-Sandy Springs-Roswell, GA (CBSA)         | 2009-12-01          | 2022-10-01        |
 | CUURA319SAF     | Consumer Price Index for All Urban Consumers: Food and Beverages in Atlanta-Sandy Springs-Roswell, GA (CBSA)                           | 1975-12-01          | 2022-10-01        |
 | CUURA319SAF1    | Consumer Price Index for All Urban Consumers: Food in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                         | 1917-12-01          | 2022-10-01        |
-| CUURA319SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                 | 1953-01-01          | 2022-10-01        |
+| CUURA319SAF11   | Consumer Price Index for All Urban Consumers: Food at Home in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                 | 1953-01-01          | 2022-11-01        |
 | CUURA319SAF116  | Consumer Price Index for All Urban Consumers: Alcoholic Beverages in Atlanta-Sandy Springs-Roswell, GA (CBSA)                          | 1975-12-01          | 2022-10-01        |
 | CUURA319SAG     | Consumer Price Index for All Urban Consumers: Other Goods and Services in Atlanta-Sandy Springs-Roswell, GA (CBSA)                     | 1975-12-01          | 2022-10-01        |
 | CUURA319SAGC    | Consumer Price Index for All Urban Consumers: Other Goods in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                  | 2009-12-01          | 2022-10-01        |
 | CUURA319SAGS    | Consumer Price Index for All Urban Consumers: Other Personal Services in Atlanta-Sandy Springs-Roswell, GA (CBSA)                      | 2009-12-01          | 2022-10-01        |
 | CUURA319SAH     | Consumer Price Index for All Urban Consumers: Housing in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                      | 1975-12-01          | 2022-10-01        |
-| CUURA319SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                      | 1952-11-01          | 2022-10-01        |
+| CUURA319SAH1    | Consumer Price Index for All Urban Consumers: Shelter in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                      | 1952-11-01          | 2022-11-01        |
 | CUURA319SAH2    | Consumer Price Index for All Urban Consumers: Fuels and Utilities in Atlanta-Sandy Springs-Roswell, GA (CBSA)                          | 1952-11-01          | 2022-02-01        |
 | CUURA319SAH3    | Consumer Price Index for All Urban Consumers: Household Furnishings and Operations in Atlanta-Sandy Springs-Roswell, GA (CBSA)         | 1975-12-01          | 2022-10-01        |
 | CUURA319SAH21   | Consumer Price Index for All Urban Consumers: Household Energy in Atlanta-Sandy Springs-Roswell, GA (CBSA)                             | 1976-01-01          | 2022-03-01        |
@@ -39,17 +39,17 @@
 | CUURA319SAT1    | Consumer Price Index for All Urban Consumers: Private Transportation in Atlanta-Sandy Springs-Roswell, GA (CBSA)                       | 1947-03-01          | 2022-10-01        |
 | CUURA319SATCLTB | Consumer Price Index for All Urban Consumers: Transportation Commodities Less Motor Fuel in Atlanta-Sandy Springs-Roswell, GA (CBSA)   | 2009-12-01          | 2022-10-01        |
 | CUURA319SEFV    | Consumer Price Index for All Urban Consumers: Food Away from Home in Atlanta-Sandy Springs-Roswell, GA (CBSA)                          | 1952-12-01          | 2022-10-01        |
-| CUURA319SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Atlanta-Sandy Springs-Roswell, GA (CBSA)                    | 1917-12-01          | 2022-10-01        |
-| CUURA319SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Atlanta-Sandy Springs-Roswell, GA (CBSA)        | 1982-12-01          | 2022-10-01        |
-| CUURA319SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Atlanta-Sandy Springs-Roswell, GA (CBSA) | 1982-12-01          | 2022-10-01        |
+| CUURA319SEHA    | Consumer Price Index for All Urban Consumers: Rent of Primary Residence in Atlanta-Sandy Springs-Roswell, GA (CBSA)                    | 1917-12-01          | 2022-11-01        |
+| CUURA319SEHC    | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in Atlanta-Sandy Springs-Roswell, GA (CBSA)        | 1982-12-01          | 2022-11-01        |
+| CUURA319SEHC01  | Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Primary Residence in Atlanta-Sandy Springs-Roswell, GA (CBSA) | 1982-12-01          | 2022-11-01        |
 | CUURA319SEHF    | Consumer Price Index for All Urban Consumers: Energy Services in Atlanta-Sandy Springs-Roswell, GA (CBSA)                              | 1935-03-01          | 2022-03-01        |
 | CUURA319SEHF01  | Consumer Price Index for All Urban Consumers: Electricity in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                  | 1971-05-01          | 2022-03-01        |
 | CUURA319SEHF02  | Consumer Price Index for All Urban Consumers: Utility (Piped) Gas Service in Atlanta-Sandy Springs-Roswell, GA (CBSA)                  | 1971-05-01          | 2019-11-01        |
-| CUURA319SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                   | 1977-12-01          | 2022-10-01        |
-| CUURA319SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Atlanta-Sandy Springs-Roswell, GA (CBSA)                         | 1977-12-01          | 2022-10-01        |
-| CUURA319SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Atlanta-Sandy Springs-Roswell, GA (CBSA)                   | 1976-01-01          | 2022-10-01        |
-| CUURA319SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Atlanta-Sandy Springs-Roswell, GA (CBSA)                  | 1997-12-01          | 2022-10-01        |
-| CUURA319SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Atlanta-Sandy Springs-Roswell, GA (CBSA)                   | 1981-08-01          | 2022-10-01        |
+| CUURA319SETB    | Consumer Price Index for All Urban Consumers: Motor Fuel in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                   | 1977-12-01          | 2022-11-01        |
+| CUURA319SETB01  | Consumer Price Index for All Urban Consumers: Gasoline (All Types) in Atlanta-Sandy Springs-Roswell, GA (CBSA)                         | 1977-12-01          | 2022-11-01        |
+| CUURA319SS47014 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Regular in Atlanta-Sandy Springs-Roswell, GA (CBSA)                   | 1976-01-01          | 2022-11-01        |
+| CUURA319SS47015 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Midgrade in Atlanta-Sandy Springs-Roswell, GA (CBSA)                  | 1997-12-01          | 2022-11-01        |
+| CUURA319SS47016 | Consumer Price Index for All Urban Consumers: Gasoline, Unleaded Premium in Atlanta-Sandy Springs-Roswell, GA (CBSA)                   | 1981-08-01          | 2022-11-01        |
 | CUUSA319SA0     | Consumer Price Index for All Urban Consumers: All Items in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                    | 1984-01-01          | 2022-01-01        |
 | CUUSA319SA0E    | Consumer Price Index for All Urban Consumers: Energy in Atlanta-Sandy Springs-Roswell, GA (CBSA)                                       | 1984-01-01          | 2022-01-01        |
 | CUUSA319SA0L1E  | Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in Atlanta-Sandy Springs-Roswell, GA (CBSA)               | 1984-01-01          | 2022-01-01        |

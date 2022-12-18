@@ -1,35 +1,3 @@
-| id              | title                                                                                                                                   | observation_start   | observation_end   |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| BSOBLV02ATM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Austria                                         | 1963-03-01          | 2022-10-01        |
-| BSOBLV02AUQ460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Australia                                       | 1966-04-01          | 2022-07-01        |
-| BSOBLV02BEM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Belgium                                         | 1965-12-01          | 2022-10-01        |
-| BSOBLV02BRM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Brazil                                          | 1980-01-01          | 2022-10-01        |
-| BSOBLV02BRQ460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Brazil                                          | 1980-01-01          | 2022-07-01        |
-| BSOBLV02CHM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Switzerland                                     | 1966-11-01          | 2022-09-01        |
-| BSOBLV02CLM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Chile                                           | 2003-11-01          | 2022-10-01        |
-| BSOBLV02CZM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for the Czech Republic                              | 1993-01-01          | 2022-10-01        |
-| BSOBLV02DEM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Germany                                         | 1962-12-01          | 2022-10-01        |
-| BSOBLV02DKM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Denmark                                         | 1985-01-01          | 2022-10-01        |
-| BSOBLV02EEM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Estonia                                         | 1992-04-01          | 2022-10-01        |
-| BSOBLV02ESM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Spain                                           | 1963-09-01          | 2022-10-01        |
-| BSOBLV02EZM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for the Euro Area (19 Countries)                    | 1985-01-01          | 2022-10-01        |
-| BSOBLV02FIM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: National Indicator for Finland                                         | 1985-01-01          | 2022-10-01        |
-| BSOBLV02FRM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for France                 | 1975-12-01          | 2022-10-01        |
-| BSOBLV02GBM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for the United Kingdom     | 1977-03-01          | 2021-03-01        |
-| BSOBLV02GRM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Greece                 | 1980-12-01          | 2022-10-01        |
-| BSOBLV02HUM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Hungary                | 1996-01-01          | 2022-10-01        |
-| BSOBLV02IDQ460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Indonesia              | 2002-01-01          | 2022-07-01        |
-| BSOBLV02IEM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Ireland                | 1974-04-01          | 2022-10-01        |
-| BSOBLV02INQ460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for India                  | 2000-04-01          | 2022-01-01        |
-| BSOBLV02ITM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Italy                  | 1961-12-01          | 2022-10-01        |
-| BSOBLV02LUM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Luxembourg             | 1983-01-01          | 2022-10-01        |
-| BSOBLV02NLM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for the Netherlands        | 1961-06-01          | 2022-10-01        |
-| BSOBLV02NOQ460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Norway                 | 1973-10-01          | 2022-07-01        |
-| BSOBLV02PLM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Poland                 | 1997-07-01          | 2022-10-01        |
-| BSOBLV02PTM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Portugal               | 1987-01-01          | 2022-10-01        |
-| BSOBLV02RUM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for the Russian Federation | 1992-09-01          | 2022-01-01        |
-| BSOBLV02SEM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Sweden                 | 1990-01-01          | 2022-10-01        |
-| BSOBLV02SIM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Slovenia               | 1995-04-01          | 2022-10-01        |
-| BSOBLV02SKM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for the Slovak Republic    | 1993-08-01          | 2022-10-01        |
-| BSOBLV02TRM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for Turkey                 | 1991-02-01          | 2022-10-01        |
-| BSOBLV02USM460S | Business Tendency Surveys for Manufacturing: Order Books: Level: European Commission and National Indicators for the United States      | 1993-01-01          | 2022-10-01        |
+| Folder       |   Files / Folders |
+|--------------|-------------------|
+| Discontinued |                 0 |

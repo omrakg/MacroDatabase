@@ -1,17 +1,17 @@
 | Folder                            |   Files / Folders |
 |-----------------------------------|-------------------|
-| Cincinnati, OH-KY-IN              |               247 |
-| Cleveland-Elyria, OH              |               279 |
-| Wheeling, WV-OH                   |               127 |
-| Lima, OH                          |               131 |
-| Toledo, OH                        |               195 |
-| Mansfield, OH                     |               135 |
-| Akron, OH                         |               198 |
-| Springfield, OH                   |               162 |
 | Dayton-Kettering, OH              |               193 |
-| Canton-Massillon, OH              |               176 |
-| Youngstown-Warren-Boardman, OH-PA |               180 |
-| Sandusky, OH                      |                36 |
-| Huntington-Ashland, WV-KY-OH      |               159 |
+| Cincinnati, OH-KY-IN              |                 0 |
+| Wheeling, WV-OH                   |                 0 |
+| Huntington-Ashland, WV-KY-OH      |                 0 |
+| Lima, OH                          |               131 |
+| Toledo, OH                        |                 0 |
 | Columbus, OH                      |               250 |
-| Weirton-Steubenville, WV-OH       |                79 |
+| Youngstown-Warren-Boardman, OH-PA |                 0 |
+| Canton-Massillon, OH              |               176 |
+| Weirton-Steubenville, WV-OH       |                 0 |
+| Springfield, OH                   |               162 |
+| Akron, OH                         |               198 |
+| Mansfield, OH                     |               135 |
+| Cleveland-Elyria, OH              |               279 |
+| Sandusky, OH                      |                36 |

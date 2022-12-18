@@ -13,7 +13,7 @@
 | ENUC332240310SA        | Average Weekly Wages for Employees in Local Government Establishments in Midland, MI (MSA)   | 2013-01-01          | 2022-04-01        |
 | ENUC332240510          | Average Weekly Wages for Employees in Private Establishments in Midland, MI (MSA)            | 2013-01-01          | 2022-04-01        |
 | ENUC332240510SA        | Average Weekly Wages for Employees in Private Establishments in Midland, MI (MSA)            | 2013-01-01          | 2022-04-01        |
-| IRPD33220              | Implicit Regional Price Deflator for Midland, MI (MSA)                                       | 2008-01-01          | 2020-01-01        |
+| IRPD33220              | Implicit Regional Price Deflator for Midland, MI (MSA)                                       | 2008-01-01          | 2021-01-01        |
 | LAUMT263322000000003   | Unemployment Rate in Midland, MI (MSA)                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT263322000000003A  | Unemployment Rate in Midland, MI (MSA)                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT263322000000004   | Unemployed Persons in Midland, MI (MSA)                                                      | 1990-01-01          | 2022-10-01        |
@@ -27,33 +27,33 @@
 | NGMP33220              | Total Gross Domestic Product for Midland, MI (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | QGMP33220              | Total Quantity Indexes for Real GDP for Midland, MI (MSA)                                    | 2001-01-01          | 2021-01-01        |
 | RGMP33220              | Total Real Gross Domestic Product for Midland, MI (MSA)                                      | 2001-01-01          | 2021-01-01        |
-| RPI33220               | Real Personal Income for Midland, MI (MSA)                                                   | 2008-01-01          | 2020-01-01        |
-| RPIPC33220             | Real Per Capita Personal Income for Midland, MI (MSA)                                        | 2008-01-01          | 2020-01-01        |
-| RPPALL33220            | Regional Price Parities: All Items for Midland, MI (MSA)                                     | 2008-01-01          | 2020-01-01        |
-| RPPGOOD33220           | Regional Price Parities: Goods for Midland, MI (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH33220       | Regional Price Parities: Services: Other for Midland, MI (MSA)                               | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT33220      | Regional Price Parities: Services: Rents for Midland, MI (MSA)                               | 2008-01-01          | 2020-01-01        |
-| SMU26332200000000001   | All Employees: Total Nonfarm in Midland, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| RPI33220               | Real Personal Income for Midland, MI (MSA)                                                   | 2008-01-01          | 2021-01-01        |
+| RPIPC33220             | Real Per Capita Personal Income for Midland, MI (MSA)                                        | 2008-01-01          | 2021-01-01        |
+| RPPALL33220            | Regional Price Parities: All Items for Midland, MI (MSA)                                     | 2008-01-01          | 2021-01-01        |
+| RPPGOOD33220           | Regional Price Parities: Goods for Midland, MI (MSA)                                         | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH33220       | Regional Price Parities: Services: Other for Midland, MI (MSA)                               | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT33220      | Regional Price Parities: Services: Rents for Midland, MI (MSA)                               | 2008-01-01          | 2021-01-01        |
+| SMU26332200000000001   | All Employees: Total Nonfarm in Midland, MI (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU26332200000000001A  | All Employees: Total Nonfarm in Midland, MI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU26332200000000001SA | All Employees: Total Nonfarm in Midland, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU26332200500000001   | All Employees: Total Private in Midland, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| SMU26332200000000001SA | All Employees: Total Nonfarm in Midland, MI (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU26332200500000001   | All Employees: Total Private in Midland, MI (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU26332200500000001A  | All Employees: Total Private in Midland, MI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU26332200500000001SA | All Employees: Total Private in Midland, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU26332200500000002   | Average Weekly Hours of All Employees: Total Private in Midland, MI (MSA)                    | 2011-01-01          | 2022-10-01        |
+| SMU26332200500000001SA | All Employees: Total Private in Midland, MI (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU26332200500000002   | Average Weekly Hours of All Employees: Total Private in Midland, MI (MSA)                    | 2011-01-01          | 2022-11-01        |
 | SMU26332200500000002A  | Average Weekly Hours of All Employees: Total Private in Midland, MI (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU26332200500000003   | Average Hourly Earnings of All Employees: Total Private in Midland, MI (MSA)                 | 2011-01-01          | 2022-10-01        |
+| SMU26332200500000003   | Average Hourly Earnings of All Employees: Total Private in Midland, MI (MSA)                 | 2011-01-01          | 2022-11-01        |
 | SMU26332200500000003A  | Average Hourly Earnings of All Employees: Total Private in Midland, MI (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU26332200500000011   | Average Weekly Earnings of All Employees: Total Private in Midland, MI (MSA)                 | 2011-01-01          | 2022-10-01        |
+| SMU26332200500000011   | Average Weekly Earnings of All Employees: Total Private in Midland, MI (MSA)                 | 2011-01-01          | 2022-11-01        |
 | SMU26332200500000011A  | Average Weekly Earnings of All Employees: Total Private in Midland, MI (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU26332200600000001   | All Employees: Goods Producing in Midland, MI (MSA)                                          | 1990-01-01          | 2022-10-01        |
+| SMU26332200600000001   | All Employees: Goods Producing in Midland, MI (MSA)                                          | 1990-01-01          | 2022-11-01        |
 | SMU26332200600000001A  | All Employees: Goods Producing in Midland, MI (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU26332200600000001SA | All Employees: Goods Producing in Midland, MI (MSA)                                          | 1990-01-01          | 2022-10-01        |
-| SMU26332200700000001   | All Employees: Service-Providing in Midland, MI (MSA)                                        | 1990-01-01          | 2022-10-01        |
+| SMU26332200600000001SA | All Employees: Goods Producing in Midland, MI (MSA)                                          | 1990-01-01          | 2022-11-01        |
+| SMU26332200700000001   | All Employees: Service-Providing in Midland, MI (MSA)                                        | 1990-01-01          | 2022-11-01        |
 | SMU26332200700000001A  | All Employees: Service-Providing in Midland, MI (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU26332200700000001SA | All Employees: Service-Providing in Midland, MI (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| SMU26332200800000001   | All Employees: Private Service Providing in Midland, MI (MSA)                                | 1990-01-01          | 2022-10-01        |
+| SMU26332200700000001SA | All Employees: Service-Providing in Midland, MI (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| SMU26332200800000001   | All Employees: Private Service Providing in Midland, MI (MSA)                                | 1990-01-01          | 2022-11-01        |
 | SMU26332200800000001A  | All Employees: Private Service Providing in Midland, MI (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU26332200800000001SA | All Employees: Private Service Providing in Midland, MI (MSA)                                | 1990-01-01          | 2022-10-01        |
-| SMU26332209000000001   | All Employees: Government in Midland, MI (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU26332200800000001SA | All Employees: Private Service Providing in Midland, MI (MSA)                                | 1990-01-01          | 2022-11-01        |
+| SMU26332209000000001   | All Employees: Government in Midland, MI (MSA)                                               | 1990-01-01          | 2022-11-01        |
 | SMU26332209000000001A  | All Employees: Government in Midland, MI (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU26332209000000001SA | All Employees: Government in Midland, MI (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU26332209000000001SA | All Employees: Government in Midland, MI (MSA)                                               | 1990-01-01          | 2022-11-01        |

@@ -1,11 +1,11 @@
 | id                   | title                                                                                                                               | observation_start   | observation_end   |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
 | AKSTHPI              | All-Transactions House Price Index for Alaska                                                                                       | 1975-01-01          | 2022-07-01        |
-| AKUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Alaska                       | 2000-01-01          | 2022-10-01        |
+| AKUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Alaska                       | 2000-01-01          | 2022-11-01        |
 | ALSTHPI              | All-Transactions House Price Index for Alabama                                                                                      | 1975-01-01          | 2022-07-01        |
-| ALUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Alabama                      | 2000-01-01          | 2022-10-01        |
+| ALUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Alabama                      | 2000-01-01          | 2022-11-01        |
 | ARSTHPI              | All-Transactions House Price Index for Arkansas                                                                                     | 1975-01-01          | 2022-07-01        |
-| ARUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arkansas                     | 2000-01-01          | 2022-10-01        |
+| ARUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arkansas                     | 2000-01-01          | 2022-11-01        |
 | ATNHPIUS10180Q       | All-Transactions House Price Index for Abilene, TX (MSA)                                                                            | 1986-04-01          | 2022-07-01        |
 | ATNHPIUS10420Q       | All-Transactions House Price Index for Akron, OH (MSA)                                                                              | 1976-07-01          | 2022-07-01        |
 | ATNHPIUS10500Q       | All-Transactions House Price Index for Albany, GA (MSA)                                                                             | 1986-01-01          | 2022-07-01        |
@@ -386,7 +386,7 @@
 | ATXRPSNSA            | Home Price Sales Pair Counts for Atlanta, Georgia                                                                                   | 1991-01-01          | 2022-09-01        |
 | ATXRSA               | S&P/Case-Shiller GA-Atlanta Home Price Index                                                                                        | 1991-01-01          | 2022-09-01        |
 | AZSTHPI              | All-Transactions House Price Index for Arizona                                                                                      | 1975-01-01          | 2022-07-01        |
-| AZUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arizona                      | 2000-01-01          | 2022-10-01        |
+| AZUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Arizona                      | 2000-01-01          | 2022-11-01        |
 | BOXRCNSA             | Condo Price Index for Boston, Massachusetts                                                                                         | 1995-01-01          | 2022-09-01        |
 | BOXRCPSNSA           | Condo Price Sales Pair Counts for Boston, Massachusetts                                                                             | 1995-01-01          | 2022-09-01        |
 | BOXRCSA              | Condo Price Index for Boston, Massachusetts                                                                                         | 1995-01-01          | 2022-09-01        |
@@ -400,7 +400,7 @@
 | BOXRPSNSA            | Home Price Sales Pair Counts for Boston, Massachusetts                                                                              | 1987-01-01          | 2022-09-01        |
 | BOXRSA               | S&P/Case-Shiller MA-Boston Home Price Index                                                                                         | 1987-01-01          | 2022-09-01        |
 | CASTHPI              | All-Transactions House Price Index for California                                                                                   | 1975-01-01          | 2022-07-01        |
-| CAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in California                   | 2000-01-01          | 2022-10-01        |
+| CAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in California                   | 2000-01-01          | 2022-11-01        |
 | CENCSTHPI            | All-Transactions House Price Index for the East North Central Census Division                                                       | 1975-01-01          | 2022-07-01        |
 | CESCSTHPI            | All-Transactions House Price Index for the East South Central Census Division                                                       | 1975-01-01          | 2022-07-01        |
 | CEXRNSA              | S&P/Case-Shiller OH-Cleveland Home Price Index                                                                                      | 1987-01-01          | 2022-09-01        |
@@ -422,7 +422,7 @@
 | CMTNSTHPI            | All-Transactions House Price Index for the Mountain Census Division                                                                 | 1975-01-01          | 2022-07-01        |
 | CNEWSTHPI            | All-Transactions House Price Index for the New England Census Division                                                              | 1975-01-01          | 2022-07-01        |
 | COSTHPI              | All-Transactions House Price Index for Colorado                                                                                     | 1975-01-01          | 2022-07-01        |
-| COUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Colorado                     | 2000-01-01          | 2022-10-01        |
+| COUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Colorado                     | 2000-01-01          | 2022-11-01        |
 | CPACSTHPI            | All-Transactions House Price Index for the Pacific Census Division                                                                  | 1975-01-01          | 2022-07-01        |
 | CRXRNSA              | S&P/Case-Shiller NC-Charlotte Home Price Index                                                                                      | 1987-01-01          | 2022-09-01        |
 | CRXRPSNSA            | Home Price Sales Pair Counts for Charlotte, North Carolina                                                                          | 1987-01-01          | 2022-09-01        |
@@ -431,16 +431,16 @@
 | CSUSHPINSA           | S&P/Case-Shiller U.S. National Home Price Index                                                                                     | 1987-01-01          | 2022-09-01        |
 | CSUSHPISA            | S&P/Case-Shiller U.S. National Home Price Index                                                                                     | 1987-01-01          | 2022-09-01        |
 | CTSTHPI              | All-Transactions House Price Index for Connecticut                                                                                  | 1975-01-01          | 2022-07-01        |
-| CTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Connecticut                  | 2000-01-01          | 2022-10-01        |
+| CTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Connecticut                  | 2000-01-01          | 2022-11-01        |
 | CWNCSTHPI            | All-Transactions House Price Index for the West North Central Census Division                                                       | 1975-01-01          | 2022-07-01        |
 | CWSCSTHPI            | All-Transactions House Price Index for the West South Central Census Division                                                       | 1975-01-01          | 2022-07-01        |
 | DAXRNSA              | S&P/Case-Shiller TX-Dallas Home Price Index                                                                                         | 2000-01-01          | 2022-09-01        |
 | DAXRPSNSA            | Home Price Sales Pair Counts for Dallas, Texas                                                                                      | 2000-01-01          | 2022-09-01        |
 | DAXRSA               | S&P/Case-Shiller TX-Dallas Home Price Index                                                                                         | 2000-01-01          | 2022-09-01        |
 | DCSTHPI              | All-Transactions House Price Index for the District of Columbia                                                                     | 1975-01-01          | 2022-07-01        |
-| DCUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the District of Columbia     | 2000-01-01          | 2022-10-01        |
+| DCUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the District of Columbia     | 2000-01-01          | 2022-11-01        |
 | DESTHPI              | All-Transactions House Price Index for Delaware                                                                                     | 1975-01-01          | 2022-07-01        |
-| DEUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Delaware                     | 2000-01-01          | 2022-10-01        |
+| DEUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Delaware                     | 2000-01-01          | 2022-11-01        |
 | DEXRNSA              | S&P/Case-Shiller MI-Detroit Home Price Index                                                                                        | 1991-01-01          | 2022-09-01        |
 | DEXRPSNSA            | Home Price Sales Pair Counts for Detroit, Michigan                                                                                  | 1991-01-01          | 2022-09-01        |
 | DEXRSA               | S&P/Case-Shiller MI-Detroit Home Price Index                                                                                        | 1991-01-01          | 2022-09-01        |
@@ -455,27 +455,27 @@
 | DNXRSA               | S&P/Case-Shiller CO-Denver Home Price Index                                                                                         | 1987-01-01          | 2022-09-01        |
 | FIXHAI               | Housing Affordability Index (Fixed)                                                                                                 | 2021-11-01          | 2022-10-01        |
 | FLSTHPI              | All-Transactions House Price Index for Florida                                                                                      | 1975-01-01          | 2022-07-01        |
-| FLUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Florida                      | 2000-01-01          | 2022-10-01        |
+| FLUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Florida                      | 2000-01-01          | 2022-11-01        |
 | GASTHPI              | All-Transactions House Price Index for Georgia                                                                                      | 1975-01-01          | 2022-07-01        |
-| GAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Georgia                      | 2000-01-01          | 2022-10-01        |
+| GAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Georgia                      | 2000-01-01          | 2022-11-01        |
 | HISTHPI              | All-Transactions House Price Index for Hawaii                                                                                       | 1975-01-01          | 2022-07-01        |
-| HIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Hawaii                       | 2000-01-01          | 2022-10-01        |
+| HIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Hawaii                       | 2000-01-01          | 2022-11-01        |
 | HPIPONM226N          | Purchase Only House Price Index for the United States                                                                               | 1991-01-01          | 2022-09-01        |
 | HPIPONM226S          | Purchase Only House Price Index for the United States                                                                               | 1991-01-01          | 2022-09-01        |
 | IASTHPI              | All-Transactions House Price Index for Iowa                                                                                         | 1975-01-01          | 2022-07-01        |
-| IAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Iowa                         | 2000-01-01          | 2022-10-01        |
+| IAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Iowa                         | 2000-01-01          | 2022-11-01        |
 | IDSTHPI              | All-Transactions House Price Index for Idaho                                                                                        | 1975-01-01          | 2022-07-01        |
-| IDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Idaho                        | 2000-01-01          | 2022-10-01        |
+| IDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Idaho                        | 2000-01-01          | 2022-11-01        |
 | ILSTHPI              | All-Transactions House Price Index for Illinois                                                                                     | 1975-01-01          | 2022-07-01        |
-| ILUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Illinois                     | 2000-01-01          | 2022-10-01        |
+| ILUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Illinois                     | 2000-01-01          | 2022-11-01        |
 | INSTHPI              | All-Transactions House Price Index for Indiana                                                                                      | 1975-01-01          | 2022-07-01        |
-| INUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Indiana                      | 2000-01-01          | 2022-10-01        |
+| INUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Indiana                      | 2000-01-01          | 2022-11-01        |
 | KSSTHPI              | All-Transactions House Price Index for Kansas                                                                                       | 1975-01-01          | 2022-07-01        |
-| KSUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kansas                       | 2000-01-01          | 2022-10-01        |
+| KSUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kansas                       | 2000-01-01          | 2022-11-01        |
 | KYSTHPI              | All-Transactions House Price Index for Kentucky                                                                                     | 1975-01-01          | 2022-07-01        |
-| KYUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kentucky                     | 2000-01-01          | 2022-10-01        |
+| KYUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Kentucky                     | 2000-01-01          | 2022-11-01        |
 | LASTHPI              | All-Transactions House Price Index for Louisiana                                                                                    | 1975-01-01          | 2022-07-01        |
-| LAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Louisiana                    | 2000-01-01          | 2022-10-01        |
+| LAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Louisiana                    | 2000-01-01          | 2022-11-01        |
 | LVXRHTNSA            | Home Price Index (High Tier) for Las Vegas, Nevada                                                                                  | 1993-01-01          | 2022-09-01        |
 | LVXRHTSA             | Home Price Index (High Tier) for Las Vegas, Nevada                                                                                  | 1993-01-01          | 2022-09-01        |
 | LVXRLTNSA            | Home Price Index (Low Tier) for Las Vegas, Nevada                                                                                   | 1993-01-01          | 2022-09-01        |
@@ -498,13 +498,13 @@
 | LXXRPSNSA            | Home Price Sales Pair Counts for Los Angeles, California                                                                            | 1987-01-01          | 2022-09-01        |
 | LXXRSA               | S&P/Case-Shiller CA-Los Angeles Home Price Index                                                                                    | 1987-01-01          | 2022-09-01        |
 | MASTHPI              | All-Transactions House Price Index for Massachusetts                                                                                | 1975-01-01          | 2022-07-01        |
-| MAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Massachusetts                | 2000-01-01          | 2022-10-01        |
+| MAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Massachusetts                | 2000-01-01          | 2022-11-01        |
 | MDSTHPI              | All-Transactions House Price Index for Maryland                                                                                     | 1975-01-01          | 2022-07-01        |
-| MDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maryland                     | 2000-01-01          | 2022-10-01        |
+| MDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maryland                     | 2000-01-01          | 2022-11-01        |
 | MESTHPI              | All-Transactions House Price Index for Maine                                                                                        | 1975-01-01          | 2022-07-01        |
-| MEUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maine                        | 2000-01-01          | 2022-10-01        |
+| MEUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Maine                        | 2000-01-01          | 2022-11-01        |
 | MISTHPI              | All-Transactions House Price Index for Michigan                                                                                     | 1975-01-01          | 2022-07-01        |
-| MIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Michigan                     | 2000-01-01          | 2022-10-01        |
+| MIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Michigan                     | 2000-01-01          | 2022-11-01        |
 | MIXRHTNSA            | Home Price Index (High Tier) for Miami, Florida                                                                                     | 1987-01-01          | 2022-09-01        |
 | MIXRHTSA             | Home Price Index (High Tier) for Miami, Florida                                                                                     | 1987-01-01          | 2022-09-01        |
 | MIXRLTNSA            | Home Price Index (Low Tier) for Miami, Florida                                                                                      | 1987-01-01          | 2022-09-01        |
@@ -515,7 +515,7 @@
 | MIXRPSNSA            | Home Price Sales Pair Counts for Miami, Florida                                                                                     | 1987-01-01          | 2022-09-01        |
 | MIXRSA               | S&P/Case-Shiller FL-Miami Home Price Index                                                                                          | 1987-01-01          | 2022-09-01        |
 | MNSTHPI              | All-Transactions House Price Index for Minnesota                                                                                    | 1975-01-01          | 2022-07-01        |
-| MNUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Minnesota                    | 2000-01-01          | 2022-10-01        |
+| MNUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Minnesota                    | 2000-01-01          | 2022-11-01        |
 | MNXRHTNSA            | Home Price Index (High Tier) for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2022-09-01        |
 | MNXRHTSA             | Home Price Index (High Tier) for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2022-09-01        |
 | MNXRLTNSA            | Home Price Index (Low Tier) for Minneapolis, Minnesota                                                                              | 1989-01-01          | 2022-09-01        |
@@ -526,27 +526,27 @@
 | MNXRPSNSA            | Home Price Sales Pair Counts for Minneapolis, Minnesota                                                                             | 1989-01-01          | 2022-09-01        |
 | MNXRSA               | S&P/Case-Shiller MN-Minneapolis Home Price Index                                                                                    | 1989-01-01          | 2022-09-01        |
 | MOSTHPI              | All-Transactions House Price Index for Missouri                                                                                     | 1975-01-01          | 2022-07-01        |
-| MOUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Missouri                     | 2000-01-01          | 2022-10-01        |
+| MOUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Missouri                     | 2000-01-01          | 2022-11-01        |
 | MSSTHPI              | All-Transactions House Price Index for Mississippi                                                                                  | 1975-01-01          | 2022-07-01        |
-| MSUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Mississippi                  | 2000-01-01          | 2022-10-01        |
+| MSUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Mississippi                  | 2000-01-01          | 2022-11-01        |
 | MTSTHPI              | All-Transactions House Price Index for Montana                                                                                      | 1975-01-01          | 2022-07-01        |
-| MTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Montana                      | 2005-02-01          | 2022-10-01        |
+| MTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Montana                      | 2005-02-01          | 2022-11-01        |
 | NCSTHPI              | All-Transactions House Price Index for North Carolina                                                                               | 1975-01-01          | 2022-07-01        |
-| NCUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in North Carolina               | 2000-01-01          | 2022-10-01        |
+| NCUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in North Carolina               | 2000-01-01          | 2022-11-01        |
 | NDSTHPI              | All-Transactions House Price Index for North Dakota                                                                                 | 1975-01-01          | 2022-07-01        |
-| NDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in North Dakota                 | 2009-01-01          | 2022-10-01        |
+| NDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in North Dakota                 | 2009-01-01          | 2022-11-01        |
 | NESTHPI              | All-Transactions House Price Index for Nebraska                                                                                     | 1975-01-01          | 2022-07-01        |
-| NEUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nebraska                     | 2000-01-01          | 2022-10-01        |
+| NEUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nebraska                     | 2000-01-01          | 2022-11-01        |
 | NHSTHPI              | All-Transactions House Price Index for New Hampshire                                                                                | 1975-01-01          | 2022-07-01        |
-| NHUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Hampshire                | 2000-01-01          | 2022-10-01        |
+| NHUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Hampshire                | 2000-01-01          | 2022-11-01        |
 | NJSTHPI              | All-Transactions House Price Index for New Jersey                                                                                   | 1975-01-01          | 2022-07-01        |
-| NJUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Jersey                   | 2000-01-01          | 2022-10-01        |
+| NJUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Jersey                   | 2000-01-01          | 2022-11-01        |
 | NMSTHPI              | All-Transactions House Price Index for New Mexico                                                                                   | 1975-01-01          | 2022-07-01        |
-| NMUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Mexico                   | 2002-04-01          | 2022-10-01        |
+| NMUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New Mexico                   | 2002-04-01          | 2022-11-01        |
 | NVSTHPI              | All-Transactions House Price Index for Nevada                                                                                       | 1975-01-01          | 2022-07-01        |
-| NVUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nevada                       | 2000-01-01          | 2022-10-01        |
+| NVUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Nevada                       | 2000-01-01          | 2022-11-01        |
 | NYSTHPI              | All-Transactions House Price Index for New York                                                                                     | 1975-01-01          | 2022-07-01        |
-| NYUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New York                     | 2000-01-01          | 2022-10-01        |
+| NYUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in New York                     | 2000-01-01          | 2022-11-01        |
 | NYXRCNSA             | Condo Price Index for New York, New York                                                                                            | 1995-01-01          | 2022-09-01        |
 | NYXRCPSNSA           | Condo Price Sales Pair Counts for New York, New York                                                                                | 1995-01-01          | 2022-09-01        |
 | NYXRCSA              | Condo Price Index for New York, New York                                                                                            | 1995-01-01          | 2022-09-01        |
@@ -560,13 +560,13 @@
 | NYXRPSNSA            | Home Price Sales Pair Counts for New York, New York                                                                                 | 1987-01-01          | 2022-09-01        |
 | NYXRSA               | S&P/Case-Shiller NY-New York Home Price Index                                                                                       | 1987-01-01          | 2022-09-01        |
 | OHSTHPI              | All-Transactions House Price Index for Ohio                                                                                         | 1975-01-01          | 2022-07-01        |
-| OHUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Ohio                         | 2000-01-01          | 2022-10-01        |
+| OHUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Ohio                         | 2000-01-01          | 2022-11-01        |
 | OKSTHPI              | All-Transactions House Price Index for Oklahoma                                                                                     | 1975-01-01          | 2022-07-01        |
-| OKUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oklahoma                     | 2000-01-01          | 2022-10-01        |
+| OKUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oklahoma                     | 2000-01-01          | 2022-11-01        |
 | ORSTHPI              | All-Transactions House Price Index for Oregon                                                                                       | 1975-01-01          | 2022-07-01        |
-| ORUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oregon                       | 2000-01-01          | 2022-10-01        |
+| ORUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Oregon                       | 2000-01-01          | 2022-11-01        |
 | PASTHPI              | All-Transactions House Price Index for Pennsylvania                                                                                 | 1975-01-01          | 2022-07-01        |
-| PAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Pennsylvania                 | 2000-01-01          | 2022-10-01        |
+| PAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Pennsylvania                 | 2000-01-01          | 2022-11-01        |
 | PHXRHTNSA            | Home Price Index (High Tier) for Phoenix, Arizona                                                                                   | 1989-01-01          | 2022-09-01        |
 | PHXRHTSA             | Home Price Index (High Tier) for Phoenix, Arizona                                                                                   | 1989-01-01          | 2022-09-01        |
 | PHXRLTNSA            | Home Price Index (Low Tier) for Phoenix, Arizona                                                                                    | 1989-01-01          | 2022-09-01        |
@@ -624,11 +624,11 @@
 | POXRPSNSA            | Home Price Sales Pair Counts for Portland, Oregon                                                                                   | 1987-01-01          | 2022-09-01        |
 | POXRSA               | S&P/Case-Shiller OR-Portland Home Price Index                                                                                       | 1987-01-01          | 2022-09-01        |
 | RISTHPI              | All-Transactions House Price Index for Rhode Island                                                                                 | 1975-01-01          | 2022-07-01        |
-| RIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Rhode Island                 | 2000-01-01          | 2022-10-01        |
+| RIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Rhode Island                 | 2000-01-01          | 2022-11-01        |
 | SCSTHPI              | All-Transactions House Price Index for South Carolina                                                                               | 1975-01-01          | 2022-07-01        |
-| SCUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Carolina               | 2000-01-01          | 2022-10-01        |
+| SCUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Carolina               | 2000-01-01          | 2022-11-01        |
 | SDSTHPI              | All-Transactions House Price Index for South Dakota                                                                                 | 1975-01-01          | 2022-07-01        |
-| SDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Dakota                 | 2000-01-01          | 2022-10-01        |
+| SDUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in South Dakota                 | 2000-01-01          | 2022-11-01        |
 | SDXRHTNSA            | Home Price Index (High Tier) for San Diego, California                                                                              | 1989-01-01          | 2022-09-01        |
 | SDXRHTSA             | Home Price Index (High Tier) for San Diego, California                                                                              | 1989-01-01          | 2022-09-01        |
 | SDXRLTNSA            | Home Price Index (Low Tier) for San Diego, California                                                                               | 1989-01-01          | 2022-09-01        |
@@ -666,7 +666,7 @@
 | SPCS20RPSNSA         | S&P/Case-Shiller 20-City Home Price Sales Pair Counts                                                                               | 2000-01-01          | 2022-09-01        |
 | SPCS20RSA            | S&P/Case-Shiller 20-City Composite Home Price Index                                                                                 | 2000-01-01          | 2022-09-01        |
 | TNSTHPI              | All-Transactions House Price Index for Tennessee                                                                                    | 1975-01-01          | 2022-07-01        |
-| TNUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Tennessee                    | 2000-01-01          | 2022-10-01        |
+| TNUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Tennessee                    | 2000-01-01          | 2022-11-01        |
 | TPXRHTNSA            | Home Price Index (High Tier) for Tampa, Florida                                                                                     | 1987-01-01          | 2022-09-01        |
 | TPXRHTSA             | Home Price Index (High Tier) for Tampa, Florida                                                                                     | 1987-01-01          | 2022-09-01        |
 | TPXRLTNSA            | Home Price Index (Low Tier) for Tampa, Florida                                                                                      | 1987-01-01          | 2022-09-01        |
@@ -677,17 +677,17 @@
 | TPXRPSNSA            | Home Price Sales Pair Counts for Tampa, Florida                                                                                     | 1987-01-01          | 2022-09-01        |
 | TPXRSA               | S&P/Case-Shiller FL-Tampa Home Price Index                                                                                          | 1987-01-01          | 2022-09-01        |
 | TXSTHPI              | All-Transactions House Price Index for Texas                                                                                        | 1975-01-01          | 2022-07-01        |
-| TXUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Texas                        | 2000-01-01          | 2022-10-01        |
-| USAUCSFRCONDOSMSAMID | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the United States of America | 2000-01-01          | 2022-10-01        |
+| TXUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Texas                        | 2000-01-01          | 2022-11-01        |
+| USAUCSFRCONDOSMSAMID | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in the United States of America | 2000-01-01          | 2022-11-01        |
 | USSTHPI              | All-Transactions House Price Index for the United States                                                                            | 1975-01-01          | 2022-07-01        |
 | UTSTHPI              | All-Transactions House Price Index for Utah                                                                                         | 1975-01-01          | 2022-07-01        |
-| UTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Utah                         | 2000-01-01          | 2022-10-01        |
+| UTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Utah                         | 2000-01-01          | 2022-11-01        |
 | VASTHPI              | All-Transactions House Price Index for Virginia                                                                                     | 1975-01-01          | 2022-07-01        |
-| VAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Virginia                     | 2000-01-01          | 2022-10-01        |
+| VAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Virginia                     | 2000-01-01          | 2022-11-01        |
 | VTSTHPI              | All-Transactions House Price Index for Vermont                                                                                      | 1975-01-01          | 2022-07-01        |
-| VTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Vermont                      | 2000-01-01          | 2022-10-01        |
+| VTUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Vermont                      | 2000-01-01          | 2022-11-01        |
 | WASTHPI              | All-Transactions House Price Index for Washington                                                                                   | 1975-01-01          | 2022-07-01        |
-| WAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Washington                   | 2000-01-01          | 2022-10-01        |
+| WAUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Washington                   | 2000-01-01          | 2022-11-01        |
 | WDXRHTNSA            | Home Price Index (High Tier) for Washington D.C.                                                                                    | 1987-01-01          | 2022-09-01        |
 | WDXRHTSA             | Home Price Index (High Tier) for Washington D.C.                                                                                    | 1987-01-01          | 2022-09-01        |
 | WDXRLTNSA            | Home Price Index (Low Tier) for Washington D.C.                                                                                     | 1987-01-01          | 2022-09-01        |
@@ -698,8 +698,8 @@
 | WDXRPSNSA            | Home Price Sales Pair Counts for Washington D.C.                                                                                    | 1987-01-01          | 2022-09-01        |
 | WDXRSA               | S&P/Case-Shiller DC-Washington Home Price Index                                                                                     | 1987-01-01          | 2022-09-01        |
 | WISTHPI              | All-Transactions House Price Index for Wisconsin                                                                                    | 1975-01-01          | 2022-07-01        |
-| WIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wisconsin                    | 2000-01-01          | 2022-10-01        |
+| WIUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wisconsin                    | 2000-01-01          | 2022-11-01        |
 | WVSTHPI              | All-Transactions House Price Index for West Virginia                                                                                | 1975-01-01          | 2022-07-01        |
-| WVUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in West Virginia                | 2000-01-01          | 2022-10-01        |
+| WVUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in West Virginia                | 2000-01-01          | 2022-11-01        |
 | WYSTHPI              | All-Transactions House Price Index for Wyoming                                                                                      | 1975-01-01          | 2022-07-01        |
-| WYUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wyoming                      | 2002-04-01          | 2022-10-01        |
+| WYUCSFRCONDOSMSAMID  | Zillow Home Value Index (ZHVI) for All Homes Including Single-Family Residences, Condos, and CO-OPs in Wyoming                      | 2002-04-01          | 2022-11-01        |

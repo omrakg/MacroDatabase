@@ -3,30 +3,30 @@
 | ACTLISCOU11500            | Housing Inventory: Active Listing Count in Anniston-Oxford-Jacksonville, AL (CBSA)                                                | 2016-07-01          | 2022-11-01        |
 | ACTLISCOUMM11500          | Housing Inventory: Active Listing Count Month-Over-Month in Anniston-Oxford-Jacksonville, AL (CBSA)                               | 2017-07-01          | 2022-11-01        |
 | ACTLISCOUYY11500          | Housing Inventory: Active Listing Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                 | 2017-07-01          | 2022-11-01        |
-| ANNI501EDUH               | All Employees: Education and Health Services in Anniston-Oxford-Jacksonville, AL (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| ANNI501EDUHN              | All Employees: Education and Health Services in Anniston-Oxford-Jacksonville, AL (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| ANNI501FIRE               | All Employees: Financial Activities in Anniston-Oxford-Jacksonville, AL (MSA)                                                     | 1990-01-01          | 2022-10-01        |
-| ANNI501FIREN              | All Employees: Financial Activities in Anniston-Oxford-Jacksonville, AL (MSA)                                                     | 1990-01-01          | 2022-10-01        |
-| ANNI501GOVT               | All Employees: Government in Anniston-Oxford-Jacksonville, AL (MSA)                                                               | 1990-01-01          | 2022-10-01        |
-| ANNI501GOVTN              | All Employees: Government in Anniston-Oxford-Jacksonville, AL (MSA)                                                               | 1990-01-01          | 2022-10-01        |
-| ANNI501INFO               | All Employees: Information in Anniston-Oxford-Jacksonville, AL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| ANNI501INFON              | All Employees: Information in Anniston-Oxford-Jacksonville, AL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| ANNI501LEIH               | All Employees: Leisure and Hospitality in Anniston-Oxford-Jacksonville, AL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| ANNI501LEIHN              | All Employees: Leisure and Hospitality in Anniston-Oxford-Jacksonville, AL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
+| ANNI501EDUH               | All Employees: Education and Health Services in Anniston-Oxford-Jacksonville, AL (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| ANNI501EDUHN              | All Employees: Education and Health Services in Anniston-Oxford-Jacksonville, AL (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| ANNI501FIRE               | All Employees: Financial Activities in Anniston-Oxford-Jacksonville, AL (MSA)                                                     | 1990-01-01          | 2022-11-01        |
+| ANNI501FIREN              | All Employees: Financial Activities in Anniston-Oxford-Jacksonville, AL (MSA)                                                     | 1990-01-01          | 2022-11-01        |
+| ANNI501GOVT               | All Employees: Government in Anniston-Oxford-Jacksonville, AL (MSA)                                                               | 1990-01-01          | 2022-11-01        |
+| ANNI501GOVTN              | All Employees: Government in Anniston-Oxford-Jacksonville, AL (MSA)                                                               | 1990-01-01          | 2022-11-01        |
+| ANNI501INFO               | All Employees: Information in Anniston-Oxford-Jacksonville, AL (MSA)                                                              | 1990-01-01          | 2022-11-01        |
+| ANNI501INFON              | All Employees: Information in Anniston-Oxford-Jacksonville, AL (MSA)                                                              | 1990-01-01          | 2022-11-01        |
+| ANNI501LEIH               | All Employees: Leisure and Hospitality in Anniston-Oxford-Jacksonville, AL (MSA)                                                  | 1990-01-01          | 2022-11-01        |
+| ANNI501LEIHN              | All Employees: Leisure and Hospitality in Anniston-Oxford-Jacksonville, AL (MSA)                                                  | 1990-01-01          | 2022-11-01        |
 | ANNI501LF                 | Civilian Labor Force in Anniston-Oxford-Jacksonville, AL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | ANNI501LFN                | Civilian Labor Force in Anniston-Oxford-Jacksonville, AL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
-| ANNI501MFG                | All Employees: Manufacturing in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| ANNI501MFGN               | All Employees: Manufacturing in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| ANNI501NA                 | All Employees: Total Nonfarm in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| ANNI501NAN                | All Employees: Total Nonfarm in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| ANNI501NRMNN              | All Employees: Mining, Logging, and Construction in Anniston-Oxford-Jacksonville, AL (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| ANNI501PBSV               | All Employees: Professional and Business Services in Anniston-Oxford-Jacksonville, AL (MSA)                                       | 1990-01-01          | 2022-10-01        |
-| ANNI501PBSVN              | All Employees: Professional and Business Services in Anniston-Oxford-Jacksonville, AL (MSA)                                       | 1990-01-01          | 2022-10-01        |
+| ANNI501MFG                | All Employees: Manufacturing in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| ANNI501MFGN               | All Employees: Manufacturing in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| ANNI501NA                 | All Employees: Total Nonfarm in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| ANNI501NAN                | All Employees: Total Nonfarm in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| ANNI501NRMNN              | All Employees: Mining, Logging, and Construction in Anniston-Oxford-Jacksonville, AL (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| ANNI501PBSV               | All Employees: Professional and Business Services in Anniston-Oxford-Jacksonville, AL (MSA)                                       | 1990-01-01          | 2022-11-01        |
+| ANNI501PBSVN              | All Employees: Professional and Business Services in Anniston-Oxford-Jacksonville, AL (MSA)                                       | 1990-01-01          | 2022-11-01        |
 | ANNI501PCPI               | Per Capita Personal Income in Anniston-Oxford-Jacksonville, AL (MSA)                                                              | 1969-01-01          | 2021-01-01        |
-| ANNI501SRVO               | All Employees: Other Services in Anniston-Oxford-Jacksonville, AL (MSA)                                                           | 1990-01-01          | 2022-10-01        |
-| ANNI501SRVON              | All Employees: Other Services in Anniston-Oxford-Jacksonville, AL (MSA)                                                           | 1990-01-01          | 2022-10-01        |
-| ANNI501TRAD               | All Employees: Trade, Transportation, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| ANNI501TRADN              | All Employees: Trade, Transportation, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA)                                     | 1990-01-01          | 2022-10-01        |
+| ANNI501SRVO               | All Employees: Other Services in Anniston-Oxford-Jacksonville, AL (MSA)                                                           | 1990-01-01          | 2022-11-01        |
+| ANNI501SRVON              | All Employees: Other Services in Anniston-Oxford-Jacksonville, AL (MSA)                                                           | 1990-01-01          | 2022-11-01        |
+| ANNI501TRAD               | All Employees: Trade, Transportation, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA)                                     | 1990-01-01          | 2022-11-01        |
+| ANNI501TRADN              | All Employees: Trade, Transportation, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA)                                     | 1990-01-01          | 2022-11-01        |
 | ANNI501UR                 | Unemployment Rate in Anniston-Oxford-Jacksonville, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | ANNI501URN                | Unemployment Rate in Anniston-Oxford-Jacksonville, AL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | ANNPOP                    | Resident Population in Anniston-Oxford-Jacksonville, AL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
@@ -46,7 +46,7 @@
 | ENUC115040310SA           | Average Weekly Wages for Employees in Local Government Establishments in Anniston-Oxford, AL (MSA)                                | 1990-01-01          | 2022-04-01        |
 | ENUC115040510             | Average Weekly Wages for Employees in Private Establishments in Anniston-Oxford, AL (MSA)                                         | 1990-01-01          | 2022-04-01        |
 | ENUC115040510SA           | Average Weekly Wages for Employees in Private Establishments in Anniston-Oxford, AL (MSA)                                         | 1990-01-01          | 2022-04-01        |
-| IRPD11500                 | Implicit Regional Price Deflator for Anniston-Oxford-Jacksonville, AL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
+| IRPD11500                 | Implicit Regional Price Deflator for Anniston-Oxford-Jacksonville, AL (MSA)                                                       | 2008-01-01          | 2021-01-01        |
 | LAUMT011150000000003A     | Unemployment Rate in Anniston-Oxford-Jacksonville, AL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT011150000000004      | Unemployed Persons in Anniston-Oxford-Jacksonville, AL (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT011150000000004A     | Unemployed Persons in Anniston-Oxford-Jacksonville, AL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
@@ -81,45 +81,45 @@
 | PRIREDCOUYY11500          | Housing Inventory: Price Reduced Count Year-Over-Year in Anniston-Oxford-Jacksonville, AL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP11500                 | Total Quantity Indexes for Real GDP for Anniston-Oxford-Jacksonville, AL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
 | RGMP11500                 | Total Real Gross Domestic Product for Anniston-Oxford-Jacksonville, AL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
-| RPI11500                  | Real Personal Income for Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| RPIPC11500                | Real Per Capita Personal Income for Anniston-Oxford-Jacksonville, AL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
-| RPPALL11500               | Regional Price Parities: All Items for Anniston-Oxford-Jacksonville, AL (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPPGOOD11500              | Regional Price Parities: Goods for Anniston-Oxford-Jacksonville, AL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH11500          | Regional Price Parities: Services: Other for Anniston-Oxford-Jacksonville, AL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT11500         | Regional Price Parities: Services: Rents for Anniston-Oxford-Jacksonville, AL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SMS01115000000000026      | All Employees: Total Nonfarm in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-04-01          | 2022-10-01        |
+| RPI11500                  | Real Personal Income for Anniston-Oxford-Jacksonville, AL (MSA)                                                                   | 2008-01-01          | 2021-01-01        |
+| RPIPC11500                | Real Per Capita Personal Income for Anniston-Oxford-Jacksonville, AL (MSA)                                                        | 2008-01-01          | 2021-01-01        |
+| RPPALL11500               | Regional Price Parities: All Items for Anniston-Oxford-Jacksonville, AL (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPPGOOD11500              | Regional Price Parities: Goods for Anniston-Oxford-Jacksonville, AL (MSA)                                                         | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH11500          | Regional Price Parities: Services: Other for Anniston-Oxford-Jacksonville, AL (MSA)                                               | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT11500         | Regional Price Parities: Services: Rents for Anniston-Oxford-Jacksonville, AL (MSA)                                               | 2008-01-01          | 2021-01-01        |
+| SMS01115000000000026      | All Employees: Total Nonfarm in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-04-01          | 2022-11-01        |
 | SMU01115000000000001A     | All Employees: Total Nonfarm in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU01115000500000001      | All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
+| SMU01115000500000001      | All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
 | SMU01115000500000001A     | All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU01115000500000001SA    | All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SMU01115000500000002      | Average Weekly Hours of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                    | 2007-01-01          | 2022-10-01        |
+| SMU01115000500000001SA    | All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SMU01115000500000002      | Average Weekly Hours of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                    | 2007-01-01          | 2022-11-01        |
 | SMU01115000500000002A     | Average Weekly Hours of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU01115000500000003      | Average Hourly Earnings of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                 | 2007-01-01          | 2022-10-01        |
+| SMU01115000500000003      | Average Hourly Earnings of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                 | 2007-01-01          | 2022-11-01        |
 | SMU01115000500000003A     | Average Hourly Earnings of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01115000500000011      | Average Weekly Earnings of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                 | 2007-01-01          | 2022-10-01        |
+| SMU01115000500000011      | Average Weekly Earnings of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                 | 2007-01-01          | 2022-11-01        |
 | SMU01115000500000011A     | Average Weekly Earnings of All Employees: Total Private in Anniston-Oxford-Jacksonville, AL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU01115000600000001      | All Employees: Goods Producing in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2022-10-01        |
+| SMU01115000600000001      | All Employees: Goods Producing in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2022-11-01        |
 | SMU01115000600000001A     | All Employees: Goods Producing in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU01115000600000001SA    | All Employees: Goods Producing in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2022-10-01        |
-| SMU01115000700000001      | All Employees: Service-Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                        | 1990-01-01          | 2022-10-01        |
+| SMU01115000600000001SA    | All Employees: Goods Producing in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2022-11-01        |
+| SMU01115000700000001      | All Employees: Service-Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                        | 1990-01-01          | 2022-11-01        |
 | SMU01115000700000001A     | All Employees: Service-Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU01115000700000001SA    | All Employees: Service-Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                        | 1990-01-01          | 2022-10-01        |
-| SMU01115000800000001      | All Employees: Private Service Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                | 1990-01-01          | 2022-10-01        |
+| SMU01115000700000001SA    | All Employees: Service-Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                        | 1990-01-01          | 2022-11-01        |
+| SMU01115000800000001      | All Employees: Private Service Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                | 1990-01-01          | 2022-11-01        |
 | SMU01115000800000001A     | All Employees: Private Service Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU01115000800000001SA    | All Employees: Private Service Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                | 1990-01-01          | 2022-10-01        |
+| SMU01115000800000001SA    | All Employees: Private Service Providing in Anniston-Oxford-Jacksonville, AL (MSA)                                                | 1990-01-01          | 2022-11-01        |
 | SMU01115001500000001A     | All Employees: Mining, Logging, and Construction in Anniston-Oxford-Jacksonville, AL (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU01115001500000001SA    | All Employees: Mining, Logging, and Construction in Anniston-Oxford-Jacksonville, AL (MSA)                                        | 1990-01-01          | 2022-10-01        |
+| SMU01115001500000001SA    | All Employees: Mining, Logging, and Construction in Anniston-Oxford-Jacksonville, AL (MSA)                                        | 1990-01-01          | 2022-11-01        |
 | SMU01115003000000001A     | All Employees: Manufacturing in Anniston-Oxford-Jacksonville, AL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU01115004000000001A     | All Employees: Trade, Transportation, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU01115004100000001      | All Employees: Wholesale Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2022-10-01        |
+| SMU01115004100000001      | All Employees: Wholesale Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2022-11-01        |
 | SMU01115004100000001A     | All Employees: Wholesale Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU01115004100000001SA    | All Employees: Wholesale Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2022-10-01        |
-| SMU01115004200000001      | All Employees: Retail Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                             | 1990-01-01          | 2022-10-01        |
+| SMU01115004100000001SA    | All Employees: Wholesale Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                          | 1990-01-01          | 2022-11-01        |
+| SMU01115004200000001      | All Employees: Retail Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                             | 1990-01-01          | 2022-11-01        |
 | SMU01115004200000001A     | All Employees: Retail Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU01115004200000001SA    | All Employees: Retail Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                             | 1990-01-01          | 2022-10-01        |
-| SMU01115004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA) | 1990-01-01          | 2022-10-01        |
+| SMU01115004200000001SA    | All Employees: Retail Trade in Anniston-Oxford-Jacksonville, AL (MSA)                                                             | 1990-01-01          | 2022-11-01        |
+| SMU01115004300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA) | 1990-01-01          | 2022-11-01        |
 | SMU01115004300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU01115004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA) | 1990-01-01          | 2022-10-01        |
+| SMU01115004300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Anniston-Oxford-Jacksonville, AL (MSA) | 1990-01-01          | 2022-11-01        |
 | SMU01115005000000001A     | All Employees: Information in Anniston-Oxford-Jacksonville, AL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU01115005500000001A     | All Employees: Financial Activities in Anniston-Oxford-Jacksonville, AL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU01115006000000001A     | All Employees: Professional and Business Services in Anniston-Oxford-Jacksonville, AL (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -127,9 +127,9 @@
 | SMU01115007000000001A     | All Employees: Leisure and Hospitality in Anniston-Oxford-Jacksonville, AL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU01115008000000001A     | All Employees: Other Services in Anniston-Oxford-Jacksonville, AL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU01115009000000001A     | All Employees: Government in Anniston-Oxford-Jacksonville, AL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU01115009091000001      | All Employees: Government: Federal Government in Anniston-Oxford-Jacksonville, AL (MSA)                                           | 1990-01-01          | 2022-10-01        |
+| SMU01115009091000001      | All Employees: Government: Federal Government in Anniston-Oxford-Jacksonville, AL (MSA)                                           | 1990-01-01          | 2022-11-01        |
 | SMU01115009091000001A     | All Employees: Federal Government in Anniston-Oxford-Jacksonville, AL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU01115009091000001SA    | All Employees: Government: Federal Government in Anniston-Oxford-Jacksonville, AL (MSA)                                           | 1990-01-01          | 2022-10-01        |
-| SMU01115009094000001      | All Employees: Government: Total State and Local Government in Anniston-Oxford-Jacksonville, AL (MSA)                             | 1990-01-01          | 2022-10-01        |
+| SMU01115009091000001SA    | All Employees: Government: Federal Government in Anniston-Oxford-Jacksonville, AL (MSA)                                           | 1990-01-01          | 2022-11-01        |
+| SMU01115009094000001      | All Employees: Government: Total State and Local Government in Anniston-Oxford-Jacksonville, AL (MSA)                             | 1990-01-01          | 2022-11-01        |
 | SMU01115009094000001A     | All Employees: Total State and Local Government in Anniston-Oxford-Jacksonville, AL (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU01115009094000001SA    | All Employees: Government: Total State and Local Government in Anniston-Oxford-Jacksonville, AL (MSA)                             | 1990-01-01          | 2022-10-01        |
+| SMU01115009094000001SA    | All Employees: Government: Total State and Local Government in Anniston-Oxford-Jacksonville, AL (MSA)                             | 1990-01-01          | 2022-11-01        |

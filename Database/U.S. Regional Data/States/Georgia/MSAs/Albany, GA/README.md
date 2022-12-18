@@ -3,17 +3,17 @@
 | ACTLISCOU10500            | Housing Inventory: Active Listing Count in Albany, GA (CBSA)                                  | 2016-07-01          | 2022-11-01        |
 | ACTLISCOUMM10500          | Housing Inventory: Active Listing Count Month-Over-Month in Albany, GA (CBSA)                 | 2017-07-01          | 2022-11-01        |
 | ACTLISCOUYY10500          | Housing Inventory: Active Listing Count Year-Over-Year in Albany, GA (CBSA)                   | 2017-07-01          | 2022-11-01        |
-| ALBA513GOVT               | All Employees: Government in Albany, GA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| ALBA513GOVTN              | All Employees: Government in Albany, GA (MSA)                                                 | 1990-01-01          | 2022-10-01        |
+| ALBA513GOVT               | All Employees: Government in Albany, GA (MSA)                                                 | 1990-01-01          | 2022-11-01        |
+| ALBA513GOVTN              | All Employees: Government in Albany, GA (MSA)                                                 | 1990-01-01          | 2022-11-01        |
 | ALBA513LF                 | Civilian Labor Force in Albany, GA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | ALBA513LFN                | Civilian Labor Force in Albany, GA (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | ALBA513MFG                | All Employees: Manufacturing in Albany, GA (MSA)                                              | 1990-01-01          | 2018-12-01        |
 | ALBA513MFGN               | All Employees: Manufacturing in Albany, GA (MSA)                                              | 1990-01-01          | 2018-12-01        |
-| ALBA513NA                 | All Employees: Total Nonfarm in Albany, GA (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| ALBA513NAN                | All Employees: Total Nonfarm in Albany, GA (MSA)                                              | 1990-01-01          | 2022-10-01        |
+| ALBA513NA                 | All Employees: Total Nonfarm in Albany, GA (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| ALBA513NAN                | All Employees: Total Nonfarm in Albany, GA (MSA)                                              | 1990-01-01          | 2022-11-01        |
 | ALBA513PCPI               | Per Capita Personal Income in Albany, GA (MSA)                                                | 1969-01-01          | 2021-01-01        |
-| ALBA513TRAD               | All Employees: Trade, Transportation, and Utilities in Albany, GA (MSA)                       | 1990-01-01          | 2022-10-01        |
-| ALBA513TRADN              | All Employees: Trade, Transportation, and Utilities in Albany, GA (MSA)                       | 1990-01-01          | 2022-10-01        |
+| ALBA513TRAD               | All Employees: Trade, Transportation, and Utilities in Albany, GA (MSA)                       | 1990-01-01          | 2022-11-01        |
+| ALBA513TRADN              | All Employees: Trade, Transportation, and Utilities in Albany, GA (MSA)                       | 1990-01-01          | 2022-11-01        |
 | ALBA513UR                 | Unemployment Rate in Albany, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | ALBA513URN                | Unemployment Rate in Albany, GA (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | ALGPOP                    | Resident Population in Albany, GA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
@@ -38,7 +38,7 @@
 | HORAMSA10500              | Market Hotness: Hotness Rank in Albany, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |
 | HORAYYMSA10500            | Market Hotness: Hotness Rank in Albany, GA (CBSA)                                             | 2018-08-01          | 2022-08-01        |
 | HOSCMSA10500              | Market Hotness: Hotness Score in Albany, GA (CBSA)                                            | 2017-08-01          | 2022-08-01        |
-| IRPD10500                 | Implicit Regional Price Deflator for Albany, GA (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| IRPD10500                 | Implicit Regional Price Deflator for Albany, GA (MSA)                                         | 2008-01-01          | 2021-01-01        |
 | LAUMT131050000000003A     | Unemployment Rate in Albany, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
 | LAUMT131050000000004      | Unemployed Persons in Albany, GA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
 | LAUMT131050000000004A     | Unemployed Persons in Albany, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
@@ -87,45 +87,45 @@
 | PRIREDCOUYY10500          | Housing Inventory: Price Reduced Count Year-Over-Year in Albany, GA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP10500                 | Total Quantity Indexes for Real GDP for Albany, GA (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP10500                 | Total Real Gross Domestic Product for Albany, GA (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI10500                  | Real Personal Income for Albany, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC10500                | Real Per Capita Personal Income for Albany, GA (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL10500               | Regional Price Parities: All Items for Albany, GA (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD10500              | Regional Price Parities: Goods for Albany, GA (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH10500          | Regional Price Parities: Services: Other for Albany, GA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT10500         | Regional Price Parities: Services: Rents for Albany, GA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS13105000000000026      | All Employees: Total Nonfarm in Albany, GA (MSA)                                              | 1990-04-01          | 2022-10-01        |
+| RPI10500                  | Real Personal Income for Albany, GA (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC10500                | Real Per Capita Personal Income for Albany, GA (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL10500               | Regional Price Parities: All Items for Albany, GA (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD10500              | Regional Price Parities: Goods for Albany, GA (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH10500          | Regional Price Parities: Services: Other for Albany, GA (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT10500         | Regional Price Parities: Services: Rents for Albany, GA (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| SMS13105000000000026      | All Employees: Total Nonfarm in Albany, GA (MSA)                                              | 1990-04-01          | 2022-11-01        |
 | SMU13105000000000001A     | All Employees: Total Nonfarm in Albany, GA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU13105000500000001      | All Employees: Total Private in Albany, GA (MSA)                                              | 1990-01-01          | 2022-10-01        |
+| SMU13105000500000001      | All Employees: Total Private in Albany, GA (MSA)                                              | 1990-01-01          | 2022-11-01        |
 | SMU13105000500000001A     | All Employees: Total Private in Albany, GA (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU13105000500000001SA    | All Employees: Total Private in Albany, GA (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| SMU13105000500000002      | Average Weekly Hours of All Employees: Total Private in Albany, GA (MSA)                      | 2007-01-01          | 2022-10-01        |
+| SMU13105000500000001SA    | All Employees: Total Private in Albany, GA (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| SMU13105000500000002      | Average Weekly Hours of All Employees: Total Private in Albany, GA (MSA)                      | 2007-01-01          | 2022-11-01        |
 | SMU13105000500000002A     | Average Weekly Hours of All Employees: Total Private in Albany, GA (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU13105000500000003      | Average Hourly Earnings of All Employees: Total Private in Albany, GA (MSA)                   | 2007-01-01          | 2022-10-01        |
+| SMU13105000500000003      | Average Hourly Earnings of All Employees: Total Private in Albany, GA (MSA)                   | 2007-01-01          | 2022-11-01        |
 | SMU13105000500000003A     | Average Hourly Earnings of All Employees: Total Private in Albany, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13105000500000011      | Average Weekly Earnings of All Employees: Total Private in Albany, GA (MSA)                   | 2007-01-01          | 2022-10-01        |
+| SMU13105000500000011      | Average Weekly Earnings of All Employees: Total Private in Albany, GA (MSA)                   | 2007-01-01          | 2022-11-01        |
 | SMU13105000500000011A     | Average Weekly Earnings of All Employees: Total Private in Albany, GA (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU13105000600000001      | All Employees: Goods Producing in Albany, GA (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| SMU13105000600000001      | All Employees: Goods Producing in Albany, GA (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU13105000600000001A     | All Employees: Goods Producing in Albany, GA (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU13105000600000001SA    | All Employees: Goods Producing in Albany, GA (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU13105000700000001      | All Employees: Service-Providing in Albany, GA (MSA)                                          | 1990-01-01          | 2022-10-01        |
+| SMU13105000600000001SA    | All Employees: Goods Producing in Albany, GA (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU13105000700000001      | All Employees: Service-Providing in Albany, GA (MSA)                                          | 1990-01-01          | 2022-11-01        |
 | SMU13105000700000001A     | All Employees: Service-Providing in Albany, GA (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU13105000700000001SA    | All Employees: Service-Providing in Albany, GA (MSA)                                          | 1990-01-01          | 2022-10-01        |
-| SMU13105000800000001      | All Employees: Private Service Providing in Albany, GA (MSA)                                  | 1990-01-01          | 2022-10-01        |
+| SMU13105000700000001SA    | All Employees: Service-Providing in Albany, GA (MSA)                                          | 1990-01-01          | 2022-11-01        |
+| SMU13105000800000001      | All Employees: Private Service Providing in Albany, GA (MSA)                                  | 1990-01-01          | 2022-11-01        |
 | SMU13105000800000001A     | All Employees: Private Service Providing in Albany, GA (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU13105000800000001SA    | All Employees: Private Service Providing in Albany, GA (MSA)                                  | 1990-01-01          | 2022-10-01        |
+| SMU13105000800000001SA    | All Employees: Private Service Providing in Albany, GA (MSA)                                  | 1990-01-01          | 2022-11-01        |
 | SMU13105003000000001A     | All Employees: Manufacturing in Albany, GA (MSA)                                              | 1990-01-01          | 2017-01-01        |
 | SMU13105004000000001A     | All Employees: Trade, Transportation, and Utilities in Albany, GA (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU13105004200000001      | All Employees: Retail Trade in Albany, GA (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU13105004200000001      | All Employees: Retail Trade in Albany, GA (MSA)                                               | 1990-01-01          | 2022-11-01        |
 | SMU13105004200000001A     | All Employees: Retail Trade in Albany, GA (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU13105004200000001SA    | All Employees: Retail Trade in Albany, GA (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU13105004200000001SA    | All Employees: Retail Trade in Albany, GA (MSA)                                               | 1990-01-01          | 2022-11-01        |
 | SMU13105009000000001A     | All Employees: Government in Albany, GA (MSA)                                                 | 1990-01-01          | 2021-01-01        |
-| SMU13105009091000001      | All Employees: Government: Federal Government in Albany, GA (MSA)                             | 1990-01-01          | 2022-10-01        |
+| SMU13105009091000001      | All Employees: Government: Federal Government in Albany, GA (MSA)                             | 1990-01-01          | 2022-11-01        |
 | SMU13105009091000001A     | All Employees: Federal Government in Albany, GA (MSA)                                         | 1990-01-01          | 2021-01-01        |
-| SMU13105009091000001SA    | All Employees: Government: Federal Government in Albany, GA (MSA)                             | 1990-01-01          | 2022-10-01        |
-| SMU13105009092000001      | All Employees: Government: State Government in Albany, GA (MSA)                               | 1990-01-01          | 2022-10-01        |
+| SMU13105009091000001SA    | All Employees: Government: Federal Government in Albany, GA (MSA)                             | 1990-01-01          | 2022-11-01        |
+| SMU13105009092000001      | All Employees: Government: State Government in Albany, GA (MSA)                               | 1990-01-01          | 2022-11-01        |
 | SMU13105009092000001A     | All Employees: State Government in Albany, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU13105009092000001SA    | All Employees: Government: State Government in Albany, GA (MSA)                               | 1990-01-01          | 2022-10-01        |
-| SMU13105009093000001      | All Employees: Government: Local Government in Albany, GA (MSA)                               | 1990-01-01          | 2022-10-01        |
+| SMU13105009092000001SA    | All Employees: Government: State Government in Albany, GA (MSA)                               | 1990-01-01          | 2022-11-01        |
+| SMU13105009093000001      | All Employees: Government: Local Government in Albany, GA (MSA)                               | 1990-01-01          | 2022-11-01        |
 | SMU13105009093000001A     | All Employees: Local Government in Albany, GA (MSA)                                           | 1990-01-01          | 2021-01-01        |
-| SMU13105009093000001SA    | All Employees: Government: Local Government in Albany, GA (MSA)                               | 1990-01-01          | 2022-10-01        |
+| SMU13105009093000001SA    | All Employees: Government: Local Government in Albany, GA (MSA)                               | 1990-01-01          | 2022-11-01        |
 | SUSCMSA10500              | Market Hotness: Supply Score in Albany, GA (CBSA)                                             | 2017-08-01          | 2022-08-01        |

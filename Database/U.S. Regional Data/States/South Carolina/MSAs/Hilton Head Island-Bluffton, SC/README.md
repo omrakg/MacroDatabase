@@ -15,7 +15,7 @@
 | ENUC259440510SA        | Average Weekly Wages for Employees in Private Establishments in Hilton Head Island-Bluffton-Beaufort, SC (MSA)            | 2013-01-01          | 2022-04-01        |
 | HHBB945PCPI            | Per Capita Personal Income in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                              | 1969-01-01          | 2021-01-01        |
 | HHIPOP                 | Resident Population in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                     | 2010-01-01          | 2021-01-01        |
-| IRPD25940              | Implicit Regional Price Deflator for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                       | 2008-01-01          | 2020-01-01        |
+| IRPD25940              | Implicit Regional Price Deflator for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                       | 2008-01-01          | 2021-01-01        |
 | LAUMT452594000000003   | Unemployment Rate in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT452594000000003A  | Unemployment Rate in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT452594000000004   | Unemployed Persons in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                      | 1990-01-01          | 2022-10-01        |
@@ -27,33 +27,33 @@
 | NGMP25940              | Total Gross Domestic Product for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | QGMP25940              | Total Quantity Indexes for Real GDP for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                    | 2001-01-01          | 2021-01-01        |
 | RGMP25940              | Total Real Gross Domestic Product for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                      | 2001-01-01          | 2021-01-01        |
-| RPI25940               | Real Personal Income for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                   | 2008-01-01          | 2020-01-01        |
-| RPIPC25940             | Real Per Capita Personal Income for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                        | 2008-01-01          | 2020-01-01        |
-| RPPALL25940            | Regional Price Parities: All Items for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                     | 2008-01-01          | 2020-01-01        |
-| RPPGOOD25940           | Regional Price Parities: Goods for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH25940       | Regional Price Parities: Services: Other for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                               | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT25940      | Regional Price Parities: Services: Rents for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                               | 2008-01-01          | 2020-01-01        |
-| SMU45259400000000001   | All Employees: Total Nonfarm in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| RPI25940               | Real Personal Income for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                                   | 2008-01-01          | 2021-01-01        |
+| RPIPC25940             | Real Per Capita Personal Income for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                        | 2008-01-01          | 2021-01-01        |
+| RPPALL25940            | Regional Price Parities: All Items for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                     | 2008-01-01          | 2021-01-01        |
+| RPPGOOD25940           | Regional Price Parities: Goods for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                         | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH25940       | Regional Price Parities: Services: Other for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                               | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT25940      | Regional Price Parities: Services: Rents for Hilton Head Island-Bluffton-Beaufort, SC (MSA)                               | 2008-01-01          | 2021-01-01        |
+| SMU45259400000000001   | All Employees: Total Nonfarm in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU45259400000000001A  | All Employees: Total Nonfarm in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU45259400000000001SA | All Employees: Total Nonfarm in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU45259400500000001   | All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| SMU45259400000000001SA | All Employees: Total Nonfarm in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU45259400500000001   | All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU45259400500000001A  | All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU45259400500000001SA | All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU45259400500000002   | Average Weekly Hours of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                    | 2011-01-01          | 2022-10-01        |
+| SMU45259400500000001SA | All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU45259400500000002   | Average Weekly Hours of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                    | 2011-01-01          | 2022-11-01        |
 | SMU45259400500000002A  | Average Weekly Hours of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU45259400500000003   | Average Hourly Earnings of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                 | 2011-01-01          | 2022-10-01        |
+| SMU45259400500000003   | Average Hourly Earnings of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                 | 2011-01-01          | 2022-11-01        |
 | SMU45259400500000003A  | Average Hourly Earnings of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU45259400500000011   | Average Weekly Earnings of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                 | 2011-01-01          | 2022-10-01        |
+| SMU45259400500000011   | Average Weekly Earnings of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                 | 2011-01-01          | 2022-11-01        |
 | SMU45259400500000011A  | Average Weekly Earnings of All Employees: Total Private in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU45259400600000001   | All Employees: Goods Producing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                          | 1990-01-01          | 2022-10-01        |
+| SMU45259400600000001   | All Employees: Goods Producing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                          | 1990-01-01          | 2022-11-01        |
 | SMU45259400600000001A  | All Employees: Goods Producing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU45259400600000001SA | All Employees: Goods Producing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                          | 1990-01-01          | 2022-10-01        |
-| SMU45259400700000001   | All Employees: Service-Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                        | 1990-01-01          | 2022-10-01        |
+| SMU45259400600000001SA | All Employees: Goods Producing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                          | 1990-01-01          | 2022-11-01        |
+| SMU45259400700000001   | All Employees: Service-Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                        | 1990-01-01          | 2022-11-01        |
 | SMU45259400700000001A  | All Employees: Service-Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU45259400700000001SA | All Employees: Service-Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| SMU45259400800000001   | All Employees: Private Service Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                | 1990-01-01          | 2022-10-01        |
+| SMU45259400700000001SA | All Employees: Service-Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| SMU45259400800000001   | All Employees: Private Service Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                | 1990-01-01          | 2022-11-01        |
 | SMU45259400800000001A  | All Employees: Private Service Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU45259400800000001SA | All Employees: Private Service Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                | 1990-01-01          | 2022-10-01        |
-| SMU45259409000000001   | All Employees: Government in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU45259400800000001SA | All Employees: Private Service Providing in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                | 1990-01-01          | 2022-11-01        |
+| SMU45259409000000001   | All Employees: Government in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                               | 1990-01-01          | 2022-11-01        |
 | SMU45259409000000001A  | All Employees: Government in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU45259409000000001SA | All Employees: Government in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU45259409000000001SA | All Employees: Government in Hilton Head Island-Bluffton-Beaufort, SC (MSA)                                               | 1990-01-01          | 2022-11-01        |

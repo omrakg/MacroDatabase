@@ -13,7 +13,7 @@
 | ENUC351040310SA        | Average Weekly Wages for Employees in Local Government Establishments in New Bern, NC (MSA)   | 2013-01-01          | 2022-04-01        |
 | ENUC351040510          | Average Weekly Wages for Employees in Private Establishments in New Bern, NC (MSA)            | 2013-01-01          | 2022-04-01        |
 | ENUC351040510SA        | Average Weekly Wages for Employees in Private Establishments in New Bern, NC (MSA)            | 2013-01-01          | 2022-04-01        |
-| IRPD35100              | Implicit Regional Price Deflator for New Bern, NC (MSA)                                       | 2008-01-01          | 2020-01-01        |
+| IRPD35100              | Implicit Regional Price Deflator for New Bern, NC (MSA)                                       | 2008-01-01          | 2021-01-01        |
 | LAUMT373510000000003   | Unemployment Rate in New Bern, NC (MSA)                                                       | 1990-01-01          | 2022-10-01        |
 | LAUMT373510000000003A  | Unemployment Rate in New Bern, NC (MSA)                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT373510000000004   | Unemployed Persons in New Bern, NC (MSA)                                                      | 1990-01-01          | 2022-10-01        |
@@ -27,33 +27,33 @@
 | NWBPOP                 | Resident Population in New Bern, NC (MSA)                                                     | 2010-01-01          | 2021-01-01        |
 | QGMP35100              | Total Quantity Indexes for Real GDP for New Bern, NC (MSA)                                    | 2001-01-01          | 2021-01-01        |
 | RGMP35100              | Total Real Gross Domestic Product for New Bern, NC (MSA)                                      | 2001-01-01          | 2021-01-01        |
-| RPI35100               | Real Personal Income for New Bern, NC (MSA)                                                   | 2008-01-01          | 2020-01-01        |
-| RPIPC35100             | Real Per Capita Personal Income for New Bern, NC (MSA)                                        | 2008-01-01          | 2020-01-01        |
-| RPPALL35100            | Regional Price Parities: All Items for New Bern, NC (MSA)                                     | 2008-01-01          | 2020-01-01        |
-| RPPGOOD35100           | Regional Price Parities: Goods for New Bern, NC (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH35100       | Regional Price Parities: Services: Other for New Bern, NC (MSA)                               | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT35100      | Regional Price Parities: Services: Rents for New Bern, NC (MSA)                               | 2008-01-01          | 2020-01-01        |
-| SMU37351000000000001   | All Employees: Total Nonfarm in New Bern, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| RPI35100               | Real Personal Income for New Bern, NC (MSA)                                                   | 2008-01-01          | 2021-01-01        |
+| RPIPC35100             | Real Per Capita Personal Income for New Bern, NC (MSA)                                        | 2008-01-01          | 2021-01-01        |
+| RPPALL35100            | Regional Price Parities: All Items for New Bern, NC (MSA)                                     | 2008-01-01          | 2021-01-01        |
+| RPPGOOD35100           | Regional Price Parities: Goods for New Bern, NC (MSA)                                         | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH35100       | Regional Price Parities: Services: Other for New Bern, NC (MSA)                               | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT35100      | Regional Price Parities: Services: Rents for New Bern, NC (MSA)                               | 2008-01-01          | 2021-01-01        |
+| SMU37351000000000001   | All Employees: Total Nonfarm in New Bern, NC (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU37351000000000001A  | All Employees: Total Nonfarm in New Bern, NC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU37351000000000001SA | All Employees: Total Nonfarm in New Bern, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU37351000500000001   | All Employees: Total Private in New Bern, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| SMU37351000000000001SA | All Employees: Total Nonfarm in New Bern, NC (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU37351000500000001   | All Employees: Total Private in New Bern, NC (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU37351000500000001A  | All Employees: Total Private in New Bern, NC (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU37351000500000001SA | All Employees: Total Private in New Bern, NC (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU37351000500000002   | Average Weekly Hours of All Employees: Total Private in New Bern, NC (MSA)                    | 2011-01-01          | 2022-10-01        |
+| SMU37351000500000001SA | All Employees: Total Private in New Bern, NC (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU37351000500000002   | Average Weekly Hours of All Employees: Total Private in New Bern, NC (MSA)                    | 2011-01-01          | 2022-11-01        |
 | SMU37351000500000002A  | Average Weekly Hours of All Employees: Total Private in New Bern, NC (MSA)                    | 2011-01-01          | 2021-01-01        |
-| SMU37351000500000003   | Average Hourly Earnings of All Employees: Total Private in New Bern, NC (MSA)                 | 2011-01-01          | 2022-10-01        |
+| SMU37351000500000003   | Average Hourly Earnings of All Employees: Total Private in New Bern, NC (MSA)                 | 2011-01-01          | 2022-11-01        |
 | SMU37351000500000003A  | Average Hourly Earnings of All Employees: Total Private in New Bern, NC (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU37351000500000011   | Average Weekly Earnings of All Employees: Total Private in New Bern, NC (MSA)                 | 2011-01-01          | 2022-10-01        |
+| SMU37351000500000011   | Average Weekly Earnings of All Employees: Total Private in New Bern, NC (MSA)                 | 2011-01-01          | 2022-11-01        |
 | SMU37351000500000011A  | Average Weekly Earnings of All Employees: Total Private in New Bern, NC (MSA)                 | 2011-01-01          | 2021-01-01        |
-| SMU37351000600000001   | All Employees: Goods Producing in New Bern, NC (MSA)                                          | 1990-01-01          | 2022-10-01        |
+| SMU37351000600000001   | All Employees: Goods Producing in New Bern, NC (MSA)                                          | 1990-01-01          | 2022-11-01        |
 | SMU37351000600000001A  | All Employees: Goods Producing in New Bern, NC (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU37351000600000001SA | All Employees: Goods Producing in New Bern, NC (MSA)                                          | 1990-01-01          | 2022-10-01        |
-| SMU37351000700000001   | All Employees: Service-Providing in New Bern, NC (MSA)                                        | 1990-01-01          | 2022-10-01        |
+| SMU37351000600000001SA | All Employees: Goods Producing in New Bern, NC (MSA)                                          | 1990-01-01          | 2022-11-01        |
+| SMU37351000700000001   | All Employees: Service-Providing in New Bern, NC (MSA)                                        | 1990-01-01          | 2022-11-01        |
 | SMU37351000700000001A  | All Employees: Service-Providing in New Bern, NC (MSA)                                        | 1990-01-01          | 2021-01-01        |
-| SMU37351000700000001SA | All Employees: Service-Providing in New Bern, NC (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| SMU37351000800000001   | All Employees: Private Service Providing in New Bern, NC (MSA)                                | 1990-01-01          | 2022-10-01        |
+| SMU37351000700000001SA | All Employees: Service-Providing in New Bern, NC (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| SMU37351000800000001   | All Employees: Private Service Providing in New Bern, NC (MSA)                                | 1990-01-01          | 2022-11-01        |
 | SMU37351000800000001A  | All Employees: Private Service Providing in New Bern, NC (MSA)                                | 1990-01-01          | 2021-01-01        |
-| SMU37351000800000001SA | All Employees: Private Service Providing in New Bern, NC (MSA)                                | 1990-01-01          | 2022-10-01        |
-| SMU37351009000000001   | All Employees: Government in New Bern, NC (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU37351000800000001SA | All Employees: Private Service Providing in New Bern, NC (MSA)                                | 1990-01-01          | 2022-11-01        |
+| SMU37351009000000001   | All Employees: Government in New Bern, NC (MSA)                                               | 1990-01-01          | 2022-11-01        |
 | SMU37351009000000001A  | All Employees: Government in New Bern, NC (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU37351009000000001SA | All Employees: Government in New Bern, NC (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU37351009000000001SA | All Employees: Government in New Bern, NC (MSA)                                               | 1990-01-01          | 2022-11-01        |

@@ -24,7 +24,7 @@
 | HORAMSA42680              | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA42680            | Market Hotness: Hotness Rank in Sebastian-Vero Beach, FL (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
 | HOSCMSA42680              | Market Hotness: Hotness Score in Sebastian-Vero Beach, FL (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
-| IRPD42680                 | Implicit Regional Price Deflator for Sebastian-Vero Beach, FL (MSA)                                                       | 2008-01-01          | 2020-01-01        |
+| IRPD42680                 | Implicit Regional Price Deflator for Sebastian-Vero Beach, FL (MSA)                                                       | 2008-01-01          | 2021-01-01        |
 | LAUMT124268000000003A     | Unemployment Rate in Sebastian-Vero Beach, FL (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT124268000000004      | Unemployed Persons in Sebastian-Vero Beach, FL (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT124268000000004A     | Unemployed Persons in Sebastian-Vero Beach, FL (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
@@ -73,75 +73,75 @@
 | PRIREDCOUYY42680          | Housing Inventory: Price Reduced Count Year-Over-Year in Sebastian-Vero Beach, FL (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP42680                 | Total Quantity Indexes for Real GDP for Sebastian-Vero Beach, FL (MSA)                                                    | 2001-01-01          | 2021-01-01        |
 | RGMP42680                 | Total Real Gross Domestic Product for Sebastian-Vero Beach, FL (MSA)                                                      | 2001-01-01          | 2021-01-01        |
-| RPI42680                  | Real Personal Income for Sebastian-Vero Beach, FL (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| RPIPC42680                | Real Per Capita Personal Income for Sebastian-Vero Beach, FL (MSA)                                                        | 2008-01-01          | 2020-01-01        |
-| RPPALL42680               | Regional Price Parities: All Items for Sebastian-Vero Beach, FL (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPPGOOD42680              | Regional Price Parities: Goods for Sebastian-Vero Beach, FL (MSA)                                                         | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH42680          | Regional Price Parities: Services: Other for Sebastian-Vero Beach, FL (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT42680         | Regional Price Parities: Services: Rents for Sebastian-Vero Beach, FL (MSA)                                               | 2008-01-01          | 2020-01-01        |
+| RPI42680                  | Real Personal Income for Sebastian-Vero Beach, FL (MSA)                                                                   | 2008-01-01          | 2021-01-01        |
+| RPIPC42680                | Real Per Capita Personal Income for Sebastian-Vero Beach, FL (MSA)                                                        | 2008-01-01          | 2021-01-01        |
+| RPPALL42680               | Regional Price Parities: All Items for Sebastian-Vero Beach, FL (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPPGOOD42680              | Regional Price Parities: Goods for Sebastian-Vero Beach, FL (MSA)                                                         | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH42680          | Regional Price Parities: Services: Other for Sebastian-Vero Beach, FL (MSA)                                               | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT42680         | Regional Price Parities: Services: Rents for Sebastian-Vero Beach, FL (MSA)                                               | 2008-01-01          | 2021-01-01        |
 | SEBA612BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sebastian-Vero Beach, FL (MSA)            | 2004-01-01          | 2022-10-01        |
 | SEBA612BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Sebastian-Vero Beach, FL (MSA)            | 2004-01-01          | 2022-10-01        |
 | SEBA612BPPRIV             | New Private Housing Units Authorized by Building Permits for Sebastian-Vero Beach, FL (MSA)                               | 2004-01-01          | 2022-10-01        |
 | SEBA612BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Sebastian-Vero Beach, FL (MSA)                               | 2004-01-01          | 2022-10-01        |
-| SEBA612EDUH               | All Employees: Education and Health Services in Sebastian-Vero Beach, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SEBA612EDUHN              | All Employees: Education and Health Services in Sebastian-Vero Beach, FL (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SEBA612FIRE               | All Employees: Financial Activities in Sebastian-Vero Beach, FL (MSA)                                                     | 1990-01-01          | 2022-10-01        |
-| SEBA612FIREN              | All Employees: Financial Activities in Sebastian-Vero Beach, FL (MSA)                                                     | 1990-01-01          | 2022-10-01        |
-| SEBA612GOVT               | All Employees: Government in Sebastian-Vero Beach, FL (MSA)                                                               | 1990-01-01          | 2022-10-01        |
-| SEBA612GOVTN              | All Employees: Government in Sebastian-Vero Beach, FL (MSA)                                                               | 1990-01-01          | 2022-10-01        |
-| SEBA612INFO               | All Employees: Information in Sebastian-Vero Beach, FL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| SEBA612INFON              | All Employees: Information in Sebastian-Vero Beach, FL (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| SEBA612LEIH               | All Employees: Leisure and Hospitality in Sebastian-Vero Beach, FL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| SEBA612LEIHN              | All Employees: Leisure and Hospitality in Sebastian-Vero Beach, FL (MSA)                                                  | 1990-01-01          | 2022-10-01        |
+| SEBA612EDUH               | All Employees: Education and Health Services in Sebastian-Vero Beach, FL (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SEBA612EDUHN              | All Employees: Education and Health Services in Sebastian-Vero Beach, FL (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SEBA612FIRE               | All Employees: Financial Activities in Sebastian-Vero Beach, FL (MSA)                                                     | 1990-01-01          | 2022-11-01        |
+| SEBA612FIREN              | All Employees: Financial Activities in Sebastian-Vero Beach, FL (MSA)                                                     | 1990-01-01          | 2022-11-01        |
+| SEBA612GOVT               | All Employees: Government in Sebastian-Vero Beach, FL (MSA)                                                               | 1990-01-01          | 2022-11-01        |
+| SEBA612GOVTN              | All Employees: Government in Sebastian-Vero Beach, FL (MSA)                                                               | 1990-01-01          | 2022-11-01        |
+| SEBA612INFO               | All Employees: Information in Sebastian-Vero Beach, FL (MSA)                                                              | 1990-01-01          | 2022-11-01        |
+| SEBA612INFON              | All Employees: Information in Sebastian-Vero Beach, FL (MSA)                                                              | 1990-01-01          | 2022-11-01        |
+| SEBA612LEIH               | All Employees: Leisure and Hospitality in Sebastian-Vero Beach, FL (MSA)                                                  | 1990-01-01          | 2022-11-01        |
+| SEBA612LEIHN              | All Employees: Leisure and Hospitality in Sebastian-Vero Beach, FL (MSA)                                                  | 1990-01-01          | 2022-11-01        |
 | SEBA612LF                 | Civilian Labor Force in Sebastian-Vero Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | SEBA612LFN                | Civilian Labor Force in Sebastian-Vero Beach, FL (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
-| SEBA612MFG                | All Employees: Manufacturing in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SEBA612MFGN               | All Employees: Manufacturing in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SEBA612NA                 | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SEBA612NAN                | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SEBA612NRMN               | All Employees: Mining, Logging, and Construction in Sebastian-Vero Beach, FL (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| SEBA612NRMNN              | All Employees: Mining, Logging, and Construction in Sebastian-Vero Beach, FL (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| SEBA612PBSV               | All Employees: Professional and Business Services in Sebastian-Vero Beach, FL (MSA)                                       | 1990-01-01          | 2022-10-01        |
-| SEBA612PBSVN              | All Employees: Professional and Business Services in Sebastian-Vero Beach, FL (MSA)                                       | 1990-01-01          | 2022-10-01        |
+| SEBA612MFG                | All Employees: Manufacturing in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SEBA612MFGN               | All Employees: Manufacturing in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SEBA612NA                 | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SEBA612NAN                | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SEBA612NRMN               | All Employees: Mining, Logging, and Construction in Sebastian-Vero Beach, FL (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| SEBA612NRMNN              | All Employees: Mining, Logging, and Construction in Sebastian-Vero Beach, FL (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| SEBA612PBSV               | All Employees: Professional and Business Services in Sebastian-Vero Beach, FL (MSA)                                       | 1990-01-01          | 2022-11-01        |
+| SEBA612PBSVN              | All Employees: Professional and Business Services in Sebastian-Vero Beach, FL (MSA)                                       | 1990-01-01          | 2022-11-01        |
 | SEBA612PCPI               | Per Capita Personal Income in Sebastian-Vero Beach, FL (MSA)                                                              | 1969-01-01          | 2021-01-01        |
-| SEBA612SRVO               | All Employees: Other Services in Sebastian-Vero Beach, FL (MSA)                                                           | 1990-01-01          | 2022-10-01        |
-| SEBA612SRVON              | All Employees: Other Services in Sebastian-Vero Beach, FL (MSA)                                                           | 1990-01-01          | 2022-10-01        |
-| SEBA612TRAD               | All Employees: Trade, Transportation, and Utilities in Sebastian-Vero Beach, FL (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| SEBA612TRADN              | All Employees: Trade, Transportation, and Utilities in Sebastian-Vero Beach, FL (MSA)                                     | 1990-01-01          | 2022-10-01        |
+| SEBA612SRVO               | All Employees: Other Services in Sebastian-Vero Beach, FL (MSA)                                                           | 1990-01-01          | 2022-11-01        |
+| SEBA612SRVON              | All Employees: Other Services in Sebastian-Vero Beach, FL (MSA)                                                           | 1990-01-01          | 2022-11-01        |
+| SEBA612TRAD               | All Employees: Trade, Transportation, and Utilities in Sebastian-Vero Beach, FL (MSA)                                     | 1990-01-01          | 2022-11-01        |
+| SEBA612TRADN              | All Employees: Trade, Transportation, and Utilities in Sebastian-Vero Beach, FL (MSA)                                     | 1990-01-01          | 2022-11-01        |
 | SEBA612UR                 | Unemployment Rate in Sebastian-Vero Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | SEBA612URN                | Unemployment Rate in Sebastian-Vero Beach, FL (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
-| SMS12426800000000026      | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-04-01          | 2022-10-01        |
+| SMS12426800000000026      | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-04-01          | 2022-11-01        |
 | SMU12426800000000001A     | All Employees: Total Nonfarm in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU12426800500000001      | All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
+| SMU12426800500000001      | All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
 | SMU12426800500000001A     | All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU12426800500000001SA    | All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SMU12426800500000002      | Average Weekly Hours of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                    | 2007-01-01          | 2022-10-01        |
+| SMU12426800500000001SA    | All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SMU12426800500000002      | Average Weekly Hours of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                    | 2007-01-01          | 2022-11-01        |
 | SMU12426800500000002A     | Average Weekly Hours of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU12426800500000003      | Average Hourly Earnings of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                 | 2007-01-01          | 2022-10-01        |
+| SMU12426800500000003      | Average Hourly Earnings of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                 | 2007-01-01          | 2022-11-01        |
 | SMU12426800500000003A     | Average Hourly Earnings of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12426800500000011      | Average Weekly Earnings of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                 | 2007-01-01          | 2022-10-01        |
+| SMU12426800500000011      | Average Weekly Earnings of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                 | 2007-01-01          | 2022-11-01        |
 | SMU12426800500000011A     | Average Weekly Earnings of All Employees: Total Private in Sebastian-Vero Beach, FL (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU12426800600000001      | All Employees: Goods Producing in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2022-10-01        |
+| SMU12426800600000001      | All Employees: Goods Producing in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2022-11-01        |
 | SMU12426800600000001A     | All Employees: Goods Producing in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU12426800600000001SA    | All Employees: Goods Producing in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2022-10-01        |
-| SMU12426800700000001      | All Employees: Service-Providing in Sebastian-Vero Beach, FL (MSA)                                                        | 1990-01-01          | 2022-10-01        |
+| SMU12426800600000001SA    | All Employees: Goods Producing in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2022-11-01        |
+| SMU12426800700000001      | All Employees: Service-Providing in Sebastian-Vero Beach, FL (MSA)                                                        | 1990-01-01          | 2022-11-01        |
 | SMU12426800700000001A     | All Employees: Service-Providing in Sebastian-Vero Beach, FL (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU12426800700000001SA    | All Employees: Service-Providing in Sebastian-Vero Beach, FL (MSA)                                                        | 1990-01-01          | 2022-10-01        |
-| SMU12426800800000001      | All Employees: Private Service Providing in Sebastian-Vero Beach, FL (MSA)                                                | 1990-01-01          | 2022-10-01        |
+| SMU12426800700000001SA    | All Employees: Service-Providing in Sebastian-Vero Beach, FL (MSA)                                                        | 1990-01-01          | 2022-11-01        |
+| SMU12426800800000001      | All Employees: Private Service Providing in Sebastian-Vero Beach, FL (MSA)                                                | 1990-01-01          | 2022-11-01        |
 | SMU12426800800000001A     | All Employees: Private Service Providing in Sebastian-Vero Beach, FL (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU12426800800000001SA    | All Employees: Private Service Providing in Sebastian-Vero Beach, FL (MSA)                                                | 1990-01-01          | 2022-10-01        |
+| SMU12426800800000001SA    | All Employees: Private Service Providing in Sebastian-Vero Beach, FL (MSA)                                                | 1990-01-01          | 2022-11-01        |
 | SMU12426801500000001A     | All Employees: Mining, Logging, and Construction in Sebastian-Vero Beach, FL (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU12426803000000001A     | All Employees: Manufacturing in Sebastian-Vero Beach, FL (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU12426804000000001A     | All Employees: Trade, Transportation, and Utilities in Sebastian-Vero Beach, FL (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU12426804100000001      | All Employees: Wholesale Trade in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2022-10-01        |
+| SMU12426804100000001      | All Employees: Wholesale Trade in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2022-11-01        |
 | SMU12426804100000001A     | All Employees: Wholesale Trade in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU12426804100000001SA    | All Employees: Wholesale Trade in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2022-10-01        |
-| SMU12426804200000001      | All Employees: Retail Trade in Sebastian-Vero Beach, FL (MSA)                                                             | 1990-01-01          | 2022-10-01        |
+| SMU12426804100000001SA    | All Employees: Wholesale Trade in Sebastian-Vero Beach, FL (MSA)                                                          | 1990-01-01          | 2022-11-01        |
+| SMU12426804200000001      | All Employees: Retail Trade in Sebastian-Vero Beach, FL (MSA)                                                             | 1990-01-01          | 2022-11-01        |
 | SMU12426804200000001A     | All Employees: Retail Trade in Sebastian-Vero Beach, FL (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU12426804200000001SA    | All Employees: Retail Trade in Sebastian-Vero Beach, FL (MSA)                                                             | 1990-01-01          | 2022-10-01        |
-| SMU12426804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sebastian-Vero Beach, FL (MSA) | 1990-01-01          | 2022-10-01        |
+| SMU12426804200000001SA    | All Employees: Retail Trade in Sebastian-Vero Beach, FL (MSA)                                                             | 1990-01-01          | 2022-11-01        |
+| SMU12426804300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sebastian-Vero Beach, FL (MSA) | 1990-01-01          | 2022-11-01        |
 | SMU12426804300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sebastian-Vero Beach, FL (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU12426804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sebastian-Vero Beach, FL (MSA) | 1990-01-01          | 2022-10-01        |
+| SMU12426804300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Sebastian-Vero Beach, FL (MSA) | 1990-01-01          | 2022-11-01        |
 | SMU12426805000000001A     | All Employees: Information in Sebastian-Vero Beach, FL (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU12426805500000001A     | All Employees: Financial Activities in Sebastian-Vero Beach, FL (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU12426806000000001A     | All Employees: Professional and Business Services in Sebastian-Vero Beach, FL (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -149,13 +149,13 @@
 | SMU12426807000000001A     | All Employees: Leisure and Hospitality in Sebastian-Vero Beach, FL (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU12426808000000001A     | All Employees: Other Services in Sebastian-Vero Beach, FL (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU12426809000000001A     | All Employees: Government in Sebastian-Vero Beach, FL (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU12426809091000001      | All Employees: Government: Federal Government in Sebastian-Vero Beach, FL (MSA)                                           | 1990-01-01          | 2022-10-01        |
+| SMU12426809091000001      | All Employees: Government: Federal Government in Sebastian-Vero Beach, FL (MSA)                                           | 1990-01-01          | 2022-11-01        |
 | SMU12426809091000001A     | All Employees: Federal Government in Sebastian-Vero Beach, FL (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU12426809091000001SA    | All Employees: Government: Federal Government in Sebastian-Vero Beach, FL (MSA)                                           | 1990-01-01          | 2022-10-01        |
-| SMU12426809092000001      | All Employees: Government: State Government in Sebastian-Vero Beach, FL (MSA)                                             | 1990-01-01          | 2022-10-01        |
+| SMU12426809091000001SA    | All Employees: Government: Federal Government in Sebastian-Vero Beach, FL (MSA)                                           | 1990-01-01          | 2022-11-01        |
+| SMU12426809092000001      | All Employees: Government: State Government in Sebastian-Vero Beach, FL (MSA)                                             | 1990-01-01          | 2022-11-01        |
 | SMU12426809092000001A     | All Employees: State Government in Sebastian-Vero Beach, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU12426809093000001      | All Employees: Government: Local Government in Sebastian-Vero Beach, FL (MSA)                                             | 1990-01-01          | 2022-10-01        |
+| SMU12426809093000001      | All Employees: Government: Local Government in Sebastian-Vero Beach, FL (MSA)                                             | 1990-01-01          | 2022-11-01        |
 | SMU12426809093000001A     | All Employees: Local Government in Sebastian-Vero Beach, FL (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU12426809093000001SA    | All Employees: Government: Local Government in Sebastian-Vero Beach, FL (MSA)                                             | 1990-01-01          | 2022-10-01        |
+| SMU12426809093000001SA    | All Employees: Government: Local Government in Sebastian-Vero Beach, FL (MSA)                                             | 1990-01-01          | 2022-11-01        |
 | SUSCMSA42680              | Market Hotness: Supply Score in Sebastian-Vero Beach, FL (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | SVBPOP                    | Resident Population in Sebastian-Vero Beach, FL (MSA)                                                                     | 2000-01-01          | 2021-01-01        |

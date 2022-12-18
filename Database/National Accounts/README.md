@@ -6,6 +6,8 @@
 | NGDPMBUKA         | Nominal Gross Domestic Product at Market Prices, Break Adjusted in the United Kingdom                  | 1700-01-01          | 2016-01-01        |
 | NGDPMPUKA         | Nominal Gross Domestic Product at Market Prices in the United Kingdom                                  | 1700-01-01          | 2016-01-01        |
 | NGDPMPUKQ         | Nominal Gross Domestic Product at Market Prices in the United Kingdom                                  | 1955-01-01          | 2016-10-01        |
+| NGMPUSMP          | Total Gross Domestic Product for United States Metropolitan Portion                                    | 2001-01-01          | 2021-01-01        |
+| QGMPUSMP          | Total Quantity Indexes for Real GDP for United States Metropolitan Portion                             | 2001-01-01          | 2021-01-01        |
 | RGCGASUKA         | Real Government Consumption of Goods and Services in the United Kingdom                                | 1830-01-01          | 2016-01-01        |
 | RGCGASUKQ         | Real Government Consumption of Goods and Services in the United Kingdom                                | 1955-01-01          | 2016-10-01        |
 | RGDNIMUKA         | Real Gross Disposable National Income at Market Prices in the United Kingdom                           | 1830-01-01          | 2016-01-01        |
@@ -16,6 +18,7 @@
 | RGDPMPUKQ         | Real Gross Domestic Product at Market Prices in the United Kingdom                                     | 1955-01-01          | 2016-10-01        |
 | RGDPMRPUKM        | Real Gross Domestic Product at Market Prices in the United Kingdom                                     | 1920-01-01          | 1938-12-01        |
 | RGDPMRPUKQ        | Real Gross Domestic Product at Market Prices in the United Kingdom                                     | 1920-04-01          | 2016-10-01        |
+| RGMPUSMP          | Total Real Gross Domestic Product for United States Metropolitan Portion                               | 2001-01-01          | 2021-01-01        |
 | RIVEXUKA          | Real Investment Expenditures in the United Kingdom                                                     | 1830-01-01          | 2016-01-01        |
 | RIVEXUKQ          | Real Investment Expenditures in the United Kingdom                                                     | 1955-01-01          | 2016-10-01        |
 | RLCMEXUKA         | Real Consumption Expenditures in the United Kingdom                                                    | 1830-01-01          | 2016-01-01        |

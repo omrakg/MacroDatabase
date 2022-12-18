@@ -1,2 +1,31 @@
-| Folder   | Files / Folders   |
-|----------|-------------------|
+| id              | title                                                                                                                                           | observation_start   | observation_end   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
+| BCEMFT02ATM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Austria                                           | 1996-01-01          | 2022-10-01        |
+| BCEMFT02BEM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Belgium                                           | 1985-01-01          | 2022-10-01        |
+| BCEMFT02CHM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Switzerland                                       | 1994-10-01          | 2022-09-01        |
+| BCEMFT02CHQ460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Switzerland                                       | 1994-07-01          | 2010-10-01        |
+| BCEMFT02CLM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Chile                                             | 2003-12-01          | 2022-10-01        |
+| BCEMFT02CZM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for the Czech Republic                                | 1993-02-01          | 2022-10-01        |
+| BCEMFT02DEM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Germany                                           | 1985-01-01          | 2022-10-01        |
+| BCEMFT02DKM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Denmark                                           | 1985-01-01          | 2022-10-01        |
+| BCEMFT02EEM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Estonia                                           | 1994-04-01          | 2022-10-01        |
+| BCEMFT02ESM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Spain                                             | 1989-01-01          | 2022-10-01        |
+| BCEMFT02EZM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for the Euro Area (19 Countries)                      | 1985-01-01          | 2022-10-01        |
+| BCEMFT02FIM460S | Business Tendency Surveys (Construction): Employment: Future Tendency: National Indicator for Finland                                           | 1985-01-01          | 2022-10-01        |
+| BCEMFT02FRM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for France                 | 1985-01-01          | 2022-10-01        |
+| BCEMFT02GBM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for the United Kingdom     | 1985-01-01          | 2019-10-01        |
+| BCEMFT02GRM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Greece                 | 1985-01-01          | 2022-10-01        |
+| BCEMFT02HUM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Hungary                | 1996-01-01          | 2022-10-01        |
+| BCEMFT02IDQ460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Indonesia              | 2002-01-01          | 2022-01-01        |
+| BCEMFT02ILM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Israel                 | 2010-12-01          | 2022-09-01        |
+| BCEMFT02ITM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Italy                  | 1985-01-01          | 2022-10-01        |
+| BCEMFT02JPQ460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Japan                  | 1974-04-01          | 2022-07-01        |
+| BCEMFT02LUM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Luxembourg             | 1985-01-01          | 2022-10-01        |
+| BCEMFT02NLM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for the Netherlands        | 1985-01-01          | 2022-10-01        |
+| BCEMFT02PLM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Poland                 | 1993-07-01          | 2022-10-01        |
+| BCEMFT02PTM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Portugal               | 1989-01-01          | 2022-10-01        |
+| BCEMFT02RUQ460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for the Russian Federation | 1993-04-01          | 2021-10-01        |
+| BCEMFT02SEM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Sweden                 | 1990-01-01          | 2022-10-01        |
+| BCEMFT02SIM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for Slovenia               | 2002-03-01          | 2022-10-01        |
+| BCEMFT02SKM460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for the Slovak Republic    | 1993-08-01          | 2022-10-01        |
+| BCEMFT02ZAQ460S | Business Tendency Surveys for Construction: Employment: Future Tendency: European Commission and National Indicators for South Africa           | 2001-04-01          | 2022-07-01        |

@@ -24,7 +24,7 @@
 | HORAMSA42340              | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA42340            | Market Hotness: Hotness Rank in Savannah, GA (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
 | HOSCMSA42340              | Market Hotness: Hotness Score in Savannah, GA (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
-| IRPD42340                 | Implicit Regional Price Deflator for Savannah, GA (MSA)                                                       | 2008-01-01          | 2020-01-01        |
+| IRPD42340                 | Implicit Regional Price Deflator for Savannah, GA (MSA)                                                       | 2008-01-01          | 2021-01-01        |
 | LAUMT134234000000003A     | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2021-01-01        |
 | LAUMT134234000000004      | Unemployed Persons in Savannah, GA (MSA)                                                                      | 1990-01-01          | 2022-10-01        |
 | LAUMT134234000000004A     | Unemployed Persons in Savannah, GA (MSA)                                                                      | 1990-01-01          | 2021-01-01        |
@@ -73,72 +73,72 @@
 | PRIREDCOUYY42340          | Housing Inventory: Price Reduced Count Year-Over-Year in Savannah, GA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | QGMP42340                 | Total Quantity Indexes for Real GDP for Savannah, GA (MSA)                                                    | 2001-01-01          | 2021-01-01        |
 | RGMP42340                 | Total Real Gross Domestic Product for Savannah, GA (MSA)                                                      | 2001-01-01          | 2021-01-01        |
-| RPI42340                  | Real Personal Income for Savannah, GA (MSA)                                                                   | 2008-01-01          | 2020-01-01        |
-| RPIPC42340                | Real Per Capita Personal Income for Savannah, GA (MSA)                                                        | 2008-01-01          | 2020-01-01        |
-| RPPALL42340               | Regional Price Parities: All Items for Savannah, GA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPPGOOD42340              | Regional Price Parities: Goods for Savannah, GA (MSA)                                                         | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH42340          | Regional Price Parities: Services: Other for Savannah, GA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT42340         | Regional Price Parities: Services: Rents for Savannah, GA (MSA)                                               | 2008-01-01          | 2020-01-01        |
-| SAVA313EDUH               | All Employees: Education and Health Services in Savannah, GA (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SAVA313EDUHN              | All Employees: Education and Health Services in Savannah, GA (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SAVA313FIRE               | All Employees: Financial Activities in Savannah, GA (MSA)                                                     | 1990-01-01          | 2022-10-01        |
-| SAVA313FIREN              | All Employees: Financial Activities in Savannah, GA (MSA)                                                     | 1990-01-01          | 2022-10-01        |
-| SAVA313GOVT               | All Employees: Government in Savannah, GA (MSA)                                                               | 1990-01-01          | 2022-10-01        |
-| SAVA313GOVTN              | All Employees: Government in Savannah, GA (MSA)                                                               | 1990-01-01          | 2022-10-01        |
-| SAVA313INFO               | All Employees: Information in Savannah, GA (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| SAVA313INFON              | All Employees: Information in Savannah, GA (MSA)                                                              | 1990-01-01          | 2022-10-01        |
-| SAVA313LEIH               | All Employees: Leisure and Hospitality in Savannah, GA (MSA)                                                  | 1990-01-01          | 2022-10-01        |
-| SAVA313LEIHN              | All Employees: Leisure and Hospitality in Savannah, GA (MSA)                                                  | 1990-01-01          | 2022-10-01        |
+| RPI42340                  | Real Personal Income for Savannah, GA (MSA)                                                                   | 2008-01-01          | 2021-01-01        |
+| RPIPC42340                | Real Per Capita Personal Income for Savannah, GA (MSA)                                                        | 2008-01-01          | 2021-01-01        |
+| RPPALL42340               | Regional Price Parities: All Items for Savannah, GA (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPPGOOD42340              | Regional Price Parities: Goods for Savannah, GA (MSA)                                                         | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH42340          | Regional Price Parities: Services: Other for Savannah, GA (MSA)                                               | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT42340         | Regional Price Parities: Services: Rents for Savannah, GA (MSA)                                               | 2008-01-01          | 2021-01-01        |
+| SAVA313EDUH               | All Employees: Education and Health Services in Savannah, GA (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SAVA313EDUHN              | All Employees: Education and Health Services in Savannah, GA (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SAVA313FIRE               | All Employees: Financial Activities in Savannah, GA (MSA)                                                     | 1990-01-01          | 2022-11-01        |
+| SAVA313FIREN              | All Employees: Financial Activities in Savannah, GA (MSA)                                                     | 1990-01-01          | 2022-11-01        |
+| SAVA313GOVT               | All Employees: Government in Savannah, GA (MSA)                                                               | 1990-01-01          | 2022-11-01        |
+| SAVA313GOVTN              | All Employees: Government in Savannah, GA (MSA)                                                               | 1990-01-01          | 2022-11-01        |
+| SAVA313INFO               | All Employees: Information in Savannah, GA (MSA)                                                              | 1990-01-01          | 2022-11-01        |
+| SAVA313INFON              | All Employees: Information in Savannah, GA (MSA)                                                              | 1990-01-01          | 2022-11-01        |
+| SAVA313LEIH               | All Employees: Leisure and Hospitality in Savannah, GA (MSA)                                                  | 1990-01-01          | 2022-11-01        |
+| SAVA313LEIHN              | All Employees: Leisure and Hospitality in Savannah, GA (MSA)                                                  | 1990-01-01          | 2022-11-01        |
 | SAVA313LF                 | Civilian Labor Force in Savannah, GA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
 | SAVA313LFN                | Civilian Labor Force in Savannah, GA (MSA)                                                                    | 1990-01-01          | 2022-10-01        |
-| SAVA313MFG                | All Employees: Manufacturing in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SAVA313MFGN               | All Employees: Manufacturing in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SAVA313NA                 | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SAVA313NAN                | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1970-01-01          | 2022-10-01        |
-| SAVA313NRMN               | All Employees: Mining, Logging, and Construction in Savannah, GA (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| SAVA313NRMNN              | All Employees: Mining, Logging, and Construction in Savannah, GA (MSA)                                        | 1990-01-01          | 2022-10-01        |
-| SAVA313PBSV               | All Employees: Professional and Business Services in Savannah, GA (MSA)                                       | 1990-01-01          | 2022-10-01        |
-| SAVA313PBSVN              | All Employees: Professional and Business Services in Savannah, GA (MSA)                                       | 1990-01-01          | 2022-10-01        |
+| SAVA313MFG                | All Employees: Manufacturing in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SAVA313MFGN               | All Employees: Manufacturing in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SAVA313NA                 | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SAVA313NAN                | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1970-01-01          | 2022-11-01        |
+| SAVA313NRMN               | All Employees: Mining, Logging, and Construction in Savannah, GA (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| SAVA313NRMNN              | All Employees: Mining, Logging, and Construction in Savannah, GA (MSA)                                        | 1990-01-01          | 2022-11-01        |
+| SAVA313PBSV               | All Employees: Professional and Business Services in Savannah, GA (MSA)                                       | 1990-01-01          | 2022-11-01        |
+| SAVA313PBSVN              | All Employees: Professional and Business Services in Savannah, GA (MSA)                                       | 1990-01-01          | 2022-11-01        |
 | SAVA313PCPI               | Per Capita Personal Income in Savannah, GA (MSA)                                                              | 1969-01-01          | 2021-01-01        |
-| SAVA313SRVO               | All Employees: Other Services in Savannah, GA (MSA)                                                           | 1990-01-01          | 2022-10-01        |
-| SAVA313SRVON              | All Employees: Other Services in Savannah, GA (MSA)                                                           | 1990-01-01          | 2022-10-01        |
-| SAVA313TRAD               | All Employees: Trade, Transportation, and Utilities in Savannah, GA (MSA)                                     | 1990-01-01          | 2022-10-01        |
-| SAVA313TRADN              | All Employees: Trade, Transportation, and Utilities in Savannah, GA (MSA)                                     | 1990-01-01          | 2022-10-01        |
+| SAVA313SRVO               | All Employees: Other Services in Savannah, GA (MSA)                                                           | 1990-01-01          | 2022-11-01        |
+| SAVA313SRVON              | All Employees: Other Services in Savannah, GA (MSA)                                                           | 1990-01-01          | 2022-11-01        |
+| SAVA313TRAD               | All Employees: Trade, Transportation, and Utilities in Savannah, GA (MSA)                                     | 1990-01-01          | 2022-11-01        |
+| SAVA313TRADN              | All Employees: Trade, Transportation, and Utilities in Savannah, GA (MSA)                                     | 1990-01-01          | 2022-11-01        |
 | SAVA313UR                 | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | SAVA313URN                | Unemployment Rate in Savannah, GA (MSA)                                                                       | 1990-01-01          | 2022-10-01        |
 | SAVPOP                    | Resident Population in Savannah, GA (MSA)                                                                     | 2000-01-01          | 2021-01-01        |
-| SMS13423400000000026      | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1990-04-01          | 2022-10-01        |
+| SMS13423400000000026      | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1990-04-01          | 2022-11-01        |
 | SMU13423400000000001A     | All Employees: Total Nonfarm in Savannah, GA (MSA)                                                            | 1970-01-01          | 2021-01-01        |
-| SMU13423400500000001      | All Employees: Total Private in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
+| SMU13423400500000001      | All Employees: Total Private in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-11-01        |
 | SMU13423400500000001A     | All Employees: Total Private in Savannah, GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
-| SMU13423400500000001SA    | All Employees: Total Private in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-10-01        |
-| SMU13423400500000002      | Average Weekly Hours of All Employees: Total Private in Savannah, GA (MSA)                                    | 2007-01-01          | 2022-10-01        |
+| SMU13423400500000001SA    | All Employees: Total Private in Savannah, GA (MSA)                                                            | 1990-01-01          | 2022-11-01        |
+| SMU13423400500000002      | Average Weekly Hours of All Employees: Total Private in Savannah, GA (MSA)                                    | 2007-01-01          | 2022-11-01        |
 | SMU13423400500000002A     | Average Weekly Hours of All Employees: Total Private in Savannah, GA (MSA)                                    | 2007-01-01          | 2021-01-01        |
-| SMU13423400500000003      | Average Hourly Earnings of All Employees: Total Private in Savannah, GA (MSA)                                 | 2007-01-01          | 2022-10-01        |
+| SMU13423400500000003      | Average Hourly Earnings of All Employees: Total Private in Savannah, GA (MSA)                                 | 2007-01-01          | 2022-11-01        |
 | SMU13423400500000003A     | Average Hourly Earnings of All Employees: Total Private in Savannah, GA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13423400500000011      | Average Weekly Earnings of All Employees: Total Private in Savannah, GA (MSA)                                 | 2007-01-01          | 2022-10-01        |
+| SMU13423400500000011      | Average Weekly Earnings of All Employees: Total Private in Savannah, GA (MSA)                                 | 2007-01-01          | 2022-11-01        |
 | SMU13423400500000011A     | Average Weekly Earnings of All Employees: Total Private in Savannah, GA (MSA)                                 | 2007-01-01          | 2021-01-01        |
-| SMU13423400600000001      | All Employees: Goods Producing in Savannah, GA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
+| SMU13423400600000001      | All Employees: Goods Producing in Savannah, GA (MSA)                                                          | 1990-01-01          | 2022-11-01        |
 | SMU13423400600000001A     | All Employees: Goods Producing in Savannah, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU13423400600000001SA    | All Employees: Goods Producing in Savannah, GA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
-| SMU13423400700000001      | All Employees: Service-Providing in Savannah, GA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
+| SMU13423400600000001SA    | All Employees: Goods Producing in Savannah, GA (MSA)                                                          | 1990-01-01          | 2022-11-01        |
+| SMU13423400700000001      | All Employees: Service-Providing in Savannah, GA (MSA)                                                        | 1990-01-01          | 2022-11-01        |
 | SMU13423400700000001A     | All Employees: Service-Providing in Savannah, GA (MSA)                                                        | 1990-01-01          | 2021-01-01        |
-| SMU13423400700000001SA    | All Employees: Service-Providing in Savannah, GA (MSA)                                                        | 1990-01-01          | 2022-10-01        |
-| SMU13423400800000001      | All Employees: Private Service Providing in Savannah, GA (MSA)                                                | 1990-01-01          | 2022-10-01        |
+| SMU13423400700000001SA    | All Employees: Service-Providing in Savannah, GA (MSA)                                                        | 1990-01-01          | 2022-11-01        |
+| SMU13423400800000001      | All Employees: Private Service Providing in Savannah, GA (MSA)                                                | 1990-01-01          | 2022-11-01        |
 | SMU13423400800000001A     | All Employees: Private Service Providing in Savannah, GA (MSA)                                                | 1990-01-01          | 2021-01-01        |
-| SMU13423400800000001SA    | All Employees: Private Service Providing in Savannah, GA (MSA)                                                | 1990-01-01          | 2022-10-01        |
+| SMU13423400800000001SA    | All Employees: Private Service Providing in Savannah, GA (MSA)                                                | 1990-01-01          | 2022-11-01        |
 | SMU13423401500000001A     | All Employees: Mining, Logging, and Construction in Savannah, GA (MSA)                                        | 1990-01-01          | 2021-01-01        |
 | SMU13423403000000001A     | All Employees: Manufacturing in Savannah, GA (MSA)                                                            | 1990-01-01          | 2021-01-01        |
 | SMU13423404000000001A     | All Employees: Trade, Transportation, and Utilities in Savannah, GA (MSA)                                     | 1990-01-01          | 2021-01-01        |
-| SMU13423404100000001      | All Employees: Wholesale Trade in Savannah, GA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
+| SMU13423404100000001      | All Employees: Wholesale Trade in Savannah, GA (MSA)                                                          | 1990-01-01          | 2022-11-01        |
 | SMU13423404100000001A     | All Employees: Wholesale Trade in Savannah, GA (MSA)                                                          | 1990-01-01          | 2021-01-01        |
-| SMU13423404100000001SA    | All Employees: Wholesale Trade in Savannah, GA (MSA)                                                          | 1990-01-01          | 2022-10-01        |
-| SMU13423404200000001      | All Employees: Retail Trade in Savannah, GA (MSA)                                                             | 1990-01-01          | 2022-10-01        |
+| SMU13423404100000001SA    | All Employees: Wholesale Trade in Savannah, GA (MSA)                                                          | 1990-01-01          | 2022-11-01        |
+| SMU13423404200000001      | All Employees: Retail Trade in Savannah, GA (MSA)                                                             | 1990-01-01          | 2022-11-01        |
 | SMU13423404200000001A     | All Employees: Retail Trade in Savannah, GA (MSA)                                                             | 1990-01-01          | 2021-01-01        |
-| SMU13423404200000001SA    | All Employees: Retail Trade in Savannah, GA (MSA)                                                             | 1990-01-01          | 2022-10-01        |
-| SMU13423404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Savannah, GA (MSA) | 1990-01-01          | 2022-10-01        |
+| SMU13423404200000001SA    | All Employees: Retail Trade in Savannah, GA (MSA)                                                             | 1990-01-01          | 2022-11-01        |
+| SMU13423404300000001      | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Savannah, GA (MSA) | 1990-01-01          | 2022-11-01        |
 | SMU13423404300000001A     | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Savannah, GA (MSA) | 1990-01-01          | 2021-01-01        |
-| SMU13423404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Savannah, GA (MSA) | 1990-01-01          | 2022-10-01        |
+| SMU13423404300000001SA    | All Employees: Transportation and Utilities: Transportation, Warehousing, and Utilities in Savannah, GA (MSA) | 1990-01-01          | 2022-11-01        |
 | SMU13423405000000001A     | All Employees: Information in Savannah, GA (MSA)                                                              | 1990-01-01          | 2021-01-01        |
 | SMU13423405500000001A     | All Employees: Financial Activities in Savannah, GA (MSA)                                                     | 1990-01-01          | 2021-01-01        |
 | SMU13423406000000001A     | All Employees: Professional and Business Services in Savannah, GA (MSA)                                       | 1990-01-01          | 2021-01-01        |
@@ -146,13 +146,13 @@
 | SMU13423407000000001A     | All Employees: Leisure and Hospitality in Savannah, GA (MSA)                                                  | 1990-01-01          | 2021-01-01        |
 | SMU13423408000000001A     | All Employees: Other Services in Savannah, GA (MSA)                                                           | 1990-01-01          | 2021-01-01        |
 | SMU13423409000000001A     | All Employees: Government in Savannah, GA (MSA)                                                               | 1990-01-01          | 2021-01-01        |
-| SMU13423409091000001      | All Employees: Government: Federal Government in Savannah, GA (MSA)                                           | 1990-01-01          | 2022-10-01        |
+| SMU13423409091000001      | All Employees: Government: Federal Government in Savannah, GA (MSA)                                           | 1990-01-01          | 2022-11-01        |
 | SMU13423409091000001A     | All Employees: Federal Government in Savannah, GA (MSA)                                                       | 1990-01-01          | 2021-01-01        |
-| SMU13423409091000001SA    | All Employees: Government: Federal Government in Savannah, GA (MSA)                                           | 1990-01-01          | 2022-10-01        |
-| SMU13423409092000001      | All Employees: Government: State Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-10-01        |
+| SMU13423409091000001SA    | All Employees: Government: Federal Government in Savannah, GA (MSA)                                           | 1990-01-01          | 2022-11-01        |
+| SMU13423409092000001      | All Employees: Government: State Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-11-01        |
 | SMU13423409092000001A     | All Employees: State Government in Savannah, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU13423409092000001SA    | All Employees: Government: State Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| SMU13423409093000001      | All Employees: Government: Local Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-10-01        |
+| SMU13423409092000001SA    | All Employees: Government: State Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-11-01        |
+| SMU13423409093000001      | All Employees: Government: Local Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-11-01        |
 | SMU13423409093000001A     | All Employees: Local Government in Savannah, GA (MSA)                                                         | 1990-01-01          | 2021-01-01        |
-| SMU13423409093000001SA    | All Employees: Government: Local Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-10-01        |
+| SMU13423409093000001SA    | All Employees: Government: Local Government in Savannah, GA (MSA)                                             | 1990-01-01          | 2022-11-01        |
 | SUSCMSA42340              | Market Hotness: Supply Score in Savannah, GA (CBSA)                                                           | 2017-08-01          | 2022-11-01        |

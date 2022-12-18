@@ -24,7 +24,7 @@
 | HORAMSA31700              | Market Hotness: Hotness Rank in Manchester-Nashua, NH (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA31700            | Market Hotness: Hotness Rank in Manchester-Nashua, NH (CBSA)                                             | 2018-08-01          | 2022-11-01        |
 | HOSCMSA31700              | Market Hotness: Hotness Score in Manchester-Nashua, NH (CBSA)                                            | 2017-08-01          | 2022-11-01        |
-| IRPD31700                 | Implicit Regional Price Deflator for Manchester-Nashua, NH (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| IRPD31700                 | Implicit Regional Price Deflator for Manchester-Nashua, NH (MSA)                                         | 2008-01-01          | 2021-01-01        |
 | LDPEPRMMMSA31700          | Market Hotness: Listing Views per Property in Manchester-Nashua, NH (CBSA)                               | 2017-09-01          | 2022-11-01        |
 | LDPEPRVSUSMSA31700        | Market Hotness: Listing Views per Property Versus the United States in Manchester-Nashua, NH (CBSA)      | 2017-08-01          | 2022-11-01        |
 | LDPEPRYYMSA31700          | Market Hotness: Listing Views per Property in Manchester-Nashua, NH (CBSA)                               | 2018-08-01          | 2022-11-01        |
@@ -68,10 +68,10 @@
 | PRIREDCOUYY31700          | Housing Inventory: Price Reduced Count Year-Over-Year in Manchester-Nashua, NH (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP31700                 | Total Quantity Indexes for Real GDP for Manchester-Nashua, NH (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP31700                 | Total Real Gross Domestic Product for Manchester-Nashua, NH (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI31700                  | Real Personal Income for Manchester-Nashua, NH (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC31700                | Real Per Capita Personal Income for Manchester-Nashua, NH (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL31700               | Regional Price Parities: All Items for Manchester-Nashua, NH (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD31700              | Regional Price Parities: Goods for Manchester-Nashua, NH (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH31700          | Regional Price Parities: Services: Other for Manchester-Nashua, NH (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT31700         | Regional Price Parities: Services: Rents for Manchester-Nashua, NH (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| RPI31700                  | Real Personal Income for Manchester-Nashua, NH (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC31700                | Real Per Capita Personal Income for Manchester-Nashua, NH (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL31700               | Regional Price Parities: All Items for Manchester-Nashua, NH (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD31700              | Regional Price Parities: Goods for Manchester-Nashua, NH (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH31700          | Regional Price Parities: Services: Other for Manchester-Nashua, NH (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT31700         | Regional Price Parities: Services: Rents for Manchester-Nashua, NH (MSA)                                 | 2008-01-01          | 2021-01-01        |
 | SUSCMSA31700              | Market Hotness: Supply Score in Manchester-Nashua, NH (CBSA)                                             | 2017-08-01          | 2022-11-01        |

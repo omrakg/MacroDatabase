@@ -25,7 +25,7 @@
 | HORAYYMSA44140            | Market Hotness: Hotness Rank in Springfield, MA (CBSA)                                             | 2018-08-01          | 2022-11-01        |
 | HOSCMSA44140              | Market Hotness: Hotness Score in Springfield, MA (CBSA)                                            | 2017-08-01          | 2022-11-01        |
 | IHLCHG44140               | Job Postings on Indeed in Springfield, MA (MSA)                                                    | 2020-02-01          | 2022-11-25        |
-| IRPD44140                 | Implicit Regional Price Deflator for Springfield, MA (MSA)                                         | 2008-01-01          | 2020-01-01        |
+| IRPD44140                 | Implicit Regional Price Deflator for Springfield, MA (MSA)                                         | 2008-01-01          | 2021-01-01        |
 | LDPEPRMMMSA44140          | Market Hotness: Listing Views per Property in Springfield, MA (CBSA)                               | 2017-09-01          | 2022-11-01        |
 | LDPEPRVSUSMSA44140        | Market Hotness: Listing Views per Property Versus the United States in Springfield, MA (CBSA)      | 2017-08-01          | 2022-11-01        |
 | LDPEPRYYMSA44140          | Market Hotness: Listing Views per Property in Springfield, MA (CBSA)                               | 2018-08-01          | 2022-11-01        |
@@ -68,11 +68,11 @@
 | PRIREDCOUYY44140          | Housing Inventory: Price Reduced Count Year-Over-Year in Springfield, MA (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP44140                 | Total Quantity Indexes for Real GDP for Springfield, MA (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP44140                 | Total Real Gross Domestic Product for Springfield, MA (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI44140                  | Real Personal Income for Springfield, MA (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC44140                | Real Per Capita Personal Income for Springfield, MA (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL44140               | Regional Price Parities: All Items for Springfield, MA (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD44140              | Regional Price Parities: Goods for Springfield, MA (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH44140          | Regional Price Parities: Services: Other for Springfield, MA (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT44140         | Regional Price Parities: Services: Rents for Springfield, MA (MSA)                                 | 2008-01-01          | 2020-01-01        |
+| RPI44140                  | Real Personal Income for Springfield, MA (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC44140                | Real Per Capita Personal Income for Springfield, MA (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL44140               | Regional Price Parities: All Items for Springfield, MA (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD44140              | Regional Price Parities: Goods for Springfield, MA (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH44140          | Regional Price Parities: Services: Other for Springfield, MA (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT44140         | Regional Price Parities: Services: Rents for Springfield, MA (MSA)                                 | 2008-01-01          | 2021-01-01        |
 | SPDPOP                    | Resident Population in Springfield, MA (MSA)                                                       | 2000-01-01          | 2021-01-01        |
 | SUSCMSA44140              | Market Hotness: Supply Score in Springfield, MA (CBSA)                                             | 2017-08-01          | 2022-11-01        |

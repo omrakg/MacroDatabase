@@ -266,12 +266,12 @@
 | SWERECDP        | OECD based Recession Indicators for Sweden from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2022-09-30        |
 | SWERECM         | OECD based Recession Indicators for Sweden from the Peak through the Trough                                             | 1960-02-01          | 2022-09-01        |
 | SWERECP         | OECD based Recession Indicators for Sweden from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2022-09-01        |
-| TURREC          | OECD based Recession Indicators for Turkey from the Period following the Peak through the Trough                        | 1960-02-01          | 2022-03-01        |
-| TURRECD         | OECD based Recession Indicators for Turkey from the Period following the Peak through the Trough                        | 1960-02-01          | 2022-03-31        |
-| TURRECDM        | OECD based Recession Indicators for Turkey from the Peak through the Trough                                             | 1960-02-01          | 2022-03-31        |
-| TURRECDP        | OECD based Recession Indicators for Turkey from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2022-03-31        |
-| TURRECM         | OECD based Recession Indicators for Turkey from the Peak through the Trough                                             | 1960-02-01          | 2022-03-01        |
-| TURRECP         | OECD based Recession Indicators for Turkey from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2022-03-01        |
+| TURREC          | OECD based Recession Indicators for Turkey from the Period following the Peak through the Trough                        | 1960-02-01          | 2022-09-01        |
+| TURRECD         | OECD based Recession Indicators for Turkey from the Period following the Peak through the Trough                        | 1960-02-01          | 2022-09-30        |
+| TURRECDM        | OECD based Recession Indicators for Turkey from the Peak through the Trough                                             | 1960-02-01          | 2022-09-30        |
+| TURRECDP        | OECD based Recession Indicators for Turkey from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2022-09-30        |
+| TURRECM         | OECD based Recession Indicators for Turkey from the Peak through the Trough                                             | 1960-02-01          | 2022-09-01        |
+| TURRECP         | OECD based Recession Indicators for Turkey from the Peak through the Period preceding the Trough                        | 1960-02-01          | 2022-09-01        |
 | USAREC          | OECD based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1947-02-01          | 2022-09-01        |
 | USARECD         | OECD based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1947-02-01          | 2022-09-30        |
 | USARECDM        | OECD based Recession Indicators for the United States from the Peak through the Trough                                  | 1947-02-01          | 2022-09-30        |
@@ -280,9 +280,9 @@
 | USARECP         | OECD based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1947-02-01          | 2022-09-01        |
 | USPHCI          | Coincident Economic Activity Index for the United States                                                                | 1979-01-01          | 2022-10-01        |
 | USREC           | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-11-01        |
-| USRECD          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-12-08        |
-| USRECDM         | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-12-08        |
-| USRECDP         | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-12-08        |
+| USRECD          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-12-01          | 2022-12-15        |
+| USRECDM         | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-12-15        |
+| USRECDP         | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-12-15        |
 | USRECM          | NBER based Recession Indicators for the United States from the Peak through the Trough                                  | 1854-12-01          | 2022-11-01        |
 | USRECP          | NBER based Recession Indicators for the United States from the Peak through the Period preceding the Trough             | 1854-12-01          | 2022-11-01        |
 | USRECQ          | NBER based Recession Indicators for the United States from the Period following the Peak through the Trough             | 1854-10-01          | 2022-07-01        |

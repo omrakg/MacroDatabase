@@ -24,34 +24,34 @@
 | HORAMSA27100              | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2017-08-01          | 2022-11-01        |
 | HORAYYMSA27100            | Market Hotness: Hotness Rank in Jackson, MI (CBSA)                                             | 2018-08-01          | 2022-11-01        |
 | HOSCMSA27100              | Market Hotness: Hotness Score in Jackson, MI (CBSA)                                            | 2017-08-01          | 2022-11-01        |
-| IRPD27100                 | Implicit Regional Price Deflator for Jackson, MI (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| IRPD27140                 | Implicit Regional Price Deflator for Jackson, MS (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| IRPD27180                 | Implicit Regional Price Deflator for Jackson, TN (MSA)                                         | 2008-01-01          | 2020-01-01        |
-| JACK126EDUH               | All Employees: Education and Health Services in Jackson, MI (MSA)                              | 1990-01-01          | 2022-10-01        |
-| JACK126EDUHN              | All Employees: Education and Health Services in Jackson, MI (MSA)                              | 1990-01-01          | 2022-10-01        |
-| JACK126FIRE               | All Employees: Financial Activities in Jackson, MI (MSA)                                       | 2001-01-01          | 2022-10-01        |
-| JACK126FIREN              | All Employees: Financial Activities in Jackson, MI (MSA)                                       | 2001-01-01          | 2022-10-01        |
-| JACK126GOVT               | All Employees: Government in Jackson, MI (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| JACK126GOVTN              | All Employees: Government in Jackson, MI (MSA)                                                 | 1990-01-01          | 2022-10-01        |
-| JACK126INFO               | All Employees: Information in Jackson, MI (MSA)                                                | 1990-01-01          | 2022-10-01        |
-| JACK126INFON              | All Employees: Information in Jackson, MI (MSA)                                                | 1990-01-01          | 2022-10-01        |
-| JACK126LEIH               | All Employees: Leisure and Hospitality in Jackson, MI (MSA)                                    | 1990-01-01          | 2022-10-01        |
-| JACK126LEIHN              | All Employees: Leisure and Hospitality in Jackson, MI (MSA)                                    | 1990-01-01          | 2022-10-01        |
+| IRPD27100                 | Implicit Regional Price Deflator for Jackson, MI (MSA)                                         | 2008-01-01          | 2021-01-01        |
+| IRPD27140                 | Implicit Regional Price Deflator for Jackson, MS (MSA)                                         | 2008-01-01          | 2021-01-01        |
+| IRPD27180                 | Implicit Regional Price Deflator for Jackson, TN (MSA)                                         | 2008-01-01          | 2021-01-01        |
+| JACK126EDUH               | All Employees: Education and Health Services in Jackson, MI (MSA)                              | 1990-01-01          | 2022-11-01        |
+| JACK126EDUHN              | All Employees: Education and Health Services in Jackson, MI (MSA)                              | 1990-01-01          | 2022-11-01        |
+| JACK126FIRE               | All Employees: Financial Activities in Jackson, MI (MSA)                                       | 2001-01-01          | 2022-11-01        |
+| JACK126FIREN              | All Employees: Financial Activities in Jackson, MI (MSA)                                       | 2001-01-01          | 2022-11-01        |
+| JACK126GOVT               | All Employees: Government in Jackson, MI (MSA)                                                 | 1990-01-01          | 2022-11-01        |
+| JACK126GOVTN              | All Employees: Government in Jackson, MI (MSA)                                                 | 1990-01-01          | 2022-11-01        |
+| JACK126INFO               | All Employees: Information in Jackson, MI (MSA)                                                | 1990-01-01          | 2022-11-01        |
+| JACK126INFON              | All Employees: Information in Jackson, MI (MSA)                                                | 1990-01-01          | 2022-11-01        |
+| JACK126LEIH               | All Employees: Leisure and Hospitality in Jackson, MI (MSA)                                    | 1990-01-01          | 2022-11-01        |
+| JACK126LEIHN              | All Employees: Leisure and Hospitality in Jackson, MI (MSA)                                    | 1990-01-01          | 2022-11-01        |
 | JACK126LF                 | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2022-10-01        |
 | JACK126LFN                | Civilian Labor Force in Jackson, MI (MSA)                                                      | 1990-01-01          | 2022-10-01        |
-| JACK126MFG                | All Employees: Manufacturing in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| JACK126MFGN               | All Employees: Manufacturing in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| JACK126NA                 | All Employees: Total Nonfarm in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| JACK126NAN                | All Employees: Total Nonfarm in Jackson, MI (MSA)                                              | 1958-01-01          | 2022-10-01        |
-| JACK126NRMN               | All Employees: Mining, Logging, and Construction in Jackson, MI (MSA)                          | 1990-01-01          | 2022-10-01        |
-| JACK126NRMNN              | All Employees: Mining, Logging, and Construction in Jackson, MI (MSA)                          | 1990-01-01          | 2022-10-01        |
-| JACK126PBSV               | All Employees: Professional and Business Services in Jackson, MI (MSA)                         | 1990-01-01          | 2022-10-01        |
-| JACK126PBSVN              | All Employees: Professional and Business Services in Jackson, MI (MSA)                         | 1990-01-01          | 2022-10-01        |
+| JACK126MFG                | All Employees: Manufacturing in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| JACK126MFGN               | All Employees: Manufacturing in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| JACK126NA                 | All Employees: Total Nonfarm in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| JACK126NAN                | All Employees: Total Nonfarm in Jackson, MI (MSA)                                              | 1958-01-01          | 2022-11-01        |
+| JACK126NRMN               | All Employees: Mining, Logging, and Construction in Jackson, MI (MSA)                          | 1990-01-01          | 2022-11-01        |
+| JACK126NRMNN              | All Employees: Mining, Logging, and Construction in Jackson, MI (MSA)                          | 1990-01-01          | 2022-11-01        |
+| JACK126PBSV               | All Employees: Professional and Business Services in Jackson, MI (MSA)                         | 1990-01-01          | 2022-11-01        |
+| JACK126PBSVN              | All Employees: Professional and Business Services in Jackson, MI (MSA)                         | 1990-01-01          | 2022-11-01        |
 | JACK126PCPI               | Per Capita Personal Income in Jackson, MI (MSA)                                                | 1969-01-01          | 2021-01-01        |
-| JACK126SRVO               | All Employees: Other Services in Jackson, MI (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| JACK126SRVON              | All Employees: Other Services in Jackson, MI (MSA)                                             | 1990-01-01          | 2022-10-01        |
-| JACK126TRAD               | All Employees: Trade, Transportation, and Utilities in Jackson, MI (MSA)                       | 1990-01-01          | 2022-10-01        |
-| JACK126TRADN              | All Employees: Trade, Transportation, and Utilities in Jackson, MI (MSA)                       | 1990-01-01          | 2022-10-01        |
+| JACK126SRVO               | All Employees: Other Services in Jackson, MI (MSA)                                             | 1990-01-01          | 2022-11-01        |
+| JACK126SRVON              | All Employees: Other Services in Jackson, MI (MSA)                                             | 1990-01-01          | 2022-11-01        |
+| JACK126TRAD               | All Employees: Trade, Transportation, and Utilities in Jackson, MI (MSA)                       | 1990-01-01          | 2022-11-01        |
+| JACK126TRADN              | All Employees: Trade, Transportation, and Utilities in Jackson, MI (MSA)                       | 1990-01-01          | 2022-11-01        |
 | JACK126UR                 | Unemployment Rate in Jackson, MI (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | JACK126URN                | Unemployment Rate in Jackson, MI (MSA)                                                         | 1990-01-01          | 2022-10-01        |
 | JAKPOP                    | Resident Population in Jackson, MI (MSA)                                                       | 2000-01-01          | 2021-01-01        |
@@ -103,50 +103,50 @@
 | PRIREDCOUYY27100          | Housing Inventory: Price Reduced Count Year-Over-Year in Jackson, MI (CBSA)                    | 2017-07-01          | 2022-11-01        |
 | QGMP27100                 | Total Quantity Indexes for Real GDP for Jackson, MI (MSA)                                      | 2001-01-01          | 2021-01-01        |
 | RGMP27100                 | Total Real Gross Domestic Product for Jackson, MI (MSA)                                        | 2001-01-01          | 2021-01-01        |
-| RPI27100                  | Real Personal Income for Jackson, MI (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPI27140                  | Real Personal Income for Jackson, MS (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPI27180                  | Real Personal Income for Jackson, TN (MSA)                                                     | 2008-01-01          | 2020-01-01        |
-| RPIPC27100                | Real Per Capita Personal Income for Jackson, MI (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPIPC27140                | Real Per Capita Personal Income for Jackson, MS (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPIPC27180                | Real Per Capita Personal Income for Jackson, TN (MSA)                                          | 2008-01-01          | 2020-01-01        |
-| RPPALL27100               | Regional Price Parities: All Items for Jackson, MI (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPALL27140               | Regional Price Parities: All Items for Jackson, MS (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPALL27180               | Regional Price Parities: All Items for Jackson, TN (MSA)                                       | 2008-01-01          | 2020-01-01        |
-| RPPGOOD27100              | Regional Price Parities: Goods for Jackson, MI (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPGOOD27140              | Regional Price Parities: Goods for Jackson, MS (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPGOOD27180              | Regional Price Parities: Goods for Jackson, TN (MSA)                                           | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH27100          | Regional Price Parities: Services: Other for Jackson, MI (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH27140          | Regional Price Parities: Services: Other for Jackson, MS (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVEOTH27180          | Regional Price Parities: Services: Other for Jackson, TN (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT27100         | Regional Price Parities: Services: Rents for Jackson, MI (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT27140         | Regional Price Parities: Services: Rents for Jackson, MS (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| RPPSERVERENT27180         | Regional Price Parities: Services: Rents for Jackson, TN (MSA)                                 | 2008-01-01          | 2020-01-01        |
-| SMS26271000000000026      | All Employees: Total Nonfarm in Jackson, MI (MSA)                                              | 1990-04-01          | 2022-10-01        |
+| RPI27100                  | Real Personal Income for Jackson, MI (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPI27140                  | Real Personal Income for Jackson, MS (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPI27180                  | Real Personal Income for Jackson, TN (MSA)                                                     | 2008-01-01          | 2021-01-01        |
+| RPIPC27100                | Real Per Capita Personal Income for Jackson, MI (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPIPC27140                | Real Per Capita Personal Income for Jackson, MS (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPIPC27180                | Real Per Capita Personal Income for Jackson, TN (MSA)                                          | 2008-01-01          | 2021-01-01        |
+| RPPALL27100               | Regional Price Parities: All Items for Jackson, MI (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPALL27140               | Regional Price Parities: All Items for Jackson, MS (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPALL27180               | Regional Price Parities: All Items for Jackson, TN (MSA)                                       | 2008-01-01          | 2021-01-01        |
+| RPPGOOD27100              | Regional Price Parities: Goods for Jackson, MI (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPGOOD27140              | Regional Price Parities: Goods for Jackson, MS (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPGOOD27180              | Regional Price Parities: Goods for Jackson, TN (MSA)                                           | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH27100          | Regional Price Parities: Services: Other for Jackson, MI (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH27140          | Regional Price Parities: Services: Other for Jackson, MS (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVEOTH27180          | Regional Price Parities: Services: Other for Jackson, TN (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT27100         | Regional Price Parities: Services: Rents for Jackson, MI (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT27140         | Regional Price Parities: Services: Rents for Jackson, MS (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| RPPSERVERENT27180         | Regional Price Parities: Services: Rents for Jackson, TN (MSA)                                 | 2008-01-01          | 2021-01-01        |
+| SMS26271000000000026      | All Employees: Total Nonfarm in Jackson, MI (MSA)                                              | 1990-04-01          | 2022-11-01        |
 | SMU26271000000000001A     | All Employees: Total Nonfarm in Jackson, MI (MSA)                                              | 1958-01-01          | 2021-01-01        |
-| SMU26271000500000001      | All Employees: Total Private in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-10-01        |
+| SMU26271000500000001      | All Employees: Total Private in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-11-01        |
 | SMU26271000500000001A     | All Employees: Total Private in Jackson, MI (MSA)                                              | 1990-01-01          | 2021-01-01        |
-| SMU26271000500000001SA    | All Employees: Total Private in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-10-01        |
-| SMU26271000500000002      | Average Weekly Hours of All Employees: Total Private in Jackson, MI (MSA)                      | 2007-01-01          | 2022-10-01        |
+| SMU26271000500000001SA    | All Employees: Total Private in Jackson, MI (MSA)                                              | 1990-01-01          | 2022-11-01        |
+| SMU26271000500000002      | Average Weekly Hours of All Employees: Total Private in Jackson, MI (MSA)                      | 2007-01-01          | 2022-11-01        |
 | SMU26271000500000002A     | Average Weekly Hours of All Employees: Total Private in Jackson, MI (MSA)                      | 2007-01-01          | 2021-01-01        |
-| SMU26271000500000003      | Average Hourly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2022-10-01        |
+| SMU26271000500000003      | Average Hourly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2022-11-01        |
 | SMU26271000500000003A     | Average Hourly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU26271000500000011      | Average Weekly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2022-10-01        |
+| SMU26271000500000011      | Average Weekly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2022-11-01        |
 | SMU26271000500000011A     | Average Weekly Earnings of All Employees: Total Private in Jackson, MI (MSA)                   | 2007-01-01          | 2021-01-01        |
-| SMU26271000600000001      | All Employees: Goods Producing in Jackson, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
+| SMU26271000600000001      | All Employees: Goods Producing in Jackson, MI (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SMU26271000600000001A     | All Employees: Goods Producing in Jackson, MI (MSA)                                            | 1990-01-01          | 2021-01-01        |
-| SMU26271000600000001SA    | All Employees: Goods Producing in Jackson, MI (MSA)                                            | 1990-01-01          | 2022-10-01        |
-| SMU26271000700000001      | All Employees: Service-Providing in Jackson, MI (MSA)                                          | 1990-01-01          | 2022-10-01        |
+| SMU26271000600000001SA    | All Employees: Goods Producing in Jackson, MI (MSA)                                            | 1990-01-01          | 2022-11-01        |
+| SMU26271000700000001      | All Employees: Service-Providing in Jackson, MI (MSA)                                          | 1990-01-01          | 2022-11-01        |
 | SMU26271000700000001A     | All Employees: Service-Providing in Jackson, MI (MSA)                                          | 1990-01-01          | 2021-01-01        |
-| SMU26271000700000001SA    | All Employees: Service-Providing in Jackson, MI (MSA)                                          | 1990-01-01          | 2022-10-01        |
-| SMU26271000800000001      | All Employees: Private Service Providing in Jackson, MI (MSA)                                  | 1990-01-01          | 2022-10-01        |
+| SMU26271000700000001SA    | All Employees: Service-Providing in Jackson, MI (MSA)                                          | 1990-01-01          | 2022-11-01        |
+| SMU26271000800000001      | All Employees: Private Service Providing in Jackson, MI (MSA)                                  | 1990-01-01          | 2022-11-01        |
 | SMU26271000800000001A     | All Employees: Private Service Providing in Jackson, MI (MSA)                                  | 1990-01-01          | 2021-01-01        |
-| SMU26271000800000001SA    | All Employees: Private Service Providing in Jackson, MI (MSA)                                  | 1990-01-01          | 2022-10-01        |
+| SMU26271000800000001SA    | All Employees: Private Service Providing in Jackson, MI (MSA)                                  | 1990-01-01          | 2022-11-01        |
 | SMU26271001500000001A     | All Employees: Mining, Logging, and Construction in Jackson, MI (MSA)                          | 1990-01-01          | 2021-01-01        |
 | SMU26271003000000001A     | All Employees: Manufacturing in Jackson, MI (MSA)                                              | 1990-01-01          | 2021-01-01        |
 | SMU26271004000000001A     | All Employees: Trade, Transportation, and Utilities in Jackson, MI (MSA)                       | 1990-01-01          | 2021-01-01        |
-| SMU26271004200000001      | All Employees: Retail Trade in Jackson, MI (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU26271004200000001      | All Employees: Retail Trade in Jackson, MI (MSA)                                               | 1990-01-01          | 2022-11-01        |
 | SMU26271004200000001A     | All Employees: Retail Trade in Jackson, MI (MSA)                                               | 1990-01-01          | 2021-01-01        |
-| SMU26271004200000001SA    | All Employees: Retail Trade in Jackson, MI (MSA)                                               | 1990-01-01          | 2022-10-01        |
+| SMU26271004200000001SA    | All Employees: Retail Trade in Jackson, MI (MSA)                                               | 1990-01-01          | 2022-11-01        |
 | SMU26271005000000001A     | All Employees: Information in Jackson, MI (MSA)                                                | 1990-01-01          | 2021-01-01        |
 | SMU26271005500000001A     | All Employees: Financial Activities in Jackson, MI (MSA)                                       | 2001-01-01          | 2021-01-01        |
 | SMU26271006000000001A     | All Employees: Professional and Business Services in Jackson, MI (MSA)                         | 1990-01-01          | 2021-01-01        |
