@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "PATENTCBSA000153",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined Statistical Area in Washington",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
@@ -20,8 +20,8 @@
   },
   "Tennessee": {
     "id": "PATENTCBSA000147",
-    "realtime_start": "2022-04-06",
-    "realtime_end": "2022-04-06",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined Statistical Area in Tennessee",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
@@ -32,15 +32,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2021-04-06 12:32:07-05",
-    "popularity": 0,
-    "group_popularity": 0,
+    "popularity": 1,
+    "group_popularity": 1,
     "notes": "Utility patents are patents for invention. Patent origin is determined by the residence of the first-named inventor.\n\nSee Explanation of Data (https://www.uspto.gov/web/offices/ac/ido/oeip/taf/cls_cbsa/explan_cls_cbsa.htm) and Types of Patent Applications and Proceedings (https://www.uspto.gov/patents/basics/types-patent-applications/design-patent-application-guide) for more information.",
     "path": "Database/U.S. Regional Data/States/Tennessee"
   },
   "Texas": {
     "id": "PATENTCBSA000148",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined Statistical Area in Texas",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
@@ -58,8 +58,8 @@
   },
   "Utah": {
     "id": "PATENTCBSA000149",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined Statistical Area in Utah",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",
@@ -77,8 +77,8 @@
   },
   "Virginia": {
     "id": "PATENTCBSA000151",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "U.S. Granted Utility Patents Originating in an Undetermined Statistical Area in Virginia",
     "observation_start": "2000-01-01",
     "observation_end": "2015-01-01",

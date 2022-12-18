@@ -2,18 +2,18 @@
   "Hours per Week_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000003200000007",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Average Weekly Hours of Production Employees: Manufacturing: Non-Durable Goods in West Virginia",
       "observation_start": "2003-01-01",
-      "observation_end": "2022-10-01",
+      "observation_end": "2022-11-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Hours per Week",
       "units_short": "Hours per Week",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-11-19 02:10:40-06",
+      "last_updated": "2022-12-17 02:04:18-06",
       "popularity": 1,
       "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/West Virginia"
@@ -97,8 +97,8 @@
   "Hours per Week_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000003200000007A",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Average Weekly Hours of Production Employees: Manufacturing: Non-Durable Goods in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",

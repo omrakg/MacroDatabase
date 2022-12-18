@@ -2,8 +2,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003232200001A",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
     },
     "Tennessee": {
       "id": "SMU47000003232200001A",
-      "realtime_start": "2022-04-06",
-      "realtime_end": "2022-04-06",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Tennessee",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
     },
     "Texas": {
       "id": "SMU48000003232200001SA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2018-12-01",
@@ -57,8 +57,8 @@
     },
     "Washington": {
       "id": "SMU53000003232200001A",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -77,8 +77,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000003232200001",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2018-12-01",
@@ -95,8 +95,8 @@
     },
     "Tennessee": {
       "id": "SMU47000003232200001A",
-      "realtime_start": "2022-04-06",
-      "realtime_end": "2022-04-06",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Tennessee",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -113,8 +113,8 @@
     },
     "Washington": {
       "id": "SMU53000003232200001A",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -131,8 +131,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000003232200001A",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",
@@ -151,8 +151,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Texas": {
       "id": "SMU48000003232200001SA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2018-12-01",
@@ -170,8 +170,8 @@
     },
     "Tennessee": {
       "id": "SMU47000003232200001A",
-      "realtime_start": "2022-04-06",
-      "realtime_end": "2022-04-06",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Tennessee",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -188,8 +188,8 @@
     },
     "Washington": {
       "id": "SMU53000003232200001A",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -206,8 +206,8 @@
     },
     "Wisconsin": {
       "id": "SMU55000003232200001A",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "All Employees: Non-Durable Goods: Paper Manufacturing in Wisconsin",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",

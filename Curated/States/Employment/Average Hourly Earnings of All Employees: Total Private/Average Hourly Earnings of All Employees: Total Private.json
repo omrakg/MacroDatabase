@@ -2,18 +2,18 @@
   "Dollars per Hour_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000000500000003",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Average Hourly Earnings of All Employees: Total Private in Wyoming",
       "observation_start": "2007-01-01",
-      "observation_end": "2022-10-01",
+      "observation_end": "2022-11-01",
       "frequency": "Monthly",
       "frequency_short": "M",
       "units": "Dollars per Hour",
       "units_short": "$ per Hour",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-11-19 02:07:05-06",
+      "last_updated": "2022-12-17 02:03:39-06",
       "popularity": 1,
       "group_popularity": 1,
       "path": "Database/U.S. Regional Data/States/Wyoming"
@@ -192,8 +192,8 @@
   "Dollars per Hour_Annual_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000000500000003A",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Average Hourly Earnings of All Employees: Total Private in Wyoming",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

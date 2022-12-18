@@ -9433,6 +9433,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -9469,6 +9470,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -9505,6 +9507,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -9540,6 +9543,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -9620,76 +9624,6 @@
         "Washington",
         "West Virginia",
         "Wisconsin"
-      ],
-      "Dollars per Hour_Annual_Not Seasonally Adjusted": [
-        "Tennessee",
-        "Kansas",
-        "Louisiana",
-        "Maine",
-        "Maryland",
-        "Massachusetts",
-        "Michigan",
-        "Minnesota",
-        "Mississippi",
-        "Montana",
-        "Nebraska",
-        "Nevada",
-        "New Hampshire",
-        "New Jersey",
-        "New Mexico",
-        "New York",
-        "North Carolina",
-        "North Dakota",
-        "Ohio",
-        "Oklahoma",
-        "Oregon",
-        "Pennsylvania",
-        "Rhode Island",
-        "South Carolina",
-        "South Dakota",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin",
-        "Wyoming"
-      ],
-      "Percent Change from Year Ago_Annual_Not Seasonally Adjusted": [
-        "Tennessee",
-        "Kansas",
-        "Louisiana",
-        "Maine",
-        "Maryland",
-        "Massachusetts",
-        "Michigan",
-        "Minnesota",
-        "Mississippi",
-        "Montana",
-        "Nebraska",
-        "Nevada",
-        "New Hampshire",
-        "New Jersey",
-        "New Mexico",
-        "New York",
-        "North Carolina",
-        "North Dakota",
-        "Ohio",
-        "Oklahoma",
-        "Oregon",
-        "Pennsylvania",
-        "Rhode Island",
-        "South Carolina",
-        "South Dakota",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin",
-        "Wyoming"
       ]
     },
     "Employment for Private Nonfarm": {
@@ -9840,43 +9774,6 @@
         "Washington",
         "West Virginia",
         "Wisconsin"
-      ],
-      "Thousands of Persons_Annual_Not Seasonally Adjusted": [
-        "Tennessee",
-        "Kansas",
-        "Kentucky",
-        "Louisiana",
-        "Maine",
-        "Maryland",
-        "Massachusetts",
-        "Michigan",
-        "Minnesota",
-        "Mississippi",
-        "Missouri",
-        "Montana",
-        "Nebraska",
-        "Nevada",
-        "New Hampshire",
-        "New Jersey",
-        "New Mexico",
-        "New York",
-        "North Carolina",
-        "North Dakota",
-        "Ohio",
-        "Oklahoma",
-        "Oregon",
-        "Pennsylvania",
-        "Rhode Island",
-        "South Carolina",
-        "South Dakota",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin",
-        "Wyoming"
       ]
     },
     "Unemployed: Job Losers": {
@@ -13471,17 +13368,6 @@
         "Washington",
         "West Virginia",
         "Wisconsin"
-      ]
-    },
-    "Output per Employee for Private Nonfarm": {
-      "Output per Employee for Private Nonfarm": [
-        "Tennessee"
-      ],
-      "Index 2012=100_Annual_Not Seasonally Adjusted": [
-        "Tennessee"
-      ],
-      "Percent Change from Year Ago_Annual_Not Seasonally Adjusted": [
-        "Tennessee"
       ]
     },
     "All Employees Arts, Entertainment, and Recreation": {
@@ -30798,12 +30684,11 @@
         "Wisconsin"
       ],
       "2020 CPI-U-RS Adjusted Dollars_Annual_Not Seasonally Adjusted": [
-        "Tennessee",
+        "Missouri",
         "Maine",
         "Michigan",
         "Minnesota",
         "Mississippi",
-        "Missouri",
         "Montana",
         "Nebraska",
         "Nevada",
@@ -30820,6 +30705,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37537,6 +37423,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37575,6 +37462,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37613,6 +37501,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37652,6 +37541,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37689,6 +37579,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37726,6 +37617,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37765,6 +37657,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37802,6 +37695,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37839,6 +37733,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37877,6 +37772,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37913,6 +37809,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -37949,6 +37846,7 @@
         "Rhode Island",
         "South Carolina",
         "South Dakota",
+        "Tennessee",
         "Texas",
         "Utah",
         "Vermont",
@@ -38854,39 +38752,6 @@
         "Washington",
         "West Virginia",
         "Wisconsin"
-      ]
-    },
-    "Output for Private Nonfarm": {
-      "Output for Private Nonfarm": [
-        "Tennessee"
-      ],
-      "Index 2012=100_Annual_Not Seasonally Adjusted": [
-        "Tennessee"
-      ],
-      "Percent Change from Year Ago_Annual_Not Seasonally Adjusted": [
-        "Tennessee"
-      ]
-    },
-    "Implicit Output Deflator for Private Nonfarm": {
-      "Implicit Output Deflator for Private Nonfarm": [
-        "Tennessee"
-      ],
-      "Index 2012=100_Annual_Not Seasonally Adjusted": [
-        "Tennessee"
-      ],
-      "Percent Change from Year Ago_Annual_Not Seasonally Adjusted": [
-        "Tennessee"
-      ]
-    },
-    "Value of Production for Private Nonfarm": {
-      "Value of Production for Private Nonfarm": [
-        "Tennessee"
-      ],
-      "Millions of Dollars_Annual_Not Seasonally Adjusted": [
-        "Tennessee"
-      ],
-      "Percent Change from Year Ago_Annual_Not Seasonally Adjusted": [
-        "Tennessee"
       ]
     },
     "Current General Business Activity; Percentage Reporting Decreases": {

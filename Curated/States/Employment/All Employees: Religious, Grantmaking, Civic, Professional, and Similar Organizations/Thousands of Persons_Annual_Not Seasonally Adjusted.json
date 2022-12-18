@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000008081300001A",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "All Employees: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Virginia": {
     "id": "SMU51000008081300001A",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "All Employees: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Virginia",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Washington": {
     "id": "SMU53000008081300001A",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "All Employees: Religious, Grantmaking, Civic, Professional, and Similar Organizations in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

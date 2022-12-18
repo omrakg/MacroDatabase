@@ -1,8 +1,8 @@
 {
   "Wisconsin": {
     "id": "SMU55000003231100001A",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "All Employees: Non-Durable Goods: Food Manufacturing in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "Tennessee": {
     "id": "SMU47000003231100001A",
-    "realtime_start": "2022-04-06",
-    "realtime_end": "2022-04-06",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "All Employees: Non-Durable Goods: Food Manufacturing in Tennessee",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -55,8 +55,8 @@
   },
   "Texas": {
     "id": "SMU48000003231100001A",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "All Employees: Non-Durable Goods: Food Manufacturing in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -73,8 +73,8 @@
   },
   "Vermont": {
     "id": "SMU50000003231100001A",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "All Employees: Non-Durable Goods: Food Manufacturing in Vermont",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",
@@ -91,8 +91,8 @@
   },
   "Washington": {
     "id": "SMU53000003231100001A",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "All Employees: Non-Durable Goods: Food Manufacturing in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2021-01-01",

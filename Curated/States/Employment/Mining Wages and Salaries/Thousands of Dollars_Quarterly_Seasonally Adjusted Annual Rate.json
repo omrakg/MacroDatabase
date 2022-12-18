@@ -1,8 +1,8 @@
 {
   "Hawaii": {
     "id": "HIWMIN",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Mining Wages and Salaries in Hawaii",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALWMIN",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Mining Wages and Salaries in Alabama",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKWMIN",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Mining Wages and Salaries in Alaska",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZWMIN",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Mining Wages and Salaries in Arizona",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Delaware": {
     "id": "DEWMIN",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Mining Wages and Salaries in Delaware",
     "observation_start": "2002-01-01",
     "observation_end": "2022-04-01",
