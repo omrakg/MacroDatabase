@@ -1,0 +1,21 @@
+{
+  "NROUST": {
+    "id": "NROUST",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
+    "title": "Natural Rate of Unemployment (Short-Term) (DISCONTINUED)",
+    "observation_start": "1949-01-01",
+    "observation_end": "2031-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Percent",
+    "units_short": "%",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2021-02-01 14:37:07-06",
+    "popularity": 54,
+    "group_popularity": 54,
+    "notes": "This series last appeared in the February, 2021 report: NROU (https://fred.stlouisfed.org/series/NROU)), formerly called \"Natural Rate of Unemployment (Long-Term).\"\n\nThe natural rate of unemployment (NAIRU) is the rate of unemployment arising from all sources except fluctuations in aggregate demand. Estimates of potential GDP are based on the long-term natural rate. (CBO did not make explicit adjustments to the short-term natural rate for structural factors before the recent downturn.) The short-term natural rate incorporates structural factors that are temporarily boosting the natural rate beginning in 2008. The short-term natural rate is used to gauge the amount of current and projected slack in labor markets, which is a key input into CBO's projections of inflation.",
+    "path": "Database/Population, Employment, & Labor Markets"
+  }
+}
