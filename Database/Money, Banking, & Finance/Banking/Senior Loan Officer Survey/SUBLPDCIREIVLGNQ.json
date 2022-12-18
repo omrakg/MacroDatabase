@@ -1,0 +1,18 @@
+{
+  "id": "SUBLPDCIREIVLGNQ",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Number of Large Domestic Banks That Eased and Reported That Improvement in Industry-Specific Problems Was a Very Important Reason",
+  "observation_start": "1992-04-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Number of Responses",
+  "units_short": "Number of Responses",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-12-14 11:45:12-06",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This data series is part of the Board of Governors of the Federal Reserve System's Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS). The purpose of the survey is to provide qualitative and limited quantitative information on bank credit availability and loan demand, as well as on evolving developments and lending practices in the U.S. loan markets. A portion of each survey typically covers special topics of timely interest. For more detail, refer to the Board's supporting statement (https://www.federalreserve.gov/data/sloos/about.htm)."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "RCCCBBALREV",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Large Bank Consumer Credit Card Balances: Revolving Balances Only",
+  "observation_start": "2012-07-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Quarterly, End of Quarter",
+  "frequency_short": "Q",
+  "units": "Billions of U.S. Dollars",
+  "units_short": "Bil. of U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-03 10:27:07-05",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "The total revolved dollar balances as of quarter end for accounts that revolved all or some portion of their cycle ending balance. Revolving balances are calculated for these revolving accounts as the sum total of the prior cycle ending balances less actual payments made on the prior cycle ending balances. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
+}

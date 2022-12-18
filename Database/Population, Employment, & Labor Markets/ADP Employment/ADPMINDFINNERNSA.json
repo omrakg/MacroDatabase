@@ -1,7 +1,7 @@
 {
   "id": "ADPMINDFINNERNSA",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Nonfarm Private Payroll Employment for Financial Activities",
   "observation_start": "2010-01-01",
   "observation_end": "2022-11-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-30 07:26:08-06",
   "popularity": 1,
-  "group_popularity": 3
+  "group_popularity": 4
 }

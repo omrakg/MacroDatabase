@@ -1,7 +1,7 @@
 {
   "id": "CPMNACNSAB1GQPL",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Gross Domestic Product for Poland",
   "observation_start": "1995-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-07 04:01:21-06",
-  "popularity": 5,
-  "group_popularity": 17,
+  "popularity": 3,
+  "group_popularity": 14,
   "notes": "Eurostat unit ID: CP_MNAC\nEurostat item ID = B1GQ\nEurostat country ID: PL\n\nCopyright, European Union, http://ec.europa.eu, 1995-2016. Complete terms of use are available at http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright"
 }

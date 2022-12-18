@@ -1,7 +1,7 @@
 {
   "id": "ARGCP120000GYM",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Consumer Price Index: Miscellaneous goods and services (COICOP 12): Total: Total for Argentina",
   "observation_start": "2017-12-01",
   "observation_end": "2022-09-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-14 15:02:11-06",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "OECD descriptor ID: CP120000 OECD unit ID: GY OECD country ID: ARG All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission."
 }

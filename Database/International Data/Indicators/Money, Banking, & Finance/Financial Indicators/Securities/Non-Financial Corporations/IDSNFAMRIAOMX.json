@@ -1,7 +1,7 @@
 {
   "id": "IDSNFAMRIAOMX",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Amount Outstanding of International Debt Securities for Issuers in Non-Financial Corporations (Corporate Issuers), All Maturities, Residence of Issuer in Mexico",
   "observation_start": "1972-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-05 11:02:30-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "This series appears in Table 11d.\nSource Code: Q:MX:3P:J:1:C:A:A:TO1:A:A:A:A:A:I\n\nNationality refers to the ultimate obligor, as opposed to the immediate borrower on a residence basis, and is linked to the consolidation of assets and liabilities for related entities. Information on a nationality basis is useful to analyse potential support that might be available from the parent company and to understand links between borrowers in different countries and sectors.\nFor example, the debts of a Cayman Islands subsidiary of a Brazilian bank may be guaranteed by the parent bank. Consistent with the approach taken in the international banking statistics, the BIS bases the nationality of an issuer on the residency of its controlling parent, regardless of any intermediate owners. (December 2012, BIS Quarterly Review, https://www.bis.org/publ/qtrpdf/r_qt1212h.pdf)\n\nCopyright, 2016, Bank for International Settlements (BIS). Terms and conditions of use are available at http://www.bis.org/terms_conditions.htm#Copyright_and_Permissions."
 }

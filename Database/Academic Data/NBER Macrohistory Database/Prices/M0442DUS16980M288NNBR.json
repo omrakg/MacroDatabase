@@ -1,0 +1,18 @@
+{
+  "id": "M0442DUS16980M288NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wholesale Price of Steel Scrap, Heavy Melting for Chicago, IL",
+  "observation_start": "1894-09-01",
+  "observation_end": "1958-04-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Long Ton",
+  "units_short": "$ Per Long Ton",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:37-05",
+  "popularity": 8,
+  "group_popularity": 8,
+  "notes": "Series Is Presented Here As Four Variables--(1)--Original Data, 1873-1890 (2)--Original Data, 1890-1892; (3)--Original Data, 1889-1894 (7)--Original Data, 1894-1958. Data Are Averages Of Weekly Quotations. Discrepancies Between Bls Figures And Those Reported In Iron Age Were Checked By Averaging Weekly Figures In Iron Age. In Most Cases The Iron Age Monthly Figures Were Incorrectly Computed. March, 1951-May, 1952 And August, 1952-January, 1953 Prices Reflect The Ops Basing Point Price Ceiling. The Figure For April, 1958, Is For Three Weeks Only Source: Iron Age, Weekly Issues, For Data From 1894-1900. For The Years 1901-1912, Data Were Taken From Iron Age, January 2, 1902, P.10, January 1, 1903, P.48, And January 7, 1915, P.15. 1913-1939 Data Are From Bls Bulletins And \"Wholesale Prices\" And Iron Age, January 4, 1923, P.74, January 4, 1940, And Following Issues.\n\nThis NBER data series m04142d appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04142d"
+}

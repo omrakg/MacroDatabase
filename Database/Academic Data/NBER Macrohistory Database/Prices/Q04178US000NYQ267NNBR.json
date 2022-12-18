@@ -1,0 +1,18 @@
+{
+  "id": "Q04178US000NYQ267NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wholesale Price of Copper Wire for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1924-10-01",
+  "frequency": "Quarterly",
+  "frequency_short": "Q",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:46:16-05",
+  "popularity": 1,
+  "group_popularity": 3,
+  "notes": "1890-1900 Data Are Price Per Pound In New York The First Of Each Quarter. 1901-1917 Data Are Prices As Of The First Of Each Month. 1918-1931 Data Are The Average Of Daily Quotations. 1932-1951 Data Are The Average Of One Day Per Week'S Prices. Bls Ceased Reporting Two Decimal Places In December, 1916. Quarterly Figures Are The Quarterly Averages Of Monthly Average Prices For The Period 1918-1931. Source: Bls Bulletins And Wholesale Prices\n\nThis NBER data series q04178 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: q04178"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "M04161US000NYM267NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wholesale Price of Straits Tin, Pigs for New York",
+  "observation_start": "1880-01-01",
+  "observation_end": "1958-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:25-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "For 1880-1884, Data Are The Average Of Weekly Quotations, Computed By NBER. 1885-1958 Data Are Average Of Daily Quotations, Given Direct. Mineral Industry Is The Statistical Supplement To The Engineering And Mining Journal. Beginning In 1918, \"Approximate Averages Based On Sales Of Straits And Other Grades Of Pure Tin For Delivery, For The Most Part In Small Lots.\" The Market Was Strictly Nominal 12/12/1917-12/31/1917. The Figure 86.0 Was Used For Those Dates As An Arbitrative Basis In Computing The Month'S Average. See The Source Cited Above. (Metal Statistics, 1927, P.333) Source: For 1880-1882, January Review Issues Of Engineering And Mining Journal; For 1883-1884, Weekly Issues Of Same; For 1885-1889, Mineral Industry, 1893, P.612, 1897, P.646, 1902, P.596; For 1900-1957, Metal Statistics; American Metal Market Thereafter (Data May Also Be Found In Survey Of Current Business).\n\nThis NBER data series m04161 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04161"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "PCU3162131621",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Producer Price Index by Industry: Footwear Manufacturing",
+  "observation_start": "2003-12-01",
+  "observation_end": "2022-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 2003=100",
+  "units_short": "Index Dec 2003=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-12-09 07:55:22-06",
+  "popularity": 8,
+  "group_popularity": 9
+}

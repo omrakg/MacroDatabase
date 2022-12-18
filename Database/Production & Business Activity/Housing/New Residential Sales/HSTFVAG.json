@@ -1,7 +1,7 @@
 {
   "id": "HSTFVAG",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Houses Sold by Type of Financing, Veteran's Administration (VA) Guaranteed",
   "observation_start": "1988-01-01",
   "observation_end": "2022-07-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-26 09:01:24-05",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 4,
+  "group_popularity": 4
 }

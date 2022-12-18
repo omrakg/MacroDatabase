@@ -1,0 +1,17 @@
+{
+  "id": "M4233MM157NCEN",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Lumber and Other Construction Materials Sales",
+  "observation_start": "1992-02-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-12-09 15:07:22-06",
+  "popularity": 1,
+  "group_popularity": 5
+}

@@ -1,7 +1,7 @@
 {
   "id": "WPU10170502",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Steel Wire, Stainless Steel",
   "observation_start": "2010-12-01",
   "observation_end": "2022-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-15 07:51:02-06",
   "popularity": 70,
-  "group_popularity": 70
+  "group_popularity": 69
 }

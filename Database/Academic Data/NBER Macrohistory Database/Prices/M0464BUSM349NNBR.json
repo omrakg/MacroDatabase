@@ -1,0 +1,18 @@
+{
+  "id": "M0464BUSM349NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Index of Wholesale Prices of Lumber for United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1954-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1947-1949=100",
+  "units_short": "Index 1947-1949=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:32-05",
+  "popularity": 3,
+  "group_popularity": 16,
+  "notes": "Series Is Presented Here As Two Variables-- (1)--Original Data, 1913-1951 (2)--Original Data, 1947-1954. This Variable Includes\"Lumber And Wood Products\" In Source; Coverage Not Entirely Comparable To Index In Preceeding Variable (Series 04164--Original Data, 1913-1951). Data For January And February, 1954 Are Unrevised. Source: Bls \"Wholesale Price Index (1947-49=100)\", Indexes For Groups, Subgroups, And Product Classes Of Commodities, 1947-1951, Issued February, 1952, For 1947-1950; Monthly Release On Wholesale (Primary Market) Price Index, 1952 And Following For 1951 And 1953/4; Bls Bulletin No. 1143, For 1952.\n\nThis NBER data series m04164b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04164b"
+}

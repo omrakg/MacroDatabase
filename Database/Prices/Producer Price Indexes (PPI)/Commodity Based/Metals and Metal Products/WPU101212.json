@@ -1,7 +1,7 @@
 {
   "id": "WPU101212",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Stainless and Other Alloy Steel Scrap",
   "observation_start": "1986-12-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:51:38-06",
-  "popularity": 13,
-  "group_popularity": 28
+  "popularity": 14,
+  "group_popularity": 29
 }

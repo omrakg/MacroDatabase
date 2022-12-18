@@ -1,7 +1,7 @@
 {
   "id": "A108RE1A156NBEA",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Shares of gross domestic income: Current surplus of government enterprises",
   "observation_start": "1959-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-12 14:00:23-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "BEA Account Code: A108RE\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

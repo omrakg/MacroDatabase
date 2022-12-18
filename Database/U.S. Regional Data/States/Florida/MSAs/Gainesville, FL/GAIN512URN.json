@@ -1,7 +1,7 @@
 {
   "id": "GAIN512URN",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Unemployment Rate in Gainesville, FL (MSA)",
   "observation_start": "1990-01-01",
   "observation_end": "2022-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-01 10:24:08-06",
   "popularity": 3,
-  "group_popularity": 4
+  "group_popularity": 3
 }

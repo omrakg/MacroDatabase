@@ -1,0 +1,18 @@
+{
+  "id": "M0423AUS000NYM264NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wholesale Price of Pennsylvania Motor Gasoline for New York",
+  "observation_start": "1913-01-01",
+  "observation_end": "1921-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Gallon",
+  "units_short": "Cents Per Gallon",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:54:46-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1913-1921 (2)--Original Data, 1918-1940. For 1913-1918, This Series Consists Of Wholesale Prices Of Pennsylvania Motor Gasoline, Tank Wagon At New York, First Saturday Of Every Month. For 1918 On, Pennsylvania Motor Gasoline, Refinery Price Is Used (Heaviest Weighted Of Bls Gasoline Price Series). Source: Bls Bulletins\n\nThis NBER data series m04123a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04123a"
+}

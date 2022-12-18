@@ -1,0 +1,18 @@
+{
+  "id": "RCCCBSHRFULL",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Large Bank Consumer Credit Card Balances: Share of Accounts Making Full Balance Payment",
+  "observation_start": "2012-07-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Quarterly, End of Quarter",
+  "frequency_short": "Q",
+  "units": "Percent",
+  "units_short": "%",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-03 10:27:09-05",
+  "popularity": 11,
+  "group_popularity": 11,
+  "notes": "The share of credit card accounts paying the full account balance. Payment behavior (Active Accounts Only) variables indicate the payment behavior of active credit card accounts in the final month of the quarter. When an account has a zero-cycle ending balance, the prior month's payment behavior is used to properly classify the account. Payment behavior shares do not sum to 100 percent because active accounts with a zero or negative cycle ending balance or missing payment information are not shown nor are active accounts that made no payment or a payment that was less than the minimum. Active credit card accounts are defined as credit card accounts that are open and have had debit, credit, or balance activity in the last 12 months. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
+}

@@ -1,7 +1,7 @@
 {
   "id": "A587RC1Q027SBEA",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Corporate profits with inventory valuation and capital consumption adjustments: Domestic industries: Financial",
   "observation_start": "1948-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-11-30 07:54:02-06",
-  "popularity": 9,
-  "group_popularity": 10,
+  "popularity": 8,
+  "group_popularity": 8,
   "notes": "BEA Account Code: A587RC\n\nThis series is based on the 1987 Standard Industrial Classification (SIC).For more information about this series, please see http://www.bea.gov/national/."
 }

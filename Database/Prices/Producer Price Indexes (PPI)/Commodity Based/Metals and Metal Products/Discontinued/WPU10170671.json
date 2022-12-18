@@ -1,7 +1,7 @@
 {
   "id": "WPU10170671",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Producer Price Index by Commodity for Metals and Metal Products: Oil Country Tubular Goods (OCTG), Standard, Line Pipe, Carbon (DISCONTINUED)",
   "observation_start": "2010-12-01",
   "observation_end": "2017-02-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-07-13 09:11:13-05",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 6,
+  "group_popularity": 6
 }

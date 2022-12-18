@@ -1,7 +1,7 @@
 {
   "id": "CXU500110LB0402M",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Expenditures: Vehicle Insurance by Age: Under Age 25",
   "observation_start": "1984-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-09 11:37:49-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 1,
+  "group_popularity": 1,
   "notes": "Age refers to the reference person's age, where the reference person is the first member mentioned by the respondent when asked to \"Start with the name of the person or one of the persons who owns or rents the home.\" It is with respect to this person that the relationship of the other consumer unit members is determined.\n\nFor more details about the data or the survey, visit the FAQs (https://www.bls.gov/cex/csxfaqs.htm)."
 }

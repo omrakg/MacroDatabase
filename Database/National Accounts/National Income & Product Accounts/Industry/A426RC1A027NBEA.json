@@ -1,7 +1,7 @@
 {
   "id": "A426RC1A027NBEA",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "National income without capital consumption adjustment: Domestic private industries: Manufacturing",
   "observation_start": "1987-01-01",
   "observation_end": "2000-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-07-29 07:52:22-05",
   "popularity": 0,
-  "group_popularity": 4,
+  "group_popularity": 2,
   "notes": "BEA Account Code: A426RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

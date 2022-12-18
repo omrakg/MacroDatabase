@@ -1,0 +1,18 @@
+{
+  "id": "M04009DE00BERM370NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wool, Wholesale Price for Berlin, Germany",
+  "observation_start": "1879-01-01",
+  "observation_end": "1931-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Marks per 100 Kilograms",
+  "units_short": "Marks Per 100 Kilograms",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:04-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Prices For December, 1914-December, 1915 Were Fixed By The Government. There Were No Data For 1916-1920. Data For 1921-1923 Were Converted From Paper Marks To Gold Marks By NBER. Because Of Inflation, By 1923 Prices Had Ranged From 2,000,000 To 24,500,000,000 Paper Marks Per 100 Kilograms Of Wool. Data For August-December, 1923 Are Quoted Directly In Gold Marks And Are Prices From The 15Th Of The Month Instead Of Monthly Averages. Beginning In November, 1923, Prices Are From Leipzig. The Same Grade Of Wool Is Used. Source: 1879-1891, Monatshefte Zur Statistik; 1892-1915 And 1924- 1931, Vierteljahrshefte Zur Statistik; 1921-1923, Statistisches Jahrbuch.\n\nThis NBER data series m04009 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04009"
+}

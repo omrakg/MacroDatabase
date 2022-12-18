@@ -1,0 +1,17 @@
+{
+  "id": "PCU311612311612A3",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Producer Price Index by Industry: Meat Processed from Carcasses: Frozen Portion Control Meats, made from Purchased Carcasses (DISCONTINUED)",
+  "observation_start": "1988-12-01",
+  "observation_end": "2016-09-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index Dec 1988=100",
+  "units_short": "Index Dec 1988=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2016-10-14 10:14:11-05",
+  "popularity": 1,
+  "group_popularity": 1
+}

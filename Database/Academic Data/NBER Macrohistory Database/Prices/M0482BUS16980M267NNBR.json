@@ -1,0 +1,18 @@
+{
+  "id": "M0482BUS16980M267NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wholesale Price of Hides, Packer, Heavy Native Steers for Chicago, IL",
+  "observation_start": "1947-01-01",
+  "observation_end": "1958-02-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:47:27-05",
+  "popularity": 2,
+  "group_popularity": 2,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1951 (2)--Original Data, 1947-1958. According To Specification Description, \"Over 53 Pounds\" (Bls, Mimeographed, Specifications Of Group 4, Hides, Skins, Leather Products Group, Ls 52-2016, November, 1951); Code Number 04 11 11. Monthly Bls Bulletin Omits The Original Data Quotation For February, 1953 And Shows Only The Index. This Price Was Taken From The Survey Of Current Business, April, 1954. Source: Bls, \"Prices And Price Relatives For Individual Commodities In The Revised Index, 1947-1950, \" Group 4: Hides, Skins, And Leather Products (February, 1952); Similarly Titled Publication For January- November, 1951: Vol. 1, Prices (February, 1952); December, 1951 Through February, 1958; From Monthly Issues Of Wholesale Price Index, Prices And Price Relatives For Individual Commodities.\n\nThis NBER data series m04082b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04082b"
+}

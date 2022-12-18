@@ -1,7 +1,7 @@
 {
   "id": "U4RATENSA",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Total Unemployed Plus Discouraged Workers, as a Percent of the Civilian Labor Force Plus Discouraged Workers (U-4)",
   "observation_start": "1994-01-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-02 07:43:11-06",
-  "popularity": 25,
-  "group_popularity": 43,
+  "popularity": 22,
+  "group_popularity": 39,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU03327707"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "M04214USM350NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Index of Wholesale Prices of Raw or Slightly Processed Goods for the United States",
+  "observation_start": "1947-01-01",
+  "observation_end": "1966-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1957-1959=100",
+  "units_short": "Index 1957-1959=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:53:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "1947-1961 Change Of Base. Data (1947-1949=100) Multiplied By 1.0020319 (Rebasing Figure Given In Bls Bulletin No. 1411). The Data For 1947-1961 As Published In Bls Sources Was Given On A 1947-1949=100 Base. The Conversion Factor (Shown Above) Is Used To Rebase Data To 1957-1959=100. This Is Checked With Historical Data Sheet, Mimeographed And Released By Bls For Period 1947-November, 1961 On 1957-1959=100 Base. Source: Bls Bulletin No. 1235, \"Wholesale Prices And Price Indexes: 1957\" For 1947-1957; Bls Bulletin No. 1257 For 1958; 1959-1960: Wholesale Prices And Price Indexes (Monthly); For 1961, Bulletin No. 1382; For 1962, Bulletin No. 1411; For 1963-1965 Data, March Issues Of Monthly Labor Review; For 01/1966-11/1966.\n\nThis NBER data series m04214 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04214"
+}

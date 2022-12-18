@@ -1,0 +1,18 @@
+{
+  "id": "RCCCBACTIVEBALPCT90",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Large Bank Consumer Credit Card Balances: Account Balance: Active Accounts Only: 90th Percentile",
+  "observation_start": "2012-07-01",
+  "observation_end": "2022-04-01",
+  "frequency": "Quarterly, End of Quarter",
+  "frequency_short": "Q",
+  "units": "U.S. Dollars",
+  "units_short": "U.S. $",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2022-10-03 10:27:05-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The 90th percentile account balance among active credit card accounts. The total outstanding balance for the account at the end of the current month's cycle. Active credit card accounts are defined as credit card accounts that are open and have had debit, credit, or balance activity in the last 12 months. Therefore, some credit card accounts that are defined as active will have a zero balance. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
+}

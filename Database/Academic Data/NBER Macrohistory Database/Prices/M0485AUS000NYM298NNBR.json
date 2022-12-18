@@ -1,0 +1,18 @@
+{
+  "id": "M0485AUS000NYM298NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wholesale Price of Pine, Yellow, Siding for New York",
+  "observation_start": "1890-01-01",
+  "observation_end": "1916-11-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Dollars per Thousand Feet",
+  "units_short": "$ Per Thous. Feet",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:57:33-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Is Presented Here As Two Variables--(1)-- Original Data, 1890-1916 (2)--Original Data, 1914-1940. Quotations From New York Lumber Trade Journal 1890-1901 Computed From Range. Prices Are For Yellow Pine Sidings, Long Leaf, Boards, Heart-Fare, 1 Inch X 1 1/4 Inch. Prices For 1890-1916, First Of Month Data. No Quotations For July, 1910, June, 1911, July, 1912, July, 1915; Data Interpolated. No Data For July, 1913. Data For August, 1910, From New York Lumber Trade Journal. In December, 1916, The Grade Was Dropped From The Table In New York Lumber Trade Journal. In 1915 And 1916, Quotations Are Labelled F.O.B. New York But There Is No Break In The Series. Source: Bls Bulletin Nos. 39 (Pp. 422-423), 45, 51, 57, 63, 69, 75, 81, 87, 93, 99, 114, 149, 181, 200, 226, And Engineering News Research Files.\n\nThis NBER data series m04085a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04085a"
+}

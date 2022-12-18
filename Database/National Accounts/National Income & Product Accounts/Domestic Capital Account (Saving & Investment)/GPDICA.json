@@ -1,7 +1,7 @@
 {
   "id": "GPDICA",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Real Gross Private Domestic Investment",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:45:41-05",
-  "popularity": 8,
-  "group_popularity": 61,
+  "popularity": 9,
+  "group_popularity": 60,
   "notes": "BEA Account Code: A006RX\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

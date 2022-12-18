@@ -1,7 +1,7 @@
 {
   "id": "CORFLACBN",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Charge-Off Rate on Farmland Loans, Booked in Domestic Offices, All Commercial Banks",
   "observation_start": "1991-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-23 13:33:53-06",
-  "popularity": 2,
-  "group_popularity": 3,
+  "popularity": 3,
+  "group_popularity": 5,
   "notes": "Charge-off rates are annualized, net of recoveries."
 }

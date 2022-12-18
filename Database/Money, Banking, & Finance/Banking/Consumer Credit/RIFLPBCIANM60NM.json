@@ -1,7 +1,7 @@
 {
   "id": "RIFLPBCIANM60NM",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan",
   "observation_start": "2006-08-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-07 14:02:03-05",
-  "popularity": 52,
-  "group_popularity": 52,
+  "popularity": 53,
+  "group_popularity": 53,
   "notes": "For further information, please refer to the Board of Governors of the Federal Reserve System's G.19 release, online at http://www.federalreserve.gov/releases/g19/."
 }

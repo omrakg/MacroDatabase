@@ -1,7 +1,7 @@
 {
   "id": "WPU10230201",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Solids and Clippings, New Aluminum Base Scrap",
   "observation_start": "1986-12-01",
   "observation_end": "2021-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2021-12-14 08:01:38-06",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 2,
+  "group_popularity": 2
 }

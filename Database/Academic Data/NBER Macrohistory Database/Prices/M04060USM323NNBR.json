@@ -1,0 +1,18 @@
+{
+  "id": "M04060USM323NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Index of Farm Prices of Meat Animals for United States",
+  "observation_start": "1910-01-01",
+  "observation_end": "1966-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Index 1910-1914=100",
+  "units_short": "Index 1910-1914=100",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:55:44-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "The Average Per Unit Production Payments Made On Beef Cattle, Sheep, And Lambs Are Included For The Period July, 1943-June, 1946. Revised Index Linked To Former Index At September, 1952. Source: Agricultural Prices, May 15, 1955, Supplement No. 1, P.50 For 1910-September, 1952; Agricultural Prices, February, 1959, For October, 1952-1957; Agricultural Prices, May, 1961, For 1958; Agricultural Prices, May, 1962, For 1959-1960; Agricultural Prices, May, 1964, For 1961-1963; Monthly Issues Of Agricultural Prices, 1964-1966, For 1963-1966.\n\nThis NBER data series m04060 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04060"
+}

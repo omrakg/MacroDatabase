@@ -1,7 +1,7 @@
 {
   "id": "WPU064101312",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Soybean Oil, All Other Types",
   "observation_start": "2007-12-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:51:49-06",
-  "popularity": 10,
-  "group_popularity": 10
+  "popularity": 9,
+  "group_popularity": 9
 }

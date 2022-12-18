@@ -1,0 +1,18 @@
+{
+  "id": "M04094US16980M267NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wholesale Price of Oleomargarine for Chicago, IL",
+  "observation_start": "1913-01-01",
+  "observation_end": "1942-06-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Pound",
+  "units_short": "Cents Per Pound",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:48:59-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "This Is The Same Series That Appears In The Wholesale Price Bulletins Between 1917-1925. From 1926-1936 The Series Is Revised And Now Is A Continuous Series With 1937 And Following Years. 1913-1925 Data Is From Manufacturers And Represents A Daily Average; 1926-1942 Data Is From The National Provisioner And Represents The Average Of One-Day-A-Week Prices. These Two Series Are Not Strictly Comparable. After 05/20/1931 Quotations For The Grade Formerly Used Were No Longer Published And A New Lower Grade Was Used. Overlapping Weekly Averages From The Second Segment Are As Follows: 1930-- Jan:19.50; Feb:19.50; Mr:19.50; Ap: 19.50; My:19.50; Jun:19.50; Jul:18.70; Aug:18.50; Sept:18.50; Oct:18.50; Nov:18.50; Dec:17.70; 1931-- Jan:17.50; Feb:15.88; Mr:14.00; Apr:13.80; My:12.75 Source: Copied From Bls Files By NBER\n\nThis NBER data series m04094 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04094"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BOPSEXP",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Exports of Services, Balance of Payments Basis",
+  "observation_start": "1992-01-01",
+  "observation_end": "2022-10-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Millions of Dollars",
+  "units_short": "Mil. of $",
+  "seasonal_adjustment": "Seasonally Adjusted",
+  "seasonal_adjustment_short": "SA",
+  "last_updated": "2022-12-06 07:51:08-06",
+  "popularity": 7,
+  "group_popularity": 7,
+  "notes": "Further information related to the international trade data can be found at https://www.census.gov/foreign-trade/data/index.html \nMethodology details can be found at https://www.census.gov/foreign-trade/Press-Release/current_press_release/explain.pdf"
+}

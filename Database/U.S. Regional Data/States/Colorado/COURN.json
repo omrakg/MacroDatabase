@@ -1,7 +1,7 @@
 {
   "id": "COURN",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Unemployment Rate in Colorado",
   "observation_start": "1976-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-18 12:17:16-06",
-  "popularity": 7,
-  "group_popularity": 36
+  "popularity": 5,
+  "group_popularity": 35
 }

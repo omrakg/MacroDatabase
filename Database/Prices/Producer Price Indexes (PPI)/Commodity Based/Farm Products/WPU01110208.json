@@ -1,7 +1,7 @@
 {
   "id": "WPU01110208",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Producer Price Index by Commodity: Farm Products: Granny Smith Apples",
   "observation_start": "1991-12-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:52:51-06",
-  "popularity": 3,
-  "group_popularity": 3
+  "popularity": 2,
+  "group_popularity": 2
 }

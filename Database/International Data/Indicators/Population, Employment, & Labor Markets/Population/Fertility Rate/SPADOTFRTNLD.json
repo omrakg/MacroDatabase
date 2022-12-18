@@ -1,7 +1,7 @@
 {
   "id": "SPADOTFRTNLD",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Adolescent Fertility Rate for the Netherlands",
   "observation_start": "1960-01-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-05-03 14:05:17-05",
-  "popularity": 1,
-  "group_popularity": 1,
+  "popularity": 2,
+  "group_popularity": 2,
   "notes": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19.\n\nSource Indicator: SP.ADO.TFRT"
 }

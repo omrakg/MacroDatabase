@@ -1,7 +1,7 @@
 {
   "id": "Y0000C1Q027SBEA",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Consumption of fixed capital: Private: Domestic business: Capital consumption allowances",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-11-30 07:54:11-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "BEA Account Code: Y0000C\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

@@ -1,7 +1,7 @@
 {
   "id": "COMPUNETSA",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "New Privately-Owned Housing Units Completed: Total Units in the Northeast Census Region",
   "observation_start": "1979-01-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-11-17 07:31:30-06",
-  "popularity": 2,
-  "group_popularity": 3
+  "popularity": 3,
+  "group_popularity": 6
 }

@@ -1,7 +1,7 @@
 {
   "id": "MEPAINUSNEA646N",
-  "realtime_start": "2022-11-20",
-  "realtime_end": "2022-11-20",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Median Personal Income in Northeast Census Region",
   "observation_start": "1974-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-13 13:48:20-05",
-  "popularity": 15,
-  "group_popularity": 15,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "People 15 years old and over beginning with March 1980, and people 14 years old and over as of March of the following year for previous years."
 }

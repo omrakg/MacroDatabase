@@ -1,7 +1,7 @@
 {
   "id": "CP0000EU28M086NEST",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Harmonized Index of Consumer Prices: All Items for European Union (28 countries)",
   "observation_start": "1999-12-01",
   "observation_end": "2020-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2020-02-21 07:12:02-06",
-  "popularity": 8,
-  "group_popularity": 8,
+  "popularity": 7,
+  "group_popularity": 7,
   "notes": "Copyright, European Union, 1995-2016, http://ec.europa.eu/geninfo/legal_notices_en.htm#copyright."
 }

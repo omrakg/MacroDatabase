@@ -1,7 +1,7 @@
 {
   "id": "JTU510099JOR",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Job Openings: Financial Activities",
   "observation_start": "2000-12-01",
   "observation_end": "2022-10-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-30 09:04:31-06",
-  "popularity": 1,
-  "group_popularity": 9
+  "popularity": 2,
+  "group_popularity": 8
 }

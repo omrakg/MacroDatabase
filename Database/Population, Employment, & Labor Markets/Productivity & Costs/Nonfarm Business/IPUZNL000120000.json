@@ -1,7 +1,7 @@
 {
   "id": "IPUZNL000120000",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Labor Productivity for Private Nonfarm in Florida",
   "observation_start": "2007-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-06-14 12:32:11-05",
   "popularity": 1,
-  "group_popularity": 1,
+  "group_popularity": 2,
   "notes": "Labor productivity describes the efficiency at which labor hours are utilized in producing output of goods and services, measured as output per hour of labor."
 }

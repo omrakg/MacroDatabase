@@ -1,0 +1,18 @@
+{
+  "id": "M0486AUSM271NNBR",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
+  "title": "Wholesale Price of Print Cloth, Mills for United States",
+  "observation_start": "1890-01-01",
+  "observation_end": "1913-12-01",
+  "frequency": "Monthly",
+  "frequency_short": "M",
+  "units": "Cents per Yard",
+  "units_short": "Cents Per Yard",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2012-08-16 14:51:52-05",
+  "popularity": 1,
+  "group_popularity": 1,
+  "notes": "Series Has Been Subdivided Into Four Variables: (1)-- Original Data, 1890-1913; (2)--Original Data, 1914-1943; (3)-- Original Data, 1943-1946; (4)--Original Data, 1946-1958. Data Refers To Print Cloth, 28\", 64X64 And Are The Monthly Averages Of Weekly Prices. Data From 1890-1901 Were Computed By NBER. Source: Bls Bulletin No. 39, Pp. 364-365, And Following Issues\n\nThis NBER data series m04086a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04086a"
+}

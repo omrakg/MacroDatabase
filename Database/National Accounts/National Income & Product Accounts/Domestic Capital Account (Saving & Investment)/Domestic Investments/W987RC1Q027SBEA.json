@@ -1,7 +1,7 @@
 {
   "id": "W987RC1Q027SBEA",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Gross private domestic investment: Domestic business",
   "observation_start": "1960-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-11-30 07:52:18-06",
-  "popularity": 32,
-  "group_popularity": 32,
+  "popularity": 29,
+  "group_popularity": 29,
   "notes": "BEA Account Code: W987RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

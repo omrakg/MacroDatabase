@@ -1,7 +1,7 @@
 {
   "id": "WPU10740553",
-  "realtime_start": "2022-12-11",
-  "realtime_end": "2022-12-11",
+  "realtime_start": "2022-12-18",
+  "realtime_end": "2022-12-18",
   "title": "Producer Price Index by Commodity: Metals and Metal Products: Fabricated Structural Metal for Bridges",
   "observation_start": "2007-12-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:52:31-06",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 3,
+  "group_popularity": 3
 }
