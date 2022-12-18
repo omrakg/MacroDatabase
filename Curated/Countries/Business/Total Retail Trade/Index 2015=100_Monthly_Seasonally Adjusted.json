@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRSARTMISMEI",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Total Retail Trade in Israel",
     "observation_start": "1995-01-01",
     "observation_end": "2022-08-01",
@@ -20,8 +20,8 @@
   },
   "Iceland": {
     "id": "ISLSARTQISMEI",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Total Retail Trade in Iceland",
     "observation_start": "1991-01-01",
     "observation_end": "2017-10-01",

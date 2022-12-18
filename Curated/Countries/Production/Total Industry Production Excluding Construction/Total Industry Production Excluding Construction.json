@@ -2,8 +2,8 @@
   "Growth rate previous period_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRINTO01RUA657S",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Total Industry Production Excluding Construction for the Russian Federation",
       "observation_start": "1994-01-01",
       "observation_end": "2021-01-01",
@@ -18,13 +18,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: GPSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
+    },
+    "India": {
+      "id": "PRINTO01INQ661N",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Total Industry Production Excluding Construction for India",
+      "observation_start": "1994-04-01",
+      "observation_end": "2022-04-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-11-14 14:30:54-06",
+      "popularity": 1,
+      "group_popularity": 3,
+      "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth rate same period previous year_Annual_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRINTO01RUA659S",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Total Industry Production Excluding Construction for the Russian Federation",
       "observation_start": "1994-01-01",
       "observation_end": "2021-01-01",
@@ -39,13 +58,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: GYSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
+    },
+    "India": {
+      "id": "PRINTO01INQ661N",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Total Industry Production Excluding Construction for India",
+      "observation_start": "1994-04-01",
+      "observation_end": "2022-04-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-11-14 14:30:54-06",
+      "popularity": 1,
+      "group_popularity": 3,
+      "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRINTO01RUA661N",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Total Industry Production Excluding Construction for the Russian Federation",
       "observation_start": "1993-01-01",
       "observation_end": "2021-01-01",
@@ -60,13 +98,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
+    },
+    "India": {
+      "id": "PRINTO01INQ661N",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Total Industry Production Excluding Construction for India",
+      "observation_start": "1994-04-01",
+      "observation_end": "2022-04-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-11-14 14:30:54-06",
+      "popularity": 1,
+      "group_popularity": 3,
+      "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth rate previous period_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRINTO01RUQ657S",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Total Industry Production Excluding Construction for the Russian Federation",
       "observation_start": "1993-04-01",
       "observation_end": "2021-10-01",
@@ -81,13 +138,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: GPSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
+    },
+    "India": {
+      "id": "PRINTO01INQ661N",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Total Industry Production Excluding Construction for India",
+      "observation_start": "1994-04-01",
+      "observation_end": "2022-04-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-11-14 14:30:54-06",
+      "popularity": 1,
+      "group_popularity": 3,
+      "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Growth rate same period previous year_Quarterly_Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRINTO01RUQ659S",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Total Industry Production Excluding Construction for the Russian Federation",
       "observation_start": "1994-01-01",
       "observation_end": "2021-10-01",
@@ -102,13 +178,32 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: GYSA\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
+    },
+    "India": {
+      "id": "PRINTO01INQ661N",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Total Industry Production Excluding Construction for India",
+      "observation_start": "1994-04-01",
+      "observation_end": "2022-04-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-11-14 14:30:54-06",
+      "popularity": 1,
+      "group_popularity": 3,
+      "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Russian Federation": {
       "id": "PRINTO01RUQ661N",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Total Industry Production Excluding Construction for the Russian Federation",
       "observation_start": "1993-01-01",
       "observation_end": "2021-10-01",
@@ -123,6 +218,25 @@
       "group_popularity": 1,
       "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Russian Federation"
+    },
+    "India": {
+      "id": "PRINTO01INQ661N",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Total Industry Production Excluding Construction for India",
+      "observation_start": "1994-04-01",
+      "observation_end": "2022-04-01",
+      "frequency": "Quarterly",
+      "frequency_short": "Q",
+      "units": "Index 2015=100",
+      "units_short": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-11-14 14:30:54-06",
+      "popularity": 1,
+      "group_popularity": 3,
+      "notes": "OECD descriptor ID: PRINTO01\nOECD unit ID: IXOB\nOECD country ID: IND\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+      "path": "Database/International Data/Countries/India"
     }
   }
 }

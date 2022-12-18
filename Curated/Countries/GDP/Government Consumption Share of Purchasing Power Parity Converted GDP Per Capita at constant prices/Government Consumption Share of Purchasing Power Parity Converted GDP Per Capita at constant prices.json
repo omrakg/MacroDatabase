@@ -1,8 +1,8 @@
 {
   "Ukraine": {
     "id": "KGPPPGUAA156NUPN",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices for Ukraine",
     "observation_start": "1993-01-01",
     "observation_end": "2010-01-01",
@@ -20,8 +20,8 @@
   },
   "Suriname": {
     "id": "KGPPPGSRA156NUPN",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Government Consumption Share of Purchasing Power Parity Converted GDP Per Capita at constant prices for Suriname",
     "observation_start": "1970-01-01",
     "observation_end": "2010-01-01",

@@ -2,8 +2,8 @@
   "Persons_Annual_Not Seasonally Adjusted": {
     "Chile": {
       "id": "LFEASETTCLA647N",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Employment - by Economic Activity: Services: All Persons for Chile",
       "observation_start": "1986-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Persons_Annual_Seasonally Adjusted": {
     "Chile": {
       "id": "LFEASETTCLA647S",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Employment - by Economic Activity: Services: All Persons for Chile",
       "observation_start": "1986-01-01",
       "observation_end": "2021-01-01",
@@ -44,8 +44,8 @@
   "Persons_Monthly_Not Seasonally Adjusted": {
     "Chile": {
       "id": "LFEASETTCLM647N",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Employment - by Economic Activity: Services: All Persons for Chile",
       "observation_start": "1986-01-01",
       "observation_end": "2022-08-01",
@@ -65,8 +65,8 @@
   "Persons_Monthly_Seasonally Adjusted": {
     "Chile": {
       "id": "LFEASETTCLM647S",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Employment - by Economic Activity: Services: All Persons for Chile",
       "observation_start": "1986-01-01",
       "observation_end": "2022-08-01",
@@ -86,8 +86,8 @@
   "Persons_Quarterly_Not Seasonally Adjusted": {
     "Chile": {
       "id": "LFEASETTCLQ647N",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Employment - by Economic Activity: Services: All Persons for Chile",
       "observation_start": "1986-01-01",
       "observation_end": "2022-07-01",
@@ -107,8 +107,8 @@
   "Persons_Quarterly_Seasonally Adjusted": {
     "Chile": {
       "id": "LFEASETTCLQ647S",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Employment - by Economic Activity: Services: All Persons for Chile",
       "observation_start": "1986-01-01",
       "observation_end": "2022-07-01",

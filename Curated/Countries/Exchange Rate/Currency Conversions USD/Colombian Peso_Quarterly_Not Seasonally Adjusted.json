@@ -1,8 +1,8 @@
 {
   "Colombia": {
     "id": "COLCCUSSP02STQ",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Currency Conversions: US$ exchange rate: Spot, end of period: National currency:USD for Colombia",
     "observation_start": "1960-01-01",
     "observation_end": "2021-10-01",
@@ -20,8 +20,8 @@
   },
   "Costa Rica": {
     "id": "CRICCUSSP02STQ",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Currency Conversions: US$ exchange rate: Spot, end of period: National currency:USD for Costa Rica",
     "observation_start": "1960-01-01",
     "observation_end": "2022-07-01",
@@ -39,8 +39,8 @@
   },
   "Latvia": {
     "id": "LVACCUSSP02STQ",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Currency Conversions: US$ exchange rate: Spot, end of period: National currency:USD for Latvia",
     "observation_start": "1992-01-01",
     "observation_end": "2022-07-01",
@@ -58,8 +58,8 @@
   },
   "Lithuania": {
     "id": "LTUCCUSSP02STQ",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Currency Conversions: US$ exchange rate: Spot, end of period: National currency:USD for Lithuania",
     "observation_start": "1992-01-01",
     "observation_end": "2022-07-01",

@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "LMUNRLTTRUA647N",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Registered Unemployment Level for the Russian Federation",
     "observation_start": "1992-01-01",
     "observation_end": "2021-01-01",
@@ -14,8 +14,27 @@
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-09-14 15:42:06-05",
     "popularity": 1,
-    "group_popularity": 3,
+    "group_popularity": 2,
     "notes": "OECD descriptor ID: LMUNRLTT\nOECD unit ID: ST\nOECD country ID: RUS\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Russian Federation"
+  },
+  "New Zealand": {
+    "id": "LMUNRLTTNZQ647S",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
+    "title": "Registered Unemployment Level for New Zealand",
+    "observation_start": "1970-01-01",
+    "observation_end": "2015-10-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "Persons",
+    "units_short": "Persons",
+    "seasonal_adjustment": "Seasonally Adjusted",
+    "seasonal_adjustment_short": "SA",
+    "last_updated": "2022-09-14 14:43:46-05",
+    "popularity": 0,
+    "group_popularity": 1,
+    "notes": "OECD descriptor ID: LMUNRLTT\nOECD unit ID: STSA\nOECD country ID: NZL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
+    "path": "Database/International Data/Countries/New Zealand"
   }
 }

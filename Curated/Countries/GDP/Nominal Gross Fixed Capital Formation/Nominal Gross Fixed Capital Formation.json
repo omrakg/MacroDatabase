@@ -1,11 +1,11 @@
 {
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
-    "Saudi Arabia": {
-      "id": "NFINSAXDCSAQ",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
-      "title": "Nominal Gross Fixed Capital Formation for Saudi Arabia",
-      "observation_start": "2005-01-01",
+    "India": {
+      "id": "NFINSAXDCINQ",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Nominal Gross Fixed Capital Formation for India",
+      "observation_start": "2004-04-01",
       "observation_end": "2022-04-01",
       "frequency": "Quarterly",
       "frequency_short": "Q",
@@ -13,15 +13,15 @@
       "units_short": "Domestic Currency",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-09-19 07:10:07-05",
-      "popularity": 2,
-      "group_popularity": 2,
-      "path": "Database/International Data/Countries/Saudi Arabia"
+      "last_updated": "2022-09-19 07:10:08-05",
+      "popularity": 1,
+      "group_popularity": 1,
+      "path": "Database/International Data/Countries/India"
     },
     "Argentina": {
       "id": "NFIXDCARA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Nominal Gross Fixed Capital Formation for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -36,10 +36,28 @@
       "group_popularity": 1,
       "path": "Database/International Data/Countries/Argentina"
     },
+    "China": {
+      "id": "NFIXDCCNA",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Nominal Gross Fixed Capital Formation for China",
+      "observation_start": "1963-01-01",
+      "observation_end": "2019-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Domestic Currency",
+      "units_short": "Domestic Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-02-07 07:09:19-06",
+      "popularity": 2,
+      "group_popularity": 2,
+      "path": "Database/International Data/Countries/China"
+    },
     "Great Britain": {
       "id": "NFIXDCGBA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Nominal Gross Fixed Capital Formation for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -50,16 +68,16 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-10-31 07:09:03-05",
-      "popularity": 2,
-      "group_popularity": 4,
+      "popularity": 1,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Great Britain"
     }
   },
   "Domestic Currency_Quarterly_Seasonally Adjusted": {
     "Great Britain": {
       "id": "NFISAXDCGBQ",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Nominal Gross Fixed Capital Formation for Great Britain",
       "observation_start": "1955-01-01",
       "observation_end": "2022-07-01",
@@ -70,14 +88,14 @@
       "seasonal_adjustment": "Seasonally Adjusted",
       "seasonal_adjustment_short": "SA",
       "last_updated": "2022-11-28 07:09:11-06",
-      "popularity": 2,
-      "group_popularity": 4,
+      "popularity": 1,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Great Britain"
     },
     "Argentina": {
       "id": "NFIXDCARA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Nominal Gross Fixed Capital Formation for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -92,11 +110,29 @@
       "group_popularity": 1,
       "path": "Database/International Data/Countries/Argentina"
     },
-    "Saudi Arabia": {
-      "id": "NFIXDCSAA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
-      "title": "Nominal Gross Fixed Capital Formation for Saudi Arabia",
+    "China": {
+      "id": "NFIXDCCNA",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Nominal Gross Fixed Capital Formation for China",
+      "observation_start": "1963-01-01",
+      "observation_end": "2019-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Domestic Currency",
+      "units_short": "Domestic Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-02-07 07:09:19-06",
+      "popularity": 2,
+      "group_popularity": 2,
+      "path": "Database/International Data/Countries/China"
+    },
+    "India": {
+      "id": "NFIXDCINA",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Nominal Gross Fixed Capital Formation for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
       "frequency": "Annual",
@@ -105,18 +141,18 @@
       "units_short": "Domestic Currency",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-04-25 07:09:59-05",
+      "last_updated": "2022-06-20 07:10:19-05",
       "popularity": 1,
-      "group_popularity": 2,
-      "path": "Database/International Data/Countries/Saudi Arabia"
+      "group_popularity": 1,
+      "path": "Database/International Data/Countries/India"
     }
   },
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
-    "Saudi Arabia": {
-      "id": "NFIXDCSAA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
-      "title": "Nominal Gross Fixed Capital Formation for Saudi Arabia",
+    "India": {
+      "id": "NFIXDCINA",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Nominal Gross Fixed Capital Formation for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
       "frequency": "Annual",
@@ -125,15 +161,15 @@
       "units_short": "Domestic Currency",
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
-      "last_updated": "2022-04-25 07:09:59-05",
+      "last_updated": "2022-06-20 07:10:19-05",
       "popularity": 1,
-      "group_popularity": 2,
-      "path": "Database/International Data/Countries/Saudi Arabia"
+      "group_popularity": 1,
+      "path": "Database/International Data/Countries/India"
     },
     "Argentina": {
       "id": "NFIXDCARA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Nominal Gross Fixed Capital Formation for Argentina",
       "observation_start": "2004-01-01",
       "observation_end": "2021-01-01",
@@ -148,10 +184,28 @@
       "group_popularity": 1,
       "path": "Database/International Data/Countries/Argentina"
     },
+    "China": {
+      "id": "NFIXDCCNA",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
+      "title": "Nominal Gross Fixed Capital Formation for China",
+      "observation_start": "1963-01-01",
+      "observation_end": "2019-01-01",
+      "frequency": "Annual",
+      "frequency_short": "A",
+      "units": "Domestic Currency",
+      "units_short": "Domestic Currency",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "seasonal_adjustment_short": "NSA",
+      "last_updated": "2022-02-07 07:09:19-06",
+      "popularity": 2,
+      "group_popularity": 2,
+      "path": "Database/International Data/Countries/China"
+    },
     "Great Britain": {
       "id": "NFIXDCGBA",
-      "realtime_start": "2022-12-11",
-      "realtime_end": "2022-12-11",
+      "realtime_start": "2022-12-18",
+      "realtime_end": "2022-12-18",
       "title": "Nominal Gross Fixed Capital Formation for Great Britain",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -162,8 +216,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-10-31 07:09:03-05",
-      "popularity": 2,
-      "group_popularity": 4,
+      "popularity": 1,
+      "group_popularity": 2,
       "path": "Database/International Data/Countries/Great Britain"
     }
   }

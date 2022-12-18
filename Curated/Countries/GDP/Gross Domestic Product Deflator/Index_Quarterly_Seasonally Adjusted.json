@@ -1,8 +1,8 @@
 {
   "Great Britain": {
     "id": "NGDPDSAIXGBQ",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Gross Domestic Product Deflator for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2022-07-01",
@@ -13,14 +13,14 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-28 07:09:09-06",
-    "popularity": 10,
-    "group_popularity": 10,
+    "popularity": 5,
+    "group_popularity": 5,
     "path": "Database/International Data/Countries/Great Britain"
   },
   "Argentina": {
     "id": "NGDPDSAIXARQ",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
     "title": "Gross Domestic Product Deflator for Argentina",
     "observation_start": "2004-01-01",
     "observation_end": "2022-04-01",
@@ -31,26 +31,26 @@
     "seasonal_adjustment": "Seasonally Adjusted",
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-10-11 15:00:13-05",
-    "popularity": 2,
-    "group_popularity": 2,
+    "popularity": 4,
+    "group_popularity": 4,
     "path": "Database/International Data/Countries/Argentina"
   },
-  "Saudi Arabia": {
-    "id": "NGDPDIXSAA",
-    "realtime_start": "2022-12-11",
-    "realtime_end": "2022-12-11",
-    "title": "Gross Domestic Product Deflator for Saudi Arabia",
-    "observation_start": "2010-01-01",
-    "observation_end": "2021-01-01",
+  "China": {
+    "id": "NGDPDIXCNA",
+    "realtime_start": "2022-12-18",
+    "realtime_end": "2022-12-18",
+    "title": "Gross Domestic Product Deflator for China",
+    "observation_start": "1962-01-01",
+    "observation_end": "2020-01-01",
     "frequency": "Annual",
     "frequency_short": "A",
     "units": "Index",
     "units_short": "Index",
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
-    "last_updated": "2022-06-20 07:10:18-05",
-    "popularity": 1,
-    "group_popularity": 1,
-    "path": "Database/International Data/Countries/Saudi Arabia"
+    "last_updated": "2022-02-07 11:00:04-06",
+    "popularity": 9,
+    "group_popularity": 9,
+    "path": "Database/International Data/Countries/China"
   }
 }
