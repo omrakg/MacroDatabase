@@ -1,8 +1,8 @@
 {
   "India": {
     "id": "NSDGDPNSAXDCINQ",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Nominal Statistical Discrepancy for India",
     "observation_start": "2004-04-01",
     "observation_end": "2022-04-01",
@@ -19,8 +19,8 @@
   },
   "Argentina": {
     "id": "NSDGDPXDCARA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Nominal Statistical Discrepancy for Argentina",
     "observation_start": "2016-01-01",
     "observation_end": "2021-01-01",
@@ -37,8 +37,8 @@
   },
   "China": {
     "id": "NSDGDPXDCCNA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Nominal Statistical Discrepancy for China",
     "observation_start": "1980-01-01",
     "observation_end": "2019-01-01",
@@ -55,8 +55,8 @@
   },
   "Great Britain": {
     "id": "NSDGDPSAXDCGBQ",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Nominal Statistical Discrepancy for Great Britain",
     "observation_start": "1955-01-01",
     "observation_end": "2022-07-01",

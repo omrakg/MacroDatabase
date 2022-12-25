@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "LCEATT03RUM664S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Monthly Earnings: All Activities for the Russian Federation",
     "observation_start": "1996-01-01",
     "observation_end": "2021-11-01",
@@ -20,8 +20,8 @@
   },
   "Iceland": {
     "id": "LCEATT03ISQ661N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Monthly Earnings: All Activities for Iceland",
     "observation_start": "1989-01-01",
     "observation_end": "2022-07-01",
@@ -39,8 +39,8 @@
   },
   "Slovak Republic": {
     "id": "LCEATT03SKQ661N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Monthly Earnings: All Activities for the Slovak Republic",
     "observation_start": "1990-01-01",
     "observation_end": "2022-04-01",

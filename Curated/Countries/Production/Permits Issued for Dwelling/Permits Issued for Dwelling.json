@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPERMITAISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Hungary": {
       "id": "HUNPERMITQISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Hungary",
       "observation_start": "1998-01-01",
       "observation_end": "2022-04-01",
@@ -40,8 +40,8 @@
     },
     "Ireland": {
       "id": "IRLPERMITQISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Ireland",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -61,8 +61,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPERMITMISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-06-01",
@@ -80,8 +80,8 @@
     },
     "Hungary": {
       "id": "HUNPERMITQISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Hungary",
       "observation_start": "1998-01-01",
       "observation_end": "2022-04-01",
@@ -99,8 +99,8 @@
     },
     "Ireland": {
       "id": "IRLPERMITQISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Ireland",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",
@@ -120,8 +120,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Israel": {
       "id": "ISRPERMITQISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Israel",
       "observation_start": "1995-01-01",
       "observation_end": "2022-04-01",
@@ -139,8 +139,8 @@
     },
     "Hungary": {
       "id": "HUNPERMITQISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Hungary",
       "observation_start": "1998-01-01",
       "observation_end": "2022-04-01",
@@ -158,8 +158,8 @@
     },
     "Ireland": {
       "id": "IRLPERMITQISMEI",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Permits Issued for Dwelling in Ireland",
       "observation_start": "1992-01-01",
       "observation_end": "2022-04-01",

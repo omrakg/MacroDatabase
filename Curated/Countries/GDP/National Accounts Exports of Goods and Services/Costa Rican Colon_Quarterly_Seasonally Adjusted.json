@@ -1,8 +1,8 @@
 {
   "Costa Rica": {
     "id": "CRINAEXKP06STSAQ",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Costa Rica",
     "observation_start": "1991-01-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Colombia": {
     "id": "COLNAEXKP06STSAQ",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Constant Prices: Exports of Goods and Services for Colombia",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",

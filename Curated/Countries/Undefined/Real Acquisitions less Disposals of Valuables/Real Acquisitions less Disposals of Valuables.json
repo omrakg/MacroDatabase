@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "India": {
       "id": "NFIAXDRNSAXDCINQ",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Real Acquisitions less Disposals of Valuables for India",
       "observation_start": "2004-04-01",
       "observation_end": "2022-04-01",
@@ -22,8 +22,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "India": {
       "id": "NFIAXDRXDCINA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Real Acquisitions less Disposals of Valuables for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",

@@ -1,8 +1,8 @@
 {
   "Peru": {
     "id": "PERGGROPI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "General Government Revenue, interest income for Peru",
     "observation_start": "2008-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Barbados": {
     "id": "BRBGGROPI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "General Government Revenue, interest income for Barbados",
     "observation_start": "2008-01-01",
     "observation_end": "2021-01-01",
@@ -39,8 +39,8 @@
   },
   "Canada": {
     "id": "CANGGROPI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "General Government Revenue, interest income for Canada",
     "observation_start": "2008-01-01",
     "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   },
   "Chile": {
     "id": "CHLGGROPI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "General Government Revenue, interest income for Chile",
     "observation_start": "2008-01-01",
     "observation_end": "2021-01-01",
@@ -77,8 +77,8 @@
   },
   "Colombia": {
     "id": "COLGGROPI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "General Government Revenue, interest income for Colombia",
     "observation_start": "2008-01-01",
     "observation_end": "2021-01-01",
@@ -96,8 +96,8 @@
   },
   "Honduras": {
     "id": "HNDGGROPI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "General Government Revenue, interest income for Honduras",
     "observation_start": "2008-01-01",
     "observation_end": "2021-01-01",
@@ -115,8 +115,8 @@
   },
   "Nicaragua": {
     "id": "NICGGROPI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "General Government Revenue, interest income for Nicaragua",
     "observation_start": "2008-01-01",
     "observation_end": "2021-01-01",
@@ -134,8 +134,8 @@
   },
   "Panama": {
     "id": "PANGGROPI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "General Government Revenue, interest income for Panama",
     "observation_start": "2008-01-01",
     "observation_end": "2021-01-01",

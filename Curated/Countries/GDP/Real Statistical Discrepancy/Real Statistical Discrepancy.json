@@ -2,8 +2,8 @@
   "Domestic Currency_Quarterly_Not Seasonally Adjusted": {
     "India": {
       "id": "NSDGDPRNSAXDCINQ",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Real Statistical Discrepancy for India",
       "observation_start": "2004-04-01",
       "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
     },
     "Argentina": {
       "id": "NSDGDPRXDCARA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Real Statistical Discrepancy for Argentina",
       "observation_start": "2016-01-01",
       "observation_end": "2021-01-01",
@@ -38,8 +38,8 @@
     },
     "China": {
       "id": "NSDGDPRXDCCNA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Real Statistical Discrepancy for China",
       "observation_start": "1982-01-01",
       "observation_end": "2019-01-01",
@@ -58,8 +58,8 @@
   "Domestic Currency_Annual_Not Seasonally Adjusted": {
     "India": {
       "id": "NSDGDPRXDCINA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Real Statistical Discrepancy for India",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -76,8 +76,8 @@
     },
     "Argentina": {
       "id": "NSDGDPRXDCARA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Real Statistical Discrepancy for Argentina",
       "observation_start": "2016-01-01",
       "observation_end": "2021-01-01",
@@ -94,8 +94,8 @@
     },
     "China": {
       "id": "NSDGDPRXDCCNA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Real Statistical Discrepancy for China",
       "observation_start": "1982-01-01",
       "observation_end": "2019-01-01",

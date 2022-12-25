@@ -1,8 +1,8 @@
 {
   "Thailand": {
     "id": "TDSAMRIAOFCTH",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Thailand",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "TDSAMRIAOFCAR",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Argentina",
     "observation_start": "2001-10-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "China": {
     "id": "TDSAMRIAOFCCN",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in China",
     "observation_start": "2000-10-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Croatia": {
     "id": "TDSAMRIAOFCHR",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Croatia",
     "observation_start": "1995-10-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Cyprus": {
     "id": "TDSAMRIAOFCCY",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Cyprus",
     "observation_start": "2004-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Malaysia": {
     "id": "TDSAMRIAOFCMY",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Malaysia",
     "observation_start": "2005-01-01",
     "observation_end": "2022-04-01",
@@ -115,8 +115,8 @@
   },
   "Malta": {
     "id": "TDSAMRIAOFCMT",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Amount Outstanding of Total Debt Securities in Financial Corporations Sector, All Maturities, Residence of Issuer in Malta",
     "observation_start": "2004-01-01",
     "observation_end": "2022-04-01",

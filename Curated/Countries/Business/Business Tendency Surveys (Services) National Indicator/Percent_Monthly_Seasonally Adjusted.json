@@ -1,8 +1,8 @@
 {
   "Spain": {
     "id": "BVEMTE02ESM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Services): Employment: Tendency: National Indicator for Spain",
     "observation_start": "1996-10-01",
     "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
   },
   "Belgium": {
     "id": "BVEMTE02BEM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Services): Employment: Tendency: National Indicator for Belgium",
     "observation_start": "1995-01-01",
     "observation_end": "2022-10-01",
@@ -39,8 +39,8 @@
   },
   "Czech Republic": {
     "id": "BVEMTE02CZM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Services): Employment: Tendency: National Indicator for the Czech Republic",
     "observation_start": "2002-05-01",
     "observation_end": "2022-10-01",
@@ -58,8 +58,8 @@
   },
   "Denmark": {
     "id": "BVEMTE02DKM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Services): Employment: Tendency: National Indicator for Denmark",
     "observation_start": "2000-04-01",
     "observation_end": "2022-10-01",
@@ -77,8 +77,8 @@
   },
   "Estonia": {
     "id": "BVEMTE02EEM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Services): Employment: Tendency: National Indicator for Estonia",
     "observation_start": "2002-05-01",
     "observation_end": "2022-10-01",
@@ -96,8 +96,8 @@
   },
   "Finland": {
     "id": "BVEMTE02FIM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Services): Employment: Tendency: National Indicator for Finland",
     "observation_start": "1996-10-01",
     "observation_end": "2022-10-01",

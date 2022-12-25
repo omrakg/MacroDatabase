@@ -2,8 +2,8 @@
   "Percent_Annual_Not Seasonally Adjusted": {
     "Chile": {
       "id": "IRLTLT01CLA156N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Chile",
       "observation_start": "2005-01-01",
       "observation_end": "2021-01-01",
@@ -14,15 +14,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:47:18-05",
-      "popularity": 3,
-      "group_popularity": 17,
+      "popularity": 2,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: IRLTLT01\nOECD unit ID: ST\nOECD country ID: CHL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Chile"
     },
     "Canada": {
       "id": "IRLTLT01CAQ156N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-07-01",
@@ -33,8 +33,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:23:04-06",
-      "popularity": 9,
-      "group_popularity": 45,
+      "popularity": 8,
+      "group_popularity": 42,
       "notes": "OECD descriptor ID: IRLTLT01\nOECD unit ID: ST\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
     }
@@ -42,8 +42,8 @@
   "Percent_Monthly_Not Seasonally Adjusted": {
     "Chile": {
       "id": "IRLTLT01CLM156N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Chile",
       "observation_start": "2004-07-01",
       "observation_end": "2022-10-01",
@@ -55,14 +55,14 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:35:10-06",
       "popularity": 6,
-      "group_popularity": 17,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: IRLTLT01\nOECD unit ID: ST\nOECD country ID: CHL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Chile"
     },
     "Canada": {
       "id": "IRLTLT01CAQ156N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-07-01",
@@ -73,8 +73,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:23:04-06",
-      "popularity": 9,
-      "group_popularity": 45,
+      "popularity": 8,
+      "group_popularity": 42,
       "notes": "OECD descriptor ID: IRLTLT01\nOECD unit ID: ST\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
     }
@@ -82,8 +82,8 @@
   "Percent_Quarterly_Not Seasonally Adjusted": {
     "Chile": {
       "id": "IRLTLT01CLQ156N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Chile",
       "observation_start": "2004-07-01",
       "observation_end": "2022-07-01",
@@ -94,15 +94,15 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:23:03-06",
-      "popularity": 13,
-      "group_popularity": 17,
+      "popularity": 11,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: IRLTLT01\nOECD unit ID: ST\nOECD country ID: CHL\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Chile"
     },
     "Canada": {
       "id": "IRLTLT01CAQ156N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada",
       "observation_start": "1960-01-01",
       "observation_end": "2022-07-01",
@@ -113,8 +113,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:23:04-06",
-      "popularity": 9,
-      "group_popularity": 45,
+      "popularity": 8,
+      "group_popularity": 42,
       "notes": "OECD descriptor ID: IRLTLT01\nOECD unit ID: ST\nOECD country ID: CAN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/Canada"
     }

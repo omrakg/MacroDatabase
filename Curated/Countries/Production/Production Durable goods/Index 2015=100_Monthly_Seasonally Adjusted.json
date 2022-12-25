@@ -1,8 +1,8 @@
 {
   "India": {
     "id": "INDPRMNCG02IXOBSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Production: Manufacturing: Consumer goods: Durable goods for India",
     "observation_start": "1994-04-01",
     "observation_end": "2022-08-01",
@@ -20,8 +20,8 @@
   },
   "Belgium": {
     "id": "BELPRMNCG02IXOBSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Production: Manufacturing: Consumer goods: Durable goods for Belgium",
     "observation_start": "1960-01-01",
     "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
   },
   "Denmark": {
     "id": "DNKPRMNCG02IXOBSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Production: Manufacturing: Consumer goods: Durable goods for Denmark",
     "observation_start": "1974-01-01",
     "observation_end": "2022-08-01",
@@ -58,8 +58,8 @@
   },
   "Finland": {
     "id": "FINPRMNCG02IXOBSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Production: Manufacturing: Consumer goods: Durable goods for Finland",
     "observation_start": "1990-01-01",
     "observation_end": "2022-08-01",

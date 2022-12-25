@@ -1,8 +1,8 @@
 {
   "Russian Federation": {
     "id": "RUSCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Change in Stocks in Russian Federation",
     "observation_start": "2003-01-01",
     "observation_end": "2021-07-01",
@@ -20,8 +20,8 @@
   },
   "Hungary": {
     "id": "HUNCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Change in Stocks in Hungary",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Iceland": {
     "id": "ISLCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Change in Stocks in Iceland",
     "observation_start": "1995-01-01",
     "observation_end": "2022-01-01",
@@ -58,8 +58,8 @@
   },
   "India": {
     "id": "INDCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Change in Stocks in India",
     "observation_start": "2004-04-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Ireland": {
     "id": "IRLCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Change in Stocks in Ireland",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Italy": {
     "id": "ITACINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Change in Stocks in Italy",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",

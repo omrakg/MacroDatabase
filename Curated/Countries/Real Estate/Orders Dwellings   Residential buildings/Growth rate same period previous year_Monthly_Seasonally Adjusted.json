@@ -1,8 +1,8 @@
 {
   "Israel": {
     "id": "ISRODCNPI03GYSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Israel",
     "observation_start": "1996-01-01",
     "observation_end": "2022-06-01",
@@ -20,8 +20,8 @@
   },
   "Belgium": {
     "id": "BELODCNPI03MLSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Belgium",
     "observation_start": "1968-01-01",
     "observation_end": "2018-12-01",
@@ -39,8 +39,8 @@
   },
   "Canada": {
     "id": "CANODCNPI03MLSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Canada",
     "observation_start": "1960-01-01",
     "observation_end": "2022-08-01",
@@ -52,14 +52,14 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-14 14:59:49-06",
     "popularity": 2,
-    "group_popularity": 9,
+    "group_popularity": 5,
     "notes": "OECD descriptor ID: ODCNPI03 OECD unit ID: MLSA OECD country ID: CAN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Canada"
   },
   "Chile": {
     "id": "CHLODCNPI03STSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Chile",
     "observation_start": "1991-01-01",
     "observation_end": "2022-09-01",
@@ -77,8 +77,8 @@
   },
   "Colombia": {
     "id": "COLODCNPI03IXOBSAQ",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Colombia",
     "observation_start": "1986-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Denmark": {
     "id": "DNKODCNPI03MLSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Denmark",
     "observation_start": "1960-01-01",
     "observation_end": "2022-06-01",
@@ -109,14 +109,14 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-11-14 14:57:10-06",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 1,
     "notes": "OECD descriptor ID: ODCNPI03 OECD unit ID: MLSA OECD country ID: DNK All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Denmark"
   },
   "Finland": {
     "id": "FINODCNPI03STSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Finland",
     "observation_start": "1960-01-01",
     "observation_end": "2014-12-01",
@@ -134,8 +134,8 @@
   },
   "Hungary": {
     "id": "HUNODCNPI03IXOBM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Hungary",
     "observation_start": "1998-01-01",
     "observation_end": "2022-07-01",
@@ -153,8 +153,8 @@
   },
   "Spain": {
     "id": "ESPODCNPI03MLSAM",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Orders: Construction: Permits issued: Dwellings / Residential buildings for Spain",
     "observation_start": "1992-01-01",
     "observation_end": "2018-12-01",
@@ -166,7 +166,7 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2022-09-14 15:33:09-05",
     "popularity": 1,
-    "group_popularity": 2,
+    "group_popularity": 9,
     "notes": "OECD descriptor ID: ODCNPI03 OECD unit ID: MLSA OECD country ID: ESP All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/Spain"
   }

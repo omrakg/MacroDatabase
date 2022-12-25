@@ -1,8 +1,8 @@
 {
   "China": {
     "id": "COCHNZ31",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 1 for China",
     "observation_start": "2012-06-01",
     "observation_end": "2022-11-01",
@@ -20,8 +20,8 @@
   },
   "Canada": {
     "id": "COCANZ31",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Import Price Index by Origin (NAICS): Manufacturing, Part 1 for Canada",
     "observation_start": "2012-06-01",
     "observation_end": "2022-11-01",

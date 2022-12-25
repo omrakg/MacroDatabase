@@ -2,8 +2,8 @@
   "US Dollars, sum over component sub-periods_Quarterly_Not Seasonally Adjusted": {
     "China": {
       "id": "CHNB6DBTD01CXCUQ",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Balance of Payments BPM6: Current Account Debits: Goods: Total Debits for China (People's Republic Of)",
       "observation_start": "1998-01-01",
       "observation_end": "2022-04-01",
@@ -23,8 +23,8 @@
   "US Dollars, sum over component sub-periods_Quarterly_Seasonally Adjusted": {
     "China": {
       "id": "CHNB6DBTD01CXCUSAQ",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Balance of Payments BPM6: Current Account Debits: Goods: Total Debits for China (People's Republic Of)",
       "observation_start": "1998-01-01",
       "observation_end": "2022-04-01",
@@ -44,8 +44,8 @@
   "Yuan Renminbi, sum over component sub-periods_Quarterly_Not Seasonally Adjusted": {
     "China": {
       "id": "CHNB6DBTD01NCCUQ",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Balance of Payments BPM6: Current Account Debits: Goods: Total Debits for China (People's Republic Of)",
       "observation_start": "2010-01-01",
       "observation_end": "2022-04-01",
@@ -65,8 +65,8 @@
   "Yuan Renminbi, sum over component sub-periods_Quarterly_Seasonally Adjusted": {
     "China": {
       "id": "CHNB6DBTD01NCCUSAQ",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Balance of Payments BPM6: Current Account Debits: Goods: Total Debits for China (People's Republic Of)",
       "observation_start": "2010-01-01",
       "observation_end": "2022-04-01",

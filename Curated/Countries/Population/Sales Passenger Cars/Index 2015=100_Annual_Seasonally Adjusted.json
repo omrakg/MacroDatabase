@@ -1,8 +1,8 @@
 {
   "Spain": {
     "id": "ESPSACRAISMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Spain",
     "observation_start": "1960-01-01",
     "observation_end": "2020-01-01",
@@ -20,8 +20,8 @@
   },
   "Belgium": {
     "id": "BELSACRQISMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Belgium",
     "observation_start": "1960-01-01",
     "observation_end": "2018-07-01",
@@ -39,8 +39,8 @@
   },
   "Canada": {
     "id": "CANSACRQISMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Canada",
     "observation_start": "1960-01-01",
     "observation_end": "2018-10-01",
@@ -58,8 +58,8 @@
   },
   "Chile": {
     "id": "CHLSACRQISMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Chile",
     "observation_start": "1994-01-01",
     "observation_end": "2018-10-01",
@@ -71,14 +71,14 @@
     "seasonal_adjustment_short": "SA",
     "last_updated": "2019-07-12 12:10:24-05",
     "popularity": 0,
-    "group_popularity": 2,
+    "group_popularity": 1,
     "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database), http://dx.doi.org/10.1787/data-00052-en (Accessed on date)",
     "path": "Database/International Data/Countries/Chile"
   },
   "Czech Republic": {
     "id": "CZESACRQISMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Sales: Retail Trade: Car Registration: Passenger Cars for the Czech Republic",
     "observation_start": "2003-01-01",
     "observation_end": "2018-10-01",
@@ -96,8 +96,8 @@
   },
   "Denmark": {
     "id": "DNKSACRQISMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Sales: Retail Trade: Car Registration: Passenger Cars for Denmark",
     "observation_start": "1960-01-01",
     "observation_end": "2018-07-01",

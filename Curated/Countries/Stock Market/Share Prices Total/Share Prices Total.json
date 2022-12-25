@@ -2,8 +2,8 @@
   "Growth rate same period previous year_Monthly_Not Seasonally Adjusted": {
     "China": {
       "id": "CHNSPASTT01GYM",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
       "observation_start": "2000-01-01",
       "observation_end": "2022-10-01",
@@ -15,7 +15,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:35:17-06",
       "popularity": 1,
-      "group_popularity": 17,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: SPASTT01 OECD unit ID: GY OECD country ID: CHN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/China"
     }
@@ -23,8 +23,8 @@
   "Growth rate same period previous year_Quarterly_Not Seasonally Adjusted": {
     "China": {
       "id": "CHNSPASTT01GYQ",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
       "observation_start": "2000-01-01",
       "observation_end": "2022-07-01",
@@ -36,7 +36,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:41:38-06",
       "popularity": 1,
-      "group_popularity": 17,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: SPASTT01 OECD unit ID: GY OECD country ID: CHN All OECD data should be cited as follows: OECD,\"Main Economic Indicators - complete database\"Main Economic Indicators(database)http://dx.doi.org/10.1787/data-00052-en(Accessed on date)Copyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/China"
     }
@@ -44,8 +44,8 @@
   "Growth rate previous period_Annual_Not Seasonally Adjusted": {
     "China": {
       "id": "SPASTT01CNA657N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
       "observation_start": "1993-01-01",
       "observation_end": "2021-01-01",
@@ -57,7 +57,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:46:15-05",
       "popularity": 1,
-      "group_popularity": 17,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: GP\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/China"
     }
@@ -65,8 +65,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "China": {
       "id": "SPASTT01CNA661N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
       "observation_start": "1992-01-01",
       "observation_end": "2021-01-01",
@@ -78,7 +78,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-09-14 15:46:15-05",
       "popularity": 2,
-      "group_popularity": 17,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: IXOB\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/China"
     }
@@ -86,8 +86,8 @@
   "Growth rate previous period_Monthly_Not Seasonally Adjusted": {
     "China": {
       "id": "SPASTT01CNM657N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
       "observation_start": "1999-02-01",
       "observation_end": "2022-10-01",
@@ -98,8 +98,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:35:08-06",
-      "popularity": 9,
-      "group_popularity": 17,
+      "popularity": 7,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: GP\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/China"
     }
@@ -107,8 +107,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "China": {
       "id": "SPASTT01CNM661N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
       "observation_start": "1999-01-01",
       "observation_end": "2022-10-01",
@@ -119,8 +119,8 @@
       "seasonal_adjustment": "Not Seasonally Adjusted",
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:35:07-06",
-      "popularity": 9,
-      "group_popularity": 17,
+      "popularity": 8,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: IXOB\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/China"
     }
@@ -128,8 +128,8 @@
   "Growth rate previous period_Quarterly_Not Seasonally Adjusted": {
     "China": {
       "id": "SPASTT01CNQ657N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
       "observation_start": "1999-04-01",
       "observation_end": "2022-07-01",
@@ -141,7 +141,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:40:55-06",
       "popularity": 1,
-      "group_popularity": 17,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: GP\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/China"
     }
@@ -149,8 +149,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "China": {
       "id": "SPASTT01CNQ661N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
       "observation_start": "1999-01-01",
       "observation_end": "2022-07-01",
@@ -162,7 +162,7 @@
       "seasonal_adjustment_short": "NSA",
       "last_updated": "2022-11-14 14:40:55-06",
       "popularity": 2,
-      "group_popularity": 17,
+      "group_popularity": 14,
       "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: IXOB\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
       "path": "Database/International Data/Countries/China"
     }

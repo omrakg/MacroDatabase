@@ -2,8 +2,8 @@
   "Index 2015=100_Annual_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEA661N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1994-01-01",
       "observation_end": "2021-01-01",
@@ -21,8 +21,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -40,8 +40,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -59,8 +59,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -78,8 +78,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -99,8 +99,8 @@
   "Index 2015=100_Annual_Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEA661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1996-01-01",
       "observation_end": "2021-01-01",
@@ -118,8 +118,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -137,8 +137,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -156,8 +156,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -175,8 +175,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -196,8 +196,8 @@
   "Index 2015=100_Quarterly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEQ661N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1994-01-01",
       "observation_end": "2022-04-01",
@@ -215,8 +215,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -234,8 +234,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -253,8 +253,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -272,8 +272,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -293,8 +293,8 @@
   "Index 2015=100_Quarterly_Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -312,8 +312,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -331,8 +331,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -350,8 +350,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -369,8 +369,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -390,8 +390,8 @@
   "New Zealand Dollar_Annual_Not Seasonally Adjusted": {
     "New Zealand": {
       "id": "LCEAPR01NZA189N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2021-01-01",
@@ -409,8 +409,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -428,8 +428,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -447,8 +447,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -466,8 +466,8 @@
     },
     "Sweden": {
       "id": "LCEAPR01SEQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -487,8 +487,8 @@
   "New Zealand Dollar_Quarterly_Not Seasonally Adjusted": {
     "New Zealand": {
       "id": "LCEAPR01NZQ189N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -506,8 +506,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -525,8 +525,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -544,8 +544,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -563,8 +563,8 @@
     },
     "Sweden": {
       "id": "LCEAPR01SEQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -584,8 +584,8 @@
   "Swedish Krona_Annual_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEA189N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1994-01-01",
       "observation_end": "2021-01-01",
@@ -603,8 +603,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -622,8 +622,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -641,8 +641,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -660,8 +660,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -681,8 +681,8 @@
   "Swedish Krona_Monthly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEM189N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1996-01-01",
       "observation_end": "2022-08-01",
@@ -700,8 +700,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -719,8 +719,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -738,8 +738,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -757,8 +757,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -778,8 +778,8 @@
   "Index 2015=100_Monthly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEM661N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1996-01-01",
       "observation_end": "2022-08-01",
@@ -797,8 +797,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -816,8 +816,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -835,8 +835,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -854,8 +854,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -875,8 +875,8 @@
   "Index 2015=100_Monthly_Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEM661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1996-01-01",
       "observation_end": "2022-08-01",
@@ -894,8 +894,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -913,8 +913,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -932,8 +932,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -951,8 +951,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -972,8 +972,8 @@
   "Swedish Krona_Quarterly_Not Seasonally Adjusted": {
     "Sweden": {
       "id": "LCEAPR01SEQ189N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Sweden",
       "observation_start": "1994-01-01",
       "observation_end": "2022-04-01",
@@ -991,8 +991,8 @@
     },
     "Luxembourg": {
       "id": "LCEAPR01LUQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Luxembourg",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -1010,8 +1010,8 @@
     },
     "New Zealand": {
       "id": "LCEAPR01NZQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for New Zealand",
       "observation_start": "1989-01-01",
       "observation_end": "2022-07-01",
@@ -1029,8 +1029,8 @@
     },
     "Portugal": {
       "id": "LCEAPR01PTQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for Portugal",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",
@@ -1048,8 +1048,8 @@
     },
     "Slovak Republic": {
       "id": "LCEAPR01SKQ661S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Hourly Earnings: Private Sector for the Slovak Republic",
       "observation_start": "1996-01-01",
       "observation_end": "2022-04-01",

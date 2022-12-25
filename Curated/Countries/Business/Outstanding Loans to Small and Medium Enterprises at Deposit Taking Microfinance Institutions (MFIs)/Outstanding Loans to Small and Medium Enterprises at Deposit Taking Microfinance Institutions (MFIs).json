@@ -1,8 +1,8 @@
 {
   "Zambia": {
     "id": "ZMBFCSODMFSXDC",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Use of Financial Services, Assets: Outstanding Loans to Small and Medium Enterprises at Deposit Taking Microfinance Institutions (MFIs) for Zambia",
     "observation_start": "2013-01-01",
     "observation_end": "2017-01-01",
@@ -20,8 +20,8 @@
   },
   "Angola": {
     "id": "AGOFCSODMFSXDC",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Use of Financial Services, Assets: Outstanding Loans to Small and Medium Enterprises at Deposit Taking Microfinance Institutions (MFIs) for Angola",
     "observation_start": "2013-01-01",
     "observation_end": "2017-01-01",
@@ -39,8 +39,8 @@
   },
   "Guinea": {
     "id": "GINFCSODMFSXDC",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Use of Financial Services, Assets: Outstanding Loans to Small and Medium Enterprises at Deposit Taking Microfinance Institutions (MFIs) for Guinea",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -58,8 +58,8 @@
   },
   "Madagascar": {
     "id": "MDGFCSODMFSXDC",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Use of Financial Services, Assets: Outstanding Loans to Small and Medium Enterprises at Deposit Taking Microfinance Institutions (MFIs) for Madagascar",
     "observation_start": "2004-01-01",
     "observation_end": "2017-01-01",
@@ -77,8 +77,8 @@
   },
   "Peru": {
     "id": "PERFCSODMFSXDC",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Use of Financial Services, Assets: Outstanding Loans to Small and Medium Enterprises at Deposit Taking Microfinance Institutions (MFIs) for Peru",
     "observation_start": "2010-01-01",
     "observation_end": "2017-01-01",
@@ -96,8 +96,8 @@
   },
   "Samoa": {
     "id": "WSMFCSODMFSXDC",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Use of Financial Services, Assets: Outstanding Loans to Small and Medium Enterprises at Deposit Taking Microfinance Institutions (MFIs) for Samoa",
     "observation_start": "2014-01-01",
     "observation_end": "2017-01-01",
@@ -115,8 +115,8 @@
   },
   "Syrian Arab Republic": {
     "id": "SYRFCSODMFSXDC",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Use of Financial Services, Assets: Outstanding Loans to Small and Medium Enterprises at Deposit Taking Microfinance Institutions (MFIs) for Syrian Arab Republic",
     "observation_start": "2010-01-01",
     "observation_end": "2011-01-01",

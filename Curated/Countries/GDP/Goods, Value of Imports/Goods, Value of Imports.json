@@ -1,8 +1,8 @@
 {
   "Taiwan": {
     "id": "VALIMPTWM052N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Goods, Value of Imports for Taiwan Province of China",
     "observation_start": "1961-01-01",
     "observation_end": "2019-03-01",
@@ -20,8 +20,8 @@
   },
   "Argentina": {
     "id": "VALIMPARM052N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Goods, Value of Imports for Argentina",
     "observation_start": "2006-01-01",
     "observation_end": "2022-08-01",
@@ -39,8 +39,8 @@
   },
   "China": {
     "id": "VALIMPCNM052N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Goods, Value of Imports for China",
     "observation_start": "2006-01-01",
     "observation_end": "2022-08-01",
@@ -51,15 +51,15 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-11-21 07:09:05-06",
-    "popularity": 4,
-    "group_popularity": 4,
+    "popularity": 3,
+    "group_popularity": 3,
     "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
     "path": "Database/International Data/Countries/China"
   },
   "India": {
     "id": "VALIMPINM052N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Goods, Value of Imports for India",
     "observation_start": "2006-01-01",
     "observation_end": "2022-07-01",
@@ -74,5 +74,24 @@
     "group_popularity": 1,
     "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
     "path": "Database/International Data/Countries/India"
+  },
+  "Saudi Arabia": {
+    "id": "VALIMPSAM052N",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
+    "title": "Goods, Value of Imports for Saudi Arabia",
+    "observation_start": "2015-01-01",
+    "observation_end": "2022-04-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "Dollars",
+    "units_short": "$",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2022-11-14 07:09:09-06",
+    "popularity": 1,
+    "group_popularity": 1,
+    "notes": "Notes regarding this series can be found in International Financial Statistics Yearbooks produced by the International Monetary Fund (IMF). We have requested these publications from the IMF. Notes on this series will populate once they become available.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm.",
+    "path": "Database/International Data/Countries/Saudi Arabia"
   }
 }

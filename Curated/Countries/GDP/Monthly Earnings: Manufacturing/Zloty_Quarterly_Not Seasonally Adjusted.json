@@ -1,8 +1,8 @@
 {
   "Poland": {
     "id": "LCEAMN03PLQ189N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Monthly Earnings: Manufacturing for Poland",
     "observation_start": "1995-01-01",
     "observation_end": "2022-07-01",
@@ -20,8 +20,8 @@
   },
   "Norway": {
     "id": "LCEAMN03NOQ661N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Monthly Earnings: Manufacturing for Norway",
     "observation_start": "1998-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Slovak Republic": {
     "id": "LCEAMN03SKQ661S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Monthly Earnings: Manufacturing for the Slovak Republic",
     "observation_start": "1992-01-01",
     "observation_end": "2022-04-01",

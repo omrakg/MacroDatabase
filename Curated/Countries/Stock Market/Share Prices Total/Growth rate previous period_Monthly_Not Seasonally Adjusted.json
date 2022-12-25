@@ -1,8 +1,8 @@
 {
   "China": {
     "id": "SPASTT01CNM657N",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Share Prices: All Shares/Broad: Total: Total for China (People's Republic Of)",
     "observation_start": "1999-02-01",
     "observation_end": "2022-10-01",
@@ -13,8 +13,8 @@
     "seasonal_adjustment": "Not Seasonally Adjusted",
     "seasonal_adjustment_short": "NSA",
     "last_updated": "2022-11-14 14:35:08-06",
-    "popularity": 9,
-    "group_popularity": 17,
+    "popularity": 7,
+    "group_popularity": 14,
     "notes": "OECD descriptor ID: SPASTT01\nOECD unit ID: GP\nOECD country ID: CHN\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission.",
     "path": "Database/International Data/Countries/China"
   }

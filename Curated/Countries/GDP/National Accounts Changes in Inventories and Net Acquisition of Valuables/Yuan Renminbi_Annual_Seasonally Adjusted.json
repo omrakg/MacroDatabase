@@ -1,8 +1,8 @@
 {
   "China": {
     "id": "CHNCINSADSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for China (People's Republic Of)",
     "observation_start": "1978-01-01",
     "observation_end": "2014-01-01",
@@ -20,8 +20,8 @@
   },
   "Belgium": {
     "id": "BELCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Belgium",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -39,8 +39,8 @@
   },
   "Canada": {
     "id": "CANCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Canada",
     "observation_start": "1961-01-01",
     "observation_end": "2022-04-01",
@@ -58,8 +58,8 @@
   },
   "Chile": {
     "id": "CHLCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Chile",
     "observation_start": "1996-01-01",
     "observation_end": "2022-04-01",
@@ -77,8 +77,8 @@
   },
   "Czech Republic": {
     "id": "CZECINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for the Czech Republic",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -96,8 +96,8 @@
   },
   "Denmark": {
     "id": "DNKCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Denmark",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",
@@ -115,8 +115,8 @@
   },
   "Finland": {
     "id": "FINCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Finland",
     "observation_start": "1990-01-01",
     "observation_end": "2022-01-01",
@@ -134,8 +134,8 @@
   },
   "Spain": {
     "id": "ESPCINSQDSMEI",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "National Accounts: GDP by Expenditure: Current Prices: Changes in Inventories and Net Acquisition of Valuables for Spain",
     "observation_start": "1995-01-01",
     "observation_end": "2022-04-01",

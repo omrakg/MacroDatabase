@@ -2,8 +2,8 @@
   "Persons_Annual_Not Seasonally Adjusted": {
     "New Zealand": {
       "id": "LFWATTMANZA647N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Working Age Population: Aged 15 and Over: Males for New Zealand",
       "observation_start": "1986-01-01",
       "observation_end": "2021-01-01",
@@ -23,8 +23,8 @@
   "Persons_Annual_Seasonally Adjusted": {
     "New Zealand": {
       "id": "LFWATTMANZA647S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Working Age Population: Aged 15 and Over: Males for New Zealand",
       "observation_start": "1986-01-01",
       "observation_end": "2021-01-01",
@@ -44,8 +44,8 @@
   "Persons_Quarterly_Not Seasonally Adjusted": {
     "New Zealand": {
       "id": "LFWATTMANZQ647N",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Working Age Population: Aged 15 and Over: Males for New Zealand",
       "observation_start": "1986-01-01",
       "observation_end": "2022-07-01",
@@ -65,8 +65,8 @@
   "Persons_Quarterly_Seasonally Adjusted": {
     "New Zealand": {
       "id": "LFWATTMANZQ647S",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Working Age Population: Aged 15 and Over: Males for New Zealand",
       "observation_start": "1986-01-01",
       "observation_end": "2022-07-01",

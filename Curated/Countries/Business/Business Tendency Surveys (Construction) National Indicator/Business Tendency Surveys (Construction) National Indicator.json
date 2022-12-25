@@ -1,8 +1,8 @@
 {
   "Spain": {
     "id": "BCSPFT02ESM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Construction): Selling Prices: Future Tendency: National Indicator for Spain",
     "observation_start": "1989-01-01",
     "observation_end": "2022-10-01",
@@ -20,8 +20,8 @@
   },
   "Belgium": {
     "id": "BCSPFT02BEM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Construction): Selling Prices: Future Tendency: National Indicator for Belgium",
     "observation_start": "1985-01-01",
     "observation_end": "2022-10-01",
@@ -39,8 +39,8 @@
   },
   "Chile": {
     "id": "BCSPFT02CLM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Construction): Selling Prices: Future Tendency: National Indicator for Chile",
     "observation_start": "2003-11-01",
     "observation_end": "2022-10-01",
@@ -58,8 +58,8 @@
   },
   "Czech Republic": {
     "id": "BCSPFT02CZM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Construction): Selling Prices: Future Tendency: National Indicator for the Czech Republic",
     "observation_start": "1993-02-01",
     "observation_end": "2022-10-01",
@@ -77,8 +77,8 @@
   },
   "Denmark": {
     "id": "BCSPFT02DKM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Construction): Selling Prices: Future Tendency: National Indicator for Denmark",
     "observation_start": "1998-01-01",
     "observation_end": "2022-10-01",
@@ -96,8 +96,8 @@
   },
   "Estonia": {
     "id": "BCSPFT02EEM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Construction): Selling Prices: Future Tendency: National Indicator for Estonia",
     "observation_start": "1994-04-01",
     "observation_end": "2022-10-01",
@@ -115,8 +115,8 @@
   },
   "Finland": {
     "id": "BCSPFT02FIM460S",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Business Tendency Surveys (Construction): Selling Prices: Future Tendency: National Indicator for Finland",
     "observation_start": "1985-01-01",
     "observation_end": "2022-10-01",
