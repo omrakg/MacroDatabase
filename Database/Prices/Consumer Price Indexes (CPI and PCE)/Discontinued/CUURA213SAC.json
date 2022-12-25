@@ -1,7 +1,7 @@
 {
   "id": "CUURA213SAC",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Consumer Price Index for All Urban Consumers: Commodities in Cincinnati-Hamilton, OH-KY-IN (CMSA) (DISCONTINUED)",
   "observation_start": "1966-12-01",
   "observation_end": "1986-11-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2013-09-10 15:16:19-05",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

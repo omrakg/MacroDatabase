@@ -1,7 +1,7 @@
 {
   "id": "COFIRE",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "All Employees: Financial Activities in Colorado",
   "observation_start": "1990-01-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-17 02:45:39-06",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 1,
+  "group_popularity": 1
 }

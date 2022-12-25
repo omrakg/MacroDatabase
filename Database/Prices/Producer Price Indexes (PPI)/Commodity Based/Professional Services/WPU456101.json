@@ -1,7 +1,7 @@
 {
   "id": "WPU456101",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Producer Price Index by Commodity: Professional Services (Partial): Information Technology (IT) Technical Support and Consulting Services (Partial)",
   "observation_start": "2008-12-01",
   "observation_end": "2022-11-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:57:15-06",
   "popularity": 1,
-  "group_popularity": 29
+  "group_popularity": 25
 }

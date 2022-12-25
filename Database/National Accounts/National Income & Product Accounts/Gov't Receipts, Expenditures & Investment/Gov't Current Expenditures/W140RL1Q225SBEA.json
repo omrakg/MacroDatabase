@@ -1,7 +1,7 @@
 {
   "id": "W140RL1Q225SBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Real State and Local Government Consumption Expenditures: Gross Output of General Government: Intermediate Goods and Services Purchased",
   "observation_start": "1947-04-01",
   "observation_end": "2022-07-01",
@@ -11,7 +11,7 @@
   "units_short": "% Chg. from Preceding Period",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-10-27 07:54:13-05",
+  "last_updated": "2022-12-22 07:53:44-06",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: W140RL\n\nFor more information about this series, please see http://www.bea.gov/national/."

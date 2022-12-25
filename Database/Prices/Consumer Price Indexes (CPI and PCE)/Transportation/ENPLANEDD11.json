@@ -1,7 +1,7 @@
 {
   "id": "ENPLANEDD11",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Enplanements for U.S. Air Carrier Domestic, Scheduled Passenger Flights",
   "observation_start": "2000-01-01",
   "observation_end": "2022-08-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-07 09:01:20-06",
-  "popularity": 8,
+  "popularity": 7,
   "group_popularity": 19,
   "notes": "Data from all U.S. air carrier domestic, scheduled passenger flights.\n\nThis data is collected by the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS) calculation from BTS U.S. Air Carrier Traffic Statistics reported in BTS' monthly Air Traffic Data release, available here (https://www.bts.dot.gov/statistical-releases)."
 }

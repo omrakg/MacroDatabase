@@ -1,7 +1,7 @@
 {
   "id": "DFDHRA3A086NBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Real personal consumption expenditures: Durable goods: Furnishings and durable household equipment (chain-type quantity index)",
   "observation_start": "1929-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:48:52-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "BEA Account Code: DFDHRA\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

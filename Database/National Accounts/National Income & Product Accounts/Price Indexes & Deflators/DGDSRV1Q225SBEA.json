@@ -1,7 +1,7 @@
 {
   "id": "DGDSRV1Q225SBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Personal Consumption Expenditures: Goods (chain-type price index)",
   "observation_start": "1947-04-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SAAR",
   "last_updated": "2022-11-30 07:54:15-06",
   "popularity": 3,
-  "group_popularity": 26,
+  "group_popularity": 27,
   "notes": "BEA Account Code: DGDSRV\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

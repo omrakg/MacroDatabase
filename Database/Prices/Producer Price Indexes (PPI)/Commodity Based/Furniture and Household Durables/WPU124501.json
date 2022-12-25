@@ -1,7 +1,7 @@
 {
   "id": "WPU124501",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Producer Price Index by Commodity: Furniture and Household Durables: Portable Residential Lighting Fixtures, Including Parts and Accessories",
   "observation_start": "1975-01-01",
   "observation_end": "2022-11-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:55:44-06",
   "popularity": 1,
-  "group_popularity": 2
+  "group_popularity": 1
 }

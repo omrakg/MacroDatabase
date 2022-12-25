@@ -1,7 +1,7 @@
 {
   "id": "FAUTOSAAR",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Motor Vehicle Retail Sales: Foreign Autos",
   "observation_start": "1967-01-01",
   "observation_end": "2022-11-01",
@@ -11,8 +11,8 @@
   "units_short": "Mil. of Units",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-12-05 11:09:07-06",
-  "popularity": 12,
-  "group_popularity": 15,
+  "last_updated": "2022-12-23 07:59:19-06",
+  "popularity": 16,
+  "group_popularity": 18,
   "notes": "Autos defined as all passenger cars, including station wagons. Foreign sales are all U.S. sales of vehicles not produced in the U.S., Canada, or Mexico."
 }

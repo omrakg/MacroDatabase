@@ -1,7 +1,7 @@
 {
   "id": "ATNHPIUS14260Q",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "All-Transactions House Price Index for Boise City, ID (MSA)",
   "observation_start": "1979-07-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-29 09:02:20-06",
-  "popularity": 40,
-  "group_popularity": 40,
+  "popularity": 38,
+  "group_popularity": 38,
   "notes": "Estimated using sales prices and appraisal data."
 }

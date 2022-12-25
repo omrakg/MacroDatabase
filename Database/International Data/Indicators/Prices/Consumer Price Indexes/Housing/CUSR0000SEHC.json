@@ -1,7 +1,7 @@
 {
   "id": "CUSR0000SEHC",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Consumer Price Index for All Urban Consumers: Owners' Equivalent Rent of Residences in U.S. City Average",
   "observation_start": "1983-01-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-13 07:39:06-06",
-  "popularity": 61,
-  "group_popularity": 61
+  "popularity": 60,
+  "group_popularity": 60
 }

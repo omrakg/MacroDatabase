@@ -1,7 +1,7 @@
 {
   "id": "CPIEBEV",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Research Consumer Price Index: Food and Beverages",
   "observation_start": "1982-12-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-13 15:31:02-06",
-  "popularity": 21,
-  "group_popularity": 21,
+  "popularity": 17,
+  "group_popularity": 17,
   "notes": "The BLS calculates a research price index called the Consumer Price Index for Americans 62 years of age and older, or R-CPI-E. The R-CPI-E is used by those interested in measures of price change specifically based on the spending patterns of the elderly (as defined in the construction of this index). Official uses of the R-CPI-E have been considered by other government agencies but not implemented due to several limitations. These limitations must be considered and understood by potential users of the data, and any conclusions drawn from these analyses should be treated as tentative.\n\nSee the Bureau of Labor Statistics (BLS) (https://www.bls.gov/cpi/research-series/r-cpi-e-home.htm) from more information."
 }

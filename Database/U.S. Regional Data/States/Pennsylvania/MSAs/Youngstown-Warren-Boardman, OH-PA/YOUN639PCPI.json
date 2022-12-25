@@ -1,7 +1,7 @@
 {
   "id": "YOUN639PCPI",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Per Capita Personal Income in Youngstown-Warren-Boardman, OH-PA (MSA)",
   "observation_start": "1969-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-16 07:33:31-06",
-  "popularity": 4,
-  "group_popularity": 4
+  "popularity": 2,
+  "group_popularity": 2
 }

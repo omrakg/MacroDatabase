@@ -1,7 +1,7 @@
 {
   "id": "WPSFD413121",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Producer Price Index by Commodity: Final Demand: Private Capital Equipment for Manufacturing Industries",
   "observation_start": "1975-01-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-09 07:52:18-06",
-  "popularity": 12,
-  "group_popularity": 14
+  "popularity": 10,
+  "group_popularity": 11
 }

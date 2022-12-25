@@ -1,7 +1,7 @@
 {
   "id": "RCMFLBACTDPDPCT30P",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Large Bank Consumer Mortgage Balances: 30 or More Days Past Due: Including Foreclosures Rates: Accounts Based",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:11-05",
-  "popularity": 17,
-  "group_popularity": 17,
+  "popularity": 20,
+  "group_popularity": 20,
   "notes": "Share of first lien accounts 30 or more days past due. All past due active mortgages are included in the days past due calculations, including foreclosures. Borrowers who qualify for forbearance and stop making payments are also recorded as past due for all past due rate calculations. Days past due rates are presented using the number of accounts (accounts based). For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

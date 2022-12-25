@@ -1,7 +1,7 @@
 {
   "id": "MPCP13XXS",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Total Public Construction Spending: Sewage and Waste Disposal in the United States",
   "observation_start": "2002-02-01",
   "observation_end": "2022-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-01 10:57:29-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 4,
   "notes": "Definitions related to the construction data can be found at https://www.census.gov/construction/c30/definitions.html\nMethodology details can be found at https://www.census.gov/construction/c30/methodology.html"
 }

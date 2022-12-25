@@ -1,7 +1,7 @@
 {
   "id": "UITITI",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Manufacturers' Total Inventories: Information Technology Industries",
   "observation_start": "1992-01-01",
   "observation_end": "2022-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-05 09:26:06-06",
   "popularity": 1,
-  "group_popularity": 8,
+  "group_popularity": 7,
   "notes": "This series is a topical regrouping of the separate industry categories."
 }

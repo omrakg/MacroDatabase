@@ -1,7 +1,7 @@
 {
   "id": "WPU091507",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Fiber Cans, Tubes, and Similar Fiber Products",
   "observation_start": "1963-12-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:57:48-06",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

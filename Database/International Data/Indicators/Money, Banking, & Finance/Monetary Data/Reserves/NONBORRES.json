@@ -1,7 +1,7 @@
 {
   "id": "NONBORRES",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Reserves of Depository Institutions, Nonborrowed",
   "observation_start": "1959-01-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-22 12:02:20-06",
-  "popularity": 30,
-  "group_popularity": 30,
+  "popularity": 33,
+  "group_popularity": 33,
   "notes": "The Board of Governors consolidated this series onto the Statistical Release H.6, \"Money Stock Measures\", after the H.3 statistical release was discontinued. For more information on the consolidated H.6 release, see the H.6 Technical Q&As (https://www.federalreserve.gov/releases/h6/h6_technical_qa.htm).\n\nEquals total reserves (TOTRESNS) (https://fred.stlouisfed.org/series/TOTRESNS), less total borrowings from the Federal Reserve (BORROW) (https://fred.stlouisfed.org/series/BORROW)."
 }

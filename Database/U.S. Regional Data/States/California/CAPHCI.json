@@ -1,7 +1,7 @@
 {
   "id": "CAPHCI",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Coincident Economic Activity Index for California",
   "observation_start": "1979-01-01",
   "observation_end": "2022-10-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-11-23 09:06:04-06",
-  "popularity": 6,
-  "group_popularity": 6,
+  "popularity": 9,
+  "group_popularity": 9,
   "notes": "The Coincident Economic Activity Index includes four indicators: nonfarm payroll employment, the unemployment rate, average hours worked in manufacturing and wages and salaries. The trend for each state's index is set to match the trend for gross state product.\u00a0"
 }

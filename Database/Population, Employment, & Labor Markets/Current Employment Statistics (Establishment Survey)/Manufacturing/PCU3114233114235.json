@@ -1,7 +1,7 @@
 {
   "id": "PCU3114233114235",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Producer Price Index by Industry: Dried and Dehydrated Food Manufacturing: Dried and Dehydrated Fruits and Vegetables, Including Freeze-Dried",
   "observation_start": "1982-12-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:56:22-06",
-  "popularity": 5,
-  "group_popularity": 5
+  "popularity": 4,
+  "group_popularity": 4
 }

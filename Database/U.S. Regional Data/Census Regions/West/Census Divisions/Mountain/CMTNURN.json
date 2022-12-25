@@ -1,17 +1,17 @@
 {
   "id": "CMTNURN",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Unemployment Rate in Mountain Census Division",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-10-01",
+  "observation_end": "2022-11-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-18 12:15:12-06",
+  "last_updated": "2022-12-19 17:11:36-06",
   "popularity": 1,
   "group_popularity": 1
 }

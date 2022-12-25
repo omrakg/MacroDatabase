@@ -1,7 +1,7 @@
 {
   "id": "WPU11710215",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Producer Price Index by Commodity: Machinery and Equipment: Noncurrent-Carrying Pole and Transmission Line Hardware",
   "observation_start": "2004-12-01",
   "observation_end": "2017-05-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2017-09-13 08:40:57-05",
-  "popularity": 1,
-  "group_popularity": 1
+  "popularity": 3,
+  "group_popularity": 3
 }

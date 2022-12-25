@@ -1,7 +1,7 @@
 {
   "id": "LNU01300001",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Labor Force Participation Rate - Men",
   "observation_start": "1948-01-01",
   "observation_end": "2022-11-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-02 07:43:10-06",
   "popularity": 29,
-  "group_popularity": 61,
+  "group_popularity": 59,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU01300001"
 }

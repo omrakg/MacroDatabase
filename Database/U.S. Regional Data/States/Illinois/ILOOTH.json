@@ -1,17 +1,17 @@
 {
   "id": "ILOOTH",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Other Labor Income in Illinois",
   "observation_start": "1948-01-01",
-  "observation_end": "2022-04-01",
+  "observation_end": "2022-07-01",
   "frequency": "Quarterly",
   "frequency_short": "Q",
   "units": "Millions of Dollars",
   "units_short": "Mil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-09-30 10:02:23-05",
+  "last_updated": "2022-12-23 09:11:25-06",
   "popularity": 1,
   "group_popularity": 1
 }

@@ -1,7 +1,7 @@
 {
   "id": "GVIPT521A3A",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Industrial Production: Gross Value of Products: Business Equipment and Defense and Space Equipment",
   "observation_start": "1972-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-08-25 21:06:02-05",
   "popularity": 0,
-  "group_popularity": 5,
+  "group_popularity": 2,
   "notes": "Gross Value of Products (GVIP) measures the gross value of products and nonindustrial supplies in the United States.\n\nFor more information, see the explanatory notes (https://www.federalreserve.gov/releases/g17/About.htm) issued by the Board of Governors. For recent updates, see the announcements (https://www.federalreserve.gov/feeds/g17.html) issued by the Board of Governors\n\nSource Code: GVIP.T521A3.A"
 }

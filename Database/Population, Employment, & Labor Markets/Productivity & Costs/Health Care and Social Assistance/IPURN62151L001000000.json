@@ -1,7 +1,7 @@
 {
   "id": "IPURN62151L001000000",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Labor Productivity for Health Care and Social Assistance: Medical and Diagnostic Laboratories (NAICS 62151) in the United States",
   "observation_start": "1995-01-01",
   "observation_end": "2021-01-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-07-06 13:38:10-05",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 2,
   "notes": "Labor productivity describes the efficiency at which labor hours are utilized in producing output of goods and services, measured as output per hour of labor."
 }

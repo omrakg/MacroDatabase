@@ -1,7 +1,7 @@
 {
   "id": "LNU04000025",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Unemployment Rate - 20 Yrs. & over, Men",
   "observation_start": "1948-01-01",
   "observation_end": "2022-11-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-02 07:45:35-06",
   "popularity": 1,
-  "group_popularity": 6,
+  "group_popularity": 5,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04000025"
 }

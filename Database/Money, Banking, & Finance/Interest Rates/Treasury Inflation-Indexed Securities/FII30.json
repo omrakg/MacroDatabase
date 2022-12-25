@@ -1,7 +1,7 @@
 {
   "id": "FII30",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",
   "observation_start": "2010-02-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-01 15:17:12-06",
-  "popularity": 11,
-  "group_popularity": 61,
+  "popularity": 10,
+  "group_popularity": 60,
   "notes": "For further information regarding treasury constant maturity data, please refer to the H.15 Statistical Release notes (https://www.federalreserve.gov/releases/h15/default.htm) and the Treasury Yield Curve Methodology (https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology)."
 }

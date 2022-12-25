@@ -1,7 +1,7 @@
 {
   "id": "W088RN2Q224SBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Contributions to Percent Change in National Defense Consumption Expenditures and Gross Investment: Consumption expenditures: Own-account investment",
   "observation_start": "1972-04-01",
   "observation_end": "2022-07-01",
@@ -11,7 +11,7 @@
   "units_short": "Percentage Points at Annual Rate",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-11-30 07:54:59-06",
+  "last_updated": "2022-12-22 07:53:22-06",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: W088RN\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"

@@ -1,7 +1,7 @@
 {
   "id": "DFXARC1Q027SBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Personal consumption expenditures: Nondurable goods: Food and beverages purchased for off-premises consumption",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-11-30 07:52:37-06",
+  "last_updated": "2022-12-22 07:54:14-06",
   "popularity": 15,
-  "group_popularity": 16,
+  "group_popularity": 15,
   "notes": "BEA Account Code: DFXARC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

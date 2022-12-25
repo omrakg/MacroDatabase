@@ -1,7 +1,7 @@
 {
   "id": "M0493DUSM267NNBR",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Wholesale Price of Newsprint Paper for United States",
   "observation_start": "1947-01-01",
   "observation_end": "1958-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:47:50-05",
-  "popularity": 4,
-  "group_popularity": 5,
+  "popularity": 5,
+  "group_popularity": 6,
   "notes": "Series Is Presented Here As Four Variables-- (1)--Original Data, 1890-1918 (2)--Original Data, 1914-1928 (3)-- Original Data, 1926-1951 (4)--Original Data, 1947-1958. Specifications From 1947 On Changed To Price Quoted For \"Standard Newsprint, Rolls, Contract, Delivered To Principal Points.\" Price Quoted Per Ton, Here Converted To Price Per Pound. Average Of Weekly Quotations Prior To 1952, Mid-Month Quotation Thereafter. In February, 1956, There Was A Slight Change In The Series, Code # 09-32-01.01; See Bls Bulletin No. 1214, P. 280, Footnote 5. Source: Bls, Prices An Price Relatives For Individual Commodities In The Revisied Index, 1947-1950, Group 9: Pulp, Paper, And Allied Products (November, 1952) For 1947-1950; Monthly \"Wholesale Prices And Price Indexes\", And Survey Of Current Business, 1955 And 1957 Statistical Supplements, Thereafter; See Also Bls, Bulletin No. 1214 For 1954-1956.\n\nThis NBER data series m04093d appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04093d"
 }

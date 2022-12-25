@@ -1,7 +1,7 @@
 {
   "id": "A713RV1Q225SBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Final Sales to Domestic Purchasers (chain-type price index)",
   "observation_start": "1947-04-01",
   "observation_end": "2022-07-01",
@@ -11,7 +11,7 @@
   "units_short": "% Chg. from Preceding Period",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-11-30 07:56:05-06",
+  "last_updated": "2022-12-22 07:55:38-06",
   "popularity": 0,
   "group_popularity": 1,
   "notes": "BEA Account Code: A713RV\n\nFor more information about this series, please see http://www.bea.gov/national/."

@@ -1,17 +1,17 @@
 {
   "id": "SOFR",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Secured Overnight Financing Rate",
   "observation_start": "2018-04-03",
-  "observation_end": "2022-12-15",
+  "observation_end": "2022-12-22",
   "frequency": "Daily",
   "frequency_short": "D",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-12-16 07:01:03-06",
-  "popularity": 81,
-  "group_popularity": 81
+  "last_updated": "2022-12-23 07:02:03-06",
+  "popularity": 80,
+  "group_popularity": 80
 }

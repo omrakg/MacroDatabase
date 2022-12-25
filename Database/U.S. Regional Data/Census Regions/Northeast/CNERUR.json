@@ -1,17 +1,17 @@
 {
   "id": "CNERUR",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Unemployment Rate in Northeast Census Region",
   "observation_start": "1976-01-01",
-  "observation_end": "2022-10-01",
+  "observation_end": "2022-11-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-11-18 12:15:16-06",
-  "popularity": 6,
-  "group_popularity": 15
+  "last_updated": "2022-12-19 17:10:08-06",
+  "popularity": 5,
+  "group_popularity": 13
 }

@@ -1,7 +1,7 @@
 {
   "id": "BPCXRO1Q156NBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Market-based PCE excluding Food and Energy (chain-type price index)",
   "observation_start": "1988-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-10-27 07:53:23-05",
   "popularity": 7,
-  "group_popularity": 12,
+  "group_popularity": 10,
   "notes": "BEA Account Code: BPCXRO\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

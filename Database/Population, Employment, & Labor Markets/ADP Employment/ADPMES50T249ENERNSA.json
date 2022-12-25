@@ -1,7 +1,7 @@
 {
   "id": "ADPMES50T249ENERNSA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Nonfarm Private Employment in Medium Establishments with 50 to 249 Employees",
   "observation_start": "2010-01-01",
   "observation_end": "2022-11-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-30 07:26:14-06",
   "popularity": 1,
-  "group_popularity": 6
+  "group_popularity": 4
 }

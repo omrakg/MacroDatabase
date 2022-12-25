@@ -1,7 +1,7 @@
 {
   "id": "LNU05026648",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Not in Labor Force - Want a Job Now, Marginally Attached, Reasons Other Than Discouragement",
   "observation_start": "1994-01-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-02 07:43:28-06",
-  "popularity": 12,
-  "group_popularity": 12,
+  "popularity": 10,
+  "group_popularity": 10,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU05026648"
 }

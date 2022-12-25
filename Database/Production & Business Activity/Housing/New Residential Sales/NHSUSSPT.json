@@ -1,17 +1,17 @@
 {
   "id": "NHSUSSPT",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "New Houses Sold by Sales Price in the United States, Total",
   "observation_start": "2002-01-01",
-  "observation_end": "2022-10-01",
+  "observation_end": "2022-11-01",
   "frequency": "Monthly",
   "frequency_short": "M",
   "units": "Thousands of Units",
   "units_short": "Thous. of Units",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-11-23 09:01:08-06",
-  "popularity": 35,
-  "group_popularity": 36
+  "last_updated": "2022-12-23 09:01:02-06",
+  "popularity": 31,
+  "group_popularity": 33
 }

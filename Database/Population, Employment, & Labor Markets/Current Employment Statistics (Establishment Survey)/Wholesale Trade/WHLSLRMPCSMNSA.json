@@ -1,7 +1,7 @@
 {
   "id": "WHLSLRMPCSMNSA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Merchant Wholesalers Sales",
   "observation_start": "1992-02-01",
   "observation_end": "2022-10-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-15 09:56:19-06",
   "popularity": 1,
-  "group_popularity": 29
+  "group_popularity": 25
 }

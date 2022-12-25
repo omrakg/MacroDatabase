@@ -1,7 +1,7 @@
 {
   "id": "LNS14000036",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Unemployment Rate - 20-24 Yrs.",
   "observation_start": "1948-01-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-02 07:44:35-06",
-  "popularity": 20,
-  "group_popularity": 20,
+  "popularity": 15,
+  "group_popularity": 16,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNS14000036"
 }

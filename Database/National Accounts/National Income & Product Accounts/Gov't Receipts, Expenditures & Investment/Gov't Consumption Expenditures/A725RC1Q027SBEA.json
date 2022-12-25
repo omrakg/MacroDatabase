@@ -1,7 +1,7 @@
 {
   "id": "A725RC1Q027SBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Federal government consumption expenditures: Defense consumption expenditures: Gross output of general government: Intermediate goods and services purchased: Nondurable goods",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-11-30 07:55:43-06",
+  "last_updated": "2022-12-22 07:55:37-06",
   "popularity": 1,
-  "group_popularity": 3,
+  "group_popularity": 1,
   "notes": "BEA Account Code: A725RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

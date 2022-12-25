@@ -1,7 +1,7 @@
 {
   "id": "I4231IM144SCEN",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Merchant Wholesalers, Except Manufacturers' Sales Branches and Offices: Durable Goods: Motor Vehicle and Motor Vehicle Parts and Supplies Inventories",
   "observation_start": "1992-01-01",
   "observation_end": "2022-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-09 15:08:02-06",
   "popularity": 4,
-  "group_popularity": 5,
+  "group_popularity": 4,
   "notes": "Definition of inventories (as provided by the Census Bureau): The value, at cost, of merchandise on hand and available for sale at the end of the reference month. All goods owned by a firm, regardless of location, except goods outside the United States are included. Items not held for resale, such as fixtures, equipment, and supplies are excluded. Also excluded is the value of goods on a firm's premises but not owned by the firm. (http://www.census.gov/wholesale/definitions.html)"
 }

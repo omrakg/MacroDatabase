@@ -1,7 +1,7 @@
 {
   "id": "TGDEF",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Net Government Saving",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-11-30 07:53:42-06",
+  "last_updated": "2022-12-22 07:54:21-06",
   "popularity": 7,
   "group_popularity": 8,
   "notes": "BEA Account Code: A922RC\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"

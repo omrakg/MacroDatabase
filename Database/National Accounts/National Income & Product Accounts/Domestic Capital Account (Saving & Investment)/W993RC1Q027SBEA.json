@@ -1,7 +1,7 @@
 {
   "id": "W993RC1Q027SBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Capital account transactions (net): Government: State and local",
   "observation_start": "1960-01-01",
   "observation_end": "2022-07-01",
@@ -11,7 +11,7 @@
   "units_short": "Bil. of $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-11-30 07:54:26-06",
+  "last_updated": "2022-12-22 07:53:10-06",
   "popularity": 1,
   "group_popularity": 1,
   "notes": "BEA Account Code: W993RC\n\nFor more information about this series, please see http://www.bea.gov/national/."

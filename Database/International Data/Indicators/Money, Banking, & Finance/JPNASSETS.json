@@ -1,7 +1,7 @@
 {
   "id": "JPNASSETS",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Bank of Japan: Total Assets for Japan",
   "observation_start": "1998-04-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-04 20:11:02-06",
-  "popularity": 55,
-  "group_popularity": 55,
+  "popularity": 57,
+  "group_popularity": 57,
   "notes": "Copyright, 2016, Bank of Japan."
 }

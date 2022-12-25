@@ -1,7 +1,7 @@
 {
   "id": "CUUSA211SAT1",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Consumer Price Index for All Urban Consumers: Private transportation in Minneapolis-St.Paul-Bloomington, MN-WI (CBSA)",
   "observation_start": "1984-01-01",
   "observation_end": "2021-01-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-01-12 07:41:07-06",
-  "popularity": 2,
-  "group_popularity": 2
+  "popularity": 1,
+  "group_popularity": 1
 }

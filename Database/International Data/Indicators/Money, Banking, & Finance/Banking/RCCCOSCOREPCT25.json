@@ -1,7 +1,7 @@
 {
   "id": "RCCCOSCOREPCT25",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Large Bank Consumer Credit Card Originations: Original Credit Score: 25th Percentile",
   "observation_start": "2012-07-01",
   "observation_end": "2022-04-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-10-03 10:27:10-05",
-  "popularity": 5,
-  "group_popularity": 5,
+  "popularity": 3,
+  "group_popularity": 3,
   "notes": "The 25th percentile original credit score among credit card originations. The original credit score is the commercially available credit score at origination for the primary account holder. If a commercially available credit bureau score was not obtained during the origination process, the institution is instructed to map the internal credit score used to evaluate the primary account holder's creditworthiness at origination to a commercially available credit bureau score. The source of the original credit score may vary by FR Y-14M reporting firm and even within the firm's reporting. Only credit card accounts with original credit scores between 150 and 950 are included in the original credit score percentile calculations. For more detail see: methodology (https://www.philadelphiafed.org/-/media/frbp/assets/surveys-and-data/y14/y-14-data-methodology)."
 }

@@ -1,7 +1,7 @@
 {
   "id": "FPIC1",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Real Private Fixed Investment",
   "observation_start": "2002-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Bil. of Chn. 2012 $",
   "seasonal_adjustment": "Seasonally Adjusted Annual Rate",
   "seasonal_adjustment_short": "SAAR",
-  "last_updated": "2022-11-30 07:53:39-06",
-  "popularity": 17,
-  "group_popularity": 20,
+  "last_updated": "2022-12-22 07:54:31-06",
+  "popularity": 16,
+  "group_popularity": 19,
   "notes": "BEA Account Code: A007RX\n\nA Guide to the National Income and Product Accounts of the United States (NIPA) - (http://www.bea.gov/national/pdf/nipaguid.pdf)"
 }

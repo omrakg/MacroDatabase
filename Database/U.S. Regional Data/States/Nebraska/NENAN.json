@@ -1,7 +1,7 @@
 {
   "id": "NENAN",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "All Employees: Total Nonfarm in Nebraska",
   "observation_start": "1939-01-01",
   "observation_end": "2022-11-01",
@@ -13,5 +13,5 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-17 02:01:17-06",
   "popularity": 1,
-  "group_popularity": 7
+  "group_popularity": 4
 }

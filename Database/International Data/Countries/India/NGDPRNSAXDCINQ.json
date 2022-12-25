@@ -1,7 +1,7 @@
 {
   "id": "NGDPRNSAXDCINQ",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Real Gross Domestic Product for India",
   "observation_start": "2004-04-01",
   "observation_end": "2022-04-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-19 07:09:04-05",
-  "popularity": 37,
-  "group_popularity": 38
+  "popularity": 33,
+  "group_popularity": 34
 }

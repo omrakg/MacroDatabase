@@ -1,18 +1,18 @@
 {
   "id": "WTB6MS",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "6-Month Treasury Bill Secondary Market Rate, Discount Basis",
   "observation_start": "1958-12-12",
-  "observation_end": "2022-12-09",
+  "observation_end": "2022-12-16",
   "frequency": "Weekly, Ending Friday",
   "frequency_short": "W",
   "units": "Percent",
   "units_short": "%",
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
-  "last_updated": "2022-12-12 15:17:17-06",
-  "popularity": 15,
+  "last_updated": "2022-12-19 15:23:14-06",
+  "popularity": 17,
   "group_popularity": 60,
   "notes": "Averages of Business Days, Discount Basis"
 }

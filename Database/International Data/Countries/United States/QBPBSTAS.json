@@ -1,7 +1,7 @@
 {
   "id": "QBPBSTAS",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Balance Sheet: Total Assets",
   "observation_start": "1984-01-01",
   "observation_end": "2022-07-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-02 18:07:01-06",
-  "popularity": 64,
-  "group_popularity": 64,
+  "popularity": 61,
+  "group_popularity": 61,
   "notes": "This series is found in Assets and Liabilities of FDIC-Insured Commercial Banks and Savings Institutions.\n\nThe Quarterly Banking Profile is a quarterly publication that provides the earliest comprehensive summary of financial results for all FDIC-insured institutions.\n\nSee Notes to Users (https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/timeseries/qbpnot.pdf) for more information."
 }

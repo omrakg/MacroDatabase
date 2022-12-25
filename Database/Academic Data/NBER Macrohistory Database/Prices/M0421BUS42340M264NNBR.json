@@ -1,7 +1,7 @@
 {
   "id": "M0421BUS42340M264NNBR",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Wholesale Price of Gum Turpentine for Savannah, GA",
   "observation_start": "1947-01-01",
   "observation_end": "1952-03-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:50:57-05",
-  "popularity": 3,
-  "group_popularity": 7,
+  "popularity": 1,
+  "group_popularity": 4,
   "notes": "Series Has Been Subdivided Into Two Variables: (1)-- Original Data, 1945-1952; (2) Original Data, 1951-1957. Data Are Bulk, Mid-Month Prices. Source: 1945-1946, 1951: Bls Bulletins No. 877, 920, 1143, And \"Wholesale Prices\"; 1947-1950: \"Prices And Price Relatives For Industrial Commodities In The Revised Index: 1947-50\"; 1952: Monthly \"Wholesale Prices And Indexes\"\n\nThis NBER data series m04121b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04121b"
 }

@@ -1,7 +1,7 @@
 {
   "id": "B092RC1A027NBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Federal government current expenditures: Interest payments: to persons and business",
   "observation_start": "1960-01-01",
   "observation_end": "2021-01-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-09-29 07:49:19-05",
-  "popularity": 1,
-  "group_popularity": 5,
+  "popularity": 5,
+  "group_popularity": 8,
   "notes": "BEA Account Code: B092RC\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

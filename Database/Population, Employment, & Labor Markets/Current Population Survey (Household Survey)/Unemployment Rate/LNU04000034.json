@@ -1,7 +1,7 @@
 {
   "id": "LNU04000034",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Unemployment Rate - 20 Yrs. & over, Hispanic or Latino Men",
   "observation_start": "1976-06-01",
   "observation_end": "2022-11-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-02 07:43:56-06",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 4,
+  "group_popularity": 4,
   "notes": "The series comes from the 'Current Population Survey (Household Survey)'\n\nThe source code is: LNU04000034"
 }

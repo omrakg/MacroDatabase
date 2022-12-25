@@ -1,7 +1,7 @@
 {
   "id": "M0464AUSM336NNBR",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Index of Wholesale Prices of Lumber for United States",
   "observation_start": "1913-01-01",
   "observation_end": "1951-12-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:54:18-05",
-  "popularity": 15,
-  "group_popularity": 16,
+  "popularity": 16,
+  "group_popularity": 17,
   "notes": "Series Is Presented Here As Two Variables-- (1)--Original Data, 1913-1951 (2)--Original Data,1947-1954. See 1931 Bls Bulletin For Revisions From 1926-1931. Beginning In 1935, Revised Indexes Are Based Upon A Larger Sample Of Lumber Prices And An Improved Method Of Weighting Is Used. The Price Data Were Not Available For An Adequate Number Of Types Of Lumber To Make It Feasible To Compute Revised Indexes Prior To January, 1935. However, A Continuous Index (1926=100) Has Been Constructed Using The Revised Index For January, 1935 At The Same Level As The Series Which It Replaces. In October, 1940, The Bls Lumber Index Was Revised Back To January, 1935. Figures For November And December, 1942, Were Shown In Monthly Wholesale Prices (Mimeographed) For April, 1944; Not Published Elsewhere. Figures For September-December, 1943 Were Shown In Monthly Wholesale Prices (Mimeographed) For June 1945; Not Published Elsewhere. After December, 1951, Index On 1926 Base Was Discontinued. Source: Bls Bulletin Of 1930 And Following Issues Of \"Wholesale Prices\" Through 1941; Bls Bulletin Nos. 736, 759, 785, 870, 877, 920, 947, 973, 1007, And 1083 Through 1950; Monthly Labor Review, 1952 Issues For 1951.\n\nThis NBER data series m04164a appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04164a"
 }

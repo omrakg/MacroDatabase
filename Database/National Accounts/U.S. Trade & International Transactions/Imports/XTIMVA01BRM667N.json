@@ -1,7 +1,7 @@
 {
   "id": "XTIMVA01BRM667N",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "International Trade: Imports: Value (Goods): Total for Brazil",
   "observation_start": "1971-01-01",
   "observation_end": "2022-10-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-14 14:59:32-06",
   "popularity": 1,
-  "group_popularity": 9,
+  "group_popularity": 7,
   "notes": "OECD descriptor ID: XTIMVA01\nOECD unit ID: CXML\nOECD country ID: BRA\n\nAll OECD data should be cited as follows: OECD, \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)\nCopyright, 2016, OECD. Reprinted with permission."
 }

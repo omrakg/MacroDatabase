@@ -1,7 +1,7 @@
 {
   "id": "M0480BUSM336NNBR",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Index of Wholesale Prices of Passenger Automobiles for United States",
   "observation_start": "1927-07-01",
   "observation_end": "1941-02-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:50:41-05",
   "popularity": 1,
-  "group_popularity": 2,
+  "group_popularity": 1,
   "notes": "Series Is Presented Here As Two Variables--(1)--Original Data, 1913-1928 (2)--Original Data, 1927-1941. This Series Represents The Average Of Prices Of One Popular Car And Is Available Through 1937. A Revised Index Which Takes Into Account Price Changes In Three Styles Of Chassis (4-Door, 2-Door, And Coupe) Was Available Annually Plus A December Figure During 1927-1936 And Monthly Thereafter. The NBER Has Therefore Adjusted The July 1927-1936 Data In The First Series By The Annual And December Figures In The Revised Series To Make A Continuous Second Segment. The Previous Segment Is Lowered To The Level Of This One By The Ratio Of The Overlapping Segment July, 1927-January, 1928: 677.3 Divided By 720.3 Equals 0.940. Source: Computed By NBER From Bls Data For January-June, 1937; For July 1937 On, Bls \"Wholesale Prices\".\n\nThis NBER data series m04180b appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04180b"
 }

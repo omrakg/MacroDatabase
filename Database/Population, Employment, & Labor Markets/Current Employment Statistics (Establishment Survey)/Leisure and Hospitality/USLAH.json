@@ -1,7 +1,7 @@
 {
   "id": "USLAH",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "All Employees, Leisure and Hospitality",
   "observation_start": "1939-01-01",
   "observation_end": "2022-11-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "SA",
   "last_updated": "2022-12-02 07:44:16-06",
   "popularity": 58,
-  "group_popularity": 59,
+  "group_popularity": 58,
   "notes": "The series comes from the 'Current Employment Statistics (Establishment Survey).'\n\nThe source code is: CES7000000001"
 }

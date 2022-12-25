@@ -1,7 +1,7 @@
 {
   "id": "DHLCRG3Q086SBEA",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Personal consumption expenditures: Services: Health care (chain-type price index)",
   "observation_start": "1947-01-01",
   "observation_end": "2022-07-01",
@@ -11,8 +11,8 @@
   "units_short": "Index 2012=100",
   "seasonal_adjustment": "Seasonally Adjusted",
   "seasonal_adjustment_short": "SA",
-  "last_updated": "2022-11-30 07:52:28-06",
-  "popularity": 29,
-  "group_popularity": 29,
+  "last_updated": "2022-12-22 07:54:45-06",
+  "popularity": 25,
+  "group_popularity": 25,
   "notes": "BEA Account Code: DHLCRG\n\nFor more information about this series, please see http://www.bea.gov/national/."
 }

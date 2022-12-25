@@ -1,7 +1,7 @@
 {
   "id": "IRLCPIALLQINMEI",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Consumer Price Index: All Items for Ireland",
   "observation_start": "1976-01-01",
   "observation_end": "2022-07-01",
@@ -13,6 +13,6 @@
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-11-14 14:19:07-06",
   "popularity": 5,
-  "group_popularity": 18,
+  "group_popularity": 17,
   "notes": "Copyright, 2016, OECD. Reprinted with permission.\n\nAll OECD data should be cited as follows: OECD (2010), \"Main Economic Indicators - complete database\", Main Economic Indicators (database),http://dx.doi.org/10.1787/data-00052-en (Accessed on date)"
 }

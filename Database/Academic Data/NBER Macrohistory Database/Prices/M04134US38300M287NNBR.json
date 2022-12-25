@@ -1,7 +1,7 @@
 {
   "id": "M04134US38300M287NNBR",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Wholesale Price of Structural Steel for Pittsburgh, PA",
   "observation_start": "1913-01-01",
   "observation_end": "1958-02-01",
@@ -12,7 +12,7 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2012-08-16 14:52:53-05",
-  "popularity": 3,
-  "group_popularity": 3,
+  "popularity": 5,
+  "group_popularity": 5,
   "notes": "1913-1917 Prices Were Near First Of Month Quotations. Data From 1918 On Were Monthly Averages Of Tuesday Quotations. Series Is Called \"Structural Steel Slopes, Beams, Etc.; 3\"-15\", Mill, Pittsburgh. 1913-1939 Data Were Checked Against Quotations In Survey Of Current Business. Beginning In 1944, Prices Are Quoted As \"F.O.B. Pittsburgh Basing Point. Beginning In 1948, The Specification Was Changed From 3\"-15\" To 12\" Up To 60 Feet. \"Carbon Steel, I Beams, 12\" Depth, 60 Foot Length, Astm (A-7-46) Per 100 Pounds, F.O.B. Pittsburgh Basing Point.\" The New Price Is Quoted Only For 01-06/1948. Code #452 Was Changed To #452.1. The New Index Code #10-14-31 Changed To 10-14-31.01. Month By Month Comparisons Between Bls Figures And Those In The Survey Of Current Business Show Them To Be Identical. In July, 1948, The Specification Was Changed From Basing Point Quotations To \"F.O.B. Mill, Shipping Point.\" In Later Specification Lists, It Is Called \"F.O.B. Producing Points.\" (Old Code #452.2; New Code #10-14-31.02) A New Specification Begins In May, 1953, With No Overlap Given. The New Specification Reads \"Structural Shapes, Carbon Steel, 6\" By 4\" By 1/2\" Angles, 30 Feet Long, Astm Specification A-7, Base Quantity, Mill To User, Per 100 Pounds, F.O.B. Mill\" (Bls Code #10-14-31.03). Source: Data For 1913-1919 Were Furnished Direct By Bls. 1920-1931, Bls Bulletins Were Used. 1932-1941 Data Were Were From Monthly Issues Of\"Wholesale Prices.\" 1942-1948 Data Were From Bulletin Nos. 718, 736, 759, 785, 870, 877, 920, 947, And Monthly Mimeographed Issues Of Average Wholesale Prices And Index Numbers. 1949-1951 Data Were From Bls, Prices And Price Relatives For Individual Commodities In The Revisd Index: 1947-1950, Group 10, Metals And Metal Products (Published In 1952) And Bulletin No.1143. 1952 And 1953 Data Are From Monthly Issues Of \"Wholesale Prices And Price Indexes.\"\n\nThis NBER data series m04134 appears on the NBER website in Chapter 4 at http://www.nber.org/databases/macrohistory/contents/chapter04.html.\n\nNBER Indicator: m04134"
 }

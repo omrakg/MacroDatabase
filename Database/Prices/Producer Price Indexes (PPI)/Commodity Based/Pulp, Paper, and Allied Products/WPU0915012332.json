@@ -1,7 +1,7 @@
 {
   "id": "WPU0915012332",
-  "realtime_start": "2022-12-18",
-  "realtime_end": "2022-12-18",
+  "realtime_start": "2022-12-25",
+  "realtime_end": "2022-12-25",
   "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Paper Table Napkins, Industrial and Retail Packages Bulk and Dispenser Types, Made in Paper Mills",
   "observation_start": "2007-12-01",
   "observation_end": "2022-11-01",
@@ -12,6 +12,6 @@
   "seasonal_adjustment": "Not Seasonally Adjusted",
   "seasonal_adjustment_short": "NSA",
   "last_updated": "2022-12-09 07:52:01-06",
-  "popularity": 6,
-  "group_popularity": 6
+  "popularity": 5,
+  "group_popularity": 5
 }
