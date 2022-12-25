@@ -1,7 +1,7 @@
 | Folder                   |   Files / Folders |
 |--------------------------|-------------------|
 | Codington County, SD     |                90 |
-| Corson County, SD        |                 0 |
+| Corson County, SD        |                87 |
 | Davison County, SD       |                90 |
 | Yankton County, SD       |                90 |
 | Clay County, SD          |                90 |
@@ -44,7 +44,7 @@
 | Spink County, SD         |                89 |
 | Mellette County, SD      |                88 |
 | Gregory County, SD       |                87 |
-| Custer County, SD        |                89 |
+| Custer County, SD        |                 0 |
 | Edmunds County, SD       |                88 |
 | Faulk County, SD         |                88 |
 | Fall River County, SD    |                88 |
@@ -61,7 +61,7 @@
 | Buffalo County, SD       |                85 |
 | Potter County, SD        |                87 |
 | Shannon County, SD       |                22 |
-| Sully County, SD         |                 0 |
+| Sully County, SD         |                85 |
 | Moody County, SD         |                89 |
 | Marshall County, SD      |                89 |
 | Minnehaha County, SD     |               147 |

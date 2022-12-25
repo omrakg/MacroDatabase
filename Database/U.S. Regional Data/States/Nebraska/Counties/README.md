@@ -26,7 +26,7 @@
 | Hamilton County, NE     |                89 |
 | Harlan County, NE       |                89 |
 | Box Butte County, NE    |                89 |
-| Wheeler County, NE      |                84 |
+| Wheeler County, NE      |                 0 |
 | Howard County, NE       |                90 |
 | McPherson County, NE    |                83 |
 | Rock County, NE         |                87 |
@@ -87,7 +87,7 @@
 | Kearney County, NE      |                90 |
 | Hayes County, NE        |                86 |
 | Fillmore County, NE     |                90 |
-| Valley County, NE       |                 0 |
+| Valley County, NE       |                88 |
 | Boyd County, NE         |                89 |
 | Brown County, NE        |                88 |
 | Keith County, NE        |                89 |

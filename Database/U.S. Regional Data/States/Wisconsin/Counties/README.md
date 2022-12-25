@@ -2,7 +2,7 @@
 |-----------------------------------------|-------------------|
 | St. Croix County, WI                    |               147 |
 | Lincoln County, WI                      |                90 |
-| Oconto County, WI                       |                 0 |
+| Oconto County, WI                       |                90 |
 | Eau Claire County, WI                   |               147 |
 | Door County, WI                         |                90 |
 | Fond Du Lac County, WI                  |               147 |
@@ -20,7 +20,7 @@
 | Barron County, WI                       |                90 |
 | Calumet County, WI                      |               144 |
 | Washburn County, WI                     |                89 |
-| Marinette County, WI                    |                89 |
+| Marinette County, WI                    |                 0 |
 | Dodge County, WI                        |               147 |
 | Waushara County, WI                     |                90 |
 | Manitowoc County, WI                    |               145 |

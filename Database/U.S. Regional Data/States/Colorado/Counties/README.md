@@ -5,7 +5,7 @@
 | Prowers County, CO           |                89 |
 | Montrose County, CO          |                90 |
 | Phillips County, CO          |                89 |
-| Denver County, CO            |               146 |
+| Denver County, CO            |                 0 |
 | Custer County, CO            |                90 |
 | Lake County, CO              |                90 |
 | Huerfano County, CO          |                90 |

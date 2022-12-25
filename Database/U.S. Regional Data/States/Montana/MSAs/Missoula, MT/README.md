@@ -39,10 +39,10 @@
 | MEDSQUFEEMM33540          | Housing Inventory: Median Home Size in Square Feet Month-Over-Month in Missoula, MT (CBSA)            | 2017-07-01          | 2022-11-01        |
 | MEDSQUFEEYY33540          | Housing Inventory: Median Home Size in Square Feet Year-Over-Year in Missoula, MT (CBSA)              | 2017-07-01          | 2022-11-01        |
 | MILPOP                    | Resident Population in Missoula, MT (MSA)                                                             | 2000-01-01          | 2021-01-01        |
-| MISS530BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Missoula, MT (MSA)    | 1999-01-01          | 2022-10-01        |
-| MISS530BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Missoula, MT (MSA)    | 1999-01-01          | 2022-10-01        |
-| MISS530BPPRIV             | New Private Housing Units Authorized by Building Permits for Missoula, MT (MSA)                       | 1999-01-01          | 2022-10-01        |
-| MISS530BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Missoula, MT (MSA)                       | 1999-01-01          | 2022-10-01        |
+| MISS530BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Missoula, MT (MSA)    | 1999-01-01          | 2022-11-01        |
+| MISS530BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Missoula, MT (MSA)    | 1999-01-01          | 2022-11-01        |
+| MISS530BPPRIV             | New Private Housing Units Authorized by Building Permits for Missoula, MT (MSA)                       | 1999-01-01          | 2022-11-01        |
+| MISS530BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Missoula, MT (MSA)                       | 1999-01-01          | 2022-11-01        |
 | MISS530EDUH               | All Employees: Education and Health Services in Missoula, MT (MSA)                                    | 1990-01-01          | 2022-11-01        |
 | MISS530EDUHN              | All Employees: Education and Health Services in Missoula, MT (MSA)                                    | 1990-01-01          | 2022-11-01        |
 | MISS530GOVT               | All Employees: Government in Missoula, MT (MSA)                                                       | 1990-01-01          | 2022-11-01        |

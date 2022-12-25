@@ -44,7 +44,7 @@
 | Benzie County, MI         |                90 |
 | Ingham County, MI         |               147 |
 | Montmorency County, MI    |                89 |
-| Ontonagon County, MI      |                 0 |
+| Ontonagon County, MI      |                89 |
 | Wayne County, MI          |               147 |
 | Baraga County, MI         |                88 |
 | Keweenaw County, MI       |                89 |
@@ -62,7 +62,7 @@
 | Jackson County, MI        |               146 |
 | Chippewa County, MI       |                90 |
 | Livingston County, MI     |               147 |
-| Midland County, MI        |               147 |
+| Midland County, MI        |                 0 |
 | Oscoda County, MI         |                90 |
 | Gratiot County, MI        |                90 |
 | Charlevoix County, MI     |                90 |

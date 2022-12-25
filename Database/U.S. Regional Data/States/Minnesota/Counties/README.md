@@ -12,7 +12,7 @@
 | Grant County, MN             |                89 |
 | Cass County, MN              |                90 |
 | Wilkin County, MN            |                89 |
-| Sibley County, MN            |                90 |
+| Sibley County, MN            |                 0 |
 | Wabasha County, MN           |                90 |
 | Beltrami County, MN          |                90 |
 | Swift County, MN             |                90 |
@@ -77,7 +77,7 @@
 | Dakota County, MN            |               147 |
 | Koochiching County, MN       |                89 |
 | Mahnomen County, MN          |                88 |
-| Polk County, MN              |                 0 |
+| Polk County, MN              |                89 |
 | Itasca County, MN            |                90 |
 | Martin County, MN            |                90 |
 | Nobles County, MN            |                89 |

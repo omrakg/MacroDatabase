@@ -53,9 +53,9 @@
 | Richland County, OH   |               147 |
 | Holmes County, OH     |                89 |
 | Gallia County, OH     |                89 |
-| Stark County, OH      |               147 |
+| Stark County, OH      |                 0 |
 | Ashland County, OH    |               144 |
-| Union County, OH      |               146 |
+| Union County, OH      |                 0 |
 | Harrison County, OH   |                90 |
 | Van Wert County, OH   |                89 |
 | Ottawa County, OH     |                90 |
@@ -75,8 +75,8 @@
 | Darke County, OH      |               146 |
 | Ashtabula County, OH  |               147 |
 | Meigs County, OH      |                90 |
-| Butler County, OH     |               147 |
-| Cuyahoga County, OH   |               146 |
+| Butler County, OH     |                 0 |
+| Cuyahoga County, OH   |                 0 |
 | Crawford County, OH   |                90 |
 | Hocking County, OH    |                89 |
 | Putnam County, OH     |                90 |

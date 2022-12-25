@@ -1,13 +1,13 @@
 | Folder                               |   Files / Folders |
 |--------------------------------------|-------------------|
 | Warner Robins, GA                    |               141 |
-| Valdosta, GA                         |                 0 |
+| Valdosta, GA                         |               104 |
 | Athens-Clarke County, GA             |               134 |
 | Albany, GA                           |               131 |
 | Augusta-Richmond County, GA-SC       |                 0 |
 | Hinesville, GA                       |               100 |
 | Savannah, GA                         |               158 |
-| Dalton, GA                           |               123 |
+| Dalton, GA                           |                 0 |
 | Gainesville, GA                      |               128 |
 | Macon-Bibb County, GA                |               143 |
 | Atlanta-Sandy Springs-Alpharetta, GA |               305 |

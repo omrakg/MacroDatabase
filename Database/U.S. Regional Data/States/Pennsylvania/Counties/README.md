@@ -20,7 +20,7 @@
 | York County, PA                |               147 |
 | Elk County, PA                 |                90 |
 | Cambria County, PA             |               146 |
-| Adams County, PA               |               147 |
+| Adams County, PA               |                 0 |
 | Juniata County, PA             |                88 |
 | Clearfield County, PA          |               146 |
 | Crawford County, PA            |               146 |
@@ -30,7 +30,7 @@
 | Lawrence County, PA            |               144 |
 | Carbon County, PA              |               146 |
 | Delaware County, PA            |                 0 |
-| Venango County, PA             |                 0 |
+| Venango County, PA             |               145 |
 | Monroe County, PA              |               147 |
 | Somerset County, PA            |               144 |
 | Montgomery County, PA          |               147 |

@@ -34,7 +34,7 @@
 | Polk County, MO           |                90 |
 | De Kalb County, MO        |                90 |
 | St. Clair County, MO      |                89 |
-| Christian County, MO      |                 0 |
+| Christian County, MO      |               147 |
 | Pulaski County, MO        |                90 |
 | Buchanan County, MO       |               147 |
 | Taney County, MO          |               146 |
@@ -74,7 +74,7 @@
 | Dunklin County, MO        |                89 |
 | Jefferson County, MO      |               147 |
 | Knox County, MO           |                88 |
-| Bollinger County, MO      |                89 |
+| Bollinger County, MO      |                 0 |
 | Schuyler County, MO       |                88 |
 | Cape Girardeau County, MO |               147 |
 | Moniteau County, MO       |                90 |
@@ -94,7 +94,7 @@
 | Marion County, MO         |                89 |
 | Gasconade County, MO      |                89 |
 | Hickory County, MO        |                88 |
-| Madison County, MO        |                 0 |
+| Madison County, MO        |                88 |
 | Vernon County, MO         |                90 |
 | Webster County, MO        |                90 |
 | Chariton County, MO       |                88 |

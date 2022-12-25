@@ -4,16 +4,16 @@
 | ADPMCDESCNERSA        | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-01          | 2022-11-01        |
 | ADPWCDESCNERNSA       | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-02          | 2022-10-01        |
 | ADPWCDESCNERSA        | Nonfarm Private Employment in the East South Central Census Division                                                             | 2010-01-02          | 2022-10-01        |
-| CESCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-10-01        |
-| CESCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-10-01        |
-| CESCBPPRIV            | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-10-01        |
-| CESCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-10-01        |
-| CESCLF                | Civilian Labor Force in East South Central Census Division                                                                       | 1976-01-01          | 2022-10-01        |
-| CESCLFN               | Civilian Labor Force in East South Central Census Division                                                                       | 1976-01-01          | 2022-10-01        |
+| CESCBP1FH             | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-11-01        |
+| CESCBP1FHSA           | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for the East South Central Census Division           | 1988-01-01          | 2022-11-01        |
+| CESCBPPRIV            | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-11-01        |
+| CESCBPPRIVSA          | New Private Housing Units Authorized by Building Permits for the East South Central Census Division                              | 1988-01-01          | 2022-11-01        |
+| CESCLF                | Civilian Labor Force in East South Central Census Division                                                                       | 1976-01-01          | 2022-11-01        |
+| CESCLFN               | Civilian Labor Force in East South Central Census Division                                                                       | 1976-01-01          | 2022-11-01        |
 | CESCPOP               | Resident Population in the East South Central Census Division                                                                    | 1900-01-01          | 2021-01-01        |
 | CESCSTHPI             | All-Transactions House Price Index for the East South Central Census Division                                                    | 1975-01-01          | 2022-07-01        |
-| CESCUR                | Unemployment Rate in East South Central Census Division                                                                          | 1976-01-01          | 2022-10-01        |
-| CESCURN               | Unemployment Rate in East South Central Census Division                                                                          | 1976-01-01          | 2022-10-01        |
+| CESCUR                | Unemployment Rate in East South Central Census Division                                                                          | 1976-01-01          | 2022-11-01        |
+| CESCURN               | Unemployment Rate in East South Central Census Division                                                                          | 1976-01-01          | 2022-11-01        |
 | CIU2010000000226I     | Employment Cost Index: Total compensation for Private industry workers in the East South Central Census Division                 | 2006-01-01          | 2022-07-01        |
 | CIU2020000000226I     | Employment Cost Index: Wages and salaries for Private industry workers in the East South Central Census Division                 | 2006-01-01          | 2022-07-01        |
 | LASRD860000000000004  | Unemployed Persons in East South Central Census Division                                                                         | 1976-01-01          | 2022-10-01        |

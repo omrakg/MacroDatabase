@@ -41,9 +41,9 @@
 | Seminole County, FL     |               147 |
 | Charlotte County, FL    |               147 |
 | Collier County, FL      |               147 |
-| Hardee County, FL       |                 0 |
+| Hardee County, FL       |                90 |
 | Franklin County, FL     |                90 |
-| Hendry County, FL       |                90 |
+| Hendry County, FL       |                 0 |
 | Marion County, FL       |               147 |
 | Lake County, FL         |               147 |
 | Lee County, FL          |               146 |

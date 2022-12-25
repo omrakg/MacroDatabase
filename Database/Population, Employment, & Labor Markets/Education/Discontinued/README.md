@@ -1,4 +1,2 @@
-| id                 | title                                                                                           | observation_start   | observation_end   |
-|--------------------|-------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CP1000EU27M086NEST | Harmonized Index of Consumer Prices: Education for European Union (27 countries) (DISCONTINUED) | 1996-01-01          | 2015-12-01        |
-| CP1000EZ17M086NEST | Harmonized Index of Consumer Prices: Education for Euro area (17 countries) (DISCONTINUED)      | 1996-01-01          | 2015-12-01        |
+| Folder   | Files / Folders   |
+|----------|-------------------|

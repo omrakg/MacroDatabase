@@ -31,7 +31,7 @@
 | Berkeley County, SC     |               147 |
 | Richland County, SC     |               146 |
 | Saluda County, SC       |                88 |
-| Abbeville County, SC    |                90 |
+| Abbeville County, SC    |                 0 |
 | Sumter County, SC       |               147 |
 | Dorchester County, SC   |               147 |
 | Greenville County, SC   |               143 |
@@ -45,4 +45,4 @@
 | Calhoun County, SC      |                89 |
 | Clarendon County, SC    |                90 |
 | Aiken County, SC        |               147 |
-| Lancaster County, SC    |                 0 |
+| Lancaster County, SC    |               147 |

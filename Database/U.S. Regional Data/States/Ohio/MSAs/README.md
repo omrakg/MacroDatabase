@@ -5,7 +5,7 @@
 | Wheeling, WV-OH                   |                 0 |
 | Huntington-Ashland, WV-KY-OH      |                 0 |
 | Lima, OH                          |               131 |
-| Toledo, OH                        |                 0 |
+| Toledo, OH                        |               195 |
 | Columbus, OH                      |               250 |
 | Youngstown-Warren-Boardman, OH-PA |                 0 |
 | Canton-Massillon, OH              |               176 |

@@ -35,13 +35,13 @@
 | Sequatchie County, TN |                90 |
 | Decatur County, TN    |                89 |
 | Gibson County, TN     |                90 |
-| Lake County, TN       |                 0 |
+| Lake County, TN       |                87 |
 | Johnson County, TN    |                88 |
 | Carter County, TN     |               146 |
 | Grundy County, TN     |                89 |
 | Polk County, TN       |                89 |
 | Sumner County, TN     |               147 |
-| Scott County, TN      |                89 |
+| Scott County, TN      |                 0 |
 | Anderson County, TN   |               147 |
 | Meigs County, TN      |                89 |
 | Jefferson County, TN  |               146 |

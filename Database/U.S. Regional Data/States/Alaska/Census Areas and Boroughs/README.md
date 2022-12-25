@@ -13,7 +13,7 @@
 | Petersburg Census Area, AK                      |                83 |
 | Denali Borough, AK                              |                83 |
 | Nome Census Area, AK                            |                87 |
-| Skagway-Hoonah-Angoon Census Area, AK           |                 0 |
+| Skagway-Hoonah-Angoon Census Area, AK           |                 7 |
 | Prince of Wales-Hyder Census Area, AK           |                83 |
 | Hoonah-Angoon Census Area, AK                   |                85 |
 | Sitka Borough - city, AK                        |                 0 |

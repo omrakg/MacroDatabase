@@ -7,7 +7,7 @@
 | Dover-Durham, NH-ME                     |                 0 |
 | Nashua, NH-MA                           |                 0 |
 | Berlin, NH                              |                 0 |
-| Haverhill-North Andover-Amesbury, MA-NH |                60 |
+| Haverhill-North Andover-Amesbury, MA-NH |                 0 |
 | Claremont, NH                           |                 0 |
 | Keene, NH                               |                 0 |
 | Portsmouth, NH-ME                       |                86 |

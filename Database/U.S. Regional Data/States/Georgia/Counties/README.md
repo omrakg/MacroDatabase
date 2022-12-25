@@ -1,7 +1,7 @@
 | Folder                   |   Files / Folders |
 |--------------------------|-------------------|
 | Dodge County, GA         |                90 |
-| Treutlen County, GA      |                88 |
+| Treutlen County, GA      |                 0 |
 | Walton County, GA        |               147 |
 | Ware County, GA          |                89 |
 | Oconee County, GA        |                90 |
@@ -50,7 +50,7 @@
 | Banks County, GA         |                90 |
 | Hancock County, GA       |                88 |
 | Candler County, GA       |                89 |
-| Wilkinson County, GA     |                 0 |
+| Wilkinson County, GA     |                89 |
 | Wheeler County, GA       |                87 |
 | Forsyth County, GA       |               147 |
 | Harris County, GA        |                90 |
@@ -61,7 +61,7 @@
 | Evans County, GA         |                87 |
 | Stewart County, GA       |                87 |
 | Lee County, GA           |                90 |
-| McDuffie County, GA      |                90 |
+| McDuffie County, GA      |                 0 |
 | Bulloch County, GA       |               147 |
 | Lowndes County, GA       |               147 |
 | Jenkins County, GA       |                87 |

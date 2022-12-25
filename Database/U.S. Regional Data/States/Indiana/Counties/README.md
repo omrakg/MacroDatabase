@@ -43,7 +43,7 @@
 | St. Joseph County, IN  |               147 |
 | Clinton County, IN     |                90 |
 | Jasper County, IN      |                88 |
-| Jay County, IN         |                89 |
+| Jay County, IN         |                 0 |
 | Pike County, IN        |                89 |
 | Marshall County, IN    |                90 |
 | Putnam County, IN      |                90 |
@@ -53,7 +53,7 @@
 | Wabash County, IN      |                90 |
 | Jefferson County, IN   |                88 |
 | Cass County, IN        |                90 |
-| Perry County, IN       |                 0 |
+| Perry County, IN       |                90 |
 | Kosciusko County, IN   |               147 |
 | Dearborn County, IN    |               144 |
 | Monroe County, IN      |               147 |

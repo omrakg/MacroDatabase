@@ -1,6 +1,6 @@
 | Folder               |   Files / Folders |
 |----------------------|-------------------|
-| Salt Lake City, UT   |               238 |
+| Salt Lake City, UT   |                 0 |
 | Provo-Orem, UT       |               189 |
 | St. George, UT       |               189 |
 | Ogden-Clearfield, UT |               190 |

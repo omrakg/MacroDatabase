@@ -18,11 +18,11 @@
 | COMPSFLAA2UMQ  | New Privately Owned Housing Completions in the United States, Average Square Feet Per Unit for Two or More Units                    | 1987-01-01          | 2022-07-01        |
 | COMPSFLAM1FQ   | New Privately Owned Housing Completions in the United States, Median Square Feet of Floor Area for One-Family Units                 | 1987-01-01          | 2022-07-01        |
 | COMPSFLAM2UMQ  | New Privately Owned Housing Completions in the United States, Median Square Feet Per Unit for Two or More Units                     | 1987-01-01          | 2022-07-01        |
-| COMPU1UNSA     | New Privately-Owned Housing Units Completed: Single-Family Units                                                                    | 1968-01-01          | 2022-10-01        |
-| COMPU1USA      | New Privately-Owned Housing Units Completed: Single-Family Units                                                                    | 1968-01-01          | 2022-10-01        |
-| COMPU5MUNSA    | New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More                                                | 1968-01-01          | 2022-10-01        |
-| COMPU5MUSA     | New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More                                                | 1968-01-01          | 2022-10-01        |
-| COMPU24UNSA    | New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units                                                      | 1968-01-01          | 2022-10-01        |
-| COMPU24USA     | New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units                                                      | 1968-01-01          | 2022-10-01        |
-| COMPUTNSA      | New Privately-Owned Housing Units Completed: Total Units                                                                            | 1968-01-01          | 2022-10-01        |
-| COMPUTSA       | New Privately-Owned Housing Units Completed: Total Units                                                                            | 1968-01-01          | 2022-10-01        |
+| COMPU1UNSA     | New Privately-Owned Housing Units Completed: Single-Family Units                                                                    | 1968-01-01          | 2022-11-01        |
+| COMPU1USA      | New Privately-Owned Housing Units Completed: Single-Family Units                                                                    | 1968-01-01          | 2022-11-01        |
+| COMPU5MUNSA    | New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More                                                | 1968-01-01          | 2022-11-01        |
+| COMPU5MUSA     | New Privately-Owned Housing Units Completed: Units in Buildings with 5 Units or More                                                | 1968-01-01          | 2022-11-01        |
+| COMPU24UNSA    | New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units                                                      | 1968-01-01          | 2022-11-01        |
+| COMPU24USA     | New Privately-Owned Housing Units Completed: Units in Buildings with 2-4 Units                                                      | 1968-01-01          | 2022-11-01        |
+| COMPUTNSA      | New Privately-Owned Housing Units Completed: Total Units                                                                            | 1968-01-01          | 2022-11-01        |
+| COMPUTSA       | New Privately-Owned Housing Units Completed: Total Units                                                                            | 1968-01-01          | 2022-11-01        |

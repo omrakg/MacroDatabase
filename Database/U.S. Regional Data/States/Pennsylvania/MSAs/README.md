@@ -12,7 +12,7 @@
 | Youngstown-Warren-Boardman, OH-PA           |               180 |
 | York-Hanover, PA                            |               167 |
 | Reading, PA                                 |               176 |
-| Lebanon, PA                                 |               134 |
+| Lebanon, PA                                 |                 0 |
 | Erie, PA                                    |               167 |
 | State College, PA                           |               140 |
 | East Stroudsburg, PA                        |                89 |

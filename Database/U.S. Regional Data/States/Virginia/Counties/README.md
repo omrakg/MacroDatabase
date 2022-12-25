@@ -8,7 +8,7 @@
 | Alexandria City, VA                                 |               146 |
 | Poquoson City, VA                                   |                78 |
 | Russell County, VA                                  |                89 |
-| Scott County, VA                                    |                 0 |
+| Scott County, VA                                    |                88 |
 | Richmond County, VA                                 |                90 |
 | Hopewell City, VA                                   |                79 |
 | Middlesex County, VA                                |                88 |
@@ -42,7 +42,7 @@
 | Charlotte County, VA                                |                88 |
 | Wise County, VA                                     |                79 |
 | Winchester City, VA                                 |                79 |
-| Augusta, Staunton + Waynesboro County, VA           |                10 |
+| Augusta, Staunton + Waynesboro County, VA           |                 0 |
 | Charlottesville City, VA                            |               135 |
 | Lee County, VA                                      |                89 |
 | Prince George County + Hopewell City, VA            |                12 |
@@ -68,7 +68,7 @@
 | Falls Church City, VA                               |                79 |
 | Portsmouth City, VA                                 |               146 |
 | Hampton City, VA                                    |               146 |
-| Norton City, VA                                     |                 0 |
+| Norton City, VA                                     |                77 |
 | Campbell County + Lynchburg City, VA                |                12 |
 | Grayson County, VA                                  |                89 |
 | Dickenson County, VA                                |                89 |
@@ -102,7 +102,7 @@
 | Chesapeake City, VA                                 |               146 |
 | Rockbridge County, VA                               |                80 |
 | Rockingham County, VA                               |               137 |
-| Accomack County, VA                                 |                90 |
+| Accomack County, VA                                 |                 0 |
 | Botetourt County, VA                                |                90 |
 | Albemarle County, VA                                |               137 |
 | Roanoke County, VA                                  |               137 |

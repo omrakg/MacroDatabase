@@ -4,7 +4,7 @@
 | Montgomery County, AR   |                87 |
 | Perry County, AR        |                89 |
 | Polk County, AR         |                90 |
-| Lawrence County, AR     |                 0 |
+| Lawrence County, AR     |                89 |
 | Pike County, AR         |                87 |
 | Columbia County, AR     |                90 |
 | Cleburne County, AR     |                90 |
@@ -13,7 +13,7 @@
 | Miller County, AR       |                89 |
 | Hot Spring County, AR   |                90 |
 | Little River County, AR |                88 |
-| Lonoke County, AR       |               147 |
+| Lonoke County, AR       |                 0 |
 | Crittenden County, AR   |               146 |
 | Sharp County, AR        |                90 |
 | Scott County, AR        |                89 |

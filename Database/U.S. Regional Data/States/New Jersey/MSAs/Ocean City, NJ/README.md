@@ -42,10 +42,10 @@
 | NEWLISCOUMM36140          | Housing Inventory: New Listing Count Month-Over-Month in Ocean City, NJ (CBSA)                       | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY36140          | Housing Inventory: New Listing Count Year-Over-Year in Ocean City, NJ (CBSA)                         | 2017-07-01          | 2022-11-01        |
 | NGMP36140                 | Total Gross Domestic Product for Ocean City, NJ (MSA)                                                | 2001-01-01          | 2021-01-01        |
-| OCEA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-10-01        |
-| OCEA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-10-01        |
-| OCEA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-10-01        |
-| OCEA134BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-10-01        |
+| OCEA134BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-11-01        |
+| OCEA134BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Ocean City, NJ (MSA) | 2004-01-01          | 2022-11-01        |
+| OCEA134BPPRIV             | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-11-01        |
+| OCEA134BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Ocean City, NJ (MSA)                    | 2004-01-01          | 2022-11-01        |
 | OCEA134EDUH               | All Employees: Education and Health Services in Ocean City, NJ (MSA)                                 | 1990-01-01          | 2022-11-01        |
 | OCEA134EDUHN              | All Employees: Education and Health Services in Ocean City, NJ (MSA)                                 | 1990-01-01          | 2022-11-01        |
 | OCEA134GOVT               | All Employees: Government in Ocean City, NJ (MSA)                                                    | 1990-01-01          | 2022-11-01        |

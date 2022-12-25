@@ -49,7 +49,7 @@
 | Barbour County, WV    |                89 |
 | Wayne County, WV      |                90 |
 | Monroe County, WV     |                89 |
-| Kanawha County, WV    |                 0 |
+| Kanawha County, WV    |               147 |
 | Marshall County, WV   |                90 |
 | Wood County, WV       |               147 |
 | Berkeley County, WV   |               147 |

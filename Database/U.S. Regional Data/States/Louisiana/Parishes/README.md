@@ -17,7 +17,7 @@
 | Vermilion Parish, LA            |               146 |
 | Richland Parish, LA             |                89 |
 | Evangeline Parish, LA           |                90 |
-| Livingston Parish, LA           |                 0 |
+| Livingston Parish, LA           |               147 |
 | Franklin Parish, LA             |                89 |
 | Beauregard Parish, LA           |                89 |
 | Allen Parish, LA                |                90 |
@@ -59,7 +59,7 @@
 | Washington Parish, LA           |                90 |
 | Rapides Parish, LA              |               146 |
 | West Baton Rouge Parish, LA     |                89 |
-| St. Landry Parish, LA           |               146 |
+| St. Landry Parish, LA           |                 0 |
 | Iberville Parish, LA            |                89 |
 | Avoyelles Parish, LA            |                90 |
 | Union Parish, LA                |                90 |

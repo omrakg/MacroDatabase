@@ -24,7 +24,7 @@
 | Modoc County, CA                |                90 |
 | Contra Costa County, CA         |               147 |
 | Nevada County, CA               |               147 |
-| Del Norte County, CA            |                 0 |
+| Del Norte County, CA            |                90 |
 | Glenn County, CA                |                90 |
 | Tulare County, CA               |               147 |
 | San Mateo County, CA            |               147 |

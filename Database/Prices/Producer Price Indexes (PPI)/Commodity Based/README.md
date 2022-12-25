@@ -9,7 +9,7 @@
 | Wholesale Trade Services                                           |                43 |
 | Advertising Space and Time Sales                                   |                36 |
 | Metals and Metal Products                                          |               374 |
-| Miscellaneous Products                                             |                 0 |
+| Miscellaneous Products                                             |               175 |
 | Rental and Leasing of Goods                                        |                20 |
 | Professional Services                                              |                56 |
 | Entertainment Services                                             |                27 |

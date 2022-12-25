@@ -18,7 +18,7 @@
 | Yuba City, CA                        |               164 |
 | Modesto, CA                          |               201 |
 | Sacramento-Roseville-Folsom, CA      |               325 |
-| Merced, CA                           |                 0 |
+| Merced, CA                           |               173 |
 | Vallejo, CA                          |               212 |
 | Santa Cruz-Watsonville, CA           |               188 |
 | El Centro, CA                        |               150 |

@@ -62,11 +62,11 @@
 | Runnels County, TX       |                88 |
 | Nacogdoches County, TX   |               146 |
 | Cameron County, TX       |               147 |
-| Shackelford County, TX   |                 0 |
+| Shackelford County, TX   |                88 |
 | Wilbarger County, TX     |                90 |
 | King County, TX          |                81 |
 | Lee County, TX           |                90 |
-| Trinity County, TX       |                88 |
+| Trinity County, TX       |                 0 |
 | Goliad County, TX        |                89 |
 | Lynn County, TX          |                88 |
 | Waller County, TX        |                90 |
@@ -122,11 +122,11 @@
 | Bexar County, TX         |               147 |
 | Garza County, TX         |                87 |
 | Wood County, TX          |                90 |
-| Collingsworth County, TX |                 0 |
+| Collingsworth County, TX |                88 |
 | Grimes County, TX        |                89 |
 | Brazos County, TX        |               147 |
 | Hudspeth County, TX      |                87 |
-| Jeff Davis County, TX    |                88 |
+| Jeff Davis County, TX    |                 0 |
 | Jim Hogg County, TX      |                87 |
 | Borden County, TX        |                83 |
 | McMullen County, TX      |                85 |
@@ -228,7 +228,7 @@
 | Swisher County, TX       |                88 |
 | De Witt County, TX       |                89 |
 | Franklin County, TX      |                88 |
-| Bailey County, TX        |                 0 |
+| Bailey County, TX        |                89 |
 | Dawson County, TX        |                89 |
 | Hill County, TX          |                90 |
 | Walker County, TX        |               147 |
@@ -237,7 +237,7 @@
 | Midland County, TX       |               147 |
 | Hays County, TX          |               147 |
 | Archer County, TX        |                89 |
-| Polk County, TX          |                90 |
+| Polk County, TX          |                 0 |
 | Scurry County, TX        |                89 |
 | Pecos County, TX         |                89 |
 | Falls County, TX         |                89 |

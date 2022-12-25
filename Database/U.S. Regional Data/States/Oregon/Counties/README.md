@@ -22,7 +22,7 @@
 | Harney County, OR     |                90 |
 | Lincoln County, OR    |               146 |
 | Wasco County, OR      |                89 |
-| Jackson County, OR    |               147 |
+| Jackson County, OR    |                 0 |
 | Crook County, OR      |                90 |
 | Morrow County, OR     |                90 |
 | Clatsop County, OR    |                90 |

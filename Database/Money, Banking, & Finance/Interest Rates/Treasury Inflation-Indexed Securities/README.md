@@ -1,11 +1,11 @@
 | id              | title                                                                                                                   | observation_start   | observation_end   |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| DFII5           | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  | 2003-01-02          | 2022-12-15        |
-| DFII7           | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  | 2003-01-02          | 2022-12-15        |
-| DFII10          | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2003-01-02          | 2022-12-15        |
-| DFII20          | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2004-07-27          | 2022-12-15        |
-| DFII30          | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2010-02-22          | 2022-12-15        |
-| DLTIIT          | Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                           | 2000-01-03          | 2022-12-15        |
+| DFII5           | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  | 2003-01-02          | 2022-12-22        |
+| DFII7           | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  | 2003-01-02          | 2022-12-22        |
+| DFII10          | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2003-01-02          | 2022-12-22        |
+| DFII20          | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2004-07-27          | 2022-12-22        |
+| DFII30          | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2010-02-22          | 2022-12-22        |
+| DLTIIT          | Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                           | 2000-01-03          | 2022-12-22        |
 | DTP3HA32        | 30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032                                                       | 2001-10-15          | 2022-12-12        |
 | DTP5A23         | 5-Year 0.625% Treasury Inflation-Indexed Note, Due 4/15/2023                                                            | 2018-04-20          | 2022-12-12        |
 | DTP5A24         | 5-Year 0.500% Treasury Inflation-Indexed Note, Due 4/15/2024                                                            | 2019-04-30          | 2022-12-12        |
@@ -56,9 +56,9 @@
 | RIFLGFCY20XIINA | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2004-01-01          | 2021-01-01        |
 | RIFLGFCY30XIINA | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2010-01-01          | 2021-01-01        |
 | RIFLGFLXIINA    | Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                           | 2000-01-01          | 2021-01-01        |
-| WFII5           | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  | 2003-01-03          | 2022-12-09        |
-| WFII7           | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  | 2003-01-03          | 2022-12-09        |
-| WFII10          | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2003-01-03          | 2022-12-09        |
-| WFII20          | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2004-07-30          | 2022-12-09        |
-| WFII30          | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2010-02-26          | 2022-12-09        |
-| WLTIIT          | Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                           | 2000-01-07          | 2022-12-09        |
+| WFII5           | Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  | 2003-01-03          | 2022-12-16        |
+| WFII7           | Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  | 2003-01-03          | 2022-12-16        |
+| WFII10          | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2003-01-03          | 2022-12-16        |
+| WFII20          | Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2004-07-30          | 2022-12-16        |
+| WFII30          | Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed | 2010-02-26          | 2022-12-16        |
+| WLTIIT          | Treasury Long-Term Average (Over 10 Years), Inflation-Indexed                                                           | 2000-01-07          | 2022-12-16        |

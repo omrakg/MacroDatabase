@@ -83,7 +83,7 @@
 | Iredell County, NC      |               147 |
 | Orange County, NC       |               147 |
 | Chowan County, NC       |                90 |
-| Onslow County, NC       |                 0 |
+| Onslow County, NC       |               147 |
 | Surry County, NC        |               147 |
 | Buncombe County, NC     |               147 |
 | Graham County, NC       |                88 |
@@ -94,7 +94,7 @@
 | Transylvania County, NC |                90 |
 | Person County, NC       |                90 |
 | Wake County, NC         |               147 |
-| Guilford County, NC     |               147 |
+| Guilford County, NC     |                 0 |
 | Columbus County, NC     |                90 |
 | Wayne County, NC        |               147 |
 | Mitchell County, NC     |                89 |

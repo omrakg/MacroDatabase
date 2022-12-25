@@ -7,10 +7,10 @@
 | AVELISPRI15980            | Housing Inventory: Average Listing Price in Cape Coral-Fort Myers, FL (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | AVELISPRIMM15980          | Housing Inventory: Average Listing Price Month-Over-Month in Cape Coral-Fort Myers, FL (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY15980          | Housing Inventory: Average Listing Price Year-Over-Year in Cape Coral-Fort Myers, FL (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| CAPE912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-10-01        |
-| CAPE912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-10-01        |
-| CAPE912BPPRIV             | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-10-01        |
-| CAPE912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-10-01        |
+| CAPE912BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-11-01        |
+| CAPE912BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Cape Coral-Fort Myers, FL (MSA)            | 1988-01-01          | 2022-11-01        |
+| CAPE912BPPRIV             | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-11-01        |
+| CAPE912BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Cape Coral-Fort Myers, FL (MSA)                               | 1988-01-01          | 2022-11-01        |
 | CAPE912EDUH               | All Employees: Education and Health Services in Cape Coral-Fort Myers, FL (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | CAPE912EDUHN              | All Employees: Education and Health Services in Cape Coral-Fort Myers, FL (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | CAPE912FIRE               | All Employees: Financial Activities in Cape Coral-Fort Myers, FL (MSA)                                                     | 1990-01-01          | 2022-11-01        |

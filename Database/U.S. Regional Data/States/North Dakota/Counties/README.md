@@ -31,7 +31,7 @@
 | Wells County, ND         |                88 |
 | McLean County, ND        |                89 |
 | Towner County, ND        |                88 |
-| Bottineau County, ND     |                88 |
+| Bottineau County, ND     |                 0 |
 | Billings County, ND      |                86 |
 | Williams County, ND      |                90 |
 | Mountrail County, ND     |                88 |
@@ -48,7 +48,7 @@
 | Emmons County, ND        |                88 |
 | Sioux County, ND         |                87 |
 | Adams County, ND         |                88 |
-| Foster County, ND        |                 0 |
+| Foster County, ND        |                88 |
 | Rolette County, ND       |                88 |
 | Mercer County, ND        |                89 |
 | Pierce County, ND        |                88 |

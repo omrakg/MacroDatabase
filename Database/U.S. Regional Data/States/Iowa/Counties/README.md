@@ -30,7 +30,7 @@
 | Jones County, IA         |                90 |
 | Palo Alto County, IA     |                90 |
 | Pottawattamie County, IA |               147 |
-| Polk County, IA          |               147 |
+| Polk County, IA          |                 0 |
 | Davis County, IA         |                89 |
 | Kossuth County, IA       |                90 |
 | Story County, IA         |               147 |
@@ -59,7 +59,7 @@
 | Louisa County, IA        |                90 |
 | Poweshiek County, IA     |                90 |
 | Greene County, IA        |                89 |
-| Harrison County, IA      |                 0 |
+| Harrison County, IA      |                90 |
 | Appanoose County, IA     |                88 |
 | Grundy County, IA        |                89 |
 | Mahaska County, IA       |                90 |
@@ -90,7 +90,7 @@
 | Adams County, IA         |                89 |
 | Emmet County, IA         |                90 |
 | Woodbury County, IA      |               147 |
-| Wright County, IA        |                90 |
+| Wright County, IA        |                 0 |
 | Jefferson County, IA     |                90 |
 | Clinton County, IA       |               146 |
 | Sac County, IA           |                90 |

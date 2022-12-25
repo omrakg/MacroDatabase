@@ -1,6 +1,6 @@
 | id                    | title                                                                                     | observation_start   | observation_end   |
 |-----------------------|-------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CBR02158AKA647NCEN    | SNAP Benefits Recipients in Kusilvak Census Area, AK                                      | 2014-01-01          | 2019-01-01        |
+| CBR02158AKA647NCEN    | SNAP Benefits Recipients in Kusilvak Census Area, AK                                      | 2014-01-01          | 2020-01-01        |
 | CBR02270AKA647NCEN    | SNAP Benefits Recipients in Wade Hampton Census Area, AK                                  | 1989-01-01          | 2013-01-01        |
 | CDC20N2U002270        | Premature Death Rate for Wade Hampton Census Area, AK                                     | 1999-01-01          | 2020-01-01        |
 | CDC20N2UAA002270      | Age-Adjusted Premature Death Rate for Wade Hampton Census Area, AK                        | 1999-01-01          | 2020-01-01        |

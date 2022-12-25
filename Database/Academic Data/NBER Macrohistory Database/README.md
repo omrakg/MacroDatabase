@@ -14,5 +14,5 @@
 | Stocks of Commodities               |               194 |
 | Income and Employment               |               490 |
 | Savings and Investment              |               167 |
-| Foreign Trade                       |                79 |
+| Foreign Trade                       |                 0 |
 | Interest Rates                      |                 0 |

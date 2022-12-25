@@ -9,7 +9,7 @@
 | Anniston-Oxford, AL        |               135 |
 | Gadsden, AL                |               135 |
 | Florence-Muscle Shoals, AL |               152 |
-| Huntsville, AL             |                 0 |
-| Mobile, AL                 |               167 |
+| Huntsville, AL             |               179 |
+| Mobile, AL                 |                 0 |
 | Daphne-Fairhope-Foley, AL  |                59 |
 | Columbus, GA-AL            |                 0 |

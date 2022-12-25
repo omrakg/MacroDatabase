@@ -6,7 +6,7 @@
 | Mining and Logging                   |                41 |
 | Manufacturing                        |               823 |
 | Durable Goods                        |                64 |
-| Transportation and Warehousing       |                59 |
+| Transportation and Warehousing       |                 0 |
 | Construction                         |               145 |
 | Financial Activities                 |                51 |
 | Total Private                        |                29 |

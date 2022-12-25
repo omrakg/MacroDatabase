@@ -38,7 +38,7 @@
 | Jackson County, OK      |                90 |
 | Okmulgee County, OK     |                90 |
 | Cimarron County, OK     |                89 |
-| Beaver County, OK       |                88 |
+| Beaver County, OK       |                 0 |
 | McIntosh County, OK     |                90 |
 | Choctaw County, OK      |                88 |
 | Grant County, OK        |                87 |

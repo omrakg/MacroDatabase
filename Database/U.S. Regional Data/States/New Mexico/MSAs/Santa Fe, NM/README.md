@@ -79,10 +79,10 @@
 | RPPGOOD42140              | Regional Price Parities: Goods for Santa Fe, NM (MSA)                                                         | 2008-01-01          | 2021-01-01        |
 | RPPSERVEOTH42140          | Regional Price Parities: Services: Other for Santa Fe, NM (MSA)                                               | 2008-01-01          | 2021-01-01        |
 | RPPSERVERENT42140         | Regional Price Parities: Services: Rents for Santa Fe, NM (MSA)                                               | 2008-01-01          | 2021-01-01        |
-| SANT135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Santa Fe, NM (MSA)            | 1988-01-01          | 2022-10-01        |
-| SANT135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Santa Fe, NM (MSA)            | 1988-01-01          | 2022-10-01        |
-| SANT135BPPRIV             | New Private Housing Units Authorized by Building Permits for Santa Fe, NM (MSA)                               | 1988-01-01          | 2022-10-01        |
-| SANT135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Santa Fe, NM (MSA)                               | 1988-01-01          | 2022-10-01        |
+| SANT135BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Santa Fe, NM (MSA)            | 1988-01-01          | 2022-11-01        |
+| SANT135BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Santa Fe, NM (MSA)            | 1988-01-01          | 2022-11-01        |
+| SANT135BPPRIV             | New Private Housing Units Authorized by Building Permits for Santa Fe, NM (MSA)                               | 1988-01-01          | 2022-11-01        |
+| SANT135BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Santa Fe, NM (MSA)                               | 1988-01-01          | 2022-11-01        |
 | SANT135EDUH               | All Employees: Education and Health Services in Santa Fe, NM (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SANT135EDUHN              | All Employees: Education and Health Services in Santa Fe, NM (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | SANT135FIRE               | All Employees: Financial Activities in Santa Fe, NM (MSA)                                                     | 1990-01-01          | 2022-11-01        |

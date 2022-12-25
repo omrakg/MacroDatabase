@@ -34,7 +34,7 @@
 | Klickitat County, WA    |                90 |
 | Yakima County, WA       |               146 |
 | Whitman County, WA      |               145 |
-| Spokane County, WA      |                 0 |
+| Spokane County, WA      |               147 |
 | Whatcom County, WA      |               146 |
 | Garfield County, WA     |                87 |
 | Island County, WA       |               147 |

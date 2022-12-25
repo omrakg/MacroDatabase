@@ -1,7 +1,7 @@
 | Folder                     |   Files / Folders |
 |----------------------------|-------------------|
 | Adams County, MS           |                89 |
-| Tippah County, MS          |                90 |
+| Tippah County, MS          |                 0 |
 | Claiborne County, MS       |                87 |
 | Issaquena County, MS       |                88 |
 | Lafayette County, MS       |               144 |
@@ -57,7 +57,7 @@
 | Simpson County, MS         |                90 |
 | Pontotoc County, MS        |                90 |
 | Humphreys County, MS       |                86 |
-| Tunica County, MS          |                 0 |
+| Tunica County, MS          |                88 |
 | Newton County, MS          |                87 |
 | Quitman County, MS         |                87 |
 | Jones County, MS           |               146 |

@@ -5,4 +5,4 @@
 | International Investment Position |                34 |
 | Income Payments & Receipts        |                29 |
 | U.S. International Finance        |               117 |
-| Exports                           |               113 |
+| Exports                           |                 0 |

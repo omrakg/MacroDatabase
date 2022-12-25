@@ -46,13 +46,13 @@
 | Marshall County, KS     |                89 |
 | Greeley County, KS      |                87 |
 | Russell County, KS      |                88 |
-| Chautauqua County, KS   |                 0 |
+| Chautauqua County, KS   |                89 |
 | Jefferson County, KS    |                90 |
 | Sheridan County, KS     |                86 |
 | Graham County, KS       |                88 |
 | Sumner County, KS       |                90 |
 | Barton County, KS       |                90 |
-| Bourbon County, KS      |                90 |
+| Bourbon County, KS      |                 0 |
 | Leavenworth County, KS  |               147 |
 | Miami County, KS        |                90 |
 | Montgomery County, KS   |                90 |
@@ -99,9 +99,9 @@
 | Wichita County, KS      |                88 |
 | Riley County, KS        |               147 |
 | Phillips County, KS     |                88 |
-| Kearny County, KS       |                 0 |
+| Kearny County, KS       |                89 |
 | Smith County, KS        |                88 |
 | Pawnee County, KS       |                89 |
 | Clay County, KS         |                90 |
-| Pottawatomie County, KS |                 0 |
+| Pottawatomie County, KS |                90 |
 | Scott County, KS        |                88 |

@@ -23,7 +23,7 @@
 | Stephenson County, IL  |               146 |
 | Edwards County, IL     |                88 |
 | Marion County, IL      |                90 |
-| Cumberland County, IL  |                 0 |
+| Cumberland County, IL  |                90 |
 | Calhoun County, IL     |                88 |
 | Grundy County, IL      |               146 |
 | Hamilton County, IL    |                87 |
@@ -44,7 +44,7 @@
 | Pulaski County, IL     |                88 |
 | Lee County, IL         |                90 |
 | Piatt County, IL       |                90 |
-| Winnebago County, IL   |               147 |
+| Winnebago County, IL   |                 0 |
 | Jersey County, IL      |                90 |
 | Moultrie County, IL    |                90 |
 | De Witt County, IL     |                90 |

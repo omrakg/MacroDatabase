@@ -40,10 +40,10 @@
 | MEDDAYONMAR32780          | Housing Inventory: Median Days on Market in Medford, OR (CBSA)                                               | 2016-07-01          | 2022-11-01        |
 | MEDDAYONMARMM32780        | Housing Inventory: Median Days on Market Month-Over-Month in Medford, OR (CBSA)                              | 2017-07-01          | 2022-11-01        |
 | MEDDAYONMARYY32780        | Housing Inventory: Median Days on Market Year-Over-Year in Medford, OR (CBSA)                                | 2017-07-01          | 2022-11-01        |
-| MEDF741BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-10-01        |
-| MEDF741BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-10-01        |
-| MEDF741BPPRIV             | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-10-01        |
-| MEDF741BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-10-01        |
+| MEDF741BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-11-01        |
+| MEDF741BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Medford, OR (MSA)            | 1988-01-01          | 2022-11-01        |
+| MEDF741BPPRIV             | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-11-01        |
+| MEDF741BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Medford, OR (MSA)                               | 1988-01-01          | 2022-11-01        |
 | MEDF741EDUH               | All Employees: Education and Health Services in Medford, OR (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | MEDF741EDUHN              | All Employees: Education and Health Services in Medford, OR (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | MEDF741FIRE               | All Employees: Financial Activities in Medford, OR (MSA)                                                     | 1990-01-01          | 2022-11-01        |

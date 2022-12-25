@@ -1,6 +1,6 @@
 | id                    | title                                                                                          | observation_start   | observation_end   |
 |-----------------------|------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| CBR46102SDA647NCEN    | SNAP Benefits Recipients in Oglala Lakota County, SD                                           | 2014-01-01          | 2019-01-01        |
+| CBR46102SDA647NCEN    | SNAP Benefits Recipients in Oglala Lakota County, SD                                           | 2014-01-01          | 2020-01-01        |
 | CBR46113SDA647NCEN    | SNAP Benefits Recipients in Shannon County, SD                                                 | 1989-01-01          | 2013-01-01        |
 | CDC20N2U046113        | Premature Death Rate for Oglala Lakota County, SD                                              | 1999-01-01          | 2020-01-01        |
 | CDC20N2UAA046113      | Age-Adjusted Premature Death Rate for Shannon County, SD                                       | 1999-01-01          | 2020-01-01        |

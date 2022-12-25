@@ -1375,8 +1375,8 @@
 |                                         | Exchange Rates                                                  | 208     |
 |                                         | JPNASSETS.json                                                  | 0       |
 |                                         | _Money, Banking, & Finance_Incl_Discontinued.json               | 0       |
-|                                         | Business Lending                                                | 1,250   |
-|                                         | Financial Indicators                                            | 209     |
+|                                         | Business Lending                                                | 985     |
+|                                         | Financial Indicators                                            | 259     |
 |                                         | Interest Rates                                                  | 1,221   |
 | Prices                                  | M0499AUSM053NNBR.json                                           | 0       |
 |                                         | M04119US16980M267NNBR.json                                      | 0       |
@@ -1544,7 +1544,7 @@
 |                                         | M04132USM299NNBR.json                                           | 0       |
 |                                         | M0490DUSM349NNBR.json                                           | 0       |
 |                                         | EXPINF6YR.json                                                  | 0       |
-|                                         | Consumer Price Indexes (CPI and PCE)                            | 368     |
+|                                         | Consumer Price Indexes (CPI and PCE)                            | 327     |
 |                                         | M0451AUSM292NNBR.json                                           | 0       |
 |                                         | M0400CUSM267NNBR.json                                           | 0       |
 |                                         | M0488BUSM267NNBR.json                                           | 0       |
@@ -1727,7 +1727,7 @@
 |                                         | Q04154US38300Q267NNBR.json                                      | 0       |
 |                                         | M0417BDE00BERM370NNBR.json                                      | 0       |
 |                                         | M04072US000MAM324NNBR.json                                      | 0       |
-|                                         | Producer Price Indexes (PPI)                                    | 5,631   |
+|                                         | Producer Price Indexes (PPI)                                    | 5,846   |
 |                                         | M04025US16980M267NNBR.json                                      | 0       |
 |                                         | Q04081US000NYQ264NNBR.json                                      | 0       |
 |                                         | M0486DUSM271NNBR.json                                           | 0       |
@@ -1766,10 +1766,10 @@
 |                                         | Q04049USQ052NNBR.json                                           | 0       |
 |                                         | M04H3BFR00PARM360NNBR.json                                      | 0       |
 |                                         | Q04067GBQ312NNBR.json                                           | 0       |
-| International Data                      | Institutions                                                    | 4,837   |
-|                                         | Geography                                                       | 218     |
-|                                         | Countries                                                       | 69,980  |
-|                                         | Indicators                                                      | 26,177  |
+| International Data                      | Institutions                                                    | 3,557   |
+|                                         | Geography                                                       | 214     |
+|                                         | Countries                                                       | 70,419  |
+|                                         | Indicators                                                      | 27,179  |
 | Academic Data                           | LODINIM066N.json                                                | 0       |
 |                                         | Data on the nominal term structure model from Kim and Wright    | 42      |
 |                                         | Discontinued                                                    | 0       |
@@ -1780,7 +1780,7 @@
 |                                         | _Academic Data.json                                             | 0       |
 |                                         | Economic Policy Uncertainty                                     | 671     |
 |                                         | Historical Federal Reserve Data                                 | 127     |
-|                                         | NBER Macrohistory Database                                      | 2,605   |
+|                                         | NBER Macrohistory Database                                      | 2,526   |
 |                                         | Penn World Table 9.0                                            | 4,583   |
 |                                         | _Academic Data_Incl_Discontinued.json                           | 0       |
 |                                         | A Millennium of Macroeconomic Data for the UK                   | 114     |
@@ -1816,7 +1816,7 @@
 |                                         | QGMPUSMP.json                                                   | 0       |
 |                                         | SCGDPUKQ.json                                                   | 0       |
 |                                         | TVEXPUKQ.json                                                   | 0       |
-|                                         | National Income & Product Accounts                              | 10,031  |
+|                                         | National Income & Product Accounts                              | 10,382  |
 |                                         | RGDPMPUKA.json                                                  | 0       |
 |                                         | RGDPFCUKM.json                                                  | 0       |
 |                                         | TUVBCAGDPBP6PT.json                                             | 0       |
@@ -1829,18 +1829,18 @@
 |                                         | NGDPMPUKA.json                                                  | 0       |
 |                                         | RIVEXUKQ.json                                                   | 0       |
 |                                         | RGDPFCUKQ.json                                                  | 0       |
-|                                         | U.S. Trade & International Transactions                         | 1,261   |
+|                                         | U.S. Trade & International Transactions                         | 1,109   |
 | Population, Employment, & Labor Markets | Tax Data                                                        | 1,002   |
 |                                         | Discontinued                                                    | 2       |
-|                                         | Education                                                       | 45      |
+|                                         | Education                                                       | 0       |
 |                                         | Labor Market Conditions                                         | 454     |
 |                                         | Weekly Initial Claims                                           | 25      |
 |                                         | Current Population Survey (Household Survey)                    | 4,867   |
 |                                         | _Population, Employment, & Labor Markets.json                   | 0       |
 |                                         | Minimum Wage                                                    | 53      |
-|                                         | Productivity & Costs                                            | 2,978   |
+|                                         | Productivity & Costs                                            | 2,724   |
 |                                         | NROU.json                                                       | 0       |
-|                                         | Current Employment Statistics (Establishment Survey)            | 3,504   |
+|                                         | Current Employment Statistics (Establishment Survey)            | 3,445   |
 |                                         | Income Distribution                                             | 160     |
 |                                         | _Population, Employment, & Labor Markets_Incl_Discontinued.json | 0       |
 |                                         | Population                                                      | 2,006   |
@@ -1850,5 +1850,5 @@
 |                                         | Federal Reserve Districts                                       | 961     |
 |                                         | BEA Regions                                                     | 2,040   |
 |                                         | Freddie Mac Regions                                             | 432     |
-|                                         | States                                                          | 412,320 |
+|                                         | States                                                          | 411,667 |
 |                                         | Census Regions                                                  | 894     |

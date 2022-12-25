@@ -25,10 +25,10 @@
 | HORAYYMSA29740            | Market Hotness: Hotness Rank in Las Cruces, NM (CBSA)                                                           | 2018-08-01          | 2022-11-01        |
 | HOSCMSA29740              | Market Hotness: Hotness Score in Las Cruces, NM (CBSA)                                                          | 2017-08-01          | 2022-11-01        |
 | IRPD29740                 | Implicit Regional Price Deflator for Las Cruces, NM (MSA)                                                       | 2008-01-01          | 2021-01-01        |
-| LASC735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-10-01        |
-| LASC735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-10-01        |
-| LASC735BPPRIV             | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-10-01        |
-| LASC735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-10-01        |
+| LASC735BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-11-01        |
+| LASC735BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Las Cruces, NM (MSA)            | 1988-01-01          | 2022-11-01        |
+| LASC735BPPRIV             | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-11-01        |
+| LASC735BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Las Cruces, NM (MSA)                               | 1988-01-01          | 2022-11-01        |
 | LASC735EDUH               | All Employees: Education and Health Services in Las Cruces, NM (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | LASC735EDUHN              | All Employees: Education and Health Services in Las Cruces, NM (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | LASC735FIRE               | All Employees: Financial Activities in Las Cruces, NM (MSA)                                                     | 1990-01-01          | 2022-11-01        |

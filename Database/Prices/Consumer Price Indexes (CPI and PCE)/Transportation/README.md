@@ -24,8 +24,8 @@
 | LOADFACTORDD11       | Load Factor for U.S. Air Carrier Domestic, Scheduled Passenger Flights                               | 2000-01-01          | 2022-08-01        |
 | LOADFACTORI          | Load Factor for U.S. Air Carrier International, Scheduled Passenger Flights                          | 2000-01-01          | 2022-08-01        |
 | LOADFACTORID11       | Load Factor for U.S. Air Carrier International, Scheduled Passenger Flights                          | 2000-01-01          | 2022-08-01        |
-| M12MTVUSM227NFWA     | Moving 12-Month Total Vehicle Miles Traveled                                                         | 1970-12-01          | 2022-09-01        |
-| M12MTVUSM227SFWA     | Moving 12-Month Total Vehicle Miles Traveled                                                         | 2000-12-01          | 2022-09-01        |
+| M12MTVUSM227NFWA     | Moving 12-Month Total Vehicle Miles Traveled                                                         | 1970-12-01          | 2022-10-01        |
+| M12MTVUSM227SFWA     | Moving 12-Month Total Vehicle Miles Traveled                                                         | 2000-12-01          | 2022-10-01        |
 | NATURALGAS           | Natural Gas Consumption                                                                              | 2000-01-01          | 2022-10-01        |
 | NATURALGASD11        | Natural Gas Consumption                                                                              | 2000-01-01          | 2022-10-01        |
 | PETROLEUM            | Pipeline Petroleum Movement                                                                          | 2000-01-01          | 2022-09-01        |
@@ -44,8 +44,8 @@
 | RPMID11              | Revenue Passenger Miles for U.S. Air Carrier International, Scheduled Passenger Flights              | 2000-01-01          | 2022-08-01        |
 | TRANSIT              | Public Transit Ridership                                                                             | 2000-01-01          | 2022-09-01        |
 | TRANSITD11           | Public Transit Ridership                                                                             | 2000-01-01          | 2022-09-01        |
-| TRFVOLUSM227NFWA     | Vehicle Miles Traveled                                                                               | 1970-01-01          | 2022-09-01        |
-| TRFVOLUSM227SFWA     | Vehicle Miles Traveled                                                                               | 2000-01-01          | 2022-09-01        |
+| TRFVOLUSM227NFWA     | Vehicle Miles Traveled                                                                               | 1970-01-01          | 2022-10-01        |
+| TRFVOLUSM227SFWA     | Vehicle Miles Traveled                                                                               | 2000-01-01          | 2022-10-01        |
 | TRUCKD11             | Truck Tonnage Index                                                                                  | 2000-01-01          | 2022-10-01        |
 | TSIFRGHT             | Freight Transportation Services Index                                                                | 2000-01-01          | 2022-10-01        |
 | TSIFRGHTC            | Freight Transportation Services Index                                                                | 2000-02-01          | 2022-10-01        |

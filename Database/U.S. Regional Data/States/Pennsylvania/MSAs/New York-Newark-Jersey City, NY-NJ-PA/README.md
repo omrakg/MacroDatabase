@@ -59,10 +59,10 @@
 | NEWLISCOU35620            | Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                                   | 2016-07-01          | 2022-11-01        |
 | NEWLISCOUMM35620          | Housing Inventory: New Listing Count Month-Over-Month in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                  | 2017-07-01          | 2022-11-01        |
 | NEWLISCOUYY35620          | Housing Inventory: New Listing Count Year-Over-Year in New York-Newark-Jersey City, NY-NJ-PA (CBSA)                                    | 2017-07-01          | 2022-11-01        |
-| NEWY636BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for New York-Newark-Jersey City, NY-NJ-PA (MSA)            | 1988-01-01          | 2022-10-01        |
-| NEWY636BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for New York-Newark-Jersey City, NY-NJ-PA (MSA)            | 1988-01-01          | 2022-10-01        |
-| NEWY636BPPRIV             | New Private Housing Structures Authorized by Building Permits for New York-Newark-Jersey City, NY-NJ-PA (MSA)                          | 1988-01-01          | 2022-10-01        |
-| NEWY636BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for New York-Newark-Jersey City, NY-NJ-PA (MSA)                          | 1988-01-01          | 2022-10-01        |
+| NEWY636BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for New York-Newark-Jersey City, NY-NJ-PA (MSA)            | 1988-01-01          | 2022-11-01        |
+| NEWY636BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for New York-Newark-Jersey City, NY-NJ-PA (MSA)            | 1988-01-01          | 2022-11-01        |
+| NEWY636BPPRIV             | New Private Housing Structures Authorized by Building Permits for New York-Newark-Jersey City, NY-NJ-PA (MSA)                          | 1988-01-01          | 2022-11-01        |
+| NEWY636BPPRIVSA           | New Private Housing Structures Authorized by Building Permits for New York-Newark-Jersey City, NY-NJ-PA (MSA)                          | 1988-01-01          | 2022-11-01        |
 | NEWY636EDUH               | All Employees: Education and Health Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | NEWY636EDUHN              | All Employees: Education and Health Services in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | NEWY636FIRE               | All Employees: Financial Activities in New York-Newark-Jersey City, NY-NJ-PA (MSA)                                                     | 1990-01-01          | 2022-11-01        |

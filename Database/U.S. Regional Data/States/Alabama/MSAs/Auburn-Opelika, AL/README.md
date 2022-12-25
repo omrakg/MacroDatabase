@@ -5,10 +5,10 @@
 | ACTLISCOUMM12220          | Housing Inventory: Active Listing Count Month-Over-Month in Auburn-Opelika, AL (CBSA)                               | 2017-07-01          | 2022-11-01        |
 | ACTLISCOUYY12220          | Housing Inventory: Active Listing Count Year-Over-Year in Auburn-Opelika, AL (CBSA)                                 | 2017-07-01          | 2022-11-01        |
 | ATNHPIUS12220Q            | All-Transactions House Price Index for Auburn-Opelika, AL (MSA)                                                     | 1987-10-01          | 2022-07-01        |
-| AUBU201BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Auburn-Opelika, AL (MSA)            | 2000-04-01          | 2022-10-01        |
-| AUBU201BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Auburn-Opelika, AL (MSA)            | 2000-04-01          | 2022-10-01        |
-| AUBU201BPPRIV             | New Private Housing Units Authorized by Building Permits for Auburn-Opelika, AL (MSA)                               | 2000-04-01          | 2022-10-01        |
-| AUBU201BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Auburn-Opelika, AL (MSA)                               | 2000-04-01          | 2022-10-01        |
+| AUBU201BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Auburn-Opelika, AL (MSA)            | 2000-04-01          | 2022-11-01        |
+| AUBU201BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Auburn-Opelika, AL (MSA)            | 2000-04-01          | 2022-11-01        |
+| AUBU201BPPRIV             | New Private Housing Units Authorized by Building Permits for Auburn-Opelika, AL (MSA)                               | 2000-04-01          | 2022-11-01        |
+| AUBU201BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Auburn-Opelika, AL (MSA)                               | 2000-04-01          | 2022-11-01        |
 | AUBU201EDUH               | All Employees: Education and Health Services in Auburn-Opelika, AL (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | AUBU201EDUHN              | All Employees: Education and Health Services in Auburn-Opelika, AL (MSA)                                            | 1990-01-01          | 2022-11-01        |
 | AUBU201FIRE               | All Employees: Financial Activities in Auburn-Opelika, AL (MSA)                                                     | 1990-01-01          | 2022-11-01        |

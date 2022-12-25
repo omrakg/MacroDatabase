@@ -43,7 +43,7 @@
 | Colombia                                             |               919 |
 | Albania                                              |               209 |
 | Uganda                                               |               284 |
-| Fiji                                                 |               245 |
+| Fiji                                                 |                 0 |
 | Korea, Democratic People's Republic of (North Korea) |                43 |
 | Jersey                                               |                 0 |
 | Hungary                                              |               864 |
@@ -52,7 +52,7 @@
 | Somalia                                              |                80 |
 | Poland                                               |               889 |
 | Jamaica                                              |               241 |
-| Saudi Arabia                                         |                 0 |
+| Saudi Arabia                                         |               426 |
 | Gibraltar                                            |                85 |
 | Central African Republic                             |               185 |
 | San Marino                                           |               148 |
@@ -163,7 +163,7 @@
 | Belarus                                              |               202 |
 | Sao Tome and Principe                                |               165 |
 | New Caledonia                                        |               109 |
-| Monaco                                               |               100 |
+| Monaco                                               |                 0 |
 | Cayman Islands                                       |               141 |
 | Burkina Faso                                         |               207 |
 | Saint Lucia                                          |               170 |
@@ -173,7 +173,7 @@
 | Saint Martin, Collectivity of                        |                 6 |
 | Egypt                                                |               249 |
 | Canada                                               |               723 |
-| Sudan                                                |                 0 |
+| Sudan                                                |               211 |
 | Azerbaijan                                           |               230 |
 | Japan                                                |                 5 |
 | Liechtenstein                                        |               102 |
@@ -234,7 +234,7 @@
 | Solomon Islands                                      |               167 |
 | Aland Islands                                        |                 0 |
 | Cameroon                                             |               283 |
-| Tokelau                                              |                85 |
+| Tokelau                                              |                 0 |
 | Kyrgyz Republic                                      |               210 |
 | Israel                                               |               862 |
 | Malta                                                |               403 |
@@ -244,7 +244,7 @@
 | Thailand                                             |               348 |
 | Mali                                                 |               205 |
 | Dominica                                             |               173 |
-| Saint Vincent and the Grenadines                     |                 0 |
+| Saint Vincent and the Grenadines                     |               164 |
 | Ireland                                              |               819 |
 | United Kingdom                                       |                 5 |
 | Estonia                                              |               849 |

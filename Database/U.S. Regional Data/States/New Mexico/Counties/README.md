@@ -4,9 +4,9 @@
 | Lincoln County, NM    |                90 |
 | Los Alamos County, NM |                90 |
 | San Juan County, NM   |               147 |
-| Guadalupe County, NM  |                 0 |
+| Guadalupe County, NM  |                87 |
 | Cibola County, NM     |                89 |
-| Curry County, NM      |               146 |
+| Curry County, NM      |                 0 |
 | Harding County, NM    |                84 |
 | Taos County, NM       |                90 |
 | Socorro County, NM    |                90 |

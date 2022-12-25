@@ -23,7 +23,7 @@
 | Box Elder County, UT  |                90 |
 | Emery County, UT      |                89 |
 | Davis County, UT      |               147 |
-| Sanpete County, UT    |                 0 |
+| Sanpete County, UT    |                89 |
 | Cache County, UT      |               147 |
 | Juab County, UT       |                89 |
 | Grand County, UT      |                90 |

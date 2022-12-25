@@ -28,7 +28,7 @@
 | Orange County, NY       |               146 |
 | Oneida County, NY       |               147 |
 | Putnam County, NY       |               146 |
-| Yates County, NY        |                 0 |
+| Yates County, NY        |                90 |
 | Schenectady County, NY  |               147 |
 | Kings County, NY        |               146 |
 | Albany County, NY       |               147 |
@@ -39,7 +39,7 @@
 | Ulster County, NY       |               147 |
 | Dutchess County, NY     |               147 |
 | Warren County, NY       |               147 |
-| Columbia County, NY     |               146 |
+| Columbia County, NY     |                 0 |
 | Herkimer County, NY     |               146 |
 | Rensselaer County, NY   |               147 |
 | Wayne County, NY        |               147 |

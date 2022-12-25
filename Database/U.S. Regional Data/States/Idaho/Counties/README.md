@@ -27,13 +27,13 @@
 | Clark County, ID      |                86 |
 | Jefferson County, ID  |                90 |
 | Boundary County, ID   |                89 |
-| Idaho County, ID      |                 0 |
+| Idaho County, ID      |                90 |
 | Madison County, ID    |                90 |
 | Cassia County, ID     |                90 |
 | Bear Lake County, ID  |                89 |
 | Elmore County, ID     |                90 |
 | Butte County, ID      |                88 |
-| Franklin County, ID   |                90 |
+| Franklin County, ID   |                 0 |
 | Kootenai County, ID   |               147 |
 | Minidoka County, ID   |                90 |
 | Washington County, ID |                90 |

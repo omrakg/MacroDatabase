@@ -37,7 +37,7 @@
 | Taylor County, KY       |                90 |
 | Greenup County, KY      |                90 |
 | Knox County, KY         |                89 |
-| Trigg County, KY        |                90 |
+| Trigg County, KY        |                 0 |
 | Owsley County, KY       |                86 |
 | Lyon County, KY         |                90 |
 | Jefferson County, KY    |               147 |
@@ -94,7 +94,7 @@
 | Spencer County, KY      |                90 |
 | Carroll County, KY      |                90 |
 | Marshall County, KY     |                90 |
-| Scott County, KY        |                 0 |
+| Scott County, KY        |               146 |
 | Fayette County, KY      |               146 |
 | Warren County, KY       |               147 |
 | McCracken County, KY    |               147 |

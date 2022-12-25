@@ -8,10 +8,10 @@
 | AVELISPRIMM20100          | Housing Inventory: Average Listing Price Month-Over-Month in Dover, DE (CBSA)                      | 2017-07-01          | 2022-11-01        |
 | AVELISPRIYY20100          | Housing Inventory: Average Listing Price Year-Over-Year in Dover, DE (CBSA)                        | 2017-07-01          | 2022-11-01        |
 | DESCMSA20100              | Market Hotness: Demand Score in Dover, DE (CBSA)                                                   | 2017-08-01          | 2022-11-01        |
-| DOVE110BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-10-01        |
-| DOVE110BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-10-01        |
-| DOVE110BPPRIV             | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-10-01        |
-| DOVE110BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-10-01        |
+| DOVE110BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-11-01        |
+| DOVE110BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Dover, DE (MSA)    | 1993-01-01          | 2022-11-01        |
+| DOVE110BPPRIV             | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-11-01        |
+| DOVE110BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Dover, DE (MSA)                       | 1993-01-01          | 2022-11-01        |
 | DOVE110EDUH               | All Employees: Education and Health Services in Dover, DE (MSA)                                    | 1990-01-01          | 2022-11-01        |
 | DOVE110EDUHN              | All Employees: Education and Health Services in Dover, DE (MSA)                                    | 1990-01-01          | 2022-11-01        |
 | DOVE110FIRE               | All Employees: Financial Activities in Dover, DE (MSA)                                             | 1990-01-01          | 2022-11-01        |

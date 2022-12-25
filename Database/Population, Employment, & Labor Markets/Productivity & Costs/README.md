@@ -18,7 +18,7 @@
 | Retail Trade                                                             |                 0 |
 | Business                                                                 |                92 |
 | Finance and Insurance                                                    |               168 |
-| Agriculture, Forestry, Fishing and Hunting                               |               254 |
+| Agriculture, Forestry, Fishing and Hunting                               |                 0 |
 | Wholesale Trade                                                          |                 0 |
 | Mining                                                                   |               324 |
 | Information                                                              |                 0 |

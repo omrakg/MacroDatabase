@@ -55,10 +55,10 @@
 | QGMP40660                 | Total Quantity Indexes for Real GDP for Rome, GA (MSA)                                         | 2001-01-01          | 2021-01-01        |
 | RGMP40660                 | Total Real Gross Domestic Product for Rome, GA (MSA)                                           | 2001-01-01          | 2021-01-01        |
 | RMEPOP                    | Resident Population in Rome, GA (MSA)                                                          | 2000-01-01          | 2021-01-01        |
-| ROME613BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-10-01        |
-| ROME613BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-10-01        |
-| ROME613BPPRIV             | New Private Housing Units Authorized by Building Permits for Rome, GA (MSA)                    | 2004-01-01          | 2022-10-01        |
-| ROME613BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Rome, GA (MSA)                    | 2004-01-01          | 2022-10-01        |
+| ROME613BP1FH              | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-11-01        |
+| ROME613BP1FHSA            | New Private Housing Units Authorized by Building Permits: 1-Unit Structures for Rome, GA (MSA) | 2004-01-01          | 2022-11-01        |
+| ROME613BPPRIV             | New Private Housing Units Authorized by Building Permits for Rome, GA (MSA)                    | 2004-01-01          | 2022-11-01        |
+| ROME613BPPRIVSA           | New Private Housing Units Authorized by Building Permits for Rome, GA (MSA)                    | 2004-01-01          | 2022-11-01        |
 | ROME613EDUH               | All Employees: Education and Health Services in Rome, GA (MSA)                                 | 1990-01-01          | 2022-11-01        |
 | ROME613EDUHN              | All Employees: Education and Health Services in Rome, GA (MSA)                                 | 1990-01-01          | 2022-11-01        |
 | ROME613GOVT               | All Employees: Government in Rome, GA (MSA)                                                    | 1990-01-01          | 2022-11-01        |

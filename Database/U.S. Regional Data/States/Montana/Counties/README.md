@@ -48,7 +48,7 @@
 | Sanders County, MT         |                90 |
 | Custer County, MT          |                90 |
 | Blaine County, MT          |                88 |
-| Deer Lodge County, MT      |                 0 |
+| Deer Lodge County, MT      |                89 |
 | Cascade County, MT         |               147 |
 | Carter County, MT          |                86 |
 | Missoula County, MT        |               147 |
