@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003000000011",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Average Weekly Earnings of All Employees: Manufacturing in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2022-11-01",
@@ -155,8 +155,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "Wisconsin": {
       "id": "SMU55000003000000011A",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Average Weekly Earnings of All Employees: Manufacturing in Wisconsin",
       "observation_start": "2007-01-01",
       "observation_end": "2021-01-01",

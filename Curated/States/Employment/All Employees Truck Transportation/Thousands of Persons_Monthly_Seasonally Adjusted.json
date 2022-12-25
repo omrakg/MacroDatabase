@@ -1,8 +1,8 @@
 {
   "Wyoming": {
     "id": "SMU56000004348400001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Transportation and Utilities: Truck Transportation in Wyoming",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
@@ -20,8 +20,8 @@
   },
   "Tennessee": {
     "id": "SMU47000004348400001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Transportation and Utilities: Truck Transportation in Tennessee",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
@@ -39,8 +39,8 @@
   },
   "Texas": {
     "id": "SMU48000004348400001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Transportation and Utilities: Truck Transportation in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
@@ -58,8 +58,8 @@
   },
   "Utah": {
     "id": "SMU49000004348400001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Transportation and Utilities: Truck Transportation in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
@@ -77,8 +77,8 @@
   },
   "Washington": {
     "id": "SMU53000004348400001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Transportation and Utilities: Truck Transportation in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
@@ -96,8 +96,8 @@
   },
   "Wisconsin": {
     "id": "SMU55000004348400001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Transportation and Utilities: Truck Transportation in Wisconsin",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",

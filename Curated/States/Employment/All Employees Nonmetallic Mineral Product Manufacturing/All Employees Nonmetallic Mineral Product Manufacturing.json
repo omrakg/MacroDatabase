@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000003132700001",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -20,8 +20,8 @@
     },
     "Tennessee": {
       "id": "SMU47000003132700001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Tennessee",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -39,8 +39,8 @@
     },
     "Texas": {
       "id": "SMU48000003132700001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -60,8 +60,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000003132700001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -79,8 +79,8 @@
     },
     "Tennessee": {
       "id": "SMU47000003132700001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Tennessee",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -98,8 +98,8 @@
     },
     "Texas": {
       "id": "SMU48000003132700001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Manufacturing: Durable Goods: Nonmetallic Mineral Product Manufacturing in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",

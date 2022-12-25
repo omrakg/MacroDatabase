@@ -2,8 +2,8 @@
   "Dollars per Week_Monthly_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000000500000030",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Average Weekly Earnings of Production Employees: Total Private in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2022-11-01",
@@ -22,8 +22,8 @@
   "Dollars per Week_Annual_Not Seasonally Adjusted": {
     "West Virginia": {
       "id": "SMU54000000500000030A",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "Average Weekly Earnings of Production Employees: Total Private in West Virginia",
       "observation_start": "2003-01-01",
       "observation_end": "2021-01-01",

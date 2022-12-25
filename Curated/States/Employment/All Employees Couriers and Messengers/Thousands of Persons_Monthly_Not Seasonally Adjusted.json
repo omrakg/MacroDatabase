@@ -1,8 +1,8 @@
 {
   "Utah": {
     "id": "SMU49000004349200001",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Transportation and Utilities: Couriers and Messengers in Utah",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
@@ -19,8 +19,8 @@
   },
   "Texas": {
     "id": "SMU48000004349200001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Transportation and Utilities: Couriers and Messengers in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",

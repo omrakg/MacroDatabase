@@ -1,8 +1,8 @@
 {
   "Idaho": {
     "id": "IDTRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in Idaho",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -20,8 +20,8 @@
   },
   "Alabama": {
     "id": "ALTRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in Alabama",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -39,8 +39,8 @@
   },
   "Alaska": {
     "id": "AKTRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in Alaska",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -58,8 +58,8 @@
   },
   "Arizona": {
     "id": "AZTRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in Arizona",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -96,8 +96,8 @@
   },
   "California": {
     "id": "CATRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in California",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -115,8 +115,8 @@
   },
   "Colorado": {
     "id": "COTRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in Colorado",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -134,8 +134,8 @@
   },
   "Connecticut": {
     "id": "CTTRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in Connecticut",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -153,8 +153,8 @@
   },
   "Delaware": {
     "id": "DETRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in Delaware",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",
@@ -172,8 +172,8 @@
   },
   "Hawaii": {
     "id": "HITRADENGSP",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "Gross Domestic Product: Trade (NAICS 42, 44-45) in Hawaii",
     "observation_start": "1997-01-01",
     "observation_end": "2021-01-01",

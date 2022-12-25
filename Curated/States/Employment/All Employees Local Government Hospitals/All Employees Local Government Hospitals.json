@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000009093262201",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Government: Local Government Hospitals in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -22,8 +22,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Wyoming": {
       "id": "SMU56000009093262201SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Government: Local Government Hospitals in Wyoming",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",

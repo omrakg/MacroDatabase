@@ -2,8 +2,8 @@
   "Thousands of Persons_Monthly_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004244600001",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -39,8 +39,8 @@
     },
     "Tennessee": {
       "id": "SMU47000004244600001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Tennessee",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -58,8 +58,8 @@
     },
     "Texas": {
       "id": "SMU48000004244600001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -79,8 +79,8 @@
   "Thousands of Persons_Annual_Not Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004244600001A",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2021-01-01",
@@ -116,8 +116,8 @@
     },
     "Tennessee": {
       "id": "SMU47000004244600001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Tennessee",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -135,8 +135,8 @@
     },
     "Texas": {
       "id": "SMU48000004244600001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -156,8 +156,8 @@
   "Thousands of Persons_Monthly_Seasonally Adjusted": {
     "Washington": {
       "id": "SMU53000004244600001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Washington",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -194,8 +194,8 @@
     },
     "Tennessee": {
       "id": "SMU47000004244600001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Tennessee",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",
@@ -213,8 +213,8 @@
     },
     "Texas": {
       "id": "SMU48000004244600001SA",
-      "realtime_start": "2022-12-18",
-      "realtime_end": "2022-12-18",
+      "realtime_start": "2022-12-25",
+      "realtime_end": "2022-12-25",
       "title": "All Employees: Retail Trade: Health and Personal Care Stores in Texas",
       "observation_start": "1990-01-01",
       "observation_end": "2022-11-01",

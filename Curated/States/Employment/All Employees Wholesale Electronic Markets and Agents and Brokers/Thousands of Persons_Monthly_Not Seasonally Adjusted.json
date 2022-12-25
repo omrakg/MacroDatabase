@@ -1,8 +1,8 @@
 {
   "Washington": {
     "id": "SMU53000004142500001",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Washington",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
@@ -19,8 +19,8 @@
   },
   "Tennessee": {
     "id": "SMU47000004142500001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Tennessee",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
@@ -38,8 +38,8 @@
   },
   "Texas": {
     "id": "SMU48000004142500001SA",
-    "realtime_start": "2022-12-18",
-    "realtime_end": "2022-12-18",
+    "realtime_start": "2022-12-25",
+    "realtime_end": "2022-12-25",
     "title": "All Employees: Wholesale Trade: Wholesale Electronic Markets and Agents and Brokers in Texas",
     "observation_start": "1990-01-01",
     "observation_end": "2022-11-01",
